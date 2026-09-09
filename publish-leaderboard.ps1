@@ -25,7 +25,10 @@
     Folder within the repo to write the scrubbed JSON into. Default: weeks.
 
 .PARAMETER ArchiveDir
-    Optional local folder for the full CSV (includes SteamID). Kept out of the repo; never published.
+    Optional folder for the full CSV (includes SteamID) + identities.json. Never goes in the PUBLIC
+    repo. If this folder is itself a git clone (e.g. the private plateup-speed-run-leaderboards-private
+    repo), it is also committed and pushed after the scrape so the identity map gets version history.
+    Because these files contain Steam IDs, that repo MUST be private.
 
 .PARAMETER ScraperExe
     Path to the built LeaderboardScraper.exe. Defaults to the Release build next to this script;
@@ -68,6 +71,38 @@ if (Get-Variable -Name PSNativeCommandUseErrorActionPreference -Scope Global -Er
 
 function Write-Step($msg) { Write-Host "[$(Get-Date -Format 'HH:mm:ss')] $msg" }
 
+# Stage everything in a repo and commit + push only when something actually changed (no empty
+# commits). Used for both the public and the private repos.
+function Publish-Repo {
+    param(
+        [Parameter(Mandatory)] [string] $Path,
+        [Parameter(Mandatory)] [string] $RepoBranch,
+        [Parameter(Mandatory)] [string] $Message,
+        [string] $Label = 'repo',
+        [switch] $SkipPush
+    )
+
+    git -C $Path add -A
+    git -C $Path diff --cached --quiet
+    if ($LASTEXITCODE -eq 0) {
+        Write-Step "[$Label] No changes to commit."
+        return
+    }
+
+    Write-Step "[$Label] Committing: $Message"
+    git -C $Path commit -m $Message
+    if ($LASTEXITCODE -ne 0) { throw "[$Label] git commit failed." }
+
+    if ($SkipPush) {
+        Write-Step "[$Label] Committed locally (-NoPush set); skipping push."
+        return
+    }
+
+    Write-Step "[$Label] Pushing to origin/$RepoBranch..."
+    git -C $Path push origin $RepoBranch
+    if ($LASTEXITCODE -ne 0) { throw "[$Label] git push failed." }
+}
+
 # ---- Validate inputs --------------------------------------------------------
 if (-not (Test-Path $ScraperExe)) {
     throw "Scraper exe not found at '$ScraperExe'. Pass -ScraperExe, or build it (dotnet build -c Release)."
@@ -75,14 +110,24 @@ if (-not (Test-Path $ScraperExe)) {
 if (-not (Test-Path (Join-Path $RepoPath '.git'))) {
     throw "'$RepoPath' is not a git repository (no .git folder). Clone the data repo there first."
 }
-
 $publicDir = Join-Path $RepoPath $SubDir
+
+# When the archive folder is itself a git clone (the private repo), we also commit + push it.
+$archiveIsRepo = $ArchiveDir -and (Test-Path (Join-Path $ArchiveDir '.git'))
 
 # ---- 1. Sync the clone ------------------------------------------------------
 Write-Step "Fast-forwarding '$RepoPath' ($Branch)..."
 git -C $RepoPath pull --ff-only origin $Branch
 if ($LASTEXITCODE -ne 0) {
     Write-Warning "git pull --ff-only failed (diverged or offline); continuing with the local state."
+}
+
+if ($archiveIsRepo) {
+    Write-Step "Fast-forwarding '$ArchiveDir' ($Branch)..."
+    git -C $ArchiveDir pull --ff-only origin $Branch
+    if ($LASTEXITCODE -ne 0) {
+        Write-Warning "git pull --ff-only failed for the archive repo; continuing with the local state."
+    }
 }
 
 # ---- 2. Run the scraper -----------------------------------------------------
@@ -106,27 +151,15 @@ if ($LASTEXITCODE -ne 0) {
     throw "Index build failed; not committing."
 }
 
-# ---- 4. Commit only if something changed ------------------------------------
-git -C $RepoPath add -A
-git -C $RepoPath diff --cached --quiet
-if ($LASTEXITCODE -eq 0) {
-    Write-Step "No changes to commit. Done."
-    exit 0
+# ---- 4. Commit + push each repo (only when it actually changed) -------------
+$stamp = [DateTime]::UtcNow.ToString('yyyy-MM-dd HH:mm')
+
+Publish-Repo -Path $RepoPath -RepoBranch $Branch `
+    -Message "leaderboard update: $stamp UTC" -Label 'public' -SkipPush:$NoPush
+
+if ($archiveIsRepo) {
+    Publish-Repo -Path $ArchiveDir -RepoBranch $Branch `
+        -Message "leaderboard backup: $stamp UTC" -Label 'archive' -SkipPush:$NoPush
 }
-
-$msg = "leaderboard update: $([DateTime]::UtcNow.ToString('yyyy-MM-dd HH:mm')) UTC"
-Write-Step "Committing: $msg"
-git -C $RepoPath commit -m $msg
-if ($LASTEXITCODE -ne 0) { throw "git commit failed." }
-
-# ---- 5. Push ----------------------------------------------------------------
-if ($NoPush) {
-    Write-Step "Committed locally (-NoPush set); skipping push."
-    exit 0
-}
-
-Write-Step "Pushing to origin/$Branch..."
-git -C $RepoPath push origin $Branch
-if ($LASTEXITCODE -ne 0) { throw "git push failed." }
 
 Write-Step "Done."
