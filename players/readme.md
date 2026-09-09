@@ -1,56 +1,24 @@
 # Player images
 
-This folder holds optional avatar images shown next to players on the leaderboards
-(as the round face on the podium and beside each name in the list).
+Add your own avatar to show next to your name on the leaderboards. Images are anonymous
+(keyed by a random player ID, never your Steam account) and reviewed by a moderator.
 
-Images are anonymous: they are keyed by a random **player ID**, never by your Steam
-account. Adding one is opt-in and done via a pull request that a moderator reviews and
-approves.
+## Add your image
 
-## Requirements
+1. On the **Leaderboards** page, **right-click your name** and choose **Copy ID** to copy
+   your player ID (e.g. `e5c02f61-4d29-4de0-8a8f-7668c4397d22`).
+2. Save your avatar as `<your-player-id>.png` — it must be a **256 x 256 PNG**.
+3. Sign in to GitHub (create a free account if you don't have one), then in this folder
+   click **Add file → Upload files** and drag your `.png` in.
+4. Set the commit message to `Avatar for <your-player-id>`, choose **Create a new branch
+   and start a pull request**, then click **Propose changes**.
 
-- **Format:** PNG
-- **Size:** exactly **256 x 256** pixels
-- **File name:** `<your-player-id>.png` (see below for how to find your ID)
-- **Location:** this `players/` folder
-
-For example: `players/e5c02f61-4d29-4de0-8a8f-7668c4397d22.png`
-
-## Finding your player ID
-
-1. Open the **Leaderboards** page and find your name on any week you appear in.
-2. **Right-click your name** and choose **Copy ID**.
-3. That copies your player ID (a GUID like `e5c02f61-4d29-4de0-8a8f-7668c4397d22`) to
-   your clipboard — this is the file name to use.
-
-Your ID is stable across weeks, so a single image covers every board you're on.
-
-## Submitting your image (pull request)
-
-The easiest way is straight from the GitHub website — no git knowledge required:
-
-1. Sign in to GitHub. If you don't have an account, create a free one at
-   [github.com](https://github.com) first.
-2. Rename your image file to `<your-player-id>.png` (256 x 256 PNG).
-3. Open this `players/` folder on GitHub and click **Add file → Upload files**.
-4. Drag your `<your-player-id>.png` in.
-5. Under **Commit changes**, set the commit message to `Avatar for <your-player-id>`,
-   choose **Create a new branch and start a pull request**, then **Propose changes** to
-   open the pull request.
-
-A moderator will then review and approve it. Please:
-
-- only add your **own** image, and
-- add just the one file per pull request.
-
-Images that are offensive, misleading, or impersonate another player will be rejected.
-
-Once merged, your avatar will appear on the leaderboards automatically. It may take a
-few minutes to show up.
+Add only your own image, one per pull request. A moderator will review it, and it'll
+appear on the leaderboards a few minutes after merging.
 
 ## Reporting an image
 
-Spotted an image that's offensive, misleading, or impersonating someone — or want your
-own image removed (for example, if someone added you without your permission)? Please
-[open an issue](https://github.com/daemonus/plateup-speed-run-leaderboards/issues)
-identifying the player ID (file name), and a moderator will review and remove it.
+Found one that's offensive, misleading, impersonating someone, or added without
+permission (including your own)?
+[Open an issue](https://github.com/daemonus/plateup-speed-run-leaderboards/issues) with
+the player ID and a moderator will remove it.
