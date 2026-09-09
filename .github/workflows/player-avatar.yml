@@ -24,6 +24,12 @@ jobs:
       - name: Validate submission and stage image
         id: stage
         uses: actions/github-script@v7
+        env:
+          # Issue-attachment URLs (github.com/user-attachments/assets/…) aren't public — GitHub
+          # only 302s to a short-lived signed CDN URL for an authenticated request. So send the
+          # workflow token on the first hop; fetch drops it on the cross-origin redirect to the
+          # signed URL (which carries its own JWT), so that final hop still works.
+          GH_TOKEN: ${{ github.token }}
         with:
           script: |
             const fs = require('fs');
@@ -60,14 +66,17 @@ jobs:
               return;
             }
 
-            const urlMatch = imageSection.match(/\((https:\/\/[^)]+)\)/)
-              || imageSection.match(/(https:\/\/\S+)/);
+            // The attachment can be markdown ![](url), an <img src="url">, or a bare URL. Match the
+            // URL and stop at any quote/bracket/whitespace so we don't capture a trailing " or ).
+            const urlMatch = imageSection.match(/https:\/\/[^\s"'<>)]+/);
             if (!urlMatch) {
               await fail('No image found. Drag-and-drop your PNG into the **Image** field (do not paste a link).');
               return;
             }
 
-            const res = await fetch(urlMatch[1]);
+            const res = await fetch(urlMatch[0], {
+              headers: { Authorization: `token ${process.env.GH_TOKEN}` },
+            });
             if (!res.ok) { await fail(`Could not download the attached image (HTTP ${res.status}).`); return; }
             const buf = Buffer.from(await res.arrayBuffer());
 
@@ -86,6 +95,17 @@ jobs:
 
             fs.mkdirSync('players', { recursive: true });
             fs.writeFileSync(`players/${id}.png`, buf);
+
+            // Set the issue title automatically so the submitter never has to touch it.
+            // Only when it differs, so this update doesn't re-trigger the workflow in a loop.
+            const wantedTitle = `Avatar for ${id}`;
+            if (context.payload.issue.title !== wantedTitle) {
+              await github.rest.issues.update({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: context.issue.number, title: wantedTitle,
+              });
+            }
+
             core.setOutput('ok', 'true');
             core.setOutput('id', id);
 
