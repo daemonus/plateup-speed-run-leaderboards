@@ -1072,31 +1072,51 @@
       "week": 83,
       "start": "2026-08-10",
       "file": "weeks/0000_83.json",
-      "count": 809
+      "count": 809,
+      "dish": "Sundaes",
+      "seed": "7tdjh3xw",
+      "setting": "Alpine",
+      "gameVersion": "1.5.2-7473"
     },
     {
       "week": 84,
       "start": "2026-08-17",
       "file": "weeks/0000_84.json",
-      "count": 637
+      "count": 637,
+      "dish": "Sundaes",
+      "seed": "4yrgbry8",
+      "setting": "City",
+      "gameVersion": "1.5.2-7473"
     },
     {
       "week": 85,
       "start": "2026-08-24",
       "file": "weeks/0000_85.json",
-      "count": 436
+      "count": 436,
+      "dish": "Fish",
+      "seed": "y4tb4bww",
+      "setting": "Alpine",
+      "gameVersion": "1.5.2-7473"
     },
     {
       "week": 86,
       "start": "2026-08-31",
       "file": "weeks/0000_86.json",
-      "count": 544
+      "count": 544,
+      "dish": "Sundaes",
+      "seed": "jwythmvj",
+      "setting": "Alpine",
+      "gameVersion": "1.5.2-7473"
     },
     {
       "week": 87,
       "start": "2026-09-07",
       "file": "weeks/0000_87.json",
-      "count": 63
+      "count": 104,
+      "dish": "Fajitas",
+      "seed": "dvhwybdh",
+      "setting": "City",
+      "gameVersion": "1.5.2-7473"
     }
   ]
 }
