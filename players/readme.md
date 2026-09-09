@@ -46,7 +46,7 @@ A moderator will then review and approve it. Please:
 Images that are offensive, misleading, or impersonate another player will be rejected.
 
 Once merged, your avatar will appear on the leaderboards automatically. It may take a
-few minutes to show up while the CDN picks up the new file.
+few minutes to show up.
 
 ## Reporting an image
 
