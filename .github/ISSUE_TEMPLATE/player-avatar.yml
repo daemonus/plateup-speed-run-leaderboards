@@ -1,0 +1,33 @@
+name: Player avatar
+description: Submit an avatar to show next to your name on the leaderboards
+title: "Avatar for <player-id>"
+labels: ["player-avatar"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Add your avatar to the leaderboards. It must be a **256×256 PNG**, and you should
+        only submit your **own** image. A bot will check it and open a pull request, then a
+        moderator reviews and merges it.
+  - type: input
+    id: player-id
+    attributes:
+      label: Player ID
+      description: On the Leaderboards page, right-click your name and choose **Copy ID**.
+      placeholder: e5c02f61-4d29-4de0-8a8f-7668c4397d22
+    validations:
+      required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Image
+      description: Drag-and-drop your 256×256 PNG here (do not paste an external link).
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is my own image, and it is a 256×256 PNG.
+          required: true

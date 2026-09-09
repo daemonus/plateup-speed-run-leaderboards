@@ -7,18 +7,18 @@ Add your own avatar to show next to your name on the leaderboards. Images are an
 
 1. On the **Leaderboards** page, **right-click your name** and choose **Copy ID** to copy
    your player ID (e.g. `e5c02f61-4d29-4de0-8a8f-7668c4397d22`).
-2. Save your avatar as `<your-player-id>.png` — it must be a **256 x 256 PNG**.
-3. Sign in to GitHub (create a free account if you don't have one), then in this folder
-   click **Add file → Upload files** and drag your `.png` in.
-4. Set the commit message to `Avatar for <your-player-id>`, choose **Create a new branch
-   and start a pull request**, then click **Propose changes**.
+2. [Open a player-avatar issue](https://github.com/daemonus/plateup-speed-run-leaderboards/issues/new?template=player-avatar.yml),
+   paste your player ID, and drag your avatar (a **256×256 PNG**) into the image field.
+3. Submit the issue. A bot checks the image and opens a pull request; a moderator then
+   reviews and merges it.
 
-Add only your own image, one per pull request. A moderator will review it, and it'll
-appear on the leaderboards a few minutes after merging.
+Submit only your own image. Your avatar will appear on the leaderboards a few minutes
+after merging. If anything's wrong with the image, the bot comments on your issue so you
+can edit it and it'll be re-checked automatically.
 
 ## Reporting an image
 
 Found one that's offensive, misleading, impersonating someone, or added without
 permission (including your own)?
-[Open an issue](https://github.com/daemonus/plateup-speed-run-leaderboards/issues) with
-the player ID and a moderator will remove it.
+[Open an issue](https://github.com/daemonus/plateup-speed-run-leaderboards/issues) and a
+moderator will remove it.

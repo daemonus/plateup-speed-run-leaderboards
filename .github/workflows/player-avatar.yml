@@ -1,0 +1,105 @@
+name: Player avatar
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+# Least privilege: commit the staged image, open the PR, and comment/label the issue.
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  avatar:
+    # Only process issues carrying the player-avatar label (applied by the issue form).
+    if: contains(github.event.issue.labels.*.name, 'player-avatar')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Parse + validate the submission and stage players/<id>.png for the PR.
+      # NB: the issue body is untrusted input — it is only ever read via the github context
+      # inside github-script (never interpolated into a shell), so it can't inject commands.
+      - name: Validate submission and stage image
+        id: stage
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = context.payload.issue.body || '';
+
+            // Issue-form fields render as "### <label>\n\n<value>".
+            const section = (label) => {
+              const m = body.match(
+                new RegExp('###\\s*' + label + '\\s*\\n+([\\s\\S]*?)(?:\\n###|$)', 'i'));
+              return m ? m[1].trim() : '';
+            };
+
+            const id = section('Player ID').toLowerCase();
+            const imageSection = section('Image');
+
+            const fail = async (msg) => {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: `❌ ${msg}\n\nEdit this issue to fix it and it will be re-checked automatically.`,
+              });
+              try {
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner, repo: context.repo.repo,
+                  issue_number: context.issue.number, labels: ['avatar-invalid'],
+                });
+              } catch (e) { /* label may not exist; ignore */ }
+              core.setOutput('ok', 'false');
+            };
+
+            // Strict GUID — also prevents any path trickery in the file name.
+            if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/.test(id)) {
+              await fail('That does not look like a valid player ID. On the Leaderboards page, right-click your name and choose **Copy ID**.');
+              return;
+            }
+
+            const urlMatch = imageSection.match(/\((https:\/\/[^)]+)\)/)
+              || imageSection.match(/(https:\/\/\S+)/);
+            if (!urlMatch) {
+              await fail('No image found. Drag-and-drop your PNG into the **Image** field (do not paste a link).');
+              return;
+            }
+
+            const res = await fetch(urlMatch[1]);
+            if (!res.ok) { await fail(`Could not download the attached image (HTTP ${res.status}).`); return; }
+            const buf = Buffer.from(await res.arrayBuffer());
+
+            if (buf.length > 2 * 1024 * 1024) { await fail('Image is too large (max 2 MB).'); return; }
+
+            const sig = [0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a];
+            if (buf.length < 24 || !sig.every((b, i) => buf[i] === b)) {
+              await fail('The image must be a **PNG** file.'); return;
+            }
+            // PNG IHDR: width/height are big-endian uint32 at offsets 16 and 20.
+            const width = buf.readUInt32BE(16);
+            const height = buf.readUInt32BE(20);
+            if (width !== 256 || height !== 256) {
+              await fail(`The image must be exactly **256×256** (yours is ${width}×${height}).`); return;
+            }
+
+            fs.mkdirSync('players', { recursive: true });
+            fs.writeFileSync(`players/${id}.png`, buf);
+            core.setOutput('ok', 'true');
+            core.setOutput('id', id);
+
+      # id is a validated GUID (our own output), so it's safe to use in these fields.
+      - name: Open pull request
+        if: steps.stage.outputs.ok == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: avatar/${{ steps.stage.outputs.id }}
+          add-paths: players/${{ steps.stage.outputs.id }}.png
+          commit-message: Avatar for ${{ steps.stage.outputs.id }}
+          title: Avatar for ${{ steps.stage.outputs.id }}
+          labels: player-avatar
+          body: |
+            Player avatar submitted via #${{ github.event.issue.number }}.
+
+            Closes #${{ github.event.issue.number }}
