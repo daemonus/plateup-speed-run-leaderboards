@@ -34,7 +34,10 @@
       "week": -90,
       "start": "2023-04-17",
       "file": "archive/2023_16.json",
-      "count": 1226
+      "count": 1226,
+      "dish": "Pies",
+      "seed": "wmy4rmr6",
+      "setting": "Alpine"
     },
     {
       "week": -89,
@@ -1112,7 +1115,7 @@
       "week": 87,
       "start": "2026-09-07",
       "file": "weeks/0000_87.json",
-      "count": 149,
+      "count": 161,
       "dish": "Fajitas",
       "seed": "dvhwybdh",
       "setting": "City",
