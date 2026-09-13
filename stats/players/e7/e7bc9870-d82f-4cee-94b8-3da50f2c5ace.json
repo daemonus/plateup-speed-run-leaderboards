@@ -1,0 +1,34 @@
+{
+  "id": "e7bc9870-d82f-4cee-94b8-3da50f2c5ace",
+  "persona": "CodeValue",
+  "names": [
+    "CodeValue"
+  ],
+  "runs": 2,
+  "bestRank": 89,
+  "worstRank": 632,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2455850,
+  "weeksActive": [
+    -94,
+    -59
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 632,
+      "ms": 3009533,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 89,
+      "ms": 2455850,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

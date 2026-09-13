@@ -1,0 +1,42 @@
+{
+  "id": "fe0996c6-3ec3-49d6-911f-9dd47906261b",
+  "persona": "RunninWolves",
+  "names": [
+    "RunninWolves"
+  ],
+  "runs": 3,
+  "bestRank": 146,
+  "worstRank": 1464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2171942,
+  "weeksActive": [
+    -94,
+    -93,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1464,
+      "ms": 4139601,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 589,
+      "ms": 2171942,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 146,
+      "ms": 2282607,
+      "dish": "Fish"
+    }
+  ]
+}

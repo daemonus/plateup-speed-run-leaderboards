@@ -1,0 +1,42 @@
+{
+  "id": "a067e4bb-28cf-413b-b4b5-a1dde4e9c0ce",
+  "persona": "Lyllikki",
+  "names": [
+    "Lyllikki"
+  ],
+  "runs": 3,
+  "bestRank": 117,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2151603,
+  "weeksActive": [
+    -94,
+    -93,
+    48
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 376,
+      "ms": 2679743,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 561,
+      "ms": 2151603,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 117,
+      "ms": 3889623,
+      "dish": "Pizza"
+    }
+  ]
+}

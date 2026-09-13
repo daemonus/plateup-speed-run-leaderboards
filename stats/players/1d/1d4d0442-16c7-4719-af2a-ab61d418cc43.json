@@ -1,0 +1,50 @@
+{
+  "id": "1d4d0442-16c7-4719-af2a-ab61d418cc43",
+  "persona": "Nix",
+  "names": [
+    "Nix"
+  ],
+  "runs": 4,
+  "bestRank": 41,
+  "worstRank": 157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1546669,
+  "weeksActive": [
+    -91,
+    -89,
+    -88,
+    -22
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 57,
+      "ms": 1546669,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 157,
+      "ms": 2047497,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 121,
+      "ms": 2407825,
+      "dish": "Pies"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 41,
+      "ms": 2593953,
+      "dish": "Stir Fry"
+    }
+  ]
+}

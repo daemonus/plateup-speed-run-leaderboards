@@ -1,0 +1,42 @@
+{
+  "id": "45f182cf-67ca-4ada-98ef-bf03ce5a3323",
+  "persona": "xochilososo",
+  "names": [
+    "xochilososo"
+  ],
+  "runs": 3,
+  "bestRank": 109,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1860931,
+  "weeksActive": [
+    -93,
+    -78,
+    21
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 288,
+      "ms": 1860931,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 109,
+      "ms": 2659588,
+      "dish": "Burgers"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 243,
+      "ms": 3294676,
+      "dish": "Burgers"
+    }
+  ]
+}

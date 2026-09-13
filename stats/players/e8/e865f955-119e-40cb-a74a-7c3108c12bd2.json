@@ -1,0 +1,34 @@
+{
+  "id": "e865f955-119e-40cb-a74a-7c3108c12bd2",
+  "persona": "Big Time Jim",
+  "names": [
+    "Big Time Jim"
+  ],
+  "runs": 2,
+  "bestRank": 135,
+  "worstRank": 179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2710104,
+  "weeksActive": [
+    -64,
+    -59
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 179,
+      "ms": 3390904,
+      "dish": "Salad"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 135,
+      "ms": 2710104,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

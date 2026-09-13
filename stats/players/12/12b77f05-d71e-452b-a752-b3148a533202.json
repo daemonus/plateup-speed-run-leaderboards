@@ -1,0 +1,66 @@
+{
+  "id": "12b77f05-d71e-452b-a752-b3148a533202",
+  "persona": "T.J.G",
+  "names": [
+    "T.J.G"
+  ],
+  "runs": 6,
+  "bestRank": 133,
+  "worstRank": 744,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2720994,
+  "weeksActive": [
+    -38,
+    -32,
+    -31,
+    -30,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 744,
+      "ms": 4101454,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 298,
+      "ms": 3066395,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 133,
+      "ms": 2720994,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 398,
+      "ms": 2963608,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 524,
+      "ms": 4379165,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 362,
+      "ms": 4027533,
+      "dish": "Pies"
+    }
+  ]
+}

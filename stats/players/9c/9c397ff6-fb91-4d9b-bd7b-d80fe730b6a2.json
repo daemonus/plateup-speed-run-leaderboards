@@ -1,0 +1,42 @@
+{
+  "id": "9c397ff6-fb91-4d9b-bd7b-d80fe730b6a2",
+  "persona": "TheDragonQueen",
+  "names": [
+    "TheDragonQueen"
+  ],
+  "runs": 3,
+  "bestRank": 571,
+  "worstRank": 1196,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2407714,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1196,
+      "ms": 2587970,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 571,
+      "ms": 2407714,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 701,
+      "ms": 3061633,
+      "dish": "Fish"
+    }
+  ]
+}

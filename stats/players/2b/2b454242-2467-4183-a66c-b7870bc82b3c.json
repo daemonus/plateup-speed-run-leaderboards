@@ -1,0 +1,74 @@
+{
+  "id": "2b454242-2467-4183-a66c-b7870bc82b3c",
+  "persona": "JoeStar",
+  "names": [
+    "JoeStar"
+  ],
+  "runs": 7,
+  "bestRank": 175,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2421632,
+  "weeksActive": [
+    -81,
+    -78,
+    -76,
+    -46,
+    -33,
+    -30,
+    67
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 321,
+      "ms": 4435342,
+      "dish": "Steak"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 366,
+      "ms": 3655287,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 364,
+      "ms": 2910064,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 288,
+      "ms": 4022483,
+      "dish": "Salad"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 395,
+      "ms": 4843515,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 217,
+      "ms": 2421632,
+      "dish": "Turkey"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 175,
+      "ms": 3101718,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

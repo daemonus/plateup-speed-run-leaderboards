@@ -1,0 +1,58 @@
+{
+  "id": "2b69a112-d484-430a-9c2d-ff4165489e40",
+  "persona": "-Yagami",
+  "names": [
+    "-Yagami"
+  ],
+  "runs": 5,
+  "bestRank": 39,
+  "worstRank": 590,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2853426,
+  "weeksActive": [
+    -94,
+    7,
+    40,
+    48,
+    87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 590,
+      "ms": 2960700,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 136,
+      "ms": 2853426,
+      "dish": "Fish"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 99,
+      "ms": 2869526,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 39,
+      "ms": 3007400,
+      "dish": "Pizza"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 47,
+      "ms": 2934058,
+      "dish": "Fajitas"
+    }
+  ]
+}

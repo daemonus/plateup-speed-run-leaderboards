@@ -1,0 +1,42 @@
+{
+  "id": "592db1e7-c182-42a2-afca-756313893d8f",
+  "persona": "Canada",
+  "names": [
+    "Canada"
+  ],
+  "runs": 3,
+  "bestRank": 37,
+  "worstRank": 76,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1922591,
+  "weeksActive": [
+    -52,
+    -51,
+    -49
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 76,
+      "ms": 3251615,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 37,
+      "ms": 1922591,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 76,
+      "ms": 3137400,
+      "dish": "Breakfast"
+    }
+  ]
+}

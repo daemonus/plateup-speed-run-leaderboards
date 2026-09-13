@@ -1,0 +1,42 @@
+{
+  "id": "3f4ef339-d333-4d29-b7e0-6ca4aaf69642",
+  "persona": "JewelChase",
+  "names": [
+    "JewelChase"
+  ],
+  "runs": 3,
+  "bestRank": 155,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3385623,
+  "weeksActive": [
+    24,
+    28,
+    34
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 268,
+      "ms": 3459533,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 297,
+      "ms": 3385623,
+      "dish": "Turkey"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 155,
+      "ms": 3466184,
+      "dish": "Stir Fry"
+    }
+  ]
+}

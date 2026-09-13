@@ -1,0 +1,42 @@
+{
+  "id": "d8ff9258-feb4-488f-b130-be126b53feb0",
+  "persona": "KerriBerry",
+  "names": [
+    "KerriBerry"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2642824,
+  "weeksActive": [
+    -30,
+    61,
+    63
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 289,
+      "ms": 2642824,
+      "dish": "Turkey"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 212,
+      "ms": 3427208,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 464,
+      "ms": 3738569,
+      "dish": "Pizza"
+    }
+  ]
+}

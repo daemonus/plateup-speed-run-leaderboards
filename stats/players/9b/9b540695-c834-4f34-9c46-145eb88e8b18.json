@@ -1,0 +1,42 @@
+{
+  "id": "9b540695-c834-4f34-9c46-145eb88e8b18",
+  "persona": "LargeMIc",
+  "names": [
+    "LargeMIc"
+  ],
+  "runs": 3,
+  "bestRank": 33,
+  "worstRank": 66,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1359722,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 66,
+      "ms": 1456199,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 42,
+      "ms": 1689836,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 33,
+      "ms": 1359722,
+      "dish": "Fish"
+    }
+  ]
+}

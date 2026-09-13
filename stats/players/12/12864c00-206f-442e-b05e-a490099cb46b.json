@@ -1,0 +1,42 @@
+{
+  "id": "12864c00-206f-442e-b05e-a490099cb46b",
+  "persona": "TATAN VII",
+  "names": [
+    "TATAN VII"
+  ],
+  "runs": 3,
+  "bestRank": 213,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4464176,
+  "weeksActive": [
+    -60,
+    -58,
+    -57
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 373,
+      "ms": 4563000,
+      "dish": "Burgers"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 213,
+      "ms": 4464176,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 331,
+      "ms": 6179769,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

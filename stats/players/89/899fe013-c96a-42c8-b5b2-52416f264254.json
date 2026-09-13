@@ -1,0 +1,58 @@
+{
+  "id": "899fe013-c96a-42c8-b5b2-52416f264254",
+  "persona": "frk_nico",
+  "names": [
+    "frk_nico"
+  ],
+  "runs": 5,
+  "bestRank": 405,
+  "worstRank": 529,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3702563,
+  "weeksActive": [
+    -6,
+    -5,
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 529,
+      "ms": 4889932,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 479,
+      "ms": 4906529,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 405,
+      "ms": 3945717,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 496,
+      "ms": 3702563,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 419,
+      "ms": 5127792,
+      "dish": "Pizza"
+    }
+  ]
+}

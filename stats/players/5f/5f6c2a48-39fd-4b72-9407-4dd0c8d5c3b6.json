@@ -1,0 +1,42 @@
+{
+  "id": "5f6c2a48-39fd-4b72-9407-4dd0c8d5c3b6",
+  "persona": "HyperTortise",
+  "names": [
+    "HyperTortise"
+  ],
+  "runs": 3,
+  "bestRank": 109,
+  "worstRank": 198,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2009837,
+  "weeksActive": [
+    -38,
+    -37,
+    -35
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 109,
+      "ms": 2009837,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 198,
+      "ms": 2644339,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 170,
+      "ms": 3989951,
+      "dish": "Breakfast"
+    }
+  ]
+}

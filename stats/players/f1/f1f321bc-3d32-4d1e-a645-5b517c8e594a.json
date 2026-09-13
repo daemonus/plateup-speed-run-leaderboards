@@ -1,0 +1,66 @@
+{
+  "id": "f1f321bc-3d32-4d1e-a645-5b517c8e594a",
+  "persona": "PAUL BLART, MAUL COP",
+  "names": [
+    "PAUL BLART, MAUL COP"
+  ],
+  "runs": 6,
+  "bestRank": 252,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2945968,
+  "weeksActive": [
+    -39,
+    -38,
+    -34,
+    -32,
+    -30,
+    -21
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 547,
+      "ms": 3872563,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 449,
+      "ms": 3057045,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 334,
+      "ms": 3676035,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 252,
+      "ms": 2945968,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 498,
+      "ms": 3212819,
+      "dish": "Turkey"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 473,
+      "ms": 4692581,
+      "dish": "Pizza"
+    }
+  ]
+}

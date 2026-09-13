@@ -1,0 +1,50 @@
+{
+  "id": "2ada8467-c48f-4a98-bbfa-4bc5486c3841",
+  "persona": "Meestika",
+  "names": [
+    "Meestika"
+  ],
+  "runs": 4,
+  "bestRank": 122,
+  "worstRank": 961,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3675196,
+  "weeksActive": [
+    -76,
+    -74,
+    -21,
+    -11
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 961,
+      "ms": 5880080,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 645,
+      "ms": 6972681,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 392,
+      "ms": 4112072,
+      "dish": "Pizza"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 122,
+      "ms": 3675196,
+      "dish": "Burgers"
+    }
+  ]
+}

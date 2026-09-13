@@ -1,0 +1,50 @@
+{
+  "id": "f608f113-7e19-48d6-8536-62414530f691",
+  "persona": "ThePandaRules",
+  "names": [
+    "ThePandaRules"
+  ],
+  "runs": 4,
+  "bestRank": 148,
+  "worstRank": 523,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2705337,
+  "weeksActive": [
+    41,
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 413,
+      "ms": 2705337,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 523,
+      "ms": 3471750,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 302,
+      "ms": 3495002,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 148,
+      "ms": 3874117,
+      "dish": "Salad"
+    }
+  ]
+}

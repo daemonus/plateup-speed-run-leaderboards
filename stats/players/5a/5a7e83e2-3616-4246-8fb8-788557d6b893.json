@@ -1,0 +1,66 @@
+{
+  "id": "5a7e83e2-3616-4246-8fb8-788557d6b893",
+  "persona": "meroteri",
+  "names": [
+    "meroteri"
+  ],
+  "runs": 6,
+  "bestRank": 118,
+  "worstRank": 766,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2568065,
+  "weeksActive": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 766,
+      "ms": 5223808,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 173,
+      "ms": 3145754,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 241,
+      "ms": 2568065,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 209,
+      "ms": 3939322,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 118,
+      "ms": 2919944,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 137,
+      "ms": 3401688,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

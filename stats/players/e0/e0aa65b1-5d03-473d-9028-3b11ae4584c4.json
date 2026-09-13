@@ -1,0 +1,50 @@
+{
+  "id": "e0aa65b1-5d03-473d-9028-3b11ae4584c4",
+  "persona": "Vornabar",
+  "names": [
+    "Vornabar"
+  ],
+  "runs": 4,
+  "bestRank": 319,
+  "worstRank": 866,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2699128,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -83
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 866,
+      "ms": 2775331,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 520,
+      "ms": 2699128,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 449,
+      "ms": 2827512,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 319,
+      "ms": 3325382,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "8a1f2585-bfc7-476d-a808-baab5a09f96f",
+  "persona": "Mordark",
+  "names": [
+    "Mordark"
+  ],
+  "runs": 5,
+  "bestRank": 57,
+  "worstRank": 103,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2225325,
+  "weeksActive": [
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 77,
+      "ms": 2423633,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 57,
+      "ms": 2603114,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 69,
+      "ms": 2883329,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 103,
+      "ms": 2607227,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 99,
+      "ms": 2225325,
+      "dish": "Fish"
+    }
+  ]
+}

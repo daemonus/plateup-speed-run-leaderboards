@@ -1,0 +1,50 @@
+{
+  "id": "fbfe7a92-fbfa-4ba8-9205-7faa4bc1f9b8",
+  "persona": "Threamaker",
+  "names": [
+    "Threamaker"
+  ],
+  "runs": 4,
+  "bestRank": 151,
+  "worstRank": 577,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785710,
+  "weeksActive": [
+    -62,
+    -61,
+    -59,
+    -47
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 577,
+      "ms": 4473324,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 214,
+      "ms": 3141442,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 151,
+      "ms": 2785710,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 326,
+      "ms": 4174958,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

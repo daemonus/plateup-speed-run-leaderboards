@@ -1,0 +1,66 @@
+{
+  "id": "4431506d-5ef2-4663-be69-5a9ce639a2d5",
+  "persona": "mogudrop",
+  "names": [
+    "mogudrop"
+  ],
+  "runs": 6,
+  "bestRank": 240,
+  "worstRank": 761,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3022301,
+  "weeksActive": [
+    -72,
+    -71,
+    -70,
+    -69,
+    -68,
+    56
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 761,
+      "ms": 5313733,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 410,
+      "ms": 3022301,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 240,
+      "ms": 3760370,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 291,
+      "ms": 4634632,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 254,
+      "ms": 4468501,
+      "dish": "Salad"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 618,
+      "ms": 3144816,
+      "dish": "Sundaes"
+    }
+  ]
+}

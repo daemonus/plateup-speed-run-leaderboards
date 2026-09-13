@@ -1,0 +1,42 @@
+{
+  "id": "a6041e18-60d7-442c-9cc7-c0c4f099d796",
+  "persona": "tatyumie",
+  "names": [
+    "tatyumie"
+  ],
+  "runs": 3,
+  "bestRank": 210,
+  "worstRank": 316,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2377280,
+  "weeksActive": [
+    40,
+    41,
+    43
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 210,
+      "ms": 3810274,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 316,
+      "ms": 2377280,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 279,
+      "ms": 2705236,
+      "dish": "Fish"
+    }
+  ]
+}

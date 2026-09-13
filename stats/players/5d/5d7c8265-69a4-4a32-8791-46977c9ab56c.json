@@ -1,0 +1,82 @@
+{
+  "id": "5d7c8265-69a4-4a32-8791-46977c9ab56c",
+  "persona": "Luminescence",
+  "names": [
+    "Luminescence"
+  ],
+  "runs": 8,
+  "bestRank": 3,
+  "worstRank": 32,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 2,
+  "bestMs": 1581240,
+  "weeksActive": [
+    -30,
+    -29,
+    -27,
+    -26,
+    -25,
+    -24,
+    -23,
+    -21
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 20,
+      "ms": 1581240,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 21,
+      "ms": 2379467,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 3,
+      "ms": 1794485,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 8,
+      "ms": 1926102,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 29,
+      "ms": 2098263,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 25,
+      "ms": 2226417,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 31,
+      "ms": 2259860,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 32,
+      "ms": 2078734,
+      "dish": "Pizza"
+    }
+  ]
+}

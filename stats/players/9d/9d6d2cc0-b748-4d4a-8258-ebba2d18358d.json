@@ -1,0 +1,50 @@
+{
+  "id": "9d6d2cc0-b748-4d4a-8258-ebba2d18358d",
+  "persona": "TARGETTHEHIT",
+  "names": [
+    "TARGETTHEHIT"
+  ],
+  "runs": 4,
+  "bestRank": 120,
+  "worstRank": 289,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2650135,
+  "weeksActive": [
+    -4,
+    11,
+    22,
+    24
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 120,
+      "ms": 2650135,
+      "dish": "Pies"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 135,
+      "ms": 3240295,
+      "dish": "Salad"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 277,
+      "ms": 4268116,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 289,
+      "ms": 3577885,
+      "dish": "Pies"
+    }
+  ]
+}

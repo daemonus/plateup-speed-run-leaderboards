@@ -1,0 +1,42 @@
+{
+  "id": "3dd9719a-6539-4a21-8144-9ef7f5c540fb",
+  "persona": "Putito",
+  "names": [
+    "Putito"
+  ],
+  "runs": 3,
+  "bestRank": 407,
+  "worstRank": 2534,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3676166,
+  "weeksActive": [
+    -93,
+    -90,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2534,
+      "ms": 3676166,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1139,
+      "ms": 4393604,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 407,
+      "ms": 3922319,
+      "dish": "Burgers"
+    }
+  ]
+}

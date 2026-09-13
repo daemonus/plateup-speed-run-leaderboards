@@ -1,0 +1,42 @@
+{
+  "id": "332a6ca0-c436-4b83-a2ba-b806e550a9b9",
+  "persona": "Purperise",
+  "names": [
+    "Purperise"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3438316,
+  "weeksActive": [
+    -74,
+    -73,
+    -72
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 263,
+      "ms": 3438316,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 374,
+      "ms": 6739426,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 290,
+      "ms": 3456801,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1850a1b1-3846-4f31-b900-57b52e2689ff",
+  "persona": "opossam 2",
+  "names": [
+    "opossam 2"
+  ],
+  "runs": 3,
+  "bestRank": 204,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2349217,
+  "weeksActive": [
+    41,
+    42,
+    45
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 306,
+      "ms": 2349217,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 224,
+      "ms": 4343156,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 204,
+      "ms": 4941386,
+      "dish": "Salad"
+    }
+  ]
+}

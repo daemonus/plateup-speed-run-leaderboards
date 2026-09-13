@@ -1,0 +1,50 @@
+{
+  "id": "3a186c1f-533e-453e-8348-f1f2b8b49579",
+  "persona": "louisc.malouin",
+  "names": [
+    "louisc.malouin"
+  ],
+  "runs": 4,
+  "bestRank": 84,
+  "worstRank": 207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2154035,
+  "weeksActive": [
+    -64,
+    -63,
+    -59,
+    -15
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 84,
+      "ms": 2662144,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 122,
+      "ms": 2905692,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 207,
+      "ms": 3028825,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 85,
+      "ms": 2154035,
+      "dish": "Fish"
+    }
+  ]
+}

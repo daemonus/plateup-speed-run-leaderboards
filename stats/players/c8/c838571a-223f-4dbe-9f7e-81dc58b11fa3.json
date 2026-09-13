@@ -1,0 +1,42 @@
+{
+  "id": "c838571a-223f-4dbe-9f7e-81dc58b11fa3",
+  "persona": "PoeticRain",
+  "names": [
+    "PoeticRain"
+  ],
+  "runs": 3,
+  "bestRank": 301,
+  "worstRank": 800,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3574447,
+  "weeksActive": [
+    -89,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 800,
+      "ms": 3919053,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 670,
+      "ms": 3574447,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 301,
+      "ms": 6058453,
+      "dish": "Stir Fry"
+    }
+  ]
+}

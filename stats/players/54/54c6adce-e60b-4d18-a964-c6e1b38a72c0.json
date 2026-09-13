@@ -1,0 +1,50 @@
+{
+  "id": "54c6adce-e60b-4d18-a964-c6e1b38a72c0",
+  "persona": "static pump",
+  "names": [
+    "static pump"
+  ],
+  "runs": 4,
+  "bestRank": 500,
+  "worstRank": 1001,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3756639,
+  "weeksActive": [
+    -90,
+    -88,
+    -82,
+    -5
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1001,
+      "ms": 3756639,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 776,
+      "ms": 4929135,
+      "dish": "Pies"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 631,
+      "ms": 3959108,
+      "dish": "Fish"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 500,
+      "ms": 5011093,
+      "dish": "Pizza"
+    }
+  ]
+}

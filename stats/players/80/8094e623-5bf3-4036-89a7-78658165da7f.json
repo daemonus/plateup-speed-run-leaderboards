@@ -1,0 +1,66 @@
+{
+  "id": "8094e623-5bf3-4036-89a7-78658165da7f",
+  "persona": "Mirai",
+  "names": [
+    "Mirai"
+  ],
+  "runs": 6,
+  "bestRank": 79,
+  "worstRank": 241,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2052829,
+  "weeksActive": [
+    -90,
+    -83,
+    -82,
+    -81,
+    -79,
+    -78
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 241,
+      "ms": 2137631,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 193,
+      "ms": 2807952,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 87,
+      "ms": 2052829,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 96,
+      "ms": 2920371,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 79,
+      "ms": 2537474,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 138,
+      "ms": 2770000,
+      "dish": "Burgers"
+    }
+  ]
+}

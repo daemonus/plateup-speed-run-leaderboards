@@ -1,0 +1,34 @@
+{
+  "id": "ff4260f6-d618-4cbc-903e-00bc93ce0403",
+  "persona": "jupiter",
+  "names": [
+    "jupiter"
+  ],
+  "runs": 2,
+  "bestRank": 307,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4089883,
+  "weeksActive": [
+    6,
+    23
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 307,
+      "ms": 4089883,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 545,
+      "ms": 4591948,
+      "dish": "Turkey"
+    }
+  ]
+}

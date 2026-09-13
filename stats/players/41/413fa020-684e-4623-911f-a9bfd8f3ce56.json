@@ -1,0 +1,42 @@
+{
+  "id": "413fa020-684e-4623-911f-a9bfd8f3ce56",
+  "persona": "meowitscat",
+  "names": [
+    "meowitscat"
+  ],
+  "runs": 3,
+  "bestRank": 345,
+  "worstRank": 617,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2671635,
+  "weeksActive": [
+    -75,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 345,
+      "ms": 2671635,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 374,
+      "ms": 4018800,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 617,
+      "ms": 3450246,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "c5e08fea-4e5e-4ee6-96e3-7791f7bb9ca9",
+  "persona": "Pingwen",
+  "names": [
+    "Pingwen"
+  ],
+  "runs": 5,
+  "bestRank": 96,
+  "worstRank": 246,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2372229,
+  "weeksActive": [
+    19,
+    23,
+    24,
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 246,
+      "ms": 3904833,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 163,
+      "ms": 2372229,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 96,
+      "ms": 2521613,
+      "dish": "Pies"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 109,
+      "ms": 2658916,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 146,
+      "ms": 2641894,
+      "dish": "Fish"
+    }
+  ]
+}

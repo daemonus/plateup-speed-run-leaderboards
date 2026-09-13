@@ -1,0 +1,58 @@
+{
+  "id": "0604173d-6f27-413c-af44-5541aa4fbb41",
+  "persona": "honibun_5",
+  "names": [
+    "honibun_5"
+  ],
+  "runs": 5,
+  "bestRank": 188,
+  "worstRank": 1369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2088698,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 913,
+      "ms": 3325467,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1369,
+      "ms": 2711547,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 857,
+      "ms": 2758971,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 208,
+      "ms": 2088698,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 188,
+      "ms": 2644908,
+      "dish": "Pies"
+    }
+  ]
+}

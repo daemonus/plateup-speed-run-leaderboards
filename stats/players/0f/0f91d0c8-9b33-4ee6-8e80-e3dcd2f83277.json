@@ -1,0 +1,42 @@
+{
+  "id": "0f91d0c8-9b33-4ee6-8e80-e3dcd2f83277",
+  "persona": "Wenwen",
+  "names": [
+    "Wenwen"
+  ],
+  "runs": 3,
+  "bestRank": 215,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3477418,
+  "weeksActive": [
+    21,
+    22,
+    24
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 295,
+      "ms": 3589190,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 215,
+      "ms": 3648869,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 273,
+      "ms": 3477418,
+      "dish": "Pies"
+    }
+  ]
+}

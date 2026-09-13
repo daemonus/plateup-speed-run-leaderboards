@@ -1,0 +1,58 @@
+{
+  "id": "3b7a8339-2505-4d1b-8bc8-73014b757f72",
+  "persona": "Kiwi",
+  "names": [
+    "Kiwi"
+  ],
+  "runs": 5,
+  "bestRank": 155,
+  "worstRank": 431,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2045374,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 280,
+      "ms": 2810801,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 431,
+      "ms": 2232906,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 228,
+      "ms": 2121669,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 155,
+      "ms": 2045374,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 205,
+      "ms": 2709531,
+      "dish": "Pies"
+    }
+  ]
+}

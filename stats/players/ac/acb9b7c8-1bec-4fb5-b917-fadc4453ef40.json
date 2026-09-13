@@ -1,0 +1,58 @@
+{
+  "id": "acb9b7c8-1bec-4fb5-b917-fadc4453ef40",
+  "persona": "Dogini",
+  "names": [
+    "Dogini"
+  ],
+  "runs": 5,
+  "bestRank": 57,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1619604,
+  "weeksActive": [
+    8,
+    20,
+    21,
+    51,
+    68
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 127,
+      "ms": 2176094,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 57,
+      "ms": 1619604,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 75,
+      "ms": 2325322,
+      "dish": "Burgers"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 76,
+      "ms": 2895933,
+      "dish": "Salad"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 117,
+      "ms": 2159128,
+      "dish": "Turkey"
+    }
+  ]
+}

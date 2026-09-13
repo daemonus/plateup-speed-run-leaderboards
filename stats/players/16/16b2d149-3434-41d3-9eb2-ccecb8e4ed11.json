@@ -1,0 +1,42 @@
+{
+  "id": "16b2d149-3434-41d3-9eb2-ccecb8e4ed11",
+  "persona": "Professor_PYG",
+  "names": [
+    "Professor_PYG"
+  ],
+  "runs": 3,
+  "bestRank": 54,
+  "worstRank": 122,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1876922,
+  "weeksActive": [
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 54,
+      "ms": 1876922,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 90,
+      "ms": 2482873,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 122,
+      "ms": 3544516,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5ac7cb70-251b-4e23-8061-34274e582b5c",
+  "persona": "unicorn_alu",
+  "names": [
+    "unicorn_alu"
+  ],
+  "runs": 2,
+  "bestRank": 515,
+  "worstRank": 965,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5270948,
+  "weeksActive": [
+    30,
+    64
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 515,
+      "ms": 6221088,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 965,
+      "ms": 5270948,
+      "dish": "Sundaes"
+    }
+  ]
+}

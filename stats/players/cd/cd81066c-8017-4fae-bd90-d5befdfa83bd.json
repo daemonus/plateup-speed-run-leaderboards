@@ -1,0 +1,34 @@
+{
+  "id": "cd81066c-8017-4fae-bd90-d5befdfa83bd",
+  "persona": "Red",
+  "names": [
+    "Red"
+  ],
+  "runs": 2,
+  "bestRank": 1325,
+  "worstRank": 1736,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2677282,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1736,
+      "ms": 5448684,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1325,
+      "ms": 2677282,
+      "dish": "Fish"
+    }
+  ]
+}

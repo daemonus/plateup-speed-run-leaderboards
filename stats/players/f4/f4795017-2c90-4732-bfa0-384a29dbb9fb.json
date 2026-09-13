@@ -1,0 +1,34 @@
+{
+  "id": "f4795017-2c90-4732-bfa0-384a29dbb9fb",
+  "persona": "Pugs",
+  "names": [
+    "Pugs"
+  ],
+  "runs": 2,
+  "bestRank": 107,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3655065,
+  "weeksActive": [
+    21,
+    25
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 308,
+      "ms": 3655065,
+      "dish": "Burgers"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 107,
+      "ms": 3858855,
+      "dish": "Stir Fry"
+    }
+  ]
+}

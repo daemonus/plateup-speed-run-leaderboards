@@ -1,0 +1,42 @@
+{
+  "id": "2b2ae155-7c5c-4a33-b79d-567831ddc5a4",
+  "persona": "LordBlackHole",
+  "names": [
+    "LordBlackHole"
+  ],
+  "runs": 3,
+  "bestRank": 107,
+  "worstRank": 201,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2589932,
+  "weeksActive": [
+    -81,
+    -72,
+    -67
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 201,
+      "ms": 3615182,
+      "dish": "Steak"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 107,
+      "ms": 2589932,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 124,
+      "ms": 3118363,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ee831c89-5920-450e-817b-76b3aa098e62",
+  "persona": "oschmivia",
+  "names": [
+    "oschmivia"
+  ],
+  "runs": 3,
+  "bestRank": 26,
+  "worstRank": 261,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1916518,
+  "weeksActive": [
+    -45,
+    -39,
+    63
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 205,
+      "ms": 3103749,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 261,
+      "ms": 2925454,
+      "dish": "Pizza"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 26,
+      "ms": 1916518,
+      "dish": "Pizza"
+    }
+  ]
+}

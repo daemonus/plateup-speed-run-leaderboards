@@ -1,0 +1,42 @@
+{
+  "id": "4e3e3096-fe34-4f76-bf70-125ab5f16b94",
+  "persona": "\u62FF\u8D77\u94F2\u5B50\u7092\u4FE9\u83DC",
+  "names": [
+    "\u62FF\u8D77\u94F2\u5B50\u7092\u4FE9\u83DC"
+  ],
+  "runs": 3,
+  "bestRank": 373,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4551100,
+  "weeksActive": [
+    -74,
+    -73,
+    -67
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 512,
+      "ms": 4826964,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 373,
+      "ms": 6677022,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 450,
+      "ms": 4551100,
+      "dish": "Breakfast"
+    }
+  ]
+}

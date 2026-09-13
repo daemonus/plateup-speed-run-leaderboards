@@ -1,0 +1,34 @@
+{
+  "id": "9a617545-ecde-42b9-81ae-eccb46077c8d",
+  "persona": "MaybeA",
+  "names": [
+    "MaybeA"
+  ],
+  "runs": 2,
+  "bestRank": 620,
+  "worstRank": 834,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3922863,
+  "weeksActive": [
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 834,
+      "ms": 3922863,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 620,
+      "ms": 5929383,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

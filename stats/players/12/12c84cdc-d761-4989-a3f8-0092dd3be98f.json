@@ -1,0 +1,34 @@
+{
+  "id": "12c84cdc-d761-4989-a3f8-0092dd3be98f",
+  "persona": "Paprika",
+  "names": [
+    "Paprika"
+  ],
+  "runs": 2,
+  "bestRank": 148,
+  "worstRank": 163,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3464149,
+  "weeksActive": [
+    -14,
+    51
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 163,
+      "ms": 4234366,
+      "dish": "Salad"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 148,
+      "ms": 3464149,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "993a73e2-76e2-49a8-99db-d607d088e90e",
+  "persona": "Papa Carlo",
+  "names": [
+    "Papa Carlo"
+  ],
+  "runs": 2,
+  "bestRank": 146,
+  "worstRank": 427,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3825695,
+  "weeksActive": [
+    -8,
+    5
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 146,
+      "ms": 3825695,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 427,
+      "ms": 4805073,
+      "dish": "Breakfast"
+    }
+  ]
+}

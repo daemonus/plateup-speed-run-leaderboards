@@ -1,0 +1,58 @@
+{
+  "id": "8dd762f4-804b-446a-aff7-e8062afdc316",
+  "persona": "lmb2418",
+  "names": [
+    "lmb2418"
+  ],
+  "runs": 5,
+  "bestRank": 553,
+  "worstRank": 824,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3295508,
+  "weeksActive": [
+    -90,
+    -89,
+    -88,
+    -86,
+    -82
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 824,
+      "ms": 3295508,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 643,
+      "ms": 3325279,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 633,
+      "ms": 4265871,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 767,
+      "ms": 4016395,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 553,
+      "ms": 3648771,
+      "dish": "Fish"
+    }
+  ]
+}

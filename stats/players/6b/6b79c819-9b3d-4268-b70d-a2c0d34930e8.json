@@ -1,0 +1,42 @@
+{
+  "id": "6b79c819-9b3d-4268-b70d-a2c0d34930e8",
+  "persona": "Pencat",
+  "names": [
+    "Pencat"
+  ],
+  "runs": 3,
+  "bestRank": 49,
+  "worstRank": 165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2417483,
+  "weeksActive": [
+    11,
+    22,
+    31
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 92,
+      "ms": 2890754,
+      "dish": "Salad"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 49,
+      "ms": 2417483,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 165,
+      "ms": 2731136,
+      "dish": "Fish"
+    }
+  ]
+}

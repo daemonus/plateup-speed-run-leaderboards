@@ -1,0 +1,42 @@
+{
+  "id": "4ec4f5b0-c304-4a7a-bbfe-213a9a20d70b",
+  "persona": "kundhu",
+  "names": [
+    "kundhu"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2292473,
+  "weeksActive": [
+    81,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 100,
+      "ms": 2912070,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 126,
+      "ms": 2616323,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 294,
+      "ms": 2292473,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "27a17500-985b-4501-8638-ef4debfb6f40",
+  "persona": "deadradish",
+  "names": [
+    "deadradish"
+  ],
+  "runs": 5,
+  "bestRank": 104,
+  "worstRank": 474,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2730949,
+  "weeksActive": [
+    38,
+    40,
+    44,
+    65,
+    81
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 474,
+      "ms": 4557425,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 266,
+      "ms": 4758214,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 404,
+      "ms": 4156083,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 104,
+      "ms": 2730949,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 215,
+      "ms": 3762608,
+      "dish": "Pizza"
+    }
+  ]
+}

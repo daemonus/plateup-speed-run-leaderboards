@@ -1,0 +1,50 @@
+{
+  "id": "0b9c5e0e-1f46-4886-9f0d-4bef05a6a043",
+  "persona": "Alishia",
+  "names": [
+    "Alishia"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3518889,
+  "weeksActive": [
+    3,
+    6,
+    51,
+    55
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 453,
+      "ms": 3692884,
+      "dish": "Fish"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 384,
+      "ms": 4879187,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 271,
+      "ms": 4416869,
+      "dish": "Salad"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 157,
+      "ms": 3518889,
+      "dish": "Stir Fry"
+    }
+  ]
+}

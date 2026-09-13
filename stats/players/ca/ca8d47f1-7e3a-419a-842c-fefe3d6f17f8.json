@@ -1,0 +1,42 @@
+{
+  "id": "ca8d47f1-7e3a-419a-842c-fefe3d6f17f8",
+  "persona": "AlphaFrogx",
+  "names": [
+    "AlphaFrogx"
+  ],
+  "runs": 3,
+  "bestRank": 215,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2820180,
+  "weeksActive": [
+    62,
+    66,
+    68
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 530,
+      "ms": 4744166,
+      "dish": "Pies"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 215,
+      "ms": 2977303,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 248,
+      "ms": 2820180,
+      "dish": "Turkey"
+    }
+  ]
+}

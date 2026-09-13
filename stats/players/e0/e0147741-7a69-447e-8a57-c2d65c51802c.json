@@ -1,0 +1,58 @@
+{
+  "id": "e0147741-7a69-447e-8a57-c2d65c51802c",
+  "persona": "Tysonus",
+  "names": [
+    "Tysonus"
+  ],
+  "runs": 5,
+  "bestRank": 102,
+  "worstRank": 249,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2417765,
+  "weeksActive": [
+    -60,
+    -59,
+    -56,
+    -19,
+    -13
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 249,
+      "ms": 3757321,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 187,
+      "ms": 2951196,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 102,
+      "ms": 2417765,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 108,
+      "ms": 2710752,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 180,
+      "ms": 3289054,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "12133867-545e-4401-ae82-524fedf8ac11",
+  "persona": "Lee",
+  "names": [
+    "Lee"
+  ],
+  "runs": 3,
+  "bestRank": 122,
+  "worstRank": 497,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3030793,
+  "weeksActive": [
+    -86,
+    -85,
+    -84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 497,
+      "ms": 3074001,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 122,
+      "ms": 3030793,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 389,
+      "ms": 3177310,
+      "dish": "Fish"
+    }
+  ]
+}

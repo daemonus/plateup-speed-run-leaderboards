@@ -1,0 +1,34 @@
+{
+  "id": "b533fccb-64eb-4983-8cb3-0d416081bca9",
+  "persona": "wetneq",
+  "names": [
+    "wetneq"
+  ],
+  "runs": 2,
+  "bestRank": 786,
+  "worstRank": 846,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4326571,
+  "weeksActive": [
+    13,
+    20
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 786,
+      "ms": 5712827,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 846,
+      "ms": 4326571,
+      "dish": "Turkey"
+    }
+  ]
+}

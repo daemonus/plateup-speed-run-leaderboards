@@ -1,0 +1,42 @@
+{
+  "id": "e0c54710-6e0b-481b-97c1-0eee3fd03733",
+  "persona": "Telldran",
+  "names": [
+    "Telldran"
+  ],
+  "runs": 3,
+  "bestRank": 117,
+  "worstRank": 276,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3557604,
+  "weeksActive": [
+    -55,
+    -54,
+    -53
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 276,
+      "ms": 3557604,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 117,
+      "ms": 3960781,
+      "dish": "Salad"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 239,
+      "ms": 4049919,
+      "dish": "Breakfast"
+    }
+  ]
+}

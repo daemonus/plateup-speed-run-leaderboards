@@ -1,0 +1,58 @@
+{
+  "id": "e2c08386-824b-46bd-8633-5db3afe8e2a2",
+  "persona": "Kitty_Kat",
+  "names": [
+    "Kitty_Kat"
+  ],
+  "runs": 5,
+  "bestRank": 308,
+  "worstRank": 806,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4552449,
+  "weeksActive": [
+    -8,
+    0,
+    2,
+    5,
+    13
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 399,
+      "ms": 6041762,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 308,
+      "ms": 4552449,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 411,
+      "ms": 5073067,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 533,
+      "ms": 6304909,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 806,
+      "ms": 6889541,
+      "dish": "Turkey"
+    }
+  ]
+}

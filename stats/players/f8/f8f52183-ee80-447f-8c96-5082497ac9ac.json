@@ -1,0 +1,34 @@
+{
+  "id": "f8f52183-ee80-447f-8c96-5082497ac9ac",
+  "persona": "\u042D\u0441\u043A\u043E\u0440\u0442\u0438\u043A69",
+  "names": [
+    "\u042D\u0441\u043A\u043E\u0440\u0442\u0438\u043A69"
+  ],
+  "runs": 2,
+  "bestRank": 230,
+  "worstRank": 282,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4293021,
+  "weeksActive": [
+    -53,
+    -41
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 282,
+      "ms": 4293021,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 230,
+      "ms": 4346405,
+      "dish": "Stir Fry"
+    }
+  ]
+}

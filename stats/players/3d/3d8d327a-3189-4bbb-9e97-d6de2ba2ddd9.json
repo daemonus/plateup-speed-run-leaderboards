@@ -1,0 +1,58 @@
+{
+  "id": "3d8d327a-3189-4bbb-9e97-d6de2ba2ddd9",
+  "persona": "Duis",
+  "names": [
+    "Duis"
+  ],
+  "runs": 5,
+  "bestRank": 57,
+  "worstRank": 139,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2418547,
+  "weeksActive": [
+    -79,
+    -49,
+    -48,
+    -47,
+    85
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 139,
+      "ms": 2890558,
+      "dish": "Pies"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 119,
+      "ms": 3548906,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 70,
+      "ms": 3349145,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 57,
+      "ms": 2680528,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 106,
+      "ms": 2418547,
+      "dish": "Fish"
+    }
+  ]
+}

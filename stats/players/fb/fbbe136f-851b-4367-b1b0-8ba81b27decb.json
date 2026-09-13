@@ -1,0 +1,42 @@
+{
+  "id": "fbbe136f-851b-4367-b1b0-8ba81b27decb",
+  "persona": "Lithium",
+  "names": [
+    "Lithium"
+  ],
+  "runs": 3,
+  "bestRank": 302,
+  "worstRank": 478,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2296738,
+  "weeksActive": [
+    -92,
+    -91,
+    -75
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 407,
+      "ms": 3166530,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 478,
+      "ms": 2296738,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 302,
+      "ms": 2543193,
+      "dish": "Fish"
+    }
+  ]
+}

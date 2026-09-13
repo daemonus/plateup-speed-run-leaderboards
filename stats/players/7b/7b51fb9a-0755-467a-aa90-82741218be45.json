@@ -1,0 +1,34 @@
+{
+  "id": "7b51fb9a-0755-467a-aa90-82741218be45",
+  "persona": "Hans",
+  "names": [
+    "Hans"
+  ],
+  "runs": 2,
+  "bestRank": 368,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3863375,
+  "weeksActive": [
+    -45,
+    -25
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 368,
+      "ms": 3863375,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 572,
+      "ms": 4956883,
+      "dish": "Breakfast"
+    }
+  ]
+}

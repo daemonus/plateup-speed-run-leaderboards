@@ -1,0 +1,50 @@
+{
+  "id": "28a697b5-281a-44da-9609-777c2ea31f8c",
+  "persona": "bdmarler",
+  "names": [
+    "bdmarler"
+  ],
+  "runs": 4,
+  "bestRank": 407,
+  "worstRank": 929,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3511555,
+  "weeksActive": [
+    -76,
+    71,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 929,
+      "ms": 5003315,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 407,
+      "ms": 4688187,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 516,
+      "ms": 3511555,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 439,
+      "ms": 3655811,
+      "dish": "Sundaes"
+    }
+  ]
+}

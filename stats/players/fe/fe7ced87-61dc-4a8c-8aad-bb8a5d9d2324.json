@@ -1,0 +1,34 @@
+{
+  "id": "fe7ced87-61dc-4a8c-8aad-bb8a5d9d2324",
+  "persona": "Taube",
+  "names": [
+    "Taube"
+  ],
+  "runs": 2,
+  "bestRank": 253,
+  "worstRank": 370,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2113338,
+  "weeksActive": [
+    62,
+    64
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 370,
+      "ms": 3758665,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 253,
+      "ms": 2113338,
+      "dish": "Sundaes"
+    }
+  ]
+}

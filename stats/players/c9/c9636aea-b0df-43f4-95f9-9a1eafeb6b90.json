@@ -1,0 +1,42 @@
+{
+  "id": "c9636aea-b0df-43f4-95f9-9a1eafeb6b90",
+  "persona": "my name",
+  "names": [
+    "my name"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 161,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1915860,
+  "weeksActive": [
+    20,
+    67,
+    68
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 122,
+      "ms": 1915860,
+      "dish": "Turkey"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 100,
+      "ms": 2602408,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 161,
+      "ms": 2368960,
+      "dish": "Turkey"
+    }
+  ]
+}

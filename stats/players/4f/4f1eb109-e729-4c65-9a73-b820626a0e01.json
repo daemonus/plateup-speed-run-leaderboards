@@ -1,0 +1,34 @@
+{
+  "id": "4f1eb109-e729-4c65-9a73-b820626a0e01",
+  "persona": "LBF38",
+  "names": [
+    "LBF38"
+  ],
+  "runs": 2,
+  "bestRank": 347,
+  "worstRank": 682,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5056755,
+  "weeksActive": [
+    -57,
+    15
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 347,
+      "ms": 11675860,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 682,
+      "ms": 5056755,
+      "dish": "Turkey"
+    }
+  ]
+}

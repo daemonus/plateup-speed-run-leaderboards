@@ -1,0 +1,42 @@
+{
+  "id": "c3a7bfe3-d562-42be-972d-c6eac094e2dd",
+  "persona": "dark330700",
+  "names": [
+    "dark330700"
+  ],
+  "runs": 3,
+  "bestRank": 183,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4079399,
+  "weeksActive": [
+    -56,
+    -41,
+    -22
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 425,
+      "ms": 4184314,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 183,
+      "ms": 4079399,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 248,
+      "ms": 5258512,
+      "dish": "Stir Fry"
+    }
+  ]
+}

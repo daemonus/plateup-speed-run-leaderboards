@@ -1,0 +1,58 @@
+{
+  "id": "28ca6435-94c9-4628-b997-3aa6a5250ab6",
+  "persona": "Lightluci1",
+  "names": [
+    "Lightluci1"
+  ],
+  "runs": 5,
+  "bestRank": 30,
+  "worstRank": 153,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1594432,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 66,
+      "ms": 1932876,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 153,
+      "ms": 1679031,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 30,
+      "ms": 1594432,
+      "dish": "Steak"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 112,
+      "ms": 2373333,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 91,
+      "ms": 2416192,
+      "dish": "Stir Fry"
+    }
+  ]
+}

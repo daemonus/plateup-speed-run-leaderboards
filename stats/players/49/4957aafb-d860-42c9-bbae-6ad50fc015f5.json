@@ -1,0 +1,34 @@
+{
+  "id": "4957aafb-d860-42c9-bbae-6ad50fc015f5",
+  "persona": "Emmy",
+  "names": [
+    "Emmy"
+  ],
+  "runs": 2,
+  "bestRank": 276,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4224507,
+  "weeksActive": [
+    38,
+    55
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 439,
+      "ms": 4224507,
+      "dish": "Pies"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 276,
+      "ms": 4507663,
+      "dish": "Stir Fry"
+    }
+  ]
+}

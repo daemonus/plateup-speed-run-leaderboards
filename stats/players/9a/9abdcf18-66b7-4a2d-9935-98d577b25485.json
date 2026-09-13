@@ -1,0 +1,50 @@
+{
+  "id": "9abdcf18-66b7-4a2d-9935-98d577b25485",
+  "persona": "pivi",
+  "names": [
+    "pivi"
+  ],
+  "runs": 4,
+  "bestRank": 160,
+  "worstRank": 426,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3088786,
+  "weeksActive": [
+    14,
+    68,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 160,
+      "ms": 3088786,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 426,
+      "ms": 3731073,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 183,
+      "ms": 3475399,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 206,
+      "ms": 3633752,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

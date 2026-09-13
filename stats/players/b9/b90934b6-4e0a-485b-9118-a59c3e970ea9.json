@@ -1,0 +1,42 @@
+{
+  "id": "b90934b6-4e0a-485b-9118-a59c3e970ea9",
+  "persona": "Anatiel",
+  "names": [
+    "Anatiel"
+  ],
+  "runs": 3,
+  "bestRank": 37,
+  "worstRank": 57,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2786151,
+  "weeksActive": [
+    -9,
+    -8,
+    -7
+  ],
+  "history": [
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 56,
+      "ms": 3287345,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 57,
+      "ms": 2970545,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 37,
+      "ms": 2786151,
+      "dish": "Breakfast"
+    }
+  ]
+}

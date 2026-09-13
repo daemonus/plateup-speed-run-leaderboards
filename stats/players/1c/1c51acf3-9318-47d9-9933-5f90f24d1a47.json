@@ -1,0 +1,42 @@
+{
+  "id": "1c51acf3-9318-47d9-9933-5f90f24d1a47",
+  "persona": "agentvi",
+  "names": [
+    "agentvi"
+  ],
+  "runs": 3,
+  "bestRank": 23,
+  "worstRank": 26,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1297852,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 26,
+      "ms": 1504578,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 23,
+      "ms": 1297852,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 26,
+      "ms": 1319856,
+      "dish": "Fish"
+    }
+  ]
+}

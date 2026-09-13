@@ -1,0 +1,34 @@
+{
+  "id": "c52297dc-5998-4923-94ad-90b311a5c3cb",
+  "persona": "MURU",
+  "names": [
+    "MURU"
+  ],
+  "runs": 2,
+  "bestRank": 25,
+  "worstRank": 43,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2316856,
+  "weeksActive": [
+    -78,
+    -68
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 43,
+      "ms": 2316856,
+      "dish": "Burgers"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 25,
+      "ms": 2320614,
+      "dish": "Salad"
+    }
+  ]
+}

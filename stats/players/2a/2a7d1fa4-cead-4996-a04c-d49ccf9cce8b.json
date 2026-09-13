@@ -1,0 +1,66 @@
+{
+  "id": "2a7d1fa4-cead-4996-a04c-d49ccf9cce8b",
+  "persona": "Stacey",
+  "names": [
+    "Stacey"
+  ],
+  "runs": 6,
+  "bestRank": 294,
+  "worstRank": 2642,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3858844,
+  "weeksActive": [
+    -93,
+    -89,
+    -88,
+    -86,
+    -85,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2642,
+      "ms": 3858844,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 959,
+      "ms": 4914993,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 897,
+      "ms": 6417752,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 852,
+      "ms": 6226302,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 294,
+      "ms": 5621890,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 659,
+      "ms": 4732302,
+      "dish": "Fish"
+    }
+  ]
+}

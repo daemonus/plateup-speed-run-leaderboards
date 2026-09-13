@@ -1,0 +1,42 @@
+{
+  "id": "5a2946bd-7675-4944-b342-6b6cc3255bf8",
+  "persona": "Trap Monster",
+  "names": [
+    "Trap Monster"
+  ],
+  "runs": 3,
+  "bestRank": 34,
+  "worstRank": 66,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1373094,
+  "weeksActive": [
+    -93,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 42,
+      "ms": 1373094,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 66,
+      "ms": 1992039,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 34,
+      "ms": 2540258,
+      "dish": "Breakfast"
+    }
+  ]
+}

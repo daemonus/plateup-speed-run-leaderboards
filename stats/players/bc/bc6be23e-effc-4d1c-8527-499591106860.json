@@ -1,0 +1,42 @@
+{
+  "id": "bc6be23e-effc-4d1c-8527-499591106860",
+  "persona": "AZakOfAllTrades",
+  "names": [
+    "AZakOfAllTrades"
+  ],
+  "runs": 3,
+  "bestRank": 464,
+  "worstRank": 678,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3595324,
+  "weeksActive": [
+    -88,
+    -86,
+    -45
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 678,
+      "ms": 4438396,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 673,
+      "ms": 3595324,
+      "dish": "Fish"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 464,
+      "ms": 4475366,
+      "dish": "Breakfast"
+    }
+  ]
+}

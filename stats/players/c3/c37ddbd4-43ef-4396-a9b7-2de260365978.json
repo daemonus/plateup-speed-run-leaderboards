@@ -1,0 +1,42 @@
+{
+  "id": "c37ddbd4-43ef-4396-a9b7-2de260365978",
+  "persona": "Chica Miope 0.5",
+  "names": [
+    "Chica Miope 0.5"
+  ],
+  "runs": 3,
+  "bestRank": 230,
+  "worstRank": 354,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3400055,
+  "weeksActive": [
+    70,
+    71,
+    73
+  ],
+  "history": [
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 354,
+      "ms": 6314777,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 230,
+      "ms": 3400055,
+      "dish": "Pizza"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 255,
+      "ms": 4327133,
+      "dish": "Burgers"
+    }
+  ]
+}

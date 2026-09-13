@@ -1,0 +1,34 @@
+{
+  "id": "26d2ac23-9569-447d-b87c-ceceda2975cd",
+  "persona": "anna",
+  "names": [
+    "anna"
+  ],
+  "runs": 2,
+  "bestRank": 89,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2971367,
+  "weeksActive": [
+    -76,
+    -70
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 386,
+      "ms": 2971367,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 89,
+      "ms": 3004657,
+      "dish": "Breakfast"
+    }
+  ]
+}

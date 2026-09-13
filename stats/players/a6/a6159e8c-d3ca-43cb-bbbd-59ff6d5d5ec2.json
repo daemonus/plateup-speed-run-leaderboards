@@ -1,0 +1,34 @@
+{
+  "id": "a6159e8c-d3ca-43cb-bbbd-59ff6d5d5ec2",
+  "persona": "Koda",
+  "names": [
+    "Koda"
+  ],
+  "runs": 2,
+  "bestRank": 408,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3476748,
+  "weeksActive": [
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 479,
+      "ms": 3476748,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 408,
+      "ms": 3585346,
+      "dish": "Pies"
+    }
+  ]
+}

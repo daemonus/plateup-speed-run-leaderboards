@@ -1,0 +1,34 @@
+{
+  "id": "ea5848e7-f48e-4e29-b54d-fa8319c78828",
+  "persona": "sernap",
+  "names": [
+    "sernap"
+  ],
+  "runs": 2,
+  "bestRank": 415,
+  "worstRank": 492,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4867514,
+  "weeksActive": [
+    -4,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 492,
+      "ms": 4867514,
+      "dish": "Pies"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 415,
+      "ms": 4980806,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4894ced0-5e3b-4896-8ec3-4b05e4f948b6",
+  "persona": "Curlyspark",
+  "names": [
+    "Curlyspark"
+  ],
+  "runs": 2,
+  "bestRank": 160,
+  "worstRank": 230,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2541532,
+  "weeksActive": [
+    12,
+    21
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 230,
+      "ms": 2541532,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 160,
+      "ms": 2838675,
+      "dish": "Burgers"
+    }
+  ]
+}

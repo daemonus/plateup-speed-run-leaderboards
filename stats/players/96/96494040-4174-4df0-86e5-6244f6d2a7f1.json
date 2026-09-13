@@ -1,0 +1,42 @@
+{
+  "id": "96494040-4174-4df0-86e5-6244f6d2a7f1",
+  "persona": "Dumbhounded",
+  "names": [
+    "Dumbhounded"
+  ],
+  "runs": 3,
+  "bestRank": 198,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2856562,
+  "weeksActive": [
+    -18,
+    -16,
+    -6
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 349,
+      "ms": 3693319,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 198,
+      "ms": 2856562,
+      "dish": "Pies"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 223,
+      "ms": 3648283,
+      "dish": "Breakfast"
+    }
+  ]
+}

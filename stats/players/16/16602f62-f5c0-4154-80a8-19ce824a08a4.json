@@ -1,0 +1,42 @@
+{
+  "id": "16602f62-f5c0-4154-80a8-19ce824a08a4",
+  "persona": "amlette",
+  "names": [
+    "amlette"
+  ],
+  "runs": 3,
+  "bestRank": 122,
+  "worstRank": 150,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2739127,
+  "weeksActive": [
+    80,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 131,
+      "ms": 2875516,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 122,
+      "ms": 3038861,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 150,
+      "ms": 2739127,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "84ed05b6-72be-4988-9d14-0865778d828d",
+  "persona": "Boop",
+  "names": [
+    "Boop"
+  ],
+  "runs": 4,
+  "bestRank": 180,
+  "worstRank": 490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2770329,
+  "weeksActive": [
+    -76,
+    -72,
+    26,
+    63
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 490,
+      "ms": 3224188,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 310,
+      "ms": 3535827,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 189,
+      "ms": 3370693,
+      "dish": "Pizza"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 180,
+      "ms": 2770329,
+      "dish": "Pizza"
+    }
+  ]
+}

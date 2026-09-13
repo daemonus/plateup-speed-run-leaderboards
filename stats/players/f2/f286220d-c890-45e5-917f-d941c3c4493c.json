@@ -1,0 +1,42 @@
+{
+  "id": "f286220d-c890-45e5-917f-d941c3c4493c",
+  "persona": "ange",
+  "names": [
+    "ange"
+  ],
+  "runs": 3,
+  "bestRank": 58,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2704057,
+  "weeksActive": [
+    -84,
+    -67,
+    -18
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 355,
+      "ms": 3042998,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 58,
+      "ms": 2704057,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 132,
+      "ms": 2866001,
+      "dish": "Fish"
+    }
+  ]
+}

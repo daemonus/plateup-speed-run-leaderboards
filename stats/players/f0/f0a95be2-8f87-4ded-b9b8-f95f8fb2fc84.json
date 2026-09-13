@@ -1,0 +1,74 @@
+{
+  "id": "f0a95be2-8f87-4ded-b9b8-f95f8fb2fc84",
+  "persona": "s_leen",
+  "names": [
+    "s_leen"
+  ],
+  "runs": 7,
+  "bestRank": 119,
+  "worstRank": 327,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1753747,
+  "weeksActive": [
+    47,
+    50,
+    51,
+    52,
+    56,
+    59,
+    64
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 149,
+      "ms": 3227759,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 119,
+      "ms": 3763793,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 290,
+      "ms": 4716829,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 170,
+      "ms": 2534037,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 157,
+      "ms": 1758637,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 327,
+      "ms": 4001015,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 134,
+      "ms": 1753747,
+      "dish": "Sundaes"
+    }
+  ]
+}

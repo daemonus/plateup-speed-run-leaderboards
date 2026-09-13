@@ -1,0 +1,50 @@
+{
+  "id": "6851203c-8483-432f-84a9-05d252435311",
+  "persona": "\uC720\uD76C\uC655",
+  "names": [
+    "\uC720\uD76C\uC655"
+  ],
+  "runs": 4,
+  "bestRank": 329,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3481166,
+  "weeksActive": [
+    -55,
+    -45,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 478,
+      "ms": 4707675,
+      "dish": "Pizza"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 496,
+      "ms": 4687006,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 329,
+      "ms": 4368098,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 375,
+      "ms": 3481166,
+      "dish": "Fish"
+    }
+  ]
+}

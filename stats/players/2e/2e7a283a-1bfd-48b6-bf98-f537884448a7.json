@@ -1,0 +1,50 @@
+{
+  "id": "2e7a283a-1bfd-48b6-bf98-f537884448a7",
+  "persona": "siege",
+  "names": [
+    "siege"
+  ],
+  "runs": 4,
+  "bestRank": 307,
+  "worstRank": 1394,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2724979,
+  "weeksActive": [
+    -93,
+    -75,
+    -74,
+    -72
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1394,
+      "ms": 2724979,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 473,
+      "ms": 2971153,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 519,
+      "ms": 4861572,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 307,
+      "ms": 3524349,
+      "dish": "Pies"
+    }
+  ]
+}

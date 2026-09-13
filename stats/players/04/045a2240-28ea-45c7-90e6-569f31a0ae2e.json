@@ -1,0 +1,42 @@
+{
+  "id": "045a2240-28ea-45c7-90e6-569f31a0ae2e",
+  "persona": "LEX_EXO",
+  "names": [
+    "LEX_EXO"
+  ],
+  "runs": 3,
+  "bestRank": 281,
+  "worstRank": 443,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4004063,
+  "weeksActive": [
+    -27,
+    -26,
+    -18
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 281,
+      "ms": 5277623,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 370,
+      "ms": 4900463,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 443,
+      "ms": 4004063,
+      "dish": "Fish"
+    }
+  ]
+}

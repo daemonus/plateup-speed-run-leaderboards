@@ -1,0 +1,34 @@
+{
+  "id": "10fc29ec-d306-44c5-9c65-d51c12e59c47",
+  "persona": "mosao",
+  "names": [
+    "mosao"
+  ],
+  "runs": 2,
+  "bestRank": 200,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2227971,
+  "weeksActive": [
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 297,
+      "ms": 4239800,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 200,
+      "ms": 2227971,
+      "dish": "Turkey"
+    }
+  ]
+}

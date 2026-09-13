@@ -1,0 +1,34 @@
+{
+  "id": "01220184-58d4-4bff-80e7-5606e4f4507e",
+  "persona": "XA4",
+  "names": [
+    "XA4"
+  ],
+  "runs": 2,
+  "bestRank": 445,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4208859,
+  "weeksActive": [
+    -21,
+    -18
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 445,
+      "ms": 4479393,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 509,
+      "ms": 4208859,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b54728a9-e101-4d0c-89a0-ae3b099dad0f",
+  "persona": "marimo",
+  "names": [
+    "marimo"
+  ],
+  "runs": 3,
+  "bestRank": 173,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3171864,
+  "weeksActive": [
+    -12,
+    4,
+    31
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 188,
+      "ms": 3495806,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 173,
+      "ms": 3171864,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 278,
+      "ms": 3245117,
+      "dish": "Fish"
+    }
+  ]
+}

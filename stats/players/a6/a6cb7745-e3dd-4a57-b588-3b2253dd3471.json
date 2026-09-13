@@ -1,0 +1,42 @@
+{
+  "id": "a6cb7745-e3dd-4a57-b588-3b2253dd3471",
+  "persona": "NaughtyNinja",
+  "names": [
+    "NaughtyNinja"
+  ],
+  "runs": 3,
+  "bestRank": 450,
+  "worstRank": 1070,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2830630,
+  "weeksActive": [
+    -94,
+    -90,
+    -76
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1070,
+      "ms": 3530628,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 585,
+      "ms": 2830630,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 450,
+      "ms": 3129956,
+      "dish": "Turkey"
+    }
+  ]
+}

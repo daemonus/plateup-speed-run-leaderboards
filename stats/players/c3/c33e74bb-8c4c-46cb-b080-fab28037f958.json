@@ -1,0 +1,42 @@
+{
+  "id": "c33e74bb-8c4c-46cb-b080-fab28037f958",
+  "persona": "mitch",
+  "names": [
+    "mitch"
+  ],
+  "runs": 3,
+  "bestRank": 367,
+  "worstRank": 576,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3008929,
+  "weeksActive": [
+    56,
+    58,
+    59
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 576,
+      "ms": 3008929,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 475,
+      "ms": 3917294,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 367,
+      "ms": 4413661,
+      "dish": "Salad"
+    }
+  ]
+}

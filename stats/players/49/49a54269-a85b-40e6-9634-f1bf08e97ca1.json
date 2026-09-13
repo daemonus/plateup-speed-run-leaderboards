@@ -1,0 +1,58 @@
+{
+  "id": "49a54269-a85b-40e6-9634-f1bf08e97ca1",
+  "persona": "stacy116",
+  "names": [
+    "stacy116"
+  ],
+  "runs": 5,
+  "bestRank": 464,
+  "worstRank": 808,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3384328,
+  "weeksActive": [
+    -88,
+    -86,
+    -84,
+    -82,
+    -77
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 808,
+      "ms": 5148236,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 631,
+      "ms": 3426997,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 464,
+      "ms": 3442322,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 480,
+      "ms": 3384328,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 771,
+      "ms": 4401598,
+      "dish": "Pies"
+    }
+  ]
+}

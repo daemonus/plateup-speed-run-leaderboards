@@ -1,0 +1,34 @@
+{
+  "id": "18664583-9157-40ed-8b2f-52fb0b2769d9",
+  "persona": "Ling",
+  "names": [
+    "Ling"
+  ],
+  "runs": 2,
+  "bestRank": 383,
+  "worstRank": 433,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2786630,
+  "weeksActive": [
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 383,
+      "ms": 3889371,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 433,
+      "ms": 2786630,
+      "dish": "Sundaes"
+    }
+  ]
+}

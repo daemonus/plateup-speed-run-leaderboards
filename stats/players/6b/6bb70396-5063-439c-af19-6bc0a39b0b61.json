@@ -1,0 +1,42 @@
+{
+  "id": "6bb70396-5063-439c-af19-6bc0a39b0b61",
+  "persona": "runrun",
+  "names": [
+    "runrun"
+  ],
+  "runs": 3,
+  "bestRank": 258,
+  "worstRank": 645,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3408111,
+  "weeksActive": [
+    20,
+    21,
+    46
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 645,
+      "ms": 3637168,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 258,
+      "ms": 3408111,
+      "dish": "Burgers"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 299,
+      "ms": 3453854,
+      "dish": "Pizza"
+    }
+  ]
+}

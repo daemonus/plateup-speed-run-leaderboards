@@ -1,0 +1,42 @@
+{
+  "id": "80abc5d0-777b-4621-b9c3-c387a2607983",
+  "persona": "cute lil doggo with sunglasses",
+  "names": [
+    "cute lil doggo with sunglasses"
+  ],
+  "runs": 3,
+  "bestRank": 261,
+  "worstRank": 1189,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4455975,
+  "weeksActive": [
+    -72,
+    -71,
+    -69
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 799,
+      "ms": 5593156,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1189,
+      "ms": 5918020,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 261,
+      "ms": 4455975,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "b0f88f57-28d1-470a-97a0-9f60a16cf676",
+  "persona": "Trexxalon",
+  "names": [
+    "Trexxalon"
+  ],
+  "runs": 5,
+  "bestRank": 82,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3220771,
+  "weeksActive": [
+    -13,
+    -12,
+    -11,
+    -8,
+    0
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 235,
+      "ms": 3654562,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 185,
+      "ms": 3450067,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 82,
+      "ms": 3220771,
+      "dish": "Burgers"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 200,
+      "ms": 4404296,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 342,
+      "ms": 4687811,
+      "dish": "Stir Fry"
+    }
+  ]
+}

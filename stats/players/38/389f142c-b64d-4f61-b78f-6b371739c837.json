@@ -1,0 +1,58 @@
+{
+  "id": "389f142c-b64d-4f61-b78f-6b371739c837",
+  "persona": "Pixicandy1",
+  "names": [
+    "Pixicandy1"
+  ],
+  "runs": 5,
+  "bestRank": 183,
+  "worstRank": 993,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2345643,
+  "weeksActive": [
+    -41,
+    -39,
+    -38,
+    -37,
+    -30
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 223,
+      "ms": 4310863,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 377,
+      "ms": 3289204,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 501,
+      "ms": 3218814,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 993,
+      "ms": 6998823,
+      "dish": "Fish"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 183,
+      "ms": 2345643,
+      "dish": "Turkey"
+    }
+  ]
+}

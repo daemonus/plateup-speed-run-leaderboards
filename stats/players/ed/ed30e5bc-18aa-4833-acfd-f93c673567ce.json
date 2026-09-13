@@ -1,0 +1,34 @@
+{
+  "id": "ed30e5bc-18aa-4833-acfd-f93c673567ce",
+  "persona": "karo",
+  "names": [
+    "karo"
+  ],
+  "runs": 2,
+  "bestRank": 543,
+  "worstRank": 794,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2138960,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 543,
+      "ms": 2138960,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 794,
+      "ms": 2694217,
+      "dish": "Fish"
+    }
+  ]
+}

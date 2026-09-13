@@ -1,0 +1,74 @@
+{
+  "id": "04ef4730-ef1f-4bc7-b025-95142f03614e",
+  "persona": "Koanonymous",
+  "names": [
+    "Koanonymous"
+  ],
+  "runs": 7,
+  "bestRank": 324,
+  "worstRank": 1023,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4012340,
+  "weeksActive": [
+    -75,
+    -73,
+    -71,
+    -67,
+    -25,
+    8,
+    63
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 865,
+      "ms": 4012340,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 324,
+      "ms": 5656340,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1023,
+      "ms": 4364619,
+      "dish": "Turkey"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 607,
+      "ms": 6088003,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 723,
+      "ms": 13943084,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 781,
+      "ms": 4019036,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 692,
+      "ms": 4937892,
+      "dish": "Pizza"
+    }
+  ]
+}

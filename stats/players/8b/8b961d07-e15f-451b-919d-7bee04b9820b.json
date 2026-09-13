@@ -1,0 +1,58 @@
+{
+  "id": "8b961d07-e15f-451b-919d-7bee04b9820b",
+  "persona": "Nimril",
+  "names": [
+    "Nimril"
+  ],
+  "runs": 5,
+  "bestRank": 405,
+  "worstRank": 2155,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2979828,
+  "weeksActive": [
+    -94,
+    -93,
+    -82,
+    -76,
+    -38
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 606,
+      "ms": 2979828,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2155,
+      "ms": 3260968,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 405,
+      "ms": 3202389,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 654,
+      "ms": 3621402,
+      "dish": "Turkey"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 612,
+      "ms": 3529489,
+      "dish": "Turkey"
+    }
+  ]
+}

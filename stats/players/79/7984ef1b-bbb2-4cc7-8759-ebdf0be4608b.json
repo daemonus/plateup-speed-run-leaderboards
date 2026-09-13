@@ -1,0 +1,50 @@
+{
+  "id": "7984ef1b-bbb2-4cc7-8759-ebdf0be4608b",
+  "persona": "cuteian2",
+  "names": [
+    "cuteian2"
+  ],
+  "runs": 4,
+  "bestRank": 191,
+  "worstRank": 632,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2903256,
+  "weeksActive": [
+    -92,
+    -10,
+    30,
+    82
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 632,
+      "ms": 3928981,
+      "dish": "Steak"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 224,
+      "ms": 4695508,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 326,
+      "ms": 3844469,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 191,
+      "ms": 2903256,
+      "dish": "Pizza"
+    }
+  ]
+}

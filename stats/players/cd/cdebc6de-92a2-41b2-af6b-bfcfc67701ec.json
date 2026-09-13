@@ -1,0 +1,42 @@
+{
+  "id": "cdebc6de-92a2-41b2-af6b-bfcfc67701ec",
+  "persona": "DingDangKuo",
+  "names": [
+    "DingDangKuo"
+  ],
+  "runs": 3,
+  "bestRank": 585,
+  "worstRank": 851,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3939541,
+  "weeksActive": [
+    -77,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 623,
+      "ms": 3939541,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 851,
+      "ms": 3972739,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 585,
+      "ms": 5422805,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

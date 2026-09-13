@@ -1,0 +1,58 @@
+{
+  "id": "b1b2cfd2-5007-4d53-a2fe-48f67c13494b",
+  "persona": "tugawaseiji",
+  "names": [
+    "tugawaseiji"
+  ],
+  "runs": 5,
+  "bestRank": 110,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2832384,
+  "weeksActive": [
+    27,
+    28,
+    31,
+    32,
+    34
+  ],
+  "history": [
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 111,
+      "ms": 2832384,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 247,
+      "ms": 3092417,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 387,
+      "ms": 3700121,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 201,
+      "ms": 3395807,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 110,
+      "ms": 3232487,
+      "dish": "Stir Fry"
+    }
+  ]
+}

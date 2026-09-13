@@ -1,0 +1,42 @@
+{
+  "id": "77020b5d-e5a8-40fe-830b-aa9a8d07d2bb",
+  "persona": "Meku",
+  "names": [
+    "Meku"
+  ],
+  "runs": 3,
+  "bestRank": 137,
+  "worstRank": 239,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2507768,
+  "weeksActive": [
+    -30,
+    -29,
+    -27
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 239,
+      "ms": 2507768,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 137,
+      "ms": 3520412,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 207,
+      "ms": 4386756,
+      "dish": "Salad"
+    }
+  ]
+}

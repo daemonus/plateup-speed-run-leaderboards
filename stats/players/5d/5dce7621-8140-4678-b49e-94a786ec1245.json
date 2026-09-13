@@ -1,0 +1,42 @@
+{
+  "id": "5dce7621-8140-4678-b49e-94a786ec1245",
+  "persona": "666",
+  "names": [
+    "666"
+  ],
+  "runs": 3,
+  "bestRank": 148,
+  "worstRank": 382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4001403,
+  "weeksActive": [
+    -65,
+    -64,
+    -20
+  ],
+  "history": [
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 148,
+      "ms": 5165312,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 284,
+      "ms": 4001403,
+      "dish": "Salad"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 382,
+      "ms": 4109136,
+      "dish": "Burgers"
+    }
+  ]
+}

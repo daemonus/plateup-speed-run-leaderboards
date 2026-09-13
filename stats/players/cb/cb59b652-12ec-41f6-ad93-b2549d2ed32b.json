@@ -1,0 +1,34 @@
+{
+  "id": "cb59b652-12ec-41f6-ad93-b2549d2ed32b",
+  "persona": "Samtastic",
+  "names": [
+    "Samtastic"
+  ],
+  "runs": 2,
+  "bestRank": 322,
+  "worstRank": 494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3774859,
+  "weeksActive": [
+    -6,
+    21
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 494,
+      "ms": 4730407,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 322,
+      "ms": 3774859,
+      "dish": "Burgers"
+    }
+  ]
+}

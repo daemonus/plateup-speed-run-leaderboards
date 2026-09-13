@@ -1,0 +1,42 @@
+{
+  "id": "955c64cc-bad8-466b-b34d-6b728b5087e9",
+  "persona": "Xiphoid",
+  "names": [
+    "Xiphoid"
+  ],
+  "runs": 3,
+  "bestRank": 146,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2551241,
+  "weeksActive": [
+    39,
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 146,
+      "ms": 3468136,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 164,
+      "ms": 3387585,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 367,
+      "ms": 2551241,
+      "dish": "Turkey"
+    }
+  ]
+}

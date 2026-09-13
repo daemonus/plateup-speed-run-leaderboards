@@ -1,0 +1,50 @@
+{
+  "id": "f2dfb6d9-8ab4-4767-8def-ca5c840a51ed",
+  "persona": "RiverDestiny",
+  "names": [
+    "RiverDestiny"
+  ],
+  "runs": 4,
+  "bestRank": 70,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3421432,
+  "weeksActive": [
+    4,
+    21,
+    23,
+    25
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 380,
+      "ms": 4597554,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 391,
+      "ms": 4269583,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 536,
+      "ms": 4489692,
+      "dish": "Turkey"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 70,
+      "ms": 3421432,
+      "dish": "Stir Fry"
+    }
+  ]
+}

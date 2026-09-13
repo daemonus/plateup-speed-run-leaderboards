@@ -1,0 +1,34 @@
+{
+  "id": "8d4b8c47-e936-4119-bdd3-5bcf9d77328f",
+  "persona": "Tilly",
+  "names": [
+    "Tilly"
+  ],
+  "runs": 2,
+  "bestRank": 70,
+  "worstRank": 201,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2929690,
+  "weeksActive": [
+    -35,
+    -34
+  ],
+  "history": [
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 70,
+      "ms": 2938043,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 201,
+      "ms": 2929690,
+      "dish": "Pies"
+    }
+  ]
+}

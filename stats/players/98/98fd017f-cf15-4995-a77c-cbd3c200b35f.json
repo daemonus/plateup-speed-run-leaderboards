@@ -1,0 +1,34 @@
+{
+  "id": "98fd017f-cf15-4995-a77c-cbd3c200b35f",
+  "persona": "bawang",
+  "names": [
+    "bawang"
+  ],
+  "runs": 2,
+  "bestRank": 456,
+  "worstRank": 658,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6024775,
+  "weeksActive": [
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 456,
+      "ms": 6024775,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 658,
+      "ms": 11923471,
+      "dish": "Breakfast"
+    }
+  ]
+}

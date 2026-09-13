@@ -1,0 +1,50 @@
+{
+  "id": "b1c1996a-802e-4a4a-b533-715beba6db1b",
+  "persona": "Scargarious",
+  "names": [
+    "Scargarious"
+  ],
+  "runs": 4,
+  "bestRank": 96,
+  "worstRank": 126,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2106860,
+  "weeksActive": [
+    42,
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 123,
+      "ms": 2992999,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 97,
+      "ms": 2106860,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 126,
+      "ms": 2683845,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 96,
+      "ms": 3281169,
+      "dish": "Salad"
+    }
+  ]
+}

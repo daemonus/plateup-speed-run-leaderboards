@@ -1,0 +1,58 @@
+{
+  "id": "1f2d17c5-9848-4520-96a6-1663fd78a11c",
+  "persona": "bbang",
+  "names": [
+    "bbang"
+  ],
+  "runs": 5,
+  "bestRank": 154,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2677993,
+  "weeksActive": [
+    26,
+    30,
+    31,
+    33,
+    34
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 265,
+      "ms": 3896704,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 186,
+      "ms": 3045175,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 154,
+      "ms": 2677993,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 187,
+      "ms": 3828408,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 270,
+      "ms": 4159394,
+      "dish": "Stir Fry"
+    }
+  ]
+}

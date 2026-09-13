@@ -1,0 +1,34 @@
+{
+  "id": "d4717093-c2e5-47dc-b03c-2830e2a1f9b5",
+  "persona": "Drielo",
+  "names": [
+    "Drielo"
+  ],
+  "runs": 2,
+  "bestRank": 581,
+  "worstRank": 741,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3915128,
+  "weeksActive": [
+    20,
+    24
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 741,
+      "ms": 3915128,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 581,
+      "ms": 7566627,
+      "dish": "Pies"
+    }
+  ]
+}

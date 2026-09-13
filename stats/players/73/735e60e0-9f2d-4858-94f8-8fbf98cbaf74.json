@@ -1,0 +1,74 @@
+{
+  "id": "735e60e0-9f2d-4858-94f8-8fbf98cbaf74",
+  "persona": "kim_k8",
+  "names": [
+    "kim_k8"
+  ],
+  "runs": 7,
+  "bestRank": 129,
+  "worstRank": 788,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3081710,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    -2,
+    -1,
+    46,
+    56
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 318,
+      "ms": 4071136,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 215,
+      "ms": 3081710,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 348,
+      "ms": 3124606,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 239,
+      "ms": 3191244,
+      "dish": "Pizza"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 129,
+      "ms": 4128951,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 403,
+      "ms": 3977106,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 788,
+      "ms": 3779147,
+      "dish": "Sundaes"
+    }
+  ]
+}

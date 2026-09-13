@@ -1,0 +1,42 @@
+{
+  "id": "f9cbdbbc-bd54-4a4a-a064-722097dc85cb",
+  "persona": "larz",
+  "names": [
+    "larz"
+  ],
+  "runs": 3,
+  "bestRank": 440,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3608616,
+  "weeksActive": [
+    15,
+    23,
+    71
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 503,
+      "ms": 3608616,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 472,
+      "ms": 3952677,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 440,
+      "ms": 5062367,
+      "dish": "Pizza"
+    }
+  ]
+}

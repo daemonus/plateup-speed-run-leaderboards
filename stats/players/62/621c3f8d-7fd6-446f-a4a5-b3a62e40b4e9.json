@@ -1,0 +1,50 @@
+{
+  "id": "621c3f8d-7fd6-446f-a4a5-b3a62e40b4e9",
+  "persona": "human",
+  "names": [
+    "human"
+  ],
+  "runs": 4,
+  "bestRank": 213,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2606302,
+  "weeksActive": [
+    63,
+    65,
+    68,
+    83
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 371,
+      "ms": 3450330,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 299,
+      "ms": 4024854,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 213,
+      "ms": 2606302,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 453,
+      "ms": 2830900,
+      "dish": "Sundaes"
+    }
+  ]
+}

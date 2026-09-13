@@ -1,0 +1,58 @@
+{
+  "id": "5bead540-eefa-4139-b211-ef2f404133e2",
+  "persona": "Aanku",
+  "names": [
+    "Aanku"
+  ],
+  "runs": 5,
+  "bestRank": 125,
+  "worstRank": 273,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2193013,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 125,
+      "ms": 3275482,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 228,
+      "ms": 3137535,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 212,
+      "ms": 2683987,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 273,
+      "ms": 2193013,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 182,
+      "ms": 2872739,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "821def99-4b2d-4d66-8a02-142255e7b4fc",
+  "persona": "Jaybones",
+  "names": [
+    "Jaybones"
+  ],
+  "runs": 4,
+  "bestRank": 191,
+  "worstRank": 325,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2400572,
+  "weeksActive": [
+    34,
+    36,
+    41,
+    47
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 191,
+      "ms": 3655332,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 211,
+      "ms": 2760764,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 325,
+      "ms": 2400572,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 196,
+      "ms": 3608894,
+      "dish": "Pizza"
+    }
+  ]
+}

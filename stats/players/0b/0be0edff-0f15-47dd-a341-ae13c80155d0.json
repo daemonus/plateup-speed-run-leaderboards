@@ -1,0 +1,34 @@
+{
+  "id": "0be0edff-0f15-47dd-a341-ae13c80155d0",
+  "persona": "NORSKII",
+  "names": [
+    "NORSKII"
+  ],
+  "runs": 2,
+  "bestRank": 85,
+  "worstRank": 151,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2881496,
+  "weeksActive": [
+    -73,
+    -72
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 85,
+      "ms": 3430348,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 151,
+      "ms": 2881496,
+      "dish": "Pies"
+    }
+  ]
+}

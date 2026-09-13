@@ -1,0 +1,50 @@
+{
+  "id": "252a87e7-2d7d-434a-a1e7-fc84ebc3391e",
+  "persona": "mkmk",
+  "names": [
+    "mkmk"
+  ],
+  "runs": 4,
+  "bestRank": 149,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2229924,
+  "weeksActive": [
+    42,
+    44,
+    54,
+    56
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 149,
+      "ms": 3239441,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 182,
+      "ms": 2948299,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 218,
+      "ms": 4025741,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 324,
+      "ms": 2229924,
+      "dish": "Sundaes"
+    }
+  ]
+}

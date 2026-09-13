@@ -1,0 +1,50 @@
+{
+  "id": "7932a653-73cc-4d62-8fe5-f11ee5361cc7",
+  "persona": "Tovell",
+  "names": [
+    "Tovell"
+  ],
+  "runs": 4,
+  "bestRank": 116,
+  "worstRank": 534,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1955209,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    9
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 534,
+      "ms": 2131445,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 455,
+      "ms": 3292164,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 229,
+      "ms": 1955209,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 116,
+      "ms": 2650520,
+      "dish": "Breakfast"
+    }
+  ]
+}

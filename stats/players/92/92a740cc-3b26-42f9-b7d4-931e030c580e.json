@@ -1,0 +1,74 @@
+{
+  "id": "92a740cc-3b26-42f9-b7d4-931e030c580e",
+  "persona": "Taskiller",
+  "names": [
+    "Taskiller"
+  ],
+  "runs": 7,
+  "bestRank": 87,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2098175,
+  "weeksActive": [
+    -79,
+    -78,
+    -77,
+    -76,
+    -35,
+    -34,
+    -17
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 284,
+      "ms": 3701493,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 169,
+      "ms": 2860375,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 87,
+      "ms": 2284787,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 106,
+      "ms": 2098175,
+      "dish": "Turkey"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 114,
+      "ms": 3274875,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 166,
+      "ms": 2806520,
+      "dish": "Pies"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 104,
+      "ms": 2669041,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

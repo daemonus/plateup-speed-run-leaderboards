@@ -1,0 +1,34 @@
+{
+  "id": "2bc6b678-05ae-428a-990e-a6aa20b1c75c",
+  "persona": "Kavothe",
+  "names": [
+    "Kavothe"
+  ],
+  "runs": 2,
+  "bestRank": 368,
+  "worstRank": 431,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3333116,
+  "weeksActive": [
+    -37,
+    51
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 431,
+      "ms": 3333116,
+      "dish": "Fish"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 368,
+      "ms": 6012847,
+      "dish": "Salad"
+    }
+  ]
+}

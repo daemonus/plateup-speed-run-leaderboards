@@ -1,0 +1,42 @@
+{
+  "id": "d45f27b4-ec79-4f7c-9c0a-2df49d442e16",
+  "persona": "book4e",
+  "names": [
+    "book4e"
+  ],
+  "runs": 3,
+  "bestRank": 556,
+  "worstRank": 1979,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2776773,
+  "weeksActive": [
+    -93,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1979,
+      "ms": 3118707,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 556,
+      "ms": 2776773,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 579,
+      "ms": 3129156,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "3b914182-2a54-426c-9112-06e373bea072",
+  "persona": "JohanTeng",
+  "names": [
+    "JohanTeng"
+  ],
+  "runs": 9,
+  "bestRank": 57,
+  "worstRank": 206,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2568330,
+  "weeksActive": [
+    -54,
+    -53,
+    -52,
+    -20,
+    -19,
+    -17,
+    -13,
+    -12,
+    -10
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 138,
+      "ms": 4316944,
+      "dish": "Salad"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 206,
+      "ms": 3900225,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 142,
+      "ms": 3985886,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 148,
+      "ms": 3120768,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 138,
+      "ms": 2925547,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 159,
+      "ms": 2930755,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 131,
+      "ms": 3026433,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 57,
+      "ms": 2568330,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 60,
+      "ms": 2967036,
+      "dish": "Stir Fry"
+    }
+  ]
+}

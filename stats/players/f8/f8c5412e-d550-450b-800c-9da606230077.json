@@ -1,0 +1,34 @@
+{
+  "id": "f8c5412e-d550-450b-800c-9da606230077",
+  "persona": "This is your mother",
+  "names": [
+    "This is your mother"
+  ],
+  "runs": 2,
+  "bestRank": 391,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 7166204,
+  "weeksActive": [
+    -70,
+    51
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 685,
+      "ms": 11999139,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 391,
+      "ms": 7166204,
+      "dish": "Salad"
+    }
+  ]
+}

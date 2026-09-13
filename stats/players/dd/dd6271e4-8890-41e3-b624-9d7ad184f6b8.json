@@ -1,0 +1,42 @@
+{
+  "id": "dd6271e4-8890-41e3-b624-9d7ad184f6b8",
+  "persona": "starlena322",
+  "names": [
+    "starlena322"
+  ],
+  "runs": 3,
+  "bestRank": 277,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4407652,
+  "weeksActive": [
+    58,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 553,
+      "ms": 4407652,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 376,
+      "ms": 5070900,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 277,
+      "ms": 5043867,
+      "dish": "Burgers"
+    }
+  ]
+}

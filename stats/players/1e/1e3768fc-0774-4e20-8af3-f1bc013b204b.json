@@ -1,0 +1,82 @@
+{
+  "id": "1e3768fc-0774-4e20-8af3-f1bc013b204b",
+  "persona": "Muko",
+  "names": [
+    "Muko"
+  ],
+  "runs": 8,
+  "bestRank": 155,
+  "worstRank": 820,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2724174,
+  "weeksActive": [
+    -89,
+    -88,
+    -86,
+    -84,
+    -83,
+    -82,
+    77,
+    85
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 820,
+      "ms": 4033121,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 613,
+      "ms": 4174986,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 602,
+      "ms": 3350247,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 347,
+      "ms": 2994746,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 242,
+      "ms": 3000791,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 378,
+      "ms": 3145197,
+      "dish": "Fish"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 256,
+      "ms": 2897137,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 155,
+      "ms": 2724174,
+      "dish": "Fish"
+    }
+  ]
+}

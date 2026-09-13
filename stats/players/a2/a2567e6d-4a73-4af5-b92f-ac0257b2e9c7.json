@@ -1,0 +1,74 @@
+{
+  "id": "a2567e6d-4a73-4af5-b92f-ac0257b2e9c7",
+  "persona": "TJFireMaze",
+  "names": [
+    "TJFireMaze"
+  ],
+  "runs": 7,
+  "bestRank": 4,
+  "worstRank": 92,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1155767,
+  "weeksActive": [
+    41,
+    43,
+    44,
+    46,
+    47,
+    82,
+    86
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 27,
+      "ms": 1155767,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 43,
+      "ms": 1806413,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 4,
+      "ms": 1626440,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 7,
+      "ms": 1712266,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 92,
+      "ms": 2703576,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 23,
+      "ms": 1935676,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 45,
+      "ms": 1221222,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "352c92ce-5744-4e1a-9d9a-145462ca3bab",
+  "persona": "OiCMudkips",
+  "names": [
+    "OiCMudkips"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 981,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2438323,
+  "weeksActive": [
+    -93,
+    -92,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 981,
+      "ms": 2438323,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 360,
+      "ms": 3051332,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 669,
+      "ms": 3405490,
+      "dish": "Pies"
+    }
+  ]
+}

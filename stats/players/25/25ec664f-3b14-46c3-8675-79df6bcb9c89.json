@@ -1,0 +1,34 @@
+{
+  "id": "25ec664f-3b14-46c3-8675-79df6bcb9c89",
+  "persona": "cha_siu_bao",
+  "names": [
+    "cha_siu_bao"
+  ],
+  "runs": 2,
+  "bestRank": 793,
+  "worstRank": 2323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3419833,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2323,
+      "ms": 3419833,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 793,
+      "ms": 5422102,
+      "dish": "Steak"
+    }
+  ]
+}

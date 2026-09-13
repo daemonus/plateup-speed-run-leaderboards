@@ -1,0 +1,34 @@
+{
+  "id": "9d75b6c3-9536-4176-9442-a24af8f4534f",
+  "persona": "\u4F1A\u98DE\u7684\u4E00\u5768\u8089",
+  "names": [
+    "\u4F1A\u98DE\u7684\u4E00\u5768\u8089"
+  ],
+  "runs": 2,
+  "bestRank": 253,
+  "worstRank": 886,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4346808,
+  "weeksActive": [
+    -50,
+    -32
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 253,
+      "ms": 5001533,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 886,
+      "ms": 4346808,
+      "dish": "Breakfast"
+    }
+  ]
+}

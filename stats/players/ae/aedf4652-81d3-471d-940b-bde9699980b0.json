@@ -1,0 +1,50 @@
+{
+  "id": "aedf4652-81d3-471d-940b-bde9699980b0",
+  "persona": "Goongria",
+  "names": [
+    "Goongria"
+  ],
+  "runs": 4,
+  "bestRank": 110,
+  "worstRank": 1896,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3063968,
+  "weeksActive": [
+    -93,
+    -60,
+    -59,
+    -58
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1896,
+      "ms": 3063968,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 151,
+      "ms": 3347540,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 245,
+      "ms": 3219407,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 110,
+      "ms": 3507235,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

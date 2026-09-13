@@ -1,0 +1,42 @@
+{
+  "id": "177572ff-8d4e-4b5d-bd64-0975c5c258c0",
+  "persona": "Huggles",
+  "names": [
+    "Huggles"
+  ],
+  "runs": 3,
+  "bestRank": 685,
+  "worstRank": 2329,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3282389,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 872,
+      "ms": 3282389,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2329,
+      "ms": 3425630,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 685,
+      "ms": 4172852,
+      "dish": "Steak"
+    }
+  ]
+}

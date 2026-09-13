@@ -1,0 +1,74 @@
+{
+  "id": "4126ad17-d42d-466d-910a-b39d1d14d0bc",
+  "persona": "DeftParcel",
+  "names": [
+    "DeftParcel"
+  ],
+  "runs": 7,
+  "bestRank": 56,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2303229,
+  "weeksActive": [
+    23,
+    24,
+    26,
+    27,
+    29,
+    33,
+    52
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 148,
+      "ms": 2303229,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 192,
+      "ms": 3019299,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 204,
+      "ms": 3498531,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 56,
+      "ms": 2326919,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 94,
+      "ms": 3193924,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 201,
+      "ms": 4041342,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 224,
+      "ms": 2744804,
+      "dish": "Fish"
+    }
+  ]
+}

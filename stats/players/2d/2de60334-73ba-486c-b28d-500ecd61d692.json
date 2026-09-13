@@ -1,0 +1,34 @@
+{
+  "id": "2de60334-73ba-486c-b28d-500ecd61d692",
+  "persona": "juggernaut",
+  "names": [
+    "juggernaut"
+  ],
+  "runs": 2,
+  "bestRank": 273,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3468714,
+  "weeksActive": [
+    11,
+    12
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 273,
+      "ms": 4916390,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 432,
+      "ms": 3468714,
+      "dish": "Turkey"
+    }
+  ]
+}

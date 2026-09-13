@@ -1,0 +1,66 @@
+{
+  "id": "d0e2f278-7765-4434-9f77-b47bea75c44c",
+  "persona": "Yuan",
+  "names": [
+    "Yuan"
+  ],
+  "runs": 6,
+  "bestRank": 277,
+  "worstRank": 569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3935359,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    -2,
+    0,
+    4
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 569,
+      "ms": 5631739,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 488,
+      "ms": 4771605,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 561,
+      "ms": 4031886,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 418,
+      "ms": 5100529,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 385,
+      "ms": 4933534,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 277,
+      "ms": 3935359,
+      "dish": "Breakfast"
+    }
+  ]
+}

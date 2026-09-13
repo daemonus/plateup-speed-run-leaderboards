@@ -1,0 +1,42 @@
+{
+  "id": "246ecd8f-a302-4f86-905f-02a31622e31d",
+  "persona": "KuderPunch",
+  "names": [
+    "KuderPunch"
+  ],
+  "runs": 3,
+  "bestRank": 283,
+  "worstRank": 694,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3065228,
+  "weeksActive": [
+    -72,
+    -71,
+    -64
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 694,
+      "ms": 4886371,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 427,
+      "ms": 3065228,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 283,
+      "ms": 3994384,
+      "dish": "Salad"
+    }
+  ]
+}

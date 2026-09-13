@@ -1,0 +1,34 @@
+{
+  "id": "8c87e7f9-2586-4973-aec5-cc4af61f523d",
+  "persona": "Camila",
+  "names": [
+    "Camila"
+  ],
+  "runs": 2,
+  "bestRank": 429,
+  "worstRank": 617,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4922530,
+  "weeksActive": [
+    71,
+    82
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 429,
+      "ms": 4922530,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 617,
+      "ms": 5810903,
+      "dish": "Pizza"
+    }
+  ]
+}

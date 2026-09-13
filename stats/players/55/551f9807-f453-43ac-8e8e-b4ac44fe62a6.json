@@ -1,0 +1,42 @@
+{
+  "id": "551f9807-f453-43ac-8e8e-b4ac44fe62a6",
+  "persona": "Beta",
+  "names": [
+    "Beta"
+  ],
+  "runs": 3,
+  "bestRank": 136,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3112011,
+  "weeksActive": [
+    -66,
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 202,
+      "ms": 3441617,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 136,
+      "ms": 3112011,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 365,
+      "ms": 3975805,
+      "dish": "Stir Fry"
+    }
+  ]
+}

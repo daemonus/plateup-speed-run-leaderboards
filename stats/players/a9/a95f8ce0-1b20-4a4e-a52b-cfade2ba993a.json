@@ -1,0 +1,66 @@
+{
+  "id": "a95f8ce0-1b20-4a4e-a52b-cfade2ba993a",
+  "persona": "\u4ED3\u9F20\u7684\u5143\u671D",
+  "names": [
+    "\u4ED3\u9F20\u7684\u5143\u671D"
+  ],
+  "runs": 6,
+  "bestRank": 444,
+  "worstRank": 2029,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3150693,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -89,
+    -88,
+    -83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2029,
+      "ms": 3150693,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 629,
+      "ms": 3907078,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1390,
+      "ms": 3558122,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 750,
+      "ms": 3723874,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 546,
+      "ms": 3934941,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 444,
+      "ms": 3865535,
+      "dish": "Steak"
+    }
+  ]
+}

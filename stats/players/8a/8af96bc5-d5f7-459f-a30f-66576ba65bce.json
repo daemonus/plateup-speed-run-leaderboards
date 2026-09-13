@@ -1,0 +1,58 @@
+{
+  "id": "8af96bc5-d5f7-459f-a30f-66576ba65bce",
+  "persona": "Ralig",
+  "names": [
+    "Ralig"
+  ],
+  "runs": 5,
+  "bestRank": 3,
+  "worstRank": 72,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 915066,
+  "weeksActive": [
+    -84,
+    -83,
+    -82,
+    -78,
+    41
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 47,
+      "ms": 1804361,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 17,
+      "ms": 1778933,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 25,
+      "ms": 1547385,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 72,
+      "ms": 2477361,
+      "dish": "Burgers"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 3,
+      "ms": 915066,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "f6be91a9-5f39-4afe-b8d0-cdae27e3ed8e",
+  "persona": "songbird",
+  "names": [
+    "songbird"
+  ],
+  "runs": 5,
+  "bestRank": 7,
+  "worstRank": 100,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1821460,
+  "weeksActive": [
+    -94,
+    -86,
+    -73,
+    -67,
+    -59
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 81,
+      "ms": 2005608,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 100,
+      "ms": 1821460,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 7,
+      "ms": 2054912,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 22,
+      "ms": 2242148,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 19,
+      "ms": 1851156,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

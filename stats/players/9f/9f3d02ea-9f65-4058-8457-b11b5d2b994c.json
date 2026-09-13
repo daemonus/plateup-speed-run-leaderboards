@@ -1,0 +1,42 @@
+{
+  "id": "9f3d02ea-9f65-4058-8457-b11b5d2b994c",
+  "persona": "Xcelluna",
+  "names": [
+    "Xcelluna"
+  ],
+  "runs": 3,
+  "bestRank": 58,
+  "worstRank": 111,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2310200,
+  "weeksActive": [
+    -2,
+    0,
+    3
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 69,
+      "ms": 2310200,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 58,
+      "ms": 2860268,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 111,
+      "ms": 2565710,
+      "dish": "Fish"
+    }
+  ]
+}

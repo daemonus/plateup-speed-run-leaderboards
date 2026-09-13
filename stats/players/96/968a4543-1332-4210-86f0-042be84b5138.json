@@ -1,0 +1,42 @@
+{
+  "id": "968a4543-1332-4210-86f0-042be84b5138",
+  "persona": "smrlc14",
+  "names": [
+    "smrlc14"
+  ],
+  "runs": 3,
+  "bestRank": 303,
+  "worstRank": 729,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3873599,
+  "weeksActive": [
+    2,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 303,
+      "ms": 4159659,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 729,
+      "ms": 3873599,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 435,
+      "ms": 4650864,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d4882f54-71e0-4d73-af24-f78f1488b2b2",
+  "persona": "Statefarm",
+  "names": [
+    "Statefarm"
+  ],
+  "runs": 3,
+  "bestRank": 188,
+  "worstRank": 396,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3251207,
+  "weeksActive": [
+    -78,
+    -74,
+    -67
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 396,
+      "ms": 3801844,
+      "dish": "Burgers"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 219,
+      "ms": 3251207,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 188,
+      "ms": 3411213,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c3be0196-b178-4ce6-b181-f2adc937b19c",
+  "persona": "Jason",
+  "names": [
+    "Jason"
+  ],
+  "runs": 2,
+  "bestRank": 239,
+  "worstRank": 590,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6076393,
+  "weeksActive": [
+    -5,
+    25
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 590,
+      "ms": 6076393,
+      "dish": "Pizza"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 239,
+      "ms": 11347748,
+      "dish": "Stir Fry"
+    }
+  ]
+}

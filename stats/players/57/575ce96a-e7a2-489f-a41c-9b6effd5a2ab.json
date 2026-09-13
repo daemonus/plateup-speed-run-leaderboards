@@ -1,0 +1,42 @@
+{
+  "id": "575ce96a-e7a2-489f-a41c-9b6effd5a2ab",
+  "persona": "PixelParasites",
+  "names": [
+    "PixelParasites"
+  ],
+  "runs": 3,
+  "bestRank": 282,
+  "worstRank": 1523,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2961974,
+  "weeksActive": [
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1523,
+      "ms": 3883060,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 494,
+      "ms": 2961974,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 282,
+      "ms": 2972260,
+      "dish": "Pies"
+    }
+  ]
+}

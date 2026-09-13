@@ -1,0 +1,34 @@
+{
+  "id": "a7db204d-c099-4bbe-96cf-357e958c186b",
+  "persona": "The Fresh Prince",
+  "names": [
+    "The Fresh Prince"
+  ],
+  "runs": 2,
+  "bestRank": 760,
+  "worstRank": 1142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4815185,
+  "weeksActive": [
+    -82,
+    -32
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 760,
+      "ms": 4815185,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1142,
+      "ms": 5718716,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9086a615-cb22-4517-872f-60f72fe836d1",
+  "persona": "A_west_wind",
+  "names": [
+    "A_west_wind"
+  ],
+  "runs": 3,
+  "bestRank": 406,
+  "worstRank": 570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4073932,
+  "weeksActive": [
+    19,
+    23,
+    52
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 406,
+      "ms": 5446812,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 553,
+      "ms": 4812917,
+      "dish": "Turkey"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 570,
+      "ms": 4073932,
+      "dish": "Fish"
+    }
+  ]
+}

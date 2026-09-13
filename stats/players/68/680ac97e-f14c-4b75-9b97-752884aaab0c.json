@@ -1,0 +1,42 @@
+{
+  "id": "680ac97e-f14c-4b75-9b97-752884aaab0c",
+  "persona": "2boshi",
+  "names": [
+    "2boshi"
+  ],
+  "runs": 3,
+  "bestRank": 33,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2819007,
+  "weeksActive": [
+    -44,
+    -43,
+    -42
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 240,
+      "ms": 2987018,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 134,
+      "ms": 3139278,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 33,
+      "ms": 2819007,
+      "dish": "Burgers"
+    }
+  ]
+}

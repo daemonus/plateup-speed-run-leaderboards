@@ -1,0 +1,42 @@
+{
+  "id": "e5c75620-803b-48e8-a151-111d1e1573c0",
+  "persona": "soes02",
+  "names": [
+    "soes02"
+  ],
+  "runs": 3,
+  "bestRank": 440,
+  "worstRank": 1715,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2807745,
+  "weeksActive": [
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1715,
+      "ms": 2944918,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 440,
+      "ms": 3254200,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 572,
+      "ms": 2807745,
+      "dish": "Fish"
+    }
+  ]
+}

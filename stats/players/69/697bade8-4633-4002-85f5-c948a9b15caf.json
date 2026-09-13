@@ -1,0 +1,42 @@
+{
+  "id": "697bade8-4633-4002-85f5-c948a9b15caf",
+  "persona": "Teagana",
+  "names": [
+    "Teagana"
+  ],
+  "runs": 3,
+  "bestRank": 250,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3493639,
+  "weeksActive": [
+    -17,
+    15,
+    52
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 250,
+      "ms": 3599637,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 483,
+      "ms": 3549715,
+      "dish": "Turkey"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 440,
+      "ms": 3493639,
+      "dish": "Fish"
+    }
+  ]
+}

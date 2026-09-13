@@ -1,0 +1,42 @@
+{
+  "id": "2bc316e5-a47f-4d1c-af5c-fa38425e6fab",
+  "persona": "Fredcoq",
+  "names": [
+    "Fredcoq"
+  ],
+  "runs": 3,
+  "bestRank": 185,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3300982,
+  "weeksActive": [
+    -15,
+    -10,
+    26
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 341,
+      "ms": 3300982,
+      "dish": "Fish"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 185,
+      "ms": 4223874,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 269,
+      "ms": 3929333,
+      "dish": "Pizza"
+    }
+  ]
+}

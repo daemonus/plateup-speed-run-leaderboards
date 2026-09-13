@@ -1,0 +1,58 @@
+{
+  "id": "1be857da-6f8d-4816-acbf-be5db198582b",
+  "persona": "florian_753",
+  "names": [
+    "florian_753"
+  ],
+  "runs": 5,
+  "bestRank": 169,
+  "worstRank": 1429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3317377,
+  "weeksActive": [
+    -91,
+    -54,
+    3,
+    12,
+    19
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1429,
+      "ms": 3636046,
+      "dish": "Fish"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 169,
+      "ms": 4827216,
+      "dish": "Salad"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 596,
+      "ms": 4075567,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 409,
+      "ms": 3317377,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 322,
+      "ms": 4444426,
+      "dish": "Pizza"
+    }
+  ]
+}

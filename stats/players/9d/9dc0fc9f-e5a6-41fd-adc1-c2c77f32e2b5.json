@@ -1,0 +1,42 @@
+{
+  "id": "9dc0fc9f-e5a6-41fd-adc1-c2c77f32e2b5",
+  "persona": "soybin",
+  "names": [
+    "soybin"
+  ],
+  "runs": 3,
+  "bestRank": 258,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2356582,
+  "weeksActive": [
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 561,
+      "ms": 2395670,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 258,
+      "ms": 2356582,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 370,
+      "ms": 3234974,
+      "dish": "Pies"
+    }
+  ]
+}

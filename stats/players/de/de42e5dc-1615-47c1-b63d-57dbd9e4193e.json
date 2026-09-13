@@ -1,0 +1,42 @@
+{
+  "id": "de42e5dc-1615-47c1-b63d-57dbd9e4193e",
+  "persona": "Immigrant Biscuit",
+  "names": [
+    "Immigrant Biscuit"
+  ],
+  "runs": 3,
+  "bestRank": 122,
+  "worstRank": 779,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3310976,
+  "weeksActive": [
+    -76,
+    -70,
+    -68
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 779,
+      "ms": 4007359,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 274,
+      "ms": 3889798,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 122,
+      "ms": 3310976,
+      "dish": "Salad"
+    }
+  ]
+}

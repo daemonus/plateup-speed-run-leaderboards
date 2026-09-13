@@ -1,0 +1,34 @@
+{
+  "id": "632c64c2-14c6-4198-a575-c65e34a3e813",
+  "persona": "May",
+  "names": [
+    "May"
+  ],
+  "runs": 2,
+  "bestRank": 273,
+  "worstRank": 508,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4370951,
+  "weeksActive": [
+    -66,
+    57
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 273,
+      "ms": 4370951,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 508,
+      "ms": 5202106,
+      "dish": "Salad"
+    }
+  ]
+}

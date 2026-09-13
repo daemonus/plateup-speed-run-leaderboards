@@ -1,0 +1,50 @@
+{
+  "id": "321bea90-8f66-42d5-a561-1dc320eb06c0",
+  "persona": "Amywho_wu",
+  "names": [
+    "Amywho_wu"
+  ],
+  "runs": 4,
+  "bestRank": 104,
+  "worstRank": 502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2615044,
+  "weeksActive": [
+    22,
+    23,
+    24,
+    32
+  ],
+  "history": [
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 276,
+      "ms": 4262328,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 502,
+      "ms": 4171338,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 392,
+      "ms": 4200014,
+      "dish": "Pies"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 104,
+      "ms": 2615044,
+      "dish": "Pies"
+    }
+  ]
+}

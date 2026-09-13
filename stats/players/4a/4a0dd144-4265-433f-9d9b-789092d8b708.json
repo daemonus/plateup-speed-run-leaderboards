@@ -1,0 +1,42 @@
+{
+  "id": "4a0dd144-4265-433f-9d9b-789092d8b708",
+  "persona": "muelmuel",
+  "names": [
+    "muelmuel"
+  ],
+  "runs": 3,
+  "bestRank": 139,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3280074,
+  "weeksActive": [
+    -37,
+    -21,
+    -14
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 412,
+      "ms": 3280074,
+      "dish": "Fish"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 309,
+      "ms": 3712968,
+      "dish": "Pizza"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 139,
+      "ms": 3952031,
+      "dish": "Salad"
+    }
+  ]
+}

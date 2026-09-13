@@ -1,0 +1,42 @@
+{
+  "id": "ed859d85-7c86-4248-84b7-734acf25cc8a",
+  "persona": "Sassypants",
+  "names": [
+    "Sassypants"
+  ],
+  "runs": 3,
+  "bestRank": 528,
+  "worstRank": 1134,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3143609,
+  "weeksActive": [
+    -91,
+    -75,
+    -25
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1134,
+      "ms": 3143609,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 650,
+      "ms": 3398810,
+      "dish": "Fish"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 528,
+      "ms": 4716805,
+      "dish": "Breakfast"
+    }
+  ]
+}

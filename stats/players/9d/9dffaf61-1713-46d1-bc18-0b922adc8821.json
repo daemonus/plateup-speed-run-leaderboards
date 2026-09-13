@@ -1,0 +1,50 @@
+{
+  "id": "9dffaf61-1713-46d1-bc18-0b922adc8821",
+  "persona": "Lilit",
+  "names": [
+    "Lilit"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 1931,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3028385,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -79
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1603,
+      "ms": 4546503,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1931,
+      "ms": 3085874,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 831,
+      "ms": 4069385,
+      "dish": "Pies"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 164,
+      "ms": 3028385,
+      "dish": "Pies"
+    }
+  ]
+}

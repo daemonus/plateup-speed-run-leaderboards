@@ -1,0 +1,42 @@
+{
+  "id": "f6098b8e-6280-489d-a8e5-9da5e137e83f",
+  "persona": "ocean eyes",
+  "names": [
+    "ocean eyes"
+  ],
+  "runs": 3,
+  "bestRank": 404,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4432547,
+  "weeksActive": [
+    7,
+    9,
+    16
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 404,
+      "ms": 4432547,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 500,
+      "ms": 5281231,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 499,
+      "ms": 6012999,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "id": "6718ebab-5c94-478a-9929-ce98d28bfb97",
+  "persona": "MrsMcGeek",
+  "names": [
+    "MrsMcGeek"
+  ],
+  "runs": 82,
+  "bestRank": 58,
+  "worstRank": 1469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2215063,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -87,
+    -86,
+    -85,
+    -84,
+    -83,
+    -82,
+    -81,
+    -80,
+    -79,
+    -78,
+    -77,
+    -75,
+    -72,
+    -71,
+    -69,
+    -63,
+    -32,
+    -17,
+    -16,
+    -15,
+    -14,
+    -13,
+    -12,
+    -10,
+    -8,
+    -7,
+    -6,
+    -5,
+    -4,
+    -3,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    35,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    52,
+    53,
+    56,
+    58,
+    59,
+    60,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1433,
+      "ms": 2748524,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1469,
+      "ms": 3731930,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 662,
+      "ms": 3002043,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 632,
+      "ms": 3307410,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 143,
+      "ms": 2687901,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 370,
+      "ms": 2718720,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 215,
+      "ms": 3952784,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 125,
+      "ms": 2243163,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 382,
+      "ms": 3551182,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 221,
+      "ms": 2556164,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 58,
+      "ms": 2621258,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 134,
+      "ms": 3285972,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 289,
+      "ms": 3720443,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 429,
+      "ms": 4019809,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 325,
+      "ms": 3137495,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 394,
+      "ms": 2800341,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 724,
+      "ms": 5060092,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 375,
+      "ms": 2964862,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 251,
+      "ms": 4419100,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 315,
+      "ms": 3802267,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 293,
+      "ms": 3059280,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 272,
+      "ms": 3804749,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 130,
+      "ms": 2511936,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 148,
+      "ms": 2485734,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 179,
+      "ms": 4350233,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 297,
+      "ms": 4400245,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 289,
+      "ms": 5108529,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 217,
+      "ms": 4600995,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 118,
+      "ms": 3509384,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 255,
+      "ms": 4705825,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 382,
+      "ms": 4295951,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 226,
+      "ms": 3724066,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 489,
+      "ms": 4811930,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 350,
+      "ms": 3131949,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 445,
+      "ms": 3683386,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 166,
+      "ms": 3117633,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 224,
+      "ms": 3635250,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 262,
+      "ms": 3826522,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 357,
+      "ms": 3921458,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 844,
+      "ms": 4354849,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 484,
+      "ms": 4977988,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 171,
+      "ms": 3494520,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 320,
+      "ms": 2933968,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 702,
+      "ms": 4564581,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 190,
+      "ms": 3276053,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 250,
+      "ms": 2590224,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 167,
+      "ms": 3740118,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 194,
+      "ms": 3529843,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 145,
+      "ms": 3529411,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 228,
+      "ms": 3814155,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 267,
+      "ms": 2429246,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 298,
+      "ms": 3603287,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 264,
+      "ms": 2923233,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 265,
+      "ms": 3439401,
+      "dish": "Pies"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 392,
+      "ms": 5379206,
+      "dish": "Fish"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 330,
+      "ms": 5522808,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 172,
+      "ms": 3457367,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 311,
+      "ms": 2359138,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 207,
+      "ms": 3887760,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 297,
+      "ms": 2758515,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 167,
+      "ms": 2883492,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 170,
+      "ms": 4094159,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 475,
+      "ms": 3597170,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 287,
+      "ms": 3685426,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 552,
+      "ms": 2948273,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 337,
+      "ms": 3321780,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 292,
+      "ms": 3746446,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 317,
+      "ms": 4205762,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 372,
+      "ms": 3794510,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 276,
+      "ms": 3129886,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 293,
+      "ms": 2229179,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 184,
+      "ms": 3262284,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 309,
+      "ms": 3600047,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 118,
+      "ms": 2712101,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 231,
+      "ms": 2711117,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 258,
+      "ms": 4344677,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 250,
+      "ms": 4009475,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 208,
+      "ms": 3231459,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 232,
+      "ms": 3592889,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 232,
+      "ms": 3801229,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 201,
+      "ms": 3814639,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 269,
+      "ms": 2215063,
+      "dish": "Sundaes"
+    }
+  ]
+}

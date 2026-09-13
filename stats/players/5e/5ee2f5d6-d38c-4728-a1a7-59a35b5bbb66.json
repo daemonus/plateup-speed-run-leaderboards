@@ -1,0 +1,50 @@
+{
+  "id": "5ee2f5d6-d38c-4728-a1a7-59a35b5bbb66",
+  "persona": "katuna",
+  "names": [
+    "katuna"
+  ],
+  "runs": 4,
+  "bestRank": 83,
+  "worstRank": 863,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2025504,
+  "weeksActive": [
+    -91,
+    -89,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 863,
+      "ms": 2773799,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 383,
+      "ms": 2677158,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 125,
+      "ms": 2527987,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 83,
+      "ms": 2025504,
+      "dish": "Fish"
+    }
+  ]
+}

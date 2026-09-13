@@ -1,0 +1,42 @@
+{
+  "id": "34ff54c9-6333-478c-b2b3-e59d3b4e4b8a",
+  "persona": "Razgriz",
+  "names": [
+    "Razgriz"
+  ],
+  "runs": 3,
+  "bestRank": 211,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3346434,
+  "weeksActive": [
+    3,
+    4,
+    5
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 326,
+      "ms": 3346434,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 211,
+      "ms": 3488340,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 280,
+      "ms": 4006568,
+      "dish": "Breakfast"
+    }
+  ]
+}

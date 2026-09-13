@@ -1,0 +1,42 @@
+{
+  "id": "17ce0390-afda-4a9a-aa44-da7ac9d5add2",
+  "persona": "Amicola",
+  "names": [
+    "Amicola"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 715,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2823957,
+  "weeksActive": [
+    -77,
+    -14,
+    56
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 715,
+      "ms": 4209767,
+      "dish": "Pies"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 275,
+      "ms": 5331262,
+      "dish": "Salad"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 518,
+      "ms": 2823957,
+      "dish": "Sundaes"
+    }
+  ]
+}

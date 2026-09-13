@@ -1,0 +1,34 @@
+{
+  "id": "7d605e31-7d53-484b-9b3f-f93fc5c40adc",
+  "persona": "bark",
+  "names": [
+    "bark"
+  ],
+  "runs": 2,
+  "bestRank": 393,
+  "worstRank": 481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4585990,
+  "weeksActive": [
+    -4,
+    2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 481,
+      "ms": 4585990,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 393,
+      "ms": 4888199,
+      "dish": "Breakfast"
+    }
+  ]
+}

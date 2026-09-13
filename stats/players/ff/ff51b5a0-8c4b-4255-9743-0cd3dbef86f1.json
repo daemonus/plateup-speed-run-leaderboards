@@ -1,0 +1,42 @@
+{
+  "id": "ff51b5a0-8c4b-4255-9743-0cd3dbef86f1",
+  "persona": "Oress",
+  "names": [
+    "Oress"
+  ],
+  "runs": 3,
+  "bestRank": 206,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4183529,
+  "weeksActive": [
+    -28,
+    -25,
+    -22
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 206,
+      "ms": 5102168,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 376,
+      "ms": 4183529,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 233,
+      "ms": 5013553,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1d896760-82e8-4625-a88d-f64031813c39",
+  "persona": "yumo",
+  "names": [
+    "yumo"
+  ],
+  "runs": 3,
+  "bestRank": 52,
+  "worstRank": 115,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2597427,
+  "weeksActive": [
+    -8,
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 115,
+      "ms": 3497860,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 52,
+      "ms": 3009287,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 59,
+      "ms": 2597427,
+      "dish": "Breakfast"
+    }
+  ]
+}

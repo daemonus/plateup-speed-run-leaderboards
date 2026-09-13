@@ -1,0 +1,34 @@
+{
+  "id": "4a4ad421-01f5-4494-b562-8842a83142fe",
+  "persona": "baby",
+  "names": [
+    "baby"
+  ],
+  "runs": 2,
+  "bestRank": 50,
+  "worstRank": 61,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2167011,
+  "weeksActive": [
+    -62,
+    -61
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 50,
+      "ms": 2284510,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 61,
+      "ms": 2167011,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0b1ba458-5af4-4c26-8c8c-3cceaf91ed7d",
+  "persona": "joe",
+  "names": [
+    "joe"
+  ],
+  "runs": 2,
+  "bestRank": 177,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3092752,
+  "weeksActive": [
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 177,
+      "ms": 3092752,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 326,
+      "ms": 3553042,
+      "dish": "Pies"
+    }
+  ]
+}

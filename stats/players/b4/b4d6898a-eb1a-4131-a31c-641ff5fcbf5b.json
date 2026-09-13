@@ -1,0 +1,50 @@
+{
+  "id": "b4d6898a-eb1a-4131-a31c-641ff5fcbf5b",
+  "persona": "cotton candy",
+  "names": [
+    "cotton candy"
+  ],
+  "runs": 4,
+  "bestRank": 103,
+  "worstRank": 824,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2329200,
+  "weeksActive": [
+    -93,
+    -92,
+    -82,
+    -80
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 824,
+      "ms": 2329200,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 511,
+      "ms": 3481283,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 212,
+      "ms": 2512890,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 103,
+      "ms": 2949784,
+      "dish": "Stir Fry"
+    }
+  ]
+}

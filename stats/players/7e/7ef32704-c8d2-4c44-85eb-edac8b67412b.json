@@ -1,0 +1,50 @@
+{
+  "id": "7ef32704-c8d2-4c44-85eb-edac8b67412b",
+  "persona": "ShadowTulip24",
+  "names": [
+    "ShadowTulip24"
+  ],
+  "runs": 4,
+  "bestRank": 223,
+  "worstRank": 714,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2529307,
+  "weeksActive": [
+    -33,
+    -32,
+    -31,
+    43
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 356,
+      "ms": 4429362,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 714,
+      "ms": 3947225,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 363,
+      "ms": 3456693,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 223,
+      "ms": 2529307,
+      "dish": "Fish"
+    }
+  ]
+}

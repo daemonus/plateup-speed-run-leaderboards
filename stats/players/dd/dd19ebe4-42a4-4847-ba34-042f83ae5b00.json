@@ -1,0 +1,98 @@
+{
+  "id": "dd19ebe4-42a4-4847-ba34-042f83ae5b00",
+  "persona": "marian.mayor.r",
+  "names": [
+    "marian.mayor.r"
+  ],
+  "runs": 10,
+  "bestRank": 25,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1443693,
+  "weeksActive": [
+    -53,
+    -50,
+    -49,
+    -48,
+    -47,
+    -46,
+    -45,
+    -39,
+    -38,
+    -34
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 185,
+      "ms": 3815089,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 171,
+      "ms": 4007427,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 110,
+      "ms": 3481003,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 118,
+      "ms": 4262042,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 25,
+      "ms": 2357321,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 30,
+      "ms": 2516473,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 80,
+      "ms": 2508438,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 121,
+      "ms": 2511996,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 26,
+      "ms": 1443693,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 117,
+      "ms": 2624839,
+      "dish": "Pies"
+    }
+  ]
+}

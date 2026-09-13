@@ -1,0 +1,42 @@
+{
+  "id": "daf1f0bb-697e-4632-ba53-f4aee2bfad9a",
+  "persona": "wiggles",
+  "names": [
+    "wiggles"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 1123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2839662,
+  "weeksActive": [
+    -94,
+    -91,
+    -47
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1123,
+      "ms": 3584018,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 924,
+      "ms": 2839662,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 205,
+      "ms": 3509033,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

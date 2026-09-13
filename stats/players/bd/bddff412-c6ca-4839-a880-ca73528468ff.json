@@ -1,0 +1,42 @@
+{
+  "id": "bddff412-c6ca-4839-a880-ca73528468ff",
+  "persona": "Alex",
+  "names": [
+    "Alex"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 205,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2603137,
+  "weeksActive": [
+    26,
+    27,
+    32
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 205,
+      "ms": 3500242,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 120,
+      "ms": 2888090,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 100,
+      "ms": 2603137,
+      "dish": "Pies"
+    }
+  ]
+}

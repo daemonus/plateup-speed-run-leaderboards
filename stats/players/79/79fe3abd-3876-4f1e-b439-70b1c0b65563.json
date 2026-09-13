@@ -1,0 +1,34 @@
+{
+  "id": "79fe3abd-3876-4f1e-b439-70b1c0b65563",
+  "persona": "X",
+  "names": [
+    "X"
+  ],
+  "runs": 2,
+  "bestRank": 161,
+  "worstRank": 171,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2700528,
+  "weeksActive": [
+    66,
+    67
+  ],
+  "history": [
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 161,
+      "ms": 2700528,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 171,
+      "ms": 3090343,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

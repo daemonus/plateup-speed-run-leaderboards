@@ -1,0 +1,58 @@
+{
+  "id": "d6c1a94c-ae4a-4353-b6ae-5807f70d2fc2",
+  "persona": "sonci",
+  "names": [
+    "sonci"
+  ],
+  "runs": 5,
+  "bestRank": 67,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2036720,
+  "weeksActive": [
+    -66,
+    -14,
+    22,
+    44,
+    52
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 212,
+      "ms": 3531176,
+      "dish": "Turkey"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 96,
+      "ms": 3498594,
+      "dish": "Salad"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 228,
+      "ms": 3807066,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 260,
+      "ms": 3324409,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 67,
+      "ms": 2036720,
+      "dish": "Fish"
+    }
+  ]
+}

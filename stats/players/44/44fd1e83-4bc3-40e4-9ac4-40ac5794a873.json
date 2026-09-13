@@ -1,0 +1,34 @@
+{
+  "id": "44fd1e83-4bc3-40e4-9ac4-40ac5794a873",
+  "persona": "Berus",
+  "names": [
+    "Berus"
+  ],
+  "runs": 2,
+  "bestRank": 436,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5357337,
+  "weeksActive": [
+    -21,
+    59
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 530,
+      "ms": 5357337,
+      "dish": "Pizza"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 436,
+      "ms": 6725851,
+      "dish": "Salad"
+    }
+  ]
+}

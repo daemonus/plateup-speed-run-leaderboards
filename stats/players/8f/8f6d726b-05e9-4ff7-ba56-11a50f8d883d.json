@@ -1,0 +1,42 @@
+{
+  "id": "8f6d726b-05e9-4ff7-ba56-11a50f8d883d",
+  "persona": "Violeta",
+  "names": [
+    "Violeta"
+  ],
+  "runs": 3,
+  "bestRank": 250,
+  "worstRank": 538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6593522,
+  "weeksActive": [
+    -23,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 250,
+      "ms": 8937092,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 429,
+      "ms": 6593522,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 538,
+      "ms": 7066784,
+      "dish": "Sundaes"
+    }
+  ]
+}

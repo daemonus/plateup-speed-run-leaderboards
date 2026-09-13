@@ -1,0 +1,42 @@
+{
+  "id": "c3e2e1fc-adb0-4d54-b825-516207cddf75",
+  "persona": "Leenaray",
+  "names": [
+    "Leenaray"
+  ],
+  "runs": 3,
+  "bestRank": 231,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3239099,
+  "weeksActive": [
+    52,
+    53,
+    54
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 364,
+      "ms": 3239099,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 231,
+      "ms": 3387213,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 246,
+      "ms": 4301192,
+      "dish": "Burgers"
+    }
+  ]
+}

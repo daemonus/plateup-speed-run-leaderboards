@@ -1,0 +1,50 @@
+{
+  "id": "6df900ca-4abc-4d2e-837b-dcc549ce94da",
+  "persona": "Kcorweeb",
+  "names": [
+    "Kcorweeb"
+  ],
+  "runs": 4,
+  "bestRank": 10,
+  "worstRank": 70,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1385456,
+  "weeksActive": [
+    -81,
+    -80,
+    -79,
+    83
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 70,
+      "ms": 2706085,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 10,
+      "ms": 1789616,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 30,
+      "ms": 2032476,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 57,
+      "ms": 1385456,
+      "dish": "Sundaes"
+    }
+  ]
+}

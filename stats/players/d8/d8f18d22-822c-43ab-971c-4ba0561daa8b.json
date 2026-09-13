@@ -1,0 +1,42 @@
+{
+  "id": "d8f18d22-822c-43ab-971c-4ba0561daa8b",
+  "persona": "ChaosMode",
+  "names": [
+    "ChaosMode"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 119,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1763889,
+  "weeksActive": [
+    -89,
+    -75,
+    -13
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 119,
+      "ms": 1882854,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 74,
+      "ms": 1763889,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 29,
+      "ms": 2175917,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

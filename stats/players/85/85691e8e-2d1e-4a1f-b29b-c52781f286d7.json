@@ -1,0 +1,66 @@
+{
+  "id": "85691e8e-2d1e-4a1f-b29b-c52781f286d7",
+  "persona": "SilentScholar",
+  "names": [
+    "SilentScholar"
+  ],
+  "runs": 6,
+  "bestRank": 137,
+  "worstRank": 822,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2973397,
+  "weeksActive": [
+    -72,
+    -60,
+    -51,
+    -42,
+    -30,
+    -24
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 822,
+      "ms": 5793353,
+      "dish": "Pies"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 254,
+      "ms": 3765321,
+      "dish": "Burgers"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 334,
+      "ms": 3175702,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 137,
+      "ms": 3663539,
+      "dish": "Burgers"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 407,
+      "ms": 2973397,
+      "dish": "Turkey"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 188,
+      "ms": 4162301,
+      "dish": "Breakfast"
+    }
+  ]
+}

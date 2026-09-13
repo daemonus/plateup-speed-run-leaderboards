@@ -1,0 +1,42 @@
+{
+  "id": "622b502e-e02b-40f7-83a5-9d28dd7d3190",
+  "persona": "Krish",
+  "names": [
+    "Krish"
+  ],
+  "runs": 3,
+  "bestRank": 304,
+  "worstRank": 538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4801891,
+  "weeksActive": [
+    68,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 538,
+      "ms": 5240456,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 304,
+      "ms": 9309855,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 320,
+      "ms": 4801891,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

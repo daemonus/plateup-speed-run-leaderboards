@@ -1,0 +1,34 @@
+{
+  "id": "40df8dc5-a616-41b1-b466-31108bece38a",
+  "persona": "Sonder",
+  "names": [
+    "Sonder"
+  ],
+  "runs": 2,
+  "bestRank": 380,
+  "worstRank": 747,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3891121,
+  "weeksActive": [
+    -86,
+    -79
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 747,
+      "ms": 3891121,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 380,
+      "ms": 4325606,
+      "dish": "Pies"
+    }
+  ]
+}

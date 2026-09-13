@@ -1,0 +1,58 @@
+{
+  "id": "1d0240c7-eed0-48f0-a60a-57e385139719",
+  "persona": "shrtstuff",
+  "names": [
+    "shrtstuff"
+  ],
+  "runs": 5,
+  "bestRank": 218,
+  "worstRank": 674,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3188329,
+  "weeksActive": [
+    -70,
+    -67,
+    -66,
+    -62,
+    -61
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 674,
+      "ms": 7295637,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 546,
+      "ms": 5216623,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 288,
+      "ms": 4857189,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 218,
+      "ms": 3188329,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 264,
+      "ms": 3332985,
+      "dish": "Fish"
+    }
+  ]
+}

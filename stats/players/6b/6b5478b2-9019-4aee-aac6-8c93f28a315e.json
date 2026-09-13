@@ -1,0 +1,34 @@
+{
+  "id": "6b5478b2-9019-4aee-aac6-8c93f28a315e",
+  "persona": "yucoc",
+  "names": [
+    "yucoc"
+  ],
+  "runs": 2,
+  "bestRank": 362,
+  "worstRank": 454,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2621321,
+  "weeksActive": [
+    60,
+    64
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 362,
+      "ms": 4674710,
+      "dish": "Burgers"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 454,
+      "ms": 2621321,
+      "dish": "Sundaes"
+    }
+  ]
+}

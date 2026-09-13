@@ -1,0 +1,42 @@
+{
+  "id": "332281fd-0f2b-425f-86ac-3315b4746e08",
+  "persona": "Lit_Lemur",
+  "names": [
+    "Lit_Lemur"
+  ],
+  "runs": 3,
+  "bestRank": 532,
+  "worstRank": 750,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3704668,
+  "weeksActive": [
+    8,
+    12,
+    20
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 750,
+      "ms": 3922926,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 532,
+      "ms": 5026983,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 662,
+      "ms": 3704668,
+      "dish": "Turkey"
+    }
+  ]
+}

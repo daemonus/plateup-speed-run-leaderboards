@@ -1,0 +1,42 @@
+{
+  "id": "d2d4fc34-3e55-44c0-9d26-4a854ce66de1",
+  "persona": "EASY",
+  "names": [
+    "EASY"
+  ],
+  "runs": 3,
+  "bestRank": 167,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3428795,
+  "weeksActive": [
+    38,
+    39,
+    40
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 425,
+      "ms": 4154302,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 322,
+      "ms": 5316764,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 167,
+      "ms": 3428795,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

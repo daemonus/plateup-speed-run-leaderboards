@@ -1,0 +1,74 @@
+{
+  "id": "88b39ebe-aeaf-4ccb-834b-7ff3104f60d0",
+  "persona": "maya",
+  "names": [
+    "maya"
+  ],
+  "runs": 7,
+  "bestRank": 221,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2909409,
+  "weeksActive": [
+    7,
+    12,
+    15,
+    16,
+    18,
+    20,
+    23
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 430,
+      "ms": 5116625,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 498,
+      "ms": 4148807,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 517,
+      "ms": 3666596,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 366,
+      "ms": 4808396,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 221,
+      "ms": 4357606,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 500,
+      "ms": 3237106,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 262,
+      "ms": 2909409,
+      "dish": "Turkey"
+    }
+  ]
+}

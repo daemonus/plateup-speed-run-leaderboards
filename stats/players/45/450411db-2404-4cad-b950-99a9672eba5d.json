@@ -1,0 +1,50 @@
+{
+  "id": "450411db-2404-4cad-b950-99a9672eba5d",
+  "persona": "Ceramic Dysc",
+  "names": [
+    "Ceramic Dysc"
+  ],
+  "runs": 4,
+  "bestRank": 124,
+  "worstRank": 218,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2385117,
+  "weeksActive": [
+    14,
+    15,
+    27,
+    28
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 124,
+      "ms": 2829803,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 193,
+      "ms": 2385117,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 138,
+      "ms": 3012643,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 218,
+      "ms": 2918035,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "96e27a25-282c-4106-b88c-5bfcfcaaa127",
+  "persona": "Bean",
+  "names": [
+    "Bean"
+  ],
+  "runs": 2,
+  "bestRank": 214,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2693839,
+  "weeksActive": [
+    -37,
+    -31
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 214,
+      "ms": 2693839,
+      "dish": "Fish"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 326,
+      "ms": 3362951,
+      "dish": "Pies"
+    }
+  ]
+}

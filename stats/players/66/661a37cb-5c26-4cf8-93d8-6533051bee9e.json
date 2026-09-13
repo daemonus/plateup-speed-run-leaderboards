@@ -1,0 +1,50 @@
+{
+  "id": "661a37cb-5c26-4cf8-93d8-6533051bee9e",
+  "persona": "cuckoo",
+  "names": [
+    "cuckoo"
+  ],
+  "runs": 4,
+  "bestRank": 239,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3287927,
+  "weeksActive": [
+    51,
+    52,
+    55,
+    58
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 342,
+      "ms": 5452672,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 381,
+      "ms": 3287927,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 239,
+      "ms": 4173705,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 460,
+      "ms": 3845974,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "86c468dd-3b1b-4efa-a1d5-a603eb01f6c7",
+  "persona": "potato",
+  "names": [
+    "potato"
+  ],
+  "runs": 5,
+  "bestRank": 117,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2828822,
+  "weeksActive": [
+    -61,
+    -60,
+    -59,
+    -58,
+    -57
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 342,
+      "ms": 3658763,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 227,
+      "ms": 3669338,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 164,
+      "ms": 2828822,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 117,
+      "ms": 3562966,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 238,
+      "ms": 4204435,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

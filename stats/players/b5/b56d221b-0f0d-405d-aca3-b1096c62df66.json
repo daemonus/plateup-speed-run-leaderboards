@@ -1,0 +1,66 @@
+{
+  "id": "b56d221b-0f0d-405d-aca3-b1096c62df66",
+  "persona": "Quixx",
+  "names": [
+    "Quixx"
+  ],
+  "runs": 6,
+  "bestRank": 165,
+  "worstRank": 704,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1988528,
+  "weeksActive": [
+    0,
+    2,
+    3,
+    41,
+    47,
+    86
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 314,
+      "ms": 4580046,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 312,
+      "ms": 4239015,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 704,
+      "ms": 4665366,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 332,
+      "ms": 2432795,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 286,
+      "ms": 4334704,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 165,
+      "ms": 1988528,
+      "dish": "Sundaes"
+    }
+  ]
+}

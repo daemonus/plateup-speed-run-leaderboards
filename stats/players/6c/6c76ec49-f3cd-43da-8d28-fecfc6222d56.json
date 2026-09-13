@@ -1,0 +1,66 @@
+{
+  "id": "6c76ec49-f3cd-43da-8d28-fecfc6222d56",
+  "persona": "RDiligent",
+  "names": [
+    "RDiligent"
+  ],
+  "runs": 6,
+  "bestRank": 232,
+  "worstRank": 917,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3089600,
+  "weeksActive": [
+    62,
+    63,
+    64,
+    66,
+    72,
+    75
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 405,
+      "ms": 4011339,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 298,
+      "ms": 3214375,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 917,
+      "ms": 4232267,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 232,
+      "ms": 3089600,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 262,
+      "ms": 3786541,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 309,
+      "ms": 4530159,
+      "dish": "Pies"
+    }
+  ]
+}

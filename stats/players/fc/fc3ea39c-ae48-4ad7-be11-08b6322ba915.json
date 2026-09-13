@@ -1,0 +1,50 @@
+{
+  "id": "fc3ea39c-ae48-4ad7-be11-08b6322ba915",
+  "persona": "Voxs",
+  "names": [
+    "Voxs"
+  ],
+  "runs": 4,
+  "bestRank": 139,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3348351,
+  "weeksActive": [
+    -27,
+    -25,
+    -20,
+    -5
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 156,
+      "ms": 3941309,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 348,
+      "ms": 4076670,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 352,
+      "ms": 3985758,
+      "dish": "Burgers"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 139,
+      "ms": 3348351,
+      "dish": "Pizza"
+    }
+  ]
+}

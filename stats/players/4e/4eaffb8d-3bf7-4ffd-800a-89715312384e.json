@@ -1,0 +1,50 @@
+{
+  "id": "4eaffb8d-3bf7-4ffd-800a-89715312384e",
+  "persona": "nhughes",
+  "names": [
+    "nhughes"
+  ],
+  "runs": 4,
+  "bestRank": 227,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2652786,
+  "weeksActive": [
+    -92,
+    -90,
+    -84,
+    -76
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 227,
+      "ms": 2652786,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 495,
+      "ms": 2660415,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 293,
+      "ms": 2847235,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 341,
+      "ms": 2850302,
+      "dish": "Turkey"
+    }
+  ]
+}

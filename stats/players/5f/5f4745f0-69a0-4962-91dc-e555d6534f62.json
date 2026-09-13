@@ -1,0 +1,42 @@
+{
+  "id": "5f4745f0-69a0-4962-91dc-e555d6534f62",
+  "persona": "luna",
+  "names": [
+    "luna"
+  ],
+  "runs": 3,
+  "bestRank": 639,
+  "worstRank": 1619,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3962916,
+  "weeksActive": [
+    -91,
+    -90,
+    -84
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1619,
+      "ms": 4495748,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1058,
+      "ms": 3962916,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 639,
+      "ms": 4437743,
+      "dish": "Fish"
+    }
+  ]
+}

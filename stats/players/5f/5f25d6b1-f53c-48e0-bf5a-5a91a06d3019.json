@@ -1,0 +1,82 @@
+{
+  "id": "5f25d6b1-f53c-48e0-bf5a-5a91a06d3019",
+  "persona": "Beckatron",
+  "names": [
+    "Beckatron"
+  ],
+  "runs": 8,
+  "bestRank": 115,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2773730,
+  "weeksActive": [
+    -85,
+    -78,
+    -74,
+    -72,
+    -71,
+    -70,
+    -68,
+    -64
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 192,
+      "ms": 3665727,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 140,
+      "ms": 2773730,
+      "dish": "Burgers"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 311,
+      "ms": 3684586,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 412,
+      "ms": 3890180,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 280,
+      "ms": 2808161,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 221,
+      "ms": 3700290,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 169,
+      "ms": 3673201,
+      "dish": "Salad"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 115,
+      "ms": 2949935,
+      "dish": "Salad"
+    }
+  ]
+}

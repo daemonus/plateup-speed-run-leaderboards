@@ -1,0 +1,42 @@
+{
+  "id": "463b273d-16ab-4b77-b28c-b41965c0fb80",
+  "persona": "RAMPAGE",
+  "names": [
+    "RAMPAGE"
+  ],
+  "runs": 3,
+  "bestRank": 442,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2986247,
+  "weeksActive": [
+    83,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 504,
+      "ms": 2986247,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 442,
+      "ms": 3043390,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 451,
+      "ms": 3777681,
+      "dish": "Sundaes"
+    }
+  ]
+}

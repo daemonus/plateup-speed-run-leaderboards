@@ -1,0 +1,42 @@
+{
+  "id": "cf8a590f-4f26-46b2-8fa1-181d5c61f3fe",
+  "persona": "Tin",
+  "names": [
+    "Tin"
+  ],
+  "runs": 3,
+  "bestRank": 178,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4319172,
+  "weeksActive": [
+    -54,
+    -53,
+    -45
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 178,
+      "ms": 4975262,
+      "dish": "Salad"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 287,
+      "ms": 4319172,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 461,
+      "ms": 4454873,
+      "dish": "Breakfast"
+    }
+  ]
+}

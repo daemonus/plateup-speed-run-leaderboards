@@ -1,0 +1,42 @@
+{
+  "id": "862440c9-963b-4920-be96-aeaac044896a",
+  "persona": "Sharpy",
+  "names": [
+    "Sharpy"
+  ],
+  "runs": 3,
+  "bestRank": 92,
+  "worstRank": 235,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1988369,
+  "weeksActive": [
+    56,
+    57,
+    67
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 235,
+      "ms": 1988369,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 150,
+      "ms": 2885825,
+      "dish": "Salad"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 92,
+      "ms": 2573143,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "72a6ba0f-75d9-411f-92ee-4b11e556c173",
+  "persona": "bob202",
+  "names": [
+    "bob202"
+  ],
+  "runs": 2,
+  "bestRank": 135,
+  "worstRank": 394,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2786052,
+  "weeksActive": [
+    -86,
+    -81
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 394,
+      "ms": 2786052,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 135,
+      "ms": 3226802,
+      "dish": "Steak"
+    }
+  ]
+}

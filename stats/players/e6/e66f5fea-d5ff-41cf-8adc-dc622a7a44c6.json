@@ -1,0 +1,74 @@
+{
+  "id": "e66f5fea-d5ff-41cf-8adc-dc622a7a44c6",
+  "persona": "practicinghorse",
+  "names": [
+    "practicinghorse"
+  ],
+  "runs": 7,
+  "bestRank": 191,
+  "worstRank": 702,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3462897,
+  "weeksActive": [
+    -58,
+    -57,
+    -55,
+    -18,
+    -7,
+    41,
+    68
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 191,
+      "ms": 4199381,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 303,
+      "ms": 5000301,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 296,
+      "ms": 3680726,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 702,
+      "ms": 4983509,
+      "dish": "Fish"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 209,
+      "ms": 4199785,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 599,
+      "ms": 3462897,
+      "dish": "Turkey"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 451,
+      "ms": 3884869,
+      "dish": "Turkey"
+    }
+  ]
+}

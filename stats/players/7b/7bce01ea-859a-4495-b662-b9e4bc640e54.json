@@ -1,0 +1,74 @@
+{
+  "id": "7bce01ea-859a-4495-b662-b9e4bc640e54",
+  "persona": "DouDou",
+  "names": [
+    "DouDou"
+  ],
+  "runs": 7,
+  "bestRank": 66,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1357725,
+  "weeksActive": [
+    55,
+    56,
+    57,
+    63,
+    66,
+    70,
+    71
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 145,
+      "ms": 3440608,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 66,
+      "ms": 1357725,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 280,
+      "ms": 3495826,
+      "dish": "Salad"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 189,
+      "ms": 2806007,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 201,
+      "ms": 2894802,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 134,
+      "ms": 3046247,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 125,
+      "ms": 2756026,
+      "dish": "Pizza"
+    }
+  ]
+}

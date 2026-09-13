@@ -1,0 +1,42 @@
+{
+  "id": "dda8a4e0-8847-46ee-89fa-e5e6c6b4c3ed",
+  "persona": "Mr. E",
+  "names": [
+    "Mr. E"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3227768,
+  "weeksActive": [
+    -71,
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 565,
+      "ms": 3354347,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 317,
+      "ms": 3570233,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 249,
+      "ms": 3227768,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

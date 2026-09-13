@@ -1,0 +1,50 @@
+{
+  "id": "8d2e1961-f561-4227-83e8-68a9d6547cb4",
+  "persona": "Katy",
+  "names": [
+    "Katy"
+  ],
+  "runs": 4,
+  "bestRank": 338,
+  "worstRank": 679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2249838,
+  "weeksActive": [
+    -94,
+    -93,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 461,
+      "ms": 2792802,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 679,
+      "ms": 2249838,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 338,
+      "ms": 3442716,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 460,
+      "ms": 2963466,
+      "dish": "Fish"
+    }
+  ]
+}

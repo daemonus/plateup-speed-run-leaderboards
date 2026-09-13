@@ -1,0 +1,50 @@
+{
+  "id": "69cabfa5-d140-41e5-9fcd-a15085bda128",
+  "persona": "penniparty",
+  "names": [
+    "penniparty"
+  ],
+  "runs": 4,
+  "bestRank": 485,
+  "worstRank": 991,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2930568,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -86
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 989,
+      "ms": 2930568,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 991,
+      "ms": 3716935,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 823,
+      "ms": 4053077,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 485,
+      "ms": 3036887,
+      "dish": "Fish"
+    }
+  ]
+}

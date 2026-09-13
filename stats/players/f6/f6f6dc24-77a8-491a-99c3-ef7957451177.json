@@ -1,0 +1,66 @@
+{
+  "id": "f6f6dc24-77a8-491a-99c3-ef7957451177",
+  "persona": "Sora",
+  "names": [
+    "Sora"
+  ],
+  "runs": 6,
+  "bestRank": 40,
+  "worstRank": 276,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2174199,
+  "weeksActive": [
+    -41,
+    -40,
+    -18,
+    -17,
+    -16,
+    -13
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 189,
+      "ms": 4111208,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 82,
+      "ms": 3210270,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 276,
+      "ms": 3410762,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 40,
+      "ms": 2174199,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 192,
+      "ms": 2782424,
+      "dish": "Pies"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 193,
+      "ms": 3364851,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

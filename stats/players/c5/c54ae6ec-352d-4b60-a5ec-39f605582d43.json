@@ -1,0 +1,34 @@
+{
+  "id": "c54ae6ec-352d-4b60-a5ec-39f605582d43",
+  "persona": "SCP_NT",
+  "names": [
+    "SCP_NT"
+  ],
+  "runs": 2,
+  "bestRank": 94,
+  "worstRank": 212,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2048641,
+  "weeksActive": [
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 94,
+      "ms": 2841299,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 212,
+      "ms": 2048641,
+      "dish": "Turkey"
+    }
+  ]
+}

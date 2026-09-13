@@ -1,0 +1,50 @@
+{
+  "id": "57577b2f-f35d-44fe-9953-7e1a1cb565f3",
+  "persona": "Hotin Sozy",
+  "names": [
+    "Hotin Sozy"
+  ],
+  "runs": 4,
+  "bestRank": 405,
+  "worstRank": 1342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3159906,
+  "weeksActive": [
+    -92,
+    -91,
+    -89,
+    -78
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 405,
+      "ms": 3159906,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1342,
+      "ms": 3472550,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 1010,
+      "ms": 5614618,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 471,
+      "ms": 4552847,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "807c4be3-9885-4e4e-8aa9-c7909bf194e3",
+  "persona": "tridragon",
+  "names": [
+    "tridragon"
+  ],
+  "runs": 4,
+  "bestRank": 180,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3224272,
+  "weeksActive": [
+    -69,
+    -68,
+    -66,
+    -63
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 349,
+      "ms": 4959003,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 260,
+      "ms": 4511014,
+      "dish": "Salad"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 297,
+      "ms": 5279192,
+      "dish": "Turkey"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 180,
+      "ms": 3224272,
+      "dish": "Stir Fry"
+    }
+  ]
+}

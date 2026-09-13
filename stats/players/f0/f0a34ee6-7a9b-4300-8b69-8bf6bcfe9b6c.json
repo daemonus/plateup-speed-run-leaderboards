@@ -1,0 +1,34 @@
+{
+  "id": "f0a34ee6-7a9b-4300-8b69-8bf6bcfe9b6c",
+  "persona": "tubus",
+  "names": [
+    "tubus"
+  ],
+  "runs": 2,
+  "bestRank": 605,
+  "worstRank": 661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4591983,
+  "weeksActive": [
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 605,
+      "ms": 4591983,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 661,
+      "ms": 5079364,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "75b3254b-a65f-44d9-8270-a4528ba3b43e",
+  "persona": "TmoJeove",
+  "names": [
+    "TmoJeove"
+  ],
+  "runs": 3,
+  "bestRank": 910,
+  "worstRank": 1035,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2379032,
+  "weeksActive": [
+    -94,
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1035,
+      "ms": 3493237,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 910,
+      "ms": 2379032,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 962,
+      "ms": 4939312,
+      "dish": "Pies"
+    }
+  ]
+}

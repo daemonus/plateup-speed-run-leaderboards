@@ -1,0 +1,50 @@
+{
+  "id": "bbddf0bc-0141-4788-b195-1435725b76f7",
+  "persona": "Valley",
+  "names": [
+    "Valley"
+  ],
+  "runs": 4,
+  "bestRank": 349,
+  "worstRank": 935,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3644280,
+  "weeksActive": [
+    1,
+    43,
+    56,
+    67
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 458,
+      "ms": 5792273,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 566,
+      "ms": 3644280,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 935,
+      "ms": 6065787,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 349,
+      "ms": 5211806,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

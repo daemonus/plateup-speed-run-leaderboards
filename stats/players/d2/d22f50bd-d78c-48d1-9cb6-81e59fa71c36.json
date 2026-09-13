@@ -1,0 +1,34 @@
+{
+  "id": "d22f50bd-d78c-48d1-9cb6-81e59fa71c36",
+  "persona": "joze",
+  "names": [
+    "joze"
+  ],
+  "runs": 2,
+  "bestRank": 933,
+  "worstRank": 1530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3554861,
+  "weeksActive": [
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1530,
+      "ms": 3908278,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 933,
+      "ms": 3554861,
+      "dish": "Fish"
+    }
+  ]
+}

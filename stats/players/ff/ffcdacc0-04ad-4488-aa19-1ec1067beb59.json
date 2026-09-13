@@ -1,0 +1,42 @@
+{
+  "id": "ffcdacc0-04ad-4488-aa19-1ec1067beb59",
+  "persona": "Alterix",
+  "names": [
+    "Alterix"
+  ],
+  "runs": 3,
+  "bestRank": 599,
+  "worstRank": 1283,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2714218,
+  "weeksActive": [
+    -94,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1283,
+      "ms": 3795916,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 814,
+      "ms": 2714218,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 599,
+      "ms": 3181605,
+      "dish": "Pies"
+    }
+  ]
+}

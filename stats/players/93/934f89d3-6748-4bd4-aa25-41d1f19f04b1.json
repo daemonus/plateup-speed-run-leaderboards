@@ -1,0 +1,34 @@
+{
+  "id": "934f89d3-6748-4bd4-aa25-41d1f19f04b1",
+  "persona": "JimothyTheThird",
+  "names": [
+    "JimothyTheThird"
+  ],
+  "runs": 2,
+  "bestRank": 140,
+  "worstRank": 1162,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2570848,
+  "weeksActive": [
+    -93,
+    -65
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1162,
+      "ms": 2570848,
+      "dish": "Fish"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 140,
+      "ms": 4699026,
+      "dish": "Burgers"
+    }
+  ]
+}

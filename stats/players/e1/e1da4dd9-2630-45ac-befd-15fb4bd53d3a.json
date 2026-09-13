@@ -1,0 +1,34 @@
+{
+  "id": "e1da4dd9-2630-45ac-befd-15fb4bd53d3a",
+  "persona": "YBBBB",
+  "names": [
+    "YBBBB"
+  ],
+  "runs": 2,
+  "bestRank": 327,
+  "worstRank": 379,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4969376,
+  "weeksActive": [
+    -27,
+    -26
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 327,
+      "ms": 6709794,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 379,
+      "ms": 4969376,
+      "dish": "Breakfast"
+    }
+  ]
+}

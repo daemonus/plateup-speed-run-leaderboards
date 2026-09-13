@@ -1,0 +1,42 @@
+{
+  "id": "851fb899-5538-4b75-ae51-8cfba7b69d7e",
+  "persona": "\u71C3\u51B0Zero",
+  "names": [
+    "\u71C3\u51B0Zero"
+  ],
+  "runs": 3,
+  "bestRank": 310,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3817102,
+  "weeksActive": [
+    33,
+    34,
+    38
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 310,
+      "ms": 7074632,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 440,
+      "ms": 5481147,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 377,
+      "ms": 3817102,
+      "dish": "Pies"
+    }
+  ]
+}

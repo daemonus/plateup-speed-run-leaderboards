@@ -1,0 +1,42 @@
+{
+  "id": "0856468e-e69c-491f-b2ba-b5f1877658e8",
+  "persona": "CanterburySnails",
+  "names": [
+    "CanterburySnails"
+  ],
+  "runs": 3,
+  "bestRank": 164,
+  "worstRank": 235,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2442123,
+  "weeksActive": [
+    -84,
+    -80,
+    -72
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 191,
+      "ms": 2442123,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 164,
+      "ms": 3674667,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 235,
+      "ms": 3236746,
+      "dish": "Pies"
+    }
+  ]
+}

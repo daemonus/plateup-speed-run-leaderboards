@@ -1,0 +1,66 @@
+{
+  "id": "5df4c577-6742-40cc-b21e-30361df67dca",
+  "persona": "Apterous",
+  "names": [
+    "Apterous"
+  ],
+  "runs": 6,
+  "bestRank": 156,
+  "worstRank": 743,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2284697,
+  "weeksActive": [
+    -94,
+    -93,
+    -85,
+    -83,
+    -82,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 185,
+      "ms": 2348073,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 743,
+      "ms": 2284697,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 156,
+      "ms": 3334490,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 234,
+      "ms": 2978862,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 363,
+      "ms": 3103962,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 289,
+      "ms": 2510096,
+      "dish": "Fish"
+    }
+  ]
+}

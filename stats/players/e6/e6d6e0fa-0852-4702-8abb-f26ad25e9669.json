@@ -1,0 +1,42 @@
+{
+  "id": "e6d6e0fa-0852-4702-8abb-f26ad25e9669",
+  "persona": "Shem",
+  "names": [
+    "Shem"
+  ],
+  "runs": 3,
+  "bestRank": 846,
+  "worstRank": 1043,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4303039,
+  "weeksActive": [
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 882,
+      "ms": 5228870,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 846,
+      "ms": 4303039,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1043,
+      "ms": 5972255,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "59ee5b12-f3a1-4859-80b1-ecd19a0b530c",
+  "persona": "blob",
+  "names": [
+    "blob"
+  ],
+  "runs": 2,
+  "bestRank": 207,
+  "worstRank": 515,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1748192,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 207,
+      "ms": 1748192,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 515,
+      "ms": 2341401,
+      "dish": "Fish"
+    }
+  ]
+}

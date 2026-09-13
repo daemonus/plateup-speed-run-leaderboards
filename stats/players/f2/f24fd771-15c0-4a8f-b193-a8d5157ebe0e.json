@@ -1,0 +1,50 @@
+{
+  "id": "f24fd771-15c0-4a8f-b193-a8d5157ebe0e",
+  "persona": "mouseyb",
+  "names": [
+    "mouseyb"
+  ],
+  "runs": 4,
+  "bestRank": 179,
+  "worstRank": 752,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1764538,
+  "weeksActive": [
+    -93,
+    -91,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 222,
+      "ms": 1764538,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 752,
+      "ms": 2638621,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 179,
+      "ms": 2866618,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 199,
+      "ms": 2242910,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e9b22df5-be39-4af5-bd97-6d92dc259f9d",
+  "persona": "Hart",
+  "names": [
+    "Hart"
+  ],
+  "runs": 2,
+  "bestRank": 206,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2792395,
+  "weeksActive": [
+    -39,
+    -30
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 206,
+      "ms": 2792395,
+      "dish": "Pizza"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 444,
+      "ms": 3069965,
+      "dish": "Turkey"
+    }
+  ]
+}

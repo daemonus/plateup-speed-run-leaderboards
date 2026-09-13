@@ -1,0 +1,34 @@
+{
+  "id": "b17de84c-11bc-43b4-ad28-ec00d7a4a721",
+  "persona": "\u041A\u0440\u0430\u0441\u0438\u0442\u0435\u043B\u044C \u044F\u0438\u0447\u043A\u0430",
+  "names": [
+    "\u041A\u0440\u0430\u0441\u0438\u0442\u0435\u043B\u044C \u044F\u0438\u0447\u043A\u0430"
+  ],
+  "runs": 2,
+  "bestRank": 428,
+  "worstRank": 847,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2890788,
+  "weeksActive": [
+    -90,
+    -86
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 847,
+      "ms": 3354760,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 428,
+      "ms": 2890788,
+      "dish": "Fish"
+    }
+  ]
+}

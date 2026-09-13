@@ -1,0 +1,34 @@
+{
+  "id": "41a95379-a58e-4d3b-aaf9-99ebf439584e",
+  "persona": "Minh",
+  "names": [
+    "Minh"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 126,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2757538,
+  "weeksActive": [
+    -81,
+    -66
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 126,
+      "ms": 3169761,
+      "dish": "Steak"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 110,
+      "ms": 2757538,
+      "dish": "Turkey"
+    }
+  ]
+}

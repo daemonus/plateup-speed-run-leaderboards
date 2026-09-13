@@ -1,0 +1,42 @@
+{
+  "id": "cddf44ac-85bb-4aa9-b7b1-3c163eb2f79a",
+  "persona": "Ball",
+  "names": [
+    "Ball"
+  ],
+  "runs": 3,
+  "bestRank": 191,
+  "worstRank": 597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4506300,
+  "weeksActive": [
+    -21,
+    -11,
+    66
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 597,
+      "ms": 10183946,
+      "dish": "Pizza"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 191,
+      "ms": 5645119,
+      "dish": "Burgers"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 402,
+      "ms": 4506300,
+      "dish": "Breakfast"
+    }
+  ]
+}

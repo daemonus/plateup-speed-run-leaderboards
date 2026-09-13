@@ -1,0 +1,42 @@
+{
+  "id": "158fdaa3-01e6-400f-95c9-9a38bea3adbd",
+  "persona": "Mama Polar Bear",
+  "names": [
+    "Mama Polar Bear"
+  ],
+  "runs": 3,
+  "bestRank": 115,
+  "worstRank": 210,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3248313,
+  "weeksActive": [
+    -43,
+    -42,
+    -23
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 210,
+      "ms": 3736145,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 115,
+      "ms": 3491436,
+      "dish": "Burgers"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 121,
+      "ms": 3248313,
+      "dish": "Pizza"
+    }
+  ]
+}

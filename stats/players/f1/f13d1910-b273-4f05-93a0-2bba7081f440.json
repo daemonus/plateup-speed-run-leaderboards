@@ -1,0 +1,42 @@
+{
+  "id": "f13d1910-b273-4f05-93a0-2bba7081f440",
+  "persona": "Mimi\u4ECA\u5929\u753B\u753B\u4E86\u5417",
+  "names": [
+    "Mimi\u4ECA\u5929\u753B\u753B\u4E86\u5417"
+  ],
+  "runs": 3,
+  "bestRank": 213,
+  "worstRank": 471,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4650032,
+  "weeksActive": [
+    -22,
+    -21,
+    55
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 213,
+      "ms": 4650032,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 471,
+      "ms": 4671090,
+      "dish": "Pizza"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 300,
+      "ms": 4827904,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1aaf2d8d-e83e-4f9c-8a26-d77ce7369dbc",
+  "persona": "ishibashi2022",
+  "names": [
+    "ishibashi2022"
+  ],
+  "runs": 3,
+  "bestRank": 67,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2180057,
+  "weeksActive": [
+    31,
+    62,
+    63
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 67,
+      "ms": 2180057,
+      "dish": "Fish"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 359,
+      "ms": 3728159,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 175,
+      "ms": 2745093,
+      "dish": "Pizza"
+    }
+  ]
+}

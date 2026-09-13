@@ -1,0 +1,98 @@
+{
+  "id": "fa440cb9-455d-4cb8-9b36-fa514fe7ba0a",
+  "persona": "p0chita",
+  "names": [
+    "p0chita"
+  ],
+  "runs": 10,
+  "bestRank": 147,
+  "worstRank": 667,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2659025,
+  "weeksActive": [
+    -51,
+    -30,
+    -29,
+    -17,
+    -15,
+    23,
+    24,
+    27,
+    63,
+    67
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 667,
+      "ms": 4615316,
+      "dish": "Turkey"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 296,
+      "ms": 2659025,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 147,
+      "ms": 3671536,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 213,
+      "ms": 3340763,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 371,
+      "ms": 3436855,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 367,
+      "ms": 3502691,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 354,
+      "ms": 3937538,
+      "dish": "Pies"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 157,
+      "ms": 3206617,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 290,
+      "ms": 3182729,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 237,
+      "ms": 3498481,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

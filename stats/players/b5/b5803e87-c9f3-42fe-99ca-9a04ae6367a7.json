@@ -1,0 +1,34 @@
+{
+  "id": "b5803e87-c9f3-42fe-99ca-9a04ae6367a7",
+  "persona": "Phteven",
+  "names": [
+    "Phteven"
+  ],
+  "runs": 2,
+  "bestRank": 451,
+  "worstRank": 520,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4316838,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 451,
+      "ms": 5297183,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 520,
+      "ms": 4316838,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

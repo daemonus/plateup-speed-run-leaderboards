@@ -1,0 +1,66 @@
+{
+  "id": "b6bd4ab7-b98e-4a5a-84f3-4dae38fa89b0",
+  "persona": "Titanius Rex",
+  "names": [
+    "Titanius Rex"
+  ],
+  "runs": 6,
+  "bestRank": 85,
+  "worstRank": 1058,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2218825,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -89,
+    7
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 442,
+      "ms": 2765302,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1058,
+      "ms": 2497053,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 226,
+      "ms": 2649285,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 641,
+      "ms": 2501114,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 211,
+      "ms": 2218825,
+      "dish": "Pies"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 85,
+      "ms": 2578512,
+      "dish": "Fish"
+    }
+  ]
+}

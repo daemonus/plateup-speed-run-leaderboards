@@ -1,0 +1,66 @@
+{
+  "id": "bf887495-94c0-43f7-a32c-e916bddd793d",
+  "persona": "Vixen",
+  "names": [
+    "Vixen"
+  ],
+  "runs": 6,
+  "bestRank": 268,
+  "worstRank": 614,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3205350,
+  "weeksActive": [
+    -74,
+    -72,
+    -63,
+    -62,
+    -31,
+    -4
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 401,
+      "ms": 4166272,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 614,
+      "ms": 4507813,
+      "dish": "Pies"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 443,
+      "ms": 4337904,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 345,
+      "ms": 3672208,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 268,
+      "ms": 3205350,
+      "dish": "Pies"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 467,
+      "ms": 4473359,
+      "dish": "Pies"
+    }
+  ]
+}

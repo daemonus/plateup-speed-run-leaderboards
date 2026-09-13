@@ -1,0 +1,66 @@
+{
+  "id": "0a05d82d-af53-4b41-b58e-bced6f9c0ce4",
+  "persona": "toreinne",
+  "names": [
+    "toreinne"
+  ],
+  "runs": 6,
+  "bestRank": 172,
+  "worstRank": 567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3102586,
+  "weeksActive": [
+    -77,
+    -76,
+    -75,
+    -72,
+    -67,
+    -66
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 567,
+      "ms": 3786969,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 440,
+      "ms": 3102586,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 544,
+      "ms": 3172321,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 417,
+      "ms": 3899986,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 320,
+      "ms": 3943334,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 172,
+      "ms": 3191570,
+      "dish": "Turkey"
+    }
+  ]
+}

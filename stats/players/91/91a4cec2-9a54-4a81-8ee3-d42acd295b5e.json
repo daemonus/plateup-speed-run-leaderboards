@@ -1,0 +1,42 @@
+{
+  "id": "91a4cec2-9a54-4a81-8ee3-d42acd295b5e",
+  "persona": "Hachiko",
+  "names": [
+    "Hachiko"
+  ],
+  "runs": 3,
+  "bestRank": 408,
+  "worstRank": 1040,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4742679,
+  "weeksActive": [
+    -33,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 408,
+      "ms": 5120246,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1040,
+      "ms": 4907039,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 776,
+      "ms": 4742679,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f6e3ecf2-3bfd-40b8-a9dd-f150ca8b6eca",
+  "persona": "Qmos",
+  "names": [
+    "Qmos"
+  ],
+  "runs": 2,
+  "bestRank": 146,
+  "worstRank": 327,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3196895,
+  "weeksActive": [
+    4,
+    5
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 327,
+      "ms": 4235182,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 146,
+      "ms": 3196895,
+      "dish": "Breakfast"
+    }
+  ]
+}

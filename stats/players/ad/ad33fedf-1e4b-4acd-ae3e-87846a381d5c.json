@@ -1,0 +1,34 @@
+{
+  "id": "ad33fedf-1e4b-4acd-ae3e-87846a381d5c",
+  "persona": "Ci Ci",
+  "names": [
+    "Ci Ci"
+  ],
+  "runs": 2,
+  "bestRank": 300,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4093668,
+  "weeksActive": [
+    -61,
+    -46
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 467,
+      "ms": 4445099,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 300,
+      "ms": 4093668,
+      "dish": "Salad"
+    }
+  ]
+}

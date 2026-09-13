@@ -1,0 +1,42 @@
+{
+  "id": "dff54ce9-4028-4c15-a023-d63ef27b65ba",
+  "persona": "Falyra",
+  "names": [
+    "Falyra"
+  ],
+  "runs": 3,
+  "bestRank": 148,
+  "worstRank": 339,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3007220,
+  "weeksActive": [
+    -57,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 148,
+      "ms": 3369377,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 218,
+      "ms": 3007220,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 339,
+      "ms": 3885273,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "c875b996-e790-4e9d-bb7c-0e71f1fa293d",
+  "persona": "Justinien",
+  "names": [
+    "Justinien"
+  ],
+  "runs": 8,
+  "bestRank": 82,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2121885,
+  "weeksActive": [
+    -53,
+    -52,
+    -51,
+    3,
+    4,
+    8,
+    9,
+    48
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 153,
+      "ms": 3632655,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 82,
+      "ms": 3295161,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 245,
+      "ms": 2835839,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 82,
+      "ms": 2427038,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 143,
+      "ms": 3001273,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 117,
+      "ms": 2121885,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 111,
+      "ms": 2626365,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 114,
+      "ms": 3806873,
+      "dish": "Pizza"
+    }
+  ]
+}

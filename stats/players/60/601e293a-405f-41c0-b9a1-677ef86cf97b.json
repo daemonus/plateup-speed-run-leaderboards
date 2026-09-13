@@ -1,0 +1,50 @@
+{
+  "id": "601e293a-405f-41c0-b9a1-677ef86cf97b",
+  "persona": "Miss Bananas",
+  "names": [
+    "Miss Bananas"
+  ],
+  "runs": 4,
+  "bestRank": 197,
+  "worstRank": 505,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2369906,
+  "weeksActive": [
+    56,
+    72,
+    82,
+    84
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 505,
+      "ms": 2789565,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 197,
+      "ms": 3373397,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 284,
+      "ms": 3393447,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 303,
+      "ms": 2369906,
+      "dish": "Sundaes"
+    }
+  ]
+}

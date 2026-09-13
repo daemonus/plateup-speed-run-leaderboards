@@ -1,0 +1,42 @@
+{
+  "id": "2655a0cc-02c1-4892-9279-6a5a44280ffa",
+  "persona": "Chloe Decker",
+  "names": [
+    "Chloe Decker"
+  ],
+  "runs": 3,
+  "bestRank": 281,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4794630,
+  "weeksActive": [
+    -73,
+    -69,
+    -53
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 281,
+      "ms": 5170539,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 326,
+      "ms": 4794630,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 383,
+      "ms": 5347910,
+      "dish": "Breakfast"
+    }
+  ]
+}

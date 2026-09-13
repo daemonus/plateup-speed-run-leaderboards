@@ -1,0 +1,66 @@
+{
+  "id": "952769e8-0371-4dbd-b225-1992b4ed25a1",
+  "persona": "Axiom",
+  "names": [
+    "Axiom"
+  ],
+  "runs": 6,
+  "bestRank": 414,
+  "worstRank": 702,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3370547,
+  "weeksActive": [
+    15,
+    16,
+    20,
+    30,
+    32,
+    46
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 702,
+      "ms": 6369416,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 561,
+      "ms": 8816461,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 555,
+      "ms": 3370547,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 527,
+      "ms": 7846666,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 414,
+      "ms": 6648248,
+      "dish": "Pies"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 614,
+      "ms": 8303606,
+      "dish": "Pizza"
+    }
+  ]
+}

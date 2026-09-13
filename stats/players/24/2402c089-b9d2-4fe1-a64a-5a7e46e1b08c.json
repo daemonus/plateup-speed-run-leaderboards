@@ -1,0 +1,42 @@
+{
+  "id": "2402c089-b9d2-4fe1-a64a-5a7e46e1b08c",
+  "persona": "Yichael",
+  "names": [
+    "Yichael"
+  ],
+  "runs": 3,
+  "bestRank": 215,
+  "worstRank": 867,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4505538,
+  "weeksActive": [
+    -33,
+    -30,
+    -28
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 365,
+      "ms": 4505538,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 867,
+      "ms": 6251359,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 215,
+      "ms": 5324031,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ca15af9b-3c14-4811-a73d-d48fbc2ff9df",
+  "persona": "Alwin",
+  "names": [
+    "Alwin"
+  ],
+  "runs": 3,
+  "bestRank": 286,
+  "worstRank": 519,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3924014,
+  "weeksActive": [
+    -63,
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 507,
+      "ms": 4676284,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 519,
+      "ms": 4243838,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 286,
+      "ms": 3924014,
+      "dish": "Burgers"
+    }
+  ]
+}

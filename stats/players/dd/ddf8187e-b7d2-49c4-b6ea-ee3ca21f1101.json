@@ -1,0 +1,34 @@
+{
+  "id": "ddf8187e-b7d2-49c4-b6ea-ee3ca21f1101",
+  "persona": "Paparazzi",
+  "names": [
+    "Paparazzi"
+  ],
+  "runs": 2,
+  "bestRank": 547,
+  "worstRank": 548,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3335141,
+  "weeksActive": [
+    -76,
+    -74
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 547,
+      "ms": 3335141,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 548,
+      "ms": 5087680,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "bf937c8c-0c23-4bee-ba5f-2035c366446f",
+  "persona": "Sirius13",
+  "names": [
+    "Sirius13"
+  ],
+  "runs": 5,
+  "bestRank": 87,
+  "worstRank": 605,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3605849,
+  "weeksActive": [
+    -6,
+    -3,
+    -1,
+    0,
+    2
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 600,
+      "ms": 5277286,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 605,
+      "ms": 4482632,
+      "dish": "Turkey"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 87,
+      "ms": 3605849,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 322,
+      "ms": 4603118,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 222,
+      "ms": 3620645,
+      "dish": "Breakfast"
+    }
+  ]
+}

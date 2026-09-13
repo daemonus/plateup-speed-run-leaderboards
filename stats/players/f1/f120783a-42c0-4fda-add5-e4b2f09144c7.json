@@ -1,0 +1,58 @@
+{
+  "id": "f120783a-42c0-4fda-add5-e4b2f09144c7",
+  "persona": "DUO",
+  "names": [
+    "DUO"
+  ],
+  "runs": 5,
+  "bestRank": 152,
+  "worstRank": 400,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3147051,
+  "weeksActive": [
+    -69,
+    -49,
+    -14,
+    77,
+    78
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 400,
+      "ms": 5266353,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 152,
+      "ms": 3852364,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 187,
+      "ms": 4432772,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 295,
+      "ms": 3147051,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 287,
+      "ms": 3817158,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

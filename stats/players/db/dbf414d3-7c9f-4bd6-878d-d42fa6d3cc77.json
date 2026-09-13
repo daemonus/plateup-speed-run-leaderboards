@@ -1,0 +1,34 @@
+{
+  "id": "dbf414d3-7c9f-4bd6-878d-d42fa6d3cc77",
+  "persona": "HOWDY",
+  "names": [
+    "HOWDY"
+  ],
+  "runs": 2,
+  "bestRank": 156,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2988575,
+  "weeksActive": [
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 346,
+      "ms": 3174571,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 156,
+      "ms": 2988575,
+      "dish": "Pies"
+    }
+  ]
+}

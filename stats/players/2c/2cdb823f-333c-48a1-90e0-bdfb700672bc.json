@@ -1,0 +1,66 @@
+{
+  "id": "2cdb823f-333c-48a1-90e0-bdfb700672bc",
+  "persona": "Jedi",
+  "names": [
+    "Jedi"
+  ],
+  "runs": 6,
+  "bestRank": 19,
+  "worstRank": 131,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2136437,
+  "weeksActive": [
+    -51,
+    -50,
+    -47,
+    -24,
+    -23,
+    -10
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 88,
+      "ms": 2236948,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 129,
+      "ms": 3584530,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 131,
+      "ms": 3158309,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 19,
+      "ms": 2136437,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 41,
+      "ms": 2464300,
+      "dish": "Pizza"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 41,
+      "ms": 2700141,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "34ba7382-3962-4dc6-a5f5-7195c343cff3",
+  "persona": "peebee",
+  "names": [
+    "peebee"
+  ],
+  "runs": 6,
+  "bestRank": 181,
+  "worstRank": 238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2844936,
+  "weeksActive": [
+    58,
+    73,
+    78,
+    80,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 225,
+      "ms": 2844936,
+      "dish": "Turkey"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 228,
+      "ms": 3748193,
+      "dish": "Burgers"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 205,
+      "ms": 3197485,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 212,
+      "ms": 3364068,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 181,
+      "ms": 3486639,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 238,
+      "ms": 3148228,
+      "dish": "Pizza"
+    }
+  ]
+}

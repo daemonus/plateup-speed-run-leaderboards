@@ -1,0 +1,42 @@
+{
+  "id": "1f323492-6d6d-420b-ab86-f6418640f6ab",
+  "persona": "Joel",
+  "names": [
+    "Joel"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 801,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3861611,
+  "weeksActive": [
+    -31,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 531,
+      "ms": 3861611,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 801,
+      "ms": 4300321,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 205,
+      "ms": 4693341,
+      "dish": "Burgers"
+    }
+  ]
+}

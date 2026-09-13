@@ -1,0 +1,42 @@
+{
+  "id": "bf6938b1-6d92-4349-8a80-c013fa496757",
+  "persona": "small.lil.ash",
+  "names": [
+    "small.lil.ash"
+  ],
+  "runs": 3,
+  "bestRank": 483,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3303122,
+  "weeksActive": [
+    -4,
+    24,
+    41
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 483,
+      "ms": 4681909,
+      "dish": "Pies"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 490,
+      "ms": 4969407,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 572,
+      "ms": 3303122,
+      "dish": "Turkey"
+    }
+  ]
+}

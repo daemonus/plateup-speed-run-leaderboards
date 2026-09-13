@@ -1,0 +1,34 @@
+{
+  "id": "9fd503cf-f432-4b11-851a-e80ec5b314e5",
+  "persona": "Got Rice",
+  "names": [
+    "Got Rice"
+  ],
+  "runs": 2,
+  "bestRank": 477,
+  "worstRank": 770,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3993228,
+  "weeksActive": [
+    -76,
+    -74
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 770,
+      "ms": 3993228,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 477,
+      "ms": 4522371,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

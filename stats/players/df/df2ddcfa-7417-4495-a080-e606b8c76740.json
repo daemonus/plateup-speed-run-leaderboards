@@ -1,0 +1,42 @@
+{
+  "id": "df2ddcfa-7417-4495-a080-e606b8c76740",
+  "persona": "Zorian",
+  "names": [
+    "Zorian"
+  ],
+  "runs": 3,
+  "bestRank": 70,
+  "worstRank": 162,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2187079,
+  "weeksActive": [
+    -83,
+    -82,
+    -80
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 162,
+      "ms": 2712195,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 114,
+      "ms": 2187079,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 70,
+      "ms": 2729837,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6903da29-ad91-4650-8a3d-e90dee5aaaca",
+  "persona": "CrudeAsteroid",
+  "names": [
+    "CrudeAsteroid"
+  ],
+  "runs": 2,
+  "bestRank": 335,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3739271,
+  "weeksActive": [
+    -18,
+    80
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 364,
+      "ms": 3739271,
+      "dish": "Fish"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 335,
+      "ms": 4228821,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1de04749-15b6-46d0-a632-1058dd1b16e0",
+  "persona": "Mr.Tea",
+  "names": [
+    "Mr.Tea"
+  ],
+  "runs": 2,
+  "bestRank": 276,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6170877,
+  "weeksActive": [
+    -69,
+    50
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 461,
+      "ms": 6170877,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 276,
+      "ms": 6438516,
+      "dish": "Stir Fry"
+    }
+  ]
+}

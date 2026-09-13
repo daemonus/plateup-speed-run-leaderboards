@@ -1,0 +1,58 @@
+{
+  "id": "440b7c2d-8092-4558-b010-818f8ff87ba3",
+  "persona": "SamEklls",
+  "names": [
+    "SamEklls"
+  ],
+  "runs": 5,
+  "bestRank": 48,
+  "worstRank": 859,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1633458,
+  "weeksActive": [
+    -90,
+    -77,
+    -76,
+    -75,
+    -66
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 859,
+      "ms": 3378641,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 506,
+      "ms": 3616104,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 166,
+      "ms": 2364425,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 48,
+      "ms": 1633458,
+      "dish": "Fish"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 116,
+      "ms": 2792982,
+      "dish": "Turkey"
+    }
+  ]
+}

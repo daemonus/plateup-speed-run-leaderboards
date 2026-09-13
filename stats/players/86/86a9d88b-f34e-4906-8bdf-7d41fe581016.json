@@ -1,0 +1,66 @@
+{
+  "id": "86a9d88b-f34e-4906-8bdf-7d41fe581016",
+  "persona": "etay3000",
+  "names": [
+    "etay3000"
+  ],
+  "runs": 6,
+  "bestRank": 151,
+  "worstRank": 682,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1764071,
+  "weeksActive": [
+    -75,
+    -70,
+    -51,
+    -47,
+    -21,
+    84
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 682,
+      "ms": 3477114,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 463,
+      "ms": 4719873,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 210,
+      "ms": 2729081,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 390,
+      "ms": 4576289,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 352,
+      "ms": 3878747,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 151,
+      "ms": 1764071,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "67261c1f-3610-4256-ad53-eb8bd5b2a6d7",
+  "persona": "Mikami",
+  "names": [
+    "Mikami"
+  ],
+  "runs": 3,
+  "bestRank": 229,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2873157,
+  "weeksActive": [
+    -32,
+    -31,
+    84
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 240,
+      "ms": 2924120,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 229,
+      "ms": 3084670,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 407,
+      "ms": 2873157,
+      "dish": "Sundaes"
+    }
+  ]
+}

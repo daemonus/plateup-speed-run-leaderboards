@@ -1,0 +1,50 @@
+{
+  "id": "9320bf16-09de-4438-a8d2-02c9ef16247f",
+  "persona": "NattoRice",
+  "names": [
+    "NattoRice"
+  ],
+  "runs": 4,
+  "bestRank": 32,
+  "worstRank": 55,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1957331,
+  "weeksActive": [
+    -26,
+    -25,
+    26,
+    36
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 42,
+      "ms": 2598558,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 55,
+      "ms": 2403163,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 32,
+      "ms": 2041105,
+      "dish": "Pizza"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 55,
+      "ms": 1957331,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6a52335e-1ed4-479d-a67b-577968530185",
+  "persona": "Lokky",
+  "names": [
+    "Lokky"
+  ],
+  "runs": 5,
+  "bestRank": 73,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2566281,
+  "weeksActive": [
+    -59,
+    -57,
+    -56,
+    -51,
+    -46
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 208,
+      "ms": 3029693,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 73,
+      "ms": 2733677,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 123,
+      "ms": 2566281,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 214,
+      "ms": 2743758,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 222,
+      "ms": 3666149,
+      "dish": "Salad"
+    }
+  ]
+}

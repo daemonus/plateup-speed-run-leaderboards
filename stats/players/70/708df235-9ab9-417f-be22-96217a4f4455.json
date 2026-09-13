@@ -1,0 +1,42 @@
+{
+  "id": "708df235-9ab9-417f-be22-96217a4f4455",
+  "persona": "Tsuki",
+  "names": [
+    "Tsuki"
+  ],
+  "runs": 3,
+  "bestRank": 326,
+  "worstRank": 463,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3854112,
+  "weeksActive": [
+    58,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 463,
+      "ms": 3854112,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 343,
+      "ms": 4142486,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 326,
+      "ms": 4268598,
+      "dish": "Burgers"
+    }
+  ]
+}

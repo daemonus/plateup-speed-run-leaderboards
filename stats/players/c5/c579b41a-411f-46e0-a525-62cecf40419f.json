@@ -1,0 +1,42 @@
+{
+  "id": "c579b41a-411f-46e0-a525-62cecf40419f",
+  "persona": "chipounet",
+  "names": [
+    "chipounet"
+  ],
+  "runs": 3,
+  "bestRank": 127,
+  "worstRank": 333,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2917660,
+  "weeksActive": [
+    26,
+    65,
+    66
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 127,
+      "ms": 2917660,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 246,
+      "ms": 3605172,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 333,
+      "ms": 3784471,
+      "dish": "Breakfast"
+    }
+  ]
+}

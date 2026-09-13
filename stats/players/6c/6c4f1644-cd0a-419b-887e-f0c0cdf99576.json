@@ -1,0 +1,50 @@
+{
+  "id": "6c4f1644-cd0a-419b-887e-f0c0cdf99576",
+  "persona": "bankruptcy",
+  "names": [
+    "bankruptcy"
+  ],
+  "runs": 4,
+  "bestRank": 234,
+  "worstRank": 488,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2807512,
+  "weeksActive": [
+    -21,
+    -19,
+    -17,
+    77
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 488,
+      "ms": 4867669,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 253,
+      "ms": 3959043,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 372,
+      "ms": 5378394,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 234,
+      "ms": 2807512,
+      "dish": "Sundaes"
+    }
+  ]
+}

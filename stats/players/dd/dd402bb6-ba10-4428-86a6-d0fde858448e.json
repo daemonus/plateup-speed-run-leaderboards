@@ -1,0 +1,34 @@
+{
+  "id": "dd402bb6-ba10-4428-86a6-d0fde858448e",
+  "persona": "|||",
+  "names": [
+    "|||"
+  ],
+  "runs": 2,
+  "bestRank": 364,
+  "worstRank": 640,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6070943,
+  "weeksActive": [
+    -70,
+    -68
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 640,
+      "ms": 6070943,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 364,
+      "ms": 7443599,
+      "dish": "Salad"
+    }
+  ]
+}

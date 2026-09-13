@@ -1,0 +1,42 @@
+{
+  "id": "09ca87c2-05a4-430b-92f8-265faadf6bc1",
+  "persona": "ousaka",
+  "names": [
+    "ousaka"
+  ],
+  "runs": 3,
+  "bestRank": 30,
+  "worstRank": 103,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2217570,
+  "weeksActive": [
+    -20,
+    -19,
+    6
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 103,
+      "ms": 2897837,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 84,
+      "ms": 2537292,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 30,
+      "ms": 2217570,
+      "dish": "Breakfast"
+    }
+  ]
+}

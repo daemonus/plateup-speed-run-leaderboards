@@ -1,0 +1,42 @@
+{
+  "id": "8d138f2a-db7e-4094-80ce-01d867764aec",
+  "persona": "SuperPowerWizard",
+  "names": [
+    "SuperPowerWizard"
+  ],
+  "runs": 3,
+  "bestRank": 41,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2409657,
+  "weeksActive": [
+    -91,
+    -18,
+    45
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 572,
+      "ms": 2409657,
+      "dish": "Fish"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 119,
+      "ms": 2793700,
+      "dish": "Fish"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 41,
+      "ms": 2746514,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "25bec68b-3717-46aa-b2f4-b7fdd55673f7",
+  "persona": "Boso",
+  "names": [
+    "Boso"
+  ],
+  "runs": 3,
+  "bestRank": 301,
+  "worstRank": 569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3193635,
+  "weeksActive": [
+    20,
+    22,
+    23
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 569,
+      "ms": 3427950,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 301,
+      "ms": 4641143,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 313,
+      "ms": 3193635,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "e2b0459b-b86c-4436-9d0c-05d8b5b71bb0",
+  "persona": "Egawa",
+  "names": [
+    "Egawa"
+  ],
+  "runs": 4,
+  "bestRank": 311,
+  "worstRank": 870,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4484155,
+  "weeksActive": [
+    20,
+    23,
+    31,
+    33
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 870,
+      "ms": 4484155,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 559,
+      "ms": 4977212,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 608,
+      "ms": 5634515,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 311,
+      "ms": 7446325,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

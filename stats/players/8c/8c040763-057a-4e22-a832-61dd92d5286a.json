@@ -1,0 +1,42 @@
+{
+  "id": "8c040763-057a-4e22-a832-61dd92d5286a",
+  "persona": "Alnilana",
+  "names": [
+    "Alnilana"
+  ],
+  "runs": 3,
+  "bestRank": 265,
+  "worstRank": 1026,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2192924,
+  "weeksActive": [
+    -93,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1026,
+      "ms": 2475943,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 265,
+      "ms": 2192924,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 512,
+      "ms": 3006016,
+      "dish": "Pies"
+    }
+  ]
+}

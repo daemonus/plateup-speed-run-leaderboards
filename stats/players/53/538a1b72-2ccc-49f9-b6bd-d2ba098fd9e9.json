@@ -1,0 +1,34 @@
+{
+  "id": "538a1b72-2ccc-49f9-b6bd-d2ba098fd9e9",
+  "persona": "UU",
+  "names": [
+    "UU"
+  ],
+  "runs": 2,
+  "bestRank": 442,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3703671,
+  "weeksActive": [
+    77,
+    86
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 447,
+      "ms": 4382164,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 442,
+      "ms": 3703671,
+      "dish": "Sundaes"
+    }
+  ]
+}

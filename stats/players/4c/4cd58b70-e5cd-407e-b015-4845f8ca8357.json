@@ -1,0 +1,58 @@
+{
+  "id": "4cd58b70-e5cd-407e-b015-4845f8ca8357",
+  "persona": "kaciagemini",
+  "names": [
+    "kaciagemini"
+  ],
+  "runs": 5,
+  "bestRank": 234,
+  "worstRank": 650,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3682489,
+  "weeksActive": [
+    -16,
+    -15,
+    -14,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 650,
+      "ms": 5009761,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 417,
+      "ms": 3710366,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 234,
+      "ms": 4914007,
+      "dish": "Salad"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 444,
+      "ms": 3682489,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 295,
+      "ms": 4016517,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0ece1261-51bf-4eb1-ae34-f03a29143694",
+  "persona": "Bane",
+  "names": [
+    "Bane"
+  ],
+  "runs": 2,
+  "bestRank": 1073,
+  "worstRank": 1615,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2512083,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1615,
+      "ms": 4601856,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1073,
+      "ms": 2512083,
+      "dish": "Fish"
+    }
+  ]
+}

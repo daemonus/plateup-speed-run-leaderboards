@@ -1,0 +1,42 @@
+{
+  "id": "074dab7b-7073-464e-b608-25c4ba12b5c6",
+  "persona": "Wanderer",
+  "names": [
+    "Wanderer"
+  ],
+  "runs": 3,
+  "bestRank": 81,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3276253,
+  "weeksActive": [
+    -52,
+    -39,
+    -20
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 81,
+      "ms": 3276253,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 509,
+      "ms": 3718657,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 331,
+      "ms": 3859231,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8732f37c-4ff6-4a76-82eb-d232f004f2ae",
+  "persona": "\u58A8",
+  "names": [
+    "\u58A8"
+  ],
+  "runs": 3,
+  "bestRank": 157,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4364452,
+  "weeksActive": [
+    -21,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 594,
+      "ms": 9432970,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 523,
+      "ms": 5011312,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 157,
+      "ms": 4364452,
+      "dish": "Fajitas"
+    }
+  ]
+}

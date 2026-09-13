@@ -1,0 +1,58 @@
+{
+  "id": "2f0f5e8e-9f76-4d5a-b71f-17e6e6c52d44",
+  "persona": "\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u0441\u044F",
+  "names": [
+    "\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u0441\u044F"
+  ],
+  "runs": 5,
+  "bestRank": 390,
+  "worstRank": 876,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4413364,
+  "weeksActive": [
+    30,
+    35,
+    44,
+    52,
+    56
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 428,
+      "ms": 4555381,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 390,
+      "ms": 5304798,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 471,
+      "ms": 5268145,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 634,
+      "ms": 4581515,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 876,
+      "ms": 4413364,
+      "dish": "Sundaes"
+    }
+  ]
+}

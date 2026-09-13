@@ -1,0 +1,66 @@
+{
+  "id": "ec20a01d-f015-406c-b5b9-a8b5755dc859",
+  "persona": "Viderix",
+  "names": [
+    "Viderix"
+  ],
+  "runs": 6,
+  "bestRank": 107,
+  "worstRank": 1247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2736343,
+  "weeksActive": [
+    -91,
+    -76,
+    -71,
+    -70,
+    -58,
+    -56
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1247,
+      "ms": 3328564,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 298,
+      "ms": 2736343,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 290,
+      "ms": 2832798,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 107,
+      "ms": 3135892,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 273,
+      "ms": 5743931,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 415,
+      "ms": 4049991,
+      "dish": "Breakfast"
+    }
+  ]
+}

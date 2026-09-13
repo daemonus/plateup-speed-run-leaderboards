@@ -1,0 +1,42 @@
+{
+  "id": "b032a21c-a784-4bdc-81bc-bae80ddc953c",
+  "persona": "Malamian",
+  "names": [
+    "Malamian"
+  ],
+  "runs": 3,
+  "bestRank": 116,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2281884,
+  "weeksActive": [
+    -3,
+    12,
+    43
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 116,
+      "ms": 2281884,
+      "dish": "Turkey"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 224,
+      "ms": 2503895,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 167,
+      "ms": 2373575,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "71c8974c-5414-4256-9c58-d38cdc2119f5",
+  "persona": "Terrestrial Torvus",
+  "names": [
+    "Terrestrial Torvus"
+  ],
+  "runs": 4,
+  "bestRank": 506,
+  "worstRank": 1354,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2592135,
+  "weeksActive": [
+    -94,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1354,
+      "ms": 3925300,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 506,
+      "ms": 3464199,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 713,
+      "ms": 2592135,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 757,
+      "ms": 3143464,
+      "dish": "Fish"
+    }
+  ]
+}

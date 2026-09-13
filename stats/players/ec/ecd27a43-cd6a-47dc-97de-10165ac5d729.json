@@ -1,0 +1,34 @@
+{
+  "id": "ecd27a43-cd6a-47dc-97de-10165ac5d729",
+  "persona": "Blu",
+  "names": [
+    "Blu"
+  ],
+  "runs": 2,
+  "bestRank": 384,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3574912,
+  "weeksActive": [
+    -84,
+    -81
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 499,
+      "ms": 3574912,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 384,
+      "ms": 5128521,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "61ac695f-c0ce-4fb2-ba2b-6d1378ee98be",
+  "persona": "Lani",
+  "names": [
+    "Lani"
+  ],
+  "runs": 5,
+  "bestRank": 174,
+  "worstRank": 720,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3022921,
+  "weeksActive": [
+    -40,
+    -39,
+    -38,
+    -37,
+    -35
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 223,
+      "ms": 4936184,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 587,
+      "ms": 4063488,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 432,
+      "ms": 3022921,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 720,
+      "ms": 3930434,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 174,
+      "ms": 4016886,
+      "dish": "Breakfast"
+    }
+  ]
+}

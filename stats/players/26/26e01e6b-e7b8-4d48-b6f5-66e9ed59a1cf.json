@@ -1,0 +1,66 @@
+{
+  "id": "26e01e6b-e7b8-4d48-b6f5-66e9ed59a1cf",
+  "persona": "Caos",
+  "names": [
+    "Caos"
+  ],
+  "runs": 6,
+  "bestRank": 327,
+  "worstRank": 2387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2713581,
+  "weeksActive": [
+    -93,
+    -90,
+    -89,
+    -88,
+    -86,
+    -2
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2387,
+      "ms": 3492969,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1064,
+      "ms": 3978874,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 686,
+      "ms": 3460036,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 459,
+      "ms": 3592513,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 368,
+      "ms": 2713581,
+      "dish": "Fish"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 327,
+      "ms": 3759708,
+      "dish": "Pizza"
+    }
+  ]
+}

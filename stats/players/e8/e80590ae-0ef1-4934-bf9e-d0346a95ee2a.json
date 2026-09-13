@@ -1,0 +1,58 @@
+{
+  "id": "e80590ae-0ef1-4934-bf9e-d0346a95ee2a",
+  "persona": "Coby Senpai",
+  "names": [
+    "Coby Senpai"
+  ],
+  "runs": 5,
+  "bestRank": 398,
+  "worstRank": 760,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3811378,
+  "weeksActive": [
+    -79,
+    -78,
+    -77,
+    -76,
+    15
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 398,
+      "ms": 4519156,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 454,
+      "ms": 4247823,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 760,
+      "ms": 4365377,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 714,
+      "ms": 3811378,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 601,
+      "ms": 4087324,
+      "dish": "Turkey"
+    }
+  ]
+}

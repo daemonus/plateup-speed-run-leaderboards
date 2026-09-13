@@ -1,0 +1,50 @@
+{
+  "id": "433824b5-556a-46cc-b107-8d9063f58191",
+  "persona": "peter",
+  "names": [
+    "peter"
+  ],
+  "runs": 4,
+  "bestRank": 173,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2742518,
+  "weeksActive": [
+    -86,
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 406,
+      "ms": 2802684,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 366,
+      "ms": 3091753,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 173,
+      "ms": 2742518,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 329,
+      "ms": 2978393,
+      "dish": "Fish"
+    }
+  ]
+}

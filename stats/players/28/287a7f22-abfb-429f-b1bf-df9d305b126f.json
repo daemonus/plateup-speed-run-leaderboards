@@ -1,0 +1,42 @@
+{
+  "id": "287a7f22-abfb-429f-b1bf-df9d305b126f",
+  "persona": "DeX",
+  "names": [
+    "DeX"
+  ],
+  "runs": 3,
+  "bestRank": 39,
+  "worstRank": 144,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2141413,
+  "weeksActive": [
+    -22,
+    -21,
+    -19
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 40,
+      "ms": 2577597,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 39,
+      "ms": 2141413,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 144,
+      "ms": 2958416,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

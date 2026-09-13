@@ -1,0 +1,42 @@
+{
+  "id": "6afb9ff4-5e66-4f3f-945d-9c9072ade28d",
+  "persona": "Brewski[LH]",
+  "names": [
+    "Brewski[LH]"
+  ],
+  "runs": 3,
+  "bestRank": 630,
+  "worstRank": 2371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3471864,
+  "weeksActive": [
+    -93,
+    -91,
+    -82
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2371,
+      "ms": 3471864,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1467,
+      "ms": 3724001,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 630,
+      "ms": 3958410,
+      "dish": "Fish"
+    }
+  ]
+}

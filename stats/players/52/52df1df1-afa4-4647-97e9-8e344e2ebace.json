@@ -1,0 +1,58 @@
+{
+  "id": "52df1df1-afa4-4647-97e9-8e344e2ebace",
+  "persona": "E",
+  "names": [
+    "E"
+  ],
+  "runs": 5,
+  "bestRank": 72,
+  "worstRank": 136,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2547390,
+  "weeksActive": [
+    69,
+    70,
+    71,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 82,
+      "ms": 2906360,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 72,
+      "ms": 2658799,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 87,
+      "ms": 2547390,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 136,
+      "ms": 2969332,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 79,
+      "ms": 2606994,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6aa9a6d9-fc7b-4030-808b-e734689d2ce1",
+  "persona": "DerFaint",
+  "names": [
+    "DerFaint"
+  ],
+  "runs": 5,
+  "bestRank": 118,
+  "worstRank": 1583,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2293451,
+  "weeksActive": [
+    -93,
+    -91,
+    -80,
+    -79,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1583,
+      "ms": 2851109,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 473,
+      "ms": 2293451,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 171,
+      "ms": 3742540,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 118,
+      "ms": 2802943,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 437,
+      "ms": 4076673,
+      "dish": "Burgers"
+    }
+  ]
+}

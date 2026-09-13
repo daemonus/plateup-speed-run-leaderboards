@@ -1,0 +1,66 @@
+{
+  "id": "aae82559-4cca-4f02-805d-8b02d2bac4d0",
+  "persona": "Kirdiaga",
+  "names": [
+    "Kirdiaga"
+  ],
+  "runs": 6,
+  "bestRank": 239,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3474011,
+  "weeksActive": [
+    60,
+    61,
+    62,
+    72,
+    75,
+    84
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 355,
+      "ms": 4612599,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 239,
+      "ms": 3658582,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 358,
+      "ms": 3720603,
+      "dish": "Pies"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 328,
+      "ms": 4458425,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 250,
+      "ms": 3911396,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 511,
+      "ms": 3474011,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c0f2aa21-2a2a-428e-86d5-2456f0a11313",
+  "persona": "Nasch",
+  "names": [
+    "Nasch"
+  ],
+  "runs": 2,
+  "bestRank": 433,
+  "worstRank": 615,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5000705,
+  "weeksActive": [
+    -6,
+    1
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 615,
+      "ms": 5359351,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 433,
+      "ms": 5000705,
+      "dish": "Pies"
+    }
+  ]
+}

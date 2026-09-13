@@ -1,0 +1,42 @@
+{
+  "id": "65312848-ec26-4ee0-96e8-fc398203c7f6",
+  "persona": "Cricket",
+  "names": [
+    "Cricket"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 534,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2540407,
+  "weeksActive": [
+    -20,
+    24,
+    73
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 534,
+      "ms": 5347401,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 100,
+      "ms": 2540407,
+      "dish": "Pies"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 165,
+      "ms": 3150809,
+      "dish": "Burgers"
+    }
+  ]
+}

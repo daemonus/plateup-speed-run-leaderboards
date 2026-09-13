@@ -1,0 +1,42 @@
+{
+  "id": "81573cf9-5f6e-4b0d-b508-5e0ccdb0ac9a",
+  "persona": "Velociraptor",
+  "names": [
+    "Velociraptor"
+  ],
+  "runs": 3,
+  "bestRank": 227,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3024710,
+  "weeksActive": [
+    38,
+    39,
+    83
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 298,
+      "ms": 3440061,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 227,
+      "ms": 4180053,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 517,
+      "ms": 3024710,
+      "dish": "Sundaes"
+    }
+  ]
+}

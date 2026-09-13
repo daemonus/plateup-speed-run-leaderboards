@@ -1,0 +1,42 @@
+{
+  "id": "8bba0a50-4989-403f-9480-5ff2fd358337",
+  "persona": "Ally the Red",
+  "names": [
+    "Ally the Red"
+  ],
+  "runs": 3,
+  "bestRank": 214,
+  "worstRank": 1506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2799966,
+  "weeksActive": [
+    -94,
+    -93,
+    -56
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 551,
+      "ms": 2904487,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1506,
+      "ms": 2799966,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 214,
+      "ms": 2976333,
+      "dish": "Breakfast"
+    }
+  ]
+}

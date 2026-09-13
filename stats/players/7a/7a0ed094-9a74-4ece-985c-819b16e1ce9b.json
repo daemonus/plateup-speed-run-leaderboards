@@ -1,0 +1,82 @@
+{
+  "id": "7a0ed094-9a74-4ece-985c-819b16e1ce9b",
+  "persona": "Tyrdrasil",
+  "names": [
+    "Tyrdrasil"
+  ],
+  "runs": 8,
+  "bestRank": 97,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2381879,
+  "weeksActive": [
+    -72,
+    -63,
+    -51,
+    78,
+    79,
+    80,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 479,
+      "ms": 4088100,
+      "dish": "Pies"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 324,
+      "ms": 3849836,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 121,
+      "ms": 2381879,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 97,
+      "ms": 2475731,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 161,
+      "ms": 3720761,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 163,
+      "ms": 3050296,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 219,
+      "ms": 3014970,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 441,
+      "ms": 2810707,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ed57ddc9-aa94-452a-99bb-9653cca53990",
+  "persona": "Chocolate Teapot",
+  "names": [
+    "Chocolate Teapot"
+  ],
+  "runs": 7,
+  "bestRank": 212,
+  "worstRank": 707,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3645447,
+  "weeksActive": [
+    -30,
+    -28,
+    -23,
+    -20,
+    -14,
+    -8,
+    -6
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 664,
+      "ms": 3645447,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 212,
+      "ms": 5273160,
+      "dish": "Burgers"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 243,
+      "ms": 6057321,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 587,
+      "ms": 6692626,
+      "dish": "Burgers"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 358,
+      "ms": 9286984,
+      "dish": "Salad"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 486,
+      "ms": 9348283,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 707,
+      "ms": 6913142,
+      "dish": "Breakfast"
+    }
+  ]
+}

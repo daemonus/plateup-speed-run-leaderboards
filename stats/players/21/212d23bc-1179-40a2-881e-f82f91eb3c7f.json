@@ -1,0 +1,42 @@
+{
+  "id": "212d23bc-1179-40a2-881e-f82f91eb3c7f",
+  "persona": "NiGi",
+  "names": [
+    "NiGi"
+  ],
+  "runs": 3,
+  "bestRank": 192,
+  "worstRank": 338,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3453907,
+  "weeksActive": [
+    65,
+    66,
+    70
+  ],
+  "history": [
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 338,
+      "ms": 4529630,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 293,
+      "ms": 3453907,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 192,
+      "ms": 3522315,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3ba4a1e5-033f-45e8-a53c-e740cf9972b0",
+  "persona": "Feitau",
+  "names": [
+    "Feitau"
+  ],
+  "runs": 3,
+  "bestRank": 166,
+  "worstRank": 363,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2992039,
+  "weeksActive": [
+    -92,
+    -21,
+    -18
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 363,
+      "ms": 3064361,
+      "dish": "Steak"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 166,
+      "ms": 2992039,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 185,
+      "ms": 3109619,
+      "dish": "Fish"
+    }
+  ]
+}

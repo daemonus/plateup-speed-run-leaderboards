@@ -1,0 +1,50 @@
+{
+  "id": "eaded3ff-47e7-4396-8a45-7cbd2f7e20be",
+  "persona": "Ju19",
+  "names": [
+    "Ju19"
+  ],
+  "runs": 4,
+  "bestRank": 324,
+  "worstRank": 740,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3708051,
+  "weeksActive": [
+    62,
+    63,
+    66,
+    67
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 456,
+      "ms": 4248936,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 740,
+      "ms": 5834544,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 325,
+      "ms": 3708051,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 324,
+      "ms": 4475714,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

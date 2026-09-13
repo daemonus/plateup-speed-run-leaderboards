@@ -1,0 +1,42 @@
+{
+  "id": "d3090941-7da0-4c14-91a3-5847ca4e0fa1",
+  "persona": "BROKEN",
+  "names": [
+    "BROKEN"
+  ],
+  "runs": 3,
+  "bestRank": 410,
+  "worstRank": 2419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2821587,
+  "weeksActive": [
+    -93,
+    -86,
+    86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2419,
+      "ms": 3527054,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 410,
+      "ms": 2821587,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 411,
+      "ms": 3435596,
+      "dish": "Sundaes"
+    }
+  ]
+}

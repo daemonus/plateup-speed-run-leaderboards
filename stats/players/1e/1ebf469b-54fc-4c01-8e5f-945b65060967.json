@@ -1,0 +1,58 @@
+{
+  "id": "1ebf469b-54fc-4c01-8e5f-945b65060967",
+  "persona": "dsu3003",
+  "names": [
+    "dsu3003"
+  ],
+  "runs": 5,
+  "bestRank": 44,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2304334,
+  "weeksActive": [
+    -75,
+    -69,
+    -44,
+    -43,
+    34
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 227,
+      "ms": 2304334,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 44,
+      "ms": 2871736,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 145,
+      "ms": 2587977,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 107,
+      "ms": 2958096,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 393,
+      "ms": 4926216,
+      "dish": "Stir Fry"
+    }
+  ]
+}

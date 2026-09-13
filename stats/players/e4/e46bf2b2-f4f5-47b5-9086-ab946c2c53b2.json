@@ -1,0 +1,50 @@
+{
+  "id": "e46bf2b2-f4f5-47b5-9086-ab946c2c53b2",
+  "persona": "Colonel Pistachio",
+  "names": [
+    "Colonel Pistachio"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3379077,
+  "weeksActive": [
+    -61,
+    -60,
+    -59,
+    -55
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 316,
+      "ms": 3519810,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 157,
+      "ms": 3379077,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 359,
+      "ms": 3698572,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 270,
+      "ms": 3533052,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "d79009c6-7c51-4b0b-a07b-3e9366bf987c",
+  "persona": "Kelly",
+  "names": [
+    "Kelly"
+  ],
+  "runs": 4,
+  "bestRank": 152,
+  "worstRank": 434,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3120479,
+  "weeksActive": [
+    -27,
+    -25,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 152,
+      "ms": 3891909,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 287,
+      "ms": 3838995,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 194,
+      "ms": 3120479,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 434,
+      "ms": 4384920,
+      "dish": "Burgers"
+    }
+  ]
+}

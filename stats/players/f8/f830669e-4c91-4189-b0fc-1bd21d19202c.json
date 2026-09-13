@@ -1,0 +1,34 @@
+{
+  "id": "f830669e-4c91-4189-b0fc-1bd21d19202c",
+  "persona": "Gnomikus",
+  "names": [
+    "Gnomikus"
+  ],
+  "runs": 2,
+  "bestRank": 124,
+  "worstRank": 1220,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2797861,
+  "weeksActive": [
+    -94,
+    53
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1220,
+      "ms": 3706278,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 124,
+      "ms": 2797861,
+      "dish": "Pies"
+    }
+  ]
+}

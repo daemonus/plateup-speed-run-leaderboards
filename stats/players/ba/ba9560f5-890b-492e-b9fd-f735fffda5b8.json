@@ -1,0 +1,42 @@
+{
+  "id": "ba9560f5-890b-492e-b9fd-f735fffda5b8",
+  "persona": "poteantyo",
+  "names": [
+    "poteantyo"
+  ],
+  "runs": 3,
+  "bestRank": 95,
+  "worstRank": 484,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2216023,
+  "weeksActive": [
+    3,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 484,
+      "ms": 3770339,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 195,
+      "ms": 2216023,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 95,
+      "ms": 2463466,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b5cadb3c-b0cc-4935-b982-7d848c58209c",
+  "persona": "DeDe\u00EDno",
+  "names": [
+    "DeDe\u00EDno"
+  ],
+  "runs": 4,
+  "bestRank": 183,
+  "worstRank": 657,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2085014,
+  "weeksActive": [
+    -72,
+    -39,
+    41,
+    42
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 657,
+      "ms": 4677163,
+      "dish": "Pies"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 183,
+      "ms": 2726365,
+      "dish": "Pizza"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 223,
+      "ms": 2085014,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 186,
+      "ms": 3625733,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

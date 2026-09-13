@@ -1,0 +1,42 @@
+{
+  "id": "5fe35a66-6550-40cb-9574-9bc388ab890b",
+  "persona": "anninalee1",
+  "names": [
+    "anninalee1"
+  ],
+  "runs": 3,
+  "bestRank": 42,
+  "worstRank": 126,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2472986,
+  "weeksActive": [
+    31,
+    32,
+    39
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 126,
+      "ms": 2517930,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 110,
+      "ms": 2666738,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 42,
+      "ms": 2472986,
+      "dish": "Stir Fry"
+    }
+  ]
+}

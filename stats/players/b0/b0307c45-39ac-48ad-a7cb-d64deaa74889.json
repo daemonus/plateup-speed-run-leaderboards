@@ -1,0 +1,42 @@
+{
+  "id": "b0307c45-39ac-48ad-a7cb-d64deaa74889",
+  "persona": "chaos-cat",
+  "names": [
+    "chaos-cat"
+  ],
+  "runs": 3,
+  "bestRank": 201,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3105110,
+  "weeksActive": [
+    -77,
+    -66,
+    -61
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 383,
+      "ms": 3309627,
+      "dish": "Pies"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 290,
+      "ms": 4942370,
+      "dish": "Turkey"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 201,
+      "ms": 3105110,
+      "dish": "Fish"
+    }
+  ]
+}

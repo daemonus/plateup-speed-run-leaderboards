@@ -1,0 +1,34 @@
+{
+  "id": "292b1356-c6ae-45f9-8bf4-addfcaef9140",
+  "persona": "MADA_MADA",
+  "names": [
+    "MADA_MADA"
+  ],
+  "runs": 2,
+  "bestRank": 85,
+  "worstRank": 192,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2436492,
+  "weeksActive": [
+    3,
+    6
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 85,
+      "ms": 2436492,
+      "dish": "Fish"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 192,
+      "ms": 3356955,
+      "dish": "Breakfast"
+    }
+  ]
+}

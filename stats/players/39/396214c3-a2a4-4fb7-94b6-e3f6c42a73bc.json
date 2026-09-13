@@ -1,0 +1,34 @@
+{
+  "id": "396214c3-a2a4-4fb7-94b6-e3f6c42a73bc",
+  "persona": "AntarcticasHeat",
+  "names": [
+    "AntarcticasHeat"
+  ],
+  "runs": 2,
+  "bestRank": 102,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2225616,
+  "weeksActive": [
+    -90,
+    -81
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 281,
+      "ms": 2225616,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 102,
+      "ms": 3011744,
+      "dish": "Steak"
+    }
+  ]
+}

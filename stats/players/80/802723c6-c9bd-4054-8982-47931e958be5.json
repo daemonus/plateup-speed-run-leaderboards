@@ -1,0 +1,58 @@
+{
+  "id": "802723c6-c9bd-4054-8982-47931e958be5",
+  "persona": "KinoPro",
+  "names": [
+    "KinoPro"
+  ],
+  "runs": 5,
+  "bestRank": 99,
+  "worstRank": 531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2608468,
+  "weeksActive": [
+    -88,
+    -82,
+    -80,
+    -79,
+    -71
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 493,
+      "ms": 3747371,
+      "dish": "Pies"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 531,
+      "ms": 3546159,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 264,
+      "ms": 4976985,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 99,
+      "ms": 2710166,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 217,
+      "ms": 2608468,
+      "dish": "Turkey"
+    }
+  ]
+}

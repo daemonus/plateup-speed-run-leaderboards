@@ -1,0 +1,34 @@
+{
+  "id": "2ce65a24-5134-4700-a9a7-feeb492f2738",
+  "persona": "Arte",
+  "names": [
+    "Arte"
+  ],
+  "runs": 2,
+  "bestRank": 472,
+  "worstRank": 740,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3868264,
+  "weeksActive": [
+    -86,
+    -83
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 740,
+      "ms": 3868264,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 472,
+      "ms": 4066477,
+      "dish": "Steak"
+    }
+  ]
+}

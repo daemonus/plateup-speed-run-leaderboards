@@ -1,0 +1,34 @@
+{
+  "id": "cf389962-aefd-4fe3-9f5a-f718d64862de",
+  "persona": "\u5947\u602A\u7684\u867E",
+  "names": [
+    "\u5947\u602A\u7684\u867E"
+  ],
+  "runs": 2,
+  "bestRank": 137,
+  "worstRank": 337,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3404271,
+  "weeksActive": [
+    -60,
+    55
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 337,
+      "ms": 4253687,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 137,
+      "ms": 3404271,
+      "dish": "Stir Fry"
+    }
+  ]
+}

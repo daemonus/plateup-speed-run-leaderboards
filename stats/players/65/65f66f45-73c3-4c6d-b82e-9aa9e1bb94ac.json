@@ -1,0 +1,42 @@
+{
+  "id": "65f66f45-73c3-4c6d-b82e-9aa9e1bb94ac",
+  "persona": "kayster",
+  "names": [
+    "kayster"
+  ],
+  "runs": 3,
+  "bestRank": 135,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2334221,
+  "weeksActive": [
+    -82,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 391,
+      "ms": 3172906,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 468,
+      "ms": 4462831,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 135,
+      "ms": 2334221,
+      "dish": "Turkey"
+    }
+  ]
+}

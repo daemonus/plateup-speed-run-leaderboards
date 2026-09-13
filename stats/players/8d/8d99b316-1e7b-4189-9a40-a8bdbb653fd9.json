@@ -1,0 +1,58 @@
+{
+  "id": "8d99b316-1e7b-4189-9a40-a8bdbb653fd9",
+  "persona": "Irissss",
+  "names": [
+    "Irissss"
+  ],
+  "runs": 5,
+  "bestRank": 117,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2886153,
+  "weeksActive": [
+    5,
+    21,
+    22,
+    51,
+    83
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 206,
+      "ms": 3538700,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 167,
+      "ms": 2886153,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 117,
+      "ms": 2890679,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 227,
+      "ms": 4057177,
+      "dish": "Salad"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 566,
+      "ms": 3220015,
+      "dish": "Sundaes"
+    }
+  ]
+}

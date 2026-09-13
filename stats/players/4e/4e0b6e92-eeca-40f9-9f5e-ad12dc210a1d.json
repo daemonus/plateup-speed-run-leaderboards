@@ -1,0 +1,58 @@
+{
+  "id": "4e0b6e92-eeca-40f9-9f5e-ad12dc210a1d",
+  "persona": "Ortiga",
+  "names": [
+    "Ortiga"
+  ],
+  "runs": 5,
+  "bestRank": 227,
+  "worstRank": 892,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4120830,
+  "weeksActive": [
+    -84,
+    -83,
+    -75,
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 665,
+      "ms": 4824332,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 530,
+      "ms": 4808665,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 892,
+      "ms": 4120830,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 356,
+      "ms": 4195221,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 227,
+      "ms": 4322513,
+      "dish": "Stir Fry"
+    }
+  ]
+}

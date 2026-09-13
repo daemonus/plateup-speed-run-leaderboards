@@ -1,0 +1,42 @@
+{
+  "id": "80e8aeae-1212-4d87-9081-93701c5c72e5",
+  "persona": "Hinawa",
+  "names": [
+    "Hinawa"
+  ],
+  "runs": 3,
+  "bestRank": 327,
+  "worstRank": 764,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3958325,
+  "weeksActive": [
+    -59,
+    -30,
+    70
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 430,
+      "ms": 3958325,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 764,
+      "ms": 3991593,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 327,
+      "ms": 5036593,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

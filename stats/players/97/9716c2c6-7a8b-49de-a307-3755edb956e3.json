@@ -1,0 +1,50 @@
+{
+  "id": "9716c2c6-7a8b-49de-a307-3755edb956e3",
+  "persona": "Pixel!",
+  "names": [
+    "Pixel!"
+  ],
+  "runs": 4,
+  "bestRank": 70,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2809397,
+  "weeksActive": [
+    -6,
+    -5,
+    0,
+    15
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 322,
+      "ms": 4078124,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 70,
+      "ms": 2809397,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 228,
+      "ms": 4122042,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 565,
+      "ms": 3918856,
+      "dish": "Turkey"
+    }
+  ]
+}

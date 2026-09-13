@@ -1,0 +1,34 @@
+{
+  "id": "38c3c743-fb53-493c-acd3-750ed2226510",
+  "persona": "Lounar",
+  "names": [
+    "Lounar"
+  ],
+  "runs": 2,
+  "bestRank": 397,
+  "worstRank": 469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2993046,
+  "weeksActive": [
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 469,
+      "ms": 2993046,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 397,
+      "ms": 3194388,
+      "dish": "Fish"
+    }
+  ]
+}

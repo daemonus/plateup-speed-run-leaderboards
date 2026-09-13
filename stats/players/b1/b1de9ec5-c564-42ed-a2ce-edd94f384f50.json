@@ -1,0 +1,42 @@
+{
+  "id": "b1de9ec5-c564-42ed-a2ce-edd94f384f50",
+  "persona": "Emily.rx",
+  "names": [
+    "Emily.rx"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3512041,
+  "weeksActive": [
+    -53,
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 372,
+      "ms": 5213576,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 143,
+      "ms": 3991663,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 438,
+      "ms": 3512041,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2405c367-1e2a-4b13-be75-e63de0fabb28",
+  "persona": "wp171",
+  "names": [
+    "wp171"
+  ],
+  "runs": 3,
+  "bestRank": 361,
+  "worstRank": 402,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3942783,
+  "weeksActive": [
+    -2,
+    4,
+    82
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 402,
+      "ms": 4718973,
+      "dish": "Pizza"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 361,
+      "ms": 4469021,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 399,
+      "ms": 3942783,
+      "dish": "Pizza"
+    }
+  ]
+}

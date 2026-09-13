@@ -1,0 +1,34 @@
+{
+  "id": "ea704c3f-2570-44c6-9370-01af0f68572b",
+  "persona": "Clifford",
+  "names": [
+    "Clifford"
+  ],
+  "runs": 2,
+  "bestRank": 105,
+  "worstRank": 172,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3101186,
+  "weeksActive": [
+    -55,
+    -53
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 172,
+      "ms": 3101186,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 105,
+      "ms": 3253715,
+      "dish": "Breakfast"
+    }
+  ]
+}

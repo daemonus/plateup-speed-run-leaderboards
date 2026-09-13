@@ -1,0 +1,42 @@
+{
+  "id": "e2dbd228-0b6c-4385-93bf-051ec61dd89d",
+  "persona": "atheist4thecause",
+  "names": [
+    "atheist4thecause"
+  ],
+  "runs": 3,
+  "bestRank": 110,
+  "worstRank": 302,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2666521,
+  "weeksActive": [
+    -80,
+    -79,
+    -78
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 217,
+      "ms": 4309667,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 302,
+      "ms": 3807393,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 110,
+      "ms": 2666521,
+      "dish": "Burgers"
+    }
+  ]
+}

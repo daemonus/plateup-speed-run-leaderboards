@@ -1,0 +1,34 @@
+{
+  "id": "23b931e2-27c3-4ae1-a05a-bd7f697f503b",
+  "persona": "Ops",
+  "names": [
+    "Ops"
+  ],
+  "runs": 2,
+  "bestRank": 819,
+  "worstRank": 931,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2326357,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 819,
+      "ms": 2326357,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 931,
+      "ms": 2844375,
+      "dish": "Fish"
+    }
+  ]
+}

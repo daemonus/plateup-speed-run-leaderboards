@@ -1,0 +1,98 @@
+{
+  "id": "2c29b60a-bc03-4f16-964b-a878b2b3ac30",
+  "persona": "RockBay",
+  "names": [
+    "RockBay"
+  ],
+  "runs": 10,
+  "bestRank": 93,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2761778,
+  "weeksActive": [
+    50,
+    53,
+    54,
+    55,
+    56,
+    61,
+    62,
+    69,
+    78,
+    79
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 93,
+      "ms": 3375748,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 258,
+      "ms": 3532014,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 116,
+      "ms": 3301337,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 201,
+      "ms": 3859828,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 495,
+      "ms": 2761778,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 183,
+      "ms": 3111795,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 224,
+      "ms": 3080984,
+      "dish": "Pies"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 170,
+      "ms": 3395298,
+      "dish": "Burgers"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 203,
+      "ms": 3191042,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 136,
+      "ms": 3496964,
+      "dish": "Salad"
+    }
+  ]
+}

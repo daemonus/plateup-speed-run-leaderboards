@@ -1,0 +1,42 @@
+{
+  "id": "19e3551e-504e-4e1b-8270-d873920e3e03",
+  "persona": "mashake",
+  "names": [
+    "mashake"
+  ],
+  "runs": 3,
+  "bestRank": 121,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2876434,
+  "weeksActive": [
+    -38,
+    -37,
+    -36
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 374,
+      "ms": 2876434,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 272,
+      "ms": 2887687,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 121,
+      "ms": 5060470,
+      "dish": "Burgers"
+    }
+  ]
+}

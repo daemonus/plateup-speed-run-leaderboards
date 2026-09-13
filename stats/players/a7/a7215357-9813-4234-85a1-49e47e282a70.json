@@ -1,0 +1,82 @@
+{
+  "id": "a7215357-9813-4234-85a1-49e47e282a70",
+  "persona": "Chrona",
+  "names": [
+    "Chrona"
+  ],
+  "runs": 8,
+  "bestRank": 148,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2772437,
+  "weeksActive": [
+    52,
+    53,
+    59,
+    61,
+    63,
+    65,
+    83,
+    87
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 573,
+      "ms": 4088567,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 416,
+      "ms": 4620746,
+      "dish": "Pies"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 386,
+      "ms": 4682349,
+      "dish": "Salad"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 344,
+      "ms": 4951365,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 446,
+      "ms": 3689612,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 354,
+      "ms": 4694366,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 429,
+      "ms": 2772437,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 148,
+      "ms": 4259137,
+      "dish": "Fajitas"
+    }
+  ]
+}

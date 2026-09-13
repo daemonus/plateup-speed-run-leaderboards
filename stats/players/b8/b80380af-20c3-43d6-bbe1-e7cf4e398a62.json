@@ -1,0 +1,42 @@
+{
+  "id": "b80380af-20c3-43d6-bbe1-e7cf4e398a62",
+  "persona": "DragonEvil",
+  "names": [
+    "DragonEvil"
+  ],
+  "runs": 3,
+  "bestRank": 83,
+  "worstRank": 234,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2367633,
+  "weeksActive": [
+    -61,
+    -56,
+    -24
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 83,
+      "ms": 2367633,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 191,
+      "ms": 2884529,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 234,
+      "ms": 4637697,
+      "dish": "Breakfast"
+    }
+  ]
+}

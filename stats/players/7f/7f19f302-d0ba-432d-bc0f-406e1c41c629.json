@@ -1,0 +1,42 @@
+{
+  "id": "7f19f302-d0ba-432d-bc0f-406e1c41c629",
+  "persona": "cdbstyle",
+  "names": [
+    "cdbstyle"
+  ],
+  "runs": 3,
+  "bestRank": 87,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2520222,
+  "weeksActive": [
+    29,
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 87,
+      "ms": 3094849,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 90,
+      "ms": 2520222,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 188,
+      "ms": 2805711,
+      "dish": "Fish"
+    }
+  ]
+}

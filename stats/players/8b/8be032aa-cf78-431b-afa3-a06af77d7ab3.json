@@ -1,0 +1,58 @@
+{
+  "id": "8be032aa-cf78-431b-afa3-a06af77d7ab3",
+  "persona": "kurumi",
+  "names": [
+    "kurumi"
+  ],
+  "runs": 5,
+  "bestRank": 41,
+  "worstRank": 241,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2169597,
+  "weeksActive": [
+    -38,
+    -35,
+    -21,
+    26,
+    27
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 241,
+      "ms": 2508550,
+      "dish": "Turkey"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 94,
+      "ms": 3132443,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 109,
+      "ms": 2656828,
+      "dish": "Pizza"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 80,
+      "ms": 2587600,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 41,
+      "ms": 2169597,
+      "dish": "Breakfast"
+    }
+  ]
+}

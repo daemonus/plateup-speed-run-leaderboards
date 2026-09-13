@@ -1,0 +1,42 @@
+{
+  "id": "a25c7947-c885-4bf0-8036-d335b829b774",
+  "persona": "SpectrE",
+  "names": [
+    "SpectrE"
+  ],
+  "runs": 3,
+  "bestRank": 291,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4317292,
+  "weeksActive": [
+    31,
+    33,
+    34
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 511,
+      "ms": 4317292,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 291,
+      "ms": 5694782,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 453,
+      "ms": 5711619,
+      "dish": "Stir Fry"
+    }
+  ]
+}

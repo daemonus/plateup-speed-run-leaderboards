@@ -1,0 +1,58 @@
+{
+  "id": "35bf2548-f19b-4aa0-b1c3-fedab189cad7",
+  "persona": "yetherama",
+  "names": [
+    "yetherama"
+  ],
+  "runs": 5,
+  "bestRank": 185,
+  "worstRank": 586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2583517,
+  "weeksActive": [
+    46,
+    47,
+    53,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 586,
+      "ms": 5800124,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 252,
+      "ms": 3998780,
+      "dish": "Pizza"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 433,
+      "ms": 4848542,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 379,
+      "ms": 2583517,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 185,
+      "ms": 2883068,
+      "dish": "Fish"
+    }
+  ]
+}

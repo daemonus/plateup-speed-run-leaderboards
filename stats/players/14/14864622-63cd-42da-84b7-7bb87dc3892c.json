@@ -1,0 +1,50 @@
+{
+  "id": "14864622-63cd-42da-84b7-7bb87dc3892c",
+  "persona": "\u963F\u568F",
+  "names": [
+    "\u963F\u568F"
+  ],
+  "runs": 4,
+  "bestRank": 196,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3060424,
+  "weeksActive": [
+    6,
+    18,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 238,
+      "ms": 3645783,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 196,
+      "ms": 4084425,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 506,
+      "ms": 3246995,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 201,
+      "ms": 3060424,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "516e12d6-4ded-4158-8ca4-fd7038a73a79",
+  "persona": "Rebel_Tuna",
+  "names": [
+    "Rebel_Tuna"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 550,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3896808,
+  "weeksActive": [
+    -39,
+    -27,
+    -26
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 550,
+      "ms": 3896808,
+      "dish": "Pizza"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 212,
+      "ms": 4444878,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 235,
+      "ms": 4007574,
+      "dish": "Breakfast"
+    }
+  ]
+}

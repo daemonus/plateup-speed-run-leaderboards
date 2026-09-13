@@ -1,0 +1,50 @@
+{
+  "id": "7f22f3a5-1df0-4fd8-9045-1de8974ddf28",
+  "persona": "Desachado",
+  "names": [
+    "Desachado"
+  ],
+  "runs": 4,
+  "bestRank": 282,
+  "worstRank": 637,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3590167,
+  "weeksActive": [
+    -56,
+    -51,
+    -50,
+    -3
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 377,
+      "ms": 3778050,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 469,
+      "ms": 3590167,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 282,
+      "ms": 5561918,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 637,
+      "ms": 5688025,
+      "dish": "Turkey"
+    }
+  ]
+}

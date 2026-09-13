@@ -1,0 +1,34 @@
+{
+  "id": "ef3f8478-5968-4479-bfde-101e10abeb0f",
+  "persona": "Andralia",
+  "names": [
+    "Andralia"
+  ],
+  "runs": 2,
+  "bestRank": 465,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4163180,
+  "weeksActive": [
+    53,
+    58
+  ],
+  "history": [
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 465,
+      "ms": 5373455,
+      "dish": "Pies"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 521,
+      "ms": 4163180,
+      "dish": "Turkey"
+    }
+  ]
+}

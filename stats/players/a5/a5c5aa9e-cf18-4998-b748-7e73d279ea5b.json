@@ -1,0 +1,42 @@
+{
+  "id": "a5c5aa9e-cf18-4998-b748-7e73d279ea5b",
+  "persona": "yummy_booger",
+  "names": [
+    "yummy_booger"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3166248,
+  "weeksActive": [
+    -5,
+    25,
+    26
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 480,
+      "ms": 4907584,
+      "dish": "Pizza"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 149,
+      "ms": 4441804,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 157,
+      "ms": 3166248,
+      "dish": "Pizza"
+    }
+  ]
+}

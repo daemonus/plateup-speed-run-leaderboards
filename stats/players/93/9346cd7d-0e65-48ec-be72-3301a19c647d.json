@@ -1,0 +1,42 @@
+{
+  "id": "9346cd7d-0e65-48ec-be72-3301a19c647d",
+  "persona": "F0r3st12",
+  "names": [
+    "F0r3st12"
+  ],
+  "runs": 3,
+  "bestRank": 635,
+  "worstRank": 1922,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3082821,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1922,
+      "ms": 3082821,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 635,
+      "ms": 3939661,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1438,
+      "ms": 3650342,
+      "dish": "Fish"
+    }
+  ]
+}

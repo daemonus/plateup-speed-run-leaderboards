@@ -1,0 +1,58 @@
+{
+  "id": "2bf53158-0cf9-428f-83ba-ed534562e8e4",
+  "persona": "Miu",
+  "names": [
+    "Miu"
+  ],
+  "runs": 5,
+  "bestRank": 108,
+  "worstRank": 967,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3267500,
+  "weeksActive": [
+    -40,
+    -38,
+    -37,
+    -36,
+    -35
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 247,
+      "ms": 5281523,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 526,
+      "ms": 3267500,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 967,
+      "ms": 5615773,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 108,
+      "ms": 4389674,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 178,
+      "ms": 4055825,
+      "dish": "Breakfast"
+    }
+  ]
+}

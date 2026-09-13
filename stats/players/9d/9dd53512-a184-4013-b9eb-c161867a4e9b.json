@@ -1,0 +1,34 @@
+{
+  "id": "9dd53512-a184-4013-b9eb-c161867a4e9b",
+  "persona": "The USA, but smart",
+  "names": [
+    "The USA, but smart"
+  ],
+  "runs": 2,
+  "bestRank": 466,
+  "worstRank": 723,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2876655,
+  "weeksActive": [
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 723,
+      "ms": 3088462,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 466,
+      "ms": 2876655,
+      "dish": "Pies"
+    }
+  ]
+}

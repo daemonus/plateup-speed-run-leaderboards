@@ -1,0 +1,34 @@
+{
+  "id": "a0e4b117-83d6-4978-8065-e21b536babc3",
+  "persona": "pc 45",
+  "names": [
+    "pc 45"
+  ],
+  "runs": 2,
+  "bestRank": 568,
+  "worstRank": 649,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3620326,
+  "weeksActive": [
+    -39,
+    -37
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 649,
+      "ms": 4366769,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 568,
+      "ms": 3620326,
+      "dish": "Fish"
+    }
+  ]
+}

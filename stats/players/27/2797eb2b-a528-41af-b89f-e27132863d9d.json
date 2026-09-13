@@ -1,0 +1,34 @@
+{
+  "id": "2797eb2b-a528-41af-b89f-e27132863d9d",
+  "persona": "Chciken",
+  "names": [
+    "Chciken"
+  ],
+  "runs": 2,
+  "bestRank": 85,
+  "worstRank": 116,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2583127,
+  "weeksActive": [
+    -62,
+    -47
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 85,
+      "ms": 2583127,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 116,
+      "ms": 3087279,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

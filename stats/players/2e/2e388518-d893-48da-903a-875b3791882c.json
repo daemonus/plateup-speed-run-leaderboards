@@ -1,0 +1,42 @@
+{
+  "id": "2e388518-d893-48da-903a-875b3791882c",
+  "persona": "Dringette",
+  "names": [
+    "Dringette"
+  ],
+  "runs": 3,
+  "bestRank": 547,
+  "worstRank": 1662,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2379026,
+  "weeksActive": [
+    -94,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1662,
+      "ms": 4829866,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 547,
+      "ms": 2379026,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 785,
+      "ms": 3205450,
+      "dish": "Fish"
+    }
+  ]
+}

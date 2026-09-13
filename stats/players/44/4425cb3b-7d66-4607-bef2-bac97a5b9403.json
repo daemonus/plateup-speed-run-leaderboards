@@ -1,0 +1,42 @@
+{
+  "id": "4425cb3b-7d66-4607-bef2-bac97a5b9403",
+  "persona": "Queen",
+  "names": [
+    "Queen"
+  ],
+  "runs": 3,
+  "bestRank": 18,
+  "worstRank": 84,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2083130,
+  "weeksActive": [
+    -13,
+    -6,
+    -2
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 84,
+      "ms": 2662530,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 18,
+      "ms": 2102104,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 42,
+      "ms": 2083130,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "86f6df23-4d64-48b4-b7c8-ff3c66f7e8e7",
+  "persona": "greenratman",
+  "names": [
+    "greenratman"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 627,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2400303,
+  "weeksActive": [
+    -16,
+    -15,
+    2,
+    51,
+    52
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 627,
+      "ms": 4829335,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 501,
+      "ms": 4290607,
+      "dish": "Fish"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 345,
+      "ms": 4497197,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 361,
+      "ms": 5832489,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 133,
+      "ms": 2400303,
+      "dish": "Fish"
+    }
+  ]
+}

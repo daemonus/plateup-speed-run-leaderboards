@@ -1,0 +1,42 @@
+{
+  "id": "5518751f-da75-45cf-ac87-88b2edc931c7",
+  "persona": "truthsdeceit",
+  "names": [
+    "truthsdeceit"
+  ],
+  "runs": 3,
+  "bestRank": 397,
+  "worstRank": 810,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4702416,
+  "weeksActive": [
+    -82,
+    -81,
+    -45
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 810,
+      "ms": 6048521,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 397,
+      "ms": 5283072,
+      "dish": "Steak"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 499,
+      "ms": 4702416,
+      "dish": "Breakfast"
+    }
+  ]
+}

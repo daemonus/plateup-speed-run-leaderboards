@@ -1,0 +1,50 @@
+{
+  "id": "0fe10024-7894-4524-ad39-b8bcd93a5451",
+  "persona": "sanwoosan",
+  "names": [
+    "sanwoosan"
+  ],
+  "runs": 4,
+  "bestRank": 428,
+  "worstRank": 735,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3464790,
+  "weeksActive": [
+    -71,
+    -70,
+    -69,
+    -31
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 625,
+      "ms": 3464790,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 451,
+      "ms": 4658788,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 428,
+      "ms": 5528214,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 735,
+      "ms": 4544690,
+      "dish": "Pies"
+    }
+  ]
+}

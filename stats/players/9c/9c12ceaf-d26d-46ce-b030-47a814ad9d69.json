@@ -1,0 +1,50 @@
+{
+  "id": "9c12ceaf-d26d-46ce-b030-47a814ad9d69",
+  "persona": "LGDJY",
+  "names": [
+    "LGDJY"
+  ],
+  "runs": 4,
+  "bestRank": 185,
+  "worstRank": 1052,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3954830,
+  "weeksActive": [
+    -76,
+    -75,
+    29,
+    30
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 923,
+      "ms": 4893130,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1052,
+      "ms": 6564317,
+      "dish": "Fish"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 185,
+      "ms": 4820041,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 349,
+      "ms": 3954830,
+      "dish": "Breakfast"
+    }
+  ]
+}

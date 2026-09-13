@@ -1,0 +1,50 @@
+{
+  "id": "e63f184b-9fc6-435c-b4a3-d6fd7b7b1f9f",
+  "persona": "nenetto",
+  "names": [
+    "nenetto"
+  ],
+  "runs": 4,
+  "bestRank": 8,
+  "worstRank": 58,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1507723,
+  "weeksActive": [
+    43,
+    44,
+    47,
+    49
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 9,
+      "ms": 1507723,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 8,
+      "ms": 1710954,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 58,
+      "ms": 2430520,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 43,
+      "ms": 2720553,
+      "dish": "Burgers"
+    }
+  ]
+}

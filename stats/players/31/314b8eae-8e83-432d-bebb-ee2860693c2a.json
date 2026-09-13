@@ -1,0 +1,66 @@
+{
+  "id": "314b8eae-8e83-432d-bebb-ee2860693c2a",
+  "persona": "Bread",
+  "names": [
+    "Bread"
+  ],
+  "runs": 6,
+  "bestRank": 23,
+  "worstRank": 115,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1649261,
+  "weeksActive": [
+    -46,
+    -45,
+    -44,
+    -43,
+    -41,
+    13
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 115,
+      "ms": 3174949,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 85,
+      "ms": 2522688,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 80,
+      "ms": 2247728,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 23,
+      "ms": 2145295,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 24,
+      "ms": 2553819,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 32,
+      "ms": 1649261,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "31fbc5aa-19b5-4bf1-bed7-aa83c65ad83b",
+  "persona": "maddog.doc",
+  "names": [
+    "maddog.doc"
+  ],
+  "runs": 2,
+  "bestRank": 170,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3450875,
+  "weeksActive": [
+    -50,
+    -46
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 294,
+      "ms": 6061836,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 170,
+      "ms": 3450875,
+      "dish": "Salad"
+    }
+  ]
+}

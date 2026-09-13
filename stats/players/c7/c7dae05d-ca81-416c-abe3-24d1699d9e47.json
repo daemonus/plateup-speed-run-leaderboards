@@ -1,0 +1,50 @@
+{
+  "id": "c7dae05d-ca81-416c-abe3-24d1699d9e47",
+  "persona": "Pangroo",
+  "names": [
+    "Pangroo"
+  ],
+  "runs": 4,
+  "bestRank": 57,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2304367,
+  "weeksActive": [
+    77,
+    80,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 172,
+      "ms": 2448630,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 245,
+      "ms": 3618800,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 169,
+      "ms": 3428840,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 57,
+      "ms": 2304367,
+      "dish": "Pizza"
+    }
+  ]
+}

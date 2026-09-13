@@ -1,0 +1,42 @@
+{
+  "id": "60886a5a-a1de-42b4-9e25-98e6a117f3fa",
+  "persona": "whaaah2",
+  "names": [
+    "whaaah2"
+  ],
+  "runs": 3,
+  "bestRank": 265,
+  "worstRank": 527,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2756443,
+  "weeksActive": [
+    -46,
+    -43,
+    56
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 527,
+      "ms": 5589750,
+      "dish": "Salad"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 265,
+      "ms": 4392148,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 492,
+      "ms": 2756443,
+      "dish": "Sundaes"
+    }
+  ]
+}

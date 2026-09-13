@@ -1,0 +1,34 @@
+{
+  "id": "f131eae3-7d6c-4f51-92be-52373e6bff81",
+  "persona": "Halo",
+  "names": [
+    "Halo"
+  ],
+  "runs": 2,
+  "bestRank": 255,
+  "worstRank": 267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3289929,
+  "weeksActive": [
+    -2,
+    0
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 255,
+      "ms": 3289929,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 267,
+      "ms": 4333228,
+      "dish": "Stir Fry"
+    }
+  ]
+}

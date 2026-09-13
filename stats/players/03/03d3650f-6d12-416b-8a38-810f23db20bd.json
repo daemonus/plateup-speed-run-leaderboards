@@ -1,0 +1,50 @@
+{
+  "id": "03d3650f-6d12-416b-8a38-810f23db20bd",
+  "persona": "evan",
+  "names": [
+    "evan"
+  ],
+  "runs": 4,
+  "bestRank": 122,
+  "worstRank": 204,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1898447,
+  "weeksActive": [
+    56,
+    57,
+    66,
+    80
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 204,
+      "ms": 1898447,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 191,
+      "ms": 3068334,
+      "dish": "Salad"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 184,
+      "ms": 2812177,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 122,
+      "ms": 2821380,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8623c0b9-fb79-4d6a-888e-3d116ea5d4a2",
+  "persona": "complicate",
+  "names": [
+    "complicate"
+  ],
+  "runs": 3,
+  "bestRank": 270,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2812845,
+  "weeksActive": [
+    26,
+    41,
+    81
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 270,
+      "ms": 3953908,
+      "dish": "Pizza"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 453,
+      "ms": 2812845,
+      "dish": "Turkey"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 277,
+      "ms": 4579020,
+      "dish": "Pizza"
+    }
+  ]
+}

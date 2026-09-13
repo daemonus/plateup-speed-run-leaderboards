@@ -1,0 +1,42 @@
+{
+  "id": "e56dc433-ddf3-449a-9bc1-f6fba6508bee",
+  "persona": "staceinvader",
+  "names": [
+    "staceinvader"
+  ],
+  "runs": 3,
+  "bestRank": 127,
+  "worstRank": 213,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1727468,
+  "weeksActive": [
+    -80,
+    -79,
+    41
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 210,
+      "ms": 4197837,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 213,
+      "ms": 3290408,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 127,
+      "ms": 1727468,
+      "dish": "Turkey"
+    }
+  ]
+}

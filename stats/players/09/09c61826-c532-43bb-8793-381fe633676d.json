@@ -1,0 +1,42 @@
+{
+  "id": "09c61826-c532-43bb-8793-381fe633676d",
+  "persona": "Stewie",
+  "names": [
+    "Stewie"
+  ],
+  "runs": 3,
+  "bestRank": 209,
+  "worstRank": 330,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2841405,
+  "weeksActive": [
+    11,
+    12,
+    14
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 209,
+      "ms": 3930153,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 296,
+      "ms": 2841405,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 330,
+      "ms": 4923494,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

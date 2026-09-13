@@ -1,0 +1,42 @@
+{
+  "id": "e90cf7f9-5d18-4b22-a38f-fb1bf573e8d2",
+  "persona": "Kale",
+  "names": [
+    "Kale"
+  ],
+  "runs": 3,
+  "bestRank": 60,
+  "worstRank": 220,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2182767,
+  "weeksActive": [
+    -77,
+    -75,
+    -39
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 178,
+      "ms": 2668907,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 220,
+      "ms": 2293225,
+      "dish": "Fish"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 60,
+      "ms": 2182767,
+      "dish": "Pizza"
+    }
+  ]
+}

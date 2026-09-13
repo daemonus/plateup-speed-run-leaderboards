@@ -1,0 +1,34 @@
+{
+  "id": "71347ea0-7980-412f-93e2-5961876d8949",
+  "persona": "ERA",
+  "names": [
+    "ERA"
+  ],
+  "runs": 2,
+  "bestRank": 543,
+  "worstRank": 817,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4680441,
+  "weeksActive": [
+    -86,
+    -44
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 817,
+      "ms": 4680441,
+      "dish": "Fish"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 543,
+      "ms": 5121825,
+      "dish": "Turkey"
+    }
+  ]
+}

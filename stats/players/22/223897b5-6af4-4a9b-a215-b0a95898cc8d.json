@@ -1,0 +1,34 @@
+{
+  "id": "223897b5-6af4-4a9b-a215-b0a95898cc8d",
+  "persona": "golden",
+  "names": [
+    "golden"
+  ],
+  "runs": 2,
+  "bestRank": 219,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3032747,
+  "weeksActive": [
+    12,
+    57
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 344,
+      "ms": 3032747,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 219,
+      "ms": 3218194,
+      "dish": "Salad"
+    }
+  ]
+}

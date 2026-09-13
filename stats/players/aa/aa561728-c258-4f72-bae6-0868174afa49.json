@@ -1,0 +1,34 @@
+{
+  "id": "aa561728-c258-4f72-bae6-0868174afa49",
+  "persona": "chinter",
+  "names": [
+    "chinter"
+  ],
+  "runs": 2,
+  "bestRank": 175,
+  "worstRank": 180,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2883560,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 180,
+      "ms": 3466138,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 175,
+      "ms": 2883560,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "270a4917-fd93-4288-a77b-866b3dbb5859",
+  "persona": "Liz",
+  "names": [
+    "Liz"
+  ],
+  "runs": 2,
+  "bestRank": 169,
+  "worstRank": 423,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2344978,
+  "weeksActive": [
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 423,
+      "ms": 3759474,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 169,
+      "ms": 2344978,
+      "dish": "Fish"
+    }
+  ]
+}

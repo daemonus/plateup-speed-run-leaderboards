@@ -1,0 +1,58 @@
+{
+  "id": "a4bedcfc-a49c-4b00-ba92-5d41a05a1ff5",
+  "persona": "Occulta Apparentia",
+  "names": [
+    "Occulta Apparentia"
+  ],
+  "runs": 5,
+  "bestRank": 5,
+  "worstRank": 29,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 3,
+  "bestMs": 1025918,
+  "weeksActive": [
+    -94,
+    -92,
+    -90,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 21,
+      "ms": 1455300,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 29,
+      "ms": 1577942,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 9,
+      "ms": 1139852,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 6,
+      "ms": 1643226,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 5,
+      "ms": 1025918,
+      "dish": "Fish"
+    }
+  ]
+}

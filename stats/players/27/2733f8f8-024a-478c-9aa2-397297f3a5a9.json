@@ -1,0 +1,42 @@
+{
+  "id": "2733f8f8-024a-478c-9aa2-397297f3a5a9",
+  "persona": "\u963F\u85FBAlgae",
+  "names": [
+    "\u963F\u85FBAlgae"
+  ],
+  "runs": 3,
+  "bestRank": 266,
+  "worstRank": 310,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3075883,
+  "weeksActive": [
+    51,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 266,
+      "ms": 4337408,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 310,
+      "ms": 3075883,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 276,
+      "ms": 3597792,
+      "dish": "Pies"
+    }
+  ]
+}

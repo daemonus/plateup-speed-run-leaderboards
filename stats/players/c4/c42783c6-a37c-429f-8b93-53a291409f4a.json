@@ -1,0 +1,50 @@
+{
+  "id": "c42783c6-a37c-429f-8b93-53a291409f4a",
+  "persona": "Sauran",
+  "names": [
+    "Sauran"
+  ],
+  "runs": 4,
+  "bestRank": 65,
+  "worstRank": 107,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1986974,
+  "weeksActive": [
+    -71,
+    -42,
+    13,
+    15
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 65,
+      "ms": 1986974,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 70,
+      "ms": 3083247,
+      "dish": "Burgers"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 101,
+      "ms": 2061500,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 107,
+      "ms": 2015592,
+      "dish": "Turkey"
+    }
+  ]
+}

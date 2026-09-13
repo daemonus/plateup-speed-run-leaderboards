@@ -1,0 +1,34 @@
+{
+  "id": "be00c7be-7dfa-430b-98c7-4164e2d845c8",
+  "persona": "Terra Nautica",
+  "names": [
+    "Terra Nautica"
+  ],
+  "runs": 2,
+  "bestRank": 501,
+  "worstRank": 856,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4927595,
+  "weeksActive": [
+    -78,
+    -77
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 501,
+      "ms": 7275540,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 856,
+      "ms": 4927595,
+      "dish": "Pies"
+    }
+  ]
+}

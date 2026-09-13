@@ -1,0 +1,58 @@
+{
+  "id": "a7fc32a9-2065-4ed9-ab3a-ead3a839598a",
+  "persona": "yuik5200",
+  "names": [
+    "yuik5200"
+  ],
+  "runs": 5,
+  "bestRank": 340,
+  "worstRank": 2038,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2998640,
+  "weeksActive": [
+    -93,
+    -91,
+    -41,
+    -32,
+    85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2038,
+      "ms": 3165066,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1036,
+      "ms": 2998640,
+      "dish": "Fish"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 340,
+      "ms": 5057619,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 739,
+      "ms": 3994504,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 384,
+      "ms": 4377461,
+      "dish": "Fish"
+    }
+  ]
+}

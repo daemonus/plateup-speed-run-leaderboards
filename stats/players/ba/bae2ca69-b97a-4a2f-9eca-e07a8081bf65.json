@@ -1,0 +1,66 @@
+{
+  "id": "bae2ca69-b97a-4a2f-9eca-e07a8081bf65",
+  "persona": "dvorakova.t",
+  "names": [
+    "dvorakova.t"
+  ],
+  "runs": 6,
+  "bestRank": 304,
+  "worstRank": 422,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3573485,
+  "weeksActive": [
+    26,
+    30,
+    32,
+    36,
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 339,
+      "ms": 4669674,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 351,
+      "ms": 3958244,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 304,
+      "ms": 4068322,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 356,
+      "ms": 3573485,
+      "dish": "Fish"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 333,
+      "ms": 4579597,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 422,
+      "ms": 4098062,
+      "dish": "Pies"
+    }
+  ]
+}

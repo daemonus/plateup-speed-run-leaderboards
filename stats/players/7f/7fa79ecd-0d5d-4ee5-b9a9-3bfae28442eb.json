@@ -1,0 +1,74 @@
+{
+  "id": "7fa79ecd-0d5d-4ee5-b9a9-3bfae28442eb",
+  "persona": "sin",
+  "names": [
+    "sin"
+  ],
+  "runs": 7,
+  "bestRank": 93,
+  "worstRank": 550,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2503571,
+  "weeksActive": [
+    15,
+    24,
+    26,
+    30,
+    31,
+    32,
+    35
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 546,
+      "ms": 3839100,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 550,
+      "ms": 5851922,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 251,
+      "ms": 3821438,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 405,
+      "ms": 4347279,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 336,
+      "ms": 3496518,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 93,
+      "ms": 2503571,
+      "dish": "Pies"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 395,
+      "ms": 5408852,
+      "dish": "Fish"
+    }
+  ]
+}

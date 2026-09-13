@@ -1,0 +1,34 @@
+{
+  "id": "328d829d-78b2-40f0-aba2-ebfab8e1486c",
+  "persona": "tissots_indicatrices",
+  "names": [
+    "tissots_indicatrices"
+  ],
+  "runs": 2,
+  "bestRank": 199,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3529690,
+  "weeksActive": [
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 291,
+      "ms": 5212928,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 199,
+      "ms": 3529690,
+      "dish": "Breakfast"
+    }
+  ]
+}

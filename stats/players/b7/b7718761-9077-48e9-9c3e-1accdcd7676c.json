@@ -1,0 +1,34 @@
+{
+  "id": "b7718761-9077-48e9-9c3e-1accdcd7676c",
+  "persona": "kubek",
+  "names": [
+    "kubek"
+  ],
+  "runs": 2,
+  "bestRank": 407,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3339346,
+  "weeksActive": [
+    9,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 503,
+      "ms": 5465242,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 407,
+      "ms": 3339346,
+      "dish": "Turkey"
+    }
+  ]
+}

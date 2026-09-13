@@ -1,0 +1,42 @@
+{
+  "id": "ad4be2f8-dd91-498f-a36d-4303dfd3e17c",
+  "persona": "Duff",
+  "names": [
+    "Duff"
+  ],
+  "runs": 3,
+  "bestRank": 503,
+  "worstRank": 1556,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2756919,
+  "weeksActive": [
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1556,
+      "ms": 2829927,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 503,
+      "ms": 3455468,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 546,
+      "ms": 2756919,
+      "dish": "Fish"
+    }
+  ]
+}

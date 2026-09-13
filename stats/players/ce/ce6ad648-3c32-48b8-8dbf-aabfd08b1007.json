@@ -1,0 +1,98 @@
+{
+  "id": "ce6ad648-3c32-48b8-8dbf-aabfd08b1007",
+  "persona": "jtasker1",
+  "names": [
+    "jtasker1"
+  ],
+  "runs": 10,
+  "bestRank": 138,
+  "worstRank": 896,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3422595,
+  "weeksActive": [
+    63,
+    64,
+    70,
+    72,
+    75,
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 629,
+      "ms": 4433738,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 896,
+      "ms": 4078723,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 306,
+      "ms": 4547737,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 289,
+      "ms": 3994757,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 282,
+      "ms": 4231933,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 408,
+      "ms": 3954280,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 272,
+      "ms": 3691497,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 138,
+      "ms": 3534638,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 220,
+      "ms": 3422595,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 250,
+      "ms": 4253522,
+      "dish": "Pizza"
+    }
+  ]
+}

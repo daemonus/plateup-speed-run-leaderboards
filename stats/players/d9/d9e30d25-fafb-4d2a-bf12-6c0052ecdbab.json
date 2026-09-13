@@ -1,0 +1,42 @@
+{
+  "id": "d9e30d25-fafb-4d2a-bf12-6c0052ecdbab",
+  "persona": "diver666",
+  "names": [
+    "diver666"
+  ],
+  "runs": 3,
+  "bestRank": 66,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3054464,
+  "weeksActive": [
+    42,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 192,
+      "ms": 3713742,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 240,
+      "ms": 3201424,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 66,
+      "ms": 3054464,
+      "dish": "Salad"
+    }
+  ]
+}

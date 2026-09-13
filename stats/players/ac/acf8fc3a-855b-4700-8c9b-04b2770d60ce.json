@@ -1,0 +1,42 @@
+{
+  "id": "acf8fc3a-855b-4700-8c9b-04b2770d60ce",
+  "persona": "aytx3city",
+  "names": [
+    "aytx3city"
+  ],
+  "runs": 3,
+  "bestRank": 385,
+  "worstRank": 647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4680557,
+  "weeksActive": [
+    58,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 647,
+      "ms": 5297991,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 385,
+      "ms": 4680557,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 429,
+      "ms": 6551958,
+      "dish": "Burgers"
+    }
+  ]
+}

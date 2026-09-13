@@ -1,0 +1,42 @@
+{
+  "id": "83ea551e-3b07-45fc-98e1-d57fe96b2929",
+  "persona": "\u997C\u997C",
+  "names": [
+    "\u997C\u997C"
+  ],
+  "runs": 3,
+  "bestRank": 193,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4343752,
+  "weeksActive": [
+    -14,
+    -13,
+    -8
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 282,
+      "ms": 5477364,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 318,
+      "ms": 4753784,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 193,
+      "ms": 4343752,
+      "dish": "Stir Fry"
+    }
+  ]
+}

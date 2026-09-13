@@ -1,0 +1,50 @@
+{
+  "id": "98824b95-48cb-4d8d-8513-17565c2d29ca",
+  "persona": "ytliu28108",
+  "names": [
+    "ytliu28108"
+  ],
+  "runs": 4,
+  "bestRank": 271,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3315634,
+  "weeksActive": [
+    -6,
+    -3,
+    32,
+    33
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 473,
+      "ms": 4616397,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 393,
+      "ms": 3315634,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 380,
+      "ms": 5290906,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 271,
+      "ms": 5093633,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c734f2ac-da73-4ece-bc6a-c59811c51f10",
+  "persona": "Doc Brown",
+  "names": [
+    "Doc Brown"
+  ],
+  "runs": 2,
+  "bestRank": 321,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3591325,
+  "weeksActive": [
+    -51,
+    -47
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 470,
+      "ms": 3591325,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 321,
+      "ms": 4134737,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

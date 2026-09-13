@@ -1,0 +1,50 @@
+{
+  "id": "00c4b911-0624-4409-a245-b398d2ee0d2c",
+  "persona": "Amyllian",
+  "names": [
+    "Amyllian"
+  ],
+  "runs": 4,
+  "bestRank": 43,
+  "worstRank": 72,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1410251,
+  "weeksActive": [
+    -91,
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 72,
+      "ms": 1607576,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 43,
+      "ms": 1410251,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 43,
+      "ms": 1750923,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 72,
+      "ms": 2276113,
+      "dish": "Steak"
+    }
+  ]
+}

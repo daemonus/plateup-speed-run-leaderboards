@@ -1,0 +1,58 @@
+{
+  "id": "8c183c70-559b-48cc-affc-469f66a2431a",
+  "persona": "Botherella",
+  "names": [
+    "Botherella"
+  ],
+  "runs": 5,
+  "bestRank": 59,
+  "worstRank": 252,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1555499,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 252,
+      "ms": 1810232,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 105,
+      "ms": 2192378,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 59,
+      "ms": 1555499,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 90,
+      "ms": 1698007,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 71,
+      "ms": 1667621,
+      "dish": "Pies"
+    }
+  ]
+}

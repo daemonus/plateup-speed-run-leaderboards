@@ -1,0 +1,42 @@
+{
+  "id": "676e4dba-11c3-485d-a939-427756b0e5c7",
+  "persona": "Godelha",
+  "names": [
+    "Godelha"
+  ],
+  "runs": 3,
+  "bestRank": 165,
+  "worstRank": 1028,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2086970,
+  "weeksActive": [
+    -94,
+    -93,
+    -43
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1028,
+      "ms": 3476703,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 482,
+      "ms": 2086970,
+      "dish": "Fish"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 165,
+      "ms": 3339473,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

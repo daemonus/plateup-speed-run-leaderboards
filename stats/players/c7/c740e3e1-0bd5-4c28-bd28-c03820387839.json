@@ -1,0 +1,42 @@
+{
+  "id": "c740e3e1-0bd5-4c28-bd28-c03820387839",
+  "persona": "ReifenRollo",
+  "names": [
+    "ReifenRollo"
+  ],
+  "runs": 3,
+  "bestRank": 321,
+  "worstRank": 644,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3575031,
+  "weeksActive": [
+    -30,
+    -25,
+    -18
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 638,
+      "ms": 3575031,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 321,
+      "ms": 3977557,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 644,
+      "ms": 4710884,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c710eb3c-616c-42fb-9f97-f7573f7e3f5d",
+  "persona": "Hana",
+  "names": [
+    "Hana"
+  ],
+  "runs": 2,
+  "bestRank": 142,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3071704,
+  "weeksActive": [
+    -75,
+    -54
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 509,
+      "ms": 3071704,
+      "dish": "Fish"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 142,
+      "ms": 4339671,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "361bfb00-41a3-4bf4-9c16-cac54a67e33f",
+  "persona": "\u3080\u3089\u306E\u3059\u3051",
+  "names": [
+    "\u3080\u3089\u306E\u3059\u3051"
+  ],
+  "runs": 4,
+  "bestRank": 119,
+  "worstRank": 358,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2679604,
+  "weeksActive": [
+    19,
+    20,
+    31,
+    45
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 186,
+      "ms": 3515319,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 336,
+      "ms": 2679604,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 358,
+      "ms": 3566238,
+      "dish": "Fish"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 119,
+      "ms": 3526870,
+      "dish": "Salad"
+    }
+  ]
+}

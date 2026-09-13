@@ -1,0 +1,66 @@
+{
+  "id": "4523e0b0-6263-4907-98b4-8697d6926c91",
+  "persona": "pyffiesti",
+  "names": [
+    "pyffiesti"
+  ],
+  "runs": 6,
+  "bestRank": 197,
+  "worstRank": 2232,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2678515,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    33,
+    72
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 931,
+      "ms": 3346451,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2232,
+      "ms": 3331745,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 394,
+      "ms": 3134262,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 784,
+      "ms": 2678515,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 197,
+      "ms": 3974678,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 234,
+      "ms": 3596976,
+      "dish": "Breakfast"
+    }
+  ]
+}

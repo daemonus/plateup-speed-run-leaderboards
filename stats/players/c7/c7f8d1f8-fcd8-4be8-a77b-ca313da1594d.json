@@ -1,0 +1,42 @@
+{
+  "id": "c7f8d1f8-fcd8-4be8-a77b-ca313da1594d",
+  "persona": "kem3999",
+  "names": [
+    "kem3999"
+  ],
+  "runs": 3,
+  "bestRank": 121,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4049399,
+  "weeksActive": [
+    -21,
+    -14,
+    -1
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 476,
+      "ms": 4738613,
+      "dish": "Pizza"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 305,
+      "ms": 5884605,
+      "dish": "Salad"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 121,
+      "ms": 4049399,
+      "dish": "Breakfast"
+    }
+  ]
+}

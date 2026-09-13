@@ -1,0 +1,58 @@
+{
+  "id": "87460e95-d90c-4839-bd70-1a1213950d86",
+  "persona": "Qmo",
+  "names": [
+    "Qmo"
+  ],
+  "runs": 5,
+  "bestRank": 228,
+  "worstRank": 520,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2989981,
+  "weeksActive": [
+    27,
+    31,
+    42,
+    43,
+    66
+  ],
+  "history": [
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 303,
+      "ms": 5922203,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 228,
+      "ms": 2989981,
+      "dish": "Fish"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 229,
+      "ms": 4406029,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 520,
+      "ms": 3451575,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 335,
+      "ms": 3809172,
+      "dish": "Breakfast"
+    }
+  ]
+}

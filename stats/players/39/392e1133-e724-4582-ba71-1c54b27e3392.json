@@ -1,0 +1,66 @@
+{
+  "id": "392e1133-e724-4582-ba71-1c54b27e3392",
+  "persona": "JJJ",
+  "names": [
+    "JJJ"
+  ],
+  "runs": 6,
+  "bestRank": 201,
+  "worstRank": 497,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2688929,
+  "weeksActive": [
+    -67,
+    -64,
+    -63,
+    -20,
+    -12,
+    64
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 497,
+      "ms": 4830049,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 298,
+      "ms": 4082380,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 375,
+      "ms": 4044707,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 468,
+      "ms": 4671060,
+      "dish": "Burgers"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 201,
+      "ms": 3642378,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 475,
+      "ms": 2688929,
+      "dish": "Sundaes"
+    }
+  ]
+}

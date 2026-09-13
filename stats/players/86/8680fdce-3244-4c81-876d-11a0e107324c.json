@@ -1,0 +1,66 @@
+{
+  "id": "8680fdce-3244-4c81-876d-11a0e107324c",
+  "persona": "limetopochico",
+  "names": [
+    "limetopochico"
+  ],
+  "runs": 6,
+  "bestRank": 218,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2755009,
+  "weeksActive": [
+    -5,
+    -3,
+    -2,
+    30,
+    41,
+    77
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 425,
+      "ms": 4596676,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 352,
+      "ms": 3133745,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 361,
+      "ms": 4098995,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 218,
+      "ms": 3213349,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 432,
+      "ms": 2755009,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 385,
+      "ms": 3785909,
+      "dish": "Sundaes"
+    }
+  ]
+}

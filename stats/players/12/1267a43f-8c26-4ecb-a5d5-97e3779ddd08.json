@@ -1,0 +1,58 @@
+{
+  "id": "1267a43f-8c26-4ecb-a5d5-97e3779ddd08",
+  "persona": "Darky_Yi",
+  "names": [
+    "Darky_Yi"
+  ],
+  "runs": 5,
+  "bestRank": 167,
+  "worstRank": 614,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3482907,
+  "weeksActive": [
+    -37,
+    -33,
+    -29,
+    -28,
+    -25
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 497,
+      "ms": 3482907,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 343,
+      "ms": 4311272,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 167,
+      "ms": 3897478,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 196,
+      "ms": 4771061,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 614,
+      "ms": 5259701,
+      "dish": "Breakfast"
+    }
+  ]
+}

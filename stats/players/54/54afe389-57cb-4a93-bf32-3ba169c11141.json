@@ -1,0 +1,98 @@
+{
+  "id": "54afe389-57cb-4a93-bf32-3ba169c11141",
+  "persona": "lamplamp",
+  "names": [
+    "lamplamp"
+  ],
+  "runs": 10,
+  "bestRank": 118,
+  "worstRank": 528,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2496931,
+  "weeksActive": [
+    -80,
+    -75,
+    -74,
+    -73,
+    -70,
+    -69,
+    -67,
+    -54,
+    -39,
+    -18
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 155,
+      "ms": 3521623,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 528,
+      "ms": 3125216,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 405,
+      "ms": 4183965,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 175,
+      "ms": 4189749,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 223,
+      "ms": 3709296,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 151,
+      "ms": 3855045,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 141,
+      "ms": 3212238,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 166,
+      "ms": 4744843,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 118,
+      "ms": 2496931,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 177,
+      "ms": 3045392,
+      "dish": "Fish"
+    }
+  ]
+}

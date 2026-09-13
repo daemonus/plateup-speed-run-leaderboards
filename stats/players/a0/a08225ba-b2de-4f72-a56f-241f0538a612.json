@@ -1,0 +1,50 @@
+{
+  "id": "a08225ba-b2de-4f72-a56f-241f0538a612",
+  "persona": "Linezel",
+  "names": [
+    "Linezel"
+  ],
+  "runs": 4,
+  "bestRank": 208,
+  "worstRank": 510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4165677,
+  "weeksActive": [
+    -45,
+    -42,
+    -22,
+    -21
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 510,
+      "ms": 4839607,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 225,
+      "ms": 5168614,
+      "dish": "Burgers"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 208,
+      "ms": 4602479,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 399,
+      "ms": 4165677,
+      "dish": "Pizza"
+    }
+  ]
+}

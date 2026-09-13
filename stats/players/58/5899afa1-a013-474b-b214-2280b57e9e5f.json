@@ -1,0 +1,34 @@
+{
+  "id": "5899afa1-a013-474b-b214-2280b57e9e5f",
+  "persona": "duck",
+  "names": [
+    "duck"
+  ],
+  "runs": 2,
+  "bestRank": 267,
+  "worstRank": 767,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3513331,
+  "weeksActive": [
+    -55,
+    -32
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 267,
+      "ms": 3513331,
+      "dish": "Pizza"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 767,
+      "ms": 4065743,
+      "dish": "Breakfast"
+    }
+  ]
+}

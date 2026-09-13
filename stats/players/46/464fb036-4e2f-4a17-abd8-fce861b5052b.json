@@ -1,0 +1,34 @@
+{
+  "id": "464fb036-4e2f-4a17-abd8-fce861b5052b",
+  "persona": "Archer",
+  "names": [
+    "Archer"
+  ],
+  "runs": 2,
+  "bestRank": 576,
+  "worstRank": 656,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3162408,
+  "weeksActive": [
+    31,
+    64
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 576,
+      "ms": 4788854,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 656,
+      "ms": 3162408,
+      "dish": "Sundaes"
+    }
+  ]
+}

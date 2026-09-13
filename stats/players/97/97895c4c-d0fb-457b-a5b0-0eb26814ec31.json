@@ -1,0 +1,42 @@
+{
+  "id": "97895c4c-d0fb-457b-a5b0-0eb26814ec31",
+  "persona": "\u9CE5\u7FBD\u65E0\u3072\u3088\u308A",
+  "names": [
+    "\u9CE5\u7FBD\u65E0\u3072\u3088\u308A"
+  ],
+  "runs": 3,
+  "bestRank": 56,
+  "worstRank": 113,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2492439,
+  "weeksActive": [
+    -8,
+    -7,
+    -4
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 113,
+      "ms": 3473459,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 56,
+      "ms": 3100312,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 93,
+      "ms": 2492439,
+      "dish": "Pies"
+    }
+  ]
+}

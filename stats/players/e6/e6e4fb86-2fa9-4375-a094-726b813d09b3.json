@@ -1,0 +1,50 @@
+{
+  "id": "e6e4fb86-2fa9-4375-a094-726b813d09b3",
+  "persona": "Rekkuuzan",
+  "names": [
+    "Rekkuuzan"
+  ],
+  "runs": 4,
+  "bestRank": 335,
+  "worstRank": 1840,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2306172,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1840,
+      "ms": 3022768,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 335,
+      "ms": 2977455,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 486,
+      "ms": 2306172,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 389,
+      "ms": 2432410,
+      "dish": "Fish"
+    }
+  ]
+}

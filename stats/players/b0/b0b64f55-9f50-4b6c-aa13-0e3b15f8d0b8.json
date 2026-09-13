@@ -1,0 +1,50 @@
+{
+  "id": "b0b64f55-9f50-4b6c-aa13-0e3b15f8d0b8",
+  "persona": "A - Seiko",
+  "names": [
+    "A - Seiko"
+  ],
+  "runs": 4,
+  "bestRank": 161,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3047079,
+  "weeksActive": [
+    1,
+    11,
+    20,
+    27
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 161,
+      "ms": 3114581,
+      "dish": "Pies"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 281,
+      "ms": 5146099,
+      "dish": "Salad"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 438,
+      "ms": 3047079,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 274,
+      "ms": 4583438,
+      "dish": "Breakfast"
+    }
+  ]
+}

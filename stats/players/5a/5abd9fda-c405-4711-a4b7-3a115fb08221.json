@@ -1,0 +1,42 @@
+{
+  "id": "5abd9fda-c405-4711-a4b7-3a115fb08221",
+  "persona": "Yellowsaur",
+  "names": [
+    "Yellowsaur"
+  ],
+  "runs": 3,
+  "bestRank": 157,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2275910,
+  "weeksActive": [
+    -16,
+    -15,
+    12
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 187,
+      "ms": 2775999,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 157,
+      "ms": 2545223,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 176,
+      "ms": 2275910,
+      "dish": "Turkey"
+    }
+  ]
+}

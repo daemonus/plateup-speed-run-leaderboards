@@ -1,0 +1,42 @@
+{
+  "id": "b3ce46f5-ad09-4946-9eae-360a31e82d61",
+  "persona": "tomato",
+  "names": [
+    "tomato"
+  ],
+  "runs": 3,
+  "bestRank": 117,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3231325,
+  "weeksActive": [
+    50,
+    55,
+    85
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 151,
+      "ms": 4071305,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 117,
+      "ms": 3231325,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 265,
+      "ms": 3456103,
+      "dish": "Fish"
+    }
+  ]
+}

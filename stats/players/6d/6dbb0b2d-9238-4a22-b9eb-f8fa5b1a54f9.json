@@ -1,0 +1,34 @@
+{
+  "id": "6dbb0b2d-9238-4a22-b9eb-f8fa5b1a54f9",
+  "persona": "Silverberg",
+  "names": [
+    "Silverberg"
+  ],
+  "runs": 2,
+  "bestRank": 226,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3665244,
+  "weeksActive": [
+    -20,
+    -19
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 553,
+      "ms": 5605470,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 226,
+      "ms": 3665244,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

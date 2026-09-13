@@ -1,0 +1,50 @@
+{
+  "id": "c8ed76c8-2e40-4f73-a110-a3fda4abc87c",
+  "persona": "Gohan",
+  "names": [
+    "Gohan"
+  ],
+  "runs": 4,
+  "bestRank": 177,
+  "worstRank": 614,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4078448,
+  "weeksActive": [
+    -53,
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 423,
+      "ms": 6210273,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 614,
+      "ms": 4205096,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 195,
+      "ms": 4245645,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 177,
+      "ms": 4078448,
+      "dish": "Breakfast"
+    }
+  ]
+}

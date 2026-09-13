@@ -1,0 +1,50 @@
+{
+  "id": "d69b8b93-0f15-43a1-a1ab-b710708a4f83",
+  "persona": "supandaman",
+  "names": [
+    "supandaman"
+  ],
+  "runs": 4,
+  "bestRank": 175,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3441020,
+  "weeksActive": [
+    26,
+    29,
+    36,
+    41
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 363,
+      "ms": 5179283,
+      "dish": "Pizza"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 175,
+      "ms": 4639074,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 399,
+      "ms": 3997762,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 594,
+      "ms": 3441020,
+      "dish": "Turkey"
+    }
+  ]
+}

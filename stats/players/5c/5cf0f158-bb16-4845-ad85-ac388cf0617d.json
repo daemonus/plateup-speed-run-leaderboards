@@ -1,0 +1,66 @@
+{
+  "id": "5cf0f158-bb16-4845-ad85-ac388cf0617d",
+  "persona": "lunlith",
+  "names": [
+    "lunlith"
+  ],
+  "runs": 6,
+  "bestRank": 6,
+  "worstRank": 41,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1237917,
+  "weeksActive": [
+    -88,
+    -87,
+    -86,
+    -83,
+    -82,
+    -55
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 37,
+      "ms": 1886683,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 41,
+      "ms": 2142032,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 20,
+      "ms": 1237917,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 24,
+      "ms": 1883471,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 34,
+      "ms": 1714189,
+      "dish": "Fish"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 6,
+      "ms": 1676037,
+      "dish": "Pizza"
+    }
+  ]
+}

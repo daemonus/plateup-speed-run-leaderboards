@@ -1,0 +1,34 @@
+{
+  "id": "4b45f048-5dd7-4f31-b184-3d1537975bac",
+  "persona": "Frostleaves",
+  "names": [
+    "Frostleaves"
+  ],
+  "runs": 2,
+  "bestRank": 410,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5520238,
+  "weeksActive": [
+    19,
+    60
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 410,
+      "ms": 5520238,
+      "dish": "Pizza"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 417,
+      "ms": 5753018,
+      "dish": "Burgers"
+    }
+  ]
+}

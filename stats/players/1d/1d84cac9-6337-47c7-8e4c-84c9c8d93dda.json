@@ -1,0 +1,50 @@
+{
+  "id": "1d84cac9-6337-47c7-8e4c-84c9c8d93dda",
+  "persona": "bastiyan_ercan",
+  "names": [
+    "bastiyan_ercan"
+  ],
+  "runs": 4,
+  "bestRank": 528,
+  "worstRank": 1382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3157430,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 528,
+      "ms": 3527607,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1382,
+      "ms": 3532854,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 863,
+      "ms": 3385249,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 589,
+      "ms": 3157430,
+      "dish": "Pies"
+    }
+  ]
+}

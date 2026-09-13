@@ -1,0 +1,34 @@
+{
+  "id": "f229def5-75d3-41a8-8ce1-e0078ddffcb6",
+  "persona": "Mark",
+  "names": [
+    "Mark"
+  ],
+  "runs": 2,
+  "bestRank": 171,
+  "worstRank": 337,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3597851,
+  "weeksActive": [
+    -61,
+    -57
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 337,
+      "ms": 3633198,
+      "dish": "Fish"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 171,
+      "ms": 3597851,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c1665c4b-4b6a-443d-8d27-08721848ce79",
+  "persona": "StanleyHou",
+  "names": [
+    "StanleyHou"
+  ],
+  "runs": 4,
+  "bestRank": 294,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2516025,
+  "weeksActive": [
+    -88,
+    -87,
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 428,
+      "ms": 3435700,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 294,
+      "ms": 3314903,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 295,
+      "ms": 2516025,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 365,
+      "ms": 3085580,
+      "dish": "Fish"
+    }
+  ]
+}

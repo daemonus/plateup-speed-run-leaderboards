@@ -1,0 +1,42 @@
+{
+  "id": "e8595b15-af59-43bd-963f-b556bd074c57",
+  "persona": "aditya_55",
+  "names": [
+    "aditya_55"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2778457,
+  "weeksActive": [
+    -50,
+    -37,
+    66
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 118,
+      "ms": 3507025,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 235,
+      "ms": 2778457,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 369,
+      "ms": 4082604,
+      "dish": "Breakfast"
+    }
+  ]
+}

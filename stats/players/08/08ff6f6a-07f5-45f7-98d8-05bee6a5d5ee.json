@@ -1,0 +1,42 @@
+{
+  "id": "08ff6f6a-07f5-45f7-98d8-05bee6a5d5ee",
+  "persona": "viet anhh",
+  "names": [
+    "viet anhh"
+  ],
+  "runs": 3,
+  "bestRank": 74,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2373348,
+  "weeksActive": [
+    -80,
+    -79,
+    -74
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 198,
+      "ms": 4073448,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 224,
+      "ms": 3398872,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 74,
+      "ms": 2373348,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

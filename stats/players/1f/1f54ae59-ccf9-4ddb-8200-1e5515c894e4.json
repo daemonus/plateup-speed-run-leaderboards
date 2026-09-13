@@ -1,0 +1,34 @@
+{
+  "id": "1f54ae59-ccf9-4ddb-8200-1e5515c894e4",
+  "persona": "tomatopii",
+  "names": [
+    "tomatopii"
+  ],
+  "runs": 2,
+  "bestRank": 91,
+  "worstRank": 158,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3293996,
+  "weeksActive": [
+    -12,
+    -11
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 158,
+      "ms": 3293996,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 91,
+      "ms": 3297669,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1f4d890b-084f-4537-9a3c-6dcc322ca045",
+  "persona": "Kwisatz Haderach",
+  "names": [
+    "Kwisatz Haderach"
+  ],
+  "runs": 2,
+  "bestRank": 138,
+  "worstRank": 232,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2954178,
+  "weeksActive": [
+    -70,
+    -66
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 232,
+      "ms": 3734610,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 138,
+      "ms": 2954178,
+      "dish": "Turkey"
+    }
+  ]
+}

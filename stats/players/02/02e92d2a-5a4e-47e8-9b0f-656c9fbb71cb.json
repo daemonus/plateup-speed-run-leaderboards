@@ -1,0 +1,42 @@
+{
+  "id": "02e92d2a-5a4e-47e8-9b0f-656c9fbb71cb",
+  "persona": "Een_Valaan",
+  "names": [
+    "Een_Valaan"
+  ],
+  "runs": 3,
+  "bestRank": 142,
+  "worstRank": 860,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1737811,
+  "weeksActive": [
+    59,
+    64,
+    84
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 372,
+      "ms": 4486777,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 860,
+      "ms": 3909164,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 142,
+      "ms": 1737811,
+      "dish": "Sundaes"
+    }
+  ]
+}

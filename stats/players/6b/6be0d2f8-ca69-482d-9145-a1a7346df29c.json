@@ -1,0 +1,42 @@
+{
+  "id": "6be0d2f8-ca69-482d-9145-a1a7346df29c",
+  "persona": "green02341",
+  "names": [
+    "green02341"
+  ],
+  "runs": 3,
+  "bestRank": 388,
+  "worstRank": 682,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3746668,
+  "weeksActive": [
+    -84,
+    -82,
+    -34
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 548,
+      "ms": 3746668,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 682,
+      "ms": 4263291,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 388,
+      "ms": 3953971,
+      "dish": "Pies"
+    }
+  ]
+}

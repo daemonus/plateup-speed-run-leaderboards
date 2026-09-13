@@ -1,0 +1,42 @@
+{
+  "id": "9c349e80-236a-4746-a9fe-ab08e3ff3999",
+  "persona": "jenna",
+  "names": [
+    "jenna"
+  ],
+  "runs": 3,
+  "bestRank": 242,
+  "worstRank": 971,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290361,
+  "weeksActive": [
+    -89,
+    -34,
+    21
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 971,
+      "ms": 5002593,
+      "dish": "Pies"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 283,
+      "ms": 3386755,
+      "dish": "Pies"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 242,
+      "ms": 3290361,
+      "dish": "Burgers"
+    }
+  ]
+}

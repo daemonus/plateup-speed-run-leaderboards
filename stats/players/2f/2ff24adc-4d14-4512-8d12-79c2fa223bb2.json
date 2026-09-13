@@ -1,0 +1,90 @@
+{
+  "id": "2ff24adc-4d14-4512-8d12-79c2fa223bb2",
+  "persona": "Daim",
+  "names": [
+    "Daim"
+  ],
+  "runs": 9,
+  "bestRank": 31,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1774478,
+  "weeksActive": [
+    -77,
+    -72,
+    -71,
+    -70,
+    50,
+    52,
+    53,
+    64,
+    67
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 373,
+      "ms": 3279720,
+      "dish": "Pies"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 177,
+      "ms": 3000913,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 56,
+      "ms": 1956962,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 71,
+      "ms": 2817250,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 90,
+      "ms": 3361245,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 45,
+      "ms": 1882005,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 31,
+      "ms": 2052494,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 141,
+      "ms": 1774478,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 40,
+      "ms": 2210029,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

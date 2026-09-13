@@ -1,0 +1,34 @@
+{
+  "id": "dd1f5f9b-259e-4798-a834-8bf6c9078f58",
+  "persona": "HotPants",
+  "names": [
+    "HotPants"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 462,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2044027,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 462,
+      "ms": 2070602,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 285,
+      "ms": 2044027,
+      "dish": "Fish"
+    }
+  ]
+}

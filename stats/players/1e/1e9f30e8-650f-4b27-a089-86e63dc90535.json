@@ -1,0 +1,34 @@
+{
+  "id": "1e9f30e8-650f-4b27-a089-86e63dc90535",
+  "persona": "Erro_18",
+  "names": [
+    "Erro_18"
+  ],
+  "runs": 2,
+  "bestRank": 391,
+  "worstRank": 550,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3355052,
+  "weeksActive": [
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 391,
+      "ms": 5066798,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 550,
+      "ms": 3355052,
+      "dish": "Turkey"
+    }
+  ]
+}

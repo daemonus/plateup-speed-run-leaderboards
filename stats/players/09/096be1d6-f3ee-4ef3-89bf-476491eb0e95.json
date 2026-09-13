@@ -1,0 +1,42 @@
+{
+  "id": "096be1d6-f3ee-4ef3-89bf-476491eb0e95",
+  "persona": "Yjay",
+  "names": [
+    "Yjay"
+  ],
+  "runs": 3,
+  "bestRank": 137,
+  "worstRank": 1134,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4372040,
+  "weeksActive": [
+    -90,
+    -11,
+    -9
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1134,
+      "ms": 4372040,
+      "dish": "Fish"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 163,
+      "ms": 4437593,
+      "dish": "Burgers"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 137,
+      "ms": 4557150,
+      "dish": "Stir Fry"
+    }
+  ]
+}

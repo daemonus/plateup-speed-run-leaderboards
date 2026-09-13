@@ -1,0 +1,42 @@
+{
+  "id": "5a47f5a9-ecf6-4f97-8e91-beb2835affb7",
+  "persona": "Min",
+  "names": [
+    "Min"
+  ],
+  "runs": 3,
+  "bestRank": 496,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5219503,
+  "weeksActive": [
+    31,
+    53,
+    86
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 621,
+      "ms": 6623458,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 496,
+      "ms": 6790451,
+      "dish": "Pies"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 527,
+      "ms": 5219503,
+      "dish": "Sundaes"
+    }
+  ]
+}

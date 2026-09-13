@@ -1,0 +1,42 @@
+{
+  "id": "9a243bf7-c469-4d31-9473-9ce733802c4a",
+  "persona": "ksmeal33",
+  "names": [
+    "ksmeal33"
+  ],
+  "runs": 3,
+  "bestRank": 222,
+  "worstRank": 661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3077900,
+  "weeksActive": [
+    -85,
+    -51,
+    -38
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 222,
+      "ms": 4029836,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 661,
+      "ms": 4566661,
+      "dish": "Turkey"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 456,
+      "ms": 3077900,
+      "dish": "Turkey"
+    }
+  ]
+}

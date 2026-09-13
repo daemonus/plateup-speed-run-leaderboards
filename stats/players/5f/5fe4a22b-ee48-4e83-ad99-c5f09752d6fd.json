@@ -1,0 +1,42 @@
+{
+  "id": "5fe4a22b-ee48-4e83-ad99-c5f09752d6fd",
+  "persona": "zzz",
+  "names": [
+    "zzz"
+  ],
+  "runs": 3,
+  "bestRank": 312,
+  "worstRank": 596,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3550989,
+  "weeksActive": [
+    -34,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 312,
+      "ms": 3550989,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 317,
+      "ms": 4122385,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 596,
+      "ms": 3697550,
+      "dish": "Breakfast"
+    }
+  ]
+}

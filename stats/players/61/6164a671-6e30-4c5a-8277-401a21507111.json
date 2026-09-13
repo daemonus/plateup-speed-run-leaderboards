@@ -1,0 +1,34 @@
+{
+  "id": "6164a671-6e30-4c5a-8277-401a21507111",
+  "persona": "Pooby",
+  "names": [
+    "Pooby"
+  ],
+  "runs": 2,
+  "bestRank": 176,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3408361,
+  "weeksActive": [
+    -60,
+    -43
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 383,
+      "ms": 4635033,
+      "dish": "Burgers"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 176,
+      "ms": 3408361,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

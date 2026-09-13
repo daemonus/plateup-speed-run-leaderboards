@@ -1,0 +1,50 @@
+{
+  "id": "8d492636-edf2-4364-b832-cbb398a18c6c",
+  "persona": "TheTruth",
+  "names": [
+    "TheTruth"
+  ],
+  "runs": 4,
+  "bestRank": 95,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3162229,
+  "weeksActive": [
+    45,
+    46,
+    47,
+    48
+  ],
+  "history": [
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 209,
+      "ms": 5094284,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 320,
+      "ms": 3560611,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 140,
+      "ms": 3162229,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 95,
+      "ms": 3638680,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3b814f04-7f73-4e8b-9a0d-5016132b3768",
+  "persona": "\u5C0F\u8DEF",
+  "names": [
+    "\u5C0F\u8DEF"
+  ],
+  "runs": 2,
+  "bestRank": 210,
+  "worstRank": 675,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4001108,
+  "weeksActive": [
+    -54,
+    41
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 210,
+      "ms": 7749627,
+      "dish": "Salad"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 675,
+      "ms": 4001108,
+      "dish": "Turkey"
+    }
+  ]
+}

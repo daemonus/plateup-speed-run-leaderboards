@@ -1,0 +1,50 @@
+{
+  "id": "419b7ffb-53e0-4849-a45e-9e14b93d37df",
+  "persona": "maria_letal",
+  "names": [
+    "maria_letal"
+  ],
+  "runs": 4,
+  "bestRank": 327,
+  "worstRank": 864,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4175810,
+  "weeksActive": [
+    -76,
+    -74,
+    -73,
+    56
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 820,
+      "ms": 4175810,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 503,
+      "ms": 4754210,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 327,
+      "ms": 5718199,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 864,
+      "ms": 4301159,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ac1fde15-d765-43b6-9449-a739ca51dc17",
+  "persona": "2angelmuch",
+  "names": [
+    "2angelmuch"
+  ],
+  "runs": 5,
+  "bestRank": 51,
+  "worstRank": 252,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2368069,
+  "weeksActive": [
+    65,
+    67,
+    68,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 234,
+      "ms": 3528222,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 252,
+      "ms": 3562852,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 160,
+      "ms": 2368069,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 108,
+      "ms": 3081098,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 51,
+      "ms": 2527087,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "2be33c1b-ed6c-4fab-bb60-fed26620bb90",
+  "persona": "\u6708\u6708",
+  "names": [
+    "\u6708\u6708"
+  ],
+  "runs": 7,
+  "bestRank": 219,
+  "worstRank": 806,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3171177,
+  "weeksActive": [
+    -47,
+    -34,
+    -32,
+    -31,
+    -4,
+    21,
+    39
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 219,
+      "ms": 3568754,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 456,
+      "ms": 4507156,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 806,
+      "ms": 4146602,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 254,
+      "ms": 3171177,
+      "dish": "Pies"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 460,
+      "ms": 4388813,
+      "dish": "Pies"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 442,
+      "ms": 4735146,
+      "dish": "Burgers"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 236,
+      "ms": 4242116,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1ef1b114-6727-4bbe-a426-3edc8207a7a8",
+  "persona": "Hog",
+  "names": [
+    "Hog"
+  ],
+  "runs": 3,
+  "bestRank": 549,
+  "worstRank": 1207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2474663,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1207,
+      "ms": 2599372,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 549,
+      "ms": 3581610,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 624,
+      "ms": 2474663,
+      "dish": "Fish"
+    }
+  ]
+}

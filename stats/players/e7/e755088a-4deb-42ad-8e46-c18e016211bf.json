@@ -1,0 +1,50 @@
+{
+  "id": "e755088a-4deb-42ad-8e46-c18e016211bf",
+  "persona": "AsakiYuho",
+  "names": [
+    "AsakiYuho"
+  ],
+  "runs": 4,
+  "bestRank": 64,
+  "worstRank": 135,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2525263,
+  "weeksActive": [
+    -46,
+    -45,
+    -44,
+    -40
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 64,
+      "ms": 2857735,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 135,
+      "ms": 2833205,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 126,
+      "ms": 2525263,
+      "dish": "Turkey"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 134,
+      "ms": 3649869,
+      "dish": "Stir Fry"
+    }
+  ]
+}

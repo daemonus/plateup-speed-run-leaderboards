@@ -1,0 +1,42 @@
+{
+  "id": "a1b646e5-9de5-4033-861b-a1779399f9c6",
+  "persona": "Julia",
+  "names": [
+    "Julia"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3025331,
+  "weeksActive": [
+    -6,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 429,
+      "ms": 4462909,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 323,
+      "ms": 4103328,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 197,
+      "ms": 3025331,
+      "dish": "Pies"
+    }
+  ]
+}

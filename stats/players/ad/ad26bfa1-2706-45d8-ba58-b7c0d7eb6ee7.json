@@ -1,0 +1,42 @@
+{
+  "id": "ad26bfa1-2706-45d8-ba58-b7c0d7eb6ee7",
+  "persona": "Mufs",
+  "names": [
+    "Mufs"
+  ],
+  "runs": 3,
+  "bestRank": 144,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3302434,
+  "weeksActive": [
+    -61,
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 399,
+      "ms": 3942607,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 144,
+      "ms": 3302434,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 289,
+      "ms": 3420966,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

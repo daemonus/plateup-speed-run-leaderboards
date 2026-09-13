@@ -1,0 +1,34 @@
+{
+  "id": "d16a0466-3674-4f58-9fbc-5ad44d28481b",
+  "persona": "Veit",
+  "names": [
+    "Veit"
+  ],
+  "runs": 2,
+  "bestRank": 256,
+  "worstRank": 1190,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5416208,
+  "weeksActive": [
+    -71,
+    -22
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1190,
+      "ms": 5948552,
+      "dish": "Turkey"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 256,
+      "ms": 5416208,
+      "dish": "Stir Fry"
+    }
+  ]
+}

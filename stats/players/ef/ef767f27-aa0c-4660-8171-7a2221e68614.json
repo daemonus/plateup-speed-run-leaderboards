@@ -1,0 +1,42 @@
+{
+  "id": "ef767f27-aa0c-4660-8171-7a2221e68614",
+  "persona": "Superfischi",
+  "names": [
+    "Superfischi"
+  ],
+  "runs": 3,
+  "bestRank": 61,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2272106,
+  "weeksActive": [
+    -94,
+    -71,
+    1
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 545,
+      "ms": 2896259,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 270,
+      "ms": 2774973,
+      "dish": "Turkey"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 61,
+      "ms": 2272106,
+      "dish": "Pies"
+    }
+  ]
+}

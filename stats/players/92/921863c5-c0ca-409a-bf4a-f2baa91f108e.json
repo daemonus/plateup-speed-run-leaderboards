@@ -1,0 +1,42 @@
+{
+  "id": "921863c5-c0ca-409a-bf4a-f2baa91f108e",
+  "persona": "zhjn",
+  "names": [
+    "zhjn"
+  ],
+  "runs": 3,
+  "bestRank": 282,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4957006,
+  "weeksActive": [
+    -22,
+    -21,
+    -6
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 282,
+      "ms": 6346982,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 563,
+      "ms": 5970229,
+      "dish": "Pizza"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 540,
+      "ms": 4957006,
+      "dish": "Breakfast"
+    }
+  ]
+}

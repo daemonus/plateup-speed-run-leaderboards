@@ -1,0 +1,42 @@
+{
+  "id": "58bf3f46-8e2b-4f51-943f-f04b5a4d3061",
+  "persona": "ChunkySpud",
+  "names": [
+    "ChunkySpud"
+  ],
+  "runs": 3,
+  "bestRank": 45,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2253989,
+  "weeksActive": [
+    37,
+    38,
+    83
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 45,
+      "ms": 2907822,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 82,
+      "ms": 2326339,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 280,
+      "ms": 2253989,
+      "dish": "Sundaes"
+    }
+  ]
+}

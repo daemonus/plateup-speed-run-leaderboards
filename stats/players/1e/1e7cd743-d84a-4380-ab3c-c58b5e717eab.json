@@ -1,0 +1,58 @@
+{
+  "id": "1e7cd743-d84a-4380-ab3c-c58b5e717eab",
+  "persona": "Rennery",
+  "names": [
+    "Rennery"
+  ],
+  "runs": 5,
+  "bestRank": 180,
+  "worstRank": 661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3219827,
+  "weeksActive": [
+    -70,
+    -68,
+    -67,
+    -66,
+    -64
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 624,
+      "ms": 5763247,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 312,
+      "ms": 5237261,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 661,
+      "ms": 16606271,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 180,
+      "ms": 3219827,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 446,
+      "ms": 6120472,
+      "dish": "Salad"
+    }
+  ]
+}

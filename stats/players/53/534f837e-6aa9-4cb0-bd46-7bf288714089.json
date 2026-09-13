@@ -1,0 +1,50 @@
+{
+  "id": "534f837e-6aa9-4cb0-bd46-7bf288714089",
+  "persona": "cephalopod36",
+  "names": [
+    "cephalopod36"
+  ],
+  "runs": 4,
+  "bestRank": 171,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3462759,
+  "weeksActive": [
+    -61,
+    -23,
+    47,
+    75
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 506,
+      "ms": 4929653,
+      "dish": "Fish"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 191,
+      "ms": 3950755,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 171,
+      "ms": 3462759,
+      "dish": "Pizza"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 297,
+      "ms": 4349104,
+      "dish": "Pies"
+    }
+  ]
+}

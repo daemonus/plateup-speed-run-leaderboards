@@ -1,0 +1,50 @@
+{
+  "id": "8c74607c-1ec1-4196-a59c-ef3866aeddc5",
+  "persona": "myfatecriesout",
+  "names": [
+    "myfatecriesout"
+  ],
+  "runs": 4,
+  "bestRank": 159,
+  "worstRank": 319,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3030281,
+  "weeksActive": [
+    -37,
+    -34,
+    -33,
+    -18
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 319,
+      "ms": 3035163,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 215,
+      "ms": 3030281,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 159,
+      "ms": 3190329,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 178,
+      "ms": 3051929,
+      "dish": "Fish"
+    }
+  ]
+}

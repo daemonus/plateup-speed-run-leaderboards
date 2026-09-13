@@ -1,0 +1,42 @@
+{
+  "id": "eff76380-e55e-4614-bdb9-d08f98420df4",
+  "persona": "TooManyMoose",
+  "names": [
+    "TooManyMoose"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 620,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2470258,
+  "weeksActive": [
+    -91,
+    -59,
+    44
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 620,
+      "ms": 2470258,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 205,
+      "ms": 3018249,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 392,
+      "ms": 4046308,
+      "dish": "Breakfast"
+    }
+  ]
+}

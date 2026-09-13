@@ -1,0 +1,50 @@
+{
+  "id": "b92b9e5a-8d87-4631-b7dd-859521452c8f",
+  "persona": "rachel",
+  "names": [
+    "rachel"
+  ],
+  "runs": 4,
+  "bestRank": 353,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4271868,
+  "weeksActive": [
+    0,
+    1,
+    2,
+    46
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 470,
+      "ms": 5820526,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 363,
+      "ms": 4271868,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 353,
+      "ms": 4577478,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 491,
+      "ms": 4509673,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "450afe5d-0f4f-4966-b6fc-450c907bc647",
+  "persona": "Mitch",
+  "names": [
+    "Mitch"
+  ],
+  "runs": 2,
+  "bestRank": 215,
+  "worstRank": 400,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3345796,
+  "weeksActive": [
+    -18,
+    -17
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 400,
+      "ms": 3864049,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 215,
+      "ms": 3345796,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

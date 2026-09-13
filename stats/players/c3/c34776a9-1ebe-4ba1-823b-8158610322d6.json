@@ -1,0 +1,74 @@
+{
+  "id": "c34776a9-1ebe-4ba1-823b-8158610322d6",
+  "persona": "pridz1",
+  "names": [
+    "pridz1"
+  ],
+  "runs": 7,
+  "bestRank": 101,
+  "worstRank": 701,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2484328,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -84,
+    -83,
+    -80,
+    -79
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 357,
+      "ms": 3030003,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 701,
+      "ms": 2579404,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 512,
+      "ms": 2687132,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 197,
+      "ms": 2484328,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 183,
+      "ms": 2777353,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 101,
+      "ms": 2943831,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 292,
+      "ms": 3741546,
+      "dish": "Pies"
+    }
+  ]
+}

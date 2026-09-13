@@ -1,0 +1,34 @@
+{
+  "id": "a390e541-79b0-4ee9-a527-2de077612671",
+  "persona": "Bee",
+  "names": [
+    "Bee"
+  ],
+  "runs": 2,
+  "bestRank": 387,
+  "worstRank": 484,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4552736,
+  "weeksActive": [
+    -47,
+    -4
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 387,
+      "ms": 4552736,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 484,
+      "ms": 4710930,
+      "dish": "Pies"
+    }
+  ]
+}

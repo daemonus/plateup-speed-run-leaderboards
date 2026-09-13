@@ -1,0 +1,50 @@
+{
+  "id": "35c5778b-7db2-464b-b071-0eb6962d3149",
+  "persona": "Hendy",
+  "names": [
+    "Hendy"
+  ],
+  "runs": 4,
+  "bestRank": 355,
+  "worstRank": 2335,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2769625,
+  "weeksActive": [
+    -93,
+    -84,
+    -76,
+    20
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2335,
+      "ms": 3429401,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 679,
+      "ms": 5386427,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 607,
+      "ms": 3477727,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 355,
+      "ms": 2769625,
+      "dish": "Turkey"
+    }
+  ]
+}

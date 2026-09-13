@@ -1,0 +1,50 @@
+{
+  "id": "953c77c6-6af4-41e1-b15e-c0a3fa7e08e9",
+  "persona": "Baldok",
+  "names": [
+    "Baldok"
+  ],
+  "runs": 4,
+  "bestRank": 57,
+  "worstRank": 616,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2190511,
+  "weeksActive": [
+    -94,
+    -93,
+    -87,
+    -20
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 446,
+      "ms": 2770151,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 616,
+      "ms": 2190511,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 116,
+      "ms": 2555898,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 57,
+      "ms": 2680149,
+      "dish": "Burgers"
+    }
+  ]
+}

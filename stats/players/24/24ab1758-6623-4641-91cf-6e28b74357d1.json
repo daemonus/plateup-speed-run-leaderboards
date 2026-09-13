@@ -1,0 +1,34 @@
+{
+  "id": "24ab1758-6623-4641-91cf-6e28b74357d1",
+  "persona": "Shrimp",
+  "names": [
+    "Shrimp"
+  ],
+  "runs": 2,
+  "bestRank": 409,
+  "worstRank": 508,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2699562,
+  "weeksActive": [
+    13,
+    83
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 508,
+      "ms": 3666543,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 409,
+      "ms": 2699562,
+      "dish": "Sundaes"
+    }
+  ]
+}

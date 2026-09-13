@@ -1,0 +1,34 @@
+{
+  "id": "21e7bd41-8230-4aa5-b9ad-19fb71d7d546",
+  "persona": "Pal",
+  "names": [
+    "Pal"
+  ],
+  "runs": 2,
+  "bestRank": 277,
+  "worstRank": 410,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4469014,
+  "weeksActive": [
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 410,
+      "ms": 4469014,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 277,
+      "ms": 4543955,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "dba62d4e-5aa3-4486-a883-00b2e18d1c59",
+  "persona": "chami",
+  "names": [
+    "chami"
+  ],
+  "runs": 4,
+  "bestRank": 61,
+  "worstRank": 134,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2407863,
+  "weeksActive": [
+    37,
+    38,
+    45,
+    47
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 134,
+      "ms": 3635659,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 98,
+      "ms": 2407863,
+      "dish": "Pies"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 61,
+      "ms": 2990886,
+      "dish": "Salad"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 119,
+      "ms": 2981078,
+      "dish": "Pizza"
+    }
+  ]
+}

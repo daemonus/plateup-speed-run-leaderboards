@@ -1,0 +1,74 @@
+{
+  "id": "1d11a387-8210-4d0c-a9a2-491ac51d3b35",
+  "persona": "TrouserDropper",
+  "names": [
+    "TrouserDropper"
+  ],
+  "runs": 7,
+  "bestRank": 89,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2069149,
+  "weeksActive": [
+    38,
+    41,
+    43,
+    44,
+    56,
+    58,
+    60
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 288,
+      "ms": 3386901,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 477,
+      "ms": 2914172,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 149,
+      "ms": 2304785,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 89,
+      "ms": 2482212,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 265,
+      "ms": 2069149,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 133,
+      "ms": 2480017,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 89,
+      "ms": 2740345,
+      "dish": "Burgers"
+    }
+  ]
+}

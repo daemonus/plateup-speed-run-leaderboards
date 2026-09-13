@@ -1,0 +1,34 @@
+{
+  "id": "cf7cbc56-a160-44e2-ac77-046e3056c694",
+  "persona": "Steak aber saftig",
+  "names": [
+    "Steak aber saftig"
+  ],
+  "runs": 2,
+  "bestRank": 86,
+  "worstRank": 262,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2849743,
+  "weeksActive": [
+    -60,
+    -12
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 262,
+      "ms": 3790988,
+      "dish": "Burgers"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 86,
+      "ms": 2849743,
+      "dish": "Breakfast"
+    }
+  ]
+}

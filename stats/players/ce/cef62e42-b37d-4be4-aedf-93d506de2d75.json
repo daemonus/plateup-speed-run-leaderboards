@@ -1,0 +1,50 @@
+{
+  "id": "cef62e42-b37d-4be4-aedf-93d506de2d75",
+  "persona": "theskyfish",
+  "names": [
+    "theskyfish"
+  ],
+  "runs": 4,
+  "bestRank": 36,
+  "worstRank": 218,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2275019,
+  "weeksActive": [
+    -57,
+    -56,
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 212,
+      "ms": 4006299,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 79,
+      "ms": 2275019,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 218,
+      "ms": 3305225,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 36,
+      "ms": 2855451,
+      "dish": "Salad"
+    }
+  ]
+}

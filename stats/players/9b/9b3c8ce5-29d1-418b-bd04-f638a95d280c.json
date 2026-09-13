@@ -1,0 +1,74 @@
+{
+  "id": "9b3c8ce5-29d1-418b-bd04-f638a95d280c",
+  "persona": "Polymental",
+  "names": [
+    "Polymental"
+  ],
+  "runs": 7,
+  "bestRank": 93,
+  "worstRank": 426,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2614107,
+  "weeksActive": [
+    -4,
+    27,
+    75,
+    77,
+    78,
+    80,
+    82
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 426,
+      "ms": 4085640,
+      "dish": "Pies"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 215,
+      "ms": 3726199,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 236,
+      "ms": 3850503,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 362,
+      "ms": 3662714,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 215,
+      "ms": 3247586,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 93,
+      "ms": 2614107,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 232,
+      "ms": 3101303,
+      "dish": "Pizza"
+    }
+  ]
+}

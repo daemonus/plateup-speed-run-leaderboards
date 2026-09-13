@@ -1,0 +1,50 @@
+{
+  "id": "9eaf8973-7885-4146-9333-3c3beca3dd7b",
+  "persona": "Metalicja",
+  "names": [
+    "Metalicja"
+  ],
+  "runs": 4,
+  "bestRank": 328,
+  "worstRank": 684,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3578165,
+  "weeksActive": [
+    -8,
+    -6,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 372,
+      "ms": 5783830,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 684,
+      "ms": 6158180,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 328,
+      "ms": 3578165,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 641,
+      "ms": 6180622,
+      "dish": "Turkey"
+    }
+  ]
+}

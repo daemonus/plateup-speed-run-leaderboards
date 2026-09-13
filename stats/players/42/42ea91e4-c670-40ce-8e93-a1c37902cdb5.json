@@ -1,0 +1,74 @@
+{
+  "id": "42ea91e4-c670-40ce-8e93-a1c37902cdb5",
+  "persona": "lulu_love",
+  "names": [
+    "lulu_love"
+  ],
+  "runs": 7,
+  "bestRank": 123,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2684439,
+  "weeksActive": [
+    -57,
+    -54,
+    -53,
+    -46,
+    -33,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 293,
+      "ms": 4814958,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 198,
+      "ms": 5677794,
+      "dish": "Salad"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 238,
+      "ms": 4049829,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 439,
+      "ms": 4718723,
+      "dish": "Salad"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 404,
+      "ms": 5067114,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 304,
+      "ms": 2684439,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 123,
+      "ms": 3408905,
+      "dish": "Burgers"
+    }
+  ]
+}

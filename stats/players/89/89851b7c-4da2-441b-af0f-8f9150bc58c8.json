@@ -1,0 +1,42 @@
+{
+  "id": "89851b7c-4da2-441b-af0f-8f9150bc58c8",
+  "persona": "Bellphi",
+  "names": [
+    "Bellphi"
+  ],
+  "runs": 3,
+  "bestRank": 279,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3493354,
+  "weeksActive": [
+    -61,
+    -39,
+    19
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 395,
+      "ms": 3918607,
+      "dish": "Fish"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 439,
+      "ms": 3493354,
+      "dish": "Pizza"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 279,
+      "ms": 4091870,
+      "dish": "Pizza"
+    }
+  ]
+}

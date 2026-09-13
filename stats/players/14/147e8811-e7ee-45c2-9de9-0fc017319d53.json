@@ -1,0 +1,50 @@
+{
+  "id": "147e8811-e7ee-45c2-9de9-0fc017319d53",
+  "persona": "sofrita",
+  "names": [
+    "sofrita"
+  ],
+  "runs": 4,
+  "bestRank": 52,
+  "worstRank": 613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2187316,
+  "weeksActive": [
+    -93,
+    -74,
+    -59,
+    -14
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 613,
+      "ms": 2187316,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 52,
+      "ms": 2202245,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 79,
+      "ms": 2373817,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 122,
+      "ms": 3708395,
+      "dish": "Salad"
+    }
+  ]
+}

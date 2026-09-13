@@ -1,0 +1,34 @@
+{
+  "id": "0949fca7-a9a3-41d9-b28b-b5a9955cf478",
+  "persona": "silent_lex",
+  "names": [
+    "silent_lex"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 11247173,
+  "weeksActive": [
+    -1,
+    2
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 225,
+      "ms": 16259249,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 479,
+      "ms": 11247173,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eba06d82-084f-44a4-97ed-fffc7b17cc0e",
+  "persona": "your best friend",
+  "names": [
+    "your best friend"
+  ],
+  "runs": 2,
+  "bestRank": 640,
+  "worstRank": 1557,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3997793,
+  "weeksActive": [
+    -91,
+    -77
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1557,
+      "ms": 4031544,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 640,
+      "ms": 3997793,
+      "dish": "Pies"
+    }
+  ]
+}

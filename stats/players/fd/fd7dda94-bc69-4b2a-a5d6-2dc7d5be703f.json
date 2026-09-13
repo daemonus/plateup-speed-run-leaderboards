@@ -1,0 +1,42 @@
+{
+  "id": "fd7dda94-bc69-4b2a-a5d6-2dc7d5be703f",
+  "persona": "Tantaga",
+  "names": [
+    "Tantaga"
+  ],
+  "runs": 3,
+  "bestRank": 430,
+  "worstRank": 969,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3994968,
+  "weeksActive": [
+    63,
+    64,
+    66
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 522,
+      "ms": 3994968,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 969,
+      "ms": 5473129,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 430,
+      "ms": 5678848,
+      "dish": "Breakfast"
+    }
+  ]
+}

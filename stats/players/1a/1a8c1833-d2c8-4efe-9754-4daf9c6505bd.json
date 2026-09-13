@@ -1,0 +1,42 @@
+{
+  "id": "1a8c1833-d2c8-4efe-9754-4daf9c6505bd",
+  "persona": "Sayi",
+  "names": [
+    "Sayi"
+  ],
+  "runs": 3,
+  "bestRank": 476,
+  "worstRank": 727,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3439265,
+  "weeksActive": [
+    3,
+    4,
+    56
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 727,
+      "ms": 4838544,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 476,
+      "ms": 9770377,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 695,
+      "ms": 3439265,
+      "dish": "Sundaes"
+    }
+  ]
+}

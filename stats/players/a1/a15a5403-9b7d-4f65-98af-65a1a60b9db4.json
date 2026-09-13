@@ -1,0 +1,34 @@
+{
+  "id": "a15a5403-9b7d-4f65-98af-65a1a60b9db4",
+  "persona": "Neater",
+  "names": [
+    "Neater"
+  ],
+  "runs": 2,
+  "bestRank": 204,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3401492,
+  "weeksActive": [
+    44,
+    60
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 417,
+      "ms": 4303540,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 204,
+      "ms": 3401492,
+      "dish": "Burgers"
+    }
+  ]
+}

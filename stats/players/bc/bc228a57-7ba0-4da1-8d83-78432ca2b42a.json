@@ -1,0 +1,58 @@
+{
+  "id": "bc228a57-7ba0-4da1-8d83-78432ca2b42a",
+  "persona": "Gaudio",
+  "names": [
+    "Gaudio"
+  ],
+  "runs": 5,
+  "bestRank": 73,
+  "worstRank": 686,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2030611,
+  "weeksActive": [
+    -75,
+    -74,
+    -71,
+    -70,
+    -56
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 686,
+      "ms": 3489910,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 321,
+      "ms": 3740896,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 73,
+      "ms": 2030611,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 161,
+      "ms": 3425066,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 358,
+      "ms": 3639357,
+      "dish": "Breakfast"
+    }
+  ]
+}

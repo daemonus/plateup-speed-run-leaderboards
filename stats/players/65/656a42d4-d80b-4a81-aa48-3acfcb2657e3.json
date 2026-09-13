@@ -1,0 +1,50 @@
+{
+  "id": "656a42d4-d80b-4a81-aa48-3acfcb2657e3",
+  "persona": "jake.jewson",
+  "names": [
+    "jake.jewson"
+  ],
+  "runs": 4,
+  "bestRank": 168,
+  "worstRank": 279,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2605522,
+  "weeksActive": [
+    -46,
+    -39,
+    -34,
+    -30
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 168,
+      "ms": 3448763,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 279,
+      "ms": 2984878,
+      "dish": "Pizza"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 227,
+      "ms": 3094406,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 277,
+      "ms": 2605522,
+      "dish": "Turkey"
+    }
+  ]
+}

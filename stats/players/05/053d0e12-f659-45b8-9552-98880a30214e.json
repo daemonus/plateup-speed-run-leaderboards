@@ -1,0 +1,50 @@
+{
+  "id": "053d0e12-f659-45b8-9552-98880a30214e",
+  "persona": "abumpple",
+  "names": [
+    "abumpple"
+  ],
+  "runs": 4,
+  "bestRank": 105,
+  "worstRank": 214,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2754090,
+  "weeksActive": [
+    -57,
+    -55,
+    -5,
+    35
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 201,
+      "ms": 3955896,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 214,
+      "ms": 3289217,
+      "dish": "Pizza"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 105,
+      "ms": 3100572,
+      "dish": "Pizza"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 125,
+      "ms": 2754090,
+      "dish": "Fish"
+    }
+  ]
+}

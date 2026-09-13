@@ -1,0 +1,50 @@
+{
+  "id": "b2e5f820-09f2-4044-8fae-a36af109ed97",
+  "persona": "Yc Finn",
+  "names": [
+    "Yc Finn"
+  ],
+  "runs": 4,
+  "bestRank": 212,
+  "worstRank": 796,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4719489,
+  "weeksActive": [
+    -33,
+    -1,
+    0,
+    3
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 441,
+      "ms": 5725634,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 212,
+      "ms": 6812229,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 350,
+      "ms": 4719489,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 796,
+      "ms": 5963674,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f4a3a61c-a440-4419-a297-1d6aef500bc9",
+  "persona": "Cheshire",
+  "names": [
+    "Cheshire"
+  ],
+  "runs": 2,
+  "bestRank": 583,
+  "worstRank": 764,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3764790,
+  "weeksActive": [
+    -92,
+    -82
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 764,
+      "ms": 4788789,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 583,
+      "ms": 3764790,
+      "dish": "Fish"
+    }
+  ]
+}

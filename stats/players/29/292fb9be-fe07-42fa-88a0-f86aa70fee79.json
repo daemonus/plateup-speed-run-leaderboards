@@ -1,0 +1,50 @@
+{
+  "id": "292fb9be-fe07-42fa-88a0-f86aa70fee79",
+  "persona": "aruki_AMOR",
+  "names": [
+    "aruki_AMOR"
+  ],
+  "runs": 4,
+  "bestRank": 61,
+  "worstRank": 266,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2489088,
+  "weeksActive": [
+    -62,
+    -59,
+    -13,
+    30
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 104,
+      "ms": 2693528,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 266,
+      "ms": 3293254,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 61,
+      "ms": 2489088,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 188,
+      "ms": 3058670,
+      "dish": "Breakfast"
+    }
+  ]
+}

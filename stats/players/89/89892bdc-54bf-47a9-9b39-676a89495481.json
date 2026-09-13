@@ -1,0 +1,50 @@
+{
+  "id": "89892bdc-54bf-47a9-9b39-676a89495481",
+  "persona": "moustictotor",
+  "names": [
+    "moustictotor"
+  ],
+  "runs": 4,
+  "bestRank": 87,
+  "worstRank": 532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3012876,
+  "weeksActive": [
+    -32,
+    -30,
+    -26,
+    -12
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 275,
+      "ms": 3012876,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 532,
+      "ms": 3281697,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 87,
+      "ms": 3036391,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 124,
+      "ms": 3056543,
+      "dish": "Breakfast"
+    }
+  ]
+}

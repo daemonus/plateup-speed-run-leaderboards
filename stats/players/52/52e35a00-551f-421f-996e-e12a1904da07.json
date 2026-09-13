@@ -1,0 +1,42 @@
+{
+  "id": "52e35a00-551f-421f-996e-e12a1904da07",
+  "persona": "FakeNeo",
+  "names": [
+    "FakeNeo"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3163479,
+  "weeksActive": [
+    -17,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 275,
+      "ms": 3834244,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 470,
+      "ms": 3894601,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 310,
+      "ms": 3163479,
+      "dish": "Fish"
+    }
+  ]
+}

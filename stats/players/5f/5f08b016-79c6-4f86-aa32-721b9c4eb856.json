@@ -1,0 +1,42 @@
+{
+  "id": "5f08b016-79c6-4f86-aa32-721b9c4eb856",
+  "persona": "eKtreme",
+  "names": [
+    "eKtreme"
+  ],
+  "runs": 3,
+  "bestRank": 391,
+  "worstRank": 799,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2695466,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 391,
+      "ms": 3121585,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 799,
+      "ms": 2695466,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 598,
+      "ms": 2854505,
+      "dish": "Fish"
+    }
+  ]
+}

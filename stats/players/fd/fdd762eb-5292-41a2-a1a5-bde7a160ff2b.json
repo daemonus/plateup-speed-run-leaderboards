@@ -1,0 +1,42 @@
+{
+  "id": "fdd762eb-5292-41a2-a1a5-bde7a160ff2b",
+  "persona": "Muffin",
+  "names": [
+    "Muffin"
+  ],
+  "runs": 3,
+  "bestRank": 284,
+  "worstRank": 554,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2145784,
+  "weeksActive": [
+    -93,
+    -86,
+    -81
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 554,
+      "ms": 2145784,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 530,
+      "ms": 3145250,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 284,
+      "ms": 4152099,
+      "dish": "Steak"
+    }
+  ]
+}

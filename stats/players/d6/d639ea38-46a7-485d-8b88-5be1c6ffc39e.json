@@ -1,0 +1,34 @@
+{
+  "id": "d639ea38-46a7-485d-8b88-5be1c6ffc39e",
+  "persona": "Flor",
+  "names": [
+    "Flor"
+  ],
+  "runs": 2,
+  "bestRank": 170,
+  "worstRank": 194,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3450364,
+  "weeksActive": [
+    -85,
+    -81
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 170,
+      "ms": 3450364,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 194,
+      "ms": 3555974,
+      "dish": "Steak"
+    }
+  ]
+}

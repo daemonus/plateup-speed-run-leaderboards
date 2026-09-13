@@ -1,0 +1,50 @@
+{
+  "id": "8eb3f793-5e38-4763-a9c4-0665d8466573",
+  "persona": "\u8377\u5305\u86CB",
+  "names": [
+    "\u8377\u5305\u86CB"
+  ],
+  "runs": 4,
+  "bestRank": 483,
+  "worstRank": 2567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3481781,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -32
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2567,
+      "ms": 3715358,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 784,
+      "ms": 5119727,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1527,
+      "ms": 3902851,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 483,
+      "ms": 3481781,
+      "dish": "Breakfast"
+    }
+  ]
+}

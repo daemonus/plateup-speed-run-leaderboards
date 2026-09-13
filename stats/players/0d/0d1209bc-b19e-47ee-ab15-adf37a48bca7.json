@@ -1,0 +1,42 @@
+{
+  "id": "0d1209bc-b19e-47ee-ab15-adf37a48bca7",
+  "persona": "Cos X",
+  "names": [
+    "Cos X"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 744,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3820520,
+  "weeksActive": [
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 744,
+      "ms": 6135509,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 305,
+      "ms": 6609989,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 149,
+      "ms": 3820520,
+      "dish": "Breakfast"
+    }
+  ]
+}

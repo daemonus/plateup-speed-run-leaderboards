@@ -1,0 +1,50 @@
+{
+  "id": "704f1518-9819-475b-8a69-ad47013812df",
+  "persona": "blazian06",
+  "names": [
+    "blazian06"
+  ],
+  "runs": 4,
+  "bestRank": 131,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3382356,
+  "weeksActive": [
+    -19,
+    -18,
+    -16,
+    -11
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 198,
+      "ms": 3382356,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 503,
+      "ms": 4188520,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 441,
+      "ms": 3785581,
+      "dish": "Pies"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 131,
+      "ms": 3886665,
+      "dish": "Burgers"
+    }
+  ]
+}

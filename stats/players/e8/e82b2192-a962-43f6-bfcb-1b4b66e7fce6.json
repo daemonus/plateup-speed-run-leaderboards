@@ -1,0 +1,42 @@
+{
+  "id": "e82b2192-a962-43f6-bfcb-1b4b66e7fce6",
+  "persona": "sarah irene",
+  "names": [
+    "sarah irene"
+  ],
+  "runs": 3,
+  "bestRank": 497,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2991839,
+  "weeksActive": [
+    30,
+    31,
+    41
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 521,
+      "ms": 7056293,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 501,
+      "ms": 4251755,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 497,
+      "ms": 2991839,
+      "dish": "Turkey"
+    }
+  ]
+}

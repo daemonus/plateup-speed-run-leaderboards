@@ -1,0 +1,42 @@
+{
+  "id": "9a013998-b319-4990-a8f7-3653f6b8b927",
+  "persona": "Shrubzy",
+  "names": [
+    "Shrubzy"
+  ],
+  "runs": 3,
+  "bestRank": 520,
+  "worstRank": 1267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2805062,
+  "weeksActive": [
+    -94,
+    -91,
+    -77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1267,
+      "ms": 3775117,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 893,
+      "ms": 2805062,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 520,
+      "ms": 3664569,
+      "dish": "Pies"
+    }
+  ]
+}

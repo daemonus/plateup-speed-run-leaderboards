@@ -1,0 +1,34 @@
+{
+  "id": "3cefa28f-7f59-4772-98a0-3a556e696b17",
+  "persona": "coco",
+  "names": [
+    "coco"
+  ],
+  "runs": 2,
+  "bestRank": 486,
+  "worstRank": 1288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3214504,
+  "weeksActive": [
+    -91,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1288,
+      "ms": 3384416,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 486,
+      "ms": 3214504,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8a0a41fa-185e-4da2-8a09-ef4d4aa30690",
+  "persona": "Valbou",
+  "names": [
+    "Valbou"
+  ],
+  "runs": 4,
+  "bestRank": 401,
+  "worstRank": 757,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2698864,
+  "weeksActive": [
+    64,
+    68,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 757,
+      "ms": 3456899,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 401,
+      "ms": 3534437,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 441,
+      "ms": 4194528,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 407,
+      "ms": 2698864,
+      "dish": "Sundaes"
+    }
+  ]
+}

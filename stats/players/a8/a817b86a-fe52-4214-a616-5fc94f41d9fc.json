@@ -1,0 +1,34 @@
+{
+  "id": "a817b86a-fe52-4214-a616-5fc94f41d9fc",
+  "persona": "\u5DE7",
+  "names": [
+    "\u5DE7"
+  ],
+  "runs": 2,
+  "bestRank": 246,
+  "worstRank": 951,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3272842,
+  "weeksActive": [
+    -76,
+    -72
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 951,
+      "ms": 5523075,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 246,
+      "ms": 3272842,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "202ee0a2-2466-42f2-9293-3f5b51212fc6",
+  "persona": "corne004",
+  "names": [
+    "corne004"
+  ],
+  "runs": 4,
+  "bestRank": 156,
+  "worstRank": 776,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3197732,
+  "weeksActive": [
+    -67,
+    -62,
+    27,
+    38
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 515,
+      "ms": 4949154,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 776,
+      "ms": 5999896,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 156,
+      "ms": 3197732,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 302,
+      "ms": 3483865,
+      "dish": "Pies"
+    }
+  ]
+}

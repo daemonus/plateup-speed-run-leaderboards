@@ -1,0 +1,66 @@
+{
+  "id": "461265a3-c510-44da-a4a3-e2bb380814a7",
+  "persona": "melpomephy",
+  "names": [
+    "melpomephy"
+  ],
+  "runs": 6,
+  "bestRank": 138,
+  "worstRank": 371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2126325,
+  "weeksActive": [
+    -71,
+    -59,
+    -21,
+    -20,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 371,
+      "ms": 2962107,
+      "dish": "Turkey"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 241,
+      "ms": 3200269,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 138,
+      "ms": 2857080,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 289,
+      "ms": 3697996,
+      "dish": "Burgers"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 275,
+      "ms": 3360516,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 239,
+      "ms": 2126325,
+      "dish": "Sundaes"
+    }
+  ]
+}

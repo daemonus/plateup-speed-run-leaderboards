@@ -1,0 +1,58 @@
+{
+  "id": "15fd9395-14f8-4eb9-aa4e-f0a382d761af",
+  "persona": "jeanus",
+  "names": [
+    "jeanus"
+  ],
+  "runs": 5,
+  "bestRank": 14,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1852442,
+  "weeksActive": [
+    39,
+    42,
+    44,
+    45,
+    46
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 215,
+      "ms": 4053046,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 91,
+      "ms": 2747329,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 124,
+      "ms": 2681542,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 112,
+      "ms": 3480339,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 14,
+      "ms": 1852442,
+      "dish": "Pizza"
+    }
+  ]
+}

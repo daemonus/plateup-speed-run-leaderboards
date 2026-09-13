@@ -1,0 +1,42 @@
+{
+  "id": "f5dea5e4-b7f8-4760-8568-ac06da039061",
+  "persona": "Zefir",
+  "names": [
+    "Zefir"
+  ],
+  "runs": 3,
+  "bestRank": 139,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2869380,
+  "weeksActive": [
+    -22,
+    -21,
+    52
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 139,
+      "ms": 3788054,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 295,
+      "ms": 3640047,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 257,
+      "ms": 2869380,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "da83c86b-ab41-4c4b-af2b-eae073520fe0",
+  "persona": "Itsa me",
+  "names": [
+    "Itsa me"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2048601,
+  "weeksActive": [
+    59,
+    61,
+    64
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 231,
+      "ms": 3395129,
+      "dish": "Salad"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 143,
+      "ms": 2892304,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 238,
+      "ms": 2048601,
+      "dish": "Sundaes"
+    }
+  ]
+}

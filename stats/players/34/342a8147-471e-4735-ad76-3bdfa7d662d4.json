@@ -1,0 +1,58 @@
+{
+  "id": "342a8147-471e-4735-ad76-3bdfa7d662d4",
+  "persona": "Kylie Jenner",
+  "names": [
+    "Kylie Jenner"
+  ],
+  "runs": 5,
+  "bestRank": 260,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3142181,
+  "weeksActive": [
+    16,
+    17,
+    18,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 446,
+      "ms": 5359393,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 271,
+      "ms": 5028252,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 260,
+      "ms": 4880414,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 468,
+      "ms": 3142181,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 377,
+      "ms": 4138797,
+      "dish": "Burgers"
+    }
+  ]
+}

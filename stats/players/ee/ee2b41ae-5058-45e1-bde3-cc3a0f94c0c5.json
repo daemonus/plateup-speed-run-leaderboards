@@ -1,0 +1,42 @@
+{
+  "id": "ee2b41ae-5058-45e1-bde3-cc3a0f94c0c5",
+  "persona": "\u5E0C\u7F8A\u68CB",
+  "names": [
+    "\u5E0C\u7F8A\u68CB"
+  ],
+  "runs": 3,
+  "bestRank": 292,
+  "worstRank": 551,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3213367,
+  "weeksActive": [
+    -86,
+    -74,
+    -17
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 551,
+      "ms": 3213367,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 392,
+      "ms": 4107811,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 292,
+      "ms": 3943120,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

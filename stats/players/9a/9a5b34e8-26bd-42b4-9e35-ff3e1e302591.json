@@ -1,0 +1,42 @@
+{
+  "id": "9a5b34e8-26bd-42b4-9e35-ff3e1e302591",
+  "persona": "Gargy",
+  "names": [
+    "Gargy"
+  ],
+  "runs": 3,
+  "bestRank": 153,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2224933,
+  "weeksActive": [
+    13,
+    14,
+    15
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 438,
+      "ms": 3413191,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 225,
+      "ms": 3542353,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 153,
+      "ms": 2224933,
+      "dish": "Turkey"
+    }
+  ]
+}

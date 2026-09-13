@@ -1,0 +1,34 @@
+{
+  "id": "728b767e-c623-4cbd-9411-90021d28a960",
+  "persona": "Sneaker Male",
+  "names": [
+    "Sneaker Male"
+  ],
+  "runs": 2,
+  "bestRank": 343,
+  "worstRank": 1024,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2472438,
+  "weeksActive": [
+    -93,
+    -59
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1024,
+      "ms": 2472438,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 343,
+      "ms": 3649022,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

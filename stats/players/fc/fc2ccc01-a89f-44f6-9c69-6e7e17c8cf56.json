@@ -1,0 +1,42 @@
+{
+  "id": "fc2ccc01-a89f-44f6-9c69-6e7e17c8cf56",
+  "persona": "lin",
+  "names": [
+    "lin"
+  ],
+  "runs": 3,
+  "bestRank": 344,
+  "worstRank": 549,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3648438,
+  "weeksActive": [
+    -5,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 391,
+      "ms": 4422074,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 344,
+      "ms": 3648438,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 549,
+      "ms": 3969480,
+      "dish": "Turkey"
+    }
+  ]
+}

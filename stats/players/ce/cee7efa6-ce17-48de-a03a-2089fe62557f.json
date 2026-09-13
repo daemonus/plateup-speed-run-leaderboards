@@ -1,0 +1,50 @@
+{
+  "id": "cee7efa6-ce17-48de-a03a-2089fe62557f",
+  "persona": "Mily",
+  "names": [
+    "Mily"
+  ],
+  "runs": 4,
+  "bestRank": 178,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3618439,
+  "weeksActive": [
+    -25,
+    -23,
+    -22,
+    -16
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 459,
+      "ms": 4460900,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 210,
+      "ms": 4417644,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 178,
+      "ms": 4155297,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 389,
+      "ms": 3618439,
+      "dish": "Pies"
+    }
+  ]
+}

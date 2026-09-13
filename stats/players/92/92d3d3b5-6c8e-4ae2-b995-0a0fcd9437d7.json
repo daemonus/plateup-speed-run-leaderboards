@@ -1,0 +1,42 @@
+{
+  "id": "92d3d3b5-6c8e-4ae2-b995-0a0fcd9437d7",
+  "persona": "Lovehatetrue",
+  "names": [
+    "Lovehatetrue"
+  ],
+  "runs": 3,
+  "bestRank": 56,
+  "worstRank": 100,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2384049,
+  "weeksActive": [
+    72,
+    73,
+    74
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 56,
+      "ms": 2384049,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 100,
+      "ms": 2712158,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 75,
+      "ms": 2959341,
+      "dish": "Breakfast"
+    }
+  ]
+}

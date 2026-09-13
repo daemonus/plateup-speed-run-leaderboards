@@ -1,0 +1,34 @@
+{
+  "id": "7a8b50f3-3cf0-46be-bcf3-2bced699cfef",
+  "persona": "Rando",
+  "names": [
+    "Rando"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1884871,
+  "weeksActive": [
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 93,
+      "ms": 1884871,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 127,
+      "ms": 2203385,
+      "dish": "Turkey"
+    }
+  ]
+}

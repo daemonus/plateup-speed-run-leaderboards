@@ -1,0 +1,66 @@
+{
+  "id": "88f0c1c9-5aae-40d9-bbcc-694d9b835cf2",
+  "persona": "emmyhammer",
+  "names": [
+    "emmyhammer"
+  ],
+  "runs": 6,
+  "bestRank": 105,
+  "worstRank": 379,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2639161,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    -2,
+    0,
+    5
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 294,
+      "ms": 3994291,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 276,
+      "ms": 3334392,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 379,
+      "ms": 3259018,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 109,
+      "ms": 2639161,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 158,
+      "ms": 3637432,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 105,
+      "ms": 2915070,
+      "dish": "Breakfast"
+    }
+  ]
+}

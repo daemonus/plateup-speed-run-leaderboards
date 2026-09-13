@@ -1,0 +1,50 @@
+{
+  "id": "61a71c5f-b0cb-417a-aa50-f596641fb3ef",
+  "persona": "hymel",
+  "names": [
+    "hymel"
+  ],
+  "runs": 4,
+  "bestRank": 846,
+  "worstRank": 1193,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2586714,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1108,
+      "ms": 3573060,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1193,
+      "ms": 2586714,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 846,
+      "ms": 2747385,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 918,
+      "ms": 3509306,
+      "dish": "Fish"
+    }
+  ]
+}

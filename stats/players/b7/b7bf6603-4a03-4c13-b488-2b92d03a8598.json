@@ -1,0 +1,58 @@
+{
+  "id": "b7bf6603-4a03-4c13-b488-2b92d03a8598",
+  "persona": "yomyoms",
+  "names": [
+    "yomyoms"
+  ],
+  "runs": 5,
+  "bestRank": 181,
+  "worstRank": 371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3014058,
+  "weeksActive": [
+    11,
+    12,
+    13,
+    19,
+    23
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 234,
+      "ms": 4216559,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 371,
+      "ms": 3163651,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 317,
+      "ms": 3041187,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 181,
+      "ms": 3494657,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 288,
+      "ms": 3014058,
+      "dish": "Turkey"
+    }
+  ]
+}

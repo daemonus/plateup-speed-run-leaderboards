@@ -1,0 +1,58 @@
+{
+  "id": "f54b7787-3d07-4fb3-bd83-e55ef6a0870c",
+  "persona": "Felis the catus",
+  "names": [
+    "Felis the catus"
+  ],
+  "runs": 5,
+  "bestRank": 114,
+  "worstRank": 274,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2164532,
+  "weeksActive": [
+    63,
+    64,
+    68,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 218,
+      "ms": 2919436,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 274,
+      "ms": 2164532,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 123,
+      "ms": 2200209,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 139,
+      "ms": 3231998,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 114,
+      "ms": 2959682,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

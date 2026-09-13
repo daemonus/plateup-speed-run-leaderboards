@@ -1,0 +1,42 @@
+{
+  "id": "9343e687-0099-482c-a67a-519246972c2d",
+  "persona": "Omelly",
+  "names": [
+    "Omelly"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2672447,
+  "weeksActive": [
+    -61,
+    -60,
+    54
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 130,
+      "ms": 2672447,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 281,
+      "ms": 3902533,
+      "dish": "Burgers"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 169,
+      "ms": 3670389,
+      "dish": "Burgers"
+    }
+  ]
+}

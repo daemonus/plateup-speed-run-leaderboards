@@ -1,0 +1,42 @@
+{
+  "id": "957239a7-784f-4614-bc43-886ea633ae37",
+  "persona": "Freckles",
+  "names": [
+    "Freckles"
+  ],
+  "runs": 3,
+  "bestRank": 699,
+  "worstRank": 1321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3105670,
+  "weeksActive": [
+    -94,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 722,
+      "ms": 3105670,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 699,
+      "ms": 4268578,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1321,
+      "ms": 3446656,
+      "dish": "Fish"
+    }
+  ]
+}

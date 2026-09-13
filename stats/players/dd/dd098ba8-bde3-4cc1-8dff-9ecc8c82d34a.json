@@ -1,0 +1,106 @@
+{
+  "id": "dd098ba8-bde3-4cc1-8dff-9ecc8c82d34a",
+  "persona": "SEKI",
+  "names": [
+    "SEKI"
+  ],
+  "runs": 11,
+  "bestRank": 117,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2516723,
+  "weeksActive": [
+    20,
+    21,
+    24,
+    25,
+    30,
+    43,
+    44,
+    50,
+    52,
+    54,
+    56
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 526,
+      "ms": 3298780,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 354,
+      "ms": 3997101,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 329,
+      "ms": 3749867,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 117,
+      "ms": 4039673,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 338,
+      "ms": 3907764,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 565,
+      "ms": 3641806,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 397,
+      "ms": 4062043,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 280,
+      "ms": 7022238,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 322,
+      "ms": 3110545,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 243,
+      "ms": 4278002,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 426,
+      "ms": 2516723,
+      "dish": "Sundaes"
+    }
+  ]
+}

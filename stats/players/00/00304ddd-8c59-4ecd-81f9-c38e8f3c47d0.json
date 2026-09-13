@@ -1,0 +1,42 @@
+{
+  "id": "00304ddd-8c59-4ecd-81f9-c38e8f3c47d0",
+  "persona": "Player 2",
+  "names": [
+    "Player 2"
+  ],
+  "runs": 3,
+  "bestRank": 347,
+  "worstRank": 472,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3742488,
+  "weeksActive": [
+    1,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 349,
+      "ms": 4172750,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 347,
+      "ms": 4530402,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 472,
+      "ms": 3742488,
+      "dish": "Fish"
+    }
+  ]
+}

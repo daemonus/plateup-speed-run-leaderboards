@@ -1,0 +1,58 @@
+{
+  "id": "875616c2-f6a3-4705-bd14-08b8d2358acd",
+  "persona": "Angreina",
+  "names": [
+    "Angreina"
+  ],
+  "runs": 5,
+  "bestRank": 158,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3455187,
+  "weeksActive": [
+    -17,
+    -16,
+    -15,
+    -14,
+    -13
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 324,
+      "ms": 4332721,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 500,
+      "ms": 4044287,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 376,
+      "ms": 3455187,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 158,
+      "ms": 4181704,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 294,
+      "ms": 4353940,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

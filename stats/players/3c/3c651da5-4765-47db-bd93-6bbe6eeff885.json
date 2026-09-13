@@ -1,0 +1,34 @@
+{
+  "id": "3c651da5-4765-47db-bd93-6bbe6eeff885",
+  "persona": "The Doctor\u2605",
+  "names": [
+    "The Doctor\u2605"
+  ],
+  "runs": 2,
+  "bestRank": 174,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3365964,
+  "weeksActive": [
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 174,
+      "ms": 3365964,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 424,
+      "ms": 4272633,
+      "dish": "Stir Fry"
+    }
+  ]
+}

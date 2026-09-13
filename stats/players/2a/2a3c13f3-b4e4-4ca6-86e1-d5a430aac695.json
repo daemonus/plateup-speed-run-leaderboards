@@ -1,0 +1,34 @@
+{
+  "id": "2a3c13f3-b4e4-4ca6-86e1-d5a430aac695",
+  "persona": "AAA\u9AD8\u7EA7\u6D17\u7897\u5DE5",
+  "names": [
+    "AAA\u9AD8\u7EA7\u6D17\u7897\u5DE5"
+  ],
+  "runs": 2,
+  "bestRank": 256,
+  "worstRank": 611,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4033438,
+  "weeksActive": [
+    -81,
+    -5
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 256,
+      "ms": 4033438,
+      "dish": "Steak"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 611,
+      "ms": 6530002,
+      "dish": "Pizza"
+    }
+  ]
+}

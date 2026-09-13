@@ -1,0 +1,34 @@
+{
+  "id": "44d74244-4e34-4b21-b2ca-8bf8a0c52ba3",
+  "persona": "Circuit Jack",
+  "names": [
+    "Circuit Jack"
+  ],
+  "runs": 2,
+  "bestRank": 296,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3223068,
+  "weeksActive": [
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 398,
+      "ms": 5849413,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 296,
+      "ms": 3223068,
+      "dish": "Fish"
+    }
+  ]
+}

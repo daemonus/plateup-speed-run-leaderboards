@@ -1,0 +1,66 @@
+{
+  "id": "044d5abb-c620-4800-907b-a8839e85a53b",
+  "persona": "kako",
+  "names": [
+    "kako"
+  ],
+  "runs": 6,
+  "bestRank": 119,
+  "worstRank": 519,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2661157,
+  "weeksActive": [
+    -60,
+    -59,
+    -58,
+    -56,
+    -51,
+    64
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 268,
+      "ms": 3831441,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 316,
+      "ms": 3539961,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 119,
+      "ms": 3591880,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 390,
+      "ms": 3843743,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 519,
+      "ms": 3798359,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 466,
+      "ms": 2661157,
+      "dish": "Sundaes"
+    }
+  ]
+}

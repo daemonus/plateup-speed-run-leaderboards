@@ -1,0 +1,34 @@
+{
+  "id": "eebee2f6-0cea-4f39-a25f-3f61a271d5c0",
+  "persona": "Mirage",
+  "names": [
+    "Mirage"
+  ],
+  "runs": 2,
+  "bestRank": 485,
+  "worstRank": 2648,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3871871,
+  "weeksActive": [
+    -93,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2648,
+      "ms": 3871871,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 485,
+      "ms": 5043656,
+      "dish": "Burgers"
+    }
+  ]
+}

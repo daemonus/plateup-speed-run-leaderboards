@@ -1,0 +1,42 @@
+{
+  "id": "0c44f9a4-48ec-4dea-8c22-e0635f3c054b",
+  "persona": "sizzill",
+  "names": [
+    "sizzill"
+  ],
+  "runs": 3,
+  "bestRank": 172,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3731600,
+  "weeksActive": [
+    23,
+    24,
+    25
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 480,
+      "ms": 3998614,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 325,
+      "ms": 3731600,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 172,
+      "ms": 4798852,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "97439fa8-046b-48ee-bdcf-075bf8e9d76c",
+  "persona": "holyGLOCKamole",
+  "names": [
+    "holyGLOCKamole"
+  ],
+  "runs": 3,
+  "bestRank": 176,
+  "worstRank": 938,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3783421,
+  "weeksActive": [
+    -71,
+    -47,
+    -41
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 938,
+      "ms": 4127810,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 262,
+      "ms": 3783421,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 176,
+      "ms": 4035155,
+      "dish": "Stir Fry"
+    }
+  ]
+}

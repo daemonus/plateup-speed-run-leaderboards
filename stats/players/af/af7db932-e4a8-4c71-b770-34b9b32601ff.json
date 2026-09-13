@@ -1,0 +1,34 @@
+{
+  "id": "af7db932-e4a8-4c71-b770-34b9b32601ff",
+  "persona": "\u957F\u95E8\u6709\u5E0C\u7684\u6D88\u5931",
+  "names": [
+    "\u957F\u95E8\u6709\u5E0C\u7684\u6D88\u5931"
+  ],
+  "runs": 2,
+  "bestRank": 109,
+  "worstRank": 697,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3300680,
+  "weeksActive": [
+    -25,
+    -24
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 697,
+      "ms": 6981393,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 109,
+      "ms": 3300680,
+      "dish": "Breakfast"
+    }
+  ]
+}

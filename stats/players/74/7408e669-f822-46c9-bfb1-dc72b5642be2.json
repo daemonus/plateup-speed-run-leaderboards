@@ -1,0 +1,42 @@
+{
+  "id": "7408e669-f822-46c9-bfb1-dc72b5642be2",
+  "persona": "bayrho",
+  "names": [
+    "bayrho"
+  ],
+  "runs": 3,
+  "bestRank": 290,
+  "worstRank": 746,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4312252,
+  "weeksActive": [
+    81,
+    83,
+    86
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 290,
+      "ms": 4967474,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 746,
+      "ms": 4312252,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 526,
+      "ms": 5083841,
+      "dish": "Sundaes"
+    }
+  ]
+}

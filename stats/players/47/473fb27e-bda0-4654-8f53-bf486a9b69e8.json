@@ -1,0 +1,42 @@
+{
+  "id": "473fb27e-bda0-4654-8f53-bf486a9b69e8",
+  "persona": "Lana",
+  "names": [
+    "Lana"
+  ],
+  "runs": 3,
+  "bestRank": 325,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3371177,
+  "weeksActive": [
+    -71,
+    -69,
+    16
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 573,
+      "ms": 3371177,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 368,
+      "ms": 5051247,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 325,
+      "ms": 4586851,
+      "dish": "Stir Fry"
+    }
+  ]
+}

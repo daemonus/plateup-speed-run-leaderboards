@@ -1,0 +1,58 @@
+{
+  "id": "17ab135c-7557-49fc-bdc4-9874d2a2fb99",
+  "persona": "cbcnbdvv",
+  "names": [
+    "cbcnbdvv"
+  ],
+  "runs": 5,
+  "bestRank": 167,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3337293,
+  "weeksActive": [
+    6,
+    7,
+    9,
+    10,
+    11
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 322,
+      "ms": 4208633,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 256,
+      "ms": 3337293,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 403,
+      "ms": 4103344,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 172,
+      "ms": 3959321,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 167,
+      "ms": 3453902,
+      "dish": "Salad"
+    }
+  ]
+}

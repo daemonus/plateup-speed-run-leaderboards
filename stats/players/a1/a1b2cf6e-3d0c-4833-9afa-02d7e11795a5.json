@@ -1,0 +1,34 @@
+{
+  "id": "a1b2cf6e-3d0c-4833-9afa-02d7e11795a5",
+  "persona": "Diabetus",
+  "names": [
+    "Diabetus"
+  ],
+  "runs": 2,
+  "bestRank": 251,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3259082,
+  "weeksActive": [
+    13,
+    18
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 385,
+      "ms": 3259082,
+      "dish": "Turkey"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 251,
+      "ms": 4697794,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

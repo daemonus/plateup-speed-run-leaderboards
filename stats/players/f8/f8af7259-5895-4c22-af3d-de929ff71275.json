@@ -1,0 +1,42 @@
+{
+  "id": "f8af7259-5895-4c22-af3d-de929ff71275",
+  "persona": "Tinsin",
+  "names": [
+    "Tinsin"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 302,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2849887,
+  "weeksActive": [
+    -6,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 202,
+      "ms": 3536230,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 302,
+      "ms": 4527440,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 118,
+      "ms": 2849887,
+      "dish": "Pies"
+    }
+  ]
+}

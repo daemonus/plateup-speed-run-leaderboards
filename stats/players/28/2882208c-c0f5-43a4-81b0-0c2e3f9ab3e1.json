@@ -1,0 +1,42 @@
+{
+  "id": "2882208c-c0f5-43a4-81b0-0c2e3f9ab3e1",
+  "persona": "Astler",
+  "names": [
+    "Astler"
+  ],
+  "runs": 3,
+  "bestRank": 316,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3393073,
+  "weeksActive": [
+    -6,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 530,
+      "ms": 4889966,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 316,
+      "ms": 3520509,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 414,
+      "ms": 3393073,
+      "dish": "Turkey"
+    }
+  ]
+}

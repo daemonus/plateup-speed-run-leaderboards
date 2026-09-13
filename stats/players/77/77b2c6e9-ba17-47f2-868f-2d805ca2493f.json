@@ -1,0 +1,58 @@
+{
+  "id": "77b2c6e9-ba17-47f2-868f-2d805ca2493f",
+  "persona": "MikeIsSlimey",
+  "names": [
+    "MikeIsSlimey"
+  ],
+  "runs": 5,
+  "bestRank": 86,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3006834,
+  "weeksActive": [
+    43,
+    50,
+    51,
+    54,
+    59
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 376,
+      "ms": 3006834,
+      "dish": "Fish"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 147,
+      "ms": 4049514,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 305,
+      "ms": 4880435,
+      "dish": "Salad"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 86,
+      "ms": 3124583,
+      "dish": "Burgers"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 320,
+      "ms": 3962404,
+      "dish": "Salad"
+    }
+  ]
+}

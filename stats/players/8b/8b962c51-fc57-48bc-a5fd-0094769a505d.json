@@ -1,0 +1,42 @@
+{
+  "id": "8b962c51-fc57-48bc-a5fd-0094769a505d",
+  "persona": "[ATC]Spooter",
+  "names": [
+    "[ATC]Spooter"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2048908,
+  "weeksActive": [
+    -21,
+    -17,
+    -16
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 29,
+      "ms": 2048908,
+      "dish": "Pizza"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 122,
+      "ms": 2739428,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 188,
+      "ms": 2778041,
+      "dish": "Pies"
+    }
+  ]
+}

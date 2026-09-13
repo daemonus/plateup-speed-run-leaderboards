@@ -1,0 +1,66 @@
+{
+  "id": "e1e6f630-c0b3-450b-a528-9b8fbb285061",
+  "persona": "gapdaisy",
+  "names": [
+    "gapdaisy"
+  ],
+  "runs": 6,
+  "bestRank": 23,
+  "worstRank": 61,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 991833,
+  "weeksActive": [
+    66,
+    67,
+    82,
+    83,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 61,
+      "ms": 2174041,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 44,
+      "ms": 2220385,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 38,
+      "ms": 2126094,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 45,
+      "ms": 1307897,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 23,
+      "ms": 991833,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 39,
+      "ms": 1143696,
+      "dish": "Sundaes"
+    }
+  ]
+}

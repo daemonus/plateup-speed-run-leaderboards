@@ -1,0 +1,66 @@
+{
+  "id": "b85b71ac-c950-4208-b586-3cdb37c2a2df",
+  "persona": "herathina",
+  "names": [
+    "herathina"
+  ],
+  "runs": 6,
+  "bestRank": 65,
+  "worstRank": 266,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2103218,
+  "weeksActive": [
+    -92,
+    -37,
+    -18,
+    -16,
+    76,
+    78
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 239,
+      "ms": 2689387,
+      "dish": "Steak"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 65,
+      "ms": 2103218,
+      "dish": "Fish"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 266,
+      "ms": 3372737,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 204,
+      "ms": 2880245,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 65,
+      "ms": 2607809,
+      "dish": "Salad"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 139,
+      "ms": 2803752,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

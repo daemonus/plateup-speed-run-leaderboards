@@ -1,0 +1,58 @@
+{
+  "id": "bc6930a4-ef9a-41a2-9b8c-555ca1d5c4da",
+  "persona": "Diki Chan",
+  "names": [
+    "Diki Chan"
+  ],
+  "runs": 5,
+  "bestRank": 566,
+  "worstRank": 1220,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2509659,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 947,
+      "ms": 3365587,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1071,
+      "ms": 2509659,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 566,
+      "ms": 3651563,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1220,
+      "ms": 3289792,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 803,
+      "ms": 3237491,
+      "dish": "Fish"
+    }
+  ]
+}

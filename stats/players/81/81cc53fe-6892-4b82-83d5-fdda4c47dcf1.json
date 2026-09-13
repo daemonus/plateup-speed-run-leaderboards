@@ -1,0 +1,66 @@
+{
+  "id": "81cc53fe-6892-4b82-83d5-fdda4c47dcf1",
+  "persona": "DBinaCan",
+  "names": [
+    "DBinaCan"
+  ],
+  "runs": 6,
+  "bestRank": 362,
+  "worstRank": 633,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3522601,
+  "weeksActive": [
+    1,
+    5,
+    7,
+    30,
+    32,
+    83
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 387,
+      "ms": 4537699,
+      "dish": "Pies"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 480,
+      "ms": 5213024,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 373,
+      "ms": 4073167,
+      "dish": "Fish"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 480,
+      "ms": 5216388,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 362,
+      "ms": 4848233,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 633,
+      "ms": 3522601,
+      "dish": "Sundaes"
+    }
+  ]
+}

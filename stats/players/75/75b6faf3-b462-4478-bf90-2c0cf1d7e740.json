@@ -1,0 +1,58 @@
+{
+  "id": "75b6faf3-b462-4478-bf90-2c0cf1d7e740",
+  "persona": "Sun",
+  "names": [
+    "Sun"
+  ],
+  "runs": 5,
+  "bestRank": 52,
+  "worstRank": 217,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1799769,
+  "weeksActive": [
+    -3,
+    23,
+    24,
+    38,
+    68
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 217,
+      "ms": 2693241,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 62,
+      "ms": 1799769,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 53,
+      "ms": 2256782,
+      "dish": "Pies"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 53,
+      "ms": 2102321,
+      "dish": "Pies"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 52,
+      "ms": 1873316,
+      "dish": "Turkey"
+    }
+  ]
+}

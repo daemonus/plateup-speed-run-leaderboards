@@ -1,0 +1,42 @@
+{
+  "id": "3a748fbe-66d9-4008-af45-e61ca0bcca49",
+  "persona": "Tierfreundin",
+  "names": [
+    "Tierfreundin"
+  ],
+  "runs": 3,
+  "bestRank": 373,
+  "worstRank": 937,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3525419,
+  "weeksActive": [
+    -75,
+    20,
+    23
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 937,
+      "ms": 4375638,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 614,
+      "ms": 3544280,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 373,
+      "ms": 3525419,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "c523d7d0-5a97-4fc1-9ba6-4809db24c59c",
+  "persona": "warmgray",
+  "names": [
+    "warmgray"
+  ],
+  "runs": 7,
+  "bestRank": 72,
+  "worstRank": 340,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2479083,
+  "weeksActive": [
+    -45,
+    -44,
+    -40,
+    -39,
+    -31,
+    0,
+    51
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 260,
+      "ms": 3333088,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 340,
+      "ms": 3384410,
+      "dish": "Turkey"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 72,
+      "ms": 3141237,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 263,
+      "ms": 2935665,
+      "dish": "Pizza"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 89,
+      "ms": 2479083,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 183,
+      "ms": 3871363,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 113,
+      "ms": 3289137,
+      "dish": "Salad"
+    }
+  ]
+}

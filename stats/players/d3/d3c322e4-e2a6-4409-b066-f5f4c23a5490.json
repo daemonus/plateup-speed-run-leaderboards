@@ -1,0 +1,42 @@
+{
+  "id": "d3c322e4-e2a6-4409-b066-f5f4c23a5490",
+  "persona": "VcMc",
+  "names": [
+    "VcMc"
+  ],
+  "runs": 3,
+  "bestRank": 66,
+  "worstRank": 711,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2309593,
+  "weeksActive": [
+    -84,
+    -32,
+    -18
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 250,
+      "ms": 2689239,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 66,
+      "ms": 2309593,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 711,
+      "ms": 5032465,
+      "dish": "Fish"
+    }
+  ]
+}

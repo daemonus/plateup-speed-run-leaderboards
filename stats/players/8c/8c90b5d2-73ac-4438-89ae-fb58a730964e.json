@@ -1,0 +1,42 @@
+{
+  "id": "8c90b5d2-73ac-4438-89ae-fb58a730964e",
+  "persona": "Jordan",
+  "names": [
+    "Jordan"
+  ],
+  "runs": 3,
+  "bestRank": 476,
+  "worstRank": 558,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3134128,
+  "weeksActive": [
+    -76,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 558,
+      "ms": 3359216,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 531,
+      "ms": 3134128,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 476,
+      "ms": 4513319,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

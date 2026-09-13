@@ -1,0 +1,34 @@
+{
+  "id": "0e7fb866-7f3f-42df-b3f7-2f7797133367",
+  "persona": "Yuki",
+  "names": [
+    "Yuki"
+  ],
+  "runs": 2,
+  "bestRank": 742,
+  "worstRank": 1238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3730911,
+  "weeksActive": [
+    -94,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1238,
+      "ms": 3730911,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 742,
+      "ms": 4678223,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "a15f9fd6-e21f-4135-a031-1d7df144b1ac",
+  "persona": "CurlyFry",
+  "names": [
+    "CurlyFry"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3129625,
+  "weeksActive": [
+    -70,
+    -69,
+    -67,
+    -33,
+    -18
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 465,
+      "ms": 4724668,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 217,
+      "ms": 4261694,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 133,
+      "ms": 3174399,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 379,
+      "ms": 4644669,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 190,
+      "ms": 3129625,
+      "dish": "Fish"
+    }
+  ]
+}

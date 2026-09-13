@@ -1,0 +1,42 @@
+{
+  "id": "d53831cd-d62b-4bc1-920a-85a63ba6de3f",
+  "persona": "Nugget",
+  "names": [
+    "Nugget"
+  ],
+  "runs": 3,
+  "bestRank": 166,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3401946,
+  "weeksActive": [
+    -65,
+    -62,
+    -52
+  ],
+  "history": [
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 166,
+      "ms": 6182675,
+      "dish": "Burgers"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 278,
+      "ms": 3401946,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 202,
+      "ms": 5316557,
+      "dish": "Stir Fry"
+    }
+  ]
+}

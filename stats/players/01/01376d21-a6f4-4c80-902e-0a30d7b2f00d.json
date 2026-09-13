@@ -1,0 +1,58 @@
+{
+  "id": "01376d21-a6f4-4c80-902e-0a30d7b2f00d",
+  "persona": "El Juan",
+  "names": [
+    "El Juan"
+  ],
+  "runs": 5,
+  "bestRank": 152,
+  "worstRank": 317,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2253801,
+  "weeksActive": [
+    -92,
+    -90,
+    -88,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 248,
+      "ms": 2715959,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 317,
+      "ms": 2281335,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 244,
+      "ms": 2879572,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 152,
+      "ms": 2747173,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 204,
+      "ms": 2253801,
+      "dish": "Fish"
+    }
+  ]
+}

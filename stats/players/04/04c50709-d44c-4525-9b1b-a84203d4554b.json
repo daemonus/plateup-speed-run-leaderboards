@@ -1,0 +1,50 @@
+{
+  "id": "04c50709-d44c-4525-9b1b-a84203d4554b",
+  "persona": "Trapsel",
+  "names": [
+    "Trapsel"
+  ],
+  "runs": 4,
+  "bestRank": 169,
+  "worstRank": 296,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3525987,
+  "weeksActive": [
+    33,
+    72,
+    74,
+    78
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 169,
+      "ms": 3621826,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 223,
+      "ms": 3525987,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 226,
+      "ms": 4035316,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 296,
+      "ms": 3903307,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

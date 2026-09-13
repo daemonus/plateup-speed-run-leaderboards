@@ -1,0 +1,50 @@
+{
+  "id": "e77a84d6-d3c1-4cec-86a0-c5243f8ee822",
+  "persona": "Insanity",
+  "names": [
+    "Insanity"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3080387,
+  "weeksActive": [
+    -73,
+    -72,
+    -49,
+    -20
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 134,
+      "ms": 3894881,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 284,
+      "ms": 3438084,
+      "dish": "Pies"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 141,
+      "ms": 3690752,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 138,
+      "ms": 3080387,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "66574d1c-847b-49bc-b2bd-24ca038422aa",
+  "persona": "CrazyWeasel",
+  "names": [
+    "CrazyWeasel"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 328,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2143654,
+  "weeksActive": [
+    -6,
+    -5,
+    15
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 153,
+      "ms": 3256008,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 328,
+      "ms": 4124478,
+      "dish": "Pizza"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 130,
+      "ms": 2143654,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "30e5541e-5aa4-473a-a588-13c66685f121",
+  "persona": "PepegaAim",
+  "names": [
+    "PepegaAim"
+  ],
+  "runs": 5,
+  "bestRank": 12,
+  "worstRank": 68,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1726279,
+  "weeksActive": [
+    -78,
+    -70,
+    -67,
+    -66,
+    -64
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 36,
+      "ms": 2247064,
+      "dish": "Burgers"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 16,
+      "ms": 2186486,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 16,
+      "ms": 2197815,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 12,
+      "ms": 1726279,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 68,
+      "ms": 2515481,
+      "dish": "Salad"
+    }
+  ]
+}

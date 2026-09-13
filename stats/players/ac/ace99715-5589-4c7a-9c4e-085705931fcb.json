@@ -1,0 +1,34 @@
+{
+  "id": "ace99715-5589-4c7a-9c4e-085705931fcb",
+  "persona": "wHy",
+  "names": [
+    "wHy"
+  ],
+  "runs": 2,
+  "bestRank": 467,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4288651,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 467,
+      "ms": 5554011,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 512,
+      "ms": 4288651,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

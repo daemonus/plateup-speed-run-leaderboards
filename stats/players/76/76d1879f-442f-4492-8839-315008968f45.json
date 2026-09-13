@@ -1,0 +1,82 @@
+{
+  "id": "76d1879f-442f-4492-8839-315008968f45",
+  "persona": "BalaBala",
+  "names": [
+    "BalaBala"
+  ],
+  "runs": 8,
+  "bestRank": 106,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2792132,
+  "weeksActive": [
+    39,
+    40,
+    41,
+    42,
+    44,
+    45,
+    46,
+    48
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 331,
+      "ms": 5532141,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 279,
+      "ms": 4965367,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 480,
+      "ms": 2921540,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 231,
+      "ms": 4441935,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 226,
+      "ms": 3136463,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 161,
+      "ms": 3964294,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 153,
+      "ms": 2792132,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 106,
+      "ms": 3729729,
+      "dish": "Pizza"
+    }
+  ]
+}

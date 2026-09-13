@@ -1,0 +1,74 @@
+{
+  "id": "64c6db8e-a814-4377-9ce7-36050fa818f2",
+  "persona": "Capriquarian",
+  "names": [
+    "Capriquarian"
+  ],
+  "runs": 7,
+  "bestRank": 149,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1903323,
+  "weeksActive": [
+    19,
+    55,
+    57,
+    59,
+    62,
+    77,
+    86
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 416,
+      "ms": 5556725,
+      "dish": "Pizza"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 280,
+      "ms": 4574379,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 496,
+      "ms": 5047931,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 383,
+      "ms": 4667412,
+      "dish": "Salad"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 401,
+      "ms": 3979068,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 220,
+      "ms": 2762326,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 149,
+      "ms": 1903323,
+      "dish": "Sundaes"
+    }
+  ]
+}

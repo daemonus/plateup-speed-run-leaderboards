@@ -1,0 +1,82 @@
+{
+  "id": "41f4b238-4b1e-48bf-b212-5318d96d552b",
+  "persona": "Stock",
+  "names": [
+    "Stock"
+  ],
+  "runs": 8,
+  "bestRank": 34,
+  "worstRank": 269,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1713523,
+  "weeksActive": [
+    -88,
+    -87,
+    -86,
+    -84,
+    -46,
+    11,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 251,
+      "ms": 2907369,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 156,
+      "ms": 2774592,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 269,
+      "ms": 2480534,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 157,
+      "ms": 2354940,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 154,
+      "ms": 3405897,
+      "dish": "Salad"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 34,
+      "ms": 2386970,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 63,
+      "ms": 1713523,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 71,
+      "ms": 1894693,
+      "dish": "Turkey"
+    }
+  ]
+}

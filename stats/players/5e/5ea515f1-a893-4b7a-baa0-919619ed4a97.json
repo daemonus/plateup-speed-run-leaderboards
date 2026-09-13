@@ -1,0 +1,50 @@
+{
+  "id": "5ea515f1-a893-4b7a-baa0-919619ed4a97",
+  "persona": "elvisrabbit",
+  "names": [
+    "elvisrabbit"
+  ],
+  "runs": 4,
+  "bestRank": 361,
+  "worstRank": 1077,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2513902,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1077,
+      "ms": 2513902,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 994,
+      "ms": 2934861,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 628,
+      "ms": 3282360,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 361,
+      "ms": 2947597,
+      "dish": "Turkey"
+    }
+  ]
+}

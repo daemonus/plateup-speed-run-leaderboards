@@ -1,0 +1,42 @@
+{
+  "id": "e7460cf1-fe76-4357-b9d0-9d9f9121f94c",
+  "persona": "Amy",
+  "names": [
+    "Amy"
+  ],
+  "runs": 3,
+  "bestRank": 300,
+  "worstRank": 469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785629,
+  "weeksActive": [
+    43,
+    44,
+    68
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 300,
+      "ms": 2785629,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 395,
+      "ms": 4056780,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 469,
+      "ms": 4058807,
+      "dish": "Turkey"
+    }
+  ]
+}

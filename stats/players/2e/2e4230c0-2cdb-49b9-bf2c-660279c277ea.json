@@ -1,0 +1,42 @@
+{
+  "id": "2e4230c0-2cdb-49b9-bf2c-660279c277ea",
+  "persona": "Oktavius",
+  "names": [
+    "Oktavius"
+  ],
+  "runs": 3,
+  "bestRank": 429,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4160854,
+  "weeksActive": [
+    43,
+    44,
+    46
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 706,
+      "ms": 4500670,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 444,
+      "ms": 4637058,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 429,
+      "ms": 4160854,
+      "dish": "Pizza"
+    }
+  ]
+}

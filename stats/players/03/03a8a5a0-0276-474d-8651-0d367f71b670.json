@@ -1,0 +1,42 @@
+{
+  "id": "03a8a5a0-0276-474d-8651-0d367f71b670",
+  "persona": "AgSoccer17",
+  "names": [
+    "AgSoccer17"
+  ],
+  "runs": 3,
+  "bestRank": 384,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3815609,
+  "weeksActive": [
+    -64,
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 384,
+      "ms": 4799511,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 385,
+      "ms": 3815609,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 500,
+      "ms": 4233756,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

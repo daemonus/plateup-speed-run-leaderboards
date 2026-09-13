@@ -1,0 +1,66 @@
+{
+  "id": "7b33a0b4-6298-4691-85ef-69e3801e71b7",
+  "persona": "hex: anger issues",
+  "names": [
+    "hex: anger issues"
+  ],
+  "runs": 6,
+  "bestRank": 129,
+  "worstRank": 449,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2347935,
+  "weeksActive": [
+    -39,
+    -38,
+    -30,
+    -20,
+    30,
+    36
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 286,
+      "ms": 3003247,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 255,
+      "ms": 2556208,
+      "dish": "Turkey"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 187,
+      "ms": 2347935,
+      "dish": "Turkey"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 449,
+      "ms": 4502348,
+      "dish": "Burgers"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 129,
+      "ms": 2766738,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 144,
+      "ms": 2432578,
+      "dish": "Fish"
+    }
+  ]
+}

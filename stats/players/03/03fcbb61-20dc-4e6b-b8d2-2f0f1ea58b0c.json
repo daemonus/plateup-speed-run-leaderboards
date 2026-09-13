@@ -1,0 +1,74 @@
+{
+  "id": "03fcbb61-20dc-4e6b-b8d2-2f0f1ea58b0c",
+  "persona": "Qeller",
+  "names": [
+    "Qeller"
+  ],
+  "runs": 7,
+  "bestRank": 97,
+  "worstRank": 633,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2296719,
+  "weeksActive": [
+    -86,
+    -78,
+    -76,
+    -75,
+    -74,
+    -67,
+    -63
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 633,
+      "ms": 3435910,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 150,
+      "ms": 2815256,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 253,
+      "ms": 2596914,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 222,
+      "ms": 2296719,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 97,
+      "ms": 2504105,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 309,
+      "ms": 3897995,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 253,
+      "ms": 3554583,
+      "dish": "Stir Fry"
+    }
+  ]
+}

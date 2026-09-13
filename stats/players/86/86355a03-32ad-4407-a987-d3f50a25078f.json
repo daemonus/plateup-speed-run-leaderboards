@@ -1,0 +1,50 @@
+{
+  "id": "86355a03-32ad-4407-a987-d3f50a25078f",
+  "persona": "Jelli",
+  "names": [
+    "Jelli"
+  ],
+  "runs": 4,
+  "bestRank": 395,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2801875,
+  "weeksActive": [
+    -94,
+    -92,
+    -88,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 700,
+      "ms": 3082093,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 400,
+      "ms": 3142681,
+      "dish": "Steak"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 401,
+      "ms": 3350166,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 395,
+      "ms": 2801875,
+      "dish": "Fish"
+    }
+  ]
+}

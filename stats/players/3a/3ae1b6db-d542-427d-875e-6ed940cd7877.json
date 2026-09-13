@@ -1,0 +1,42 @@
+{
+  "id": "3ae1b6db-d542-427d-875e-6ed940cd7877",
+  "persona": "maddecain",
+  "names": [
+    "maddecain"
+  ],
+  "runs": 3,
+  "bestRank": 135,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2393244,
+  "weeksActive": [
+    -91,
+    -52,
+    52
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 553,
+      "ms": 2393244,
+      "dish": "Fish"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 135,
+      "ms": 3860318,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 348,
+      "ms": 3187560,
+      "dish": "Fish"
+    }
+  ]
+}

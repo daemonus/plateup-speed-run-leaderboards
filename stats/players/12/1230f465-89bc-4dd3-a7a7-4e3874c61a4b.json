@@ -1,0 +1,42 @@
+{
+  "id": "1230f465-89bc-4dd3-a7a7-4e3874c61a4b",
+  "persona": "WK",
+  "names": [
+    "WK"
+  ],
+  "runs": 3,
+  "bestRank": 1115,
+  "worstRank": 1722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2951302,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1722,
+      "ms": 2951302,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1201,
+      "ms": 3254344,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1115,
+      "ms": 4274532,
+      "dish": "Fish"
+    }
+  ]
+}

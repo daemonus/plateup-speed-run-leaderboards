@@ -1,0 +1,42 @@
+{
+  "id": "b7db2000-8318-4e6d-ad2c-ebf2c83f86dc",
+  "persona": "shock",
+  "names": [
+    "shock"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 287,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1349652,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 287,
+      "ms": 2825708,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 29,
+      "ms": 1349652,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 94,
+      "ms": 1707461,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ca0957ec-a89c-48cc-bc5b-c375913ddf12",
+  "persona": "S4ss4fr4s",
+  "names": [
+    "S4ss4fr4s"
+  ],
+  "runs": 5,
+  "bestRank": 271,
+  "worstRank": 598,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3638062,
+  "weeksActive": [
+    62,
+    63,
+    68,
+    71,
+    82
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 532,
+      "ms": 4767015,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 598,
+      "ms": 4277394,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 453,
+      "ms": 3928166,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 271,
+      "ms": 3638062,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 412,
+      "ms": 4006862,
+      "dish": "Pizza"
+    }
+  ]
+}

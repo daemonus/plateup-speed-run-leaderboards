@@ -1,0 +1,42 @@
+{
+  "id": "6bf8f08a-f454-4eb5-b536-a9506a691af8",
+  "persona": "Kot",
+  "names": [
+    "Kot"
+  ],
+  "runs": 3,
+  "bestRank": 191,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3201926,
+  "weeksActive": [
+    65,
+    66,
+    67
+  ],
+  "history": [
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 331,
+      "ms": 4398142,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 291,
+      "ms": 3451436,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 191,
+      "ms": 3201926,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

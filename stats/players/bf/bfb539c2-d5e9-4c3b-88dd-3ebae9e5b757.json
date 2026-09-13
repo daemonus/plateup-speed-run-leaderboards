@@ -1,0 +1,42 @@
+{
+  "id": "bfb539c2-d5e9-4c3b-88dd-3ebae9e5b757",
+  "persona": "Hi5ToTheFace",
+  "names": [
+    "Hi5ToTheFace"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 1898,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3065065,
+  "weeksActive": [
+    -94,
+    -93,
+    -43
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 855,
+      "ms": 3267420,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1898,
+      "ms": 3065065,
+      "dish": "Fish"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 149,
+      "ms": 3261883,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

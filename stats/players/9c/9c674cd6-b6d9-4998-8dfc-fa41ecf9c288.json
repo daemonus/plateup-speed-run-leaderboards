@@ -1,0 +1,34 @@
+{
+  "id": "9c674cd6-b6d9-4998-8dfc-fa41ecf9c288",
+  "persona": "Kommunal ansatt",
+  "names": [
+    "Kommunal ansatt"
+  ],
+  "runs": 2,
+  "bestRank": 294,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3522474,
+  "weeksActive": [
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 294,
+      "ms": 4069733,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 308,
+      "ms": 3522474,
+      "dish": "Breakfast"
+    }
+  ]
+}

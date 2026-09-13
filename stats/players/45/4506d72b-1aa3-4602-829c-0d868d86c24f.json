@@ -1,0 +1,50 @@
+{
+  "id": "4506d72b-1aa3-4602-829c-0d868d86c24f",
+  "persona": "P4t0",
+  "names": [
+    "P4t0"
+  ],
+  "runs": 4,
+  "bestRank": 368,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3529148,
+  "weeksActive": [
+    80,
+    82,
+    83,
+    84
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 432,
+      "ms": 6431581,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 368,
+      "ms": 3840739,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 722,
+      "ms": 4073754,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 520,
+      "ms": 3529148,
+      "dish": "Sundaes"
+    }
+  ]
+}

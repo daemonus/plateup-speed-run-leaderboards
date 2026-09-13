@@ -1,0 +1,42 @@
+{
+  "id": "89ae8a42-6fa6-4992-b2de-67eab206371f",
+  "persona": "QuaranTINAA",
+  "names": [
+    "QuaranTINAA"
+  ],
+  "runs": 3,
+  "bestRank": 933,
+  "worstRank": 973,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4234225,
+  "weeksActive": [
+    -77,
+    -76,
+    -71
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 933,
+      "ms": 6468100,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 947,
+      "ms": 5466477,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 973,
+      "ms": 4234225,
+      "dish": "Turkey"
+    }
+  ]
+}

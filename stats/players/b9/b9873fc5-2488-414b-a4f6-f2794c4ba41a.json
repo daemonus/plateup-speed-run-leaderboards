@@ -1,0 +1,42 @@
+{
+  "id": "b9873fc5-2488-414b-a4f6-f2794c4ba41a",
+  "persona": "Majo",
+  "names": [
+    "Majo"
+  ],
+  "runs": 3,
+  "bestRank": 270,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3110895,
+  "weeksActive": [
+    -62,
+    -44,
+    -31
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 501,
+      "ms": 4200266,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 270,
+      "ms": 3110895,
+      "dish": "Turkey"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 446,
+      "ms": 3680841,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4f6d31f5-d7f2-4eed-8680-0853faa9e172",
+  "persona": "Luiverse",
+  "names": [
+    "Luiverse"
+  ],
+  "runs": 4,
+  "bestRank": 311,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2280473,
+  "weeksActive": [
+    63,
+    64,
+    66,
+    68
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 440,
+      "ms": 3661432,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 311,
+      "ms": 2280473,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 384,
+      "ms": 4304840,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 319,
+      "ms": 3117329,
+      "dish": "Turkey"
+    }
+  ]
+}

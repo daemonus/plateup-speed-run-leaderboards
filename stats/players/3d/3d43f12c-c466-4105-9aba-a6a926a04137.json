@@ -1,0 +1,42 @@
+{
+  "id": "3d43f12c-c466-4105-9aba-a6a926a04137",
+  "persona": "jane.burke1226",
+  "names": [
+    "jane.burke1226"
+  ],
+  "runs": 3,
+  "bestRank": 364,
+  "worstRank": 1320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2395661,
+  "weeksActive": [
+    -93,
+    -91,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1320,
+      "ms": 2675178,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 560,
+      "ms": 2395661,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 364,
+      "ms": 3648805,
+      "dish": "Burgers"
+    }
+  ]
+}

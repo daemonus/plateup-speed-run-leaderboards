@@ -1,0 +1,66 @@
+{
+  "id": "b8cb9265-0831-4b10-a4ae-f393b26320b7",
+  "persona": "CC",
+  "names": [
+    "CC"
+  ],
+  "runs": 6,
+  "bestRank": 226,
+  "worstRank": 657,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2305590,
+  "weeksActive": [
+    7,
+    8,
+    9,
+    17,
+    77,
+    86
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 393,
+      "ms": 4333055,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 657,
+      "ms": 3653362,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 371,
+      "ms": 3876144,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 255,
+      "ms": 4567675,
+      "dish": "Pizza"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 387,
+      "ms": 3789684,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 226,
+      "ms": 2305590,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "70fc7c10-37b1-4460-8b6a-ea41b1ef72ee",
+  "persona": "Marlin",
+  "names": [
+    "Marlin"
+  ],
+  "runs": 3,
+  "bestRank": 71,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1640859,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 185,
+      "ms": 1876969,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 71,
+      "ms": 1640859,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 113,
+      "ms": 1850983,
+      "dish": "Pies"
+    }
+  ]
+}

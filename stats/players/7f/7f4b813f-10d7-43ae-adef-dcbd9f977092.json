@@ -1,0 +1,34 @@
+{
+  "id": "7f4b813f-10d7-43ae-adef-dcbd9f977092",
+  "persona": "tsukubo_shi",
+  "names": [
+    "tsukubo_shi"
+  ],
+  "runs": 2,
+  "bestRank": 314,
+  "worstRank": 531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3862020,
+  "weeksActive": [
+    -51,
+    -46
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 531,
+      "ms": 3862020,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 314,
+      "ms": 4143829,
+      "dish": "Salad"
+    }
+  ]
+}

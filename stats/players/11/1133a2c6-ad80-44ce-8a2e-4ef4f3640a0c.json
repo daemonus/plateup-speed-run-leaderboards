@@ -1,0 +1,42 @@
+{
+  "id": "1133a2c6-ad80-44ce-8a2e-4ef4f3640a0c",
+  "persona": "aru-vuaito",
+  "names": [
+    "aru-vuaito"
+  ],
+  "runs": 3,
+  "bestRank": 24,
+  "worstRank": 138,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1750285,
+  "weeksActive": [
+    20,
+    23,
+    28
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 138,
+      "ms": 1974714,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 51,
+      "ms": 1750285,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 24,
+      "ms": 1804665,
+      "dish": "Turkey"
+    }
+  ]
+}

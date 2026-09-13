@@ -1,0 +1,42 @@
+{
+  "id": "c9faa89c-cb79-4a46-95dd-5c7f492f1c41",
+  "persona": "kap",
+  "names": [
+    "kap"
+  ],
+  "runs": 3,
+  "bestRank": 44,
+  "worstRank": 73,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2137869,
+  "weeksActive": [
+    -43,
+    -37,
+    -35
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 73,
+      "ms": 2670705,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 72,
+      "ms": 2137869,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 44,
+      "ms": 2741763,
+      "dish": "Breakfast"
+    }
+  ]
+}

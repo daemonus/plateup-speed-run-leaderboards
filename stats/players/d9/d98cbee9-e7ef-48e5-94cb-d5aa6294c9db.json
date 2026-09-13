@@ -1,0 +1,50 @@
+{
+  "id": "d98cbee9-e7ef-48e5-94cb-d5aa6294c9db",
+  "persona": "Xarkon",
+  "names": [
+    "Xarkon"
+  ],
+  "runs": 4,
+  "bestRank": 307,
+  "worstRank": 908,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2545498,
+  "weeksActive": [
+    -94,
+    -90,
+    -89,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 406,
+      "ms": 2714617,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 908,
+      "ms": 3499690,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 718,
+      "ms": 3586297,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 307,
+      "ms": 2545498,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "b6586826-8ec9-46bf-b0ec-61ef655ed4f2",
+  "persona": "omit01",
+  "names": [
+    "omit01"
+  ],
+  "runs": 17,
+  "bestRank": 83,
+  "worstRank": 366,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2297894,
+  "weeksActive": [
+    -3,
+    10,
+    12,
+    15,
+    20,
+    25,
+    31,
+    36,
+    37,
+    38,
+    39,
+    41,
+    42,
+    43,
+    51,
+    53,
+    56
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 366,
+      "ms": 3201667,
+      "dish": "Turkey"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 83,
+      "ms": 3169574,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 329,
+      "ms": 2961421,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 289,
+      "ms": 2742473,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 224,
+      "ms": 2297894,
+      "dish": "Turkey"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 100,
+      "ms": 3764481,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 167,
+      "ms": 2732279,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 150,
+      "ms": 2477410,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 101,
+      "ms": 3371451,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 107,
+      "ms": 2476985,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 89,
+      "ms": 3083761,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 330,
+      "ms": 2413204,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 84,
+      "ms": 2664410,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 248,
+      "ms": 2607278,
+      "dish": "Fish"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 184,
+      "ms": 3775910,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 103,
+      "ms": 2680473,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 356,
+      "ms": 2314617,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "7ab598a1-64d3-4a0f-add5-65e35363c569",
+  "persona": "Herpaderpes",
+  "names": [
+    "Herpaderpes"
+  ],
+  "runs": 7,
+  "bestRank": 69,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2704551,
+  "weeksActive": [
+    -50,
+    -49,
+    -48,
+    -39,
+    -21,
+    -20,
+    -18
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 131,
+      "ms": 3606354,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 129,
+      "ms": 3607088,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 69,
+      "ms": 3343556,
+      "dish": "Burgers"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 175,
+      "ms": 2704551,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 116,
+      "ms": 2731974,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 291,
+      "ms": 3701702,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 217,
+      "ms": 3209304,
+      "dish": "Fish"
+    }
+  ]
+}

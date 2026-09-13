@@ -1,0 +1,74 @@
+{
+  "id": "9ba175a6-0511-4603-bca3-8f51ab9fc386",
+  "persona": "Bowstaff",
+  "names": [
+    "Bowstaff"
+  ],
+  "runs": 7,
+  "bestRank": 33,
+  "worstRank": 217,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1996435,
+  "weeksActive": [
+    37,
+    38,
+    40,
+    45,
+    53,
+    54,
+    64
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 128,
+      "ms": 3585416,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 170,
+      "ms": 2794177,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 125,
+      "ms": 3008983,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 142,
+      "ms": 3817855,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 152,
+      "ms": 2967414,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 33,
+      "ms": 2635415,
+      "dish": "Burgers"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 217,
+      "ms": 1996435,
+      "dish": "Sundaes"
+    }
+  ]
+}

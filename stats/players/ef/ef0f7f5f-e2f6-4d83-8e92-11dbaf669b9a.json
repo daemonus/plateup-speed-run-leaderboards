@@ -1,0 +1,98 @@
+{
+  "id": "ef0f7f5f-e2f6-4d83-8e92-11dbaf669b9a",
+  "persona": "Gold",
+  "names": [
+    "Gold"
+  ],
+  "runs": 10,
+  "bestRank": 75,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2263750,
+  "weeksActive": [
+    -63,
+    -62,
+    -61,
+    -60,
+    -59,
+    -57,
+    -56,
+    -55,
+    -6,
+    -5
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 470,
+      "ms": 4455161,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 281,
+      "ms": 3407131,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 75,
+      "ms": 2263750,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 120,
+      "ms": 3170029,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 242,
+      "ms": 3200774,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 133,
+      "ms": 3239220,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 158,
+      "ms": 2744332,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 169,
+      "ms": 3096115,
+      "dish": "Pizza"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 148,
+      "ms": 3220015,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 136,
+      "ms": 3341731,
+      "dish": "Pizza"
+    }
+  ]
+}

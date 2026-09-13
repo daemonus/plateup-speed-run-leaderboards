@@ -1,0 +1,50 @@
+{
+  "id": "81224fb0-bd5c-46ee-be4f-9582428b1397",
+  "persona": "asharia",
+  "names": [
+    "asharia"
+  ],
+  "runs": 4,
+  "bestRank": 225,
+  "worstRank": 748,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3330687,
+  "weeksActive": [
+    63,
+    64,
+    67,
+    78
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 719,
+      "ms": 5283329,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 748,
+      "ms": 3430277,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 238,
+      "ms": 3500393,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 225,
+      "ms": 3330687,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

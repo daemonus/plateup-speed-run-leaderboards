@@ -1,0 +1,58 @@
+{
+  "id": "7c39e954-4048-451d-bf90-031e818bd41c",
+  "persona": "doljinrollin",
+  "names": [
+    "doljinrollin"
+  ],
+  "runs": 5,
+  "bestRank": 248,
+  "worstRank": 462,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2591774,
+  "weeksActive": [
+    -79,
+    -78,
+    -76,
+    -75,
+    -70
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 442,
+      "ms": 5419676,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 401,
+      "ms": 3875423,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 248,
+      "ms": 2591774,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 462,
+      "ms": 2939741,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 311,
+      "ms": 4054275,
+      "dish": "Breakfast"
+    }
+  ]
+}

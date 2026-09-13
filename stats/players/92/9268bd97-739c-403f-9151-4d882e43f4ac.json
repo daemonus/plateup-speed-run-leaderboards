@@ -1,0 +1,34 @@
+{
+  "id": "9268bd97-739c-403f-9151-4d882e43f4ac",
+  "persona": "Paettern",
+  "names": [
+    "Paettern"
+  ],
+  "runs": 2,
+  "bestRank": 576,
+  "worstRank": 1284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2411918,
+  "weeksActive": [
+    -94,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1284,
+      "ms": 3796848,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 576,
+      "ms": 2411918,
+      "dish": "Fish"
+    }
+  ]
+}

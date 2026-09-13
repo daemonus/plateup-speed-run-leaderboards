@@ -1,0 +1,58 @@
+{
+  "id": "c9328d85-267e-4204-a95e-9b6aee5a4fee",
+  "persona": "SillyBanana",
+  "names": [
+    "SillyBanana"
+  ],
+  "runs": 5,
+  "bestRank": 189,
+  "worstRank": 623,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3436253,
+  "weeksActive": [
+    -72,
+    -71,
+    -68,
+    -67,
+    -8
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 318,
+      "ms": 3568998,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 623,
+      "ms": 3460009,
+      "dish": "Turkey"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 242,
+      "ms": 4280915,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 199,
+      "ms": 3436253,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 189,
+      "ms": 4311624,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cbe7765a-59d5-4523-baaf-663d02c250c8",
+  "persona": "sweetbutter",
+  "names": [
+    "sweetbutter"
+  ],
+  "runs": 3,
+  "bestRank": 330,
+  "worstRank": 569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3901219,
+  "weeksActive": [
+    60,
+    63,
+    85
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 432,
+      "ms": 7016745,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 569,
+      "ms": 4179823,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 330,
+      "ms": 3901219,
+      "dish": "Fish"
+    }
+  ]
+}

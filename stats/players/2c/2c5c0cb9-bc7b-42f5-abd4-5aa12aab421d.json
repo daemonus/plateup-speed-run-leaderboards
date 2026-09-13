@@ -1,0 +1,74 @@
+{
+  "id": "2c5c0cb9-bc7b-42f5-abd4-5aa12aab421d",
+  "persona": "Kenny",
+  "names": [
+    "Kenny"
+  ],
+  "runs": 7,
+  "bestRank": 151,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3171484,
+  "weeksActive": [
+    -14,
+    -13,
+    -12,
+    -11,
+    -10,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 342,
+      "ms": 7211485,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 155,
+      "ms": 3171484,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 252,
+      "ms": 4235301,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 151,
+      "ms": 4109323,
+      "dish": "Burgers"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 194,
+      "ms": 4294519,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 245,
+      "ms": 4206465,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 270,
+      "ms": 3705872,
+      "dish": "Pies"
+    }
+  ]
+}

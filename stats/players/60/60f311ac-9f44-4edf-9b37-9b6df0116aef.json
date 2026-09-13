@@ -1,0 +1,34 @@
+{
+  "id": "60f311ac-9f44-4edf-9b37-9b6df0116aef",
+  "persona": "Silver",
+  "names": [
+    "Silver"
+  ],
+  "runs": 2,
+  "bestRank": 83,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2068928,
+  "weeksActive": [
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 83,
+      "ms": 2068928,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 373,
+      "ms": 2161797,
+      "dish": "Fish"
+    }
+  ]
+}

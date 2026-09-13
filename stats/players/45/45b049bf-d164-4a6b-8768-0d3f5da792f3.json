@@ -1,0 +1,42 @@
+{
+  "id": "45b049bf-d164-4a6b-8768-0d3f5da792f3",
+  "persona": "azukidorayaki",
+  "names": [
+    "azukidorayaki"
+  ],
+  "runs": 3,
+  "bestRank": 585,
+  "worstRank": 1221,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290416,
+  "weeksActive": [
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1221,
+      "ms": 3290416,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 1029,
+      "ms": 6234044,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 585,
+      "ms": 4064157,
+      "dish": "Pies"
+    }
+  ]
+}

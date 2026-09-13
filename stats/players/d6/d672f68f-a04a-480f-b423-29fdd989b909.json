@@ -1,0 +1,74 @@
+{
+  "id": "d672f68f-a04a-480f-b423-29fdd989b909",
+  "persona": "Sir Legna",
+  "names": [
+    "Sir Legna"
+  ],
+  "runs": 7,
+  "bestRank": 186,
+  "worstRank": 756,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3370394,
+  "weeksActive": [
+    -84,
+    -82,
+    -81,
+    -78,
+    -77,
+    -62,
+    81
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 552,
+      "ms": 3770193,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 756,
+      "ms": 4799777,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 432,
+      "ms": 5893023,
+      "dish": "Steak"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 425,
+      "ms": 4001875,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 418,
+      "ms": 3385496,
+      "dish": "Pies"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 270,
+      "ms": 3370394,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 186,
+      "ms": 3548773,
+      "dish": "Pizza"
+    }
+  ]
+}

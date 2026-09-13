@@ -1,0 +1,42 @@
+{
+  "id": "2d986d85-cdc1-4457-89aa-cbd5e051b20e",
+  "persona": "\u690E\u540D\u8A69\u97F3\u7684\u6709\u53E3\u4F01\u5212",
+  "names": [
+    "\u690E\u540D\u8A69\u97F3\u7684\u6709\u53E3\u4F01\u5212"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 529,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2643433,
+  "weeksActive": [
+    -5,
+    -3,
+    16
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 529,
+      "ms": 5166407,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 203,
+      "ms": 2643433,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 354,
+      "ms": 4751882,
+      "dish": "Stir Fry"
+    }
+  ]
+}

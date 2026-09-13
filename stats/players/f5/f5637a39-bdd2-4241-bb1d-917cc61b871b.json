@@ -1,0 +1,42 @@
+{
+  "id": "f5637a39-bdd2-4241-bb1d-917cc61b871b",
+  "persona": "Iksof",
+  "names": [
+    "Iksof"
+  ],
+  "runs": 3,
+  "bestRank": 98,
+  "worstRank": 203,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2719393,
+  "weeksActive": [
+    71,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 171,
+      "ms": 2995102,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 98,
+      "ms": 2719393,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 203,
+      "ms": 3472450,
+      "dish": "Burgers"
+    }
+  ]
+}

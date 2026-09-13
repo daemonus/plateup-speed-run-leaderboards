@@ -1,0 +1,50 @@
+{
+  "id": "3c5fc5e1-4f39-4574-b908-b5ab204fbcda",
+  "persona": "saksak.ch",
+  "names": [
+    "saksak.ch"
+  ],
+  "runs": 4,
+  "bestRank": 236,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3823598,
+  "weeksActive": [
+    71,
+    73,
+    74,
+    75
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 476,
+      "ms": 5996611,
+      "dish": "Pizza"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 236,
+      "ms": 3823598,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 314,
+      "ms": 5081520,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 302,
+      "ms": 4405423,
+      "dish": "Pies"
+    }
+  ]
+}

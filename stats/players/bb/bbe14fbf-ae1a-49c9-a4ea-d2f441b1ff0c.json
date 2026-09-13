@@ -1,0 +1,58 @@
+{
+  "id": "bbe14fbf-ae1a-49c9-a4ea-d2f441b1ff0c",
+  "persona": "HRa",
+  "names": [
+    "HRa"
+  ],
+  "runs": 5,
+  "bestRank": 242,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290022,
+  "weeksActive": [
+    -80,
+    -79,
+    12,
+    24,
+    50
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 289,
+      "ms": 5973783,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 421,
+      "ms": 4774276,
+      "dish": "Pies"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 429,
+      "ms": 3426615,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 244,
+      "ms": 3290022,
+      "dish": "Pies"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 242,
+      "ms": 5413972,
+      "dish": "Stir Fry"
+    }
+  ]
+}

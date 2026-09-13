@@ -1,0 +1,34 @@
+{
+  "id": "4f18acf3-f584-4237-9eed-26da39d5a3d2",
+  "persona": "Terek",
+  "names": [
+    "Terek"
+  ],
+  "runs": 2,
+  "bestRank": 484,
+  "worstRank": 680,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5255037,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 484,
+      "ms": 6130235,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 680,
+      "ms": 5255037,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

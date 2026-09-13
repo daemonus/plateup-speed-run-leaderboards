@@ -1,0 +1,34 @@
+{
+  "id": "47a70c19-b0ab-4c16-8f56-025b2a86dd60",
+  "persona": "Teags",
+  "names": [
+    "Teags"
+  ],
+  "runs": 2,
+  "bestRank": 566,
+  "worstRank": 759,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3465765,
+  "weeksActive": [
+    58,
+    64
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 566,
+      "ms": 4500374,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 759,
+      "ms": 3465765,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3f61f8d0-a5d7-4b33-a4fb-13f909286c1f",
+  "persona": "kelsea_crash",
+  "names": [
+    "kelsea_crash"
+  ],
+  "runs": 3,
+  "bestRank": 914,
+  "worstRank": 2318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3415887,
+  "weeksActive": [
+    -93,
+    -91,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2318,
+      "ms": 3415887,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1657,
+      "ms": 4954493,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 914,
+      "ms": 6964902,
+      "dish": "Pies"
+    }
+  ]
+}

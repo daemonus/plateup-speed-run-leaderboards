@@ -1,0 +1,50 @@
+{
+  "id": "c87396c2-5fc8-4bbf-97e9-09d3513c0d47",
+  "persona": "TofuTaco",
+  "names": [
+    "TofuTaco"
+  ],
+  "runs": 4,
+  "bestRank": 514,
+  "worstRank": 1120,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2540846,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 653,
+      "ms": 3033241,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1120,
+      "ms": 2540846,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 514,
+      "ms": 3497268,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 539,
+      "ms": 2737325,
+      "dish": "Fish"
+    }
+  ]
+}

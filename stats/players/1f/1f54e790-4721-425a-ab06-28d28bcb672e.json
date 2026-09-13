@@ -1,0 +1,50 @@
+{
+  "id": "1f54e790-4721-425a-ab06-28d28bcb672e",
+  "persona": "Pepper8Jack",
+  "names": [
+    "Pepper8Jack"
+  ],
+  "runs": 4,
+  "bestRank": 49,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2182562,
+  "weeksActive": [
+    42,
+    44,
+    53,
+    55
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 50,
+      "ms": 2330590,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 49,
+      "ms": 2182562,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 59,
+      "ms": 2345168,
+      "dish": "Pies"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 257,
+      "ms": 4293202,
+      "dish": "Stir Fry"
+    }
+  ]
+}

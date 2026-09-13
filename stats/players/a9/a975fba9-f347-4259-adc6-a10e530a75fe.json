@@ -1,0 +1,50 @@
+{
+  "id": "a975fba9-f347-4259-adc6-a10e530a75fe",
+  "persona": "Emmalex",
+  "names": [
+    "Emmalex"
+  ],
+  "runs": 4,
+  "bestRank": 250,
+  "worstRank": 623,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3590558,
+  "weeksActive": [
+    -40,
+    -39,
+    -31,
+    9
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 250,
+      "ms": 5326422,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 623,
+      "ms": 4219698,
+      "dish": "Pizza"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 410,
+      "ms": 3590558,
+      "dish": "Pies"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 446,
+      "ms": 4413637,
+      "dish": "Breakfast"
+    }
+  ]
+}

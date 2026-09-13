@@ -1,0 +1,50 @@
+{
+  "id": "df746584-7fc1-4f04-ba6f-69bc39e12c8c",
+  "persona": "GiraffeLiam",
+  "names": [
+    "GiraffeLiam"
+  ],
+  "runs": 4,
+  "bestRank": 103,
+  "worstRank": 859,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2992062,
+  "weeksActive": [
+    -30,
+    33,
+    38,
+    44
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 859,
+      "ms": 5737792,
+      "dish": "Turkey"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 103,
+      "ms": 2992062,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 266,
+      "ms": 3264384,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 403,
+      "ms": 4149548,
+      "dish": "Breakfast"
+    }
+  ]
+}

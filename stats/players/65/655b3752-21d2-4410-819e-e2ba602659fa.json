@@ -1,0 +1,58 @@
+{
+  "id": "655b3752-21d2-4410-819e-e2ba602659fa",
+  "persona": "RottenPotato",
+  "names": [
+    "RottenPotato"
+  ],
+  "runs": 5,
+  "bestRank": 18,
+  "worstRank": 80,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1678276,
+  "weeksActive": [
+    -52,
+    -51,
+    -50,
+    -49,
+    -47
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 80,
+      "ms": 3273580,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 18,
+      "ms": 1678276,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 19,
+      "ms": 2523938,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 35,
+      "ms": 2679387,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 42,
+      "ms": 2530070,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "efde4807-dfcf-4868-bde1-5067450a9759",
+  "persona": "Theace",
+  "names": [
+    "Theace"
+  ],
+  "runs": 3,
+  "bestRank": 50,
+  "worstRank": 404,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2470948,
+  "weeksActive": [
+    -92,
+    -90,
+    -54
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 361,
+      "ms": 3059468,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 404,
+      "ms": 2470948,
+      "dish": "Fish"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 50,
+      "ms": 3082684,
+      "dish": "Salad"
+    }
+  ]
+}

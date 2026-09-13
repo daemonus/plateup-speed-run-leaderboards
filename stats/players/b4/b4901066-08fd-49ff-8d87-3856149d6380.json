@@ -1,0 +1,42 @@
+{
+  "id": "b4901066-08fd-49ff-8d87-3856149d6380",
+  "persona": "Heroui",
+  "names": [
+    "Heroui"
+  ],
+  "runs": 3,
+  "bestRank": 488,
+  "worstRank": 801,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4543204,
+  "weeksActive": [
+    -38,
+    -5,
+    57
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 801,
+      "ms": 4543204,
+      "dish": "Turkey"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 635,
+      "ms": 11810583,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 488,
+      "ms": 4957791,
+      "dish": "Salad"
+    }
+  ]
+}

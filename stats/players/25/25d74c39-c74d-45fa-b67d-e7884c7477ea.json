@@ -1,0 +1,58 @@
+{
+  "id": "25d74c39-c74d-45fa-b67d-e7884c7477ea",
+  "persona": "Mythical",
+  "names": [
+    "Mythical"
+  ],
+  "runs": 5,
+  "bestRank": 36,
+  "worstRank": 174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2118823,
+  "weeksActive": [
+    -75,
+    -67,
+    -66,
+    -65,
+    -63
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 174,
+      "ms": 2118823,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 100,
+      "ms": 3000131,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 82,
+      "ms": 2586510,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 52,
+      "ms": 3274515,
+      "dish": "Burgers"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 36,
+      "ms": 2209752,
+      "dish": "Stir Fry"
+    }
+  ]
+}

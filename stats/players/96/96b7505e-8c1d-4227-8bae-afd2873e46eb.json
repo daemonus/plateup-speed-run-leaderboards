@@ -1,0 +1,42 @@
+{
+  "id": "96b7505e-8c1d-4227-8bae-afd2873e46eb",
+  "persona": "greenly",
+  "names": [
+    "greenly"
+  ],
+  "runs": 3,
+  "bestRank": 93,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2029375,
+  "weeksActive": [
+    -87,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 281,
+      "ms": 3262882,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 140,
+      "ms": 2029375,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 93,
+      "ms": 2850209,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5ac34d99-6437-4327-a3b3-97e8197f3ba8",
+  "persona": "Jotoro",
+  "names": [
+    "Jotoro"
+  ],
+  "runs": 3,
+  "bestRank": 338,
+  "worstRank": 390,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2002054,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 338,
+      "ms": 2613016,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 390,
+      "ms": 2002054,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 385,
+      "ms": 2175958,
+      "dish": "Fish"
+    }
+  ]
+}

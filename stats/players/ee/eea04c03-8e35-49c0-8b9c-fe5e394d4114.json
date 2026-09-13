@@ -1,0 +1,66 @@
+{
+  "id": "eea04c03-8e35-49c0-8b9c-fe5e394d4114",
+  "persona": "janesdean",
+  "names": [
+    "janesdean"
+  ],
+  "runs": 6,
+  "bestRank": 251,
+  "worstRank": 2619,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3810388,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -88,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2619,
+      "ms": 3810388,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1496,
+      "ms": 3815493,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 961,
+      "ms": 4927882,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 615,
+      "ms": 4185928,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 857,
+      "ms": 6845716,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 251,
+      "ms": 4433609,
+      "dish": "Stir Fry"
+    }
+  ]
+}

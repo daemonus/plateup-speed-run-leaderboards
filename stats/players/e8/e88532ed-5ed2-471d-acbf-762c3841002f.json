@@ -1,0 +1,34 @@
+{
+  "id": "e88532ed-5ed2-471d-acbf-762c3841002f",
+  "persona": "Hunter",
+  "names": [
+    "Hunter"
+  ],
+  "runs": 2,
+  "bestRank": 243,
+  "worstRank": 1443,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2689054,
+  "weeksActive": [
+    -93,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1443,
+      "ms": 2753940,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 243,
+      "ms": 2689054,
+      "dish": "Turkey"
+    }
+  ]
+}

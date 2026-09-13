@@ -1,0 +1,42 @@
+{
+  "id": "c4de5a85-22b7-4532-9248-8ea7cc4f52b3",
+  "persona": "Fractal",
+  "names": [
+    "Fractal"
+  ],
+  "runs": 3,
+  "bestRank": 324,
+  "worstRank": 2570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2954409,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1088,
+      "ms": 3551356,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2570,
+      "ms": 3717786,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 324,
+      "ms": 2954409,
+      "dish": "Steak"
+    }
+  ]
+}

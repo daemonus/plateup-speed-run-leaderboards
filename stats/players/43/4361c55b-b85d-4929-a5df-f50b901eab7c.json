@@ -1,0 +1,42 @@
+{
+  "id": "4361c55b-b85d-4929-a5df-f50b901eab7c",
+  "persona": "Jamsheed",
+  "names": [
+    "Jamsheed"
+  ],
+  "runs": 3,
+  "bestRank": 24,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1644813,
+  "weeksActive": [
+    -93,
+    -91,
+    -70
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 257,
+      "ms": 1820449,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 81,
+      "ms": 1644813,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 24,
+      "ms": 2305284,
+      "dish": "Breakfast"
+    }
+  ]
+}

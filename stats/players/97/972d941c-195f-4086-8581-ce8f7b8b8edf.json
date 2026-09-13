@@ -1,0 +1,42 @@
+{
+  "id": "972d941c-195f-4086-8581-ce8f7b8b8edf",
+  "persona": "AFlick",
+  "names": [
+    "AFlick"
+  ],
+  "runs": 3,
+  "bestRank": 206,
+  "worstRank": 538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2132576,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 494,
+      "ms": 2842753,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 538,
+      "ms": 2132576,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 206,
+      "ms": 2578480,
+      "dish": "Steak"
+    }
+  ]
+}

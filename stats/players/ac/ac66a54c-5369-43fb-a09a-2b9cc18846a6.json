@@ -1,0 +1,42 @@
+{
+  "id": "ac66a54c-5369-43fb-a09a-2b9cc18846a6",
+  "persona": "LanMandragorn",
+  "names": [
+    "LanMandragorn"
+  ],
+  "runs": 3,
+  "bestRank": 213,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2802291,
+  "weeksActive": [
+    38,
+    43,
+    58
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 531,
+      "ms": 6940707,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 578,
+      "ms": 3701907,
+      "dish": "Fish"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 213,
+      "ms": 2802291,
+      "dish": "Turkey"
+    }
+  ]
+}

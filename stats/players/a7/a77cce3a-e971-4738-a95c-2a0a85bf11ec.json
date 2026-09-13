@@ -1,0 +1,50 @@
+{
+  "id": "a77cce3a-e971-4738-a95c-2a0a85bf11ec",
+  "persona": "laurolas96",
+  "names": [
+    "laurolas96"
+  ],
+  "runs": 4,
+  "bestRank": 230,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4911288,
+  "weeksActive": [
+    -45,
+    -44,
+    -42,
+    -40
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 532,
+      "ms": 5442111,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 535,
+      "ms": 4911288,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 230,
+      "ms": 5422699,
+      "dish": "Burgers"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 277,
+      "ms": 6607188,
+      "dish": "Stir Fry"
+    }
+  ]
+}

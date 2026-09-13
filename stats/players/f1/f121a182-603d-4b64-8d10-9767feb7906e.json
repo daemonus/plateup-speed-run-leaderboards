@@ -1,0 +1,66 @@
+{
+  "id": "f121a182-603d-4b64-8d10-9767feb7906e",
+  "persona": "tsukishiro",
+  "names": [
+    "tsukishiro"
+  ],
+  "runs": 6,
+  "bestRank": 258,
+  "worstRank": 526,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2936685,
+  "weeksActive": [
+    6,
+    7,
+    8,
+    9,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 258,
+      "ms": 3785754,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 264,
+      "ms": 3377250,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 513,
+      "ms": 3308759,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 395,
+      "ms": 4020405,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 323,
+      "ms": 2936685,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 526,
+      "ms": 3733076,
+      "dish": "Turkey"
+    }
+  ]
+}

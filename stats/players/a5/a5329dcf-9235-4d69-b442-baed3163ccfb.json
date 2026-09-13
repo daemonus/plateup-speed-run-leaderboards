@@ -1,0 +1,82 @@
+{
+  "id": "a5329dcf-9235-4d69-b442-baed3163ccfb",
+  "persona": "\u5FC3\u52A8",
+  "names": [
+    "\u5FC3\u52A8"
+  ],
+  "runs": 8,
+  "bestRank": 183,
+  "worstRank": 640,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3260678,
+  "weeksActive": [
+    57,
+    59,
+    60,
+    61,
+    62,
+    63,
+    65,
+    66
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 500,
+      "ms": 5101944,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 423,
+      "ms": 5549473,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 345,
+      "ms": 4539463,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 238,
+      "ms": 3654448,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 640,
+      "ms": 6623379,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 380,
+      "ms": 3469121,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 183,
+      "ms": 3260678,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 303,
+      "ms": 3558266,
+      "dish": "Breakfast"
+    }
+  ]
+}

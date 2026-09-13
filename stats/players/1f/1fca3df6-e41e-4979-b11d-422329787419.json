@@ -1,0 +1,50 @@
+{
+  "id": "1fca3df6-e41e-4979-b11d-422329787419",
+  "persona": "Slusho",
+  "names": [
+    "Slusho"
+  ],
+  "runs": 4,
+  "bestRank": 284,
+  "worstRank": 650,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3854143,
+  "weeksActive": [
+    52,
+    53,
+    54,
+    58
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 650,
+      "ms": 4803547,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 323,
+      "ms": 3854143,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 284,
+      "ms": 4699329,
+      "dish": "Burgers"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 597,
+      "ms": 4677178,
+      "dish": "Turkey"
+    }
+  ]
+}

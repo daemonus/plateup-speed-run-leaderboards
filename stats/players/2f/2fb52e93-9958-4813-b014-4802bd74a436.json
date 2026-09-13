@@ -1,0 +1,66 @@
+{
+  "id": "2fb52e93-9958-4813-b014-4802bd74a436",
+  "persona": "nekokari_03",
+  "names": [
+    "nekokari_03"
+  ],
+  "runs": 6,
+  "bestRank": 325,
+  "worstRank": 607,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3009553,
+  "weeksActive": [
+    -38,
+    -34,
+    -33,
+    -32,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 607,
+      "ms": 3505538,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 331,
+      "ms": 3652999,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 372,
+      "ms": 4555241,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 551,
+      "ms": 3611122,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 325,
+      "ms": 3360864,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 415,
+      "ms": 3009553,
+      "dish": "Turkey"
+    }
+  ]
+}

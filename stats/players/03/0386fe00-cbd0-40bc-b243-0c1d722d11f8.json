@@ -1,0 +1,34 @@
+{
+  "id": "0386fe00-cbd0-40bc-b243-0c1d722d11f8",
+  "persona": "Ado",
+  "names": [
+    "Ado"
+  ],
+  "runs": 2,
+  "bestRank": 772,
+  "worstRank": 1849,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2656160,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1849,
+      "ms": 3029899,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 772,
+      "ms": 2656160,
+      "dish": "Fish"
+    }
+  ]
+}

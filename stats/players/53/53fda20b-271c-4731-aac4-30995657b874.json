@@ -1,0 +1,58 @@
+{
+  "id": "53fda20b-271c-4731-aac4-30995657b874",
+  "persona": "Zaldurin",
+  "names": [
+    "Zaldurin"
+  ],
+  "runs": 5,
+  "bestRank": 254,
+  "worstRank": 817,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3727151,
+  "weeksActive": [
+    -72,
+    -71,
+    -68,
+    -67,
+    60
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 637,
+      "ms": 4592173,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 817,
+      "ms": 3842732,
+      "dish": "Turkey"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 307,
+      "ms": 5103992,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 339,
+      "ms": 4017627,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 254,
+      "ms": 3727151,
+      "dish": "Burgers"
+    }
+  ]
+}

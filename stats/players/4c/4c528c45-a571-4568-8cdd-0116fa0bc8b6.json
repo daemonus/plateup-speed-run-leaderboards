@@ -1,0 +1,42 @@
+{
+  "id": "4c528c45-a571-4568-8cdd-0116fa0bc8b6",
+  "persona": "gmp390",
+  "names": [
+    "gmp390"
+  ],
+  "runs": 3,
+  "bestRank": 174,
+  "worstRank": 275,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2890798,
+  "weeksActive": [
+    3,
+    5,
+    24
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 174,
+      "ms": 2890798,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 254,
+      "ms": 3825142,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 275,
+      "ms": 3489544,
+      "dish": "Pies"
+    }
+  ]
+}

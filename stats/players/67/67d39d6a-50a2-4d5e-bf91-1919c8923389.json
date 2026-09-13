@@ -1,0 +1,34 @@
+{
+  "id": "67d39d6a-50a2-4d5e-bf91-1919c8923389",
+  "persona": "Chacha",
+  "names": [
+    "Chacha"
+  ],
+  "runs": 2,
+  "bestRank": 346,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4074320,
+  "weeksActive": [
+    -60,
+    -56
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 346,
+      "ms": 4307116,
+      "dish": "Burgers"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 416,
+      "ms": 4074320,
+      "dish": "Breakfast"
+    }
+  ]
+}

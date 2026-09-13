@@ -1,0 +1,58 @@
+{
+  "id": "f4d3e2d6-f7ef-47bf-9317-0b108c1a70fd",
+  "persona": "Garzy",
+  "names": [
+    "Garzy"
+  ],
+  "runs": 5,
+  "bestRank": 32,
+  "worstRank": 560,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1792370,
+  "weeksActive": [
+    -89,
+    -82,
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 560,
+      "ms": 3095965,
+      "dish": "Pies"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 502,
+      "ms": 3456850,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 32,
+      "ms": 1970695,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 52,
+      "ms": 1792370,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 192,
+      "ms": 2192312,
+      "dish": "Fish"
+    }
+  ]
+}

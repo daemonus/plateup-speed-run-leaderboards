@@ -1,0 +1,34 @@
+{
+  "id": "11d874c7-e1b5-48fc-b710-26ae377b1365",
+  "persona": "Swell",
+  "names": [
+    "Swell"
+  ],
+  "runs": 2,
+  "bestRank": 301,
+  "worstRank": 1060,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2665440,
+  "weeksActive": [
+    -91,
+    -38
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1060,
+      "ms": 3033560,
+      "dish": "Fish"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 301,
+      "ms": 2665440,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8390e27b-4e65-43bb-9794-af88886ec551",
+  "persona": "KittyChic",
+  "names": [
+    "KittyChic"
+  ],
+  "runs": 3,
+  "bestRank": 188,
+  "worstRank": 544,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3002884,
+  "weeksActive": [
+    -86,
+    -85,
+    -84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 472,
+      "ms": 3002884,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 188,
+      "ms": 3624980,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 544,
+      "ms": 3737742,
+      "dish": "Fish"
+    }
+  ]
+}

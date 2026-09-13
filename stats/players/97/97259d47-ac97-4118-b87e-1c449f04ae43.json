@@ -1,0 +1,34 @@
+{
+  "id": "97259d47-ac97-4118-b87e-1c449f04ae43",
+  "persona": "Penguin_boom",
+  "names": [
+    "Penguin_boom"
+  ],
+  "runs": 2,
+  "bestRank": 364,
+  "worstRank": 567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3646503,
+  "weeksActive": [
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 567,
+      "ms": 3646503,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 364,
+      "ms": 3842920,
+      "dish": "Breakfast"
+    }
+  ]
+}

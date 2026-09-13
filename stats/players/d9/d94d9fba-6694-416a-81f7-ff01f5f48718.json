@@ -1,0 +1,42 @@
+{
+  "id": "d94d9fba-6694-416a-81f7-ff01f5f48718",
+  "persona": "yuki8",
+  "names": [
+    "yuki8"
+  ],
+  "runs": 3,
+  "bestRank": 167,
+  "worstRank": 268,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3149061,
+  "weeksActive": [
+    46,
+    47,
+    54
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 234,
+      "ms": 3149061,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 268,
+      "ms": 4190311,
+      "dish": "Pizza"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 167,
+      "ms": 3644431,
+      "dish": "Burgers"
+    }
+  ]
+}

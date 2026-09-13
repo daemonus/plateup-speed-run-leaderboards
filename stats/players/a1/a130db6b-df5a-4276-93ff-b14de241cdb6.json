@@ -1,0 +1,42 @@
+{
+  "id": "a130db6b-df5a-4276-93ff-b14de241cdb6",
+  "persona": "bogis",
+  "names": [
+    "bogis"
+  ],
+  "runs": 3,
+  "bestRank": 208,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2498147,
+  "weeksActive": [
+    41,
+    43,
+    68
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 384,
+      "ms": 2611539,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 208,
+      "ms": 2498147,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 287,
+      "ms": 2959062,
+      "dish": "Turkey"
+    }
+  ]
+}

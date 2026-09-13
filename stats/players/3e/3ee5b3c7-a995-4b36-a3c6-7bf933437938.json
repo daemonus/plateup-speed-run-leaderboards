@@ -1,0 +1,42 @@
+{
+  "id": "3ee5b3c7-a995-4b36-a3c6-7bf933437938",
+  "persona": "crimzor",
+  "names": [
+    "crimzor"
+  ],
+  "runs": 3,
+  "bestRank": 458,
+  "worstRank": 702,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2542770,
+  "weeksActive": [
+    -94,
+    -91,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 702,
+      "ms": 3083262,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 671,
+      "ms": 2542770,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 458,
+      "ms": 3320738,
+      "dish": "Fish"
+    }
+  ]
+}

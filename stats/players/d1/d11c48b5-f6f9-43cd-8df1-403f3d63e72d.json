@@ -1,0 +1,66 @@
+{
+  "id": "d11c48b5-f6f9-43cd-8df1-403f3d63e72d",
+  "persona": "MerryBanana",
+  "names": [
+    "MerryBanana"
+  ],
+  "runs": 6,
+  "bestRank": 80,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2702781,
+  "weeksActive": [
+    -56,
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 444,
+      "ms": 4446259,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 80,
+      "ms": 3070278,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 103,
+      "ms": 2702781,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 183,
+      "ms": 3366403,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 206,
+      "ms": 2988552,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 230,
+      "ms": 3628661,
+      "dish": "Breakfast"
+    }
+  ]
+}

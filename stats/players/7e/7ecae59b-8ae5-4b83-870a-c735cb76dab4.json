@@ -1,0 +1,42 @@
+{
+  "id": "7ecae59b-8ae5-4b83-870a-c735cb76dab4",
+  "persona": "HatchiMatchi",
+  "names": [
+    "HatchiMatchi"
+  ],
+  "runs": 3,
+  "bestRank": 84,
+  "worstRank": 601,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3222013,
+  "weeksActive": [
+    -55,
+    -51,
+    -50
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 319,
+      "ms": 3807273,
+      "dish": "Pizza"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 601,
+      "ms": 4144187,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 84,
+      "ms": 3222013,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

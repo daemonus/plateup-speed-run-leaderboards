@@ -1,0 +1,90 @@
+{
+  "id": "6f35bc28-96dc-46bc-9aa7-69085ec64a74",
+  "persona": "tunaa",
+  "names": [
+    "tunaa"
+  ],
+  "runs": 9,
+  "bestRank": 256,
+  "worstRank": 1098,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3654434,
+  "weeksActive": [
+    -90,
+    -89,
+    -87,
+    -86,
+    -85,
+    -84,
+    -82,
+    -81,
+    -77
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1098,
+      "ms": 4157147,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 924,
+      "ms": 4544838,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 525,
+      "ms": 4625745,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 685,
+      "ms": 3654434,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 256,
+      "ms": 4554118,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 650,
+      "ms": 4617939,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 678,
+      "ms": 4241195,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 435,
+      "ms": 6094000,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 728,
+      "ms": 4249522,
+      "dish": "Pies"
+    }
+  ]
+}

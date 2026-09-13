@@ -1,0 +1,50 @@
+{
+  "id": "b1d31e69-8625-43c2-b66f-95fbaeb26e2a",
+  "persona": "HK_Curious",
+  "names": [
+    "HK_Curious"
+  ],
+  "runs": 4,
+  "bestRank": 651,
+  "worstRank": 1679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2305568,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 776,
+      "ms": 2305568,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 651,
+      "ms": 4010532,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1679,
+      "ms": 5816648,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 967,
+      "ms": 4976854,
+      "dish": "Pies"
+    }
+  ]
+}

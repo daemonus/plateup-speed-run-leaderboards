@@ -1,0 +1,42 @@
+{
+  "id": "318d8526-b9a2-4a70-8b5c-52713cf140fb",
+  "persona": "ranran",
+  "names": [
+    "ranran"
+  ],
+  "runs": 3,
+  "bestRank": 123,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2643750,
+  "weeksActive": [
+    -62,
+    -61,
+    -46
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 123,
+      "ms": 2809780,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 126,
+      "ms": 2643750,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 306,
+      "ms": 4114980,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f550e7dc-a7b3-4065-8019-073d4b3ff5e5",
+  "persona": "spiderplant",
+  "names": [
+    "spiderplant"
+  ],
+  "runs": 2,
+  "bestRank": 159,
+  "worstRank": 271,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2689218,
+  "weeksActive": [
+    42,
+    43
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 159,
+      "ms": 3371707,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 271,
+      "ms": 2689218,
+      "dish": "Fish"
+    }
+  ]
+}

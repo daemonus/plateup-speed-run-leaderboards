@@ -1,0 +1,58 @@
+{
+  "id": "cf16c89d-db8a-4600-9fe0-ef9df08aacc3",
+  "persona": "nina",
+  "names": [
+    "nina"
+  ],
+  "runs": 5,
+  "bestRank": 192,
+  "worstRank": 616,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2929967,
+  "weeksActive": [
+    -78,
+    -75,
+    -74,
+    -71,
+    -46
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 192,
+      "ms": 2929967,
+      "dish": "Burgers"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 616,
+      "ms": 3312924,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 271,
+      "ms": 3499230,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 454,
+      "ms": 3112205,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 308,
+      "ms": 4121141,
+      "dish": "Salad"
+    }
+  ]
+}

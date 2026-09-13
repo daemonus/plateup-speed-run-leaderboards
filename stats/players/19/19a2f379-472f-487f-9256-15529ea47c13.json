@@ -1,0 +1,74 @@
+{
+  "id": "19a2f379-472f-487f-9256-15529ea47c13",
+  "persona": "copisshopper",
+  "names": [
+    "copisshopper"
+  ],
+  "runs": 7,
+  "bestRank": 76,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2221067,
+  "weeksActive": [
+    8,
+    15,
+    17,
+    18,
+    19,
+    20,
+    50
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 218,
+      "ms": 2530776,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 152,
+      "ms": 2221067,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 123,
+      "ms": 2980152,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 76,
+      "ms": 2850312,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 231,
+      "ms": 3834288,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 318,
+      "ms": 2623726,
+      "dish": "Turkey"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 83,
+      "ms": 3258660,
+      "dish": "Stir Fry"
+    }
+  ]
+}

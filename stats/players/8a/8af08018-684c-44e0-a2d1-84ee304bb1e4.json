@@ -1,0 +1,42 @@
+{
+  "id": "8af08018-684c-44e0-a2d1-84ee304bb1e4",
+  "persona": "sweetwolf9",
+  "names": [
+    "sweetwolf9"
+  ],
+  "runs": 3,
+  "bestRank": 304,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3908506,
+  "weeksActive": [
+    0,
+    1,
+    2
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 456,
+      "ms": 5625752,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 304,
+      "ms": 3908506,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 358,
+      "ms": 4608955,
+      "dish": "Breakfast"
+    }
+  ]
+}

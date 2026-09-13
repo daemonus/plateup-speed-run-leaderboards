@@ -1,0 +1,50 @@
+{
+  "id": "01cdf21e-1805-4888-910e-d99a913501db",
+  "persona": "\uB31C\uCC0C",
+  "names": [
+    "\uB31C\uCC0C"
+  ],
+  "runs": 4,
+  "bestRank": 22,
+  "worstRank": 46,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1526032,
+  "weeksActive": [
+    14,
+    15,
+    16,
+    17
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 28,
+      "ms": 2199244,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 24,
+      "ms": 1526032,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 22,
+      "ms": 2449685,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 46,
+      "ms": 2355353,
+      "dish": "Pizza"
+    }
+  ]
+}

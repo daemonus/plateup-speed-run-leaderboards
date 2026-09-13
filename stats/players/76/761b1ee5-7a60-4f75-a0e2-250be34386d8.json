@@ -1,0 +1,42 @@
+{
+  "id": "761b1ee5-7a60-4f75-a0e2-250be34386d8",
+  "persona": "Shauna",
+  "names": [
+    "Shauna"
+  ],
+  "runs": 3,
+  "bestRank": 240,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2757622,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 326,
+      "ms": 3568273,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 240,
+      "ms": 2757622,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 284,
+      "ms": 3442689,
+      "dish": "Pizza"
+    }
+  ]
+}

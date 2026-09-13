@@ -1,0 +1,42 @@
+{
+  "id": "292ef9b3-9e9e-4ab1-8f24-758107bdd212",
+  "persona": "lovemarlee",
+  "names": [
+    "lovemarlee"
+  ],
+  "runs": 3,
+  "bestRank": 347,
+  "worstRank": 1026,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2339702,
+  "weeksActive": [
+    -94,
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1026,
+      "ms": 3474559,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 837,
+      "ms": 2339702,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 347,
+      "ms": 2576296,
+      "dish": "Pies"
+    }
+  ]
+}

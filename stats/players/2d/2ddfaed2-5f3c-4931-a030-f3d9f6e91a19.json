@@ -1,0 +1,42 @@
+{
+  "id": "2ddfaed2-5f3c-4931-a030-f3d9f6e91a19",
+  "persona": "Artisane",
+  "names": [
+    "Artisane"
+  ],
+  "runs": 3,
+  "bestRank": 243,
+  "worstRank": 450,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3405748,
+  "weeksActive": [
+    -64,
+    -63,
+    -21
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 357,
+      "ms": 4575569,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 450,
+      "ms": 4388306,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 243,
+      "ms": 3405748,
+      "dish": "Pizza"
+    }
+  ]
+}

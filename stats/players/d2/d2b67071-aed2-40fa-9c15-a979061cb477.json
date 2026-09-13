@@ -1,0 +1,66 @@
+{
+  "id": "d2b67071-aed2-40fa-9c15-a979061cb477",
+  "persona": "valkorhe",
+  "names": [
+    "valkorhe"
+  ],
+  "runs": 6,
+  "bestRank": 28,
+  "worstRank": 110,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2232766,
+  "weeksActive": [
+    -70,
+    -56,
+    -55,
+    -52,
+    -47,
+    -20
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 58,
+      "ms": 2726742,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 110,
+      "ms": 2474967,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 36,
+      "ms": 2232766,
+      "dish": "Pizza"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 28,
+      "ms": 2658155,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 55,
+      "ms": 2668922,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 46,
+      "ms": 2584666,
+      "dish": "Burgers"
+    }
+  ]
+}

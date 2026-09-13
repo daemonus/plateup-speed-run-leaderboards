@@ -1,0 +1,58 @@
+{
+  "id": "72a59434-2f17-4371-acb2-59b670342310",
+  "persona": "amaerio",
+  "names": [
+    "amaerio"
+  ],
+  "runs": 5,
+  "bestRank": 134,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2478025,
+  "weeksActive": [
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 503,
+      "ms": 3289688,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 244,
+      "ms": 3246745,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 134,
+      "ms": 3564371,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 221,
+      "ms": 4056227,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 220,
+      "ms": 2478025,
+      "dish": "Turkey"
+    }
+  ]
+}

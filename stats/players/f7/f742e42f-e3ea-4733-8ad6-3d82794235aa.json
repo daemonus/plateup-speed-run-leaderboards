@@ -1,0 +1,98 @@
+{
+  "id": "f742e42f-e3ea-4733-8ad6-3d82794235aa",
+  "persona": "rigel",
+  "names": [
+    "rigel"
+  ],
+  "runs": 10,
+  "bestRank": 62,
+  "worstRank": 239,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2126703,
+  "weeksActive": [
+    -56,
+    -55,
+    -19,
+    -18,
+    -17,
+    -16,
+    -15,
+    2,
+    3,
+    72
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 201,
+      "ms": 2923338,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 239,
+      "ms": 3400844,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 193,
+      "ms": 3342807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 154,
+      "ms": 2945726,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 145,
+      "ms": 2860717,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 62,
+      "ms": 2126703,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 154,
+      "ms": 2528904,
+      "dish": "Fish"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 147,
+      "ms": 3085850,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 62,
+      "ms": 2250786,
+      "dish": "Fish"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 231,
+      "ms": 3590064,
+      "dish": "Breakfast"
+    }
+  ]
+}

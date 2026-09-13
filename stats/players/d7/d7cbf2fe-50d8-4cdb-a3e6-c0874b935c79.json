@@ -1,0 +1,42 @@
+{
+  "id": "d7cbf2fe-50d8-4cdb-a3e6-c0874b935c79",
+  "persona": "Mr. Kipper",
+  "names": [
+    "Mr. Kipper"
+  ],
+  "runs": 3,
+  "bestRank": 12,
+  "worstRank": 159,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1021664,
+  "weeksActive": [
+    63,
+    64,
+    65
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 159,
+      "ms": 2689964,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 12,
+      "ms": 1021664,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 37,
+      "ms": 2186804,
+      "dish": "Pizza"
+    }
+  ]
+}

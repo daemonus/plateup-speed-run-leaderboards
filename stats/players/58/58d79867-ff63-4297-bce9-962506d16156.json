@@ -1,0 +1,34 @@
+{
+  "id": "58d79867-ff63-4297-bce9-962506d16156",
+  "persona": "yentl",
+  "names": [
+    "yentl"
+  ],
+  "runs": 2,
+  "bestRank": 89,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3035541,
+  "weeksActive": [
+    55,
+    68
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 89,
+      "ms": 3035541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 447,
+      "ms": 3858068,
+      "dish": "Turkey"
+    }
+  ]
+}

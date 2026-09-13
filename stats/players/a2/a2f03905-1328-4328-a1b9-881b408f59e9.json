@@ -1,0 +1,34 @@
+{
+  "id": "a2f03905-1328-4328-a1b9-881b408f59e9",
+  "persona": "NAANY",
+  "names": [
+    "NAANY"
+  ],
+  "runs": 2,
+  "bestRank": 336,
+  "worstRank": 363,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2985100,
+  "weeksActive": [
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 363,
+      "ms": 4168019,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 336,
+      "ms": 2985100,
+      "dish": "Sundaes"
+    }
+  ]
+}

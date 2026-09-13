@@ -1,0 +1,50 @@
+{
+  "id": "4e378dde-4754-4476-9793-42505956640a",
+  "persona": "semtibor",
+  "names": [
+    "semtibor"
+  ],
+  "runs": 4,
+  "bestRank": 175,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3197761,
+  "weeksActive": [
+    -57,
+    -56,
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 175,
+      "ms": 3661114,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 263,
+      "ms": 3197761,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 211,
+      "ms": 6321459,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 376,
+      "ms": 3315516,
+      "dish": "Turkey"
+    }
+  ]
+}

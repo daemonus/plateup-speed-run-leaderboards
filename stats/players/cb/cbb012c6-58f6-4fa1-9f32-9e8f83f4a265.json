@@ -1,0 +1,42 @@
+{
+  "id": "cbb012c6-58f6-4fa1-9f32-9e8f83f4a265",
+  "persona": "0232e33f",
+  "names": [
+    "0232e33f"
+  ],
+  "runs": 3,
+  "bestRank": 228,
+  "worstRank": 431,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3340233,
+  "weeksActive": [
+    -85,
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 228,
+      "ms": 4084663,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 431,
+      "ms": 4662844,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 264,
+      "ms": 3340233,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "68cd1cc2-a5eb-4674-bc03-4d1e56328445",
+  "persona": "graycatsrun",
+  "names": [
+    "graycatsrun"
+  ],
+  "runs": 4,
+  "bestRank": 226,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3160844,
+  "weeksActive": [
+    42,
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 230,
+      "ms": 4436596,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 429,
+      "ms": 3160844,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 355,
+      "ms": 3784581,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 226,
+      "ms": 5913264,
+      "dish": "Salad"
+    }
+  ]
+}

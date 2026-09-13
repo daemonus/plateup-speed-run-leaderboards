@@ -1,0 +1,34 @@
+{
+  "id": "b0b3afec-294f-4b6e-b51d-5a8b72779211",
+  "persona": "\u6876",
+  "names": [
+    "\u6876"
+  ],
+  "runs": 2,
+  "bestRank": 113,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3054608,
+  "weeksActive": [
+    -61,
+    -60
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 187,
+      "ms": 3054608,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 113,
+      "ms": 3138695,
+      "dish": "Burgers"
+    }
+  ]
+}

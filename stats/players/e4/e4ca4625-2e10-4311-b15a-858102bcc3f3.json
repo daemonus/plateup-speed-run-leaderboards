@@ -1,0 +1,42 @@
+{
+  "id": "e4ca4625-2e10-4311-b15a-858102bcc3f3",
+  "persona": "xerdan",
+  "names": [
+    "xerdan"
+  ],
+  "runs": 3,
+  "bestRank": 486,
+  "worstRank": 739,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3864187,
+  "weeksActive": [
+    -88,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 639,
+      "ms": 4294856,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 486,
+      "ms": 4209270,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 739,
+      "ms": 3864187,
+      "dish": "Fish"
+    }
+  ]
+}

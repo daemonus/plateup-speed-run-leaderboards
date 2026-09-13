@@ -1,0 +1,34 @@
+{
+  "id": "2df5abde-3bdd-45b1-90e5-bbfebec968e1",
+  "persona": "Elucard",
+  "names": [
+    "Elucard"
+  ],
+  "runs": 2,
+  "bestRank": 160,
+  "worstRank": 944,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1946015,
+  "weeksActive": [
+    -94,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 944,
+      "ms": 3362364,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 160,
+      "ms": 1946015,
+      "dish": "Fish"
+    }
+  ]
+}

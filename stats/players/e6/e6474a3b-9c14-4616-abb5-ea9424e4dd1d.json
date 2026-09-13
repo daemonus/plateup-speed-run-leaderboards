@@ -1,0 +1,42 @@
+{
+  "id": "e6474a3b-9c14-4616-abb5-ea9424e4dd1d",
+  "persona": "buxin",
+  "names": [
+    "buxin"
+  ],
+  "runs": 3,
+  "bestRank": 274,
+  "worstRank": 505,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4302826,
+  "weeksActive": [
+    -43,
+    -19,
+    -5
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 319,
+      "ms": 7085535,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 274,
+      "ms": 4302826,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 505,
+      "ms": 5046405,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7f95b15e-ff20-4f16-938c-caee676f1729",
+  "persona": "Shaggy",
+  "names": [
+    "Shaggy"
+  ],
+  "runs": 2,
+  "bestRank": 1131,
+  "worstRank": 1409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4027813,
+  "weeksActive": [
+    -94,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1409,
+      "ms": 4027813,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1131,
+      "ms": 4359430,
+      "dish": "Fish"
+    }
+  ]
+}

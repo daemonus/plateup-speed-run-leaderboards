@@ -1,0 +1,42 @@
+{
+  "id": "e9757542-3482-4aa2-94c3-336dc5e4f49a",
+  "persona": "cak",
+  "names": [
+    "cak"
+  ],
+  "runs": 3,
+  "bestRank": 455,
+  "worstRank": 660,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3523526,
+  "weeksActive": [
+    -87,
+    -86,
+    -83
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 504,
+      "ms": 4356822,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 660,
+      "ms": 3523526,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 455,
+      "ms": 3926459,
+      "dish": "Steak"
+    }
+  ]
+}

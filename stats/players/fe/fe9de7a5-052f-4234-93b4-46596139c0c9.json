@@ -1,0 +1,42 @@
+{
+  "id": "fe9de7a5-052f-4234-93b4-46596139c0c9",
+  "persona": "Syntax",
+  "names": [
+    "Syntax"
+  ],
+  "runs": 3,
+  "bestRank": 30,
+  "worstRank": 300,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1812637,
+  "weeksActive": [
+    -93,
+    -86,
+    -81
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 300,
+      "ms": 1881075,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 97,
+      "ms": 1812637,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 30,
+      "ms": 2337467,
+      "dish": "Steak"
+    }
+  ]
+}

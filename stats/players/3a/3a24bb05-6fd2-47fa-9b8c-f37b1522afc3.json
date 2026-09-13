@@ -1,0 +1,34 @@
+{
+  "id": "3a24bb05-6fd2-47fa-9b8c-f37b1522afc3",
+  "persona": "rajon",
+  "names": [
+    "rajon"
+  ],
+  "runs": 2,
+  "bestRank": 177,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3044663,
+  "weeksActive": [
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 177,
+      "ms": 3044663,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 278,
+      "ms": 3650770,
+      "dish": "Burgers"
+    }
+  ]
+}

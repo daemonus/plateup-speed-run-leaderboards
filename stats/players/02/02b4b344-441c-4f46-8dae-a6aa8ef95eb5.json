@@ -1,0 +1,34 @@
+{
+  "id": "02b4b344-441c-4f46-8dae-a6aa8ef95eb5",
+  "persona": "XXD",
+  "names": [
+    "XXD"
+  ],
+  "runs": 2,
+  "bestRank": 226,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3419949,
+  "weeksActive": [
+    63,
+    67
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 722,
+      "ms": 5376082,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 226,
+      "ms": 3419949,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

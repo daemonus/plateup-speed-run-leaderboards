@@ -1,0 +1,34 @@
+{
+  "id": "0f2f3eec-0939-4317-8453-d98bba49dec6",
+  "persona": "Poupette",
+  "names": [
+    "Poupette"
+  ],
+  "runs": 2,
+  "bestRank": 215,
+  "worstRank": 1494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2802381,
+  "weeksActive": [
+    -91,
+    36
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1494,
+      "ms": 3813713,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 215,
+      "ms": 2802381,
+      "dish": "Fish"
+    }
+  ]
+}

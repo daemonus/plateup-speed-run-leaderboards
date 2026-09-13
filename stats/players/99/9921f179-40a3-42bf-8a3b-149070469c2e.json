@@ -1,0 +1,34 @@
+{
+  "id": "9921f179-40a3-42bf-8a3b-149070469c2e",
+  "persona": "Publius",
+  "names": [
+    "Publius"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1704594,
+  "weeksActive": [
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 188,
+      "ms": 1879661,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 93,
+      "ms": 1704594,
+      "dish": "Fish"
+    }
+  ]
+}

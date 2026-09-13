@@ -1,0 +1,42 @@
+{
+  "id": "082dfb91-78ac-4719-b154-f9fbea9143a0",
+  "persona": "HobbyCollector",
+  "names": [
+    "HobbyCollector"
+  ],
+  "runs": 3,
+  "bestRank": 261,
+  "worstRank": 605,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3260046,
+  "weeksActive": [
+    34,
+    41,
+    46
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 284,
+      "ms": 4249123,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 605,
+      "ms": 3490676,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 261,
+      "ms": 3260046,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "b1ec9db1-dd38-4548-b4ec-6a51b4a84758",
+  "persona": "maimai",
+  "names": [
+    "maimai"
+  ],
+  "runs": 2,
+  "bestRank": 447,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3693424,
+  "weeksActive": [
+    31,
+    63
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 573,
+      "ms": 4777911,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 447,
+      "ms": 3693424,
+      "dish": "Pizza"
+    }
+  ]
+}

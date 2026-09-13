@@ -1,0 +1,42 @@
+{
+  "id": "ca1299aa-a06c-445c-94d4-e30d189f090c",
+  "persona": "DJ24K",
+  "names": [
+    "DJ24K"
+  ],
+  "runs": 3,
+  "bestRank": 194,
+  "worstRank": 379,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3670363,
+  "weeksActive": [
+    -21,
+    -20,
+    34
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 379,
+      "ms": 4038072,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 354,
+      "ms": 3987244,
+      "dish": "Burgers"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 194,
+      "ms": 3670363,
+      "dish": "Stir Fry"
+    }
+  ]
+}

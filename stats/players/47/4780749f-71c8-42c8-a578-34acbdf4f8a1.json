@@ -1,0 +1,42 @@
+{
+  "id": "4780749f-71c8-42c8-a578-34acbdf4f8a1",
+  "persona": "NightHawke16",
+  "names": [
+    "NightHawke16"
+  ],
+  "runs": 3,
+  "bestRank": 177,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3120563,
+  "weeksActive": [
+    -60,
+    -59,
+    -55
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 278,
+      "ms": 3888057,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 388,
+      "ms": 3765062,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 177,
+      "ms": 3120563,
+      "dish": "Pizza"
+    }
+  ]
+}

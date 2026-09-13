@@ -1,0 +1,34 @@
+{
+  "id": "597f1caa-ff58-4e30-bccd-0df407dd9867",
+  "persona": "GO Dodgers",
+  "names": [
+    "GO Dodgers"
+  ],
+  "runs": 2,
+  "bestRank": 58,
+  "worstRank": 124,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1947607,
+  "weeksActive": [
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 124,
+      "ms": 1947607,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 58,
+      "ms": 2248164,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

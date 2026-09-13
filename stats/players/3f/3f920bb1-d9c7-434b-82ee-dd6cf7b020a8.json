@@ -1,0 +1,34 @@
+{
+  "id": "3f920bb1-d9c7-434b-82ee-dd6cf7b020a8",
+  "persona": "sander",
+  "names": [
+    "sander"
+  ],
+  "runs": 2,
+  "bestRank": 399,
+  "worstRank": 898,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4351614,
+  "weeksActive": [
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 898,
+      "ms": 4775100,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 399,
+      "ms": 4351614,
+      "dish": "Burgers"
+    }
+  ]
+}

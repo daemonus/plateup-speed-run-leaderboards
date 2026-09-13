@@ -1,0 +1,34 @@
+{
+  "id": "ebdf636f-32a5-410e-bd46-6b4e94403546",
+  "persona": "Aurelia",
+  "names": [
+    "Aurelia"
+  ],
+  "runs": 2,
+  "bestRank": 203,
+  "worstRank": 334,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3368359,
+  "weeksActive": [
+    -83,
+    -80
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 334,
+      "ms": 3368359,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 203,
+      "ms": 4104361,
+      "dish": "Stir Fry"
+    }
+  ]
+}

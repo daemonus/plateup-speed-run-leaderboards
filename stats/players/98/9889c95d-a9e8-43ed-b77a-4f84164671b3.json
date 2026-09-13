@@ -1,0 +1,42 @@
+{
+  "id": "9889c95d-a9e8-43ed-b77a-4f84164671b3",
+  "persona": "Cinder",
+  "names": [
+    "Cinder"
+  ],
+  "runs": 3,
+  "bestRank": 333,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3359389,
+  "weeksActive": [
+    1,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 385,
+      "ms": 4496486,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 380,
+      "ms": 4762255,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 333,
+      "ms": 3359389,
+      "dish": "Fish"
+    }
+  ]
+}

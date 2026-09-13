@@ -1,0 +1,42 @@
+{
+  "id": "5221268a-3430-47d2-8b79-53cb3863ee09",
+  "persona": "sirz",
+  "names": [
+    "sirz"
+  ],
+  "runs": 3,
+  "bestRank": 457,
+  "worstRank": 861,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4905202,
+  "weeksActive": [
+    -41,
+    -31,
+    43
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 457,
+      "ms": 9027540,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 861,
+      "ms": 5605979,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 747,
+      "ms": 4905202,
+      "dish": "Fish"
+    }
+  ]
+}

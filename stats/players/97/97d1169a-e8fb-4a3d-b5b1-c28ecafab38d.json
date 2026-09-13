@@ -1,0 +1,42 @@
+{
+  "id": "97d1169a-e8fb-4a3d-b5b1-c28ecafab38d",
+  "persona": "Ikea dude",
+  "names": [
+    "Ikea dude"
+  ],
+  "runs": 3,
+  "bestRank": 216,
+  "worstRank": 411,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3084403,
+  "weeksActive": [
+    -46,
+    -4,
+    7
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 289,
+      "ms": 4032020,
+      "dish": "Salad"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 216,
+      "ms": 3084403,
+      "dish": "Pies"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 411,
+      "ms": 4574255,
+      "dish": "Fish"
+    }
+  ]
+}

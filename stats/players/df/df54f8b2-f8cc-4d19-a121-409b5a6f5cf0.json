@@ -1,0 +1,34 @@
+{
+  "id": "df54f8b2-f8cc-4d19-a121-409b5a6f5cf0",
+  "persona": "uii",
+  "names": [
+    "uii"
+  ],
+  "runs": 2,
+  "bestRank": 404,
+  "worstRank": 539,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3157182,
+  "weeksActive": [
+    -75,
+    57
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 539,
+      "ms": 3157182,
+      "dish": "Fish"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 404,
+      "ms": 4190933,
+      "dish": "Salad"
+    }
+  ]
+}

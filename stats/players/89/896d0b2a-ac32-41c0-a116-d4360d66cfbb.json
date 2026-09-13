@@ -1,0 +1,42 @@
+{
+  "id": "896d0b2a-ac32-41c0-a116-d4360d66cfbb",
+  "persona": "BrainVomit",
+  "names": [
+    "BrainVomit"
+  ],
+  "runs": 3,
+  "bestRank": 519,
+  "worstRank": 615,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3983754,
+  "weeksActive": [
+    -67,
+    58,
+    63
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 594,
+      "ms": 5809055,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 615,
+      "ms": 4881988,
+      "dish": "Turkey"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 519,
+      "ms": 3983754,
+      "dish": "Pizza"
+    }
+  ]
+}

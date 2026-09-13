@@ -1,0 +1,130 @@
+{
+  "id": "de506893-9f1c-4a23-86ae-a93af2d63751",
+  "persona": "Jones",
+  "names": [
+    "Jones"
+  ],
+  "runs": 14,
+  "bestRank": 81,
+  "worstRank": 524,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2382904,
+  "weeksActive": [
+    19,
+    20,
+    23,
+    26,
+    27,
+    28,
+    30,
+    31,
+    33,
+    37,
+    38,
+    40,
+    60,
+    83
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 189,
+      "ms": 3532278,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 524,
+      "ms": 3288332,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 370,
+      "ms": 3509135,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 274,
+      "ms": 3982621,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 304,
+      "ms": 6059434,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 119,
+      "ms": 2382904,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 276,
+      "ms": 3566335,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 335,
+      "ms": 3495949,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 100,
+      "ms": 2979098,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 81,
+      "ms": 3219737,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 212,
+      "ms": 2994315,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 105,
+      "ms": 2910997,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 344,
+      "ms": 4524401,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 397,
+      "ms": 2642928,
+      "dish": "Sundaes"
+    }
+  ]
+}

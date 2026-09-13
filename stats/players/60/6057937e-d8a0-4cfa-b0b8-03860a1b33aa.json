@@ -1,0 +1,42 @@
+{
+  "id": "6057937e-d8a0-4cfa-b0b8-03860a1b33aa",
+  "persona": "ThisIsTooStressful",
+  "names": [
+    "ThisIsTooStressful"
+  ],
+  "runs": 3,
+  "bestRank": 336,
+  "worstRank": 856,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2311483,
+  "weeksActive": [
+    -94,
+    -93,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 846,
+      "ms": 3251863,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 856,
+      "ms": 2350555,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 336,
+      "ms": 2311483,
+      "dish": "Fish"
+    }
+  ]
+}

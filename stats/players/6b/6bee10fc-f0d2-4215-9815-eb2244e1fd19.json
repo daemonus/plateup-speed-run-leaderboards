@@ -1,0 +1,42 @@
+{
+  "id": "6bee10fc-f0d2-4215-9815-eb2244e1fd19",
+  "persona": "Dexterity Check",
+  "names": [
+    "Dexterity Check"
+  ],
+  "runs": 3,
+  "bestRank": 108,
+  "worstRank": 544,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3544334,
+  "weeksActive": [
+    -18,
+    -17,
+    -14
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 544,
+      "ms": 4334140,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 240,
+      "ms": 3544334,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 108,
+      "ms": 3573571,
+      "dish": "Salad"
+    }
+  ]
+}

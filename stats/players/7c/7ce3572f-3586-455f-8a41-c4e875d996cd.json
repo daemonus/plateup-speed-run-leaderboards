@@ -1,0 +1,82 @@
+{
+  "id": "7ce3572f-3586-455f-8a41-c4e875d996cd",
+  "persona": "procrastinator",
+  "names": [
+    "procrastinator"
+  ],
+  "runs": 8,
+  "bestRank": 118,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2953879,
+  "weeksActive": [
+    64,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    79
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 566,
+      "ms": 2953879,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 266,
+      "ms": 3294563,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 196,
+      "ms": 3219456,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 449,
+      "ms": 3871047,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 207,
+      "ms": 3650777,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 190,
+      "ms": 3511819,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 287,
+      "ms": 3743966,
+      "dish": "Pizza"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 118,
+      "ms": 3321314,
+      "dish": "Salad"
+    }
+  ]
+}

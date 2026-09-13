@@ -1,0 +1,34 @@
+{
+  "id": "a21371ba-0922-4e8b-a1cb-71a24df267cd",
+  "persona": "MQ",
+  "names": [
+    "MQ"
+  ],
+  "runs": 2,
+  "bestRank": 527,
+  "worstRank": 852,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3569901,
+  "weeksActive": [
+    -37,
+    -32
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 852,
+      "ms": 4487957,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 527,
+      "ms": 3569901,
+      "dish": "Breakfast"
+    }
+  ]
+}

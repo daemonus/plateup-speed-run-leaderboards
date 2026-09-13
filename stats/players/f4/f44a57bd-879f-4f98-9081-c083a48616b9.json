@@ -1,0 +1,58 @@
+{
+  "id": "f44a57bd-879f-4f98-9081-c083a48616b9",
+  "persona": "Shenanigans",
+  "names": [
+    "Shenanigans"
+  ],
+  "runs": 5,
+  "bestRank": 383,
+  "worstRank": 833,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4532456,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -83,
+    -81
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 517,
+      "ms": 4532456,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 833,
+      "ms": 5100816,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 647,
+      "ms": 4532462,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 542,
+      "ms": 5341435,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 383,
+      "ms": 5081572,
+      "dish": "Steak"
+    }
+  ]
+}

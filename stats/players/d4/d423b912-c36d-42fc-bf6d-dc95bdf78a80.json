@@ -1,0 +1,66 @@
+{
+  "id": "d423b912-c36d-42fc-bf6d-dc95bdf78a80",
+  "persona": "Kristen_LB",
+  "names": [
+    "Kristen_LB"
+  ],
+  "runs": 6,
+  "bestRank": 52,
+  "worstRank": 339,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2474160,
+  "weeksActive": [
+    -89,
+    -79,
+    -67,
+    -66,
+    -62,
+    -58
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 339,
+      "ms": 2550456,
+      "dish": "Pies"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 69,
+      "ms": 2474160,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 148,
+      "ms": 3241730,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 151,
+      "ms": 3051327,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 151,
+      "ms": 2925005,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 52,
+      "ms": 2789307,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e52bf24d-f971-4740-b3aa-ab9dfec3fc20",
+  "persona": "korypwnz",
+  "names": [
+    "korypwnz"
+  ],
+  "runs": 3,
+  "bestRank": 64,
+  "worstRank": 311,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2772576,
+  "weeksActive": [
+    -69,
+    -65,
+    -64
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 311,
+      "ms": 4726312,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 64,
+      "ms": 3398813,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 93,
+      "ms": 2772576,
+      "dish": "Salad"
+    }
+  ]
+}

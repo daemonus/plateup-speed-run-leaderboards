@@ -1,0 +1,42 @@
+{
+  "id": "a980e526-7707-4ff0-a7c9-bd872c9d604a",
+  "persona": "NestorDemon",
+  "names": [
+    "NestorDemon"
+  ],
+  "runs": 3,
+  "bestRank": 336,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2757620,
+  "weeksActive": [
+    -3,
+    41,
+    46
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 545,
+      "ms": 3930304,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 434,
+      "ms": 2757620,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 336,
+      "ms": 3640048,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d25ab7c3-37ae-4a45-abfb-ff1427a3100b",
+  "persona": "Bonzaiko",
+  "names": [
+    "Bonzaiko"
+  ],
+  "runs": 2,
+  "bestRank": 324,
+  "worstRank": 797,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3786336,
+  "weeksActive": [
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 797,
+      "ms": 4120152,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 324,
+      "ms": 3786336,
+      "dish": "Burgers"
+    }
+  ]
+}

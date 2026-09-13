@@ -1,0 +1,66 @@
+{
+  "id": "6d050e11-5b74-4984-b599-c00e344b3880",
+  "persona": "keputone",
+  "names": [
+    "keputone"
+  ],
+  "runs": 6,
+  "bestRank": 25,
+  "worstRank": 120,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1724528,
+  "weeksActive": [
+    -23,
+    -18,
+    -11,
+    10,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 62,
+      "ms": 2733646,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 25,
+      "ms": 2162367,
+      "dish": "Fish"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 66,
+      "ms": 2932291,
+      "dish": "Burgers"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 56,
+      "ms": 2922158,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 65,
+      "ms": 1724528,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 120,
+      "ms": 2164706,
+      "dish": "Turkey"
+    }
+  ]
+}

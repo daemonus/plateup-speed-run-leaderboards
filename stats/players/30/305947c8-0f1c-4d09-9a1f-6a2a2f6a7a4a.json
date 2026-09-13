@@ -1,0 +1,42 @@
+{
+  "id": "305947c8-0f1c-4d09-9a1f-6a2a2f6a7a4a",
+  "persona": "4870898",
+  "names": [
+    "4870898"
+  ],
+  "runs": 3,
+  "bestRank": 302,
+  "worstRank": 435,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3024481,
+  "weeksActive": [
+    20,
+    21,
+    23
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 435,
+      "ms": 3024481,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 302,
+      "ms": 3625271,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 311,
+      "ms": 3188189,
+      "dish": "Turkey"
+    }
+  ]
+}

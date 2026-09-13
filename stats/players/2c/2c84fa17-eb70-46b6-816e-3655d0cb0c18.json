@@ -1,0 +1,58 @@
+{
+  "id": "2c84fa17-eb70-46b6-816e-3655d0cb0c18",
+  "persona": "jeffsabbat",
+  "names": [
+    "jeffsabbat"
+  ],
+  "runs": 5,
+  "bestRank": 296,
+  "worstRank": 632,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5934327,
+  "weeksActive": [
+    23,
+    24,
+    31,
+    33,
+    36
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 593,
+      "ms": 7520740,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 554,
+      "ms": 5943838,
+      "dish": "Pies"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 632,
+      "ms": 12021462,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 296,
+      "ms": 5934327,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 472,
+      "ms": 6262859,
+      "dish": "Fish"
+    }
+  ]
+}

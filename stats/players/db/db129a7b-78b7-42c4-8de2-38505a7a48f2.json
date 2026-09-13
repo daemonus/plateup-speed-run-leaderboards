@@ -1,0 +1,50 @@
+{
+  "id": "db129a7b-78b7-42c4-8de2-38505a7a48f2",
+  "persona": "Mao tse boom",
+  "names": [
+    "Mao tse boom"
+  ],
+  "runs": 4,
+  "bestRank": 82,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3249762,
+  "weeksActive": [
+    -18,
+    -16,
+    -10,
+    -7
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 342,
+      "ms": 3668254,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 398,
+      "ms": 3642367,
+      "dish": "Pies"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 82,
+      "ms": 3249762,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 142,
+      "ms": 3796395,
+      "dish": "Breakfast"
+    }
+  ]
+}

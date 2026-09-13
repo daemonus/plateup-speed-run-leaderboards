@@ -1,0 +1,42 @@
+{
+  "id": "13c750d7-e90c-48e9-af41-c32dc42ccaf0",
+  "persona": "\u829D\u58EB\u80E1\u6912\u9E21\u8089\u996D",
+  "names": [
+    "\u829D\u58EB\u80E1\u6912\u9E21\u8089\u996D"
+  ],
+  "runs": 3,
+  "bestRank": 110,
+  "worstRank": 209,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2989224,
+  "weeksActive": [
+    -8,
+    -5,
+    21
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 110,
+      "ms": 3455593,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 209,
+      "ms": 3659134,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 189,
+      "ms": 2989224,
+      "dish": "Burgers"
+    }
+  ]
+}

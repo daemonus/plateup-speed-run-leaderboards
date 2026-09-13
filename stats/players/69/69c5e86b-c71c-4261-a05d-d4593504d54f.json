@@ -1,0 +1,58 @@
+{
+  "id": "69c5e86b-c71c-4261-a05d-d4593504d54f",
+  "persona": "Snookums",
+  "names": [
+    "Snookums"
+  ],
+  "runs": 5,
+  "bestRank": 48,
+  "worstRank": 1989,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2920010,
+  "weeksActive": [
+    -93,
+    -87,
+    -70,
+    -42,
+    -39
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1989,
+      "ms": 3122797,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 436,
+      "ms": 3907104,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 245,
+      "ms": 3781425,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 48,
+      "ms": 2920010,
+      "dish": "Burgers"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 287,
+      "ms": 3005305,
+      "dish": "Pizza"
+    }
+  ]
+}

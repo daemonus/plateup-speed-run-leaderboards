@@ -1,0 +1,58 @@
+{
+  "id": "12f332e3-e41b-4bff-ae55-90e23481cf45",
+  "persona": "mintypoo",
+  "names": [
+    "mintypoo"
+  ],
+  "runs": 5,
+  "bestRank": 75,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2539659,
+  "weeksActive": [
+    25,
+    26,
+    27,
+    68,
+    74
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 152,
+      "ms": 4514839,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 75,
+      "ms": 2539659,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 85,
+      "ms": 2593880,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 284,
+      "ms": 2953542,
+      "dish": "Turkey"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 269,
+      "ms": 4454542,
+      "dish": "Breakfast"
+    }
+  ]
+}

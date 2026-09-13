@@ -1,0 +1,34 @@
+{
+  "id": "edea16e7-7e6e-433f-b04e-10776bdb79db",
+  "persona": "coralie",
+  "names": [
+    "coralie"
+  ],
+  "runs": 2,
+  "bestRank": 482,
+  "worstRank": 1532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2815809,
+  "weeksActive": [
+    -93,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1532,
+      "ms": 2815809,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 482,
+      "ms": 3498789,
+      "dish": "Fish"
+    }
+  ]
+}

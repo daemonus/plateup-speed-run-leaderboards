@@ -1,0 +1,50 @@
+{
+  "id": "e4f531de-a428-4776-9b9d-5f3e2194ad2a",
+  "persona": "RankoTheGorilla",
+  "names": [
+    "RankoTheGorilla"
+  ],
+  "runs": 4,
+  "bestRank": 410,
+  "worstRank": 549,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3327422,
+  "weeksActive": [
+    -64,
+    -63,
+    15,
+    31
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 410,
+      "ms": 5164894,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 549,
+      "ms": 4918493,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 431,
+      "ms": 3327422,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 410,
+      "ms": 3797730,
+      "dish": "Fish"
+    }
+  ]
+}

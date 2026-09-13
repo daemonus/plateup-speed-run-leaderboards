@@ -1,0 +1,66 @@
+{
+  "id": "878de32a-7844-49f9-b7ad-37e8ea72d845",
+  "persona": "Elsbel",
+  "names": [
+    "Elsbel"
+  ],
+  "runs": 6,
+  "bestRank": 121,
+  "worstRank": 354,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2804956,
+  "weeksActive": [
+    44,
+    45,
+    46,
+    57,
+    58,
+    70
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 283,
+      "ms": 3419703,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 121,
+      "ms": 3532309,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 158,
+      "ms": 2804956,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 354,
+      "ms": 3884156,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 257,
+      "ms": 2928596,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 254,
+      "ms": 4075741,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

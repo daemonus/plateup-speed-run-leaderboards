@@ -1,0 +1,42 @@
+{
+  "id": "e1a6109a-0e5c-420e-be3b-aee777d6c096",
+  "persona": "Charlie Hope",
+  "names": [
+    "Charlie Hope"
+  ],
+  "runs": 3,
+  "bestRank": 225,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3434391,
+  "weeksActive": [
+    60,
+    61,
+    63
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 267,
+      "ms": 3823088,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 225,
+      "ms": 3530693,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 365,
+      "ms": 3434391,
+      "dish": "Pizza"
+    }
+  ]
+}

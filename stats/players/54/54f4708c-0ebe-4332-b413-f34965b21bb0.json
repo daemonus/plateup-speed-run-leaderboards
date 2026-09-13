@@ -1,0 +1,42 @@
+{
+  "id": "54f4708c-0ebe-4332-b413-f34965b21bb0",
+  "persona": "meow",
+  "names": [
+    "meow"
+  ],
+  "runs": 3,
+  "bestRank": 273,
+  "worstRank": 524,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3262808,
+  "weeksActive": [
+    -44,
+    -43,
+    -30
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 395,
+      "ms": 3649826,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 273,
+      "ms": 4443346,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 524,
+      "ms": 3262808,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a6c71747-5674-483e-bcf8-92976bf095b6",
+  "persona": "Lisstr",
+  "names": [
+    "Lisstr"
+  ],
+  "runs": 3,
+  "bestRank": 229,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3246004,
+  "weeksActive": [
+    22,
+    30,
+    38
+  ],
+  "history": [
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 254,
+      "ms": 4011677,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 229,
+      "ms": 3246004,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 344,
+      "ms": 3659928,
+      "dish": "Pies"
+    }
+  ]
+}

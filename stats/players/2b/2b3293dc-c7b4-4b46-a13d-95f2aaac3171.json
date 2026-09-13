@@ -1,0 +1,42 @@
+{
+  "id": "2b3293dc-c7b4-4b46-a13d-95f2aaac3171",
+  "persona": "Lillabell Felix",
+  "names": [
+    "Lillabell Felix"
+  ],
+  "runs": 3,
+  "bestRank": 75,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2101123,
+  "weeksActive": [
+    43,
+    54,
+    61
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 94,
+      "ms": 2101123,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 336,
+      "ms": 7441796,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 75,
+      "ms": 2403018,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

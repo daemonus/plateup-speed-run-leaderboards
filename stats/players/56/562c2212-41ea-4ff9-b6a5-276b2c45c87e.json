@@ -1,0 +1,82 @@
+{
+  "id": "562c2212-41ea-4ff9-b6a5-276b2c45c87e",
+  "persona": "Zoopop",
+  "names": [
+    "Zoopop"
+  ],
+  "runs": 8,
+  "bestRank": 141,
+  "worstRank": 1187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2877989,
+  "weeksActive": [
+    -91,
+    34,
+    39,
+    40,
+    43,
+    52,
+    57,
+    86
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1187,
+      "ms": 3226809,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 323,
+      "ms": 4448177,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 212,
+      "ms": 4025113,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 141,
+      "ms": 3214710,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 329,
+      "ms": 2877989,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 267,
+      "ms": 2905548,
+      "dish": "Fish"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 180,
+      "ms": 3012384,
+      "dish": "Salad"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 400,
+      "ms": 3383999,
+      "dish": "Sundaes"
+    }
+  ]
+}

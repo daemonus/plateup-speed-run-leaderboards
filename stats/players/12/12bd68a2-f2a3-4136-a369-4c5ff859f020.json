@@ -1,0 +1,66 @@
+{
+  "id": "12bd68a2-f2a3-4136-a369-4c5ff859f020",
+  "persona": "BanaMilkShake",
+  "names": [
+    "BanaMilkShake"
+  ],
+  "runs": 6,
+  "bestRank": 60,
+  "worstRank": 296,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1399409,
+  "weeksActive": [
+    64,
+    65,
+    68,
+    70,
+    71,
+    83
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 296,
+      "ms": 2239841,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 256,
+      "ms": 3648071,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 285,
+      "ms": 2958616,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 183,
+      "ms": 3453825,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 248,
+      "ms": 3500976,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 60,
+      "ms": 1399409,
+      "dish": "Sundaes"
+    }
+  ]
+}

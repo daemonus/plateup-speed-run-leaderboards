@@ -1,0 +1,58 @@
+{
+  "id": "4b75608a-62c8-4238-9eee-bca6a7fa3c65",
+  "persona": "albaasca",
+  "names": [
+    "albaasca"
+  ],
+  "runs": 5,
+  "bestRank": 236,
+  "worstRank": 1141,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2963337,
+  "weeksActive": [
+    -90,
+    -86,
+    -84,
+    -78,
+    -77
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1141,
+      "ms": 4400832,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 459,
+      "ms": 2963337,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 566,
+      "ms": 3841823,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 236,
+      "ms": 3079382,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 301,
+      "ms": 3077308,
+      "dish": "Pies"
+    }
+  ]
+}

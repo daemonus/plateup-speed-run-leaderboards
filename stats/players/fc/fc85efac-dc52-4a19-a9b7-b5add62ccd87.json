@@ -1,0 +1,34 @@
+{
+  "id": "fc85efac-dc52-4a19-a9b7-b5add62ccd87",
+  "persona": "Awe",
+  "names": [
+    "Awe"
+  ],
+  "runs": 2,
+  "bestRank": 217,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3845112,
+  "weeksActive": [
+    -41,
+    -21
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 217,
+      "ms": 4262377,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 344,
+      "ms": 3845112,
+      "dish": "Pizza"
+    }
+  ]
+}

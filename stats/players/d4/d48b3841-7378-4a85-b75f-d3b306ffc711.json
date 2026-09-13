@@ -1,0 +1,42 @@
+{
+  "id": "d48b3841-7378-4a85-b75f-d3b306ffc711",
+  "persona": "amii",
+  "names": [
+    "amii"
+  ],
+  "runs": 3,
+  "bestRank": 97,
+  "worstRank": 143,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2035835,
+  "weeksActive": [
+    -27,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 143,
+      "ms": 3803131,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 134,
+      "ms": 2077686,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 97,
+      "ms": 2035835,
+      "dish": "Turkey"
+    }
+  ]
+}

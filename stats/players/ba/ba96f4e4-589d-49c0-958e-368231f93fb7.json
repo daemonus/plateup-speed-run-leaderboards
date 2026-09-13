@@ -1,0 +1,66 @@
+{
+  "id": "ba96f4e4-589d-49c0-958e-368231f93fb7",
+  "persona": "simonski",
+  "names": [
+    "simonski"
+  ],
+  "runs": 6,
+  "bestRank": 45,
+  "worstRank": 692,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1308423,
+  "weeksActive": [
+    -93,
+    -92,
+    -82,
+    18,
+    41,
+    85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 692,
+      "ms": 2257680,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 261,
+      "ms": 2777177,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 194,
+      "ms": 2438747,
+      "dish": "Fish"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 107,
+      "ms": 3061049,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 45,
+      "ms": 1308423,
+      "dish": "Turkey"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 108,
+      "ms": 2438009,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bf6d7fba-e196-4413-8bdb-d7afa438c250",
+  "persona": "JUNO",
+  "names": [
+    "JUNO"
+  ],
+  "runs": 3,
+  "bestRank": 439,
+  "worstRank": 690,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3311650,
+  "weeksActive": [
+    -37,
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 690,
+      "ms": 3861689,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 439,
+      "ms": 3410743,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 545,
+      "ms": 3311650,
+      "dish": "Turkey"
+    }
+  ]
+}

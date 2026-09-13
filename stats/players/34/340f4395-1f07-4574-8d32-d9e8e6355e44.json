@@ -1,0 +1,42 @@
+{
+  "id": "340f4395-1f07-4574-8d32-d9e8e6355e44",
+  "persona": "ShadowStrike",
+  "names": [
+    "ShadowStrike"
+  ],
+  "runs": 3,
+  "bestRank": 187,
+  "worstRank": 225,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3637891,
+  "weeksActive": [
+    25,
+    26,
+    39
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 204,
+      "ms": 5526820,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 225,
+      "ms": 3637891,
+      "dish": "Pizza"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 187,
+      "ms": 3812120,
+      "dish": "Stir Fry"
+    }
+  ]
+}

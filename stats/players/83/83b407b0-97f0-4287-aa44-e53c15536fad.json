@@ -1,0 +1,58 @@
+{
+  "id": "83b407b0-97f0-4287-aa44-e53c15536fad",
+  "persona": "Nina",
+  "names": [
+    "Nina"
+  ],
+  "runs": 5,
+  "bestRank": 243,
+  "worstRank": 644,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3582393,
+  "weeksActive": [
+    37,
+    43,
+    44,
+    60,
+    83
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 243,
+      "ms": 5286343,
+      "dish": "Burgers"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 615,
+      "ms": 3908563,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 446,
+      "ms": 4672375,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 298,
+      "ms": 4064801,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 644,
+      "ms": 3582393,
+      "dish": "Sundaes"
+    }
+  ]
+}

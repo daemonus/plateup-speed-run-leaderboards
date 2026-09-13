@@ -1,0 +1,42 @@
+{
+  "id": "2c55460c-1e53-4d07-a45a-8a224f0b3399",
+  "persona": "bexx",
+  "names": [
+    "bexx"
+  ],
+  "runs": 3,
+  "bestRank": 20,
+  "worstRank": 51,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1779080,
+  "weeksActive": [
+    59,
+    78,
+    85
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 51,
+      "ms": 2358324,
+      "dish": "Salad"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 20,
+      "ms": 1779080,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 30,
+      "ms": 1871281,
+      "dish": "Fish"
+    }
+  ]
+}

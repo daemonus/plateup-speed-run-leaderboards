@@ -1,0 +1,42 @@
+{
+  "id": "bb461073-70bd-417c-bca0-a742e578b887",
+  "persona": "wntr_wzl",
+  "names": [
+    "wntr_wzl"
+  ],
+  "runs": 3,
+  "bestRank": 11,
+  "worstRank": 42,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1257171,
+  "weeksActive": [
+    -94,
+    -86,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 11,
+      "ms": 1317429,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 23,
+      "ms": 1257171,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 42,
+      "ms": 1780860,
+      "dish": "Fish"
+    }
+  ]
+}

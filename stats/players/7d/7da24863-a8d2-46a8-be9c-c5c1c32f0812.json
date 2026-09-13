@@ -1,0 +1,74 @@
+{
+  "id": "7da24863-a8d2-46a8-be9c-c5c1c32f0812",
+  "persona": "kirara",
+  "names": [
+    "kirara"
+  ],
+  "runs": 7,
+  "bestRank": 6,
+  "worstRank": 69,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1145651,
+  "weeksActive": [
+    -39,
+    -38,
+    -21,
+    8,
+    38,
+    44,
+    49
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 65,
+      "ms": 2220316,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 6,
+      "ms": 1145651,
+      "dish": "Turkey"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 51,
+      "ms": 2267074,
+      "dish": "Pizza"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 29,
+      "ms": 1632366,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 69,
+      "ms": 2237971,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 28,
+      "ms": 2004046,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 11,
+      "ms": 2222042,
+      "dish": "Burgers"
+    }
+  ]
+}

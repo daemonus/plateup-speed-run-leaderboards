@@ -1,0 +1,50 @@
+{
+  "id": "e85a4f94-105c-4e78-88a7-07cac2f25eff",
+  "persona": "gynwizard",
+  "names": [
+    "gynwizard"
+  ],
+  "runs": 4,
+  "bestRank": 211,
+  "worstRank": 404,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3005594,
+  "weeksActive": [
+    1,
+    2,
+    3,
+    26
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 404,
+      "ms": 4689724,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 279,
+      "ms": 4045700,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 211,
+      "ms": 3005594,
+      "dish": "Fish"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 394,
+      "ms": 5795984,
+      "dish": "Pizza"
+    }
+  ]
+}

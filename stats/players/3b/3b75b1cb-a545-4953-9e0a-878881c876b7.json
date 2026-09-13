@@ -1,0 +1,42 @@
+{
+  "id": "3b75b1cb-a545-4953-9e0a-878881c876b7",
+  "persona": "Fer",
+  "names": [
+    "Fer"
+  ],
+  "runs": 3,
+  "bestRank": 164,
+  "worstRank": 345,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4511312,
+  "weeksActive": [
+    -66,
+    -65,
+    -64
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 294,
+      "ms": 5137396,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 164,
+      "ms": 6152143,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 345,
+      "ms": 4511312,
+      "dish": "Salad"
+    }
+  ]
+}

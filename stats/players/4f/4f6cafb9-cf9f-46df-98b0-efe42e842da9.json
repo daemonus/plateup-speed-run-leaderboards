@@ -1,0 +1,58 @@
+{
+  "id": "4f6cafb9-cf9f-46df-98b0-efe42e842da9",
+  "persona": "Yanglin",
+  "names": [
+    "Yanglin"
+  ],
+  "runs": 5,
+  "bestRank": 316,
+  "worstRank": 763,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3209787,
+  "weeksActive": [
+    -17,
+    -7,
+    12,
+    14,
+    83
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 316,
+      "ms": 4216282,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 330,
+      "ms": 6206836,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 387,
+      "ms": 3209787,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 333,
+      "ms": 4990413,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 763,
+      "ms": 4561037,
+      "dish": "Sundaes"
+    }
+  ]
+}

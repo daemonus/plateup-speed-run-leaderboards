@@ -1,0 +1,58 @@
+{
+  "id": "66e803bc-104e-4391-9980-9088ba0ccea6",
+  "persona": "PierreLapin",
+  "names": [
+    "PierreLapin"
+  ],
+  "runs": 5,
+  "bestRank": 235,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4662346,
+  "weeksActive": [
+    -58,
+    -57,
+    -56,
+    -50,
+    -41
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 288,
+      "ms": 7101707,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 316,
+      "ms": 5469267,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 479,
+      "ms": 5150829,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 235,
+      "ms": 4662346,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 373,
+      "ms": 5504386,
+      "dish": "Stir Fry"
+    }
+  ]
+}

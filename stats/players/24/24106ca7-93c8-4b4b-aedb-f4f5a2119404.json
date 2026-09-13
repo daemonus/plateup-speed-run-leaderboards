@@ -1,0 +1,34 @@
+{
+  "id": "24106ca7-93c8-4b4b-aedb-f4f5a2119404",
+  "persona": "CareBare",
+  "names": [
+    "CareBare"
+  ],
+  "runs": 2,
+  "bestRank": 205,
+  "worstRank": 251,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2392766,
+  "weeksActive": [
+    -46,
+    -30
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 251,
+      "ms": 3784044,
+      "dish": "Salad"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 205,
+      "ms": 2392766,
+      "dish": "Turkey"
+    }
+  ]
+}

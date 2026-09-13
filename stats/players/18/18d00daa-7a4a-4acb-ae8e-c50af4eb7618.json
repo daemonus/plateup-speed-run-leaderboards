@@ -1,0 +1,66 @@
+{
+  "id": "18d00daa-7a4a-4acb-ae8e-c50af4eb7618",
+  "persona": "lNl",
+  "names": [
+    "lNl"
+  ],
+  "runs": 6,
+  "bestRank": 33,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1491268,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -87,
+    -86,
+    13
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 79,
+      "ms": 1999181,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 76,
+      "ms": 1491268,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 51,
+      "ms": 1497372,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 33,
+      "ms": 2073716,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 89,
+      "ms": 1779387,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 414,
+      "ms": 3354941,
+      "dish": "Turkey"
+    }
+  ]
+}

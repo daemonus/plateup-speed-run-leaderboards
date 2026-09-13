@@ -1,0 +1,58 @@
+{
+  "id": "979aafe7-b754-4013-a2c7-c6849af6fb33",
+  "persona": "QueenOfDeath",
+  "names": [
+    "QueenOfDeath"
+  ],
+  "runs": 5,
+  "bestRank": 233,
+  "worstRank": 2538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2853014,
+  "weeksActive": [
+    -93,
+    -86,
+    -56,
+    -39,
+    -25
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2538,
+      "ms": 3680944,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 804,
+      "ms": 4442944,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 401,
+      "ms": 3900684,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 233,
+      "ms": 2853014,
+      "dish": "Pizza"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 622,
+      "ms": 5356412,
+      "dish": "Breakfast"
+    }
+  ]
+}

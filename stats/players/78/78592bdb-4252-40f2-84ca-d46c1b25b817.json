@@ -1,0 +1,34 @@
+{
+  "id": "78592bdb-4252-40f2-84ca-d46c1b25b817",
+  "persona": "\u0427\u0438\u043B\u043E\u0432\u044B\u0439 \u043F\u0430\u0440\u0435\u043D\u044C",
+  "names": [
+    "\u0427\u0438\u043B\u043E\u0432\u044B\u0439 \u043F\u0430\u0440\u0435\u043D\u044C"
+  ],
+  "runs": 2,
+  "bestRank": 139,
+  "worstRank": 205,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2376027,
+  "weeksActive": [
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 205,
+      "ms": 2376027,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 139,
+      "ms": 2458764,
+      "dish": "Fish"
+    }
+  ]
+}

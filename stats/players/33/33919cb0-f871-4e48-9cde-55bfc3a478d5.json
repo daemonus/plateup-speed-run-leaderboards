@@ -1,0 +1,34 @@
+{
+  "id": "33919cb0-f871-4e48-9cde-55bfc3a478d5",
+  "persona": "ggglol",
+  "names": [
+    "ggglol"
+  ],
+  "runs": 2,
+  "bestRank": 423,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2857430,
+  "weeksActive": [
+    -75,
+    -72
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 423,
+      "ms": 2857430,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 512,
+      "ms": 4194651,
+      "dish": "Pies"
+    }
+  ]
+}

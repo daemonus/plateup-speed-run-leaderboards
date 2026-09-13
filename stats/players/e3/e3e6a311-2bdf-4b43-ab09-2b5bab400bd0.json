@@ -1,0 +1,42 @@
+{
+  "id": "e3e6a311-2bdf-4b43-ab09-2b5bab400bd0",
+  "persona": "Kragar",
+  "names": [
+    "Kragar"
+  ],
+  "runs": 3,
+  "bestRank": 71,
+  "worstRank": 189,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2335096,
+  "weeksActive": [
+    10,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 71,
+      "ms": 3080093,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 189,
+      "ms": 2335096,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 152,
+      "ms": 2353043,
+      "dish": "Turkey"
+    }
+  ]
+}

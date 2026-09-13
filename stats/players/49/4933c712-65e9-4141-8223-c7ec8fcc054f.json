@@ -1,0 +1,50 @@
+{
+  "id": "4933c712-65e9-4141-8223-c7ec8fcc054f",
+  "persona": "zombonic",
+  "names": [
+    "zombonic"
+  ],
+  "runs": 4,
+  "bestRank": 308,
+  "worstRank": 758,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5072038,
+  "weeksActive": [
+    -51,
+    -50,
+    -46,
+    -39
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 758,
+      "ms": 9230462,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 308,
+      "ms": 6959391,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 576,
+      "ms": 6469743,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 726,
+      "ms": 5072038,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4f2794e9-3131-4c87-8fbe-6a5d64b8a4f9",
+  "persona": "akino",
+  "names": [
+    "akino"
+  ],
+  "runs": 2,
+  "bestRank": 206,
+  "worstRank": 321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1914123,
+  "weeksActive": [
+    -93,
+    -61
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 321,
+      "ms": 1914123,
+      "dish": "Fish"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 206,
+      "ms": 3122982,
+      "dish": "Fish"
+    }
+  ]
+}

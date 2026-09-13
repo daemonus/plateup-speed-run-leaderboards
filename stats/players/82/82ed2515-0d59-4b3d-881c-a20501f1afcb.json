@@ -1,0 +1,42 @@
+{
+  "id": "82ed2515-0d59-4b3d-881c-a20501f1afcb",
+  "persona": "Captain Gattor",
+  "names": [
+    "Captain Gattor"
+  ],
+  "runs": 3,
+  "bestRank": 242,
+  "worstRank": 319,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2882020,
+  "weeksActive": [
+    55,
+    58,
+    60
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 319,
+      "ms": 5030087,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 242,
+      "ms": 2882020,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 319,
+      "ms": 4218487,
+      "dish": "Burgers"
+    }
+  ]
+}

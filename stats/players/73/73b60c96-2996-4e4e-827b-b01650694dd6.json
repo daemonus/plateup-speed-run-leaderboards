@@ -1,0 +1,34 @@
+{
+  "id": "73b60c96-2996-4e4e-827b-b01650694dd6",
+  "persona": "Derp",
+  "names": [
+    "Derp"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3208401,
+  "weeksActive": [
+    51,
+    52
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 110,
+      "ms": 3279245,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 352,
+      "ms": 3208401,
+      "dish": "Fish"
+    }
+  ]
+}

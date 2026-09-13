@@ -1,0 +1,42 @@
+{
+  "id": "69d392ba-dda8-4acd-a050-d893434b116b",
+  "persona": "chen17400",
+  "names": [
+    "chen17400"
+  ],
+  "runs": 3,
+  "bestRank": 176,
+  "worstRank": 433,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2756890,
+  "weeksActive": [
+    41,
+    48,
+    49
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 433,
+      "ms": 2756890,
+      "dish": "Turkey"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 223,
+      "ms": 6970643,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 176,
+      "ms": 7278456,
+      "dish": "Burgers"
+    }
+  ]
+}

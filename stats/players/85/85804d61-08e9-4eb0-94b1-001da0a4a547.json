@@ -1,0 +1,42 @@
+{
+  "id": "85804d61-08e9-4eb0-94b1-001da0a4a547",
+  "persona": "k_msk",
+  "names": [
+    "k_msk"
+  ],
+  "runs": 3,
+  "bestRank": 286,
+  "worstRank": 515,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3165289,
+  "weeksActive": [
+    12,
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 373,
+      "ms": 3165289,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 286,
+      "ms": 3615451,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 515,
+      "ms": 4335903,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c8d93716-a230-4cb1-ac66-cf48fc550ba8",
+  "persona": "#Cookies",
+  "names": [
+    "#Cookies"
+  ],
+  "runs": 3,
+  "bestRank": 350,
+  "worstRank": 454,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3507701,
+  "weeksActive": [
+    -6,
+    52,
+    61
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 454,
+      "ms": 4563490,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 447,
+      "ms": 3507701,
+      "dish": "Fish"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 350,
+      "ms": 5252198,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

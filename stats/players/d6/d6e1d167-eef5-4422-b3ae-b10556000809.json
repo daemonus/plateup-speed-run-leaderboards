@@ -1,0 +1,34 @@
+{
+  "id": "d6e1d167-eef5-4422-b3ae-b10556000809",
+  "persona": "00Schneider ermittelt",
+  "names": [
+    "00Schneider ermittelt"
+  ],
+  "runs": 2,
+  "bestRank": 483,
+  "worstRank": 522,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4117606,
+  "weeksActive": [
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 522,
+      "ms": 4117606,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 483,
+      "ms": 4144212,
+      "dish": "Fish"
+    }
+  ]
+}

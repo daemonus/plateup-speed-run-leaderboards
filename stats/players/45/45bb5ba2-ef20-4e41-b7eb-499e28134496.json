@@ -1,0 +1,42 @@
+{
+  "id": "45bb5ba2-ef20-4e41-b7eb-499e28134496",
+  "persona": "Elryk",
+  "names": [
+    "Elryk"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3267601,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 442,
+      "ms": 4240208,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 405,
+      "ms": 3364579,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 249,
+      "ms": 3267601,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "22ca328a-df26-4b5d-8960-86c3f1618a20",
+  "persona": "Some Woodworker",
+  "names": [
+    "Some Woodworker"
+  ],
+  "runs": 5,
+  "bestRank": 85,
+  "worstRank": 267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2205120,
+  "weeksActive": [
+    3,
+    8,
+    9,
+    12,
+    17
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 92,
+      "ms": 2475727,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 134,
+      "ms": 2205120,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 267,
+      "ms": 3369219,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 185,
+      "ms": 2319534,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 85,
+      "ms": 2675413,
+      "dish": "Pizza"
+    }
+  ]
+}

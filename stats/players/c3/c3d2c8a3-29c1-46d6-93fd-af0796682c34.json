@@ -1,0 +1,58 @@
+{
+  "id": "c3d2c8a3-29c1-46d6-93fd-af0796682c34",
+  "persona": "BRIXDROPEMOFF",
+  "names": [
+    "BRIXDROPEMOFF"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2579188,
+  "weeksActive": [
+    40,
+    43,
+    45,
+    46,
+    58
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 277,
+      "ms": 4937743,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 240,
+      "ms": 2579188,
+      "dish": "Fish"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 133,
+      "ms": 3692541,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 255,
+      "ms": 3222957,
+      "dish": "Pizza"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 347,
+      "ms": 3364525,
+      "dish": "Turkey"
+    }
+  ]
+}

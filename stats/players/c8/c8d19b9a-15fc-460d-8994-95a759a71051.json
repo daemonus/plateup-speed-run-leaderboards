@@ -1,0 +1,34 @@
+{
+  "id": "c8d19b9a-15fc-460d-8994-95a759a71051",
+  "persona": "niels-bouman",
+  "names": [
+    "niels-bouman"
+  ],
+  "runs": 2,
+  "bestRank": 282,
+  "worstRank": 766,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2302312,
+  "weeksActive": [
+    -93,
+    -85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 766,
+      "ms": 2302312,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 282,
+      "ms": 5127145,
+      "dish": "Stir Fry"
+    }
+  ]
+}

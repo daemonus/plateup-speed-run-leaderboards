@@ -1,0 +1,34 @@
+{
+  "id": "9cb7aca4-5c35-489a-855b-e677969a2bbc",
+  "persona": "Something Witty",
+  "names": [
+    "Something Witty"
+  ],
+  "runs": 2,
+  "bestRank": 178,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2891414,
+  "weeksActive": [
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 178,
+      "ms": 3476200,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 187,
+      "ms": 2891414,
+      "dish": "Pizza"
+    }
+  ]
+}

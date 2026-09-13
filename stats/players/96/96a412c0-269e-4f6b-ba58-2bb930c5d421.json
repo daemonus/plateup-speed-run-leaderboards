@@ -1,0 +1,42 @@
+{
+  "id": "96a412c0-269e-4f6b-ba58-2bb930c5d421",
+  "persona": "merunegeese",
+  "names": [
+    "merunegeese"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 246,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2853153,
+  "weeksActive": [
+    -52,
+    -51,
+    -50
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 152,
+      "ms": 4119603,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 246,
+      "ms": 2853153,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 170,
+      "ms": 3998929,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

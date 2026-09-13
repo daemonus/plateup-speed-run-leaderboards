@@ -1,0 +1,42 @@
+{
+  "id": "1b5d31ca-2101-4ad9-8d60-66c2c683430f",
+  "persona": "niwa",
+  "names": [
+    "niwa"
+  ],
+  "runs": 3,
+  "bestRank": 289,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2296881,
+  "weeksActive": [
+    16,
+    20,
+    84
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 417,
+      "ms": 5166718,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 371,
+      "ms": 2827762,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 289,
+      "ms": 2296881,
+      "dish": "Sundaes"
+    }
+  ]
+}

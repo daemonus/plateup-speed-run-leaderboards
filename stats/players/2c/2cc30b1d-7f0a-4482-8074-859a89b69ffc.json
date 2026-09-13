@@ -1,0 +1,50 @@
+{
+  "id": "2cc30b1d-7f0a-4482-8074-859a89b69ffc",
+  "persona": "sammyspice",
+  "names": [
+    "sammyspice"
+  ],
+  "runs": 4,
+  "bestRank": 115,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2102204,
+  "weeksActive": [
+    -94,
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 210,
+      "ms": 2389299,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 325,
+      "ms": 2102204,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 424,
+      "ms": 2762601,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 115,
+      "ms": 2380774,
+      "dish": "Pies"
+    }
+  ]
+}

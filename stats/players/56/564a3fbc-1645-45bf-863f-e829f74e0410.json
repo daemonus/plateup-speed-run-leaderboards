@@ -1,0 +1,34 @@
+{
+  "id": "564a3fbc-1645-45bf-863f-e829f74e0410",
+  "persona": "Kosmo",
+  "names": [
+    "Kosmo"
+  ],
+  "runs": 2,
+  "bestRank": 230,
+  "worstRank": 498,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4034248,
+  "weeksActive": [
+    -27,
+    -16
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 230,
+      "ms": 4668742,
+      "dish": "Salad"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 498,
+      "ms": 4034248,
+      "dish": "Pies"
+    }
+  ]
+}

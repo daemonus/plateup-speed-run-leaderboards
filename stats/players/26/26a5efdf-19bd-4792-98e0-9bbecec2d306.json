@@ -1,0 +1,42 @@
+{
+  "id": "26a5efdf-19bd-4792-98e0-9bbecec2d306",
+  "persona": "phoebe.l.kindersley",
+  "names": [
+    "phoebe.l.kindersley"
+  ],
+  "runs": 3,
+  "bestRank": 188,
+  "worstRank": 784,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3747017,
+  "weeksActive": [
+    54,
+    56,
+    72
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 188,
+      "ms": 3791698,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 784,
+      "ms": 3747017,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 432,
+      "ms": 6193884,
+      "dish": "Breakfast"
+    }
+  ]
+}

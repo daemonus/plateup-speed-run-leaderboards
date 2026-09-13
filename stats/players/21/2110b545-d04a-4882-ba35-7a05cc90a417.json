@@ -1,0 +1,42 @@
+{
+  "id": "2110b545-d04a-4882-ba35-7a05cc90a417",
+  "persona": "Lenyeto",
+  "names": [
+    "Lenyeto"
+  ],
+  "runs": 3,
+  "bestRank": 290,
+  "worstRank": 434,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2077222,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 434,
+      "ms": 3240410,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 311,
+      "ms": 2077222,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 290,
+      "ms": 2244060,
+      "dish": "Fish"
+    }
+  ]
+}

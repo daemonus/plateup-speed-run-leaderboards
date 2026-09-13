@@ -1,0 +1,50 @@
+{
+  "id": "567b963d-19bf-447f-ba30-f498aa95d5a5",
+  "persona": "Judge Dredd",
+  "names": [
+    "Judge Dredd"
+  ],
+  "runs": 4,
+  "bestRank": 567,
+  "worstRank": 827,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4110473,
+  "weeksActive": [
+    -44,
+    -39,
+    -38,
+    -32
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 567,
+      "ms": 8949378,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 597,
+      "ms": 4110473,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 827,
+      "ms": 4922555,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 794,
+      "ms": 4120664,
+      "dish": "Breakfast"
+    }
+  ]
+}

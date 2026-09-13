@@ -1,0 +1,66 @@
+{
+  "id": "c97cf11f-3b6a-4b71-b6f1-9443a1e7f4db",
+  "persona": "GoBe_Goat",
+  "names": [
+    "GoBe_Goat"
+  ],
+  "runs": 6,
+  "bestRank": 252,
+  "worstRank": 736,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4296502,
+  "weeksActive": [
+    -60,
+    -59,
+    -58,
+    -57,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 474,
+      "ms": 5726919,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 736,
+      "ms": 6290063,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 252,
+      "ms": 5191130,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 276,
+      "ms": 4574099,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 432,
+      "ms": 4296502,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 527,
+      "ms": 6055445,
+      "dish": "Pizza"
+    }
+  ]
+}

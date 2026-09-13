@@ -1,0 +1,42 @@
+{
+  "id": "9fba2700-824c-463e-bffe-c40f00442448",
+  "persona": "Skysenberg",
+  "names": [
+    "Skysenberg"
+  ],
+  "runs": 3,
+  "bestRank": 283,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3683127,
+  "weeksActive": [
+    15,
+    16,
+    19
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 521,
+      "ms": 3683127,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 436,
+      "ms": 5295460,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 283,
+      "ms": 4108979,
+      "dish": "Pizza"
+    }
+  ]
+}

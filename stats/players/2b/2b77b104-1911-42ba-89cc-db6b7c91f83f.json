@@ -1,0 +1,66 @@
+{
+  "id": "2b77b104-1911-42ba-89cc-db6b7c91f83f",
+  "persona": "Alpha",
+  "names": [
+    "Alpha"
+  ],
+  "runs": 6,
+  "bestRank": 133,
+  "worstRank": 450,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2859123,
+  "weeksActive": [
+    -73,
+    -72,
+    -71,
+    -69,
+    -34,
+    59
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 133,
+      "ms": 3894226,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 450,
+      "ms": 4015483,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 303,
+      "ms": 2859123,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 286,
+      "ms": 4598355,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 424,
+      "ms": 4250973,
+      "dish": "Pies"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 297,
+      "ms": 3776872,
+      "dish": "Salad"
+    }
+  ]
+}

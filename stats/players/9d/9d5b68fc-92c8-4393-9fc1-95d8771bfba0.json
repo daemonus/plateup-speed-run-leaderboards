@@ -1,0 +1,42 @@
+{
+  "id": "9d5b68fc-92c8-4393-9fc1-95d8771bfba0",
+  "persona": "Patatouille",
+  "names": [
+    "Patatouille"
+  ],
+  "runs": 3,
+  "bestRank": 288,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2992585,
+  "weeksActive": [
+    -30,
+    -18,
+    52
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 521,
+      "ms": 3260229,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 331,
+      "ms": 3617294,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 288,
+      "ms": 2992585,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "560e9206-0323-40c0-b647-c6c436e49b2e",
+  "persona": "ms030624",
+  "names": [
+    "ms030624"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 873,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3126101,
+  "weeksActive": [
+    58,
+    64,
+    86
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 613,
+      "ms": 4830559,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 873,
+      "ms": 3991946,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 360,
+      "ms": 3126101,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "bf9c654b-70f3-44e4-8a80-55cb71bf4987",
+  "persona": "Blupblup",
+  "names": [
+    "Blupblup"
+  ],
+  "runs": 6,
+  "bestRank": 55,
+  "worstRank": 305,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2488694,
+  "weeksActive": [
+    -59,
+    -34,
+    -33,
+    18,
+    20,
+    62
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 276,
+      "ms": 3336851,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 249,
+      "ms": 3194075,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 55,
+      "ms": 2488694,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 228,
+      "ms": 4402944,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 305,
+      "ms": 2577412,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 186,
+      "ms": 2964957,
+      "dish": "Pies"
+    }
+  ]
+}

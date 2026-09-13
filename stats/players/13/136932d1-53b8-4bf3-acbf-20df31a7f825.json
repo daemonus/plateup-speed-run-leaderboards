@@ -1,0 +1,50 @@
+{
+  "id": "136932d1-53b8-4bf3-acbf-20df31a7f825",
+  "persona": "Stabien23",
+  "names": [
+    "Stabien23"
+  ],
+  "runs": 4,
+  "bestRank": 237,
+  "worstRank": 905,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5132436,
+  "weeksActive": [
+    -31,
+    -30,
+    -28,
+    -27
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 905,
+      "ms": 7277452,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 846,
+      "ms": 5132436,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 237,
+      "ms": 6844675,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 336,
+      "ms": 7601093,
+      "dish": "Salad"
+    }
+  ]
+}

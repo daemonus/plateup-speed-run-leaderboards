@@ -1,0 +1,42 @@
+{
+  "id": "be7d5517-4584-42a4-9e94-a33c6148a0ba",
+  "persona": "Ropack",
+  "names": [
+    "Ropack"
+  ],
+  "runs": 3,
+  "bestRank": 139,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290726,
+  "weeksActive": [
+    -67,
+    -66,
+    -65
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 260,
+      "ms": 3691071,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 186,
+      "ms": 3290726,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 139,
+      "ms": 4680720,
+      "dish": "Burgers"
+    }
+  ]
+}

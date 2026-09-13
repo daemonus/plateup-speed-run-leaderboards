@@ -1,0 +1,42 @@
+{
+  "id": "bcc6fde5-aa89-4580-86ff-b50b5b558624",
+  "persona": "liner",
+  "names": [
+    "liner"
+  ],
+  "runs": 3,
+  "bestRank": 132,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2557928,
+  "weeksActive": [
+    30,
+    31,
+    59
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 344,
+      "ms": 3918521,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 132,
+      "ms": 2557928,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 274,
+      "ms": 3678295,
+      "dish": "Salad"
+    }
+  ]
+}

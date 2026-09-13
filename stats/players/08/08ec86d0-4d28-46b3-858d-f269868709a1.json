@@ -1,0 +1,50 @@
+{
+  "id": "08ec86d0-4d28-46b3-858d-f269868709a1",
+  "persona": "\u30A6\u30ED\u30DC\u30ED\u30B9",
+  "names": [
+    "\u30A6\u30ED\u30DC\u30ED\u30B9"
+  ],
+  "runs": 4,
+  "bestRank": 61,
+  "worstRank": 381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2563325,
+  "weeksActive": [
+    -64,
+    -63,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 381,
+      "ms": 4795961,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 373,
+      "ms": 4030827,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 93,
+      "ms": 2563325,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 61,
+      "ms": 2694854,
+      "dish": "Burgers"
+    }
+  ]
+}

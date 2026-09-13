@@ -1,0 +1,42 @@
+{
+  "id": "a18874f2-1044-49e8-904c-656bb10b7592",
+  "persona": "\uC2DC\uBABD",
+  "names": [
+    "\uC2DC\uBABD"
+  ],
+  "runs": 3,
+  "bestRank": 237,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3138069,
+  "weeksActive": [
+    -72,
+    -71,
+    82
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 237,
+      "ms": 3241313,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 465,
+      "ms": 3138069,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 453,
+      "ms": 4242840,
+      "dish": "Pizza"
+    }
+  ]
+}

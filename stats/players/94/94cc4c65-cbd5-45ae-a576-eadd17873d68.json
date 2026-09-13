@@ -1,0 +1,42 @@
+{
+  "id": "94cc4c65-cbd5-45ae-a576-eadd17873d68",
+  "persona": "Zantag",
+  "names": [
+    "Zantag"
+  ],
+  "runs": 3,
+  "bestRank": 377,
+  "worstRank": 669,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3349693,
+  "weeksActive": [
+    55,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 377,
+      "ms": 6624000,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 669,
+      "ms": 3349693,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 403,
+      "ms": 4189188,
+      "dish": "Salad"
+    }
+  ]
+}

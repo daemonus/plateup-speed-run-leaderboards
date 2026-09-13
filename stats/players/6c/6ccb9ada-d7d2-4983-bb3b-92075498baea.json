@@ -1,0 +1,42 @@
+{
+  "id": "6ccb9ada-d7d2-4983-bb3b-92075498baea",
+  "persona": "DondoSadge",
+  "names": [
+    "DondoSadge"
+  ],
+  "runs": 3,
+  "bestRank": 161,
+  "worstRank": 834,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2336550,
+  "weeksActive": [
+    -94,
+    -93,
+    -59
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 682,
+      "ms": 3066512,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 834,
+      "ms": 2336550,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 161,
+      "ms": 2815747,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

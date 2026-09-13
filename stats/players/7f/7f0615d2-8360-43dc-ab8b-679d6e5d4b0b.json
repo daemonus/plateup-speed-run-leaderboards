@@ -1,0 +1,34 @@
+{
+  "id": "7f0615d2-8360-43dc-ab8b-679d6e5d4b0b",
+  "persona": "KMB",
+  "names": [
+    "KMB"
+  ],
+  "runs": 2,
+  "bestRank": 257,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4254565,
+  "weeksActive": [
+    -45,
+    -43
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 530,
+      "ms": 5264104,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 257,
+      "ms": 4254565,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

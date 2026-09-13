@@ -1,0 +1,42 @@
+{
+  "id": "10f655bc-fb9e-4cf5-b5f0-38e4836a74c6",
+  "persona": "EusT",
+  "names": [
+    "EusT"
+  ],
+  "runs": 3,
+  "bestRank": 195,
+  "worstRank": 328,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5314462,
+  "weeksActive": [
+    -14,
+    -13,
+    -11
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 289,
+      "ms": 5630092,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 328,
+      "ms": 5314462,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 195,
+      "ms": 5795914,
+      "dish": "Burgers"
+    }
+  ]
+}

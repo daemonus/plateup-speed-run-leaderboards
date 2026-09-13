@@ -1,0 +1,42 @@
+{
+  "id": "1f32b628-3297-475b-b4b7-5e4f33fef9ce",
+  "persona": "TheBaguette",
+  "names": [
+    "TheBaguette"
+  ],
+  "runs": 3,
+  "bestRank": 170,
+  "worstRank": 269,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2970176,
+  "weeksActive": [
+    9,
+    28,
+    30
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 269,
+      "ms": 3380262,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 269,
+      "ms": 3258683,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 170,
+      "ms": 2970176,
+      "dish": "Breakfast"
+    }
+  ]
+}

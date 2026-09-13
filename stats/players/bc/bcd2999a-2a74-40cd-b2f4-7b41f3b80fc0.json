@@ -1,0 +1,50 @@
+{
+  "id": "bcd2999a-2a74-40cd-b2f4-7b41f3b80fc0",
+  "persona": "liebig1997",
+  "names": [
+    "liebig1997"
+  ],
+  "runs": 4,
+  "bestRank": 103,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2702226,
+  "weeksActive": [
+    5,
+    8,
+    9,
+    10
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 426,
+      "ms": 4803112,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 274,
+      "ms": 2702226,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 535,
+      "ms": 12855551,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 103,
+      "ms": 3317450,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

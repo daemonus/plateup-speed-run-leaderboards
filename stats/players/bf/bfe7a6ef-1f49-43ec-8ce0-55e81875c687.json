@@ -1,0 +1,50 @@
+{
+  "id": "bfe7a6ef-1f49-43ec-8ce0-55e81875c687",
+  "persona": "MrNeato",
+  "names": [
+    "MrNeato"
+  ],
+  "runs": 4,
+  "bestRank": 48,
+  "worstRank": 102,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2250229,
+  "weeksActive": [
+    -59,
+    -58,
+    -57,
+    -56
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 102,
+      "ms": 2522915,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 90,
+      "ms": 3261347,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 48,
+      "ms": 2539807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 76,
+      "ms": 2250229,
+      "dish": "Breakfast"
+    }
+  ]
+}

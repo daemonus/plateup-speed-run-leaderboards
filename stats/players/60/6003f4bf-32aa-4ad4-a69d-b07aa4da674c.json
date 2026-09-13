@@ -1,0 +1,50 @@
+{
+  "id": "6003f4bf-32aa-4ad4-a69d-b07aa4da674c",
+  "persona": "ClpHewitt",
+  "names": [
+    "ClpHewitt"
+  ],
+  "runs": 4,
+  "bestRank": 169,
+  "worstRank": 409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2022565,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -39
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 297,
+      "ms": 2545583,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 409,
+      "ms": 2022565,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 169,
+      "ms": 2447300,
+      "dish": "Steak"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 181,
+      "ms": 2721398,
+      "dish": "Pizza"
+    }
+  ]
+}

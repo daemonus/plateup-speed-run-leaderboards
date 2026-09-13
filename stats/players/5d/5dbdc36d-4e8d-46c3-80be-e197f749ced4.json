@@ -1,0 +1,42 @@
+{
+  "id": "5dbdc36d-4e8d-46c3-80be-e197f749ced4",
+  "persona": "YAng",
+  "names": [
+    "YAng"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3569855,
+  "weeksActive": [
+    -53,
+    -51,
+    -50
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 149,
+      "ms": 3569855,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 503,
+      "ms": 3726975,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 221,
+      "ms": 4465892,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

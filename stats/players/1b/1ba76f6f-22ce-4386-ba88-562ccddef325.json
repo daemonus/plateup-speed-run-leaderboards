@@ -1,0 +1,34 @@
+{
+  "id": "1ba76f6f-22ce-4386-ba88-562ccddef325",
+  "persona": "blinksee",
+  "names": [
+    "blinksee"
+  ],
+  "runs": 2,
+  "bestRank": 19,
+  "worstRank": 45,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2053899,
+  "weeksActive": [
+    -55,
+    -46
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 19,
+      "ms": 2053899,
+      "dish": "Pizza"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 45,
+      "ms": 2657402,
+      "dish": "Salad"
+    }
+  ]
+}

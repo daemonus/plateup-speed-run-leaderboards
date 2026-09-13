@@ -1,0 +1,50 @@
+{
+  "id": "2cbedce1-23ca-4dbf-b42f-0791782fedcb",
+  "persona": "Gr33ny",
+  "names": [
+    "Gr33ny"
+  ],
+  "runs": 4,
+  "bestRank": 77,
+  "worstRank": 139,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2393382,
+  "weeksActive": [
+    -7,
+    -5,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 77,
+      "ms": 3259203,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 93,
+      "ms": 3000993,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 111,
+      "ms": 2596446,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 139,
+      "ms": 2393382,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "3275badd-3c1c-4043-a951-4108ce137aa2",
+  "persona": "ANE",
+  "names": [
+    "ANE"
+  ],
+  "runs": 8,
+  "bestRank": 111,
+  "worstRank": 316,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2901668,
+  "weeksActive": [
+    -67,
+    -66,
+    -63,
+    -61,
+    -56,
+    -47,
+    -39,
+    -33
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 316,
+      "ms": 3924798,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 174,
+      "ms": 3196766,
+      "dish": "Turkey"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 232,
+      "ms": 3482475,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 168,
+      "ms": 2934545,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 227,
+      "ms": 3052483,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 128,
+      "ms": 3155235,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 271,
+      "ms": 2965073,
+      "dish": "Pizza"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 111,
+      "ms": 2901668,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

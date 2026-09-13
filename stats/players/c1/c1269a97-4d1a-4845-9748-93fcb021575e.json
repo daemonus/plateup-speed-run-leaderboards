@@ -1,0 +1,42 @@
+{
+  "id": "c1269a97-4d1a-4845-9748-93fcb021575e",
+  "persona": "wolfwiththeredcollar",
+  "names": [
+    "wolfwiththeredcollar"
+  ],
+  "runs": 3,
+  "bestRank": 587,
+  "worstRank": 1361,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2834579,
+  "weeksActive": [
+    -91,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1361,
+      "ms": 3503626,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 587,
+      "ms": 2834579,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 689,
+      "ms": 4494706,
+      "dish": "Pies"
+    }
+  ]
+}

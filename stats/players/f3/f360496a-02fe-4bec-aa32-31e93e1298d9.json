@@ -1,0 +1,42 @@
+{
+  "id": "f360496a-02fe-4bec-aa32-31e93e1298d9",
+  "persona": "seulgicult",
+  "names": [
+    "seulgicult"
+  ],
+  "runs": 3,
+  "bestRank": 397,
+  "worstRank": 451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3368868,
+  "weeksActive": [
+    -67,
+    53,
+    86
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 451,
+      "ms": 4551963,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 437,
+      "ms": 4906478,
+      "dish": "Pies"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 397,
+      "ms": 3368868,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3ceac6ec-a65d-4f55-9940-1773a8692a79",
+  "persona": "Kern",
+  "names": [
+    "Kern"
+  ],
+  "runs": 3,
+  "bestRank": 586,
+  "worstRank": 893,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5913387,
+  "weeksActive": [
+    -88,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 893,
+      "ms": 6263751,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 586,
+      "ms": 5913387,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 851,
+      "ms": 6198693,
+      "dish": "Fish"
+    }
+  ]
+}

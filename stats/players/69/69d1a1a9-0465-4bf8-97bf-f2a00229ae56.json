@@ -1,0 +1,42 @@
+{
+  "id": "69d1a1a9-0465-4bf8-97bf-f2a00229ae56",
+  "persona": "n.rezagv",
+  "names": [
+    "n.rezagv"
+  ],
+  "runs": 3,
+  "bestRank": 279,
+  "worstRank": 734,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3120866,
+  "weeksActive": [
+    -94,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 734,
+      "ms": 3120866,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 379,
+      "ms": 3284218,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 279,
+      "ms": 3625791,
+      "dish": "Pies"
+    }
+  ]
+}

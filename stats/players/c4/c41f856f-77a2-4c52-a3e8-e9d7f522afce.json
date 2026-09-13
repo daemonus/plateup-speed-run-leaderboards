@@ -1,0 +1,34 @@
+{
+  "id": "c41f856f-77a2-4c52-a3e8-e9d7f522afce",
+  "persona": "Broccoli",
+  "names": [
+    "Broccoli"
+  ],
+  "runs": 2,
+  "bestRank": 508,
+  "worstRank": 782,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3603482,
+  "weeksActive": [
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 782,
+      "ms": 4160975,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 508,
+      "ms": 3603482,
+      "dish": "Fish"
+    }
+  ]
+}

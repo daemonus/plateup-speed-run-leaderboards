@@ -1,0 +1,42 @@
+{
+  "id": "c96d4bd7-502d-4ddf-af5d-9323f3271c47",
+  "persona": "skittalicious",
+  "names": [
+    "skittalicious"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3283526,
+  "weeksActive": [
+    -64,
+    -23,
+    55
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 376,
+      "ms": 4775805,
+      "dish": "Salad"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 125,
+      "ms": 3283526,
+      "dish": "Pizza"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 264,
+      "ms": 4404717,
+      "dish": "Stir Fry"
+    }
+  ]
+}

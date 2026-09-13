@@ -1,0 +1,50 @@
+{
+  "id": "8b42e3d7-1da0-4937-8e92-b0117bdcd4c4",
+  "persona": "ghostbeebs",
+  "names": [
+    "ghostbeebs"
+  ],
+  "runs": 4,
+  "bestRank": 237,
+  "worstRank": 538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3169373,
+  "weeksActive": [
+    41,
+    42,
+    44,
+    47
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 538,
+      "ms": 3169373,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 237,
+      "ms": 4661392,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 306,
+      "ms": 3499899,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 315,
+      "ms": 4546174,
+      "dish": "Pizza"
+    }
+  ]
+}

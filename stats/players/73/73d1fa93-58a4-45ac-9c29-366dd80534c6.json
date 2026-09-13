@@ -1,0 +1,58 @@
+{
+  "id": "73d1fa93-58a4-45ac-9c29-366dd80534c6",
+  "persona": "Th3Architect",
+  "names": [
+    "Th3Architect"
+  ],
+  "runs": 5,
+  "bestRank": 18,
+  "worstRank": 110,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1555962,
+  "weeksActive": [
+    -87,
+    -86,
+    -85,
+    -79,
+    33
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 68,
+      "ms": 2314702,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 54,
+      "ms": 1555962,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 35,
+      "ms": 2218060,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 18,
+      "ms": 1918872,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 110,
+      "ms": 3121473,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

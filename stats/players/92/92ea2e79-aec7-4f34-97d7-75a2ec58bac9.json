@@ -1,0 +1,58 @@
+{
+  "id": "92ea2e79-aec7-4f34-97d7-75a2ec58bac9",
+  "persona": "Claudiahq",
+  "names": [
+    "Claudiahq"
+  ],
+  "runs": 5,
+  "bestRank": 104,
+  "worstRank": 806,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2319868,
+  "weeksActive": [
+    -92,
+    -90,
+    -84,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 382,
+      "ms": 3103227,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 806,
+      "ms": 3240822,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 146,
+      "ms": 2321483,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 156,
+      "ms": 2319868,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 104,
+      "ms": 3023411,
+      "dish": "Steak"
+    }
+  ]
+}

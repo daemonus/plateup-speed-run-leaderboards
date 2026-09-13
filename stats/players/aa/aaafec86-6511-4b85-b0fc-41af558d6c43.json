@@ -1,0 +1,66 @@
+{
+  "id": "aaafec86-6511-4b85-b0fc-41af558d6c43",
+  "persona": "McGoblin",
+  "names": [
+    "McGoblin"
+  ],
+  "runs": 6,
+  "bestRank": 12,
+  "worstRank": 170,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1705299,
+  "weeksActive": [
+    -64,
+    -62,
+    -51,
+    -47,
+    -39,
+    5
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 149,
+      "ms": 3202800,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 163,
+      "ms": 2974737,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 170,
+      "ms": 2601950,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 156,
+      "ms": 3295402,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 12,
+      "ms": 1705299,
+      "dish": "Pizza"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 151,
+      "ms": 3248286,
+      "dish": "Breakfast"
+    }
+  ]
+}

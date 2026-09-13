@@ -1,0 +1,50 @@
+{
+  "id": "36d59f99-dee4-4ecc-b09a-d89d7640ca8d",
+  "persona": "Moooggi",
+  "names": [
+    "Moooggi"
+  ],
+  "runs": 4,
+  "bestRank": 397,
+  "worstRank": 1179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2565572,
+  "weeksActive": [
+    -93,
+    -92,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1179,
+      "ms": 2580141,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 480,
+      "ms": 3401332,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 445,
+      "ms": 2565572,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 397,
+      "ms": 2711333,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "314b6425-ab2b-45eb-a764-13c77da3d730",
+  "persona": "VRose",
+  "names": [
+    "VRose"
+  ],
+  "runs": 3,
+  "bestRank": 105,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3519718,
+  "weeksActive": [
+    -70,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 323,
+      "ms": 4089743,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 105,
+      "ms": 3519718,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 160,
+      "ms": 3613570,
+      "dish": "Salad"
+    }
+  ]
+}

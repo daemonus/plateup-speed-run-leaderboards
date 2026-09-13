@@ -1,0 +1,50 @@
+{
+  "id": "217174e5-be50-463d-ac2d-0365cbcd965d",
+  "persona": "BBBEEE",
+  "names": [
+    "BBBEEE"
+  ],
+  "runs": 4,
+  "bestRank": 133,
+  "worstRank": 608,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3262955,
+  "weeksActive": [
+    -66,
+    -65,
+    -64,
+    -51
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 183,
+      "ms": 3262955,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 133,
+      "ms": 4490088,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 265,
+      "ms": 3843917,
+      "dish": "Salad"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 608,
+      "ms": 4175019,
+      "dish": "Turkey"
+    }
+  ]
+}

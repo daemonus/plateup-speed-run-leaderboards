@@ -1,0 +1,66 @@
+{
+  "id": "5fc0a59b-99e8-41d2-a190-f015e4491eca",
+  "persona": "shithead",
+  "names": [
+    "shithead"
+  ],
+  "runs": 6,
+  "bestRank": 198,
+  "worstRank": 1464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2434010,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -88,
+    -74,
+    -72
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1464,
+      "ms": 2771696,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 591,
+      "ms": 2434010,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 477,
+      "ms": 2627922,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 427,
+      "ms": 3434641,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 198,
+      "ms": 3135623,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 396,
+      "ms": 3848633,
+      "dish": "Pies"
+    }
+  ]
+}

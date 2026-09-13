@@ -1,0 +1,42 @@
+{
+  "id": "eafac5f3-5bce-438a-b721-39658c5b1445",
+  "persona": "DarkUmbreon",
+  "names": [
+    "DarkUmbreon"
+  ],
+  "runs": 3,
+  "bestRank": 157,
+  "worstRank": 1023,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2458810,
+  "weeksActive": [
+    -91,
+    75,
+    77
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1023,
+      "ms": 2985301,
+      "dish": "Fish"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 157,
+      "ms": 3216985,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 176,
+      "ms": 2458810,
+      "dish": "Sundaes"
+    }
+  ]
+}

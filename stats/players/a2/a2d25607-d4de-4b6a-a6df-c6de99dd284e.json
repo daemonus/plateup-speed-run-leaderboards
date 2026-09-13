@@ -1,0 +1,58 @@
+{
+  "id": "a2d25607-d4de-4b6a-a6df-c6de99dd284e",
+  "persona": "\u3053\u3075\u3086_cofuyu",
+  "names": [
+    "\u3053\u3075\u3086_cofuyu"
+  ],
+  "runs": 5,
+  "bestRank": 80,
+  "worstRank": 604,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2485281,
+  "weeksActive": [
+    54,
+    55,
+    56,
+    69,
+    71
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 317,
+      "ms": 5467981,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 290,
+      "ms": 4694373,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 604,
+      "ms": 3079193,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 298,
+      "ms": 6384133,
+      "dish": "Burgers"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 80,
+      "ms": 2485281,
+      "dish": "Pizza"
+    }
+  ]
+}

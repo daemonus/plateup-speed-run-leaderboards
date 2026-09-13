@@ -1,0 +1,50 @@
+{
+  "id": "d5eedd0b-9bdc-4782-859c-3381c2c1b458",
+  "persona": "Azrealics",
+  "names": [
+    "Azrealics"
+  ],
+  "runs": 4,
+  "bestRank": 245,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3050104,
+  "weeksActive": [
+    30,
+    31,
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 389,
+      "ms": 4226545,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 245,
+      "ms": 3118983,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 407,
+      "ms": 6708850,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 270,
+      "ms": 3050104,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "a1adae21-b083-4b31-8fd2-fef6d4111a4f",
+  "persona": "FlourPower99",
+  "names": [
+    "FlourPower99"
+  ],
+  "runs": 4,
+  "bestRank": 173,
+  "worstRank": 502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1995657,
+  "weeksActive": [
+    53,
+    56,
+    64,
+    68
+  ],
+  "history": [
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 173,
+      "ms": 3073934,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 502,
+      "ms": 2781986,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 216,
+      "ms": 1995657,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 312,
+      "ms": 3089242,
+      "dish": "Turkey"
+    }
+  ]
+}

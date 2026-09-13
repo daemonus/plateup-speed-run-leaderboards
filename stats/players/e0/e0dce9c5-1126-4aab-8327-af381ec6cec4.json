@@ -1,0 +1,42 @@
+{
+  "id": "e0dce9c5-1126-4aab-8327-af381ec6cec4",
+  "persona": "Lamball",
+  "names": [
+    "Lamball"
+  ],
+  "runs": 3,
+  "bestRank": 59,
+  "worstRank": 172,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1562784,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 100,
+      "ms": 1687626,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 59,
+      "ms": 1562784,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 172,
+      "ms": 2097833,
+      "dish": "Pies"
+    }
+  ]
+}

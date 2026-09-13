@@ -1,0 +1,34 @@
+{
+  "id": "311b1574-03df-43a3-93dd-22fd1640f973",
+  "persona": "Fatty",
+  "names": [
+    "Fatty"
+  ],
+  "runs": 2,
+  "bestRank": 135,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2164443,
+  "weeksActive": [
+    -53,
+    15
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 256,
+      "ms": 4165393,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 135,
+      "ms": 2164443,
+      "dish": "Turkey"
+    }
+  ]
+}

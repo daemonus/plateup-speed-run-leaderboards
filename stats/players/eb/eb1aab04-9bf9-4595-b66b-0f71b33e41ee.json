@@ -1,0 +1,34 @@
+{
+  "id": "eb1aab04-9bf9-4595-b66b-0f71b33e41ee",
+  "persona": "kotatu",
+  "names": [
+    "kotatu"
+  ],
+  "runs": 2,
+  "bestRank": 409,
+  "worstRank": 498,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4465719,
+  "weeksActive": [
+    -70,
+    -67
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 409,
+      "ms": 4465719,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 498,
+      "ms": 4831913,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3d1a1ddb-a000-4180-a1fe-3f9eb2450eee",
+  "persona": "Cascade",
+  "names": [
+    "Cascade"
+  ],
+  "runs": 2,
+  "bestRank": 307,
+  "worstRank": 781,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4068129,
+  "weeksActive": [
+    -18,
+    -17
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 781,
+      "ms": 5884141,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 307,
+      "ms": 4068129,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

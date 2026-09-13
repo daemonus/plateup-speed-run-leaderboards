@@ -1,0 +1,42 @@
+{
+  "id": "a5f6442c-4880-44e0-958e-11a84f356d62",
+  "persona": "Daniel Chang",
+  "names": [
+    "Daniel Chang"
+  ],
+  "runs": 3,
+  "bestRank": 83,
+  "worstRank": 230,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2377692,
+  "weeksActive": [
+    -36,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 119,
+      "ms": 4984500,
+      "dish": "Burgers"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 230,
+      "ms": 3593798,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 83,
+      "ms": 2377692,
+      "dish": "Breakfast"
+    }
+  ]
+}

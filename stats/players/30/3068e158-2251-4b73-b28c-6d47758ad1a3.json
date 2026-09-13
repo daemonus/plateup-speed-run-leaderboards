@@ -1,0 +1,42 @@
+{
+  "id": "3068e158-2251-4b73-b28c-6d47758ad1a3",
+  "persona": "frankie",
+  "names": [
+    "frankie"
+  ],
+  "runs": 3,
+  "bestRank": 70,
+  "worstRank": 1356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2295215,
+  "weeksActive": [
+    -94,
+    -93,
+    61
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1356,
+      "ms": 3927510,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 758,
+      "ms": 2295215,
+      "dish": "Fish"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 70,
+      "ms": 2366221,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

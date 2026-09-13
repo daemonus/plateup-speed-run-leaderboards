@@ -1,0 +1,42 @@
+{
+  "id": "eea07479-22f9-4044-bedf-dd5f14248eb8",
+  "persona": "Squidward",
+  "names": [
+    "Squidward"
+  ],
+  "runs": 3,
+  "bestRank": 62,
+  "worstRank": 137,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2492913,
+  "weeksActive": [
+    -68,
+    -67,
+    -63
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 103,
+      "ms": 3157075,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 137,
+      "ms": 3185815,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 62,
+      "ms": 2492913,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "03874d60-0890-4d17-89a0-f31cff8162f0",
+  "persona": "Mini",
+  "names": [
+    "Mini"
+  ],
+  "runs": 2,
+  "bestRank": 370,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2431084,
+  "weeksActive": [
+    24,
+    64
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 456,
+      "ms": 4608652,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 370,
+      "ms": 2431084,
+      "dish": "Sundaes"
+    }
+  ]
+}

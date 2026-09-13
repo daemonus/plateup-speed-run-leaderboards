@@ -1,0 +1,58 @@
+{
+  "id": "0453f843-59b6-42d8-96ad-2d020ab95712",
+  "persona": "People You Know",
+  "names": [
+    "People You Know"
+  ],
+  "runs": 5,
+  "bestRank": 151,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3520283,
+  "weeksActive": [
+    -49,
+    -48,
+    -47,
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 211,
+      "ms": 4453605,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 151,
+      "ms": 10458804,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 410,
+      "ms": 4721807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 467,
+      "ms": 4924629,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 307,
+      "ms": 3520283,
+      "dish": "Breakfast"
+    }
+  ]
+}

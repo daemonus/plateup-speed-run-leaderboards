@@ -1,0 +1,42 @@
+{
+  "id": "c39030c3-d694-4556-b1bf-876b6e167d9b",
+  "persona": "yukio",
+  "names": [
+    "yukio"
+  ],
+  "runs": 3,
+  "bestRank": 237,
+  "worstRank": 304,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3260831,
+  "weeksActive": [
+    24,
+    36,
+    71
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 237,
+      "ms": 3271403,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 304,
+      "ms": 3260831,
+      "dish": "Fish"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 240,
+      "ms": 3462938,
+      "dish": "Pizza"
+    }
+  ]
+}

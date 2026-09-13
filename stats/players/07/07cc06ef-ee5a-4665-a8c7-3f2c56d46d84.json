@@ -1,0 +1,42 @@
+{
+  "id": "07cc06ef-ee5a-4665-a8c7-3f2c56d46d84",
+  "persona": "chomi_3",
+  "names": [
+    "chomi_3"
+  ],
+  "runs": 3,
+  "bestRank": 220,
+  "worstRank": 734,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2691201,
+  "weeksActive": [
+    -32,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 734,
+      "ms": 3985675,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 220,
+      "ms": 3063889,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 307,
+      "ms": 2691201,
+      "dish": "Turkey"
+    }
+  ]
+}

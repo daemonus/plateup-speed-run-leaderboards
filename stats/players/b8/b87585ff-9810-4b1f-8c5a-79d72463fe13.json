@@ -1,0 +1,42 @@
+{
+  "id": "b87585ff-9810-4b1f-8c5a-79d72463fe13",
+  "persona": "ryan",
+  "names": [
+    "ryan"
+  ],
+  "runs": 3,
+  "bestRank": 52,
+  "worstRank": 173,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2225899,
+  "weeksActive": [
+    -23,
+    -22,
+    12
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 52,
+      "ms": 2643300,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 74,
+      "ms": 3028423,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 173,
+      "ms": 2225899,
+      "dish": "Turkey"
+    }
+  ]
+}

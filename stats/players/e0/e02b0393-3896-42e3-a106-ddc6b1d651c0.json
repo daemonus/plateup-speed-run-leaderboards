@@ -1,0 +1,82 @@
+{
+  "id": "e02b0393-3896-42e3-a106-ddc6b1d651c0",
+  "persona": "Rotten Apple",
+  "names": [
+    "Rotten Apple"
+  ],
+  "runs": 8,
+  "bestRank": 146,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2111129,
+  "weeksActive": [
+    35,
+    43,
+    60,
+    66,
+    75,
+    80,
+    81,
+    83
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 345,
+      "ms": 4320324,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 461,
+      "ms": 3257164,
+      "dish": "Fish"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 277,
+      "ms": 3873577,
+      "dish": "Burgers"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 255,
+      "ms": 3221947,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 219,
+      "ms": 3726452,
+      "dish": "Pies"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 205,
+      "ms": 3277872,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 146,
+      "ms": 3263813,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 231,
+      "ms": 2111129,
+      "dish": "Sundaes"
+    }
+  ]
+}

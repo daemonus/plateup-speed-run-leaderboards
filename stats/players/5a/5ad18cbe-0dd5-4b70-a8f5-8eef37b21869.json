@@ -1,0 +1,50 @@
+{
+  "id": "5ad18cbe-0dd5-4b70-a8f5-8eef37b21869",
+  "persona": "Schrodinger",
+  "names": [
+    "Schrodinger"
+  ],
+  "runs": 4,
+  "bestRank": 209,
+  "worstRank": 316,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2407445,
+  "weeksActive": [
+    -71,
+    -34,
+    28,
+    84
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 209,
+      "ms": 2584291,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 316,
+      "ms": 3562271,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 304,
+      "ms": 3470957,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 316,
+      "ms": 2407445,
+      "dish": "Sundaes"
+    }
+  ]
+}

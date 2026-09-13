@@ -1,0 +1,50 @@
+{
+  "id": "e49cb2fc-dd58-40c6-8055-a236e152bc31",
+  "persona": "Klerriby",
+  "names": [
+    "Klerriby"
+  ],
+  "runs": 4,
+  "bestRank": 250,
+  "worstRank": 599,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2099942,
+  "weeksActive": [
+    35,
+    36,
+    43,
+    64
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 327,
+      "ms": 4122757,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 449,
+      "ms": 5033036,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 599,
+      "ms": 3847528,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 250,
+      "ms": 2099942,
+      "dish": "Sundaes"
+    }
+  ]
+}

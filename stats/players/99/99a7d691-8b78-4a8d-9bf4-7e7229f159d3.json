@@ -1,0 +1,42 @@
+{
+  "id": "99a7d691-8b78-4a8d-9bf4-7e7229f159d3",
+  "persona": "KingToDeath",
+  "names": [
+    "KingToDeath"
+  ],
+  "runs": 3,
+  "bestRank": 67,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2357674,
+  "weeksActive": [
+    -56,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 336,
+      "ms": 3546734,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 67,
+      "ms": 2357674,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 212,
+      "ms": 3378143,
+      "dish": "Burgers"
+    }
+  ]
+}

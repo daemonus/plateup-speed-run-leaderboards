@@ -1,0 +1,34 @@
+{
+  "id": "8db8ff48-c4d2-426d-9d28-230f05699567",
+  "persona": "Karma",
+  "names": [
+    "Karma"
+  ],
+  "runs": 2,
+  "bestRank": 808,
+  "worstRank": 904,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4380139,
+  "weeksActive": [
+    -38,
+    -32
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 808,
+      "ms": 4651608,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 904,
+      "ms": 4380139,
+      "dish": "Breakfast"
+    }
+  ]
+}

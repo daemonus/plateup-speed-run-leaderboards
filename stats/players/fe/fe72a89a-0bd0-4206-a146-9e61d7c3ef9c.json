@@ -1,0 +1,66 @@
+{
+  "id": "fe72a89a-0bd0-4206-a146-9e61d7c3ef9c",
+  "persona": "dottyd",
+  "names": [
+    "dottyd"
+  ],
+  "runs": 6,
+  "bestRank": 483,
+  "worstRank": 2298,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3190161,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1616,
+      "ms": 4602306,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2298,
+      "ms": 3397804,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1166,
+      "ms": 3190161,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 810,
+      "ms": 3250474,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 483,
+      "ms": 4143812,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 499,
+      "ms": 3447684,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "199fa55e-4bbb-4173-8b80-bd209713c4b5",
+  "persona": "Riovad",
+  "names": [
+    "Riovad"
+  ],
+  "runs": 3,
+  "bestRank": 239,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2720480,
+  "weeksActive": [
+    5,
+    7,
+    8
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 239,
+      "ms": 3716473,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 362,
+      "ms": 3957856,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 278,
+      "ms": 2720480,
+      "dish": "Fish"
+    }
+  ]
+}

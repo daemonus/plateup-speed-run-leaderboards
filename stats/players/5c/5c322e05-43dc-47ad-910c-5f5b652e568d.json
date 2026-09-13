@@ -1,0 +1,58 @@
+{
+  "id": "5c322e05-43dc-47ad-910c-5f5b652e568d",
+  "persona": "bbprincess",
+  "names": [
+    "bbprincess"
+  ],
+  "runs": 5,
+  "bestRank": 191,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2704582,
+  "weeksActive": [
+    -63,
+    -61,
+    -60,
+    -56,
+    -51
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 414,
+      "ms": 4242646,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 191,
+      "ms": 3064212,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 323,
+      "ms": 4170754,
+      "dish": "Burgers"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 413,
+      "ms": 4022513,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 201,
+      "ms": 2704582,
+      "dish": "Turkey"
+    }
+  ]
+}

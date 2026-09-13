@@ -1,0 +1,42 @@
+{
+  "id": "a806170a-3d47-4508-aa05-a2866ff6dcd4",
+  "persona": "aaa\u53EF\u53EF\u725B\u5976\u8D29\u5356\u5546",
+  "names": [
+    "aaa\u53EF\u53EF\u725B\u5976\u8D29\u5356\u5546"
+  ],
+  "runs": 3,
+  "bestRank": 189,
+  "worstRank": 631,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5007859,
+  "weeksActive": [
+    29,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 189,
+      "ms": 5007859,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 631,
+      "ms": 9898141,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 369,
+      "ms": 5037618,
+      "dish": "Pies"
+    }
+  ]
+}

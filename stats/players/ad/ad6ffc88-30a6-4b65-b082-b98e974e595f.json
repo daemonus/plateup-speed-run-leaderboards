@@ -1,0 +1,42 @@
+{
+  "id": "ad6ffc88-30a6-4b65-b082-b98e974e595f",
+  "persona": "NONI",
+  "names": [
+    "NONI"
+  ],
+  "runs": 3,
+  "bestRank": 8,
+  "worstRank": 55,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1679429,
+  "weeksActive": [
+    -29,
+    -28,
+    -17
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 47,
+      "ms": 2736114,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 55,
+      "ms": 3228980,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 8,
+      "ms": 1679429,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

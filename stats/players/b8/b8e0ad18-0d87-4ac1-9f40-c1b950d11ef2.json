@@ -1,0 +1,42 @@
+{
+  "id": "b8e0ad18-0d87-4ac1-9f40-c1b950d11ef2",
+  "persona": "sicsadwrld",
+  "names": [
+    "sicsadwrld"
+  ],
+  "runs": 3,
+  "bestRank": 269,
+  "worstRank": 1036,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3602475,
+  "weeksActive": [
+    -81,
+    -76,
+    -71
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 269,
+      "ms": 4101299,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 648,
+      "ms": 3602475,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1036,
+      "ms": 4403671,
+      "dish": "Turkey"
+    }
+  ]
+}

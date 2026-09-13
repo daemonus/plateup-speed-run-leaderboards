@@ -1,0 +1,58 @@
+{
+  "id": "8b3703d0-d7c8-43fe-a58b-38390c8b9f09",
+  "persona": "tasia.russell",
+  "names": [
+    "tasia.russell"
+  ],
+  "runs": 5,
+  "bestRank": 187,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2553311,
+  "weeksActive": [
+    60,
+    63,
+    70,
+    74,
+    77
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 385,
+      "ms": 4925852,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 459,
+      "ms": 3727942,
+      "dish": "Pizza"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 215,
+      "ms": 3690956,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 240,
+      "ms": 4159999,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 187,
+      "ms": 2553311,
+      "dish": "Sundaes"
+    }
+  ]
+}

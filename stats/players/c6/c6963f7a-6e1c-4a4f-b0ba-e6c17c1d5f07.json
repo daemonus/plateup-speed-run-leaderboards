@@ -1,0 +1,50 @@
+{
+  "id": "c6963f7a-6e1c-4a4f-b0ba-e6c17c1d5f07",
+  "persona": "Mak Mak",
+  "names": [
+    "Mak Mak"
+  ],
+  "runs": 4,
+  "bestRank": 26,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2326144,
+  "weeksActive": [
+    -72,
+    32,
+    33,
+    34
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 491,
+      "ms": 4123677,
+      "dish": "Pies"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 113,
+      "ms": 2696183,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 39,
+      "ms": 2326144,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 26,
+      "ms": 2536071,
+      "dish": "Stir Fry"
+    }
+  ]
+}

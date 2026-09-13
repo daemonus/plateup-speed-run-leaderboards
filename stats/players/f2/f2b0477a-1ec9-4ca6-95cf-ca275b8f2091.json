@@ -1,0 +1,58 @@
+{
+  "id": "f2b0477a-1ec9-4ca6-95cf-ca275b8f2091",
+  "persona": "do_misu",
+  "names": [
+    "do_misu"
+  ],
+  "runs": 5,
+  "bestRank": 155,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2838861,
+  "weeksActive": [
+    28,
+    29,
+    30,
+    59,
+    80
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 203,
+      "ms": 2838861,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 155,
+      "ms": 4123824,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 314,
+      "ms": 3769606,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 294,
+      "ms": 3761697,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 260,
+      "ms": 3703671,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e123cb45-5798-405c-b0ed-175d38b93019",
+  "persona": "\u76AE\u76AE",
+  "names": [
+    "\u76AE\u76AE"
+  ],
+  "runs": 2,
+  "bestRank": 99,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2970416,
+  "weeksActive": [
+    74,
+    83
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 99,
+      "ms": 3114063,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 500,
+      "ms": 2970416,
+      "dish": "Sundaes"
+    }
+  ]
+}

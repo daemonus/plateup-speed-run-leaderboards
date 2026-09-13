@@ -1,0 +1,82 @@
+{
+  "id": "7c15fada-15f2-40bf-be86-8f1a1ab97e7a",
+  "persona": "moyang",
+  "names": [
+    "moyang"
+  ],
+  "runs": 8,
+  "bestRank": 94,
+  "worstRank": 1069,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2617778,
+  "weeksActive": [
+    -91,
+    -85,
+    -84,
+    -59,
+    -56,
+    -53,
+    -52,
+    -32
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1069,
+      "ms": 3047156,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 224,
+      "ms": 4043150,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 568,
+      "ms": 3851876,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 357,
+      "ms": 3694079,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 132,
+      "ms": 2617778,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 94,
+      "ms": 3175072,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 111,
+      "ms": 3579349,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 360,
+      "ms": 3212344,
+      "dish": "Breakfast"
+    }
+  ]
+}

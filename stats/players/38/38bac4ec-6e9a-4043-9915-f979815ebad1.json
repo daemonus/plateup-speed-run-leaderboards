@@ -1,0 +1,42 @@
+{
+  "id": "38bac4ec-6e9a-4043-9915-f979815ebad1",
+  "persona": "Bowlar",
+  "names": [
+    "Bowlar"
+  ],
+  "runs": 3,
+  "bestRank": 253,
+  "worstRank": 1418,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3622514,
+  "weeksActive": [
+    -92,
+    -91,
+    -13
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 644,
+      "ms": 3971731,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1418,
+      "ms": 3622514,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 253,
+      "ms": 3837501,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

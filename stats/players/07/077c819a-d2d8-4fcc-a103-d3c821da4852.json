@@ -1,0 +1,58 @@
+{
+  "id": "077c819a-d2d8-4fcc-a103-d3c821da4852",
+  "persona": "More_Latte",
+  "names": [
+    "More_Latte"
+  ],
+  "runs": 5,
+  "bestRank": 55,
+  "worstRank": 283,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2155681,
+  "weeksActive": [
+    -87,
+    -86,
+    -85,
+    -82,
+    -31
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 96,
+      "ms": 2453818,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 166,
+      "ms": 2155681,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 55,
+      "ms": 2456141,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 283,
+      "ms": 2778116,
+      "dish": "Fish"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 83,
+      "ms": 2442701,
+      "dish": "Pies"
+    }
+  ]
+}

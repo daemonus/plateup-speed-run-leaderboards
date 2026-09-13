@@ -1,0 +1,34 @@
+{
+  "id": "9c49e29a-ec1a-4b61-ba73-fd7ccb0d656d",
+  "persona": "aiko",
+  "names": [
+    "aiko"
+  ],
+  "runs": 2,
+  "bestRank": 396,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3031574,
+  "weeksActive": [
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 396,
+      "ms": 3350250,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 438,
+      "ms": 3031574,
+      "dish": "Turkey"
+    }
+  ]
+}

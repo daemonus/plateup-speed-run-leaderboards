@@ -1,0 +1,50 @@
+{
+  "id": "d5225608-6d24-4229-a3cb-bfc4c3171c7a",
+  "persona": "xxUowoUxx",
+  "names": [
+    "xxUowoUxx"
+  ],
+  "runs": 4,
+  "bestRank": 209,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3657385,
+  "weeksActive": [
+    57,
+    58,
+    77,
+    81
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 552,
+      "ms": 7072824,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 589,
+      "ms": 4635701,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 361,
+      "ms": 3657385,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 209,
+      "ms": 3717593,
+      "dish": "Pizza"
+    }
+  ]
+}

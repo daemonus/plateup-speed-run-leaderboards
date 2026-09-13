@@ -1,0 +1,50 @@
+{
+  "id": "5ef0941c-5d04-4a69-9552-3e56ce65f147",
+  "persona": "whdansdb",
+  "names": [
+    "whdansdb"
+  ],
+  "runs": 4,
+  "bestRank": 74,
+  "worstRank": 618,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2346231,
+  "weeksActive": [
+    -32,
+    -30,
+    -28,
+    -27
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 618,
+      "ms": 3752502,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 184,
+      "ms": 2346231,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 74,
+      "ms": 3455573,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 108,
+      "ms": 3521778,
+      "dish": "Salad"
+    }
+  ]
+}

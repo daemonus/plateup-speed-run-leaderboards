@@ -1,0 +1,34 @@
+{
+  "id": "2f2d348d-6e45-4dce-bc0a-32e205783d6e",
+  "persona": "Lemur",
+  "names": [
+    "Lemur"
+  ],
+  "runs": 2,
+  "bestRank": 2,
+  "worstRank": 28,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1543856,
+  "weeksActive": [
+    -95,
+    -94
+  ],
+  "history": [
+    {
+      "week": -95,
+      "start": "2023-03-13",
+      "rank": 2,
+      "ms": 2001441,
+      "dish": "Pies"
+    },
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 28,
+      "ms": 1543856,
+      "dish": "Stir Fry"
+    }
+  ]
+}

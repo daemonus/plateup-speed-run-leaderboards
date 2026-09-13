@@ -1,0 +1,42 @@
+{
+  "id": "6b8bac58-387b-45c5-811f-a06e85ffa916",
+  "persona": "cosmocean",
+  "names": [
+    "cosmocean"
+  ],
+  "runs": 3,
+  "bestRank": 328,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2331081,
+  "weeksActive": [
+    63,
+    64,
+    66
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 555,
+      "ms": 4140239,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 334,
+      "ms": 2331081,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 328,
+      "ms": 3721820,
+      "dish": "Breakfast"
+    }
+  ]
+}

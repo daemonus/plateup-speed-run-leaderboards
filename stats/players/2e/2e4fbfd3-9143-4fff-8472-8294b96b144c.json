@@ -1,0 +1,42 @@
+{
+  "id": "2e4fbfd3-9143-4fff-8472-8294b96b144c",
+  "persona": "clovertine",
+  "names": [
+    "clovertine"
+  ],
+  "runs": 3,
+  "bestRank": 454,
+  "worstRank": 733,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3983300,
+  "weeksActive": [
+    -34,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 481,
+      "ms": 5170100,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 454,
+      "ms": 6278760,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 733,
+      "ms": 3983300,
+      "dish": "Breakfast"
+    }
+  ]
+}

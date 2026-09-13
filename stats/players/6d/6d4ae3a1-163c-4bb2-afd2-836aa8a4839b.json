@@ -1,0 +1,50 @@
+{
+  "id": "6d4ae3a1-163c-4bb2-afd2-836aa8a4839b",
+  "persona": "snoochums",
+  "names": [
+    "snoochums"
+  ],
+  "runs": 4,
+  "bestRank": 148,
+  "worstRank": 332,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3812680,
+  "weeksActive": [
+    -22,
+    -21,
+    -12,
+    -7
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 261,
+      "ms": 5544285,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 332,
+      "ms": 3812680,
+      "dish": "Pizza"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 256,
+      "ms": 4310445,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 148,
+      "ms": 3828908,
+      "dish": "Breakfast"
+    }
+  ]
+}

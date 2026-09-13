@@ -1,0 +1,82 @@
+{
+  "id": "d020783e-8a9c-4b0c-abf0-ea318b5371d4",
+  "persona": "AliceNite",
+  "names": [
+    "AliceNite"
+  ],
+  "runs": 8,
+  "bestRank": 226,
+  "worstRank": 585,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3508166,
+  "weeksActive": [
+    52,
+    53,
+    54,
+    55,
+    57,
+    58,
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 585,
+      "ms": 4187977,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 477,
+      "ms": 5920917,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 226,
+      "ms": 4111851,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 335,
+      "ms": 5187364,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 447,
+      "ms": 4517953,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 384,
+      "ms": 3508166,
+      "dish": "Turkey"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 248,
+      "ms": 3728368,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 340,
+      "ms": 3610302,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7bc113d2-65f1-4d2b-a5fc-5452e2b8e9b5",
+  "persona": "Fuzzzyfuzz",
+  "names": [
+    "Fuzzzyfuzz"
+  ],
+  "runs": 3,
+  "bestRank": 40,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1759850,
+  "weeksActive": [
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 222,
+      "ms": 2575526,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 88,
+      "ms": 2381306,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 40,
+      "ms": 1759850,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "02baad48-3ae5-4185-896f-dfe5c98c6354",
+  "persona": "susi",
+  "names": [
+    "susi"
+  ],
+  "runs": 2,
+  "bestRank": 739,
+  "worstRank": 758,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4292306,
+  "weeksActive": [
+    -82,
+    -77
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 758,
+      "ms": 4810182,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 739,
+      "ms": 4292306,
+      "dish": "Pies"
+    }
+  ]
+}

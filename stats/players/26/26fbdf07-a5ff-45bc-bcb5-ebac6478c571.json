@@ -1,0 +1,58 @@
+{
+  "id": "26fbdf07-a5ff-45bc-bcb5-ebac6478c571",
+  "persona": "Akito",
+  "names": [
+    "Akito"
+  ],
+  "runs": 5,
+  "bestRank": 215,
+  "worstRank": 733,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3096073,
+  "weeksActive": [
+    68,
+    70,
+    80,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 406,
+      "ms": 3566476,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 266,
+      "ms": 4149783,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 395,
+      "ms": 4990072,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 733,
+      "ms": 4187887,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 215,
+      "ms": 3096073,
+      "dish": "Fish"
+    }
+  ]
+}

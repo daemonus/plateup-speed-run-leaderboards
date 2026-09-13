@@ -1,0 +1,34 @@
+{
+  "id": "60ef1b1d-5960-4f34-a7e4-5e539f6cb5f9",
+  "persona": "M\u00E4lici\u00E4",
+  "names": [
+    "M\u00E4lici\u00E4"
+  ],
+  "runs": 2,
+  "bestRank": 88,
+  "worstRank": 111,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2523035,
+  "weeksActive": [
+    5,
+    9
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 111,
+      "ms": 2951788,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 88,
+      "ms": 2523035,
+      "dish": "Breakfast"
+    }
+  ]
+}

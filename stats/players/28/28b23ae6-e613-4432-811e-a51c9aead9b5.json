@@ -1,0 +1,42 @@
+{
+  "id": "28b23ae6-e613-4432-811e-a51c9aead9b5",
+  "persona": "Quanzig",
+  "names": [
+    "Quanzig"
+  ],
+  "runs": 3,
+  "bestRank": 145,
+  "worstRank": 610,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3441429,
+  "weeksActive": [
+    -71,
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 610,
+      "ms": 3441429,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 594,
+      "ms": 5478189,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 145,
+      "ms": 3834538,
+      "dish": "Stir Fry"
+    }
+  ]
+}

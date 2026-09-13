@@ -1,0 +1,42 @@
+{
+  "id": "dac07fab-4103-480c-9124-ff7682970648",
+  "persona": "Midl8",
+  "names": [
+    "Midl8"
+  ],
+  "runs": 3,
+  "bestRank": 53,
+  "worstRank": 247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785346,
+  "weeksActive": [
+    -70,
+    -68,
+    -4
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 247,
+      "ms": 3792503,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 53,
+      "ms": 2785346,
+      "dish": "Salad"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 161,
+      "ms": 2833993,
+      "dish": "Pies"
+    }
+  ]
+}

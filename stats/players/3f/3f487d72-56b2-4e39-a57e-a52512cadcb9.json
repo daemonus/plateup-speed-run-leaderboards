@@ -1,0 +1,58 @@
+{
+  "id": "3f487d72-56b2-4e39-a57e-a52512cadcb9",
+  "persona": "Sera.L",
+  "names": [
+    "Sera.L"
+  ],
+  "runs": 5,
+  "bestRank": 254,
+  "worstRank": 498,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2545713,
+  "weeksActive": [
+    62,
+    63,
+    64,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 461,
+      "ms": 4286206,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 498,
+      "ms": 3887281,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 419,
+      "ms": 2545713,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 254,
+      "ms": 4294532,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 259,
+      "ms": 4115692,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

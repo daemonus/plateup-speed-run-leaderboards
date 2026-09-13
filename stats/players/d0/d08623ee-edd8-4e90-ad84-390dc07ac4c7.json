@@ -1,0 +1,66 @@
+{
+  "id": "d08623ee-edd8-4e90-ad84-390dc07ac4c7",
+  "persona": "Zinson",
+  "names": [
+    "Zinson"
+  ],
+  "runs": 6,
+  "bestRank": 115,
+  "worstRank": 322,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3690986,
+  "weeksActive": [
+    -9,
+    -8,
+    -5,
+    -1,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 115,
+      "ms": 4179650,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 209,
+      "ms": 4460885,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 221,
+      "ms": 3690986,
+      "dish": "Pizza"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 134,
+      "ms": 4261013,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 200,
+      "ms": 3984048,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 322,
+      "ms": 3998542,
+      "dish": "Pies"
+    }
+  ]
+}

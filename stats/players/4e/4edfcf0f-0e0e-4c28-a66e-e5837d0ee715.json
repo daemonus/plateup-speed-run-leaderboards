@@ -1,0 +1,42 @@
+{
+  "id": "4edfcf0f-0e0e-4c28-a66e-e5837d0ee715",
+  "persona": "Parachute Free Solo",
+  "names": [
+    "Parachute Free Solo"
+  ],
+  "runs": 3,
+  "bestRank": 196,
+  "worstRank": 650,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4727806,
+  "weeksActive": [
+    -18,
+    -1,
+    46
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 650,
+      "ms": 4727806,
+      "dish": "Fish"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 196,
+      "ms": 5511403,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 564,
+      "ms": 5307292,
+      "dish": "Pizza"
+    }
+  ]
+}

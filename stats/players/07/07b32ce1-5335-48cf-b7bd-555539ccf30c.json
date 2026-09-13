@@ -1,0 +1,58 @@
+{
+  "id": "07b32ce1-5335-48cf-b7bd-555539ccf30c",
+  "persona": "xDNAxFREAKx",
+  "names": [
+    "xDNAxFREAKx"
+  ],
+  "runs": 5,
+  "bestRank": 209,
+  "worstRank": 1925,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3083926,
+  "weeksActive": [
+    -93,
+    -21,
+    -20,
+    -18,
+    3
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1925,
+      "ms": 3083926,
+      "dish": "Fish"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 209,
+      "ms": 3197345,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 360,
+      "ms": 4005587,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 278,
+      "ms": 3413563,
+      "dish": "Fish"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 500,
+      "ms": 3815038,
+      "dish": "Fish"
+    }
+  ]
+}

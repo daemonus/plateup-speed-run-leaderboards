@@ -1,0 +1,34 @@
+{
+  "id": "eb12f35a-da69-4a14-a956-3ad043dcad4f",
+  "persona": "Presunto",
+  "names": [
+    "Presunto"
+  ],
+  "runs": 2,
+  "bestRank": 613,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3532477,
+  "weeksActive": [
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 700,
+      "ms": 4808119,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 613,
+      "ms": 3532477,
+      "dish": "Turkey"
+    }
+  ]
+}

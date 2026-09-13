@@ -1,0 +1,58 @@
+{
+  "id": "013da9cb-f699-4417-b3ee-89d3019d4550",
+  "persona": "eljay",
+  "names": [
+    "eljay"
+  ],
+  "runs": 5,
+  "bestRank": 268,
+  "worstRank": 2837,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3031080,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -88,
+    -72
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1696,
+      "ms": 5084697,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2837,
+      "ms": 4470191,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 525,
+      "ms": 3031080,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 324,
+      "ms": 3094041,
+      "dish": "Pies"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 268,
+      "ms": 3385515,
+      "dish": "Pies"
+    }
+  ]
+}

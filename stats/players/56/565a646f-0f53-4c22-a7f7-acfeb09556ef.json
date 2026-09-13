@@ -1,0 +1,66 @@
+{
+  "id": "565a646f-0f53-4c22-a7f7-acfeb09556ef",
+  "persona": "Daniel Grimm",
+  "names": [
+    "Daniel Grimm"
+  ],
+  "runs": 6,
+  "bestRank": 160,
+  "worstRank": 450,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2629355,
+  "weeksActive": [
+    -78,
+    -77,
+    -76,
+    -75,
+    -74,
+    -56
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 167,
+      "ms": 2858408,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 273,
+      "ms": 3007014,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 265,
+      "ms": 2629355,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 450,
+      "ms": 2913492,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 160,
+      "ms": 2944763,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 244,
+      "ms": 3111347,
+      "dish": "Breakfast"
+    }
+  ]
+}

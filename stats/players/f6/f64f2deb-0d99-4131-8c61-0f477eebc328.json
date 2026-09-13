@@ -1,0 +1,34 @@
+{
+  "id": "f64f2deb-0d99-4131-8c61-0f477eebc328",
+  "persona": "aika",
+  "names": [
+    "aika"
+  ],
+  "runs": 2,
+  "bestRank": 71,
+  "worstRank": 674,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2214501,
+  "weeksActive": [
+    -84,
+    -77
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 674,
+      "ms": 5110339,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 71,
+      "ms": 2214501,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5c13b418-4e33-4d1d-9efd-4888591d57df",
+  "persona": "ci",
+  "names": [
+    "ci"
+  ],
+  "runs": 4,
+  "bestRank": 26,
+  "worstRank": 63,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2013927,
+  "weeksActive": [
+    22,
+    24,
+    25,
+    27
+  ],
+  "history": [
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 63,
+      "ms": 2590567,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 26,
+      "ms": 2013927,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 59,
+      "ms": 3186699,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 46,
+      "ms": 2252429,
+      "dish": "Breakfast"
+    }
+  ]
+}

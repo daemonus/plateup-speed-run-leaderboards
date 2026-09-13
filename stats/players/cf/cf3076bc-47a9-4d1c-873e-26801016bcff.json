@@ -1,0 +1,66 @@
+{
+  "id": "cf3076bc-47a9-4d1c-873e-26801016bcff",
+  "persona": "N0r3mAC",
+  "names": [
+    "N0r3mAC"
+  ],
+  "runs": 6,
+  "bestRank": 62,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2775546,
+  "weeksActive": [
+    -86,
+    -71,
+    -66,
+    -65,
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 603,
+      "ms": 3350864,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 387,
+      "ms": 2985186,
+      "dish": "Turkey"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 146,
+      "ms": 3018613,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 62,
+      "ms": 3389533,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 109,
+      "ms": 2927645,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 101,
+      "ms": 2775546,
+      "dish": "Stir Fry"
+    }
+  ]
+}

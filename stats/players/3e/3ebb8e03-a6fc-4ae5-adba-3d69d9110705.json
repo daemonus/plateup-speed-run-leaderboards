@@ -1,0 +1,74 @@
+{
+  "id": "3ebb8e03-a6fc-4ae5-adba-3d69d9110705",
+  "persona": "Tara",
+  "names": [
+    "Tara"
+  ],
+  "runs": 7,
+  "bestRank": 82,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2518088,
+  "weeksActive": [
+    -92,
+    -83,
+    -81,
+    -77,
+    -76,
+    -66,
+    53
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 521,
+      "ms": 3508012,
+      "dish": "Steak"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 214,
+      "ms": 2881773,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 153,
+      "ms": 3339184,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 378,
+      "ms": 3299800,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 252,
+      "ms": 2596071,
+      "dish": "Turkey"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 178,
+      "ms": 3212872,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 82,
+      "ms": 2518088,
+      "dish": "Pies"
+    }
+  ]
+}

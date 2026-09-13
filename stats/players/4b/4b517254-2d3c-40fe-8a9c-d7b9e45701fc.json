@@ -1,0 +1,42 @@
+{
+  "id": "4b517254-2d3c-40fe-8a9c-d7b9e45701fc",
+  "persona": "WildFire",
+  "names": [
+    "WildFire"
+  ],
+  "runs": 3,
+  "bestRank": 161,
+  "worstRank": 246,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2624035,
+  "weeksActive": [
+    7,
+    8,
+    9
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 161,
+      "ms": 2930839,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 246,
+      "ms": 2624035,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 190,
+      "ms": 3015497,
+      "dish": "Breakfast"
+    }
+  ]
+}

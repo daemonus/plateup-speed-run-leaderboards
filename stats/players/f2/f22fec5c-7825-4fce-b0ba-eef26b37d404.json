@@ -1,0 +1,42 @@
+{
+  "id": "f22fec5c-7825-4fce-b0ba-eef26b37d404",
+  "persona": "harkz",
+  "names": [
+    "harkz"
+  ],
+  "runs": 3,
+  "bestRank": 293,
+  "worstRank": 998,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2364376,
+  "weeksActive": [
+    -93,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 998,
+      "ms": 2451927,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 358,
+      "ms": 2364376,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 293,
+      "ms": 2445820,
+      "dish": "Pies"
+    }
+  ]
+}

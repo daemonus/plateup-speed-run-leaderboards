@@ -1,0 +1,90 @@
+{
+  "id": "00ba0e10-9420-4d66-ba19-5c9dc0238f59",
+  "persona": "AzureWinds",
+  "names": [
+    "AzureWinds"
+  ],
+  "runs": 9,
+  "bestRank": 102,
+  "worstRank": 753,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3235697,
+  "weeksActive": [
+    -71,
+    -64,
+    -61,
+    -51,
+    -44,
+    -43,
+    -33,
+    -29,
+    -27
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 753,
+      "ms": 3704790,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 401,
+      "ms": 5038339,
+      "dish": "Salad"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 325,
+      "ms": 3561296,
+      "dish": "Fish"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 431,
+      "ms": 3495925,
+      "dish": "Turkey"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 322,
+      "ms": 3312725,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 208,
+      "ms": 3729421,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 354,
+      "ms": 4409548,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 102,
+      "ms": 3235697,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 192,
+      "ms": 4255968,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "8b209867-d7af-49bc-8bd1-a741a37a1371",
+  "persona": "5usan",
+  "names": [
+    "5usan"
+  ],
+  "runs": 6,
+  "bestRank": 288,
+  "worstRank": 938,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2401643,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 355,
+      "ms": 2642829,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 938,
+      "ms": 2401643,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 646,
+      "ms": 2511877,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 661,
+      "ms": 2997646,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 288,
+      "ms": 2985497,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 384,
+      "ms": 3646791,
+      "dish": "Stir Fry"
+    }
+  ]
+}

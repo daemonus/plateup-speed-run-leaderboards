@@ -1,0 +1,50 @@
+{
+  "id": "4ecea02a-eae0-4510-85fd-482c50d0b430",
+  "persona": "nichycho1996",
+  "names": [
+    "nichycho1996"
+  ],
+  "runs": 4,
+  "bestRank": 192,
+  "worstRank": 311,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3460535,
+  "weeksActive": [
+    17,
+    21,
+    70,
+    74
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 192,
+      "ms": 3521034,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 271,
+      "ms": 3460535,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 302,
+      "ms": 4507122,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 311,
+      "ms": 5002965,
+      "dish": "Breakfast"
+    }
+  ]
+}

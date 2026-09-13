@@ -1,0 +1,42 @@
+{
+  "id": "d9a872fc-0da6-49fc-a58b-c67c76d047a2",
+  "persona": "\u5618\u6708",
+  "names": [
+    "\u5618\u6708"
+  ],
+  "runs": 3,
+  "bestRank": 345,
+  "worstRank": 620,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4817849,
+  "weeksActive": [
+    -13,
+    4,
+    84
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 345,
+      "ms": 10970968,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 444,
+      "ms": 5811101,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 620,
+      "ms": 4817849,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e1ade94e-7c1b-43f5-8389-996076a8efd7",
+  "persona": "1206273195",
+  "names": [
+    "1206273195"
+  ],
+  "runs": 3,
+  "bestRank": 39,
+  "worstRank": 174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1278013,
+  "weeksActive": [
+    -36,
+    -21,
+    83
+  ],
+  "history": [
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 89,
+      "ms": 3867955,
+      "dish": "Burgers"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 174,
+      "ms": 3031339,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 39,
+      "ms": 1278013,
+      "dish": "Sundaes"
+    }
+  ]
+}

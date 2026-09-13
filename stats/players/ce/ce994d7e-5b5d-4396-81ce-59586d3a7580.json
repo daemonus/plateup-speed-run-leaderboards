@@ -1,0 +1,34 @@
+{
+  "id": "ce994d7e-5b5d-4396-81ce-59586d3a7580",
+  "persona": "ardhij",
+  "names": [
+    "ardhij"
+  ],
+  "runs": 2,
+  "bestRank": 431,
+  "worstRank": 570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3293525,
+  "weeksActive": [
+    30,
+    41
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 431,
+      "ms": 4608021,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 570,
+      "ms": 3293525,
+      "dish": "Turkey"
+    }
+  ]
+}

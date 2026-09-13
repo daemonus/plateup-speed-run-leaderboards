@@ -1,0 +1,50 @@
+{
+  "id": "7ca7c71a-afc5-4394-945b-9e6352e7c842",
+  "persona": "Sisyphusssss",
+  "names": [
+    "Sisyphusssss"
+  ],
+  "runs": 4,
+  "bestRank": 264,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3068815,
+  "weeksActive": [
+    -84,
+    31,
+    32,
+    33
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 360,
+      "ms": 3068815,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 512,
+      "ms": 4319504,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 325,
+      "ms": 4238011,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 264,
+      "ms": 4970310,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

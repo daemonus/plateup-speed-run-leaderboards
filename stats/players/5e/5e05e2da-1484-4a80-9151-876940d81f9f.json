@@ -1,0 +1,90 @@
+{
+  "id": "5e05e2da-1484-4a80-9151-876940d81f9f",
+  "persona": "DeV1l",
+  "names": [
+    "DeV1l"
+  ],
+  "runs": 9,
+  "bestRank": 101,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2917391,
+  "weeksActive": [
+    -42,
+    -36,
+    -34,
+    -27,
+    -8,
+    -2,
+    0,
+    44,
+    63
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 153,
+      "ms": 3852621,
+      "dish": "Burgers"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 101,
+      "ms": 4265403,
+      "dish": "Burgers"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 272,
+      "ms": 3314307,
+      "dish": "Pies"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 170,
+      "ms": 4064941,
+      "dish": "Salad"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 117,
+      "ms": 3508208,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 186,
+      "ms": 2946317,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 135,
+      "ms": 3511944,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 175,
+      "ms": 2917391,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 318,
+      "ms": 3275608,
+      "dish": "Pizza"
+    }
+  ]
+}

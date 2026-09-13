@@ -1,0 +1,66 @@
+{
+  "id": "81306da1-2dc0-4d99-9f90-b84d8d841de8",
+  "persona": "Dakota",
+  "names": [
+    "Dakota"
+  ],
+  "runs": 6,
+  "bestRank": 215,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3066302,
+  "weeksActive": [
+    31,
+    34,
+    36,
+    38,
+    39,
+    43
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 581,
+      "ms": 4950627,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 215,
+      "ms": 3870117,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 274,
+      "ms": 3066302,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 415,
+      "ms": 4052094,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 230,
+      "ms": 4195721,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 468,
+      "ms": 3271250,
+      "dish": "Fish"
+    }
+  ]
+}

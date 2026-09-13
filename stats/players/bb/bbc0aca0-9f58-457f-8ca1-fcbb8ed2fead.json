@@ -1,0 +1,42 @@
+{
+  "id": "bbc0aca0-9f58-457f-8ca1-fcbb8ed2fead",
+  "persona": "hollycally",
+  "names": [
+    "hollycally"
+  ],
+  "runs": 3,
+  "bestRank": 136,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3191421,
+  "weeksActive": [
+    39,
+    68,
+    69
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 136,
+      "ms": 3387394,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 342,
+      "ms": 3191421,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 282,
+      "ms": 4941431,
+      "dish": "Burgers"
+    }
+  ]
+}

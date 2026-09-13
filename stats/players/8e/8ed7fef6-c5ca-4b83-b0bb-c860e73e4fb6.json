@@ -1,0 +1,58 @@
+{
+  "id": "8ed7fef6-c5ca-4b83-b0bb-c860e73e4fb6",
+  "persona": "Pandabankie",
+  "names": [
+    "Pandabankie"
+  ],
+  "runs": 5,
+  "bestRank": 35,
+  "worstRank": 63,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1697150,
+  "weeksActive": [
+    -75,
+    -32,
+    -6,
+    11,
+    27
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 56,
+      "ms": 1697150,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 49,
+      "ms": 2231223,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 51,
+      "ms": 2503234,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 63,
+      "ms": 2663881,
+      "dish": "Salad"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 35,
+      "ms": 2090529,
+      "dish": "Breakfast"
+    }
+  ]
+}

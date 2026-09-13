@@ -1,0 +1,42 @@
+{
+  "id": "9d48dba1-7738-4f04-8c68-72625039c6fc",
+  "persona": "usbMarc",
+  "names": [
+    "usbMarc"
+  ],
+  "runs": 3,
+  "bestRank": 155,
+  "worstRank": 391,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2833426,
+  "weeksActive": [
+    -3,
+    -2,
+    8
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 391,
+      "ms": 3297138,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 155,
+      "ms": 2833426,
+      "dish": "Pizza"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 352,
+      "ms": 2927552,
+      "dish": "Fish"
+    }
+  ]
+}

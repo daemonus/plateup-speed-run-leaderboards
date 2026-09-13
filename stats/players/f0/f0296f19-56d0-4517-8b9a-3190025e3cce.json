@@ -1,0 +1,42 @@
+{
+  "id": "f0296f19-56d0-4517-8b9a-3190025e3cce",
+  "persona": "yee yee",
+  "names": [
+    "yee yee"
+  ],
+  "runs": 3,
+  "bestRank": 232,
+  "worstRank": 599,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3859514,
+  "weeksActive": [
+    -77,
+    -33,
+    33
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 599,
+      "ms": 3859514,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 445,
+      "ms": 5816079,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 232,
+      "ms": 4436112,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

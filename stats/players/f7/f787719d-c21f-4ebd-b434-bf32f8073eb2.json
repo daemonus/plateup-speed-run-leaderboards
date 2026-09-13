@@ -1,0 +1,42 @@
+{
+  "id": "f787719d-c21f-4ebd-b434-bf32f8073eb2",
+  "persona": "Lil_Big_Man",
+  "names": [
+    "Lil_Big_Man"
+  ],
+  "runs": 3,
+  "bestRank": 162,
+  "worstRank": 471,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3553420,
+  "weeksActive": [
+    -1,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 162,
+      "ms": 4711128,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 471,
+      "ms": 5844165,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 242,
+      "ms": 3553420,
+      "dish": "Pies"
+    }
+  ]
+}

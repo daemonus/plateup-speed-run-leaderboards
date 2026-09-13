@@ -1,0 +1,58 @@
+{
+  "id": "6a87b158-50bc-418c-a834-b681134b285c",
+  "persona": "xo-shin",
+  "names": [
+    "xo-shin"
+  ],
+  "runs": 5,
+  "bestRank": 94,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2345970,
+  "weeksActive": [
+    -51,
+    -49,
+    -46,
+    -44,
+    -40
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 371,
+      "ms": 3306166,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 212,
+      "ms": 4478734,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 398,
+      "ms": 4510373,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 94,
+      "ms": 2345970,
+      "dish": "Turkey"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 156,
+      "ms": 3877594,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "1468a6c3-f611-40a6-a21f-fb563c0910ec",
+  "persona": "MightyDiomedes",
+  "names": [
+    "MightyDiomedes"
+  ],
+  "runs": 5,
+  "bestRank": 126,
+  "worstRank": 382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2954904,
+  "weeksActive": [
+    -67,
+    -60,
+    -57,
+    -55,
+    -51
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 223,
+      "ms": 3529234,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 126,
+      "ms": 3181499,
+      "dish": "Burgers"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 131,
+      "ms": 3216240,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 138,
+      "ms": 2954904,
+      "dish": "Pizza"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 382,
+      "ms": 3336437,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ef207960-2f96-4a44-a8bf-9de351b8b8d5",
+  "persona": "Dr. Monarch",
+  "names": [
+    "Dr. Monarch"
+  ],
+  "runs": 2,
+  "bestRank": 157,
+  "worstRank": 758,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4359106,
+  "weeksActive": [
+    -77,
+    25
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 758,
+      "ms": 4359106,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 157,
+      "ms": 4566916,
+      "dish": "Stir Fry"
+    }
+  ]
+}

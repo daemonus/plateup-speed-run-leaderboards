@@ -1,0 +1,90 @@
+{
+  "id": "55934e17-04d8-44c3-affd-aa7fd128f999",
+  "persona": "Caillou",
+  "names": [
+    "Caillou"
+  ],
+  "runs": 9,
+  "bestRank": 217,
+  "worstRank": 528,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3105198,
+  "weeksActive": [
+    -53,
+    -51,
+    -50,
+    -47,
+    -46,
+    -12,
+    44,
+    58,
+    59
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 332,
+      "ms": 4656202,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 528,
+      "ms": 3828898,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 228,
+      "ms": 4594932,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 344,
+      "ms": 4292954,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 354,
+      "ms": 4343507,
+      "dish": "Salad"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 293,
+      "ms": 5180333,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 217,
+      "ms": 3105198,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 416,
+      "ms": 3661252,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 407,
+      "ms": 5018268,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cc99dddf-f3e2-4e16-a665-b3ea9946893e",
+  "persona": "sei",
+  "names": [
+    "sei"
+  ],
+  "runs": 3,
+  "bestRank": 57,
+  "worstRank": 123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1963369,
+  "weeksActive": [
+    -73,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 57,
+      "ms": 3118800,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 123,
+      "ms": 2699136,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 58,
+      "ms": 1963369,
+      "dish": "Turkey"
+    }
+  ]
+}

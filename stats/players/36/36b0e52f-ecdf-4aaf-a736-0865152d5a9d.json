@@ -1,0 +1,50 @@
+{
+  "id": "36b0e52f-ecdf-4aaf-a736-0865152d5a9d",
+  "persona": "JannelleDoesStuff",
+  "names": [
+    "JannelleDoesStuff"
+  ],
+  "runs": 4,
+  "bestRank": 8,
+  "worstRank": 65,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1887399,
+  "weeksActive": [
+    -56,
+    -55,
+    -54,
+    -53
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 65,
+      "ms": 2148054,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 8,
+      "ms": 1887399,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 22,
+      "ms": 2536416,
+      "dish": "Salad"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 25,
+      "ms": 2379065,
+      "dish": "Breakfast"
+    }
+  ]
+}

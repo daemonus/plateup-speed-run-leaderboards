@@ -1,0 +1,50 @@
+{
+  "id": "0e02da99-69fd-417c-b188-475f7ceefe8d",
+  "persona": "sweet_potato14",
+  "names": [
+    "sweet_potato14"
+  ],
+  "runs": 4,
+  "bestRank": 101,
+  "worstRank": 287,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1976760,
+  "weeksActive": [
+    -75,
+    -74,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 131,
+      "ms": 1976760,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 101,
+      "ms": 2538593,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 287,
+      "ms": 4602476,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 110,
+      "ms": 3211155,
+      "dish": "Salad"
+    }
+  ]
+}

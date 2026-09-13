@@ -1,0 +1,58 @@
+{
+  "id": "73f731a4-9b3c-4ddc-8358-76af33d4543e",
+  "persona": "Sister Kathy",
+  "names": [
+    "Sister Kathy"
+  ],
+  "runs": 5,
+  "bestRank": 254,
+  "worstRank": 1481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2737806,
+  "weeksActive": [
+    -94,
+    -93,
+    -78,
+    -77,
+    82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1481,
+      "ms": 4167045,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1410,
+      "ms": 2737806,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 463,
+      "ms": 4387026,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 407,
+      "ms": 3362874,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 254,
+      "ms": 3242015,
+      "dish": "Pizza"
+    }
+  ]
+}

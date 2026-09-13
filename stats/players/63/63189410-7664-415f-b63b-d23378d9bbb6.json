@@ -1,0 +1,42 @@
+{
+  "id": "63189410-7664-415f-b63b-d23378d9bbb6",
+  "persona": "Autumnomnomnom",
+  "names": [
+    "Autumnomnomnom"
+  ],
+  "runs": 3,
+  "bestRank": 419,
+  "worstRank": 899,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2853401,
+  "weeksActive": [
+    -75,
+    -72,
+    -69
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 419,
+      "ms": 2853401,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 899,
+      "ms": 8134894,
+      "dish": "Pies"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 472,
+      "ms": 6356091,
+      "dish": "Stir Fry"
+    }
+  ]
+}

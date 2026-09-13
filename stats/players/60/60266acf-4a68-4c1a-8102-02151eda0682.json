@@ -1,0 +1,74 @@
+{
+  "id": "60266acf-4a68-4c1a-8102-02151eda0682",
+  "persona": "Maik",
+  "names": [
+    "Maik"
+  ],
+  "runs": 7,
+  "bestRank": 225,
+  "worstRank": 1208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2547254,
+  "weeksActive": [
+    -90,
+    -89,
+    -77,
+    -61,
+    -44,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1208,
+      "ms": 5906071,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 898,
+      "ms": 4394413,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 324,
+      "ms": 3129758,
+      "dish": "Pies"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 234,
+      "ms": 3253319,
+      "dish": "Fish"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 225,
+      "ms": 2934700,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 625,
+      "ms": 6087040,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 369,
+      "ms": 2547254,
+      "dish": "Sundaes"
+    }
+  ]
+}

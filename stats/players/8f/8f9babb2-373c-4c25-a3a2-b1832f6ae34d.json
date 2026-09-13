@@ -1,0 +1,42 @@
+{
+  "id": "8f9babb2-373c-4c25-a3a2-b1832f6ae34d",
+  "persona": "Keks",
+  "names": [
+    "Keks"
+  ],
+  "runs": 3,
+  "bestRank": 65,
+  "worstRank": 142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2283547,
+  "weeksActive": [
+    67,
+    68,
+    74
+  ],
+  "history": [
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 123,
+      "ms": 2745387,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 142,
+      "ms": 2283547,
+      "dish": "Turkey"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 65,
+      "ms": 2873950,
+      "dish": "Breakfast"
+    }
+  ]
+}

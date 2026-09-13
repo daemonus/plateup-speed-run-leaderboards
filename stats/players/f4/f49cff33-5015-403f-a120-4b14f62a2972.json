@@ -1,0 +1,50 @@
+{
+  "id": "f49cff33-5015-403f-a120-4b14f62a2972",
+  "persona": "Garcin",
+  "names": [
+    "Garcin"
+  ],
+  "runs": 4,
+  "bestRank": 98,
+  "worstRank": 448,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1716546,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 98,
+      "ms": 2114627,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 181,
+      "ms": 1716546,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 225,
+      "ms": 2644283,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 448,
+      "ms": 2251847,
+      "dish": "Fish"
+    }
+  ]
+}

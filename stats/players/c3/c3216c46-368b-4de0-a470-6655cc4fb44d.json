@@ -1,0 +1,34 @@
+{
+  "id": "c3216c46-368b-4de0-a470-6655cc4fb44d",
+  "persona": "6IX",
+  "names": [
+    "6IX"
+  ],
+  "runs": 2,
+  "bestRank": 63,
+  "worstRank": 104,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2981620,
+  "weeksActive": [
+    10,
+    11
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 63,
+      "ms": 3012771,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 104,
+      "ms": 2981620,
+      "dish": "Salad"
+    }
+  ]
+}

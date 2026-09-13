@@ -1,0 +1,50 @@
+{
+  "id": "4137af28-c08b-4d90-bd74-3480fbb15cd2",
+  "persona": "meranin3",
+  "names": [
+    "meranin3"
+  ],
+  "runs": 4,
+  "bestRank": 79,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2702436,
+  "weeksActive": [
+    -52,
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 79,
+      "ms": 3265637,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 200,
+      "ms": 2702436,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 110,
+      "ms": 3471594,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 224,
+      "ms": 4711729,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1812f3c0-36cf-4ccc-998b-208d83a1934a",
+  "persona": "minna",
+  "names": [
+    "minna"
+  ],
+  "runs": 3,
+  "bestRank": 424,
+  "worstRank": 2874,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3293106,
+  "weeksActive": [
+    -93,
+    -5,
+    20
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2874,
+      "ms": 4776102,
+      "dish": "Fish"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 424,
+      "ms": 4586350,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 525,
+      "ms": 3293106,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4b9bc1c6-f6da-47fa-8c3e-e3f167c2e7ea",
+  "persona": "yue",
+  "names": [
+    "yue"
+  ],
+  "runs": 3,
+  "bestRank": 358,
+  "worstRank": 474,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3968638,
+  "weeksActive": [
+    30,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 474,
+      "ms": 5129062,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 452,
+      "ms": 3968638,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 358,
+      "ms": 4770053,
+      "dish": "Pies"
+    }
+  ]
+}

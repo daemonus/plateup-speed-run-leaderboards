@@ -1,0 +1,50 @@
+{
+  "id": "05438da3-ea55-456d-8d89-b621d3a04ffb",
+  "persona": "Security Police",
+  "names": [
+    "Security Police"
+  ],
+  "runs": 4,
+  "bestRank": 98,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2331509,
+  "weeksActive": [
+    55,
+    56,
+    57,
+    58
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 277,
+      "ms": 4538032,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 568,
+      "ms": 2987466,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 116,
+      "ms": 2747573,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 98,
+      "ms": 2331509,
+      "dish": "Turkey"
+    }
+  ]
+}

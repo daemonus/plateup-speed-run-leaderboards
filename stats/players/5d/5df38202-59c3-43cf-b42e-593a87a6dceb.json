@@ -1,0 +1,50 @@
+{
+  "id": "5df38202-59c3-43cf-b42e-593a87a6dceb",
+  "persona": "LG",
+  "names": [
+    "LG"
+  ],
+  "runs": 4,
+  "bestRank": 30,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1148262,
+  "weeksActive": [
+    56,
+    58,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 30,
+      "ms": 1148262,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 150,
+      "ms": 2535470,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 86,
+      "ms": 2671774,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 278,
+      "ms": 3906892,
+      "dish": "Burgers"
+    }
+  ]
+}

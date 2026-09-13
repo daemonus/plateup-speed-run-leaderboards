@@ -1,0 +1,58 @@
+{
+  "id": "5bd72019-1ad1-4d1a-bd78-f5a74a85be09",
+  "persona": "Hawnda",
+  "names": [
+    "Hawnda"
+  ],
+  "runs": 5,
+  "bestRank": 40,
+  "worstRank": 427,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2041365,
+  "weeksActive": [
+    -94,
+    -93,
+    -79,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 241,
+      "ms": 2440280,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 427,
+      "ms": 2041365,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 40,
+      "ms": 2095503,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 93,
+      "ms": 2051616,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 264,
+      "ms": 2450131,
+      "dish": "Fish"
+    }
+  ]
+}

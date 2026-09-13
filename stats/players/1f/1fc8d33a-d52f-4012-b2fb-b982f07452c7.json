@@ -1,0 +1,42 @@
+{
+  "id": "1fc8d33a-d52f-4012-b2fb-b982f07452c7",
+  "persona": "tello_17",
+  "names": [
+    "tello_17"
+  ],
+  "runs": 3,
+  "bestRank": 251,
+  "worstRank": 742,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4439554,
+  "weeksActive": [
+    42,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 251,
+      "ms": 9743410,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 742,
+      "ms": 4856968,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 429,
+      "ms": 4439554,
+      "dish": "Breakfast"
+    }
+  ]
+}

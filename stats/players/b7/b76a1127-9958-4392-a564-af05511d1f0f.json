@@ -1,0 +1,42 @@
+{
+  "id": "b76a1127-9958-4392-a564-af05511d1f0f",
+  "persona": "Mr Muro",
+  "names": [
+    "Mr Muro"
+  ],
+  "runs": 3,
+  "bestRank": 139,
+  "worstRank": 174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3354293,
+  "weeksActive": [
+    -42,
+    -40,
+    33
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 174,
+      "ms": 4133825,
+      "dish": "Burgers"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 160,
+      "ms": 3919007,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 139,
+      "ms": 3354293,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

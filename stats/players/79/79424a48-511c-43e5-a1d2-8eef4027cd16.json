@@ -1,0 +1,50 @@
+{
+  "id": "79424a48-511c-43e5-a1d2-8eef4027cd16",
+  "persona": "Emrys Erised",
+  "names": [
+    "Emrys Erised"
+  ],
+  "runs": 4,
+  "bestRank": 128,
+  "worstRank": 896,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2370055,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -12
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 580,
+      "ms": 2950495,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 896,
+      "ms": 2370055,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 247,
+      "ms": 2715197,
+      "dish": "Steak"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 128,
+      "ms": 3079983,
+      "dish": "Breakfast"
+    }
+  ]
+}

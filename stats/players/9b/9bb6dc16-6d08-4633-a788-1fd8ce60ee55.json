@@ -1,0 +1,50 @@
+{
+  "id": "9bb6dc16-6d08-4633-a788-1fd8ce60ee55",
+  "persona": "MacMillion",
+  "names": [
+    "MacMillion"
+  ],
+  "runs": 4,
+  "bestRank": 255,
+  "worstRank": 946,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4450972,
+  "weeksActive": [
+    -51,
+    -40,
+    -39,
+    -37
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 702,
+      "ms": 4958770,
+      "dish": "Turkey"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 255,
+      "ms": 5525292,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 664,
+      "ms": 4450972,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 946,
+      "ms": 5262549,
+      "dish": "Fish"
+    }
+  ]
+}

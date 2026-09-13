@@ -1,0 +1,50 @@
+{
+  "id": "cab500d4-5b18-40ae-9468-8cefda195e20",
+  "persona": "JaRy",
+  "names": [
+    "JaRy"
+  ],
+  "runs": 4,
+  "bestRank": 32,
+  "worstRank": 193,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2063590,
+  "weeksActive": [
+    -48,
+    -2,
+    24,
+    26
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 37,
+      "ms": 2882834,
+      "dish": "Burgers"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 193,
+      "ms": 2974911,
+      "dish": "Pizza"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 32,
+      "ms": 2063590,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 84,
+      "ms": 2602124,
+      "dish": "Pizza"
+    }
+  ]
+}

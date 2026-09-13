@@ -1,0 +1,42 @@
+{
+  "id": "c4fecfe8-aaac-4276-b1d6-6201522be2c2",
+  "persona": "FestesTestes",
+  "names": [
+    "FestesTestes"
+  ],
+  "runs": 3,
+  "bestRank": 391,
+  "worstRank": 829,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4692783,
+  "weeksActive": [
+    -64,
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 443,
+      "ms": 6035973,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 829,
+      "ms": 8708081,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 391,
+      "ms": 4692783,
+      "dish": "Burgers"
+    }
+  ]
+}

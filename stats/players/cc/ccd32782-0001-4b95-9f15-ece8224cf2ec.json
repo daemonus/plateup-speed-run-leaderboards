@@ -1,0 +1,34 @@
+{
+  "id": "ccd32782-0001-4b95-9f15-ece8224cf2ec",
+  "persona": "Antariies",
+  "names": [
+    "Antariies"
+  ],
+  "runs": 2,
+  "bestRank": 557,
+  "worstRank": 677,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3027454,
+  "weeksActive": [
+    -90,
+    -37
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 677,
+      "ms": 3027454,
+      "dish": "Fish"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 557,
+      "ms": 3601193,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "67a483fc-99a4-4d5c-94fc-9389213d9817",
+  "persona": "FeroX",
+  "names": [
+    "FeroX"
+  ],
+  "runs": 5,
+  "bestRank": 137,
+  "worstRank": 434,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2501191,
+  "weeksActive": [
+    -75,
+    -67,
+    -61,
+    -60,
+    31
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 286,
+      "ms": 2501191,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 434,
+      "ms": 4494689,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 137,
+      "ms": 2772506,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 231,
+      "ms": 3692713,
+      "dish": "Burgers"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 230,
+      "ms": 3001104,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9b0ecf61-85f2-464b-b4ad-136d763ec6a1",
+  "persona": "Sparda",
+  "names": [
+    "Sparda"
+  ],
+  "runs": 2,
+  "bestRank": 191,
+  "worstRank": 196,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3128070,
+  "weeksActive": [
+    -49,
+    -21
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 191,
+      "ms": 4207547,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 196,
+      "ms": 3128070,
+      "dish": "Pizza"
+    }
+  ]
+}

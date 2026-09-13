@@ -1,0 +1,58 @@
+{
+  "id": "a9d58aa4-6673-4b2e-a72c-cc00552c2c11",
+  "persona": "NinaKu",
+  "names": [
+    "NinaKu"
+  ],
+  "runs": 5,
+  "bestRank": 79,
+  "worstRank": 267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1909892,
+  "weeksActive": [
+    71,
+    72,
+    73,
+    74,
+    77
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 267,
+      "ms": 3622863,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 94,
+      "ms": 2664441,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 147,
+      "ms": 2999439,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 152,
+      "ms": 3427708,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 79,
+      "ms": 1909892,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9dba3b54-89fe-449e-864c-a1679c465d48",
+  "persona": "Cytheel",
+  "names": [
+    "Cytheel"
+  ],
+  "runs": 3,
+  "bestRank": 114,
+  "worstRank": 375,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3363123,
+  "weeksActive": [
+    -78,
+    -1,
+    0
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 375,
+      "ms": 3702504,
+      "dish": "Burgers"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 118,
+      "ms": 3986847,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 114,
+      "ms": 3363123,
+      "dish": "Stir Fry"
+    }
+  ]
+}

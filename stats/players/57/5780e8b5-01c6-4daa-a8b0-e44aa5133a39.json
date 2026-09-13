@@ -1,0 +1,74 @@
+{
+  "id": "5780e8b5-01c6-4daa-a8b0-e44aa5133a39",
+  "persona": "\u8336",
+  "names": [
+    "\u8336"
+  ],
+  "runs": 7,
+  "bestRank": 328,
+  "worstRank": 2186,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2834662,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -88,
+    -38,
+    -37,
+    54
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2186,
+      "ms": 3285661,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 922,
+      "ms": 2834662,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 880,
+      "ms": 4309815,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 532,
+      "ms": 3892120,
+      "dish": "Pies"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 636,
+      "ms": 3595260,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 669,
+      "ms": 3813926,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 328,
+      "ms": 6129716,
+      "dish": "Burgers"
+    }
+  ]
+}

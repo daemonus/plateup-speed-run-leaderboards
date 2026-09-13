@@ -1,0 +1,58 @@
+{
+  "id": "f0ad66d7-a3a0-4abc-8b97-16c8a8acc15e",
+  "persona": "TU",
+  "names": [
+    "TU"
+  ],
+  "runs": 5,
+  "bestRank": 222,
+  "worstRank": 411,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3994395,
+  "weeksActive": [
+    -26,
+    -25,
+    -24,
+    -22,
+    -20
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 232,
+      "ms": 3994395,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 357,
+      "ms": 4092216,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 222,
+      "ms": 4479935,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 224,
+      "ms": 4835459,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 411,
+      "ms": 4219739,
+      "dish": "Burgers"
+    }
+  ]
+}

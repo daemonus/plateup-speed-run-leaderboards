@@ -1,0 +1,42 @@
+{
+  "id": "0ffbad42-c96a-4a65-abde-fddbadf49ab2",
+  "persona": "marine",
+  "names": [
+    "marine"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2577417,
+  "weeksActive": [
+    -44,
+    -41,
+    -38
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 277,
+      "ms": 3145631,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 249,
+      "ms": 4451168,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 265,
+      "ms": 2577417,
+      "dish": "Turkey"
+    }
+  ]
+}

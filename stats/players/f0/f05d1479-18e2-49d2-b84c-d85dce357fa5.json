@@ -1,0 +1,42 @@
+{
+  "id": "f05d1479-18e2-49d2-b84c-d85dce357fa5",
+  "persona": "Dom",
+  "names": [
+    "Dom"
+  ],
+  "runs": 3,
+  "bestRank": 46,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2492194,
+  "weeksActive": [
+    15,
+    16,
+    18
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 222,
+      "ms": 2492194,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 205,
+      "ms": 3922383,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 46,
+      "ms": 2545416,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

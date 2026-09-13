@@ -1,0 +1,42 @@
+{
+  "id": "cd59451a-8adc-46af-bb17-9ab7bf840ed3",
+  "persona": "GEJJO",
+  "names": [
+    "GEJJO"
+  ],
+  "runs": 3,
+  "bestRank": 225,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4248082,
+  "weeksActive": [
+    -59,
+    -58,
+    -57
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 712,
+      "ms": 5715128,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 225,
+      "ms": 4582104,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 243,
+      "ms": 4248082,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

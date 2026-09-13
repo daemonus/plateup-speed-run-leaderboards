@@ -1,0 +1,34 @@
+{
+  "id": "3ccf94bf-8765-426f-84e0-6d459b667b20",
+  "persona": "HHH",
+  "names": [
+    "HHH"
+  ],
+  "runs": 2,
+  "bestRank": 169,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3795297,
+  "weeksActive": [
+    16,
+    18
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 453,
+      "ms": 5429309,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 169,
+      "ms": 3795297,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "241af642-92e0-4613-a9b6-f2bea432374b",
+  "persona": "\u963F\u666E\u62C9\u718A",
+  "names": [
+    "\u963F\u666E\u62C9\u718A"
+  ],
+  "runs": 3,
+  "bestRank": 248,
+  "worstRank": 719,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3309281,
+  "weeksActive": [
+    62,
+    64,
+    70
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 356,
+      "ms": 3706266,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 719,
+      "ms": 3309281,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 248,
+      "ms": 3992328,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

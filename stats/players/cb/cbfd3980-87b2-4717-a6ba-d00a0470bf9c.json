@@ -1,0 +1,74 @@
+{
+  "id": "cbfd3980-87b2-4717-a6ba-d00a0470bf9c",
+  "persona": "jupyter",
+  "names": [
+    "jupyter"
+  ],
+  "runs": 7,
+  "bestRank": 145,
+  "worstRank": 639,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2297895,
+  "weeksActive": [
+    15,
+    16,
+    17,
+    18,
+    30,
+    67,
+    68
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 639,
+      "ms": 4413441,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 423,
+      "ms": 5204982,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 279,
+      "ms": 5303818,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 158,
+      "ms": 3626346,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 198,
+      "ms": 3110353,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 212,
+      "ms": 3326614,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 145,
+      "ms": 2297895,
+      "dish": "Turkey"
+    }
+  ]
+}

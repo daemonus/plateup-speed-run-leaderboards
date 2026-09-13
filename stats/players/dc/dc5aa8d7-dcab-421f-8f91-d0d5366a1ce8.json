@@ -1,0 +1,34 @@
+{
+  "id": "dc5aa8d7-dcab-421f-8f91-d0d5366a1ce8",
+  "persona": "Isocrates",
+  "names": [
+    "Isocrates"
+  ],
+  "runs": 2,
+  "bestRank": 375,
+  "worstRank": 380,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2712756,
+  "weeksActive": [
+    72,
+    84
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 375,
+      "ms": 5068668,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 380,
+      "ms": 2712756,
+      "dish": "Sundaes"
+    }
+  ]
+}

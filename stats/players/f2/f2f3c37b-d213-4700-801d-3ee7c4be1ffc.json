@@ -1,0 +1,58 @@
+{
+  "id": "f2f3c37b-d213-4700-801d-3ee7c4be1ffc",
+  "persona": "brifree",
+  "names": [
+    "brifree"
+  ],
+  "runs": 5,
+  "bestRank": 101,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2918243,
+  "weeksActive": [
+    77,
+    78,
+    79,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 419,
+      "ms": 4072123,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 206,
+      "ms": 3197820,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 204,
+      "ms": 4271024,
+      "dish": "Salad"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 101,
+      "ms": 2918243,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 332,
+      "ms": 3684563,
+      "dish": "Pizza"
+    }
+  ]
+}

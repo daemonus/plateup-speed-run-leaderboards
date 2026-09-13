@@ -1,0 +1,42 @@
+{
+  "id": "4344a987-697f-46dc-8e91-74dd786ef997",
+  "persona": "notarealdoctor",
+  "names": [
+    "notarealdoctor"
+  ],
+  "runs": 3,
+  "bestRank": 255,
+  "worstRank": 1511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2804423,
+  "weeksActive": [
+    -93,
+    -89,
+    -68
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1511,
+      "ms": 2804423,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 746,
+      "ms": 3713145,
+      "dish": "Pies"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 255,
+      "ms": 4479534,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4eb00056-00e0-47f5-bbdd-7876dae3c373",
+  "persona": "Todbinger",
+  "names": [
+    "Todbinger"
+  ],
+  "runs": 3,
+  "bestRank": 546,
+  "worstRank": 834,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4006272,
+  "weeksActive": [
+    -74,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 546,
+      "ms": 5074973,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 743,
+      "ms": 4006272,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 834,
+      "ms": 5238993,
+      "dish": "Pies"
+    }
+  ]
+}

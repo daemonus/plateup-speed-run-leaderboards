@@ -1,0 +1,50 @@
+{
+  "id": "c80764a6-7cea-47fa-8008-aa784e81d655",
+  "persona": "*\\\u542F-\u660E/*",
+  "names": [
+    "*\\\u542F-\u660E/*"
+  ],
+  "runs": 4,
+  "bestRank": 266,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4257738,
+  "weeksActive": [
+    -26,
+    -25,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 354,
+      "ms": 4712571,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 403,
+      "ms": 4257738,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 398,
+      "ms": 5021131,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 266,
+      "ms": 4393125,
+      "dish": "Pizza"
+    }
+  ]
+}

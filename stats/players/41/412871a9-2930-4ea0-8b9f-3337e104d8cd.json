@@ -1,0 +1,42 @@
+{
+  "id": "412871a9-2930-4ea0-8b9f-3337e104d8cd",
+  "persona": "kentpwns",
+  "names": [
+    "kentpwns"
+  ],
+  "runs": 3,
+  "bestRank": 160,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4152542,
+  "weeksActive": [
+    50,
+    51,
+    75
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 160,
+      "ms": 4152542,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 393,
+      "ms": 7768190,
+      "dish": "Salad"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 320,
+      "ms": 4756718,
+      "dish": "Pies"
+    }
+  ]
+}

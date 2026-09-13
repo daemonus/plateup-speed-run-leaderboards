@@ -1,0 +1,42 @@
+{
+  "id": "91ac5b41-476a-48e8-9240-c95710961656",
+  "persona": "Exeton",
+  "names": [
+    "Exeton"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 1499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2278562,
+  "weeksActive": [
+    -94,
+    -93,
+    -87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1499,
+      "ms": 4209462,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 726,
+      "ms": 2278562,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 249,
+      "ms": 3144141,
+      "dish": "Stir Fry"
+    }
+  ]
+}

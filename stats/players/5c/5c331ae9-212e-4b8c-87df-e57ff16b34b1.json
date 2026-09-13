@@ -1,0 +1,50 @@
+{
+  "id": "5c331ae9-212e-4b8c-87df-e57ff16b34b1",
+  "persona": "Purphie",
+  "names": [
+    "Purphie"
+  ],
+  "runs": 4,
+  "bestRank": 257,
+  "worstRank": 1947,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2848966,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1523,
+      "ms": 4286370,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1947,
+      "ms": 3096432,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 458,
+      "ms": 2848966,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 257,
+      "ms": 3065614,
+      "dish": "Steak"
+    }
+  ]
+}

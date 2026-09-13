@@ -1,0 +1,42 @@
+{
+  "id": "543158a2-3f55-40c3-b20f-5bd992635543",
+  "persona": "Chacuri",
+  "names": [
+    "Chacuri"
+  ],
+  "runs": 3,
+  "bestRank": 210,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2708820,
+  "weeksActive": [
+    23,
+    24,
+    52
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 364,
+      "ms": 3485324,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 246,
+      "ms": 3296675,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 210,
+      "ms": 2708820,
+      "dish": "Fish"
+    }
+  ]
+}

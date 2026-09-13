@@ -1,0 +1,34 @@
+{
+  "id": "b4d0af4c-5439-4cae-8bd1-5eff70fb7489",
+  "persona": "jinn",
+  "names": [
+    "jinn"
+  ],
+  "runs": 2,
+  "bestRank": 436,
+  "worstRank": 569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2798439,
+  "weeksActive": [
+    -21,
+    83
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 569,
+      "ms": 6308966,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 436,
+      "ms": 2798439,
+      "dish": "Sundaes"
+    }
+  ]
+}

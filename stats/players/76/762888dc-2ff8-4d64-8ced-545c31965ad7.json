@@ -1,0 +1,58 @@
+{
+  "id": "762888dc-2ff8-4d64-8ced-545c31965ad7",
+  "persona": "TheViper",
+  "names": [
+    "TheViper"
+  ],
+  "runs": 5,
+  "bestRank": 182,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2932062,
+  "weeksActive": [
+    46,
+    47,
+    48,
+    52,
+    59
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 500,
+      "ms": 4572212,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 283,
+      "ms": 4323628,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 182,
+      "ms": 4701689,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 274,
+      "ms": 2932062,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 325,
+      "ms": 3998752,
+      "dish": "Salad"
+    }
+  ]
+}

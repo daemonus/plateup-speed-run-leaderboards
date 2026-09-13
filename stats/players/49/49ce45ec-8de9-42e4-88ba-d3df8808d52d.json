@@ -1,0 +1,34 @@
+{
+  "id": "49ce45ec-8de9-42e4-88ba-d3df8808d52d",
+  "persona": "Narcissus",
+  "names": [
+    "Narcissus"
+  ],
+  "runs": 2,
+  "bestRank": 422,
+  "worstRank": 620,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5465173,
+  "weeksActive": [
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 620,
+      "ms": 5727229,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 422,
+      "ms": 5465173,
+      "dish": "Stir Fry"
+    }
+  ]
+}

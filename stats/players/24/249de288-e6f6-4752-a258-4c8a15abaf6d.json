@@ -1,0 +1,50 @@
+{
+  "id": "249de288-e6f6-4752-a258-4c8a15abaf6d",
+  "persona": "Maggie the Katt",
+  "names": [
+    "Maggie the Katt"
+  ],
+  "runs": 4,
+  "bestRank": 215,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3539142,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 459,
+      "ms": 3706442,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 259,
+      "ms": 3852683,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 245,
+      "ms": 3786575,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 215,
+      "ms": 3539142,
+      "dish": "Breakfast"
+    }
+  ]
+}

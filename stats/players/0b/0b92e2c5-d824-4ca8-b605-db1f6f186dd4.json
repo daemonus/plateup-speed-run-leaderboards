@@ -1,0 +1,42 @@
+{
+  "id": "0b92e2c5-d824-4ca8-b605-db1f6f186dd4",
+  "persona": "Bootfahrerin",
+  "names": [
+    "Bootfahrerin"
+  ],
+  "runs": 3,
+  "bestRank": 228,
+  "worstRank": 599,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2842777,
+  "weeksActive": [
+    -75,
+    -34,
+    56
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 599,
+      "ms": 3288715,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 228,
+      "ms": 3095147,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 523,
+      "ms": 2842777,
+      "dish": "Sundaes"
+    }
+  ]
+}

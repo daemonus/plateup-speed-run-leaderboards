@@ -1,0 +1,50 @@
+{
+  "id": "84314eb7-b416-4d80-9a5a-1d7898dbfb87",
+  "persona": "Kiova Swordstress",
+  "names": [
+    "Kiova Swordstress"
+  ],
+  "runs": 4,
+  "bestRank": 308,
+  "worstRank": 873,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3088542,
+  "weeksActive": [
+    -81,
+    -71,
+    -56,
+    -51
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 339,
+      "ms": 4587948,
+      "dish": "Steak"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 873,
+      "ms": 3973377,
+      "dish": "Turkey"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 406,
+      "ms": 3945347,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 308,
+      "ms": 3088542,
+      "dish": "Turkey"
+    }
+  ]
+}

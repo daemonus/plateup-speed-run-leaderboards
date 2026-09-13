@@ -1,0 +1,34 @@
+{
+  "id": "1f91030a-b085-4086-a962-71f4fcff599f",
+  "persona": "Wind",
+  "names": [
+    "Wind"
+  ],
+  "runs": 2,
+  "bestRank": 92,
+  "worstRank": 107,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2564284,
+  "weeksActive": [
+    -55,
+    78
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 92,
+      "ms": 2644218,
+      "dish": "Pizza"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 107,
+      "ms": 2564284,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

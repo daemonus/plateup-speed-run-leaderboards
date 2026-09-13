@@ -1,0 +1,42 @@
+{
+  "id": "8477cdcd-5dcc-4dc4-8d80-ae908b86f8a1",
+  "persona": "darthspot",
+  "names": [
+    "darthspot"
+  ],
+  "runs": 3,
+  "bestRank": 270,
+  "worstRank": 1278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2643054,
+  "weeksActive": [
+    -93,
+    0,
+    11
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1278,
+      "ms": 2643054,
+      "dish": "Fish"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 332,
+      "ms": 4639144,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 270,
+      "ms": 4865236,
+      "dish": "Salad"
+    }
+  ]
+}

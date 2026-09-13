@@ -1,0 +1,42 @@
+{
+  "id": "0e55d7aa-3083-4bef-9695-29d87dee043b",
+  "persona": "ImDaeBob",
+  "names": [
+    "ImDaeBob"
+  ],
+  "runs": 3,
+  "bestRank": 476,
+  "worstRank": 610,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3156291,
+  "weeksActive": [
+    -32,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 610,
+      "ms": 3734158,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 505,
+      "ms": 3802060,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 476,
+      "ms": 3156291,
+      "dish": "Turkey"
+    }
+  ]
+}

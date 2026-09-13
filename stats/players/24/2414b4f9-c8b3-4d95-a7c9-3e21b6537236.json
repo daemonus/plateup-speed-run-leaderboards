@@ -1,0 +1,34 @@
+{
+  "id": "2414b4f9-c8b3-4d95-a7c9-3e21b6537236",
+  "persona": "Atomic_University",
+  "names": [
+    "Atomic_University"
+  ],
+  "runs": 2,
+  "bestRank": 243,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2339431,
+  "weeksActive": [
+    -91,
+    -82
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 512,
+      "ms": 2339431,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 243,
+      "ms": 2648182,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bcc68b71-597c-42ef-b716-f714addec0e6",
+  "persona": "camjamma",
+  "names": [
+    "camjamma"
+  ],
+  "runs": 3,
+  "bestRank": 20,
+  "worstRank": 94,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1072578,
+  "weeksActive": [
+    52,
+    56,
+    58
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 94,
+      "ms": 2203926,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 20,
+      "ms": 1072578,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 40,
+      "ms": 1982724,
+      "dish": "Turkey"
+    }
+  ]
+}

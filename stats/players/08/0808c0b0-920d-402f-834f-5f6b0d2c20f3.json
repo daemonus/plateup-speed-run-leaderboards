@@ -1,0 +1,50 @@
+{
+  "id": "0808c0b0-920d-402f-834f-5f6b0d2c20f3",
+  "persona": "Emesis",
+  "names": [
+    "Emesis"
+  ],
+  "runs": 4,
+  "bestRank": 341,
+  "worstRank": 844,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2183372,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 844,
+      "ms": 2343335,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 391,
+      "ms": 2183372,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 725,
+      "ms": 3093738,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 341,
+      "ms": 3449752,
+      "dish": "Stir Fry"
+    }
+  ]
+}

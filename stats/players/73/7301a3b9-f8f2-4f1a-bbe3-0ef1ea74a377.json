@@ -1,0 +1,42 @@
+{
+  "id": "7301a3b9-f8f2-4f1a-bbe3-0ef1ea74a377",
+  "persona": "Viendra",
+  "names": [
+    "Viendra"
+  ],
+  "runs": 3,
+  "bestRank": 96,
+  "worstRank": 312,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2685455,
+  "weeksActive": [
+    -70,
+    -69,
+    -66
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 246,
+      "ms": 3783770,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 312,
+      "ms": 4736236,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 96,
+      "ms": 2685455,
+      "dish": "Turkey"
+    }
+  ]
+}

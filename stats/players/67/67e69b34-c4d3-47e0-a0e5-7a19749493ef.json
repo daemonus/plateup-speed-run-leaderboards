@@ -1,0 +1,58 @@
+{
+  "id": "67e69b34-c4d3-47e0-a0e5-7a19749493ef",
+  "persona": "Grace",
+  "names": [
+    "Grace"
+  ],
+  "runs": 5,
+  "bestRank": 150,
+  "worstRank": 527,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3139381,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -83,
+    -50
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 323,
+      "ms": 3391657,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 527,
+      "ms": 3139381,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 443,
+      "ms": 3348472,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 461,
+      "ms": 3978738,
+      "dish": "Steak"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 150,
+      "ms": 3753559,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

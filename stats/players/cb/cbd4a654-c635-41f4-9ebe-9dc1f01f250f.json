@@ -1,0 +1,50 @@
+{
+  "id": "cbd4a654-c635-41f4-9ebe-9dc1f01f250f",
+  "persona": "Ace Otterney",
+  "names": [
+    "Ace Otterney"
+  ],
+  "runs": 4,
+  "bestRank": 129,
+  "worstRank": 356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2463993,
+  "weeksActive": [
+    -77,
+    -75,
+    -74,
+    -73
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 356,
+      "ms": 3222465,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 272,
+      "ms": 2463993,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 325,
+      "ms": 3769564,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 129,
+      "ms": 3848281,
+      "dish": "Stir Fry"
+    }
+  ]
+}

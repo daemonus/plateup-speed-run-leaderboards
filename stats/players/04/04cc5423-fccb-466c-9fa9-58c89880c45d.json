@@ -1,0 +1,66 @@
+{
+  "id": "04cc5423-fccb-466c-9fa9-58c89880c45d",
+  "persona": "Raben",
+  "names": [
+    "Raben"
+  ],
+  "runs": 6,
+  "bestRank": 16,
+  "worstRank": 780,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2038173,
+  "weeksActive": [
+    -94,
+    -67,
+    -63,
+    -51,
+    -47,
+    -46
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 780,
+      "ms": 3173843,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 193,
+      "ms": 3424081,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 155,
+      "ms": 3120043,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 51,
+      "ms": 2038173,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 16,
+      "ms": 2218710,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 68,
+      "ms": 2882526,
+      "dish": "Salad"
+    }
+  ]
+}

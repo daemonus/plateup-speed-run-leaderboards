@@ -1,0 +1,34 @@
+{
+  "id": "48e333bd-5075-4c06-9954-c99bccd39cba",
+  "persona": "Inf_Weaker",
+  "names": [
+    "Inf_Weaker"
+  ],
+  "runs": 2,
+  "bestRank": 164,
+  "worstRank": 204,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2688698,
+  "weeksActive": [
+    -44,
+    0
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 164,
+      "ms": 2688698,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 204,
+      "ms": 3989012,
+      "dish": "Stir Fry"
+    }
+  ]
+}

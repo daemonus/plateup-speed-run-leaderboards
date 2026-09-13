@@ -1,0 +1,82 @@
+{
+  "id": "415f4c4b-1c5d-42b0-ade0-7c5238575c87",
+  "persona": "numa",
+  "names": [
+    "numa"
+  ],
+  "runs": 8,
+  "bestRank": 27,
+  "worstRank": 142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1968019,
+  "weeksActive": [
+    -38,
+    -37,
+    -36,
+    -35,
+    7,
+    8,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 102,
+      "ms": 1968019,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 48,
+      "ms": 2016061,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 27,
+      "ms": 2812753,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 42,
+      "ms": 2667932,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 142,
+      "ms": 2863901,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 81,
+      "ms": 1994550,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 93,
+      "ms": 2375967,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 53,
+      "ms": 2176268,
+      "dish": "Pies"
+    }
+  ]
+}

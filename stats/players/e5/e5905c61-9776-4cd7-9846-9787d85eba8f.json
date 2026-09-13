@@ -1,0 +1,42 @@
+{
+  "id": "e5905c61-9776-4cd7-9846-9787d85eba8f",
+  "persona": "Filbo",
+  "names": [
+    "Filbo"
+  ],
+  "runs": 3,
+  "bestRank": 168,
+  "worstRank": 684,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3183988,
+  "weeksActive": [
+    -39,
+    -38,
+    -35
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 337,
+      "ms": 3183988,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 684,
+      "ms": 3791805,
+      "dish": "Turkey"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 168,
+      "ms": 3970727,
+      "dish": "Breakfast"
+    }
+  ]
+}

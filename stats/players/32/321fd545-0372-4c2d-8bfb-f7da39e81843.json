@@ -1,0 +1,42 @@
+{
+  "id": "321fd545-0372-4c2d-8bfb-f7da39e81843",
+  "persona": "mixna",
+  "names": [
+    "mixna"
+  ],
+  "runs": 3,
+  "bestRank": 184,
+  "worstRank": 348,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2797270,
+  "weeksActive": [
+    -42,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 184,
+      "ms": 4223504,
+      "dish": "Burgers"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 348,
+      "ms": 2797270,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 340,
+      "ms": 3099681,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "8af36b4f-65ea-4baa-8cf5-46e4f3e6edf7",
+  "persona": "John Boulder",
+  "names": [
+    "John Boulder"
+  ],
+  "runs": 5,
+  "bestRank": 196,
+  "worstRank": 368,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3268165,
+  "weeksActive": [
+    -83,
+    -43,
+    -42,
+    -41,
+    -15
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 301,
+      "ms": 3268165,
+      "dish": "Steak"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 196,
+      "ms": 3610123,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 247,
+      "ms": 8876529,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 357,
+      "ms": 5233799,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 368,
+      "ms": 3418216,
+      "dish": "Fish"
+    }
+  ]
+}

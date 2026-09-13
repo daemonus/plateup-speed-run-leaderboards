@@ -1,0 +1,42 @@
+{
+  "id": "55cfc316-34f6-488d-acf7-0e2153723587",
+  "persona": "TheMaker",
+  "names": [
+    "TheMaker"
+  ],
+  "runs": 3,
+  "bestRank": 204,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3345029,
+  "weeksActive": [
+    51,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 204,
+      "ms": 3904202,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 561,
+      "ms": 4020366,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 220,
+      "ms": 3345029,
+      "dish": "Pies"
+    }
+  ]
+}

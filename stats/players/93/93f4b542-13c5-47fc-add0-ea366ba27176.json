@@ -1,0 +1,34 @@
+{
+  "id": "93f4b542-13c5-47fc-add0-ea366ba27176",
+  "persona": "imagine",
+  "names": [
+    "imagine"
+  ],
+  "runs": 2,
+  "bestRank": 15,
+  "worstRank": 128,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1616531,
+  "weeksActive": [
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 15,
+      "ms": 2089037,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 128,
+      "ms": 1616531,
+      "dish": "Sundaes"
+    }
+  ]
+}

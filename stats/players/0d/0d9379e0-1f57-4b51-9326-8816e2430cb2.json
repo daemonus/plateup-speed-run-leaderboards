@@ -1,0 +1,34 @@
+{
+  "id": "0d9379e0-1f57-4b51-9326-8816e2430cb2",
+  "persona": "Koko",
+  "names": [
+    "Koko"
+  ],
+  "runs": 2,
+  "bestRank": 174,
+  "worstRank": 420,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2230641,
+  "weeksActive": [
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 174,
+      "ms": 2230641,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 420,
+      "ms": 3361296,
+      "dish": "Turkey"
+    }
+  ]
+}

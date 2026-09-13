@@ -1,0 +1,34 @@
+{
+  "id": "b0d8f9a5-191a-45a1-aa0d-f1eec0576830",
+  "persona": "rice",
+  "names": [
+    "rice"
+  ],
+  "runs": 2,
+  "bestRank": 342,
+  "worstRank": 371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3036292,
+  "weeksActive": [
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 371,
+      "ms": 4247955,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 342,
+      "ms": 3036292,
+      "dish": "Sundaes"
+    }
+  ]
+}

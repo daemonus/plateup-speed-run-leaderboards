@@ -1,0 +1,50 @@
+{
+  "id": "b2638d44-d54c-4f7e-8186-1d1e9dd8e509",
+  "persona": "brutaltostitos",
+  "names": [
+    "brutaltostitos"
+  ],
+  "runs": 4,
+  "bestRank": 31,
+  "worstRank": 103,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1566890,
+  "weeksActive": [
+    -91,
+    -89,
+    -88,
+    -25
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 103,
+      "ms": 1690380,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 57,
+      "ms": 1566890,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 85,
+      "ms": 2233474,
+      "dish": "Pies"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 31,
+      "ms": 2113251,
+      "dish": "Breakfast"
+    }
+  ]
+}

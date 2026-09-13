@@ -1,0 +1,50 @@
+{
+  "id": "34541054-4f53-4c0e-984f-f9fe6a520576",
+  "persona": "Kwini",
+  "names": [
+    "Kwini"
+  ],
+  "runs": 4,
+  "bestRank": 234,
+  "worstRank": 593,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3234268,
+  "weeksActive": [
+    -45,
+    -37,
+    -30,
+    27
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 459,
+      "ms": 4439403,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 593,
+      "ms": 3660681,
+      "dish": "Fish"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 509,
+      "ms": 3234268,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 234,
+      "ms": 3936938,
+      "dish": "Breakfast"
+    }
+  ]
+}

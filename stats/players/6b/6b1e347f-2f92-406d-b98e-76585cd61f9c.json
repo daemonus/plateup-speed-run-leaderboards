@@ -1,0 +1,42 @@
+{
+  "id": "6b1e347f-2f92-406d-b98e-76585cd61f9c",
+  "persona": "Wbey",
+  "names": [
+    "Wbey"
+  ],
+  "runs": 3,
+  "bestRank": 144,
+  "worstRank": 878,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2278516,
+  "weeksActive": [
+    -94,
+    -93,
+    -76
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 878,
+      "ms": 3289697,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 725,
+      "ms": 2278516,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 144,
+      "ms": 2284723,
+      "dish": "Turkey"
+    }
+  ]
+}

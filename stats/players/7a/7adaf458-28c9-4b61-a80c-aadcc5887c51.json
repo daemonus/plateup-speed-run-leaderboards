@@ -1,0 +1,34 @@
+{
+  "id": "7adaf458-28c9-4b61-a80c-aadcc5887c51",
+  "persona": "culupo",
+  "names": [
+    "culupo"
+  ],
+  "runs": 2,
+  "bestRank": 319,
+  "worstRank": 329,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2322770,
+  "weeksActive": [
+    59,
+    64
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 319,
+      "ms": 3961364,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 329,
+      "ms": 2322770,
+      "dish": "Sundaes"
+    }
+  ]
+}

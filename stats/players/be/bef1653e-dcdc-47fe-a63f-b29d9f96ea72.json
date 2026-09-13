@@ -1,0 +1,50 @@
+{
+  "id": "bef1653e-dcdc-47fe-a63f-b29d9f96ea72",
+  "persona": "kaitydid_",
+  "names": [
+    "kaitydid_"
+  ],
+  "runs": 4,
+  "bestRank": 204,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3420617,
+  "weeksActive": [
+    52,
+    53,
+    61,
+    72
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 706,
+      "ms": 61347468,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 395,
+      "ms": 4371542,
+      "dish": "Pies"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 271,
+      "ms": 3979659,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 204,
+      "ms": 3420617,
+      "dish": "Breakfast"
+    }
+  ]
+}

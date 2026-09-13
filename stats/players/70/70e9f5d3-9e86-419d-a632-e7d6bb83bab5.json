@@ -1,0 +1,50 @@
+{
+  "id": "70e9f5d3-9e86-419d-a632-e7d6bb83bab5",
+  "persona": "karajalee",
+  "names": [
+    "karajalee"
+  ],
+  "runs": 4,
+  "bestRank": 168,
+  "worstRank": 556,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2564053,
+  "weeksActive": [
+    5,
+    8,
+    19,
+    36
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 556,
+      "ms": 7263916,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 505,
+      "ms": 3292910,
+      "dish": "Fish"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 352,
+      "ms": 4698487,
+      "dish": "Pizza"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 168,
+      "ms": 2564053,
+      "dish": "Fish"
+    }
+  ]
+}

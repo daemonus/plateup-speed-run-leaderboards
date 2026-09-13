@@ -1,0 +1,114 @@
+{
+  "id": "783b3d96-7d50-4190-a38e-1cde5c1bd831",
+  "persona": "fugu",
+  "names": [
+    "fugu"
+  ],
+  "runs": 12,
+  "bestRank": 50,
+  "worstRank": 250,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2207114,
+  "weeksActive": [
+    36,
+    65,
+    68,
+    70,
+    71,
+    72,
+    74,
+    75,
+    80,
+    81,
+    82,
+    85
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 220,
+      "ms": 2816591,
+      "dish": "Fish"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 250,
+      "ms": 3618770,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 175,
+      "ms": 2430763,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 240,
+      "ms": 3893544,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 114,
+      "ms": 2696668,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 146,
+      "ms": 3022522,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 92,
+      "ms": 3040420,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 50,
+      "ms": 2303451,
+      "dish": "Pies"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 148,
+      "ms": 2970220,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 76,
+      "ms": 2726092,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 138,
+      "ms": 2680631,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 64,
+      "ms": 2207114,
+      "dish": "Fish"
+    }
+  ]
+}

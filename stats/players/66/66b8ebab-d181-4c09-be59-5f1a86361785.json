@@ -1,0 +1,74 @@
+{
+  "id": "66b8ebab-d181-4c09-be59-5f1a86361785",
+  "persona": "special023",
+  "names": [
+    "special023"
+  ],
+  "runs": 7,
+  "bestRank": 73,
+  "worstRank": 254,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2386192,
+  "weeksActive": [
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 254,
+      "ms": 3736167,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 115,
+      "ms": 3173770,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 112,
+      "ms": 3253067,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 121,
+      "ms": 2724817,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 138,
+      "ms": 3651503,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 91,
+      "ms": 2386192,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 73,
+      "ms": 2945766,
+      "dish": "Stir Fry"
+    }
+  ]
+}

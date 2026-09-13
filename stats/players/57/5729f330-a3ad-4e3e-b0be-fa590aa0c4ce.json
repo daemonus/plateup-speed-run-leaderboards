@@ -1,0 +1,50 @@
+{
+  "id": "5729f330-a3ad-4e3e-b0be-fa590aa0c4ce",
+  "persona": "PANDA",
+  "names": [
+    "PANDA"
+  ],
+  "runs": 4,
+  "bestRank": 159,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2400215,
+  "weeksActive": [
+    -26,
+    39,
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 159,
+      "ms": 3484028,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 163,
+      "ms": 3554665,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 219,
+      "ms": 3941280,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 324,
+      "ms": 2400215,
+      "dish": "Turkey"
+    }
+  ]
+}

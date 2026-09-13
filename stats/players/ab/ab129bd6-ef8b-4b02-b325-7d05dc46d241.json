@@ -1,0 +1,42 @@
+{
+  "id": "ab129bd6-ef8b-4b02-b325-7d05dc46d241",
+  "persona": "moilyherbs",
+  "names": [
+    "moilyherbs"
+  ],
+  "runs": 3,
+  "bestRank": 113,
+  "worstRank": 452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3090574,
+  "weeksActive": [
+    -83,
+    -36,
+    -25
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 452,
+      "ms": 3909068,
+      "dish": "Steak"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 113,
+      "ms": 4729830,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 136,
+      "ms": 3090574,
+      "dish": "Breakfast"
+    }
+  ]
+}

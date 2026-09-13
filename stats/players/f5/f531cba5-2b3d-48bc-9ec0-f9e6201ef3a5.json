@@ -1,0 +1,34 @@
+{
+  "id": "f531cba5-2b3d-48bc-9ec0-f9e6201ef3a5",
+  "persona": "SciFunk",
+  "names": [
+    "SciFunk"
+  ],
+  "runs": 2,
+  "bestRank": 176,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3353125,
+  "weeksActive": [
+    15,
+    17
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 545,
+      "ms": 3835792,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 176,
+      "ms": 3353125,
+      "dish": "Pizza"
+    }
+  ]
+}

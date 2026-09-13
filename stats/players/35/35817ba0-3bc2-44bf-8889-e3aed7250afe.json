@@ -1,0 +1,42 @@
+{
+  "id": "35817ba0-3bc2-44bf-8889-e3aed7250afe",
+  "persona": "DeVice",
+  "names": [
+    "DeVice"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3380856,
+  "weeksActive": [
+    -37,
+    -35,
+    -33
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 451,
+      "ms": 3380856,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 197,
+      "ms": 4325526,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 238,
+      "ms": 3627144,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

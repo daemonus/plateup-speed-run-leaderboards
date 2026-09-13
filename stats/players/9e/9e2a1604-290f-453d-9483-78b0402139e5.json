@@ -1,0 +1,74 @@
+{
+  "id": "9e2a1604-290f-453d-9483-78b0402139e5",
+  "persona": "tripdoll",
+  "names": [
+    "tripdoll"
+  ],
+  "runs": 7,
+  "bestRank": 101,
+  "worstRank": 586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2731588,
+  "weeksActive": [
+    -57,
+    -56,
+    -55,
+    -54,
+    -50,
+    -49,
+    -16
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 155,
+      "ms": 3461863,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 152,
+      "ms": 2731588,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 381,
+      "ms": 4060568,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 101,
+      "ms": 3715381,
+      "dish": "Salad"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 175,
+      "ms": 4028528,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 230,
+      "ms": 4897569,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 586,
+      "ms": 4576993,
+      "dish": "Pies"
+    }
+  ]
+}

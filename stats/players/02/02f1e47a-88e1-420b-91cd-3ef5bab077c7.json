@@ -1,0 +1,42 @@
+{
+  "id": "02f1e47a-88e1-420b-91cd-3ef5bab077c7",
+  "persona": "Rats",
+  "names": [
+    "Rats"
+  ],
+  "runs": 3,
+  "bestRank": 822,
+  "worstRank": 1344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3415553,
+  "weeksActive": [
+    -94,
+    -91,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1344,
+      "ms": 3905419,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1306,
+      "ms": 3415553,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 822,
+      "ms": 6712025,
+      "dish": "Fish"
+    }
+  ]
+}

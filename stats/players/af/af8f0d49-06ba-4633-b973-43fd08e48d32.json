@@ -1,0 +1,58 @@
+{
+  "id": "af8f0d49-06ba-4633-b973-43fd08e48d32",
+  "persona": "AN Poring",
+  "names": [
+    "AN Poring"
+  ],
+  "runs": 5,
+  "bestRank": 303,
+  "worstRank": 1174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6394843,
+  "weeksActive": [
+    -50,
+    -43,
+    -33,
+    -32,
+    13
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 303,
+      "ms": 6536366,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 325,
+      "ms": 9050858,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 465,
+      "ms": 6982593,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1174,
+      "ms": 6394843,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 807,
+      "ms": 7108748,
+      "dish": "Turkey"
+    }
+  ]
+}

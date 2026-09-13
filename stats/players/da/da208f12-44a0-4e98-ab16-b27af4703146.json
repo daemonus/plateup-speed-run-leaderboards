@@ -1,0 +1,50 @@
+{
+  "id": "da208f12-44a0-4e98-ab16-b27af4703146",
+  "persona": "myortha",
+  "names": [
+    "myortha"
+  ],
+  "runs": 4,
+  "bestRank": 140,
+  "worstRank": 443,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2812400,
+  "weeksActive": [
+    29,
+    30,
+    31,
+    83
+  ],
+  "history": [
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 140,
+      "ms": 3866204,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 409,
+      "ms": 4373791,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 392,
+      "ms": 3717819,
+      "dish": "Fish"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 443,
+      "ms": 2812400,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1fb40559-d4ad-4f03-adf8-06430bf22879",
+  "persona": "mellanggom",
+  "names": [
+    "mellanggom"
+  ],
+  "runs": 4,
+  "bestRank": 195,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2313789,
+  "weeksActive": [
+    64,
+    65,
+    66,
+    67
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 324,
+      "ms": 2313789,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 195,
+      "ms": 3333070,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 281,
+      "ms": 3393242,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 292,
+      "ms": 3942579,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

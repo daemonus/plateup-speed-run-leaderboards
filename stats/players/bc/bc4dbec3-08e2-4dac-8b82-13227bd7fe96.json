@@ -1,0 +1,58 @@
+{
+  "id": "bc4dbec3-08e2-4dac-8b82-13227bd7fe96",
+  "persona": "Boris",
+  "names": [
+    "Boris"
+  ],
+  "runs": 5,
+  "bestRank": 90,
+  "worstRank": 490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1560771,
+  "weeksActive": [
+    -57,
+    84,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 142,
+      "ms": 3329928,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 490,
+      "ms": 3355480,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 370,
+      "ms": 4220049,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 90,
+      "ms": 1560771,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 146,
+      "ms": 4250303,
+      "dish": "Fajitas"
+    }
+  ]
+}

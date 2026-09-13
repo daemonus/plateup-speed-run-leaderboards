@@ -1,0 +1,34 @@
+{
+  "id": "5322063c-8af9-4ab4-9a89-2dae9facfc93",
+  "persona": "legned",
+  "names": [
+    "legned"
+  ],
+  "runs": 2,
+  "bestRank": 148,
+  "worstRank": 178,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4380105,
+  "weeksActive": [
+    49,
+    87
+  ],
+  "history": [
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 148,
+      "ms": 4380105,
+      "dish": "Burgers"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 178,
+      "ms": 4743888,
+      "dish": "Fajitas"
+    }
+  ]
+}

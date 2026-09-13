@@ -1,0 +1,50 @@
+{
+  "id": "6c06e563-5034-44da-9210-5c2076030417",
+  "persona": "RareChain",
+  "names": [
+    "RareChain"
+  ],
+  "runs": 4,
+  "bestRank": 513,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3340346,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -76
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 513,
+      "ms": 4467522,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 612,
+      "ms": 3369370,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 685,
+      "ms": 5630675,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 550,
+      "ms": 3340346,
+      "dish": "Turkey"
+    }
+  ]
+}

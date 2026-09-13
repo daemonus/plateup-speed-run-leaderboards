@@ -1,0 +1,42 @@
+{
+  "id": "103d0371-d934-428d-b050-8c78f4b770c7",
+  "persona": "Per aspera ad astra",
+  "names": [
+    "Per aspera ad astra"
+  ],
+  "runs": 3,
+  "bestRank": 44,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2343095,
+  "weeksActive": [
+    15,
+    17,
+    21
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 314,
+      "ms": 2869721,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 44,
+      "ms": 2343095,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 187,
+      "ms": 2982903,
+      "dish": "Burgers"
+    }
+  ]
+}

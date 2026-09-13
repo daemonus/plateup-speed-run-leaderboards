@@ -1,0 +1,42 @@
+{
+  "id": "92c7c2ec-908f-45b0-a80f-38753f1fcf5b",
+  "persona": "lemarchesi9",
+  "names": [
+    "lemarchesi9"
+  ],
+  "runs": 3,
+  "bestRank": 233,
+  "worstRank": 580,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3243993,
+  "weeksActive": [
+    -84,
+    -80,
+    -76
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 580,
+      "ms": 3940417,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 233,
+      "ms": 4536985,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 498,
+      "ms": 3243993,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "8f946bda-64da-463a-a58c-5f26522534ea",
+  "persona": "Tay",
+  "names": [
+    "Tay"
+  ],
+  "runs": 2,
+  "bestRank": 412,
+  "worstRank": 413,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4759103,
+  "weeksActive": [
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 412,
+      "ms": 5127091,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 413,
+      "ms": 4759103,
+      "dish": "Pies"
+    }
+  ]
+}

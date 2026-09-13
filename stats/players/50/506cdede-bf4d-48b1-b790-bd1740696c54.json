@@ -1,0 +1,58 @@
+{
+  "id": "506cdede-bf4d-48b1-b790-bd1740696c54",
+  "persona": "Defarge",
+  "names": [
+    "Defarge"
+  ],
+  "runs": 5,
+  "bestRank": 74,
+  "worstRank": 845,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2231692,
+  "weeksActive": [
+    -93,
+    -92,
+    -56,
+    -55,
+    8
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 845,
+      "ms": 2343656,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 453,
+      "ms": 3287194,
+      "dish": "Steak"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 74,
+      "ms": 2231692,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 110,
+      "ms": 2780324,
+      "dish": "Pizza"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 189,
+      "ms": 2439367,
+      "dish": "Fish"
+    }
+  ]
+}

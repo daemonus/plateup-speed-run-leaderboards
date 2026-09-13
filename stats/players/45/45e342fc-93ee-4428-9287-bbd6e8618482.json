@@ -1,0 +1,106 @@
+{
+  "id": "45e342fc-93ee-4428-9287-bbd6e8618482",
+  "persona": "Nice",
+  "names": [
+    "Nice"
+  ],
+  "runs": 11,
+  "bestRank": 107,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2685522,
+  "weeksActive": [
+    -12,
+    -7,
+    -6,
+    -5,
+    -3,
+    -2,
+    12,
+    27,
+    28,
+    30,
+    32
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 204,
+      "ms": 3670490,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 107,
+      "ms": 3571583,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 296,
+      "ms": 3936160,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 116,
+      "ms": 3206467,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 264,
+      "ms": 2846992,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 276,
+      "ms": 3407191,
+      "dish": "Pizza"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 352,
+      "ms": 3080569,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 124,
+      "ms": 2900021,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 241,
+      "ms": 3048194,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 254,
+      "ms": 3376322,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 112,
+      "ms": 2685522,
+      "dish": "Pies"
+    }
+  ]
+}

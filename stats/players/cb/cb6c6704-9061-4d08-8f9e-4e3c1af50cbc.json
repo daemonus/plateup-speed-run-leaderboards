@@ -1,0 +1,50 @@
+{
+  "id": "cb6c6704-9061-4d08-8f9e-4e3c1af50cbc",
+  "persona": "Pyromadness",
+  "names": [
+    "Pyromadness"
+  ],
+  "runs": 4,
+  "bestRank": 181,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2562784,
+  "weeksActive": [
+    39,
+    40,
+    41,
+    67
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 211,
+      "ms": 4018921,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 211,
+      "ms": 3816476,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 369,
+      "ms": 2562784,
+      "dish": "Turkey"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 181,
+      "ms": 3122837,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

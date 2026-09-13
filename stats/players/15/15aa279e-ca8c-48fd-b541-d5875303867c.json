@@ -1,0 +1,42 @@
+{
+  "id": "15aa279e-ca8c-48fd-b541-d5875303867c",
+  "persona": "ThrustMaster2000",
+  "names": [
+    "ThrustMaster2000"
+  ],
+  "runs": 3,
+  "bestRank": 147,
+  "worstRank": 664,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4386538,
+  "weeksActive": [
+    3,
+    24,
+    25
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 664,
+      "ms": 4386538,
+      "dish": "Fish"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 473,
+      "ms": 4728408,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 147,
+      "ms": 4423419,
+      "dish": "Stir Fry"
+    }
+  ]
+}

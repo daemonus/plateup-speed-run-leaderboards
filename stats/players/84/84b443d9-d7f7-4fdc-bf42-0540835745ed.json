@@ -1,0 +1,42 @@
+{
+  "id": "84b443d9-d7f7-4fdc-bf42-0540835745ed",
+  "persona": "Quarthe",
+  "names": [
+    "Quarthe"
+  ],
+  "runs": 3,
+  "bestRank": 47,
+  "worstRank": 286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1858833,
+  "weeksActive": [
+    -94,
+    -93,
+    -83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 284,
+      "ms": 2518668,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 286,
+      "ms": 1858833,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 47,
+      "ms": 2094838,
+      "dish": "Steak"
+    }
+  ]
+}

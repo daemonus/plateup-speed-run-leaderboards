@@ -1,0 +1,42 @@
+{
+  "id": "432dde1f-4b65-48fc-8cf1-4010642b640b",
+  "persona": "ade",
+  "names": [
+    "ade"
+  ],
+  "runs": 3,
+  "bestRank": 252,
+  "worstRank": 629,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3120843,
+  "weeksActive": [
+    -83,
+    -78,
+    -76
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 505,
+      "ms": 4313838,
+      "dish": "Steak"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 252,
+      "ms": 3120843,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 629,
+      "ms": 3545877,
+      "dish": "Turkey"
+    }
+  ]
+}

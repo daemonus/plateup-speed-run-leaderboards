@@ -1,0 +1,50 @@
+{
+  "id": "7b361f73-a557-4dd9-9191-e6a99a7321fc",
+  "persona": "Ewiper",
+  "names": [
+    "Ewiper"
+  ],
+  "runs": 4,
+  "bestRank": 150,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3065564,
+  "weeksActive": [
+    -85,
+    -84,
+    -72,
+    -47
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 150,
+      "ms": 3264761,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 359,
+      "ms": 3065564,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 353,
+      "ms": 3692921,
+      "dish": "Pies"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 188,
+      "ms": 3443126,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

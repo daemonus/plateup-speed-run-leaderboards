@@ -1,0 +1,42 @@
+{
+  "id": "22a60d8c-53af-45dc-9925-6b2c515702bf",
+  "persona": "CaCtusas",
+  "names": [
+    "CaCtusas"
+  ],
+  "runs": 3,
+  "bestRank": 237,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3367891,
+  "weeksActive": [
+    -79,
+    -78,
+    -21
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 456,
+      "ms": 7046568,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 496,
+      "ms": 6143646,
+      "dish": "Burgers"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 237,
+      "ms": 3367891,
+      "dish": "Pizza"
+    }
+  ]
+}

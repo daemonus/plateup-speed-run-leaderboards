@@ -1,0 +1,34 @@
+{
+  "id": "c738af7d-2b6b-4d3e-bd8c-ce30c176a781",
+  "persona": "kat",
+  "names": [
+    "kat"
+  ],
+  "runs": 2,
+  "bestRank": 484,
+  "worstRank": 1031,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4589411,
+  "weeksActive": [
+    -61,
+    -32
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 484,
+      "ms": 4589411,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1031,
+      "ms": 4874411,
+      "dish": "Breakfast"
+    }
+  ]
+}

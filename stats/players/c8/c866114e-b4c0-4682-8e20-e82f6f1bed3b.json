@@ -1,0 +1,50 @@
+{
+  "id": "c866114e-b4c0-4682-8e20-e82f6f1bed3b",
+  "persona": "Humble Grumbler",
+  "names": [
+    "Humble Grumbler"
+  ],
+  "runs": 4,
+  "bestRank": 184,
+  "worstRank": 711,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3280539,
+  "weeksActive": [
+    -71,
+    -69,
+    -66,
+    -60
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 711,
+      "ms": 3632479,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 206,
+      "ms": 4230528,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 184,
+      "ms": 3280539,
+      "dish": "Turkey"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 393,
+      "ms": 4699556,
+      "dish": "Burgers"
+    }
+  ]
+}

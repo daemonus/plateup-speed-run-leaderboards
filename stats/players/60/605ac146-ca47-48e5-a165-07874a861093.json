@@ -1,0 +1,58 @@
+{
+  "id": "605ac146-ca47-48e5-a165-07874a861093",
+  "persona": "saku",
+  "names": [
+    "saku"
+  ],
+  "runs": 5,
+  "bestRank": 26,
+  "worstRank": 275,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1839757,
+  "weeksActive": [
+    39,
+    40,
+    41,
+    53,
+    81
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 26,
+      "ms": 2177349,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 70,
+      "ms": 2604266,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 150,
+      "ms": 1839757,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 275,
+      "ms": 3596285,
+      "dish": "Pies"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 174,
+      "ms": 3460099,
+      "dish": "Pizza"
+    }
+  ]
+}

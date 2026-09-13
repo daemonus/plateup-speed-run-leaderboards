@@ -1,0 +1,34 @@
+{
+  "id": "e1c7e262-49a1-4dc5-acb8-dcb1283522dc",
+  "persona": "racannapp",
+  "names": [
+    "racannapp"
+  ],
+  "runs": 2,
+  "bestRank": 111,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2141356,
+  "weeksActive": [
+    -93,
+    -72
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 545,
+      "ms": 2141356,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 111,
+      "ms": 2615353,
+      "dish": "Pies"
+    }
+  ]
+}

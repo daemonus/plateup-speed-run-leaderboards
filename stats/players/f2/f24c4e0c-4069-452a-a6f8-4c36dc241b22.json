@@ -1,0 +1,50 @@
+{
+  "id": "f24c4e0c-4069-452a-a6f8-4c36dc241b22",
+  "persona": "A.K. 7755",
+  "names": [
+    "A.K. 7755"
+  ],
+  "runs": 4,
+  "bestRank": 273,
+  "worstRank": 494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2528335,
+  "weeksActive": [
+    82,
+    83,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 367,
+      "ms": 3837912,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 368,
+      "ms": 2528335,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 494,
+      "ms": 3401894,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 273,
+      "ms": 2600854,
+      "dish": "Sundaes"
+    }
+  ]
+}

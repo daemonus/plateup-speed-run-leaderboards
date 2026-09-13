@@ -1,0 +1,50 @@
+{
+  "id": "9fef16da-3f18-456b-bd27-5e6fd5edd1a8",
+  "persona": "jbob",
+  "names": [
+    "jbob"
+  ],
+  "runs": 4,
+  "bestRank": 229,
+  "worstRank": 452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3809136,
+  "weeksActive": [
+    -21,
+    -16,
+    -14,
+    -13
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 440,
+      "ms": 4455233,
+      "dish": "Pizza"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 452,
+      "ms": 3809136,
+      "dish": "Pies"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 229,
+      "ms": 4861661,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 276,
+      "ms": 4079957,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

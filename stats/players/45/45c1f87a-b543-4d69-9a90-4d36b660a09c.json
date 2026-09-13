@@ -1,0 +1,82 @@
+{
+  "id": "45c1f87a-b543-4d69-9a90-4d36b660a09c",
+  "persona": "Biff",
+  "names": [
+    "Biff"
+  ],
+  "runs": 8,
+  "bestRank": 41,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1628030,
+  "weeksActive": [
+    -94,
+    -91,
+    -90,
+    -87,
+    -85,
+    -84,
+    83,
+    84
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 159,
+      "ms": 2284891,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 367,
+      "ms": 2159006,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 128,
+      "ms": 1846674,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 169,
+      "ms": 2827254,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 41,
+      "ms": 2319268,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 213,
+      "ms": 2527416,
+      "dish": "Fish"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 103,
+      "ms": 1628030,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 117,
+      "ms": 1652783,
+      "dish": "Sundaes"
+    }
+  ]
+}

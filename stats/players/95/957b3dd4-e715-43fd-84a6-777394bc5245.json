@@ -1,0 +1,42 @@
+{
+  "id": "957b3dd4-e715-43fd-84a6-777394bc5245",
+  "persona": "Redbe\u263A",
+  "names": [
+    "Redbe\u263A"
+  ],
+  "runs": 3,
+  "bestRank": 442,
+  "worstRank": 756,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4402892,
+  "weeksActive": [
+    -74,
+    -72,
+    -69
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 450,
+      "ms": 4402892,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 756,
+      "ms": 5282261,
+      "dish": "Pies"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 442,
+      "ms": 5698171,
+      "dish": "Stir Fry"
+    }
+  ]
+}

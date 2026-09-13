@@ -1,0 +1,82 @@
+{
+  "id": "e96f154c-745a-4191-aea6-b9c932654b4a",
+  "persona": "questet123",
+  "names": [
+    "questet123"
+  ],
+  "runs": 8,
+  "bestRank": 47,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1225482,
+  "weeksActive": [
+    -13,
+    3,
+    4,
+    5,
+    6,
+    38,
+    40,
+    56
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 166,
+      "ms": 3220016,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 227,
+      "ms": 3047405,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 126,
+      "ms": 2876616,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 176,
+      "ms": 3367949,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 112,
+      "ms": 2870130,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 196,
+      "ms": 2916957,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 83,
+      "ms": 2733322,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 47,
+      "ms": 1225482,
+      "dish": "Sundaes"
+    }
+  ]
+}

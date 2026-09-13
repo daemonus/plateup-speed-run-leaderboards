@@ -1,0 +1,58 @@
+{
+  "id": "32944103-7c24-409c-94dc-d66a54eee2ab",
+  "persona": "catvanoo",
+  "names": [
+    "catvanoo"
+  ],
+  "runs": 5,
+  "bestRank": 325,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3490214,
+  "weeksActive": [
+    2,
+    3,
+    4,
+    8,
+    9
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 456,
+      "ms": 5971187,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 421,
+      "ms": 3622654,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 325,
+      "ms": 4218709,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 603,
+      "ms": 3490214,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 376,
+      "ms": 3913801,
+      "dish": "Breakfast"
+    }
+  ]
+}

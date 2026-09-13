@@ -1,0 +1,34 @@
+{
+  "id": "6d582f8e-6a06-411d-a736-cedd835de083",
+  "persona": "lemon",
+  "names": [
+    "lemon"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 111,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2419970,
+  "weeksActive": [
+    -78,
+    -77
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 81,
+      "ms": 2517194,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 111,
+      "ms": 2419970,
+      "dish": "Pies"
+    }
+  ]
+}

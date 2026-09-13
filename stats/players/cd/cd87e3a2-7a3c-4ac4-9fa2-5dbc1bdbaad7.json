@@ -1,0 +1,42 @@
+{
+  "id": "cd87e3a2-7a3c-4ac4-9fa2-5dbc1bdbaad7",
+  "persona": "kaksmile",
+  "names": [
+    "kaksmile"
+  ],
+  "runs": 3,
+  "bestRank": 643,
+  "worstRank": 1141,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2553265,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1141,
+      "ms": 2553265,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 643,
+      "ms": 3967822,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 966,
+      "ms": 2894504,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "1dc6d680-6f61-43a3-adf0-9b70536ab21d",
+  "persona": "be_breezeh",
+  "names": [
+    "be_breezeh"
+  ],
+  "runs": 5,
+  "bestRank": 86,
+  "worstRank": 161,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1842151,
+  "weeksActive": [
+    28,
+    30,
+    31,
+    35,
+    83
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 86,
+      "ms": 2221584,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 99,
+      "ms": 2592400,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 98,
+      "ms": 2393998,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 161,
+      "ms": 3020008,
+      "dish": "Fish"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 158,
+      "ms": 1842151,
+      "dish": "Sundaes"
+    }
+  ]
+}

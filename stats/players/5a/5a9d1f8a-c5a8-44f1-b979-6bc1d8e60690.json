@@ -1,0 +1,34 @@
+{
+  "id": "5a9d1f8a-c5a8-44f1-b979-6bc1d8e60690",
+  "persona": "coverme",
+  "names": [
+    "coverme"
+  ],
+  "runs": 2,
+  "bestRank": 98,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2880835,
+  "weeksActive": [
+    4,
+    5
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 291,
+      "ms": 3994627,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 98,
+      "ms": 2880835,
+      "dish": "Breakfast"
+    }
+  ]
+}

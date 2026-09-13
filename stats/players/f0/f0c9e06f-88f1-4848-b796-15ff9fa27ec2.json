@@ -1,0 +1,42 @@
+{
+  "id": "f0c9e06f-88f1-4848-b796-15ff9fa27ec2",
+  "persona": "parcer.michal",
+  "names": [
+    "parcer.michal"
+  ],
+  "runs": 3,
+  "bestRank": 216,
+  "worstRank": 381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3091413,
+  "weeksActive": [
+    2,
+    3,
+    5
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 381,
+      "ms": 4789401,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 239,
+      "ms": 3091413,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 216,
+      "ms": 3595871,
+      "dish": "Breakfast"
+    }
+  ]
+}

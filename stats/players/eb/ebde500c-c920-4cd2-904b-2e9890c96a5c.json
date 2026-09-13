@@ -1,0 +1,50 @@
+{
+  "id": "ebde500c-c920-4cd2-904b-2e9890c96a5c",
+  "persona": "chiraq45",
+  "names": [
+    "chiraq45"
+  ],
+  "runs": 4,
+  "bestRank": 156,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2611430,
+  "weeksActive": [
+    26,
+    34,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 217,
+      "ms": 3586571,
+      "dish": "Pizza"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 306,
+      "ms": 4352393,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 252,
+      "ms": 2611430,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 156,
+      "ms": 2839732,
+      "dish": "Breakfast"
+    }
+  ]
+}

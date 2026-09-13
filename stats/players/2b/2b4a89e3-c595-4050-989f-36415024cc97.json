@@ -1,0 +1,66 @@
+{
+  "id": "2b4a89e3-c595-4050-989f-36415024cc97",
+  "persona": "Manny Fresh",
+  "names": [
+    "Manny Fresh"
+  ],
+  "runs": 6,
+  "bestRank": 262,
+  "worstRank": 881,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4556267,
+  "weeksActive": [
+    20,
+    21,
+    24,
+    34,
+    35,
+    37
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 881,
+      "ms": 4588869,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 477,
+      "ms": 5344829,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 451,
+      "ms": 4572295,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 343,
+      "ms": 4556267,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 389,
+      "ms": 5289859,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 262,
+      "ms": 7024945,
+      "dish": "Burgers"
+    }
+  ]
+}

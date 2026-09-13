@@ -1,0 +1,42 @@
+{
+  "id": "73390f9d-59e0-4a58-bfcb-f259941ae4f7",
+  "persona": "Belladonna",
+  "names": [
+    "Belladonna"
+  ],
+  "runs": 3,
+  "bestRank": 209,
+  "worstRank": 936,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4058858,
+  "weeksActive": [
+    20,
+    22,
+    25
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 936,
+      "ms": 5344401,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 258,
+      "ms": 4058858,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 209,
+      "ms": 5756219,
+      "dish": "Stir Fry"
+    }
+  ]
+}

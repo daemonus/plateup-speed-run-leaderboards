@@ -1,0 +1,58 @@
+{
+  "id": "b197b643-3adb-4276-af9d-f7646e962b5a",
+  "persona": "poodlepoodle",
+  "names": [
+    "poodlepoodle"
+  ],
+  "runs": 5,
+  "bestRank": 18,
+  "worstRank": 231,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1295190,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 214,
+      "ms": 2394607,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 26,
+      "ms": 1295190,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 18,
+      "ms": 1401846,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 54,
+      "ms": 1536790,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 231,
+      "ms": 2124346,
+      "dish": "Fish"
+    }
+  ]
+}

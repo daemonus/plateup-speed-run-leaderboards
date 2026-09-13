@@ -1,0 +1,58 @@
+{
+  "id": "b21ad417-5135-4de7-ad06-df6ecc736112",
+  "persona": "HonuKane",
+  "names": [
+    "HonuKane"
+  ],
+  "runs": 5,
+  "bestRank": 7,
+  "worstRank": 95,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1028736,
+  "weeksActive": [
+    -20,
+    52,
+    53,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 95,
+      "ms": 2872262,
+      "dish": "Burgers"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 7,
+      "ms": 1367973,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 37,
+      "ms": 2127483,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 18,
+      "ms": 1028736,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 28,
+      "ms": 2072637,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6784430f-2709-4224-89ca-11cb79985859",
+  "persona": "Nami",
+  "names": [
+    "Nami"
+  ],
+  "runs": 5,
+  "bestRank": 35,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1728667,
+  "weeksActive": [
+    8,
+    11,
+    12,
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 39,
+      "ms": 1728667,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 35,
+      "ms": 2389112,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 143,
+      "ms": 2106565,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 303,
+      "ms": 4272298,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 367,
+      "ms": 2816420,
+      "dish": "Turkey"
+    }
+  ]
+}

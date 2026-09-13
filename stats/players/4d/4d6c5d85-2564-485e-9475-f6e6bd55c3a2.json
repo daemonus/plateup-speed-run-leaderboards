@@ -1,0 +1,42 @@
+{
+  "id": "4d6c5d85-2564-485e-9475-f6e6bd55c3a2",
+  "persona": "Jimmi",
+  "names": [
+    "Jimmi"
+  ],
+  "runs": 3,
+  "bestRank": 259,
+  "worstRank": 604,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4057699,
+  "weeksActive": [
+    -67,
+    -66,
+    -64
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 604,
+      "ms": 6056340,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 259,
+      "ms": 4057699,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 374,
+      "ms": 4744119,
+      "dish": "Salad"
+    }
+  ]
+}

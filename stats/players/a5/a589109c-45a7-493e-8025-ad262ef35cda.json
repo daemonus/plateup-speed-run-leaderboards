@@ -1,0 +1,58 @@
+{
+  "id": "a589109c-45a7-493e-8025-ad262ef35cda",
+  "persona": "nraw",
+  "names": [
+    "nraw"
+  ],
+  "runs": 5,
+  "bestRank": 302,
+  "worstRank": 795,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3487489,
+  "weeksActive": [
+    -39,
+    -38,
+    -34,
+    20,
+    26
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 435,
+      "ms": 3487489,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 768,
+      "ms": 4260462,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 302,
+      "ms": 3491183,
+      "dish": "Pies"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 795,
+      "ms": 4114117,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 345,
+      "ms": 4751770,
+      "dish": "Pizza"
+    }
+  ]
+}

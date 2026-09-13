@@ -1,0 +1,58 @@
+{
+  "id": "c4ba0e16-5fb0-4e05-a63f-c8b7572e9326",
+  "persona": "cap",
+  "names": [
+    "cap"
+  ],
+  "runs": 5,
+  "bestRank": 165,
+  "worstRank": 815,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3147196,
+  "weeksActive": [
+    -77,
+    -75,
+    -73,
+    -71,
+    16
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 815,
+      "ms": 4608683,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 793,
+      "ms": 3796922,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 165,
+      "ms": 4130301,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 471,
+      "ms": 3147196,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 315,
+      "ms": 4507709,
+      "dish": "Stir Fry"
+    }
+  ]
+}

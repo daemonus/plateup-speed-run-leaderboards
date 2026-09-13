@@ -1,0 +1,34 @@
+{
+  "id": "7a4f5271-da04-4061-b7c3-7431d5df2552",
+  "persona": "ACF_",
+  "names": [
+    "ACF_"
+  ],
+  "runs": 2,
+  "bestRank": 150,
+  "worstRank": 567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2975298,
+  "weeksActive": [
+    56,
+    73
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 567,
+      "ms": 2975298,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 150,
+      "ms": 3010604,
+      "dish": "Burgers"
+    }
+  ]
+}

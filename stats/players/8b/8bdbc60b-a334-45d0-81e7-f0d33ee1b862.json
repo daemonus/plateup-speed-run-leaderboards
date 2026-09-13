@@ -1,0 +1,50 @@
+{
+  "id": "8bdbc60b-a334-45d0-81e7-f0d33ee1b862",
+  "persona": "Zesh1",
+  "names": [
+    "Zesh1"
+  ],
+  "runs": 4,
+  "bestRank": 174,
+  "worstRank": 404,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3426507,
+  "weeksActive": [
+    -64,
+    -63,
+    -61,
+    -60
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 294,
+      "ms": 4075927,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 404,
+      "ms": 4173168,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 333,
+      "ms": 3604779,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 174,
+      "ms": 3426507,
+      "dish": "Burgers"
+    }
+  ]
+}

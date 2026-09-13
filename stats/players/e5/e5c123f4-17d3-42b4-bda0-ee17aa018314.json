@@ -1,0 +1,42 @@
+{
+  "id": "e5c123f4-17d3-42b4-bda0-ee17aa018314",
+  "persona": "Lyricality",
+  "names": [
+    "Lyricality"
+  ],
+  "runs": 3,
+  "bestRank": 224,
+  "worstRank": 532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3544181,
+  "weeksActive": [
+    -82,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 532,
+      "ms": 3549044,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 366,
+      "ms": 3605663,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 224,
+      "ms": 3544181,
+      "dish": "Pies"
+    }
+  ]
+}

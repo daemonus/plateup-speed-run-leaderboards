@@ -1,0 +1,42 @@
+{
+  "id": "c9d8a9fb-91c3-4df0-8056-4f112f9f8dd1",
+  "persona": "Its Rita",
+  "names": [
+    "Its Rita"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 434,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3668882,
+  "weeksActive": [
+    -53,
+    -50,
+    -27
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 434,
+      "ms": 6656723,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 264,
+      "ms": 5233392,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 130,
+      "ms": 3668882,
+      "dish": "Salad"
+    }
+  ]
+}

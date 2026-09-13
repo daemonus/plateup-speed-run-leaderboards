@@ -1,0 +1,42 @@
+{
+  "id": "e1fbd69c-ff00-4a11-8b67-71c757cf508c",
+  "persona": "Calpis4401",
+  "names": [
+    "Calpis4401"
+  ],
+  "runs": 3,
+  "bestRank": 287,
+  "worstRank": 454,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5118418,
+  "weeksActive": [
+    16,
+    17,
+    53
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 454,
+      "ms": 5432253,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 287,
+      "ms": 5943090,
+      "dish": "Pizza"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 448,
+      "ms": 5118418,
+      "dish": "Pies"
+    }
+  ]
+}

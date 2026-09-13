@@ -1,0 +1,114 @@
+{
+  "id": "b64e7f01-0675-457d-85fa-af79c7fb0985",
+  "persona": "Trade_Mark",
+  "names": [
+    "Trade_Mark"
+  ],
+  "runs": 12,
+  "bestRank": 44,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1989330,
+  "weeksActive": [
+    -5,
+    -4,
+    -2,
+    -1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    12,
+    16,
+    48
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 285,
+      "ms": 3943859,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 367,
+      "ms": 3786955,
+      "dish": "Pies"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 314,
+      "ms": 3669736,
+      "dish": "Pizza"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 172,
+      "ms": 4888142,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 106,
+      "ms": 2743622,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 121,
+      "ms": 2994053,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 141,
+      "ms": 3017929,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 175,
+      "ms": 2980871,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 78,
+      "ms": 1989330,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 312,
+      "ms": 2897320,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 44,
+      "ms": 2778350,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 113,
+      "ms": 3798319,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b9148495-22ac-482b-8d8b-510cd8d8daac",
+  "persona": "Plox",
+  "names": [
+    "Plox"
+  ],
+  "runs": 3,
+  "bestRank": 238,
+  "worstRank": 679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3263423,
+  "weeksActive": [
+    -62,
+    -61,
+    -60
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 679,
+      "ms": 4998247,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 238,
+      "ms": 3263423,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 380,
+      "ms": 4622070,
+      "dish": "Burgers"
+    }
+  ]
+}

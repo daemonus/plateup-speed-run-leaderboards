@@ -1,0 +1,34 @@
+{
+  "id": "a9b57400-a003-434b-ad3f-5404ae888936",
+  "persona": "Missing in action",
+  "names": [
+    "Missing in action"
+  ],
+  "runs": 2,
+  "bestRank": 388,
+  "worstRank": 595,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4399199,
+  "weeksActive": [
+    -3,
+    19
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 595,
+      "ms": 4399199,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 388,
+      "ms": 5022608,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "e4482a25-0425-46c5-854b-94e3c68b2b9e",
+  "persona": "QueenDarskie",
+  "names": [
+    "QueenDarskie"
+  ],
+  "runs": 5,
+  "bestRank": 101,
+  "worstRank": 298,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2515520,
+  "weeksActive": [
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 298,
+      "ms": 3885259,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 157,
+      "ms": 2515520,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 179,
+      "ms": 4126261,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 210,
+      "ms": 2977224,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 101,
+      "ms": 3179374,
+      "dish": "Stir Fry"
+    }
+  ]
+}

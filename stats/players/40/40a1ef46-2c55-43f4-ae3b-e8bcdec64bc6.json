@@ -1,0 +1,50 @@
+{
+  "id": "40a1ef46-2c55-43f4-ae3b-e8bcdec64bc6",
+  "persona": "bubba",
+  "names": [
+    "bubba"
+  ],
+  "runs": 4,
+  "bestRank": 247,
+  "worstRank": 1320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3142577,
+  "weeksActive": [
+    -91,
+    -87,
+    -31,
+    -2
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1320,
+      "ms": 3445520,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 345,
+      "ms": 3466351,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 247,
+      "ms": 3142577,
+      "dish": "Pies"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 358,
+      "ms": 4078274,
+      "dish": "Pizza"
+    }
+  ]
+}

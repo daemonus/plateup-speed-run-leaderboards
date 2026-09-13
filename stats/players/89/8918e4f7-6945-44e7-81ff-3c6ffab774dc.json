@@ -1,0 +1,50 @@
+{
+  "id": "8918e4f7-6945-44e7-81ff-3c6ffab774dc",
+  "persona": "soma",
+  "names": [
+    "soma"
+  ],
+  "runs": 4,
+  "bestRank": 127,
+  "worstRank": 293,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2420273,
+  "weeksActive": [
+    -59,
+    -55,
+    -51,
+    13
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 293,
+      "ms": 3432665,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 217,
+      "ms": 3304310,
+      "dish": "Pizza"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 127,
+      "ms": 2420273,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 171,
+      "ms": 2431126,
+      "dish": "Turkey"
+    }
+  ]
+}

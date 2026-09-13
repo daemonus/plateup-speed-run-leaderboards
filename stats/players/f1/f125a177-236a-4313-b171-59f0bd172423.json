@@ -1,0 +1,34 @@
+{
+  "id": "f125a177-236a-4313-b171-59f0bd172423",
+  "persona": "bastaba",
+  "names": [
+    "bastaba"
+  ],
+  "runs": 2,
+  "bestRank": 379,
+  "worstRank": 691,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3755919,
+  "weeksActive": [
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 691,
+      "ms": 3755919,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 379,
+      "ms": 4158530,
+      "dish": "Burgers"
+    }
+  ]
+}

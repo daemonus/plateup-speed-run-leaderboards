@@ -1,0 +1,42 @@
+{
+  "id": "03fa8ab4-4b9a-464a-93a1-3fc978d118c5",
+  "persona": "skywood_lo",
+  "names": [
+    "skywood_lo"
+  ],
+  "runs": 3,
+  "bestRank": 202,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3933272,
+  "weeksActive": [
+    30,
+    31,
+    33
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 373,
+      "ms": 4117771,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 444,
+      "ms": 3933272,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 202,
+      "ms": 4048443,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

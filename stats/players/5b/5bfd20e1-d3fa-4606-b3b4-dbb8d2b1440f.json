@@ -1,0 +1,58 @@
+{
+  "id": "5bfd20e1-d3fa-4606-b3b4-dbb8d2b1440f",
+  "persona": "\u3075\u3063\u304D",
+  "names": [
+    "\u3075\u3063\u304D"
+  ],
+  "runs": 5,
+  "bestRank": 291,
+  "worstRank": 720,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3541786,
+  "weeksActive": [
+    -71,
+    -69,
+    -64,
+    -63,
+    -62
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 663,
+      "ms": 3541786,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 292,
+      "ms": 4635928,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 291,
+      "ms": 4030691,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 608,
+      "ms": 5389516,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 720,
+      "ms": 5308640,
+      "dish": "Breakfast"
+    }
+  ]
+}

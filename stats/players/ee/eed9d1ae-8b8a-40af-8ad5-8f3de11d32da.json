@@ -1,0 +1,50 @@
+{
+  "id": "eed9d1ae-8b8a-40af-8ad5-8f3de11d32da",
+  "persona": "yukimura",
+  "names": [
+    "yukimura"
+  ],
+  "runs": 4,
+  "bestRank": 137,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1888438,
+  "weeksActive": [
+    71,
+    72,
+    73,
+    83
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 288,
+      "ms": 3746866,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 191,
+      "ms": 3324565,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 137,
+      "ms": 2947671,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 173,
+      "ms": 1888438,
+      "dish": "Sundaes"
+    }
+  ]
+}

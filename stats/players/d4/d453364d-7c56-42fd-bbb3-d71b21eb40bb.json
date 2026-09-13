@@ -1,0 +1,42 @@
+{
+  "id": "d453364d-7c56-42fd-bbb3-d71b21eb40bb",
+  "persona": "tyouhi_ekitoku",
+  "names": [
+    "tyouhi_ekitoku"
+  ],
+  "runs": 3,
+  "bestRank": 469,
+  "worstRank": 874,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3806354,
+  "weeksActive": [
+    -33,
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 469,
+      "ms": 8635952,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 641,
+      "ms": 3806354,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 874,
+      "ms": 28201906,
+      "dish": "Turkey"
+    }
+  ]
+}

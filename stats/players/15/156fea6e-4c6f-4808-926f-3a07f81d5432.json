@@ -1,0 +1,34 @@
+{
+  "id": "156fea6e-4c6f-4808-926f-3a07f81d5432",
+  "persona": "loap_wait",
+  "names": [
+    "loap_wait"
+  ],
+  "runs": 2,
+  "bestRank": 267,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4302662,
+  "weeksActive": [
+    -68,
+    -47
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 267,
+      "ms": 4550551,
+      "dish": "Salad"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 347,
+      "ms": 4302662,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4f95fa33-27f2-48a4-a2bc-6b78a96e0b11",
+  "persona": "Bananasouk",
+  "names": [
+    "Bananasouk"
+  ],
+  "runs": 4,
+  "bestRank": 168,
+  "worstRank": 1257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2631686,
+  "weeksActive": [
+    -93,
+    -88,
+    -71,
+    -62
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1257,
+      "ms": 2631686,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 593,
+      "ms": 4106549,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 419,
+      "ms": 3052327,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 168,
+      "ms": 2984805,
+      "dish": "Breakfast"
+    }
+  ]
+}

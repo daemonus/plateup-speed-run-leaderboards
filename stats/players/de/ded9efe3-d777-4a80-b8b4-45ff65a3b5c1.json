@@ -1,0 +1,42 @@
+{
+  "id": "ded9efe3-d777-4a80-b8b4-45ff65a3b5c1",
+  "persona": "Robin",
+  "names": [
+    "Robin"
+  ],
+  "runs": 3,
+  "bestRank": 102,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1826628,
+  "weeksActive": [
+    -86,
+    -80,
+    -64
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 102,
+      "ms": 1826628,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 156,
+      "ms": 3529679,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 151,
+      "ms": 3249896,
+      "dish": "Salad"
+    }
+  ]
+}

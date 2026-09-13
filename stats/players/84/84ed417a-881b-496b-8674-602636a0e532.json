@@ -1,0 +1,74 @@
+{
+  "id": "84ed417a-881b-496b-8674-602636a0e532",
+  "persona": "Inori",
+  "names": [
+    "Inori"
+  ],
+  "runs": 7,
+  "bestRank": 77,
+  "worstRank": 211,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2132247,
+  "weeksActive": [
+    4,
+    5,
+    8,
+    52,
+    53,
+    54,
+    57
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 140,
+      "ms": 2995217,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 211,
+      "ms": 3562587,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 202,
+      "ms": 2490603,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 81,
+      "ms": 2132247,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 77,
+      "ms": 2473631,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 112,
+      "ms": 3289950,
+      "dish": "Burgers"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 160,
+      "ms": 2935791,
+      "dish": "Salad"
+    }
+  ]
+}

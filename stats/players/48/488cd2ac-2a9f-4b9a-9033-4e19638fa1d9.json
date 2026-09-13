@@ -1,0 +1,50 @@
+{
+  "id": "488cd2ac-2a9f-4b9a-9033-4e19638fa1d9",
+  "persona": "\u602A\u54C7\u602A\u5440",
+  "names": [
+    "\u602A\u54C7\u602A\u5440"
+  ],
+  "runs": 4,
+  "bestRank": 239,
+  "worstRank": 486,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3547457,
+  "weeksActive": [
+    -77,
+    -68,
+    -45,
+    81
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 486,
+      "ms": 3547457,
+      "dish": "Pies"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 335,
+      "ms": 5920609,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 318,
+      "ms": 3566069,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 239,
+      "ms": 4098055,
+      "dish": "Pizza"
+    }
+  ]
+}

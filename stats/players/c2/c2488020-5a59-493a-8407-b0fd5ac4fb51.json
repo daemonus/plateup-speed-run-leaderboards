@@ -1,0 +1,42 @@
+{
+  "id": "c2488020-5a59-493a-8407-b0fd5ac4fb51",
+  "persona": "ar-oi",
+  "names": [
+    "ar-oi"
+  ],
+  "runs": 3,
+  "bestRank": 167,
+  "worstRank": 302,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3252413,
+  "weeksActive": [
+    -1,
+    36,
+    38
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 167,
+      "ms": 4756467,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 302,
+      "ms": 3253961,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 264,
+      "ms": 3252413,
+      "dish": "Pies"
+    }
+  ]
+}

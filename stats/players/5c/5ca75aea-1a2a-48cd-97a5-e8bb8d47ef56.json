@@ -1,0 +1,50 @@
+{
+  "id": "5ca75aea-1a2a-48cd-97a5-e8bb8d47ef56",
+  "persona": "\u307A\u3061\u3053\u308A",
+  "names": [
+    "\u307A\u3061\u3053\u308A"
+  ],
+  "runs": 4,
+  "bestRank": 186,
+  "worstRank": 471,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3779813,
+  "weeksActive": [
+    48,
+    50,
+    51,
+    53
+  ],
+  "history": [
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 189,
+      "ms": 4831479,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 294,
+      "ms": 11842141,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 186,
+      "ms": 3779813,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 471,
+      "ms": 5616827,
+      "dish": "Pies"
+    }
+  ]
+}

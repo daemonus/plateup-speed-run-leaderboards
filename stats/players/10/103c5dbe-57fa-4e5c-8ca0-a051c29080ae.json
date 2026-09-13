@@ -1,0 +1,66 @@
+{
+  "id": "103c5dbe-57fa-4e5c-8ca0-a051c29080ae",
+  "persona": "little.phammy",
+  "names": [
+    "little.phammy"
+  ],
+  "runs": 6,
+  "bestRank": 101,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2489495,
+  "weeksActive": [
+    -78,
+    -77,
+    -76,
+    -34,
+    5,
+    9
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 314,
+      "ms": 3395829,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 126,
+      "ms": 2489495,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 318,
+      "ms": 2788175,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 101,
+      "ms": 2563070,
+      "dish": "Pies"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 143,
+      "ms": 3174246,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 125,
+      "ms": 2744287,
+      "dish": "Breakfast"
+    }
+  ]
+}

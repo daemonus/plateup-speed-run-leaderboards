@@ -1,0 +1,42 @@
+{
+  "id": "1c61d94a-ada5-4d1f-b4c1-bdba7eb3953c",
+  "persona": "HappyKillings",
+  "names": [
+    "HappyKillings"
+  ],
+  "runs": 3,
+  "bestRank": 362,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3456223,
+  "weeksActive": [
+    -31,
+    16,
+    34
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 362,
+      "ms": 3456223,
+      "dish": "Pies"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 516,
+      "ms": 6381329,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 396,
+      "ms": 4969558,
+      "dish": "Stir Fry"
+    }
+  ]
+}

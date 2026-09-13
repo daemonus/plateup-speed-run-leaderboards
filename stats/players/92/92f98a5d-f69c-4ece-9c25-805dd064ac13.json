@@ -1,0 +1,58 @@
+{
+  "id": "92f98a5d-f69c-4ece-9c25-805dd064ac13",
+  "persona": "eadams8038",
+  "names": [
+    "eadams8038"
+  ],
+  "runs": 5,
+  "bestRank": 111,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2558874,
+  "weeksActive": [
+    44,
+    51,
+    58,
+    60,
+    68
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 199,
+      "ms": 3011113,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 111,
+      "ms": 3283002,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 308,
+      "ms": 3188435,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 123,
+      "ms": 2966240,
+      "dish": "Burgers"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 205,
+      "ms": 2558874,
+      "dish": "Turkey"
+    }
+  ]
+}

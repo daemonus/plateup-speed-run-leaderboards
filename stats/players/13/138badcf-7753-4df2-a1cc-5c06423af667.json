@@ -1,0 +1,34 @@
+{
+  "id": "138badcf-7753-4df2-a1cc-5c06423af667",
+  "persona": "RandoTaka",
+  "names": [
+    "RandoTaka"
+  ],
+  "runs": 2,
+  "bestRank": 623,
+  "worstRank": 667,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3401953,
+  "weeksActive": [
+    -92,
+    -89
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 623,
+      "ms": 3867779,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 667,
+      "ms": 3401953,
+      "dish": "Pies"
+    }
+  ]
+}

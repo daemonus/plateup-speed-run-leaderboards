@@ -1,0 +1,42 @@
+{
+  "id": "404a3f25-b63f-485f-8ca9-8e7a55f5fa9d",
+  "persona": "Moebius",
+  "names": [
+    "Moebius"
+  ],
+  "runs": 3,
+  "bestRank": 220,
+  "worstRank": 1174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4013221,
+  "weeksActive": [
+    -90,
+    -89,
+    -85
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1174,
+      "ms": 4818479,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 987,
+      "ms": 5189062,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 220,
+      "ms": 4013221,
+      "dish": "Stir Fry"
+    }
+  ]
+}

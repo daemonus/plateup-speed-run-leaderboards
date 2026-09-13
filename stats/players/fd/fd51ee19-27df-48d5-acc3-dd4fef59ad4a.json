@@ -1,0 +1,42 @@
+{
+  "id": "fd51ee19-27df-48d5-acc3-dd4fef59ad4a",
+  "persona": "Reen",
+  "names": [
+    "Reen"
+  ],
+  "runs": 3,
+  "bestRank": 316,
+  "worstRank": 378,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2751366,
+  "weeksActive": [
+    -39,
+    -38,
+    54
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 378,
+      "ms": 3293514,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 329,
+      "ms": 2751366,
+      "dish": "Turkey"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 316,
+      "ms": 5415942,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d666476d-7ec1-42a1-98dc-1ce04356b2a7",
+  "persona": "Kevin Red",
+  "names": [
+    "Kevin Red"
+  ],
+  "runs": 3,
+  "bestRank": 309,
+  "worstRank": 1354,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2468559,
+  "weeksActive": [
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1354,
+      "ms": 3498367,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 309,
+      "ms": 2468559,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 652,
+      "ms": 4336847,
+      "dish": "Pies"
+    }
+  ]
+}

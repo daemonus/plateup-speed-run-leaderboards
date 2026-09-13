@@ -1,0 +1,114 @@
+{
+  "id": "0f4bb63f-64fa-413f-92ec-bbf2a19a51c3",
+  "persona": "seal",
+  "names": [
+    "seal"
+  ],
+  "runs": 12,
+  "bestRank": 101,
+  "worstRank": 478,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2398428,
+  "weeksActive": [
+    -9,
+    -6,
+    -3,
+    43,
+    44,
+    45,
+    52,
+    53,
+    54,
+    55,
+    57,
+    60
+  ],
+  "history": [
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 181,
+      "ms": 5945229,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 478,
+      "ms": 4635798,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 346,
+      "ms": 3116307,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 174,
+      "ms": 2398428,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 149,
+      "ms": 2797344,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 101,
+      "ms": 3332773,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 284,
+      "ms": 2979403,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 382,
+      "ms": 4248371,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 120,
+      "ms": 3332473,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 270,
+      "ms": 4462207,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 438,
+      "ms": 4425906,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 329,
+      "ms": 4357910,
+      "dish": "Burgers"
+    }
+  ]
+}

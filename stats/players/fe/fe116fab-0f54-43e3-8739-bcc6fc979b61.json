@@ -1,0 +1,50 @@
+{
+  "id": "fe116fab-0f54-43e3-8739-bcc6fc979b61",
+  "persona": "deliccate",
+  "names": [
+    "deliccate"
+  ],
+  "runs": 4,
+  "bestRank": 406,
+  "worstRank": 859,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3993599,
+  "weeksActive": [
+    -75,
+    -69,
+    -64,
+    30
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 859,
+      "ms": 3993599,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 415,
+      "ms": 5395203,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 406,
+      "ms": 5098434,
+      "dish": "Salad"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 496,
+      "ms": 5705079,
+      "dish": "Breakfast"
+    }
+  ]
+}

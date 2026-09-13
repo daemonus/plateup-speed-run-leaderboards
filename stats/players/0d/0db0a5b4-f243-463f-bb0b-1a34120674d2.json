@@ -1,0 +1,58 @@
+{
+  "id": "0db0a5b4-f243-463f-bb0b-1a34120674d2",
+  "persona": "?",
+  "names": [
+    "?"
+  ],
+  "runs": 5,
+  "bestRank": 81,
+  "worstRank": 627,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2285696,
+  "weeksActive": [
+    -42,
+    -41,
+    -39,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 188,
+      "ms": 4279238,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 81,
+      "ms": 3171191,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 231,
+      "ms": 2845187,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 627,
+      "ms": 3572183,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 92,
+      "ms": 2285696,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "26f086a1-6c66-44c2-b753-563fa8a74f52",
+  "persona": "zoeee",
+  "names": [
+    "zoeee"
+  ],
+  "runs": 5,
+  "bestRank": 156,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3337345,
+  "weeksActive": [
+    -53,
+    -51,
+    14,
+    16,
+    34
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 367,
+      "ms": 5164316,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 384,
+      "ms": 3337345,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 244,
+      "ms": 3633378,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 156,
+      "ms": 3652772,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 203,
+      "ms": 3750329,
+      "dish": "Stir Fry"
+    }
+  ]
+}

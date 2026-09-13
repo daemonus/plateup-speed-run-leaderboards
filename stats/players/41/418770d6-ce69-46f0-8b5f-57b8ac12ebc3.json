@@ -1,0 +1,42 @@
+{
+  "id": "418770d6-ce69-46f0-8b5f-57b8ac12ebc3",
+  "persona": "\u76AE\u76AE\u86CB\u3002",
+  "names": [
+    "\u76AE\u76AE\u86CB\u3002"
+  ],
+  "runs": 3,
+  "bestRank": 289,
+  "worstRank": 508,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2211826,
+  "weeksActive": [
+    23,
+    24,
+    64
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 508,
+      "ms": 4196740,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 328,
+      "ms": 3744775,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 289,
+      "ms": 2211826,
+      "dish": "Sundaes"
+    }
+  ]
+}

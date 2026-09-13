@@ -1,0 +1,34 @@
+{
+  "id": "a7a6f677-56b1-408e-b439-8a45fcf853f8",
+  "persona": "Wizard",
+  "names": [
+    "Wizard"
+  ],
+  "runs": 2,
+  "bestRank": 181,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3390255,
+  "weeksActive": [
+    -67,
+    -20
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 181,
+      "ms": 3390255,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 367,
+      "ms": 4022278,
+      "dish": "Burgers"
+    }
+  ]
+}

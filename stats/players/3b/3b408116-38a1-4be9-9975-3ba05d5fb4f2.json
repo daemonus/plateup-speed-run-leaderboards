@@ -1,0 +1,42 @@
+{
+  "id": "3b408116-38a1-4be9-9975-3ba05d5fb4f2",
+  "persona": "Aizre",
+  "names": [
+    "Aizre"
+  ],
+  "runs": 3,
+  "bestRank": 340,
+  "worstRank": 1073,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3051853,
+  "weeksActive": [
+    -91,
+    -77,
+    -45
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1073,
+      "ms": 3051853,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 354,
+      "ms": 3216245,
+      "dish": "Pies"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 340,
+      "ms": 3677677,
+      "dish": "Breakfast"
+    }
+  ]
+}

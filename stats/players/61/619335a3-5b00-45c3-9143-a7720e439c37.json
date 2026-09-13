@@ -1,0 +1,66 @@
+{
+  "id": "619335a3-5b00-45c3-9143-a7720e439c37",
+  "persona": "nwg256",
+  "names": [
+    "nwg256"
+  ],
+  "runs": 6,
+  "bestRank": 196,
+  "worstRank": 638,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2995918,
+  "weeksActive": [
+    41,
+    43,
+    46,
+    50,
+    52,
+    81
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 500,
+      "ms": 2995918,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 638,
+      "ms": 4015253,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 392,
+      "ms": 3937278,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 196,
+      "ms": 4576902,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 538,
+      "ms": 3879260,
+      "dish": "Fish"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 204,
+      "ms": 3676750,
+      "dish": "Pizza"
+    }
+  ]
+}

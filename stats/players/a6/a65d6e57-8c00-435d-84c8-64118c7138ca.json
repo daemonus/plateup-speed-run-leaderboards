@@ -1,0 +1,50 @@
+{
+  "id": "a65d6e57-8c00-435d-84c8-64118c7138ca",
+  "persona": "Abarthkat",
+  "names": [
+    "Abarthkat"
+  ],
+  "runs": 4,
+  "bestRank": 49,
+  "worstRank": 146,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1592283,
+  "weeksActive": [
+    56,
+    58,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 121,
+      "ms": 1592283,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 112,
+      "ms": 2398025,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 49,
+      "ms": 2339836,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 146,
+      "ms": 3050624,
+      "dish": "Burgers"
+    }
+  ]
+}

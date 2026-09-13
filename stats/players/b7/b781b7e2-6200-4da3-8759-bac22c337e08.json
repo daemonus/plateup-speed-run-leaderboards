@@ -1,0 +1,242 @@
+{
+  "id": "b781b7e2-6200-4da3-8759-bac22c337e08",
+  "persona": "SUTO",
+  "names": [
+    "SUTO"
+  ],
+  "runs": 28,
+  "bestRank": 122,
+  "worstRank": 618,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1821902,
+  "weeksActive": [
+    -15,
+    -14,
+    -13,
+    -12,
+    60,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    77,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 299,
+      "ms": 3116851,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 166,
+      "ms": 4242136,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 216,
+      "ms": 3550402,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 178,
+      "ms": 3419906,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 219,
+      "ms": 3476713,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 200,
+      "ms": 3009651,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 340,
+      "ms": 3340435,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 618,
+      "ms": 3053950,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 159,
+      "ms": 3070498,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 340,
+      "ms": 3855736,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 253,
+      "ms": 3576572,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 277,
+      "ms": 2923182,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 160,
+      "ms": 3335994,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 159,
+      "ms": 3276223,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 225,
+      "ms": 3381158,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 187,
+      "ms": 3297491,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 184,
+      "ms": 3288422,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 200,
+      "ms": 3777213,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 150,
+      "ms": 3196749,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 274,
+      "ms": 2990493,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 145,
+      "ms": 3562765,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 170,
+      "ms": 3095454,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 200,
+      "ms": 3653181,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 226,
+      "ms": 3076417,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 171,
+      "ms": 1886158,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 162,
+      "ms": 1821902,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 154,
+      "ms": 1934651,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 122,
+      "ms": 3732882,
+      "dish": "Fajitas"
+    }
+  ]
+}

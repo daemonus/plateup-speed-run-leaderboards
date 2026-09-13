@@ -1,0 +1,82 @@
+{
+  "id": "5a60832c-5007-4953-8f87-66f4d11cc188",
+  "persona": "sy",
+  "names": [
+    "sy"
+  ],
+  "runs": 8,
+  "bestRank": 41,
+  "worstRank": 247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2519358,
+  "weeksActive": [
+    -39,
+    -13,
+    -12,
+    -10,
+    -9,
+    -7,
+    11,
+    12
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 247,
+      "ms": 2886597,
+      "dish": "Pizza"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 229,
+      "ms": 3615015,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 145,
+      "ms": 3193098,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 54,
+      "ms": 2855291,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 41,
+      "ms": 3042988,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 184,
+      "ms": 4055275,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 153,
+      "ms": 3327689,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 226,
+      "ms": 2519358,
+      "dish": "Turkey"
+    }
+  ]
+}

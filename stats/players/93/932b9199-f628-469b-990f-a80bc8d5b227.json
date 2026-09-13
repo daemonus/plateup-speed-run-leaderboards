@@ -1,0 +1,66 @@
+{
+  "id": "932b9199-f628-469b-990f-a80bc8d5b227",
+  "persona": "\u0027Nom",
+  "names": [
+    "\u0027Nom"
+  ],
+  "runs": 6,
+  "bestRank": 88,
+  "worstRank": 180,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2849440,
+  "weeksActive": [
+    74,
+    78,
+    79,
+    80,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 127,
+      "ms": 3246044,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 172,
+      "ms": 2991899,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 88,
+      "ms": 3009327,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 153,
+      "ms": 3008154,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 124,
+      "ms": 3048555,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 180,
+      "ms": 2849440,
+      "dish": "Pizza"
+    }
+  ]
+}

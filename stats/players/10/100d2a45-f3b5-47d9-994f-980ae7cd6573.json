@@ -1,0 +1,42 @@
+{
+  "id": "100d2a45-f3b5-47d9-994f-980ae7cd6573",
+  "persona": "Airin",
+  "names": [
+    "Airin"
+  ],
+  "runs": 3,
+  "bestRank": 276,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3987950,
+  "weeksActive": [
+    -70,
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 461,
+      "ms": 4706433,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 276,
+      "ms": 4535013,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 332,
+      "ms": 3987950,
+      "dish": "Breakfast"
+    }
+  ]
+}

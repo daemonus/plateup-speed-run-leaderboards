@@ -1,0 +1,98 @@
+{
+  "id": "21cc685e-3f3f-4eca-b64a-59797af6dd08",
+  "persona": "Charlie",
+  "names": [
+    "Charlie"
+  ],
+  "runs": 10,
+  "bestRank": 208,
+  "worstRank": 701,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2969796,
+  "weeksActive": [
+    36,
+    39,
+    41,
+    46,
+    51,
+    52,
+    53,
+    54,
+    55,
+    68
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 470,
+      "ms": 17663603,
+      "dish": "Fish"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 381,
+      "ms": 13293704,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 492,
+      "ms": 2969796,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 599,
+      "ms": 6373707,
+      "dish": "Pizza"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 295,
+      "ms": 4773622,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 701,
+      "ms": 7407187,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 507,
+      "ms": 11765869,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 340,
+      "ms": 8519387,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 208,
+      "ms": 3932714,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 533,
+      "ms": 5136857,
+      "dish": "Turkey"
+    }
+  ]
+}

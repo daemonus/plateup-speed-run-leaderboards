@@ -1,0 +1,58 @@
+{
+  "id": "00e75cd8-eb93-4444-91d3-09099f25c3d5",
+  "persona": "Aveline",
+  "names": [
+    "Aveline"
+  ],
+  "runs": 5,
+  "bestRank": 115,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2863213,
+  "weeksActive": [
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 295,
+      "ms": 4230232,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 447,
+      "ms": 3088026,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 190,
+      "ms": 2992456,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 115,
+      "ms": 2869413,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 255,
+      "ms": 2863213,
+      "dish": "Turkey"
+    }
+  ]
+}

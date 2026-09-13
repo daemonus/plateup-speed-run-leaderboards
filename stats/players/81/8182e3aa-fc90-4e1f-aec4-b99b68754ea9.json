@@ -1,0 +1,42 @@
+{
+  "id": "8182e3aa-fc90-4e1f-aec4-b99b68754ea9",
+  "persona": "yopis90745",
+  "names": [
+    "yopis90745"
+  ],
+  "runs": 3,
+  "bestRank": 158,
+  "worstRank": 356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3441615,
+  "weeksActive": [
+    -21,
+    -20,
+    -9
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 253,
+      "ms": 3441615,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 356,
+      "ms": 3989850,
+      "dish": "Burgers"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 158,
+      "ms": 5004645,
+      "dish": "Stir Fry"
+    }
+  ]
+}

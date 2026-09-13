@@ -1,0 +1,66 @@
+{
+  "id": "fb9b6044-f1c3-4df7-baa3-9666cfc73856",
+  "persona": "Leviathann",
+  "names": [
+    "Leviathann"
+  ],
+  "runs": 6,
+  "bestRank": 117,
+  "worstRank": 343,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2500994,
+  "weeksActive": [
+    -45,
+    -44,
+    -43,
+    -39,
+    -38,
+    15
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 157,
+      "ms": 2899753,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 122,
+      "ms": 2500994,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 117,
+      "ms": 3014009,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 265,
+      "ms": 2942248,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 343,
+      "ms": 2782660,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 276,
+      "ms": 2677200,
+      "dish": "Turkey"
+    }
+  ]
+}

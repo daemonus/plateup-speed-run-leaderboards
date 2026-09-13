@@ -1,0 +1,106 @@
+{
+  "id": "12b8269b-a861-4dc5-9854-3ae0968448dc",
+  "persona": "Alice",
+  "names": [
+    "Alice"
+  ],
+  "runs": 11,
+  "bestRank": 28,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1009024,
+  "weeksActive": [
+    28,
+    29,
+    31,
+    32,
+    36,
+    58,
+    79,
+    80,
+    81,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 127,
+      "ms": 2422360,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 99,
+      "ms": 3254802,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 47,
+      "ms": 2075941,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 97,
+      "ms": 2576458,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 84,
+      "ms": 2164987,
+      "dish": "Fish"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 155,
+      "ms": 2557490,
+      "dish": "Turkey"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 117,
+      "ms": 3320943,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 147,
+      "ms": 2966790,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 156,
+      "ms": 3337447,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 28,
+      "ms": 1009024,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 62,
+      "ms": 1398164,
+      "dish": "Sundaes"
+    }
+  ]
+}

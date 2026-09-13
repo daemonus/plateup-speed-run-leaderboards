@@ -1,0 +1,90 @@
+{
+  "id": "9991b60c-fca3-4d7f-b9ef-0e0706bfc694",
+  "persona": "Sandy",
+  "names": [
+    "Sandy"
+  ],
+  "runs": 9,
+  "bestRank": 273,
+  "worstRank": 800,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3388746,
+  "weeksActive": [
+    -46,
+    -44,
+    -40,
+    -38,
+    -37,
+    -34,
+    -30,
+    -20,
+    13
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 497,
+      "ms": 5249177,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 547,
+      "ms": 5190102,
+      "dish": "Turkey"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 273,
+      "ms": 6221592,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 800,
+      "ms": 4535307,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 548,
+      "ms": 3589017,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 285,
+      "ms": 3388746,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 682,
+      "ms": 3692036,
+      "dish": "Turkey"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 429,
+      "ms": 4324533,
+      "dish": "Burgers"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 462,
+      "ms": 3508226,
+      "dish": "Turkey"
+    }
+  ]
+}

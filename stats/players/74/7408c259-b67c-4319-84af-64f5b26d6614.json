@@ -1,0 +1,42 @@
+{
+  "id": "7408c259-b67c-4319-84af-64f5b26d6614",
+  "persona": "Bionic",
+  "names": [
+    "Bionic"
+  ],
+  "runs": 3,
+  "bestRank": 156,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2506605,
+  "weeksActive": [
+    18,
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 205,
+      "ms": 4188047,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 156,
+      "ms": 3382713,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 291,
+      "ms": 2506605,
+      "dish": "Turkey"
+    }
+  ]
+}

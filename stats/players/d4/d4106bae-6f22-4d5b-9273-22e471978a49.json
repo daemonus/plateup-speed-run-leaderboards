@@ -1,0 +1,50 @@
+{
+  "id": "d4106bae-6f22-4d5b-9273-22e471978a49",
+  "persona": "kerenm77",
+  "names": [
+    "kerenm77"
+  ],
+  "runs": 4,
+  "bestRank": 5,
+  "worstRank": 100,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 3,
+  "bestMs": 841744,
+  "weeksActive": [
+    52,
+    56,
+    64,
+    84
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 100,
+      "ms": 2225399,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 5,
+      "ms": 907238,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 8,
+      "ms": 1009552,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 7,
+      "ms": 841744,
+      "dish": "Sundaes"
+    }
+  ]
+}

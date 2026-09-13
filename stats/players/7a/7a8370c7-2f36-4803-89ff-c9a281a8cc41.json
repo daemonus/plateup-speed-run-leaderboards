@@ -1,0 +1,82 @@
+{
+  "id": "7a8370c7-2f36-4803-89ff-c9a281a8cc41",
+  "persona": "Magic",
+  "names": [
+    "Magic"
+  ],
+  "runs": 8,
+  "bestRank": 211,
+  "worstRank": 554,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2933650,
+  "weeksActive": [
+    -3,
+    -2,
+    0,
+    19,
+    23,
+    43,
+    64,
+    82
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 458,
+      "ms": 3558281,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 215,
+      "ms": 3086312,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 289,
+      "ms": 4441756,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 211,
+      "ms": 3660062,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 268,
+      "ms": 2937615,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 370,
+      "ms": 2989231,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 554,
+      "ms": 2933650,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 361,
+      "ms": 3804260,
+      "dish": "Pizza"
+    }
+  ]
+}

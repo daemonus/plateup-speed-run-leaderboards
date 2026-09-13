@@ -1,0 +1,66 @@
+{
+  "id": "beba8ea5-1035-43e2-9d91-828e4609eb73",
+  "persona": "\u304B\u3077\u3061\u3083\u3093",
+  "names": [
+    "\u304B\u3077\u3061\u3083\u3093"
+  ],
+  "runs": 6,
+  "bestRank": 166,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3083880,
+  "weeksActive": [
+    47,
+    49,
+    50,
+    52,
+    62,
+    63
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 248,
+      "ms": 3952010,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 166,
+      "ms": 5036328,
+      "dish": "Burgers"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 170,
+      "ms": 4292874,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 398,
+      "ms": 3364552,
+      "dish": "Fish"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 226,
+      "ms": 3083880,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 319,
+      "ms": 3279950,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "282096f9-7bd8-453c-8b40-6e8965223831",
+  "persona": "boonana",
+  "names": [
+    "boonana"
+  ],
+  "runs": 3,
+  "bestRank": 700,
+  "worstRank": 876,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3452344,
+  "weeksActive": [
+    -37,
+    -31,
+    56
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 876,
+      "ms": 4613482,
+      "dish": "Fish"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 803,
+      "ms": 4929414,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 700,
+      "ms": 3452344,
+      "dish": "Sundaes"
+    }
+  ]
+}

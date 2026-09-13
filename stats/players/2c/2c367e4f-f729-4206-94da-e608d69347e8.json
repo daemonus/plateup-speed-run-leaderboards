@@ -1,0 +1,58 @@
+{
+  "id": "2c367e4f-f729-4206-94da-e608d69347e8",
+  "persona": "Welshen",
+  "names": [
+    "Welshen"
+  ],
+  "runs": 5,
+  "bestRank": 18,
+  "worstRank": 163,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2389359,
+  "weeksActive": [
+    2,
+    44,
+    45,
+    46,
+    51
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 65,
+      "ms": 2566024,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 163,
+      "ms": 2877175,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 18,
+      "ms": 2389359,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 81,
+      "ms": 2444523,
+      "dish": "Pizza"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 47,
+      "ms": 2622918,
+      "dish": "Salad"
+    }
+  ]
+}

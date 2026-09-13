@@ -1,0 +1,34 @@
+{
+  "id": "e4944cf3-f5f6-4c84-af35-c8b8d41d3de1",
+  "persona": "Loki",
+  "names": [
+    "Loki"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 196,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2109112,
+  "weeksActive": [
+    -16,
+    -3
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 196,
+      "ms": 2832365,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 81,
+      "ms": 2109112,
+      "dish": "Turkey"
+    }
+  ]
+}

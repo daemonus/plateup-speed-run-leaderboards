@@ -1,0 +1,42 @@
+{
+  "id": "b008a820-8a1f-43c4-b6da-0af3d6fab701",
+  "persona": "Johanna",
+  "names": [
+    "Johanna"
+  ],
+  "runs": 3,
+  "bestRank": 88,
+  "worstRank": 1419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1899317,
+  "weeksActive": [
+    -94,
+    -91,
+    -78
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1419,
+      "ms": 4040088,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 202,
+      "ms": 1899317,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 88,
+      "ms": 2570367,
+      "dish": "Burgers"
+    }
+  ]
+}

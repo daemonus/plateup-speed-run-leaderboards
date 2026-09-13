@@ -1,0 +1,34 @@
+{
+  "id": "0fbb52ec-285e-46f8-95b9-88d162bf39ae",
+  "persona": "bjorno",
+  "names": [
+    "bjorno"
+  ],
+  "runs": 2,
+  "bestRank": 379,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3870212,
+  "weeksActive": [
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 535,
+      "ms": 3870212,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 379,
+      "ms": 4235298,
+      "dish": "Pies"
+    }
+  ]
+}

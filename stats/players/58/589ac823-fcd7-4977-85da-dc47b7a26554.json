@@ -1,0 +1,34 @@
+{
+  "id": "589ac823-fcd7-4977-85da-dc47b7a26554",
+  "persona": "movie mike schmidt",
+  "names": [
+    "movie mike schmidt"
+  ],
+  "runs": 2,
+  "bestRank": 372,
+  "worstRank": 879,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2894012,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 879,
+      "ms": 5964898,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 372,
+      "ms": 2894012,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "0a8851fd-069a-4f03-8bd1-78f4a192eaa5",
+  "persona": "Mimi",
+  "names": [
+    "Mimi"
+  ],
+  "runs": 5,
+  "bestRank": 221,
+  "worstRank": 699,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2915728,
+  "weeksActive": [
+    -88,
+    -86,
+    -85,
+    -83,
+    -69
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 258,
+      "ms": 2915728,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 699,
+      "ms": 3710123,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 221,
+      "ms": 4020917,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 498,
+      "ms": 4291741,
+      "dish": "Steak"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 357,
+      "ms": 5002573,
+      "dish": "Stir Fry"
+    }
+  ]
+}

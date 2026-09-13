@@ -1,0 +1,66 @@
+{
+  "id": "6523c09a-dccf-4307-8ccc-acb954ff9ea5",
+  "persona": "daafl",
+  "names": [
+    "daafl"
+  ],
+  "runs": 6,
+  "bestRank": 187,
+  "worstRank": 2453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3336083,
+  "weeksActive": [
+    -93,
+    -90,
+    -71,
+    -70,
+    -20,
+    -13
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2453,
+      "ms": 3560059,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 926,
+      "ms": 3542021,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1171,
+      "ms": 5513736,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 272,
+      "ms": 3872457,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 509,
+      "ms": 5078071,
+      "dish": "Burgers"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 187,
+      "ms": 3336083,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

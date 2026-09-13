@@ -1,0 +1,42 @@
+{
+  "id": "e49b1493-c49c-4ad0-9b86-1894b4a41dce",
+  "persona": "Istvan Ivan",
+  "names": [
+    "Istvan Ivan"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 921,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3056223,
+  "weeksActive": [
+    -76,
+    4,
+    57
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 921,
+      "ms": 4892626,
+      "dish": "Turkey"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 152,
+      "ms": 3056223,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 398,
+      "ms": 4159171,
+      "dish": "Salad"
+    }
+  ]
+}

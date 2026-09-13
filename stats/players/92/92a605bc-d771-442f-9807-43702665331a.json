@@ -1,0 +1,50 @@
+{
+  "id": "92a605bc-d771-442f-9807-43702665331a",
+  "persona": "LilArih",
+  "names": [
+    "LilArih"
+  ],
+  "runs": 4,
+  "bestRank": 247,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3548852,
+  "weeksActive": [
+    51,
+    55,
+    62,
+    65
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 374,
+      "ms": 6140212,
+      "dish": "Salad"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 323,
+      "ms": 5048909,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 325,
+      "ms": 3548852,
+      "dish": "Pies"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 247,
+      "ms": 3605903,
+      "dish": "Pizza"
+    }
+  ]
+}

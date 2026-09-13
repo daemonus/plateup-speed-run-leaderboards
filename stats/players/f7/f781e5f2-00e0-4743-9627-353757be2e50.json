@@ -1,0 +1,50 @@
+{
+  "id": "f781e5f2-00e0-4743-9627-353757be2e50",
+  "persona": "Evan",
+  "names": [
+    "Evan"
+  ],
+  "runs": 4,
+  "bestRank": 80,
+  "worstRank": 255,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2506108,
+  "weeksActive": [
+    -58,
+    -56,
+    -40,
+    -32
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 166,
+      "ms": 3972712,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 255,
+      "ms": 3164627,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 80,
+      "ms": 3201690,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 108,
+      "ms": 2506108,
+      "dish": "Breakfast"
+    }
+  ]
+}

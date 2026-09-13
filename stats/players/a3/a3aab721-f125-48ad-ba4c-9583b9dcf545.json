@@ -1,0 +1,34 @@
+{
+  "id": "a3aab721-f125-48ad-ba4c-9583b9dcf545",
+  "persona": "Nancy Drew",
+  "names": [
+    "Nancy Drew"
+  ],
+  "runs": 2,
+  "bestRank": 400,
+  "worstRank": 629,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3579209,
+  "weeksActive": [
+    -63,
+    -38
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 400,
+      "ms": 4164540,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 629,
+      "ms": 3579209,
+      "dish": "Turkey"
+    }
+  ]
+}

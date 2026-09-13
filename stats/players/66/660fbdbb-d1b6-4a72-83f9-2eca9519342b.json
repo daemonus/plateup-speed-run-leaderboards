@@ -1,0 +1,74 @@
+{
+  "id": "660fbdbb-d1b6-4a72-83f9-2eca9519342b",
+  "persona": "Liz",
+  "names": [
+    "Liz"
+  ],
+  "runs": 7,
+  "bestRank": 96,
+  "worstRank": 580,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2648862,
+  "weeksActive": [
+    35,
+    36,
+    38,
+    41,
+    42,
+    64,
+    76
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 358,
+      "ms": 4491108,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 315,
+      "ms": 3303969,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 420,
+      "ms": 4100094,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 394,
+      "ms": 2648862,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 126,
+      "ms": 3009854,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 580,
+      "ms": 2971566,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 96,
+      "ms": 2906042,
+      "dish": "Salad"
+    }
+  ]
+}

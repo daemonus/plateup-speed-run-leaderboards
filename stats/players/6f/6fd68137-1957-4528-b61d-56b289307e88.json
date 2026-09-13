@@ -1,0 +1,42 @@
+{
+  "id": "6fd68137-1957-4528-b61d-56b289307e88",
+  "persona": "\u767D\u7814YIQ",
+  "names": [
+    "\u767D\u7814YIQ"
+  ],
+  "runs": 3,
+  "bestRank": 585,
+  "worstRank": 732,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5209199,
+  "weeksActive": [
+    -20,
+    -18,
+    82
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 585,
+      "ms": 6556386,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 732,
+      "ms": 5209199,
+      "dish": "Fish"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 599,
+      "ms": 5407865,
+      "dish": "Pizza"
+    }
+  ]
+}

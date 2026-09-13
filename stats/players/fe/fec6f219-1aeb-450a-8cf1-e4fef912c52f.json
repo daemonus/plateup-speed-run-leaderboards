@@ -1,0 +1,106 @@
+{
+  "id": "fec6f219-1aeb-450a-8cf1-e4fef912c52f",
+  "persona": "DLY",
+  "names": [
+    "DLY"
+  ],
+  "runs": 11,
+  "bestRank": 81,
+  "worstRank": 380,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1618328,
+  "weeksActive": [
+    -4,
+    -3,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 380,
+      "ms": 3830603,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 353,
+      "ms": 3137395,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 197,
+      "ms": 2968642,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 174,
+      "ms": 3174000,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 152,
+      "ms": 3250226,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 159,
+      "ms": 3137945,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 81,
+      "ms": 2551037,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 163,
+      "ms": 2319278,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 160,
+      "ms": 2898838,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 109,
+      "ms": 1618328,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 238,
+      "ms": 3293830,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "7c43107f-5361-46e3-ad66-3ae452bccb51",
+  "persona": "Gorin",
+  "names": [
+    "Gorin"
+  ],
+  "runs": 5,
+  "bestRank": 122,
+  "worstRank": 455,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2065857,
+  "weeksActive": [
+    -94,
+    -93,
+    -85,
+    -75,
+    53
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 250,
+      "ms": 2451319,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 455,
+      "ms": 2065857,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 182,
+      "ms": 3546498,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 215,
+      "ms": 2278112,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 122,
+      "ms": 2795224,
+      "dish": "Pies"
+    }
+  ]
+}

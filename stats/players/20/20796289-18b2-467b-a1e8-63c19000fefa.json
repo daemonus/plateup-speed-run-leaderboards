@@ -1,0 +1,66 @@
+{
+  "id": "20796289-18b2-467b-a1e8-63c19000fefa",
+  "persona": "Mizusu",
+  "names": [
+    "Mizusu"
+  ],
+  "runs": 6,
+  "bestRank": 115,
+  "worstRank": 742,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2758613,
+  "weeksActive": [
+    -60,
+    -57,
+    -51,
+    -50,
+    -49,
+    -19
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 486,
+      "ms": 6326666,
+      "dish": "Burgers"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 339,
+      "ms": 7589974,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 742,
+      "ms": 6040547,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 255,
+      "ms": 5070414,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 268,
+      "ms": 10332683,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 115,
+      "ms": 2758613,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

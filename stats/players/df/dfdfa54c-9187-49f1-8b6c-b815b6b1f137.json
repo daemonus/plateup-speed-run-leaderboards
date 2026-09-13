@@ -1,0 +1,50 @@
+{
+  "id": "dfdfa54c-9187-49f1-8b6c-b815b6b1f137",
+  "persona": "Paprikaw",
+  "names": [
+    "Paprikaw"
+  ],
+  "runs": 4,
+  "bestRank": 178,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1798179,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 393,
+      "ms": 2696871,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 242,
+      "ms": 1798179,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 178,
+      "ms": 1870791,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 283,
+      "ms": 2426332,
+      "dish": "Pies"
+    }
+  ]
+}

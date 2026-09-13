@@ -1,0 +1,74 @@
+{
+  "id": "53a7c6f5-67f3-411a-b823-af94bad24785",
+  "persona": "muni",
+  "names": [
+    "muni"
+  ],
+  "runs": 7,
+  "bestRank": 94,
+  "worstRank": 471,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2645144,
+  "weeksActive": [
+    -67,
+    -64,
+    -63,
+    -62,
+    -57,
+    -56,
+    -35
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 471,
+      "ms": 4634132,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 222,
+      "ms": 3643426,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 277,
+      "ms": 3652938,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 94,
+      "ms": 2645144,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 120,
+      "ms": 3144614,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 162,
+      "ms": 2757695,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 148,
+      "ms": 3707327,
+      "dish": "Breakfast"
+    }
+  ]
+}

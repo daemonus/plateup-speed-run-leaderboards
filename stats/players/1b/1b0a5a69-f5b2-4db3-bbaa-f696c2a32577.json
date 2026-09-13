@@ -1,0 +1,42 @@
+{
+  "id": "1b0a5a69-f5b2-4db3-bbaa-f696c2a32577",
+  "persona": "Malkindred",
+  "names": [
+    "Malkindred"
+  ],
+  "runs": 3,
+  "bestRank": 171,
+  "worstRank": 420,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1789066,
+  "weeksActive": [
+    56,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 171,
+      "ms": 1789066,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 420,
+      "ms": 5914829,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 194,
+      "ms": 3244561,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

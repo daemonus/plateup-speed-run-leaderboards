@@ -1,0 +1,50 @@
+{
+  "id": "759ad75f-988d-4bea-8ef9-4ad1b20dcd21",
+  "persona": "depress",
+  "names": [
+    "depress"
+  ],
+  "runs": 4,
+  "bestRank": 297,
+  "worstRank": 637,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4896346,
+  "weeksActive": [
+    -26,
+    -25,
+    26,
+    54
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 369,
+      "ms": 4896346,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 637,
+      "ms": 5492869,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 390,
+      "ms": 5754318,
+      "dish": "Pizza"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 297,
+      "ms": 4929719,
+      "dish": "Burgers"
+    }
+  ]
+}

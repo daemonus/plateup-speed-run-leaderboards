@@ -1,0 +1,42 @@
+{
+  "id": "e1dff82a-2e7d-4377-922a-ad5459da086f",
+  "persona": "sir_sasquatch",
+  "names": [
+    "sir_sasquatch"
+  ],
+  "runs": 3,
+  "bestRank": 383,
+  "worstRank": 866,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2347687,
+  "weeksActive": [
+    -94,
+    -93,
+    -79
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 866,
+      "ms": 3278688,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 853,
+      "ms": 2347687,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 383,
+      "ms": 4340202,
+      "dish": "Pies"
+    }
+  ]
+}

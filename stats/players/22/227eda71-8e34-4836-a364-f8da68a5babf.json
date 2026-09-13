@@ -1,0 +1,50 @@
+{
+  "id": "227eda71-8e34-4836-a364-f8da68a5babf",
+  "persona": "Chows",
+  "names": [
+    "Chows"
+  ],
+  "runs": 4,
+  "bestRank": 55,
+  "worstRank": 2179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2660838,
+  "weeksActive": [
+    -94,
+    -93,
+    -90,
+    -67
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 724,
+      "ms": 3107774,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2179,
+      "ms": 3281620,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 754,
+      "ms": 3140417,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 55,
+      "ms": 2660838,
+      "dish": "Breakfast"
+    }
+  ]
+}

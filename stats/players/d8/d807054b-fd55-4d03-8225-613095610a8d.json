@@ -1,0 +1,82 @@
+{
+  "id": "d807054b-fd55-4d03-8225-613095610a8d",
+  "persona": "Kup",
+  "names": [
+    "Kup"
+  ],
+  "runs": 8,
+  "bestRank": 51,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2943201,
+  "weeksActive": [
+    -63,
+    -62,
+    -61,
+    -54,
+    -48,
+    -33,
+    -22,
+    -19
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 228,
+      "ms": 3442834,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 248,
+      "ms": 3308052,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 228,
+      "ms": 3216882,
+      "dish": "Fish"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 51,
+      "ms": 3106349,
+      "dish": "Salad"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 75,
+      "ms": 3410614,
+      "dish": "Burgers"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 117,
+      "ms": 2943201,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 147,
+      "ms": 3901907,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 167,
+      "ms": 3096672,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

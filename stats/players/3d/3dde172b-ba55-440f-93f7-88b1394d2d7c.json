@@ -1,0 +1,50 @@
+{
+  "id": "3dde172b-ba55-440f-93f7-88b1394d2d7c",
+  "persona": "dave_depew",
+  "names": [
+    "dave_depew"
+  ],
+  "runs": 4,
+  "bestRank": 415,
+  "worstRank": 912,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3784490,
+  "weeksActive": [
+    -72,
+    -51,
+    -44,
+    -37
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 912,
+      "ms": 12290629,
+      "dish": "Pies"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 551,
+      "ms": 3929368,
+      "dish": "Turkey"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 415,
+      "ms": 3784490,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 682,
+      "ms": 3844560,
+      "dish": "Fish"
+    }
+  ]
+}

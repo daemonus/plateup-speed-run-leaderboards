@@ -1,0 +1,42 @@
+{
+  "id": "726b65d0-3f5a-40b6-bbe4-cf67d3423988",
+  "persona": "MeaMea",
+  "names": [
+    "MeaMea"
+  ],
+  "runs": 3,
+  "bestRank": 282,
+  "worstRank": 596,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3359787,
+  "weeksActive": [
+    43,
+    44,
+    46
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 596,
+      "ms": 3826416,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 346,
+      "ms": 3700780,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 282,
+      "ms": 3359787,
+      "dish": "Pizza"
+    }
+  ]
+}

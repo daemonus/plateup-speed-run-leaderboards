@@ -1,0 +1,50 @@
+{
+  "id": "04999bd7-55d4-462c-907d-8ed0b19b8c8e",
+  "persona": "Ch3rylly",
+  "names": [
+    "Ch3rylly"
+  ],
+  "runs": 4,
+  "bestRank": 145,
+  "worstRank": 657,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3091430,
+  "weeksActive": [
+    -77,
+    -76,
+    49,
+    52
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 657,
+      "ms": 4051766,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 435,
+      "ms": 3091430,
+      "dish": "Turkey"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 145,
+      "ms": 4331288,
+      "dish": "Burgers"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 584,
+      "ms": 4182820,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3fe5e143-42a9-46c4-9ed3-1a0504f3eb2e",
+  "persona": "gavn",
+  "names": [
+    "gavn"
+  ],
+  "runs": 3,
+  "bestRank": 245,
+  "worstRank": 435,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3407391,
+  "weeksActive": [
+    9,
+    10,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 413,
+      "ms": 4196488,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 245,
+      "ms": 4714442,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 435,
+      "ms": 3407391,
+      "dish": "Turkey"
+    }
+  ]
+}

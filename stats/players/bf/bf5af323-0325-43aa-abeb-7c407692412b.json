@@ -1,0 +1,42 @@
+{
+  "id": "bf5af323-0325-43aa-abeb-7c407692412b",
+  "persona": "TA_2",
+  "names": [
+    "TA_2"
+  ],
+  "runs": 3,
+  "bestRank": 150,
+  "worstRank": 1386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3537843,
+  "weeksActive": [
+    -91,
+    -20,
+    -11
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1386,
+      "ms": 3537843,
+      "dish": "Fish"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 499,
+      "ms": 4912907,
+      "dish": "Burgers"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 150,
+      "ms": 4103541,
+      "dish": "Burgers"
+    }
+  ]
+}

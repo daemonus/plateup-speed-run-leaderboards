@@ -1,0 +1,42 @@
+{
+  "id": "51319d79-fb91-4a84-89df-3dba5f4174f9",
+  "persona": "nordough",
+  "names": [
+    "nordough"
+  ],
+  "runs": 3,
+  "bestRank": 159,
+  "worstRank": 600,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3358235,
+  "weeksActive": [
+    -84,
+    -81,
+    -54
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 600,
+      "ms": 4035240,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 159,
+      "ms": 3358235,
+      "dish": "Steak"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 161,
+      "ms": 4631813,
+      "dish": "Salad"
+    }
+  ]
+}

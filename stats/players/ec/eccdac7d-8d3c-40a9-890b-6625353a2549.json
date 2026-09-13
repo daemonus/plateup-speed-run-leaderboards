@@ -1,0 +1,58 @@
+{
+  "id": "eccdac7d-8d3c-40a9-890b-6625353a2549",
+  "persona": "RanchosReindeer",
+  "names": [
+    "RanchosReindeer"
+  ],
+  "runs": 5,
+  "bestRank": 124,
+  "worstRank": 268,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2567746,
+  "weeksActive": [
+    -59,
+    -57,
+    -56,
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 258,
+      "ms": 3249996,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 124,
+      "ms": 3163319,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 268,
+      "ms": 3221930,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 246,
+      "ms": 2885331,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 262,
+      "ms": 2567746,
+      "dish": "Turkey"
+    }
+  ]
+}

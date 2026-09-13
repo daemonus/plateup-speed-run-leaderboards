@@ -1,0 +1,58 @@
+{
+  "id": "850b8b81-744a-4c14-96e6-9f42a1db1f3d",
+  "persona": "1Kitty617",
+  "names": [
+    "1Kitty617"
+  ],
+  "runs": 5,
+  "bestRank": 257,
+  "worstRank": 660,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3300374,
+  "weeksActive": [
+    -86,
+    -84,
+    -83,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 586,
+      "ms": 3300374,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 500,
+      "ms": 3583796,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 387,
+      "ms": 3565126,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 660,
+      "ms": 4136820,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 257,
+      "ms": 4036262,
+      "dish": "Steak"
+    }
+  ]
+}

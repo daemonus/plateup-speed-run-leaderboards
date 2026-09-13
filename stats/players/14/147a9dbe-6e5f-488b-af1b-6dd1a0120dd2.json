@@ -1,0 +1,42 @@
+{
+  "id": "147a9dbe-6e5f-488b-af1b-6dd1a0120dd2",
+  "persona": "Cyntric",
+  "names": [
+    "Cyntric"
+  ],
+  "runs": 3,
+  "bestRank": 269,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3499500,
+  "weeksActive": [
+    -78,
+    -77,
+    -63
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 331,
+      "ms": 3499500,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 468,
+      "ms": 3516603,
+      "dish": "Pies"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 269,
+      "ms": 3620680,
+      "dish": "Stir Fry"
+    }
+  ]
+}

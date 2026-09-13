@@ -1,0 +1,42 @@
+{
+  "id": "6133ff36-62ff-49c0-b928-c96a1e40b301",
+  "persona": "l4dyface",
+  "names": [
+    "l4dyface"
+  ],
+  "runs": 3,
+  "bestRank": 397,
+  "worstRank": 861,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4251523,
+  "weeksActive": [
+    -2,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 397,
+      "ms": 4614110,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 861,
+      "ms": 4251523,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 523,
+      "ms": 5475467,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "efdb3572-007a-4dc9-a807-30f5c700ff01",
+  "persona": "SpiderSnider",
+  "names": [
+    "SpiderSnider"
+  ],
+  "runs": 3,
+  "bestRank": 334,
+  "worstRank": 1697,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4216832,
+  "weeksActive": [
+    -94,
+    -91,
+    -46
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1697,
+      "ms": 5086375,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1662,
+      "ms": 5122269,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 334,
+      "ms": 4216832,
+      "dish": "Salad"
+    }
+  ]
+}

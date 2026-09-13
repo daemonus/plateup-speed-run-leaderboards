@@ -1,0 +1,42 @@
+{
+  "id": "7efd36b0-5762-421a-98c5-2f0e10461d78",
+  "persona": "Gismo",
+  "names": [
+    "Gismo"
+  ],
+  "runs": 3,
+  "bestRank": 191,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3408449,
+  "weeksActive": [
+    -57,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 191,
+      "ms": 3863978,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 369,
+      "ms": 3692470,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 242,
+      "ms": 3408449,
+      "dish": "Pizza"
+    }
+  ]
+}

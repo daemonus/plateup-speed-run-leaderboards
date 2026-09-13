@@ -1,0 +1,58 @@
+{
+  "id": "78a706c4-ec7e-4b70-81db-dc2304b44461",
+  "persona": "SumZero",
+  "names": [
+    "SumZero"
+  ],
+  "runs": 5,
+  "bestRank": 184,
+  "worstRank": 508,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2852617,
+  "weeksActive": [
+    -20,
+    -19,
+    -18,
+    -17,
+    -16
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 508,
+      "ms": 5074609,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 184,
+      "ms": 3255701,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 265,
+      "ms": 3369582,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 246,
+      "ms": 3565405,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 197,
+      "ms": 2852617,
+      "dish": "Pies"
+    }
+  ]
+}

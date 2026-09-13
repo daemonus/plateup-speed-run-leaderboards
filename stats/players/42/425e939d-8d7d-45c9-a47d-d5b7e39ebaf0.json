@@ -1,0 +1,42 @@
+{
+  "id": "425e939d-8d7d-45c9-a47d-d5b7e39ebaf0",
+  "persona": "rei",
+  "names": [
+    "rei"
+  ],
+  "runs": 3,
+  "bestRank": 210,
+  "worstRank": 258,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2512403,
+  "weeksActive": [
+    -42,
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 210,
+      "ms": 4723919,
+      "dish": "Burgers"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 258,
+      "ms": 2919089,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 242,
+      "ms": 2512403,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5ad59f13-842f-40ec-83dc-24ecaeddbff8",
+  "persona": "Hammy",
+  "names": [
+    "Hammy"
+  ],
+  "runs": 2,
+  "bestRank": 86,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2250312,
+  "weeksActive": [
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 331,
+      "ms": 2760635,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 86,
+      "ms": 2250312,
+      "dish": "Fish"
+    }
+  ]
+}

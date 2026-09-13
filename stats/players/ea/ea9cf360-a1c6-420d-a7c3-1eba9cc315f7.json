@@ -1,0 +1,34 @@
+{
+  "id": "ea9cf360-a1c6-420d-a7c3-1eba9cc315f7",
+  "persona": "CCC",
+  "names": [
+    "CCC"
+  ],
+  "runs": 2,
+  "bestRank": 240,
+  "worstRank": 249,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3530721,
+  "weeksActive": [
+    1,
+    4
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 240,
+      "ms": 3530721,
+      "dish": "Pies"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 249,
+      "ms": 3766385,
+      "dish": "Breakfast"
+    }
+  ]
+}

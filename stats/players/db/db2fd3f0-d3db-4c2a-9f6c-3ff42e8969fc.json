@@ -1,0 +1,42 @@
+{
+  "id": "db2fd3f0-d3db-4c2a-9f6c-3ff42e8969fc",
+  "persona": "HippoL",
+  "names": [
+    "HippoL"
+  ],
+  "runs": 3,
+  "bestRank": 181,
+  "worstRank": 985,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4057121,
+  "weeksActive": [
+    -89,
+    -74,
+    -41
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 985,
+      "ms": 5179314,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 488,
+      "ms": 4592961,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 181,
+      "ms": 4057121,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "84f032d6-3f8b-4ff0-bcdd-8e7c1b9d140b",
+  "persona": "\u897F\u74DC",
+  "names": [
+    "\u897F\u74DC"
+  ],
+  "runs": 4,
+  "bestRank": 358,
+  "worstRank": 486,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3654098,
+  "weeksActive": [
+    1,
+    26,
+    68,
+    71
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 486,
+      "ms": 17414644,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 397,
+      "ms": 6009884,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 417,
+      "ms": 3654098,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 358,
+      "ms": 4199116,
+      "dish": "Pizza"
+    }
+  ]
+}

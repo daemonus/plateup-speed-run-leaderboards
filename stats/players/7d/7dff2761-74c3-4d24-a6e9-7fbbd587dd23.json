@@ -1,0 +1,42 @@
+{
+  "id": "7dff2761-74c3-4d24-a6e9-7fbbd587dd23",
+  "persona": "Shmoogedy",
+  "names": [
+    "Shmoogedy"
+  ],
+  "runs": 3,
+  "bestRank": 23,
+  "worstRank": 51,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1469358,
+  "weeksActive": [
+    -92,
+    -89,
+    -84
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 23,
+      "ms": 1469358,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 39,
+      "ms": 1479637,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 51,
+      "ms": 1849820,
+      "dish": "Fish"
+    }
+  ]
+}

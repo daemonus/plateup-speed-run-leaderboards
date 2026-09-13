@@ -1,0 +1,34 @@
+{
+  "id": "56cd2a58-26b2-4739-a53e-11ca09779703",
+  "persona": "qwerty",
+  "names": [
+    "qwerty"
+  ],
+  "runs": 2,
+  "bestRank": 172,
+  "worstRank": 214,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3244538,
+  "weeksActive": [
+    76,
+    78
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 172,
+      "ms": 3898588,
+      "dish": "Salad"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 214,
+      "ms": 3244538,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

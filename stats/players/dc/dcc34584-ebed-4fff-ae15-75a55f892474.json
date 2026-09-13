@@ -1,0 +1,50 @@
+{
+  "id": "dcc34584-ebed-4fff-ae15-75a55f892474",
+  "persona": "RatMayor",
+  "names": [
+    "RatMayor"
+  ],
+  "runs": 4,
+  "bestRank": 27,
+  "worstRank": 93,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1865667,
+  "weeksActive": [
+    -34,
+    -32,
+    -30,
+    -26
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 61,
+      "ms": 2302742,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 27,
+      "ms": 2060929,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 61,
+      "ms": 1865667,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 93,
+      "ms": 3061688,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "99bf6bb8-8650-4764-b682-39affb140f67",
+  "persona": "Alex_Tsirk",
+  "names": [
+    "Alex_Tsirk"
+  ],
+  "runs": 3,
+  "bestRank": 546,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3513704,
+  "weeksActive": [
+    -38,
+    -20,
+    -18
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 609,
+      "ms": 3513704,
+      "dish": "Turkey"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 546,
+      "ms": 5505813,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 700,
+      "ms": 4978868,
+      "dish": "Fish"
+    }
+  ]
+}

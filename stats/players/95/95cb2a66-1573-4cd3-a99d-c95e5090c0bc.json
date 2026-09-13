@@ -1,0 +1,42 @@
+{
+  "id": "95cb2a66-1573-4cd3-a99d-c95e5090c0bc",
+  "persona": "Elvira",
+  "names": [
+    "Elvira"
+  ],
+  "runs": 3,
+  "bestRank": 401,
+  "worstRank": 899,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3549602,
+  "weeksActive": [
+    -33,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 403,
+      "ms": 5043118,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 899,
+      "ms": 4367188,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 401,
+      "ms": 3549602,
+      "dish": "Pies"
+    }
+  ]
+}

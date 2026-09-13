@@ -1,0 +1,66 @@
+{
+  "id": "8bc17607-1a43-42a4-8823-d6cc59bfeebd",
+  "persona": "Mstep7",
+  "names": [
+    "Mstep7"
+  ],
+  "runs": 6,
+  "bestRank": 61,
+  "worstRank": 273,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1730534,
+  "weeksActive": [
+    -40,
+    -38,
+    -37,
+    -32,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 192,
+      "ms": 4360481,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 61,
+      "ms": 1730534,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 93,
+      "ms": 2290538,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 273,
+      "ms": 3004255,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 242,
+      "ms": 2512480,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 120,
+      "ms": 3392062,
+      "dish": "Burgers"
+    }
+  ]
+}

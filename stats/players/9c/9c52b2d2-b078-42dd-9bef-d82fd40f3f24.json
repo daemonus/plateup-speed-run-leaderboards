@@ -1,0 +1,42 @@
+{
+  "id": "9c52b2d2-b078-42dd-9bef-d82fd40f3f24",
+  "persona": "babebouner",
+  "names": [
+    "babebouner"
+  ],
+  "runs": 3,
+  "bestRank": 335,
+  "worstRank": 1955,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2450170,
+  "weeksActive": [
+    -94,
+    -93,
+    41
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 716,
+      "ms": 3099634,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1955,
+      "ms": 3104640,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 335,
+      "ms": 2450170,
+      "dish": "Turkey"
+    }
+  ]
+}

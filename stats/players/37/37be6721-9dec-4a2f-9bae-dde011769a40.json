@@ -1,0 +1,74 @@
+{
+  "id": "37be6721-9dec-4a2f-9bae-dde011769a40",
+  "persona": "carloszombie4",
+  "names": [
+    "carloszombie4"
+  ],
+  "runs": 7,
+  "bestRank": 295,
+  "worstRank": 1691,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2326336,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    63,
+    82,
+    84
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 832,
+      "ms": 3229685,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1691,
+      "ms": 2931485,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 622,
+      "ms": 3860385,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1041,
+      "ms": 3005709,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 648,
+      "ms": 4557109,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 340,
+      "ms": 3712905,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 295,
+      "ms": 2326336,
+      "dish": "Sundaes"
+    }
+  ]
+}

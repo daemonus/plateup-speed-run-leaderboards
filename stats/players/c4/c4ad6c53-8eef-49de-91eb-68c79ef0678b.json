@@ -1,0 +1,50 @@
+{
+  "id": "c4ad6c53-8eef-49de-91eb-68c79ef0678b",
+  "persona": "maxhim",
+  "names": [
+    "maxhim"
+  ],
+  "runs": 4,
+  "bestRank": 232,
+  "worstRank": 764,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4196168,
+  "weeksActive": [
+    -39,
+    -8,
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 764,
+      "ms": 8165731,
+      "dish": "Pizza"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 295,
+      "ms": 5111964,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 232,
+      "ms": 4398147,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 358,
+      "ms": 4196168,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6e72e5b3-4a66-46cc-b034-cecf020c7ccf",
+  "persona": "Paasta",
+  "names": [
+    "Paasta"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 155,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1948463,
+  "weeksActive": [
+    -14,
+    -13,
+    86
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 149,
+      "ms": 4076975,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 100,
+      "ms": 2807139,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 155,
+      "ms": 1948463,
+      "dish": "Sundaes"
+    }
+  ]
+}

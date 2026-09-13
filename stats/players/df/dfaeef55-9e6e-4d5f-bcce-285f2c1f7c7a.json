@@ -1,0 +1,90 @@
+{
+  "id": "dfaeef55-9e6e-4d5f-bcce-285f2c1f7c7a",
+  "persona": "\u6765\u81EA\u5F31\u8005\u7684\u601C\u60AF",
+  "names": [
+    "\u6765\u81EA\u5F31\u8005\u7684\u601C\u60AF"
+  ],
+  "runs": 9,
+  "bestRank": 282,
+  "worstRank": 681,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3845539,
+  "weeksActive": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    23,
+    55
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 568,
+      "ms": 3881120,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 361,
+      "ms": 6937908,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 681,
+      "ms": 5042996,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 475,
+      "ms": 5705275,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 282,
+      "ms": 5428580,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 289,
+      "ms": 5361738,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 441,
+      "ms": 6731396,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 443,
+      "ms": 3845539,
+      "dish": "Turkey"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 299,
+      "ms": 4823368,
+      "dish": "Stir Fry"
+    }
+  ]
+}

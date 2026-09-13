@@ -1,0 +1,34 @@
+{
+  "id": "606c85ed-11b2-4383-a5b9-938274e3bf77",
+  "persona": "A",
+  "names": [
+    "A"
+  ],
+  "runs": 2,
+  "bestRank": 303,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4238617,
+  "weeksActive": [
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 303,
+      "ms": 4274566,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 453,
+      "ms": 4238617,
+      "dish": "Pies"
+    }
+  ]
+}

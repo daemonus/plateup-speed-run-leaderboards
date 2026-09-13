@@ -1,0 +1,34 @@
+{
+  "id": "e97f8593-850c-46ee-b8f5-a6b56f955e08",
+  "persona": "Szyszka",
+  "names": [
+    "Szyszka"
+  ],
+  "runs": 2,
+  "bestRank": 303,
+  "worstRank": 488,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2925347,
+  "weeksActive": [
+    -79,
+    83
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 303,
+      "ms": 3812778,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 488,
+      "ms": 2925347,
+      "dish": "Sundaes"
+    }
+  ]
+}

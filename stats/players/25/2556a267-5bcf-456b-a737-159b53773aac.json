@@ -1,0 +1,50 @@
+{
+  "id": "2556a267-5bcf-456b-a737-159b53773aac",
+  "persona": "TheInfectedWizard",
+  "names": [
+    "TheInfectedWizard"
+  ],
+  "runs": 4,
+  "bestRank": 27,
+  "worstRank": 321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2272333,
+  "weeksActive": [
+    -18,
+    -17,
+    -4,
+    11
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 182,
+      "ms": 3096594,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 126,
+      "ms": 2758343,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 321,
+      "ms": 3539992,
+      "dish": "Pies"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 27,
+      "ms": 2272333,
+      "dish": "Salad"
+    }
+  ]
+}

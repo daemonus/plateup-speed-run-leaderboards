@@ -1,0 +1,66 @@
+{
+  "id": "cf3b73de-2c61-4767-82bc-2f411a36aaa8",
+  "persona": "shu",
+  "names": [
+    "shu"
+  ],
+  "runs": 6,
+  "bestRank": 368,
+  "worstRank": 676,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2417996,
+  "weeksActive": [
+    52,
+    57,
+    58,
+    62,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 443,
+      "ms": 3499423,
+      "dish": "Fish"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 519,
+      "ms": 5337816,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 439,
+      "ms": 3751156,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 660,
+      "ms": 12409638,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 676,
+      "ms": 4781822,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 368,
+      "ms": 2417996,
+      "dish": "Sundaes"
+    }
+  ]
+}

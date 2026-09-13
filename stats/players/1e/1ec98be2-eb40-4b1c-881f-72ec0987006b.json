@@ -1,0 +1,50 @@
+{
+  "id": "1ec98be2-eb40-4b1c-881f-72ec0987006b",
+  "persona": "ncbraski",
+  "names": [
+    "ncbraski"
+  ],
+  "runs": 4,
+  "bestRank": 236,
+  "worstRank": 455,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2740074,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -81
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 455,
+      "ms": 4025603,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 377,
+      "ms": 2740074,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 362,
+      "ms": 3074815,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 236,
+      "ms": 3863079,
+      "dish": "Steak"
+    }
+  ]
+}

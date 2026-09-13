@@ -1,0 +1,42 @@
+{
+  "id": "2d97428e-df05-4c73-b446-c91cb453b49e",
+  "persona": "Nackskott",
+  "names": [
+    "Nackskott"
+  ],
+  "runs": 3,
+  "bestRank": 170,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3065916,
+  "weeksActive": [
+    -74,
+    -71,
+    -6
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 272,
+      "ms": 3509062,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 428,
+      "ms": 3065916,
+      "dish": "Turkey"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 170,
+      "ms": 3379252,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cbad6253-baec-49f2-9a0b-9aa6d80a8871",
+  "persona": "linnel",
+  "names": [
+    "linnel"
+  ],
+  "runs": 4,
+  "bestRank": 200,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3073619,
+  "weeksActive": [
+    -37,
+    6,
+    7,
+    14
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 504,
+      "ms": 3505622,
+      "dish": "Fish"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 288,
+      "ms": 3987286,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 200,
+      "ms": 3073619,
+      "dish": "Fish"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 315,
+      "ms": 4556926,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

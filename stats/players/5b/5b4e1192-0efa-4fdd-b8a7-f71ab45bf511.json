@@ -1,0 +1,50 @@
+{
+  "id": "5b4e1192-0efa-4fdd-b8a7-f71ab45bf511",
+  "persona": "mr. cool",
+  "names": [
+    "mr. cool"
+  ],
+  "runs": 4,
+  "bestRank": 286,
+  "worstRank": 489,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2732385,
+  "weeksActive": [
+    15,
+    30,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 286,
+      "ms": 2732385,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 315,
+      "ms": 3773803,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 437,
+      "ms": 3646547,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 489,
+      "ms": 2740612,
+      "dish": "Sundaes"
+    }
+  ]
+}

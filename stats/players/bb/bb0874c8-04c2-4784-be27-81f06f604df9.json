@@ -1,0 +1,42 @@
+{
+  "id": "bb0874c8-04c2-4784-be27-81f06f604df9",
+  "persona": "FargoWells",
+  "names": [
+    "FargoWells"
+  ],
+  "runs": 3,
+  "bestRank": 691,
+  "worstRank": 1007,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2257622,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1007,
+      "ms": 3444160,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 691,
+      "ms": 2257622,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 976,
+      "ms": 2908989,
+      "dish": "Fish"
+    }
+  ]
+}

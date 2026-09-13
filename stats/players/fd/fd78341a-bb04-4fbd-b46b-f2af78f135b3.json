@@ -1,0 +1,42 @@
+{
+  "id": "fd78341a-bb04-4fbd-b46b-f2af78f135b3",
+  "persona": "Tallisen",
+  "names": [
+    "Tallisen"
+  ],
+  "runs": 3,
+  "bestRank": 473,
+  "worstRank": 1501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2576987,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1169,
+      "ms": 2576987,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1501,
+      "ms": 3830403,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 473,
+      "ms": 2619522,
+      "dish": "Fish"
+    }
+  ]
+}

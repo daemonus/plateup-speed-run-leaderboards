@@ -1,0 +1,42 @@
+{
+  "id": "6d7df2c1-5be8-4523-96a9-6c30560e4d03",
+  "persona": "Mary",
+  "names": [
+    "Mary"
+  ],
+  "runs": 3,
+  "bestRank": 424,
+  "worstRank": 1810,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3005650,
+  "weeksActive": [
+    -93,
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1810,
+      "ms": 3005650,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 616,
+      "ms": 3383434,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 424,
+      "ms": 3274143,
+      "dish": "Fish"
+    }
+  ]
+}

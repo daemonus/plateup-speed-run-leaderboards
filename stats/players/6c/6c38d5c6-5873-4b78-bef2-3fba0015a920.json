@@ -1,0 +1,42 @@
+{
+  "id": "6c38d5c6-5873-4b78-bef2-3fba0015a920",
+  "persona": "Icedwyn",
+  "names": [
+    "Icedwyn"
+  ],
+  "runs": 3,
+  "bestRank": 238,
+  "worstRank": 652,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2744001,
+  "weeksActive": [
+    -94,
+    -86,
+    -77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 652,
+      "ms": 3032650,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 379,
+      "ms": 2744001,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 238,
+      "ms": 2880918,
+      "dish": "Pies"
+    }
+  ]
+}

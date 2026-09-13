@@ -1,0 +1,42 @@
+{
+  "id": "37bcb809-484c-4e45-9431-239aed99d334",
+  "persona": "noopy",
+  "names": [
+    "noopy"
+  ],
+  "runs": 3,
+  "bestRank": 307,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3390972,
+  "weeksActive": [
+    13,
+    16,
+    57
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 429,
+      "ms": 3390972,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 310,
+      "ms": 4486796,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 307,
+      "ms": 3592290,
+      "dish": "Salad"
+    }
+  ]
+}

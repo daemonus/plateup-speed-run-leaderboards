@@ -1,0 +1,58 @@
+{
+  "id": "34b345fe-b4dd-4abb-8070-89329258a775",
+  "persona": "thrkxx",
+  "names": [
+    "thrkxx"
+  ],
+  "runs": 5,
+  "bestRank": 108,
+  "worstRank": 731,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1831143,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -89,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 718,
+      "ms": 3101316,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 731,
+      "ms": 2280422,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 693,
+      "ms": 2565733,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 108,
+      "ms": 1831143,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 148,
+      "ms": 2094762,
+      "dish": "Fish"
+    }
+  ]
+}

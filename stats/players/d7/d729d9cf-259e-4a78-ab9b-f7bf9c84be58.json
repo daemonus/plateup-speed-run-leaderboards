@@ -1,0 +1,58 @@
+{
+  "id": "d729d9cf-259e-4a78-ab9b-f7bf9c84be58",
+  "persona": "GrandpaBaner",
+  "names": [
+    "GrandpaBaner"
+  ],
+  "runs": 5,
+  "bestRank": 175,
+  "worstRank": 775,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2348987,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 625,
+      "ms": 3872628,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 775,
+      "ms": 2658312,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 345,
+      "ms": 2348987,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 356,
+      "ms": 2597292,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 175,
+      "ms": 2590389,
+      "dish": "Pies"
+    }
+  ]
+}

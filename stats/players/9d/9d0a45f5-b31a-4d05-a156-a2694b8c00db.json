@@ -1,0 +1,42 @@
+{
+  "id": "9d0a45f5-b31a-4d05-a156-a2694b8c00db",
+  "persona": "NicNakLaff",
+  "names": [
+    "NicNakLaff"
+  ],
+  "runs": 3,
+  "bestRank": 175,
+  "worstRank": 311,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2324745,
+  "weeksActive": [
+    -50,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 245,
+      "ms": 4886107,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 311,
+      "ms": 3332020,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 175,
+      "ms": 2324745,
+      "dish": "Turkey"
+    }
+  ]
+}

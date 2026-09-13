@@ -1,0 +1,50 @@
+{
+  "id": "86bfeb9e-b45c-426c-beb1-aad32001a997",
+  "persona": "Germ",
+  "names": [
+    "Germ"
+  ],
+  "runs": 4,
+  "bestRank": 125,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2288790,
+  "weeksActive": [
+    -47,
+    -40,
+    -18,
+    64
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 272,
+      "ms": 3838185,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 125,
+      "ms": 3579558,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 324,
+      "ms": 3586824,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 313,
+      "ms": 2288790,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e52e3108-f632-44f0-9375-7ee967c40375",
+  "persona": "pulldog21",
+  "names": [
+    "pulldog21"
+  ],
+  "runs": 3,
+  "bestRank": 320,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2950503,
+  "weeksActive": [
+    -83,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 473,
+      "ms": 4068912,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 320,
+      "ms": 2950503,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 442,
+      "ms": 6932433,
+      "dish": "Steak"
+    }
+  ]
+}

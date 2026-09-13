@@ -1,0 +1,50 @@
+{
+  "id": "8669841a-79dd-4131-b21d-5998be08f67c",
+  "persona": "Spottedlion",
+  "names": [
+    "Spottedlion"
+  ],
+  "runs": 4,
+  "bestRank": 116,
+  "worstRank": 307,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1650174,
+  "weeksActive": [
+    -78,
+    -77,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 307,
+      "ms": 3359730,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 295,
+      "ms": 3060247,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 116,
+      "ms": 1650174,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 193,
+      "ms": 2948194,
+      "dish": "Fish"
+    }
+  ]
+}

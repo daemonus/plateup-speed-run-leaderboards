@@ -1,0 +1,34 @@
+{
+  "id": "9a85670e-e427-42e5-974c-e97a05251f75",
+  "persona": "Henru",
+  "names": [
+    "Henru"
+  ],
+  "runs": 2,
+  "bestRank": 22,
+  "worstRank": 46,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2256407,
+  "weeksActive": [
+    -9,
+    26
+  ],
+  "history": [
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 22,
+      "ms": 2706521,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 46,
+      "ms": 2256407,
+      "dish": "Pizza"
+    }
+  ]
+}

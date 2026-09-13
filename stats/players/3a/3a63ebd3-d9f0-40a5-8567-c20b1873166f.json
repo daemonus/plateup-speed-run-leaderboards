@@ -1,0 +1,50 @@
+{
+  "id": "3a63ebd3-d9f0-40a5-8567-c20b1873166f",
+  "persona": "Tomozzers",
+  "names": [
+    "Tomozzers"
+  ],
+  "runs": 4,
+  "bestRank": 180,
+  "worstRank": 703,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2163203,
+  "weeksActive": [
+    -82,
+    -3,
+    15,
+    20
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 703,
+      "ms": 4358999,
+      "dish": "Fish"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 232,
+      "ms": 2717299,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 344,
+      "ms": 2981873,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 180,
+      "ms": 2163203,
+      "dish": "Turkey"
+    }
+  ]
+}

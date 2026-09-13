@@ -1,0 +1,50 @@
+{
+  "id": "6f5ac20d-d290-477d-9688-398a2af54aa9",
+  "persona": "licgav",
+  "names": [
+    "licgav"
+  ],
+  "runs": 4,
+  "bestRank": 266,
+  "worstRank": 415,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2809327,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -32
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 329,
+      "ms": 3142482,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 354,
+      "ms": 2809327,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 266,
+      "ms": 2873470,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 415,
+      "ms": 3358715,
+      "dish": "Breakfast"
+    }
+  ]
+}

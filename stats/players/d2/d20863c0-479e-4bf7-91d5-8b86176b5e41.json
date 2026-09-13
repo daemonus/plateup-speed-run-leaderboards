@@ -1,0 +1,50 @@
+{
+  "id": "d20863c0-479e-4bf7-91d5-8b86176b5e41",
+  "persona": "FANTA198",
+  "names": [
+    "FANTA198"
+  ],
+  "runs": 4,
+  "bestRank": 153,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3250153,
+  "weeksActive": [
+    -27,
+    -25,
+    -20,
+    -12
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 276,
+      "ms": 5219303,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 189,
+      "ms": 3430226,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 563,
+      "ms": 5852857,
+      "dish": "Burgers"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 153,
+      "ms": 3250153,
+      "dish": "Breakfast"
+    }
+  ]
+}

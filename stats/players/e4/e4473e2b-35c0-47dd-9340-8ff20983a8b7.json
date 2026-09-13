@@ -1,0 +1,82 @@
+{
+  "id": "e4473e2b-35c0-47dd-9340-8ff20983a8b7",
+  "persona": "Twisty",
+  "names": [
+    "Twisty"
+  ],
+  "runs": 8,
+  "bestRank": 126,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2535978,
+  "weeksActive": [
+    -45,
+    -44,
+    -43,
+    -39,
+    -12,
+    42,
+    44,
+    68
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 555,
+      "ms": 8819515,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 428,
+      "ms": 3847836,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 278,
+      "ms": 4524535,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 126,
+      "ms": 2535978,
+      "dish": "Pizza"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 172,
+      "ms": 3362657,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 168,
+      "ms": 3405550,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 340,
+      "ms": 3679945,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 303,
+      "ms": 3053364,
+      "dish": "Turkey"
+    }
+  ]
+}

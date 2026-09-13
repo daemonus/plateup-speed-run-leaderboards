@@ -1,0 +1,34 @@
+{
+  "id": "deb8453c-4384-4f79-957b-ce5a10012b2a",
+  "persona": "Toadberg",
+  "names": [
+    "Toadberg"
+  ],
+  "runs": 2,
+  "bestRank": 249,
+  "worstRank": 368,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5169767,
+  "weeksActive": [
+    -53,
+    -49
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 368,
+      "ms": 5169767,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 249,
+      "ms": 5736702,
+      "dish": "Breakfast"
+    }
+  ]
+}

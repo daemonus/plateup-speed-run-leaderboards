@@ -1,0 +1,50 @@
+{
+  "id": "20ca8d6b-0db7-4bc5-b523-689960750b72",
+  "persona": "shangshang",
+  "names": [
+    "shangshang"
+  ],
+  "runs": 4,
+  "bestRank": 169,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2829450,
+  "weeksActive": [
+    26,
+    35,
+    43,
+    80
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 216,
+      "ms": 3581837,
+      "dish": "Pizza"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 169,
+      "ms": 3078173,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 314,
+      "ms": 2829450,
+      "dish": "Fish"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 283,
+      "ms": 3861242,
+      "dish": "Pizza"
+    }
+  ]
+}

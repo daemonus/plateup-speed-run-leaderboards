@@ -1,0 +1,50 @@
+{
+  "id": "3b3c9656-0fd4-4c6e-b9ab-16a9af301434",
+  "persona": "Sir Buttercup",
+  "names": [
+    "Sir Buttercup"
+  ],
+  "runs": 4,
+  "bestRank": 40,
+  "worstRank": 206,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2166070,
+  "weeksActive": [
+    -83,
+    -65,
+    -59,
+    80
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 204,
+      "ms": 2834880,
+      "dish": "Steak"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 40,
+      "ms": 3093814,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 43,
+      "ms": 2166070,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 206,
+      "ms": 3305445,
+      "dish": "Pizza"
+    }
+  ]
+}

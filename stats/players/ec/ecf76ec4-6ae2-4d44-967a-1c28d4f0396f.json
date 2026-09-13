@@ -1,0 +1,50 @@
+{
+  "id": "ecf76ec4-6ae2-4d44-967a-1c28d4f0396f",
+  "persona": "FireShot",
+  "names": [
+    "FireShot"
+  ],
+  "runs": 4,
+  "bestRank": 118,
+  "worstRank": 1692,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2931570,
+  "weeksActive": [
+    -93,
+    -64,
+    -46,
+    -42
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1692,
+      "ms": 2931570,
+      "dish": "Fish"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 157,
+      "ms": 3279421,
+      "dish": "Salad"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 162,
+      "ms": 3431156,
+      "dish": "Salad"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 118,
+      "ms": 3540682,
+      "dish": "Burgers"
+    }
+  ]
+}

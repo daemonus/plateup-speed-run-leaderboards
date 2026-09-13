@@ -1,0 +1,58 @@
+{
+  "id": "f9850ca5-b191-4913-a16c-18b59ecfccfa",
+  "persona": "Okaybrioche",
+  "names": [
+    "Okaybrioche"
+  ],
+  "runs": 5,
+  "bestRank": 288,
+  "worstRank": 720,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4112902,
+  "weeksActive": [
+    57,
+    59,
+    60,
+    61,
+    63
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 490,
+      "ms": 4975850,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 360,
+      "ms": 4296291,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 433,
+      "ms": 7264654,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 288,
+      "ms": 4112902,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 720,
+      "ms": 5311080,
+      "dish": "Pizza"
+    }
+  ]
+}

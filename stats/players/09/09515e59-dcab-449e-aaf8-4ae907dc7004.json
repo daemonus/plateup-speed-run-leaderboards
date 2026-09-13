@@ -1,0 +1,50 @@
+{
+  "id": "09515e59-dcab-449e-aaf8-4ae907dc7004",
+  "persona": "Puggernaut",
+  "names": [
+    "Puggernaut"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2489854,
+  "weeksActive": [
+    32,
+    43,
+    52,
+    54
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 336,
+      "ms": 4439786,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 425,
+      "ms": 3152546,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 157,
+      "ms": 2489854,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 239,
+      "ms": 4242051,
+      "dish": "Burgers"
+    }
+  ]
+}

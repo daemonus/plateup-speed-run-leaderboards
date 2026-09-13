@@ -1,0 +1,50 @@
+{
+  "id": "35a58e38-4aa3-4388-9b91-33436117a434",
+  "persona": "Valkyrie",
+  "names": [
+    "Valkyrie"
+  ],
+  "runs": 4,
+  "bestRank": 385,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3230679,
+  "weeksActive": [
+    -41,
+    -39,
+    -38,
+    -34
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 430,
+      "ms": 6620174,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 390,
+      "ms": 3335498,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 509,
+      "ms": 3230679,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 385,
+      "ms": 3927708,
+      "dish": "Pies"
+    }
+  ]
+}

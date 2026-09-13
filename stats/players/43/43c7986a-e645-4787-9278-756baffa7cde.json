@@ -1,0 +1,42 @@
+{
+  "id": "43c7986a-e645-4787-9278-756baffa7cde",
+  "persona": "Alyssa",
+  "names": [
+    "Alyssa"
+  ],
+  "runs": 3,
+  "bestRank": 70,
+  "worstRank": 250,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2204503,
+  "weeksActive": [
+    -56,
+    -55,
+    -53
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 70,
+      "ms": 2204503,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 205,
+      "ms": 3251117,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 250,
+      "ms": 4113745,
+      "dish": "Breakfast"
+    }
+  ]
+}

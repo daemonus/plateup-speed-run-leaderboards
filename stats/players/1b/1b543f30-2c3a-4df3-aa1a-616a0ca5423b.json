@@ -1,0 +1,42 @@
+{
+  "id": "1b543f30-2c3a-4df3-aa1a-616a0ca5423b",
+  "persona": "DAQIQI",
+  "names": [
+    "DAQIQI"
+  ],
+  "runs": 3,
+  "bestRank": 504,
+  "worstRank": 1085,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4220003,
+  "weeksActive": [
+    -77,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 717,
+      "ms": 4220003,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1085,
+      "ms": 4683267,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 504,
+      "ms": 4932985,
+      "dish": "Breakfast"
+    }
+  ]
+}

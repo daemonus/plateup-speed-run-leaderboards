@@ -1,0 +1,42 @@
+{
+  "id": "52d9c21a-a02b-4158-aa7d-6f47f1fdc76f",
+  "persona": "black6013cat",
+  "names": [
+    "black6013cat"
+  ],
+  "runs": 3,
+  "bestRank": 291,
+  "worstRank": 601,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5983672,
+  "weeksActive": [
+    46,
+    47,
+    50
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 601,
+      "ms": 6698281,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 379,
+      "ms": 5983672,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 291,
+      "ms": 8642550,
+      "dish": "Stir Fry"
+    }
+  ]
+}

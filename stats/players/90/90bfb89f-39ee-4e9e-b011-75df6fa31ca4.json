@@ -1,0 +1,34 @@
+{
+  "id": "90bfb89f-39ee-4e9e-b011-75df6fa31ca4",
+  "persona": "Fractal",
+  "names": [
+    "Fractal"
+  ],
+  "runs": 2,
+  "bestRank": 380,
+  "worstRank": 930,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2971658,
+  "weeksActive": [
+    -90,
+    -71
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 930,
+      "ms": 3547332,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 380,
+      "ms": 2971658,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "016e8870-8de4-4331-9d69-d0279fa6babe",
+  "persona": "cait1206",
+  "names": [
+    "cait1206"
+  ],
+  "runs": 3,
+  "bestRank": 261,
+  "worstRank": 640,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2435312,
+  "weeksActive": [
+    -76,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 640,
+      "ms": 3569927,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 261,
+      "ms": 2435312,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 289,
+      "ms": 3586041,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

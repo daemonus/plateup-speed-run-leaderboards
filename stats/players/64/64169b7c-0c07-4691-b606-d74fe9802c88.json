@@ -1,0 +1,42 @@
+{
+  "id": "64169b7c-0c07-4691-b606-d74fe9802c88",
+  "persona": "isk",
+  "names": [
+    "isk"
+  ],
+  "runs": 3,
+  "bestRank": 12,
+  "worstRank": 129,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1291431,
+  "weeksActive": [
+    20,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 17,
+      "ms": 1291431,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 12,
+      "ms": 1680007,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 129,
+      "ms": 2959918,
+      "dish": "Breakfast"
+    }
+  ]
+}

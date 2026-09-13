@@ -1,0 +1,50 @@
+{
+  "id": "2b140cda-fd8d-425d-944b-aa8b1c793cb7",
+  "persona": "xepui",
+  "names": [
+    "xepui"
+  ],
+  "runs": 4,
+  "bestRank": 229,
+  "worstRank": 820,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3857910,
+  "weeksActive": [
+    -71,
+    -70,
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 820,
+      "ms": 3857910,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 595,
+      "ms": 5487436,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 229,
+      "ms": 4341617,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 467,
+      "ms": 4625904,
+      "dish": "Breakfast"
+    }
+  ]
+}

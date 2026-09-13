@@ -1,0 +1,58 @@
+{
+  "id": "38feda20-a075-4a14-b92a-c2c7d13050e3",
+  "persona": "pikachu025",
+  "names": [
+    "pikachu025"
+  ],
+  "runs": 5,
+  "bestRank": 87,
+  "worstRank": 207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2123612,
+  "weeksActive": [
+    10,
+    12,
+    13,
+    21,
+    59
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 87,
+      "ms": 3221331,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 148,
+      "ms": 2123612,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 144,
+      "ms": 2307681,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 163,
+      "ms": 2870170,
+      "dish": "Burgers"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 207,
+      "ms": 3284174,
+      "dish": "Salad"
+    }
+  ]
+}

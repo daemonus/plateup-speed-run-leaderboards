@@ -1,0 +1,50 @@
+{
+  "id": "79ac35fc-a374-4ec9-b77e-209cb8a78376",
+  "persona": "ShadZ",
+  "names": [
+    "ShadZ"
+  ],
+  "runs": 4,
+  "bestRank": 202,
+  "worstRank": 673,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3319476,
+  "weeksActive": [
+    0,
+    1,
+    60,
+    83
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 216,
+      "ms": 4068858,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 202,
+      "ms": 3319476,
+      "dish": "Pies"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 397,
+      "ms": 5136901,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 673,
+      "ms": 3723133,
+      "dish": "Sundaes"
+    }
+  ]
+}

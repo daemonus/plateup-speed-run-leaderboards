@@ -1,0 +1,66 @@
+{
+  "id": "be8fd9de-6e28-4b49-ab22-34e45c70886e",
+  "persona": "AAA\u5C0F\u73CD\u73E0\u6279\u53D1\u5546AAA",
+  "names": [
+    "AAA\u5C0F\u73CD\u73E0\u6279\u53D1\u5546AAA"
+  ],
+  "runs": 6,
+  "bestRank": 189,
+  "worstRank": 1601,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2866297,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -76,
+    -57,
+    0
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1601,
+      "ms": 2866297,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1237,
+      "ms": 3312461,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 733,
+      "ms": 3656159,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 589,
+      "ms": 3445278,
+      "dish": "Turkey"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 189,
+      "ms": 3855663,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 248,
+      "ms": 4228356,
+      "dish": "Stir Fry"
+    }
+  ]
+}

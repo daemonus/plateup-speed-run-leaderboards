@@ -1,0 +1,34 @@
+{
+  "id": "61f4fb74-fcea-4e65-873d-4c3fb8191b63",
+  "persona": "Bee\uD83D\uDC1D",
+  "names": [
+    "Bee\uD83D\uDC1D"
+  ],
+  "runs": 2,
+  "bestRank": 394,
+  "worstRank": 671,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3020017,
+  "weeksActive": [
+    -90,
+    60
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 671,
+      "ms": 3020017,
+      "dish": "Fish"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 394,
+      "ms": 5065992,
+      "dish": "Burgers"
+    }
+  ]
+}

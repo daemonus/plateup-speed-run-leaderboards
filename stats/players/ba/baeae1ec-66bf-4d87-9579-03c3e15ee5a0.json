@@ -1,0 +1,58 @@
+{
+  "id": "baeae1ec-66bf-4d87-9579-03c3e15ee5a0",
+  "persona": "spatha_illuminus",
+  "names": [
+    "spatha_illuminus"
+  ],
+  "runs": 5,
+  "bestRank": 239,
+  "worstRank": 615,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2668098,
+  "weeksActive": [
+    24,
+    36,
+    43,
+    54,
+    62
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 335,
+      "ms": 3796589,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 239,
+      "ms": 2888177,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 264,
+      "ms": 2668098,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 241,
+      "ms": 4250809,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 615,
+      "ms": 5767635,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "512c8dae-4fb8-46ed-99ec-a2c3a34827b2",
+  "persona": "Mint Berry Crunch",
+  "names": [
+    "Mint Berry Crunch"
+  ],
+  "runs": 2,
+  "bestRank": 183,
+  "worstRank": 586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3411585,
+  "weeksActive": [
+    -5,
+    5
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 586,
+      "ms": 5922046,
+      "dish": "Pizza"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 183,
+      "ms": 3411585,
+      "dish": "Breakfast"
+    }
+  ]
+}

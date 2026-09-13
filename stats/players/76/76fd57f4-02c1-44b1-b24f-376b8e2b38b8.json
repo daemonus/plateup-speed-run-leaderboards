@@ -1,0 +1,42 @@
+{
+  "id": "76fd57f4-02c1-44b1-b24f-376b8e2b38b8",
+  "persona": "vroschleiche",
+  "names": [
+    "vroschleiche"
+  ],
+  "runs": 3,
+  "bestRank": 316,
+  "worstRank": 889,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4582700,
+  "weeksActive": [
+    -78,
+    -76,
+    -68
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 500,
+      "ms": 6926468,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 889,
+      "ms": 4582700,
+      "dish": "Turkey"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 316,
+      "ms": 5391704,
+      "dish": "Salad"
+    }
+  ]
+}

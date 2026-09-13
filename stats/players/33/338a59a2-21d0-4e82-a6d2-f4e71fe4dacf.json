@@ -1,0 +1,58 @@
+{
+  "id": "338a59a2-21d0-4e82-a6d2-f4e71fe4dacf",
+  "persona": "Aaronator",
+  "names": [
+    "Aaronator"
+  ],
+  "runs": 5,
+  "bestRank": 199,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3332008,
+  "weeksActive": [
+    38,
+    39,
+    40,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 430,
+      "ms": 4181943,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 316,
+      "ms": 5203460,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 199,
+      "ms": 3624519,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 533,
+      "ms": 3494865,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 263,
+      "ms": 3332008,
+      "dish": "Breakfast"
+    }
+  ]
+}

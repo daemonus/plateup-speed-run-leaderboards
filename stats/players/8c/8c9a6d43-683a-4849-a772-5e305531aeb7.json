@@ -1,0 +1,58 @@
+{
+  "id": "8c9a6d43-683a-4849-a772-5e305531aeb7",
+  "persona": "Jaquiem",
+  "names": [
+    "Jaquiem"
+  ],
+  "runs": 5,
+  "bestRank": 163,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2714086,
+  "weeksActive": [
+    -86,
+    -84,
+    -83,
+    -47,
+    9
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 436,
+      "ms": 2904555,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 264,
+      "ms": 2753195,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 163,
+      "ms": 2714086,
+      "dish": "Steak"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 221,
+      "ms": 3584956,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 198,
+      "ms": 3035085,
+      "dish": "Breakfast"
+    }
+  ]
+}

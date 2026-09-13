@@ -1,0 +1,50 @@
+{
+  "id": "440dcfd2-3f37-49b7-809f-1892ea167881",
+  "persona": "Mart_le_toxophile",
+  "names": [
+    "Mart_le_toxophile"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 875,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3689373,
+  "weeksActive": [
+    -33,
+    -32,
+    -31,
+    -28
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 335,
+      "ms": 4239660,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 875,
+      "ms": 4319913,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 454,
+      "ms": 3689373,
+      "dish": "Pies"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 164,
+      "ms": 4409257,
+      "dish": "Burgers"
+    }
+  ]
+}

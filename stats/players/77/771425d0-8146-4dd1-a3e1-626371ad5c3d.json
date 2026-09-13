@@ -1,0 +1,42 @@
+{
+  "id": "771425d0-8146-4dd1-a3e1-626371ad5c3d",
+  "persona": "Chr0be",
+  "names": [
+    "Chr0be"
+  ],
+  "runs": 3,
+  "bestRank": 187,
+  "worstRank": 781,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3411094,
+  "weeksActive": [
+    -88,
+    -67,
+    60
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 781,
+      "ms": 4957753,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 187,
+      "ms": 3411094,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 369,
+      "ms": 4722437,
+      "dish": "Burgers"
+    }
+  ]
+}

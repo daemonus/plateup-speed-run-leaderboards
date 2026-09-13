@@ -1,0 +1,42 @@
+{
+  "id": "b982077e-b135-45d5-b90d-caf9b256b580",
+  "persona": "Fabster",
+  "names": [
+    "Fabster"
+  ],
+  "runs": 3,
+  "bestRank": 220,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3388399,
+  "weeksActive": [
+    36,
+    37,
+    38
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 386,
+      "ms": 3894183,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 220,
+      "ms": 4789958,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 289,
+      "ms": 3388399,
+      "dish": "Pies"
+    }
+  ]
+}

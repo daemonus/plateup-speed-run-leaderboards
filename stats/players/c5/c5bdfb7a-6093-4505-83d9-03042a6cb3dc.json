@@ -1,0 +1,58 @@
+{
+  "id": "c5bdfb7a-6093-4505-83d9-03042a6cb3dc",
+  "persona": "nihypiy",
+  "names": [
+    "nihypiy"
+  ],
+  "runs": 5,
+  "bestRank": 190,
+  "worstRank": 1642,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2390604,
+  "weeksActive": [
+    -93,
+    -91,
+    -75,
+    -70,
+    -45
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1642,
+      "ms": 2893002,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1009,
+      "ms": 2960753,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 249,
+      "ms": 2390604,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 400,
+      "ms": 4415841,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 190,
+      "ms": 3032145,
+      "dish": "Breakfast"
+    }
+  ]
+}

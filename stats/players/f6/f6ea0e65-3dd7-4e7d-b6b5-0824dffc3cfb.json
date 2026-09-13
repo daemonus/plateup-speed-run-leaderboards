@@ -1,0 +1,58 @@
+{
+  "id": "f6ea0e65-3dd7-4e7d-b6b5-0824dffc3cfb",
+  "persona": "Winding Silverfish",
+  "names": [
+    "Winding Silverfish"
+  ],
+  "runs": 5,
+  "bestRank": 121,
+  "worstRank": 283,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3204772,
+  "weeksActive": [
+    72,
+    73,
+    75,
+    79,
+    80
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 283,
+      "ms": 3955561,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 170,
+      "ms": 3204772,
+      "dish": "Burgers"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 178,
+      "ms": 3403526,
+      "dish": "Pies"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 121,
+      "ms": 3358164,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 265,
+      "ms": 3740255,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1dac19c4-7629-48f1-95bd-3db330ed9672",
+  "persona": "Paul",
+  "names": [
+    "Paul"
+  ],
+  "runs": 2,
+  "bestRank": 213,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4845869,
+  "weeksActive": [
+    16,
+    50
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 425,
+      "ms": 5211245,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 213,
+      "ms": 4845869,
+      "dish": "Stir Fry"
+    }
+  ]
+}

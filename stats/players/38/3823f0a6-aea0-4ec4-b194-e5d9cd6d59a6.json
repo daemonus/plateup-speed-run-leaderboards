@@ -1,0 +1,58 @@
+{
+  "id": "3823f0a6-aea0-4ec4-b194-e5d9cd6d59a6",
+  "persona": "tinytortures",
+  "names": [
+    "tinytortures"
+  ],
+  "runs": 5,
+  "bestRank": 227,
+  "worstRank": 1469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2827032,
+  "weeksActive": [
+    -94,
+    -90,
+    -83,
+    -79,
+    -77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1469,
+      "ms": 4146398,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 583,
+      "ms": 2827032,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 467,
+      "ms": 4011171,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 227,
+      "ms": 3425730,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 286,
+      "ms": 3036385,
+      "dish": "Pies"
+    }
+  ]
+}

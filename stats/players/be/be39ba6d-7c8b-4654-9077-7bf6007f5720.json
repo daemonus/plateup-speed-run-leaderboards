@@ -1,0 +1,74 @@
+{
+  "id": "be39ba6d-7c8b-4654-9077-7bf6007f5720",
+  "persona": "Lilangel",
+  "names": [
+    "Lilangel"
+  ],
+  "runs": 7,
+  "bestRank": 19,
+  "worstRank": 155,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1416785,
+  "weeksActive": [
+    -86,
+    -84,
+    -77,
+    -70,
+    38,
+    39,
+    54
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 122,
+      "ms": 1958371,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 19,
+      "ms": 1416785,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 27,
+      "ms": 1909407,
+      "dish": "Pies"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 49,
+      "ms": 2666564,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 143,
+      "ms": 2675034,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 155,
+      "ms": 3523019,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 105,
+      "ms": 3244863,
+      "dish": "Burgers"
+    }
+  ]
+}

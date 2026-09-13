@@ -1,0 +1,66 @@
+{
+  "id": "38e6d5be-3a7c-4055-b332-54c7d618308e",
+  "persona": "remirin",
+  "names": [
+    "remirin"
+  ],
+  "runs": 6,
+  "bestRank": 51,
+  "worstRank": 133,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1642553,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -89,
+    -87,
+    -85
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 100,
+      "ms": 2122166,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 133,
+      "ms": 1642553,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 96,
+      "ms": 1680656,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 85,
+      "ms": 1736369,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 89,
+      "ms": 2403085,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 51,
+      "ms": 2399896,
+      "dish": "Stir Fry"
+    }
+  ]
+}

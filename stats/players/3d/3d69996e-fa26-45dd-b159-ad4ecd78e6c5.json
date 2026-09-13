@@ -1,0 +1,50 @@
+{
+  "id": "3d69996e-fa26-45dd-b159-ad4ecd78e6c5",
+  "persona": "Hurricane",
+  "names": [
+    "Hurricane"
+  ],
+  "runs": 4,
+  "bestRank": 33,
+  "worstRank": 181,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1718709,
+  "weeksActive": [
+    38,
+    39,
+    43,
+    78
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 38,
+      "ms": 2008865,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 107,
+      "ms": 3208360,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 33,
+      "ms": 1718709,
+      "dish": "Fish"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 181,
+      "ms": 3062674,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

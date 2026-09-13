@@ -1,0 +1,58 @@
+{
+  "id": "3ec93556-90ce-4af8-933a-939c49fa83ee",
+  "persona": "jannizwerg",
+  "names": [
+    "jannizwerg"
+  ],
+  "runs": 5,
+  "bestRank": 80,
+  "worstRank": 286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2903072,
+  "weeksActive": [
+    -64,
+    13,
+    29,
+    30,
+    39
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 166,
+      "ms": 3329502,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 286,
+      "ms": 2903072,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 80,
+      "ms": 2992803,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 240,
+      "ms": 3309779,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 180,
+      "ms": 3757663,
+      "dish": "Stir Fry"
+    }
+  ]
+}

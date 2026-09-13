@@ -1,0 +1,34 @@
+{
+  "id": "11bbbb37-06a9-4f59-be3a-53d814110bdf",
+  "persona": "MLsquad",
+  "names": [
+    "MLsquad"
+  ],
+  "runs": 2,
+  "bestRank": 252,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3608171,
+  "weeksActive": [
+    -64,
+    -34
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 252,
+      "ms": 3782315,
+      "dish": "Salad"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 323,
+      "ms": 3608171,
+      "dish": "Pies"
+    }
+  ]
+}

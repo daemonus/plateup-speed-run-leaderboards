@@ -1,0 +1,42 @@
+{
+  "id": "2c0bb874-084c-4cc5-9f83-60db51d1f6f8",
+  "persona": "Geekonet",
+  "names": [
+    "Geekonet"
+  ],
+  "runs": 3,
+  "bestRank": 93,
+  "worstRank": 160,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1874497,
+  "weeksActive": [
+    41,
+    42,
+    43
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 160,
+      "ms": 1874497,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 95,
+      "ms": 2767882,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 93,
+      "ms": 2099945,
+      "dish": "Fish"
+    }
+  ]
+}

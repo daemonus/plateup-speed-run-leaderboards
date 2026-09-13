@@ -1,0 +1,74 @@
+{
+  "id": "21a50c62-787c-4880-8bd4-e266ca252962",
+  "persona": "Sierra",
+  "names": [
+    "Sierra"
+  ],
+  "runs": 7,
+  "bestRank": 84,
+  "worstRank": 686,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2447701,
+  "weeksActive": [
+    -63,
+    -62,
+    -61,
+    -60,
+    -58,
+    23,
+    43
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 686,
+      "ms": 7664075,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 329,
+      "ms": 3605364,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 272,
+      "ms": 3358350,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 313,
+      "ms": 4109960,
+      "dish": "Burgers"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 84,
+      "ms": 3186200,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 353,
+      "ms": 3440802,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 187,
+      "ms": 2447701,
+      "dish": "Fish"
+    }
+  ]
+}

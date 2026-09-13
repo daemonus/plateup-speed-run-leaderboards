@@ -1,0 +1,42 @@
+{
+  "id": "d84ea340-7256-492d-942b-0b9acaa1804d",
+  "persona": "phill1q",
+  "names": [
+    "phill1q"
+  ],
+  "runs": 3,
+  "bestRank": 207,
+  "worstRank": 552,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4024766,
+  "weeksActive": [
+    24,
+    25,
+    27
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 552,
+      "ms": 5929854,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 207,
+      "ms": 5611297,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 240,
+      "ms": 4024766,
+      "dish": "Breakfast"
+    }
+  ]
+}

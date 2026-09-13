@@ -1,0 +1,34 @@
+{
+  "id": "ced13f91-5b9d-42cc-8844-57cb1a14d03e",
+  "persona": "zozzie",
+  "names": [
+    "zozzie"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 122,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2933165,
+  "weeksActive": [
+    40,
+    55
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 110,
+      "ms": 2933165,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 122,
+      "ms": 3306170,
+      "dish": "Stir Fry"
+    }
+  ]
+}

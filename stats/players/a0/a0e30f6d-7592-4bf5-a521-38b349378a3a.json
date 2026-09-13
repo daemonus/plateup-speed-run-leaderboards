@@ -1,0 +1,58 @@
+{
+  "id": "a0e30f6d-7592-4bf5-a521-38b349378a3a",
+  "persona": "Your Biggest Flan",
+  "names": [
+    "Your Biggest Flan"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1957895,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 388,
+      "ms": 1999550,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 279,
+      "ms": 2809670,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 354,
+      "ms": 2146723,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 250,
+      "ms": 2156101,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 133,
+      "ms": 1957895,
+      "dish": "Pies"
+    }
+  ]
+}

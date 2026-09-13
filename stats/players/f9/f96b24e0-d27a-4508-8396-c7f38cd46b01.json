@@ -1,0 +1,106 @@
+{
+  "id": "f96b24e0-d27a-4508-8396-c7f38cd46b01",
+  "persona": "Ely",
+  "names": [
+    "Ely"
+  ],
+  "runs": 11,
+  "bestRank": 20,
+  "worstRank": 478,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1427614,
+  "weeksActive": [
+    -59,
+    30,
+    31,
+    34,
+    35,
+    36,
+    38,
+    41,
+    64,
+    66,
+    84
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 478,
+      "ms": 4126462,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 146,
+      "ms": 2858601,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 144,
+      "ms": 2630294,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 57,
+      "ms": 2816584,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 28,
+      "ms": 2060869,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 20,
+      "ms": 1709269,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 232,
+      "ms": 3091772,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 76,
+      "ms": 1516832,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 61,
+      "ms": 1427614,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 49,
+      "ms": 2087887,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 86,
+      "ms": 1505570,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3a82463c-1c62-4af4-939d-7bdb0d944532",
+  "persona": "Potato King",
+  "names": [
+    "Potato King"
+  ],
+  "runs": 3,
+  "bestRank": 178,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2830127,
+  "weeksActive": [
+    -40,
+    -39,
+    1
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 178,
+      "ms": 4196612,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 219,
+      "ms": 2830127,
+      "dish": "Pizza"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 222,
+      "ms": 3429022,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e228ec4c-7409-488f-b9b2-b573ff242ae5",
+  "persona": "MultiWorker",
+  "names": [
+    "MultiWorker"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 663,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4633734,
+  "weeksActive": [
+    -74,
+    -68,
+    -67
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 663,
+      "ms": 9887882,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 275,
+      "ms": 4633734,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 642,
+      "ms": 8266451,
+      "dish": "Breakfast"
+    }
+  ]
+}

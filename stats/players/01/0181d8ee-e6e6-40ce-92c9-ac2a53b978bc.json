@@ -1,0 +1,34 @@
+{
+  "id": "0181d8ee-e6e6-40ce-92c9-ac2a53b978bc",
+  "persona": "Obi Wan Kenobi",
+  "names": [
+    "Obi Wan Kenobi"
+  ],
+  "runs": 2,
+  "bestRank": 104,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3771792,
+  "weeksActive": [
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 393,
+      "ms": 4095309,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 104,
+      "ms": 3771792,
+      "dish": "Salad"
+    }
+  ]
+}

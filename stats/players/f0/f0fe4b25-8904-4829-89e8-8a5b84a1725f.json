@@ -1,0 +1,50 @@
+{
+  "id": "f0fe4b25-8904-4829-89e8-8a5b84a1725f",
+  "persona": "Tang",
+  "names": [
+    "Tang"
+  ],
+  "runs": 4,
+  "bestRank": 294,
+  "worstRank": 714,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4134503,
+  "weeksActive": [
+    33,
+    41,
+    82,
+    85
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 294,
+      "ms": 5853574,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 714,
+      "ms": 4628968,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 595,
+      "ms": 5327927,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 359,
+      "ms": 4134503,
+      "dish": "Fish"
+    }
+  ]
+}

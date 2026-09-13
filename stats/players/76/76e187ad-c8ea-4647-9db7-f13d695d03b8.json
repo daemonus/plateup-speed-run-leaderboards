@@ -1,0 +1,34 @@
+{
+  "id": "76e187ad-c8ea-4647-9db7-f13d695d03b8",
+  "persona": "\u30B9\u30C8\u30FC\u30F4\u30A3\u30FC\u30BA",
+  "names": [
+    "\u30B9\u30C8\u30FC\u30F4\u30A3\u30FC\u30BA"
+  ],
+  "runs": 2,
+  "bestRank": 588,
+  "worstRank": 767,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4014022,
+  "weeksActive": [
+    13,
+    15
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 767,
+      "ms": 5228269,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 588,
+      "ms": 4014022,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8561cdd2-dcb7-42e5-8781-4a8c4ec86d8a",
+  "persona": "sosbrigade1771",
+  "names": [
+    "sosbrigade1771"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3000804,
+  "weeksActive": [
+    -5,
+    1,
+    38
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 169,
+      "ms": 3488825,
+      "dish": "Pizza"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 143,
+      "ms": 3000804,
+      "dish": "Pies"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 429,
+      "ms": 4177513,
+      "dish": "Pies"
+    }
+  ]
+}

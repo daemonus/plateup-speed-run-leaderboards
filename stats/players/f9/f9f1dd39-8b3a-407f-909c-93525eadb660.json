@@ -1,0 +1,42 @@
+{
+  "id": "f9f1dd39-8b3a-407f-909c-93525eadb660",
+  "persona": "inkdebio",
+  "names": [
+    "inkdebio"
+  ],
+  "runs": 3,
+  "bestRank": 244,
+  "worstRank": 556,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3105876,
+  "weeksActive": [
+    -79,
+    -78,
+    -77
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 269,
+      "ms": 3619003,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 244,
+      "ms": 3105876,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 556,
+      "ms": 3763780,
+      "dish": "Pies"
+    }
+  ]
+}

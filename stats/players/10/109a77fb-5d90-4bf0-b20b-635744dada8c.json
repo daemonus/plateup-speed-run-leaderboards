@@ -1,0 +1,82 @@
+{
+  "id": "109a77fb-5d90-4bf0-b20b-635744dada8c",
+  "persona": "skylarix",
+  "names": [
+    "skylarix"
+  ],
+  "runs": 8,
+  "bestRank": 180,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3401184,
+  "weeksActive": [
+    -10,
+    12,
+    13,
+    16,
+    30,
+    46,
+    47,
+    85
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 180,
+      "ms": 4185633,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 424,
+      "ms": 3401184,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 445,
+      "ms": 3463646,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 480,
+      "ms": 5726886,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 406,
+      "ms": 4351181,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 333,
+      "ms": 3630246,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 337,
+      "ms": 4862089,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 307,
+      "ms": 3691611,
+      "dish": "Fish"
+    }
+  ]
+}

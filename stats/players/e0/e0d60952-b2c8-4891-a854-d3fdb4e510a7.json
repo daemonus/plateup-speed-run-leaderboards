@@ -1,0 +1,90 @@
+{
+  "id": "e0d60952-b2c8-4891-a854-d3fdb4e510a7",
+  "persona": "suaman",
+  "names": [
+    "suaman"
+  ],
+  "runs": 9,
+  "bestRank": 109,
+  "worstRank": 310,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2741728,
+  "weeksActive": [
+    -31,
+    22,
+    24,
+    27,
+    28,
+    29,
+    30,
+    36,
+    78
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 166,
+      "ms": 2864324,
+      "dish": "Pies"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 242,
+      "ms": 3910013,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 310,
+      "ms": 3670558,
+      "dish": "Pies"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 119,
+      "ms": 2882321,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 237,
+      "ms": 3023059,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 109,
+      "ms": 3362542,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 127,
+      "ms": 2741728,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 283,
+      "ms": 3098880,
+      "dish": "Fish"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 216,
+      "ms": 3249587,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

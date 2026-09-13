@@ -1,0 +1,58 @@
+{
+  "id": "d33146d2-3a41-4801-87b1-5cf6043d4023",
+  "persona": "Snowy",
+  "names": [
+    "Snowy"
+  ],
+  "runs": 5,
+  "bestRank": 301,
+  "worstRank": 1618,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2880666,
+  "weeksActive": [
+    -94,
+    -93,
+    -86,
+    -81,
+    -76
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1277,
+      "ms": 3785969,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1618,
+      "ms": 2880666,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 462,
+      "ms": 2965514,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 301,
+      "ms": 4290479,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 442,
+      "ms": 3104701,
+      "dish": "Turkey"
+    }
+  ]
+}

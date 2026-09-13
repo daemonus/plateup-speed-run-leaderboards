@@ -1,0 +1,50 @@
+{
+  "id": "042a5c00-b021-4626-8e2d-c5c136b7a76d",
+  "persona": "mememe",
+  "names": [
+    "mememe"
+  ],
+  "runs": 4,
+  "bestRank": 237,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2803802,
+  "weeksActive": [
+    -21,
+    -18,
+    23,
+    61
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 511,
+      "ms": 5143641,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 437,
+      "ms": 3988485,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 237,
+      "ms": 2803802,
+      "dish": "Turkey"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 244,
+      "ms": 3688732,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

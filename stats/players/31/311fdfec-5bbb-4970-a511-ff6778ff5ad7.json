@@ -1,0 +1,42 @@
+{
+  "id": "311fdfec-5bbb-4970-a511-ff6778ff5ad7",
+  "persona": "kurisu",
+  "names": [
+    "kurisu"
+  ],
+  "runs": 3,
+  "bestRank": 92,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2500406,
+  "weeksActive": [
+    19,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 341,
+      "ms": 4564174,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 212,
+      "ms": 2670564,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 92,
+      "ms": 2500406,
+      "dish": "Pies"
+    }
+  ]
+}

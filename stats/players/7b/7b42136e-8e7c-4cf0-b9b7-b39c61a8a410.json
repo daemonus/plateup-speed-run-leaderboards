@@ -1,0 +1,58 @@
+{
+  "id": "7b42136e-8e7c-4cf0-b9b7-b39c61a8a410",
+  "persona": "deet",
+  "names": [
+    "deet"
+  ],
+  "runs": 5,
+  "bestRank": 135,
+  "worstRank": 1265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2013289,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 760,
+      "ms": 3150488,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 400,
+      "ms": 2013289,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 492,
+      "ms": 3422563,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1265,
+      "ms": 3355520,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 135,
+      "ms": 2513973,
+      "dish": "Pies"
+    }
+  ]
+}

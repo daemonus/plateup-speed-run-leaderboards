@@ -1,0 +1,50 @@
+{
+  "id": "aa6f8d1d-d0b3-4ab0-bafc-0d5c5dd3dae6",
+  "persona": "TurquoiseSunrise",
+  "names": [
+    "TurquoiseSunrise"
+  ],
+  "runs": 4,
+  "bestRank": 144,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2893897,
+  "weeksActive": [
+    61,
+    62,
+    63,
+    77
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 144,
+      "ms": 2893897,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 190,
+      "ms": 2975861,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 355,
+      "ms": 3402145,
+      "dish": "Pizza"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 327,
+      "ms": 3381387,
+      "dish": "Sundaes"
+    }
+  ]
+}

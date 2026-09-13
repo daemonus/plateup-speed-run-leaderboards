@@ -1,0 +1,58 @@
+{
+  "id": "e2a5b2c9-0500-43f9-b744-6dccf0ca7af9",
+  "persona": "PrincessJune",
+  "names": [
+    "PrincessJune"
+  ],
+  "runs": 5,
+  "bestRank": 389,
+  "worstRank": 1512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2804958,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 542,
+      "ms": 2895054,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1512,
+      "ms": 2804958,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 389,
+      "ms": 3115014,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1295,
+      "ms": 3389354,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 514,
+      "ms": 3106811,
+      "dish": "Fish"
+    }
+  ]
+}

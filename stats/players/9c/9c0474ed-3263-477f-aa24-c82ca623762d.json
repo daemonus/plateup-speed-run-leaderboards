@@ -1,0 +1,50 @@
+{
+  "id": "9c0474ed-3263-477f-aa24-c82ca623762d",
+  "persona": "\u5976\u76D6",
+  "names": [
+    "\u5976\u76D6"
+  ],
+  "runs": 4,
+  "bestRank": 61,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2750083,
+  "weeksActive": [
+    54,
+    55,
+    62,
+    63
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 215,
+      "ms": 3978706,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 61,
+      "ms": 2750083,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 324,
+      "ms": 3543690,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 232,
+      "ms": 2965632,
+      "dish": "Pizza"
+    }
+  ]
+}

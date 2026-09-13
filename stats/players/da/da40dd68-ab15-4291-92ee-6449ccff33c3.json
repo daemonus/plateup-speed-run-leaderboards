@@ -1,0 +1,42 @@
+{
+  "id": "da40dd68-ab15-4291-92ee-6449ccff33c3",
+  "persona": "Night Owl",
+  "names": [
+    "Night Owl"
+  ],
+  "runs": 3,
+  "bestRank": 96,
+  "worstRank": 143,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2600236,
+  "weeksActive": [
+    57,
+    71,
+    80
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 137,
+      "ms": 2815035,
+      "dish": "Salad"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 96,
+      "ms": 2600236,
+      "dish": "Pizza"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 143,
+      "ms": 2946133,
+      "dish": "Pizza"
+    }
+  ]
+}

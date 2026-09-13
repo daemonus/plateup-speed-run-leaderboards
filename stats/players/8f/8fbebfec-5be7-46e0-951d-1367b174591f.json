@@ -1,0 +1,34 @@
+{
+  "id": "8fbebfec-5be7-46e0-951d-1367b174591f",
+  "persona": "Felix",
+  "names": [
+    "Felix"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3697240,
+  "weeksActive": [
+    -40,
+    -39
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 225,
+      "ms": 4995362,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 502,
+      "ms": 3697240,
+      "dish": "Pizza"
+    }
+  ]
+}

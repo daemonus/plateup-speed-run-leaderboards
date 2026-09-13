@@ -1,0 +1,50 @@
+{
+  "id": "55066a53-6978-4afa-8c34-974736c00765",
+  "persona": "yaromeister",
+  "names": [
+    "yaromeister"
+  ],
+  "runs": 4,
+  "bestRank": 19,
+  "worstRank": 86,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1467000,
+  "weeksActive": [
+    54,
+    55,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 19,
+      "ms": 2419885,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 54,
+      "ms": 2647555,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 86,
+      "ms": 1467000,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 50,
+      "ms": 2317601,
+      "dish": "Salad"
+    }
+  ]
+}

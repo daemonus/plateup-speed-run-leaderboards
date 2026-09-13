@@ -1,0 +1,34 @@
+{
+  "id": "d2a71279-c1b1-4b0f-99c2-2e2718c7d77d",
+  "persona": "Appl_Jax",
+  "names": [
+    "Appl_Jax"
+  ],
+  "runs": 2,
+  "bestRank": 393,
+  "worstRank": 658,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3636741,
+  "weeksActive": [
+    -79,
+    -76
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 393,
+      "ms": 4414727,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 658,
+      "ms": 3636741,
+      "dish": "Turkey"
+    }
+  ]
+}

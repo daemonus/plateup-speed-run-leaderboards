@@ -1,0 +1,50 @@
+{
+  "id": "786c985d-20c7-4d2d-a124-a20fdd3dce5e",
+  "persona": "SugarFreeGummyBear",
+  "names": [
+    "SugarFreeGummyBear"
+  ],
+  "runs": 4,
+  "bestRank": 104,
+  "worstRank": 965,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2134263,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 965,
+      "ms": 2429302,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 104,
+      "ms": 2190270,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 368,
+      "ms": 2159019,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 161,
+      "ms": 2134263,
+      "dish": "Fish"
+    }
+  ]
+}

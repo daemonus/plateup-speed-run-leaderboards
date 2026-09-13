@@ -1,0 +1,50 @@
+{
+  "id": "6aeb2d2b-8b87-4712-a68e-51b9148f21aa",
+  "persona": "Jason",
+  "names": [
+    "Jason"
+  ],
+  "runs": 4,
+  "bestRank": 46,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2085832,
+  "weeksActive": [
+    -5,
+    -3,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 314,
+      "ms": 4053181,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 171,
+      "ms": 2498096,
+      "dish": "Turkey"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 176,
+      "ms": 3321792,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 46,
+      "ms": 2085832,
+      "dish": "Fish"
+    }
+  ]
+}

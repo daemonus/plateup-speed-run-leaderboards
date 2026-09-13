@@ -1,0 +1,50 @@
+{
+  "id": "bfb82ee6-7aa4-4b0f-8103-b0e54784d127",
+  "persona": "reel",
+  "names": [
+    "reel"
+  ],
+  "runs": 4,
+  "bestRank": 64,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1746009,
+  "weeksActive": [
+    -41,
+    -40,
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 75,
+      "ms": 3071447,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 99,
+      "ms": 3325749,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 185,
+      "ms": 2736236,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 64,
+      "ms": 1746009,
+      "dish": "Turkey"
+    }
+  ]
+}

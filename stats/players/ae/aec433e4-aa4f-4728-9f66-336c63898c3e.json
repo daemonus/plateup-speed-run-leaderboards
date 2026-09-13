@@ -1,0 +1,42 @@
+{
+  "id": "aec433e4-aa4f-4728-9f66-336c63898c3e",
+  "persona": "Akani",
+  "names": [
+    "Akani"
+  ],
+  "runs": 3,
+  "bestRank": 181,
+  "worstRank": 328,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3076584,
+  "weeksActive": [
+    -15,
+    -14,
+    71
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 287,
+      "ms": 3076584,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 181,
+      "ms": 4378260,
+      "dish": "Salad"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 328,
+      "ms": 3986334,
+      "dish": "Pizza"
+    }
+  ]
+}

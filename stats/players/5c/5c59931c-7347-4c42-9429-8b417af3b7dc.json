@@ -1,0 +1,58 @@
+{
+  "id": "5c59931c-7347-4c42-9429-8b417af3b7dc",
+  "persona": "easybreezy",
+  "names": [
+    "easybreezy"
+  ],
+  "runs": 5,
+  "bestRank": 273,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3123254,
+  "weeksActive": [
+    -86,
+    -84,
+    -83,
+    -82,
+    -79
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 573,
+      "ms": 3264782,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 452,
+      "ms": 3387723,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 273,
+      "ms": 3123254,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 510,
+      "ms": 3482041,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 350,
+      "ms": 4119830,
+      "dish": "Pies"
+    }
+  ]
+}

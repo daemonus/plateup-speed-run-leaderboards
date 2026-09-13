@@ -1,0 +1,34 @@
+{
+  "id": "0bfde2c0-b0f5-47d2-940d-f2a8f5ec57f6",
+  "persona": "\u8F9B\u901D\u7EAA\u8299\u97F3\u6218\u58EB",
+  "names": [
+    "\u8F9B\u901D\u7EAA\u8299\u97F3\u6218\u58EB"
+  ],
+  "runs": 2,
+  "bestRank": 301,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2928942,
+  "weeksActive": [
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 352,
+      "ms": 2928942,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 301,
+      "ms": 4014648,
+      "dish": "Breakfast"
+    }
+  ]
+}

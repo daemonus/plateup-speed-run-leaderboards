@@ -1,0 +1,34 @@
+{
+  "id": "0d56784b-eb9b-46cd-aa64-59c1078b7940",
+  "persona": "Oops",
+  "names": [
+    "Oops"
+  ],
+  "runs": 2,
+  "bestRank": 138,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2026913,
+  "weeksActive": [
+    -92,
+    -86
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 374,
+      "ms": 3083701,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 138,
+      "ms": 2026913,
+      "dish": "Fish"
+    }
+  ]
+}

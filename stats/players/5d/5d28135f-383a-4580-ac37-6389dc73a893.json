@@ -1,0 +1,42 @@
+{
+  "id": "5d28135f-383a-4580-ac37-6389dc73a893",
+  "persona": "DodgeViperGTS08",
+  "names": [
+    "DodgeViperGTS08"
+  ],
+  "runs": 3,
+  "bestRank": 588,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3710085,
+  "weeksActive": [
+    -63,
+    -62,
+    20
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 589,
+      "ms": 5164983,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 588,
+      "ms": 4513139,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 666,
+      "ms": 3710085,
+      "dish": "Turkey"
+    }
+  ]
+}

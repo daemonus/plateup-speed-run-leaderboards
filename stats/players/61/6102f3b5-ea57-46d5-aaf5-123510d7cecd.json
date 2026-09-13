@@ -1,0 +1,42 @@
+{
+  "id": "6102f3b5-ea57-46d5-aaf5-123510d7cecd",
+  "persona": "Kasumi",
+  "names": [
+    "Kasumi"
+  ],
+  "runs": 3,
+  "bestRank": 349,
+  "worstRank": 505,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3246442,
+  "weeksActive": [
+    19,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 358,
+      "ms": 4769175,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 505,
+      "ms": 3246442,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 349,
+      "ms": 3971079,
+      "dish": "Burgers"
+    }
+  ]
+}

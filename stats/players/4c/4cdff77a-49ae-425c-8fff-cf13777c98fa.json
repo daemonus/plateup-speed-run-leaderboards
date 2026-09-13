@@ -1,0 +1,50 @@
+{
+  "id": "4cdff77a-49ae-425c-8fff-cf13777c98fa",
+  "persona": "flamisaur",
+  "names": [
+    "flamisaur"
+  ],
+  "runs": 4,
+  "bestRank": 331,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3653102,
+  "weeksActive": [
+    -20,
+    -17,
+    -4,
+    4
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 565,
+      "ms": 5907992,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 331,
+      "ms": 4420062,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 346,
+      "ms": 3653102,
+      "dish": "Pies"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 338,
+      "ms": 4316533,
+      "dish": "Breakfast"
+    }
+  ]
+}

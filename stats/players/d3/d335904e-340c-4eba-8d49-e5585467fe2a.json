@@ -1,0 +1,34 @@
+{
+  "id": "d335904e-340c-4eba-8d49-e5585467fe2a",
+  "persona": "Banana",
+  "names": [
+    "Banana"
+  ],
+  "runs": 2,
+  "bestRank": 47,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2767100,
+  "weeksActive": [
+    -12,
+    -10
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 156,
+      "ms": 3265169,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 47,
+      "ms": 2767100,
+      "dish": "Stir Fry"
+    }
+  ]
+}

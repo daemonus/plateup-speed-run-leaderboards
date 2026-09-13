@@ -1,0 +1,58 @@
+{
+  "id": "901b9252-d998-46ea-983f-31c8d2aa7e20",
+  "persona": "plumpossum",
+  "names": [
+    "plumpossum"
+  ],
+  "runs": 5,
+  "bestRank": 242,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3103950,
+  "weeksActive": [
+    -45,
+    -44,
+    -43,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 408,
+      "ms": 4092656,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 503,
+      "ms": 4347984,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 242,
+      "ms": 4045303,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 451,
+      "ms": 3103950,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 296,
+      "ms": 3590142,
+      "dish": "Burgers"
+    }
+  ]
+}

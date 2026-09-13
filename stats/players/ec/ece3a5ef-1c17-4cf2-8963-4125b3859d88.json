@@ -1,0 +1,42 @@
+{
+  "id": "ece3a5ef-1c17-4cf2-8963-4125b3859d88",
+  "persona": "L\u00E9naelle",
+  "names": [
+    "L\u00E9naelle"
+  ],
+  "runs": 3,
+  "bestRank": 332,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3170331,
+  "weeksActive": [
+    -56,
+    -55,
+    -51
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 429,
+      "ms": 4247129,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 442,
+      "ms": 4409380,
+      "dish": "Pizza"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 332,
+      "ms": 3170331,
+      "dish": "Turkey"
+    }
+  ]
+}

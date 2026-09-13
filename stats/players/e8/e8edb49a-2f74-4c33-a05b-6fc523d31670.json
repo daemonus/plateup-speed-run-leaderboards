@@ -1,0 +1,50 @@
+{
+  "id": "e8edb49a-2f74-4c33-a05b-6fc523d31670",
+  "persona": "dorangeon.benjamin",
+  "names": [
+    "dorangeon.benjamin"
+  ],
+  "runs": 4,
+  "bestRank": 475,
+  "worstRank": 1721,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4526624,
+  "weeksActive": [
+    -94,
+    -90,
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1721,
+      "ms": 5272483,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1167,
+      "ms": 4701510,
+      "dish": "Fish"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 589,
+      "ms": 4526624,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 475,
+      "ms": 5820115,
+      "dish": "Burgers"
+    }
+  ]
+}

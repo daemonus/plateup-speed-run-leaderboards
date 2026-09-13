@@ -1,0 +1,50 @@
+{
+  "id": "8995bd1c-a078-428f-a4f6-479fcf85bf60",
+  "persona": "mad307burr",
+  "names": [
+    "mad307burr"
+  ],
+  "runs": 4,
+  "bestRank": 181,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3330285,
+  "weeksActive": [
+    -54,
+    -31,
+    -23,
+    10
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 200,
+      "ms": 5851961,
+      "dish": "Salad"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 308,
+      "ms": 3330285,
+      "dish": "Pies"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 224,
+      "ms": 4702111,
+      "dish": "Pizza"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 181,
+      "ms": 4018391,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

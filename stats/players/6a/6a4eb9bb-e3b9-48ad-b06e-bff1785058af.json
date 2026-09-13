@@ -1,0 +1,50 @@
+{
+  "id": "6a4eb9bb-e3b9-48ad-b06e-bff1785058af",
+  "persona": "alachua",
+  "names": [
+    "alachua"
+  ],
+  "runs": 4,
+  "bestRank": 117,
+  "worstRank": 239,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2622229,
+  "weeksActive": [
+    4,
+    26,
+    28,
+    42
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 239,
+      "ms": 3692873,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 164,
+      "ms": 3203925,
+      "dish": "Pizza"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 165,
+      "ms": 2622229,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 117,
+      "ms": 2930064,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

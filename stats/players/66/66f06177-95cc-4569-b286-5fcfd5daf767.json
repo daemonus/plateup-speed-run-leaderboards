@@ -1,0 +1,34 @@
+{
+  "id": "66f06177-95cc-4569-b286-5fcfd5daf767",
+  "persona": "tensannew",
+  "names": [
+    "tensannew"
+  ],
+  "runs": 2,
+  "bestRank": 370,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4740739,
+  "weeksActive": [
+    34,
+    35
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 436,
+      "ms": 5433754,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 370,
+      "ms": 4740739,
+      "dish": "Fish"
+    }
+  ]
+}

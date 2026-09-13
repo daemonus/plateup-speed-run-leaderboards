@@ -1,0 +1,66 @@
+{
+  "id": "73055751-a4d0-4470-9ce9-b1a694d4666a",
+  "persona": "LUKI",
+  "names": [
+    "LUKI"
+  ],
+  "runs": 6,
+  "bestRank": 71,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2176538,
+  "weeksActive": [
+    -39,
+    -33,
+    -30,
+    -16,
+    13,
+    17
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 281,
+      "ms": 2988935,
+      "dish": "Pizza"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 206,
+      "ms": 3461992,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 124,
+      "ms": 2176538,
+      "dish": "Turkey"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 71,
+      "ms": 2178271,
+      "dish": "Pies"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 132,
+      "ms": 2247937,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 175,
+      "ms": 3348915,
+      "dish": "Pizza"
+    }
+  ]
+}

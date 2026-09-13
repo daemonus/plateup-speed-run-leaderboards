@@ -1,0 +1,50 @@
+{
+  "id": "44b77c29-a433-455f-9364-9c86ab0b50a4",
+  "persona": "tingting",
+  "names": [
+    "tingting"
+  ],
+  "runs": 4,
+  "bestRank": 343,
+  "worstRank": 613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2800739,
+  "weeksActive": [
+    -6,
+    20,
+    21,
+    35
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 613,
+      "ms": 5357054,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 364,
+      "ms": 2800739,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 414,
+      "ms": 4468328,
+      "dish": "Burgers"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 343,
+      "ms": 4309722,
+      "dish": "Fish"
+    }
+  ]
+}

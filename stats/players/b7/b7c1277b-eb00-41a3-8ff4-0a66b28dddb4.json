@@ -1,0 +1,34 @@
+{
+  "id": "b7c1277b-eb00-41a3-8ff4-0a66b28dddb4",
+  "persona": "BonnXHUN",
+  "names": [
+    "BonnXHUN"
+  ],
+  "runs": 2,
+  "bestRank": 401,
+  "worstRank": 643,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3765782,
+  "weeksActive": [
+    -37,
+    60
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 643,
+      "ms": 3765782,
+      "dish": "Fish"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 401,
+      "ms": 5311496,
+      "dish": "Burgers"
+    }
+  ]
+}

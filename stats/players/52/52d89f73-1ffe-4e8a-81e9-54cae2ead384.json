@@ -1,0 +1,50 @@
+{
+  "id": "52d89f73-1ffe-4e8a-81e9-54cae2ead384",
+  "persona": "pakkinen",
+  "names": [
+    "pakkinen"
+  ],
+  "runs": 4,
+  "bestRank": 254,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3130558,
+  "weeksActive": [
+    -40,
+    -39,
+    -38,
+    28
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 254,
+      "ms": 5520812,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 578,
+      "ms": 4011924,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 480,
+      "ms": 3130558,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 259,
+      "ms": 3209059,
+      "dish": "Turkey"
+    }
+  ]
+}

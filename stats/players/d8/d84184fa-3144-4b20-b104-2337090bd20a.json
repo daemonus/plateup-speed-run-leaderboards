@@ -1,0 +1,74 @@
+{
+  "id": "d84184fa-3144-4b20-b104-2337090bd20a",
+  "persona": "Grim",
+  "names": [
+    "Grim"
+  ],
+  "runs": 7,
+  "bestRank": 416,
+  "worstRank": 1597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2711811,
+  "weeksActive": [
+    -91,
+    -88,
+    -87,
+    -86,
+    -51,
+    -25,
+    41
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1597,
+      "ms": 4292270,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 720,
+      "ms": 4621471,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 421,
+      "ms": 3815717,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 634,
+      "ms": 3436327,
+      "dish": "Fish"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 480,
+      "ms": 3631197,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 451,
+      "ms": 4413169,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 416,
+      "ms": 2711811,
+      "dish": "Turkey"
+    }
+  ]
+}

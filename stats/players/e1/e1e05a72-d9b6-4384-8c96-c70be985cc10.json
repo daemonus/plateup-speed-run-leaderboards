@@ -1,0 +1,50 @@
+{
+  "id": "e1e05a72-d9b6-4384-8c96-c70be985cc10",
+  "persona": "Stonkasaurus",
+  "names": [
+    "Stonkasaurus"
+  ],
+  "runs": 4,
+  "bestRank": 271,
+  "worstRank": 588,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3003865,
+  "weeksActive": [
+    52,
+    53,
+    58,
+    60
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 588,
+      "ms": 4220071,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 463,
+      "ms": 5350872,
+      "dish": "Pies"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 271,
+      "ms": 3003865,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 340,
+      "ms": 4485111,
+      "dish": "Burgers"
+    }
+  ]
+}

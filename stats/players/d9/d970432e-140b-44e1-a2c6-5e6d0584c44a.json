@@ -1,0 +1,42 @@
+{
+  "id": "d970432e-140b-44e1-a2c6-5e6d0584c44a",
+  "persona": "Vickenstein",
+  "names": [
+    "Vickenstein"
+  ],
+  "runs": 3,
+  "bestRank": 251,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3352535,
+  "weeksActive": [
+    3,
+    4,
+    79
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 330,
+      "ms": 3352535,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 429,
+      "ms": 5463509,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 251,
+      "ms": 5665958,
+      "dish": "Salad"
+    }
+  ]
+}

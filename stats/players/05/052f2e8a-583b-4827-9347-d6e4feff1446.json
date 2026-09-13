@@ -1,0 +1,66 @@
+{
+  "id": "052f2e8a-583b-4827-9347-d6e4feff1446",
+  "persona": "GlutenFreMan",
+  "names": [
+    "GlutenFreMan"
+  ],
+  "runs": 6,
+  "bestRank": 77,
+  "worstRank": 394,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1774343,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -88,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 243,
+      "ms": 2444412,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 243,
+      "ms": 1798966,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 309,
+      "ms": 2911832,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 249,
+      "ms": 1980608,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 394,
+      "ms": 3321845,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 77,
+      "ms": 1774343,
+      "dish": "Fish"
+    }
+  ]
+}

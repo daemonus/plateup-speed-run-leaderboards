@@ -1,0 +1,34 @@
+{
+  "id": "28bfa9c8-acce-47d6-8fd0-c5ebecc1f468",
+  "persona": "told",
+  "names": [
+    "told"
+  ],
+  "runs": 2,
+  "bestRank": 391,
+  "worstRank": 592,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3892567,
+  "weeksActive": [
+    -62,
+    -61
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 592,
+      "ms": 4536851,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 391,
+      "ms": 3892567,
+      "dish": "Fish"
+    }
+  ]
+}

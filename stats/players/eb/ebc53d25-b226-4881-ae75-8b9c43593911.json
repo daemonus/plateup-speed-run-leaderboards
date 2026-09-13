@@ -1,0 +1,34 @@
+{
+  "id": "ebc53d25-b226-4881-ae75-8b9c43593911",
+  "persona": "firetiger01",
+  "names": [
+    "firetiger01"
+  ],
+  "runs": 2,
+  "bestRank": 161,
+  "worstRank": 234,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3240901,
+  "weeksActive": [
+    7,
+    54
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 234,
+      "ms": 3240901,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 161,
+      "ms": 3618986,
+      "dish": "Burgers"
+    }
+  ]
+}

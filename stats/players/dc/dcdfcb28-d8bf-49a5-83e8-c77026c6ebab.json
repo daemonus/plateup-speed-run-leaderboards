@@ -1,0 +1,58 @@
+{
+  "id": "dcdfcb28-d8bf-49a5-83e8-c77026c6ebab",
+  "persona": "Nstuff",
+  "names": [
+    "Nstuff"
+  ],
+  "runs": 5,
+  "bestRank": 146,
+  "worstRank": 693,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2712144,
+  "weeksActive": [
+    -40,
+    -39,
+    -38,
+    1,
+    58
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 276,
+      "ms": 6488832,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 693,
+      "ms": 4735241,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 311,
+      "ms": 2712144,
+      "dish": "Turkey"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 146,
+      "ms": 3013082,
+      "dish": "Pies"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 512,
+      "ms": 4115823,
+      "dish": "Turkey"
+    }
+  ]
+}

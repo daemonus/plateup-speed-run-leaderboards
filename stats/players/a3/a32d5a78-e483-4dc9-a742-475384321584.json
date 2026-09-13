@@ -1,0 +1,34 @@
+{
+  "id": "a32d5a78-e483-4dc9-a742-475384321584",
+  "persona": "\u8017\u5B50",
+  "names": [
+    "\u8017\u5B50"
+  ],
+  "runs": 2,
+  "bestRank": 494,
+  "worstRank": 678,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5238989,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 494,
+      "ms": 6750275,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 678,
+      "ms": 5238989,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5ee204d9-d663-488a-aa35-452846fee508",
+  "persona": "CL",
+  "names": [
+    "CL"
+  ],
+  "runs": 2,
+  "bestRank": 238,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3829433,
+  "weeksActive": [
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 265,
+      "ms": 3829433,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 238,
+      "ms": 3894529,
+      "dish": "Burgers"
+    }
+  ]
+}

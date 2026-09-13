@@ -1,0 +1,42 @@
+{
+  "id": "14829900-11a8-4280-9953-96fb377e4916",
+  "persona": "Worme",
+  "names": [
+    "Worme"
+  ],
+  "runs": 3,
+  "bestRank": 428,
+  "worstRank": 1208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3262754,
+  "weeksActive": [
+    -91,
+    -59,
+    -56
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1208,
+      "ms": 3262754,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 504,
+      "ms": 4242575,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 428,
+      "ms": 4239405,
+      "dish": "Breakfast"
+    }
+  ]
+}

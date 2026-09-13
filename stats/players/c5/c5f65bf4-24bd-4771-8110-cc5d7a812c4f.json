@@ -1,0 +1,50 @@
+{
+  "id": "c5f65bf4-24bd-4771-8110-cc5d7a812c4f",
+  "persona": "TheTrashFactory",
+  "names": [
+    "TheTrashFactory"
+  ],
+  "runs": 4,
+  "bestRank": 461,
+  "worstRank": 939,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3564457,
+  "weeksActive": [
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 939,
+      "ms": 3564457,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 882,
+      "ms": 4311501,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 575,
+      "ms": 4030472,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 461,
+      "ms": 4047168,
+      "dish": "Stir Fry"
+    }
+  ]
+}

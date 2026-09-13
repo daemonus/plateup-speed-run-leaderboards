@@ -1,0 +1,58 @@
+{
+  "id": "d67a0fd2-cb95-401f-93b4-f86966590b8b",
+  "persona": "BeAbout",
+  "names": [
+    "BeAbout"
+  ],
+  "runs": 5,
+  "bestRank": 87,
+  "worstRank": 567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2241114,
+  "weeksActive": [
+    -38,
+    -31,
+    -30,
+    -25,
+    -23
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 567,
+      "ms": 3376616,
+      "dish": "Turkey"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 182,
+      "ms": 2929920,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 148,
+      "ms": 2241114,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 251,
+      "ms": 3689691,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 87,
+      "ms": 2937921,
+      "dish": "Pizza"
+    }
+  ]
+}

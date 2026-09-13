@@ -1,0 +1,66 @@
+{
+  "id": "6dc62f38-23fe-4acb-a5f4-8a0e2f79d528",
+  "persona": "YoSammitySam",
+  "names": [
+    "YoSammitySam"
+  ],
+  "runs": 6,
+  "bestRank": 77,
+  "worstRank": 602,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1739791,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -88,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 199,
+      "ms": 1739791,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 157,
+      "ms": 2424850,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 386,
+      "ms": 2176050,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 256,
+      "ms": 2167784,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 602,
+      "ms": 4127937,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 77,
+      "ms": 2499218,
+      "dish": "Burgers"
+    }
+  ]
+}

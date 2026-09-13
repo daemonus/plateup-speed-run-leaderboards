@@ -1,0 +1,58 @@
+{
+  "id": "76bb4ce9-7df8-428f-9f03-57572ee67c7c",
+  "persona": "st",
+  "names": [
+    "st"
+  ],
+  "runs": 5,
+  "bestRank": 2,
+  "worstRank": 79,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 925070,
+  "weeksActive": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 2,
+      "ms": 925070,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 79,
+      "ms": 2331092,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 58,
+      "ms": 2538021,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 42,
+      "ms": 1688048,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 27,
+      "ms": 2021017,
+      "dish": "Pies"
+    }
+  ]
+}

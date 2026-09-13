@@ -1,0 +1,42 @@
+{
+  "id": "fd44b98d-8167-4672-a0c7-925ffb905190",
+  "persona": "Caped Baldy",
+  "names": [
+    "Caped Baldy"
+  ],
+  "runs": 3,
+  "bestRank": 190,
+  "worstRank": 2357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2899519,
+  "weeksActive": [
+    -93,
+    -90,
+    -47
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2357,
+      "ms": 3455222,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 618,
+      "ms": 2899519,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 190,
+      "ms": 3451604,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

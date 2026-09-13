@@ -1,0 +1,34 @@
+{
+  "id": "f472121c-9b06-4151-83a2-218c52b3501d",
+  "persona": "aperture",
+  "names": [
+    "aperture"
+  ],
+  "runs": 2,
+  "bestRank": 283,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3245281,
+  "weeksActive": [
+    -7,
+    3
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 297,
+      "ms": 5284958,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 283,
+      "ms": 3245281,
+      "dish": "Fish"
+    }
+  ]
+}

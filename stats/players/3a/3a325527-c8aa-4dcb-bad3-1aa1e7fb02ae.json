@@ -1,0 +1,34 @@
+{
+  "id": "3a325527-c8aa-4dcb-bad3-1aa1e7fb02ae",
+  "persona": "Bingleman",
+  "names": [
+    "Bingleman"
+  ],
+  "runs": 2,
+  "bestRank": 197,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2520934,
+  "weeksActive": [
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 299,
+      "ms": 2520934,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 197,
+      "ms": 3693234,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "88be6d42-ddb4-4e9c-b570-627766be57e7",
+  "persona": "Verminio",
+  "names": [
+    "Verminio"
+  ],
+  "runs": 4,
+  "bestRank": 372,
+  "worstRank": 2886,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3515748,
+  "weeksActive": [
+    -93,
+    -89,
+    -88,
+    -83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2886,
+      "ms": 4932018,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 728,
+      "ms": 3625802,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 588,
+      "ms": 4082327,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 372,
+      "ms": 3515748,
+      "dish": "Steak"
+    }
+  ]
+}

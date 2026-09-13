@@ -1,0 +1,42 @@
+{
+  "id": "aa073505-07c0-4b94-95e2-5493eccaca30",
+  "persona": "Frop",
+  "names": [
+    "Frop"
+  ],
+  "runs": 3,
+  "bestRank": 211,
+  "worstRank": 619,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2597934,
+  "weeksActive": [
+    -94,
+    -92,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 619,
+      "ms": 2996988,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 211,
+      "ms": 2597934,
+      "dish": "Steak"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 211,
+      "ms": 2732250,
+      "dish": "Pies"
+    }
+  ]
+}

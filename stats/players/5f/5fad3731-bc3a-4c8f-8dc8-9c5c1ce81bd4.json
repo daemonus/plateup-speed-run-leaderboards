@@ -1,0 +1,34 @@
+{
+  "id": "5fad3731-bc3a-4c8f-8dc8-9c5c1ce81bd4",
+  "persona": "Sage",
+  "names": [
+    "Sage"
+  ],
+  "runs": 2,
+  "bestRank": 249,
+  "worstRank": 675,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3372349,
+  "weeksActive": [
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 675,
+      "ms": 3739999,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 249,
+      "ms": 3372349,
+      "dish": "Fish"
+    }
+  ]
+}

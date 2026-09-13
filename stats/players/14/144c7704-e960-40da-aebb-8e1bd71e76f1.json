@@ -1,0 +1,34 @@
+{
+  "id": "144c7704-e960-40da-aebb-8e1bd71e76f1",
+  "persona": "DieSchlange",
+  "names": [
+    "DieSchlange"
+  ],
+  "runs": 2,
+  "bestRank": 262,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2860539,
+  "weeksActive": [
+    -41,
+    -37
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 442,
+      "ms": 7055414,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 262,
+      "ms": 2860539,
+      "dish": "Fish"
+    }
+  ]
+}

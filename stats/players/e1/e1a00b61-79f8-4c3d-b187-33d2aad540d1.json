@@ -1,0 +1,50 @@
+{
+  "id": "e1a00b61-79f8-4c3d-b187-33d2aad540d1",
+  "persona": "\u5C0Fwing",
+  "names": [
+    "\u5C0Fwing"
+  ],
+  "runs": 4,
+  "bestRank": 101,
+  "worstRank": 229,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1626749,
+  "weeksActive": [
+    79,
+    80,
+    81,
+    83
+  ],
+  "history": [
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 151,
+      "ms": 3626436,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 229,
+      "ms": 3475735,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 217,
+      "ms": 3788766,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 101,
+      "ms": 1626749,
+      "dish": "Sundaes"
+    }
+  ]
+}

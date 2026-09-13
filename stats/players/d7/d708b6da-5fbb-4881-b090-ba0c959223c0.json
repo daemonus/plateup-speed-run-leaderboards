@@ -1,0 +1,34 @@
+{
+  "id": "d708b6da-5fbb-4881-b090-ba0c959223c0",
+  "persona": "Astris",
+  "names": [
+    "Astris"
+  ],
+  "runs": 2,
+  "bestRank": 245,
+  "worstRank": 698,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3772946,
+  "weeksActive": [
+    -76,
+    -57
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 698,
+      "ms": 3772946,
+      "dish": "Turkey"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 245,
+      "ms": 4270327,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "90fa9db9-6a85-4bda-bbca-9d3c279ec96e",
+  "persona": "Randy",
+  "names": [
+    "Randy"
+  ],
+  "runs": 2,
+  "bestRank": 247,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3306136,
+  "weeksActive": [
+    -87,
+    -18
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 318,
+      "ms": 3380237,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 247,
+      "ms": 3306136,
+      "dish": "Fish"
+    }
+  ]
+}

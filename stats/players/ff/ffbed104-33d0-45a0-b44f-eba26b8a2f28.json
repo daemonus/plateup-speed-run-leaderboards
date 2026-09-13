@@ -1,0 +1,34 @@
+{
+  "id": "ffbed104-33d0-45a0-b44f-eba26b8a2f28",
+  "persona": "John Deadlock",
+  "names": [
+    "John Deadlock"
+  ],
+  "runs": 2,
+  "bestRank": 586,
+  "worstRank": 2513,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2832100,
+  "weeksActive": [
+    -93,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2513,
+      "ms": 3646253,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 586,
+      "ms": 2832100,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9e36755d-bfd1-4ac9-afb6-171b2234325f",
+  "persona": "3080-yu",
+  "names": [
+    "3080-yu"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 625,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4116764,
+  "weeksActive": [
+    -59,
+    -57
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 625,
+      "ms": 4853273,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 225,
+      "ms": 4116764,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "95cbcc4d-c707-420b-a738-d3f1085409c7",
+  "persona": "dij",
+  "names": [
+    "dij"
+  ],
+  "runs": 2,
+  "bestRank": 217,
+  "worstRank": 279,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2970565,
+  "weeksActive": [
+    -51,
+    -42
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 279,
+      "ms": 2970565,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 217,
+      "ms": 4943125,
+      "dish": "Burgers"
+    }
+  ]
+}

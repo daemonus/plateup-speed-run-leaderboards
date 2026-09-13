@@ -1,0 +1,122 @@
+{
+  "id": "1610b56e-f222-471d-a8e1-7422744d3bc5",
+  "persona": "H",
+  "names": [
+    "H"
+  ],
+  "runs": 13,
+  "bestRank": 158,
+  "worstRank": 869,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2374571,
+  "weeksActive": [
+    -2,
+    0,
+    2,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    12,
+    13,
+    64,
+    77
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 413,
+      "ms": 4953571,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 271,
+      "ms": 4347316,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 304,
+      "ms": 4178201,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 309,
+      "ms": 4107574,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 526,
+      "ms": 6109865,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 349,
+      "ms": 4441895,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 436,
+      "ms": 5303722,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 458,
+      "ms": 4574782,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 244,
+      "ms": 4698610,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 262,
+      "ms": 2668186,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 158,
+      "ms": 2374571,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 869,
+      "ms": 3958330,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 331,
+      "ms": 3412385,
+      "dish": "Sundaes"
+    }
+  ]
+}

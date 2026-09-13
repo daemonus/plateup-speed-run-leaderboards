@@ -1,0 +1,58 @@
+{
+  "id": "05c2528a-9d70-4508-932c-8083c9609c94",
+  "persona": "killerkitten",
+  "names": [
+    "killerkitten"
+  ],
+  "runs": 5,
+  "bestRank": 59,
+  "worstRank": 137,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2198264,
+  "weeksActive": [
+    -4,
+    -3,
+    -2,
+    40,
+    44
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 59,
+      "ms": 2198264,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 135,
+      "ms": 2377236,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 89,
+      "ms": 2486979,
+      "dish": "Pizza"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 66,
+      "ms": 2591874,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 137,
+      "ms": 2736945,
+      "dish": "Breakfast"
+    }
+  ]
+}

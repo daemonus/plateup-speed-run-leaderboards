@@ -1,0 +1,34 @@
+{
+  "id": "ecb72e30-a04d-4691-af73-9aa357d50b6e",
+  "persona": "Dr.Dragon",
+  "names": [
+    "Dr.Dragon"
+  ],
+  "runs": 2,
+  "bestRank": 613,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3943517,
+  "weeksActive": [
+    -59,
+    -32
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 613,
+      "ms": 4762985,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 712,
+      "ms": 3943517,
+      "dish": "Breakfast"
+    }
+  ]
+}

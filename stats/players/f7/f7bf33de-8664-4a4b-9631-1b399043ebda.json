@@ -1,0 +1,42 @@
+{
+  "id": "f7bf33de-8664-4a4b-9631-1b399043ebda",
+  "persona": "Masquerade",
+  "names": [
+    "Masquerade"
+  ],
+  "runs": 3,
+  "bestRank": 371,
+  "worstRank": 523,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4180088,
+  "weeksActive": [
+    55,
+    57,
+    58
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 371,
+      "ms": 6068471,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 521,
+      "ms": 5373861,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 523,
+      "ms": 4180088,
+      "dish": "Turkey"
+    }
+  ]
+}

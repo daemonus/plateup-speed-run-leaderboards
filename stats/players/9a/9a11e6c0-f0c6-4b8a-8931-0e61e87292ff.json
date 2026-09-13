@@ -1,0 +1,34 @@
+{
+  "id": "9a11e6c0-f0c6-4b8a-8931-0e61e87292ff",
+  "persona": "KEY",
+  "names": [
+    "KEY"
+  ],
+  "runs": 2,
+  "bestRank": 185,
+  "worstRank": 244,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4151684,
+  "weeksActive": [
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 185,
+      "ms": 4151684,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 244,
+      "ms": 5534677,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "4b2b6520-5eec-4768-a7d9-bb76da83fba6",
+  "persona": "\u0E23\u0E31\u0E01\u0E1E\u0E48\u0E2D\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E19",
+  "names": [
+    "\u0E23\u0E31\u0E01\u0E1E\u0E48\u0E2D\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E19"
+  ],
+  "runs": 9,
+  "bestRank": 141,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2600767,
+  "weeksActive": [
+    -49,
+    -48,
+    -47,
+    -46,
+    -35,
+    -3,
+    3,
+    10,
+    15
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 222,
+      "ms": 4696033,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 141,
+      "ms": 5978070,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 414,
+      "ms": 4790085,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 264,
+      "ms": 3862922,
+      "dish": "Salad"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 149,
+      "ms": 3713741,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 409,
+      "ms": 3389493,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 210,
+      "ms": 3004762,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 258,
+      "ms": 4992271,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 255,
+      "ms": 2600767,
+      "dish": "Turkey"
+    }
+  ]
+}

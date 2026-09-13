@@ -1,0 +1,42 @@
+{
+  "id": "4c1bd375-d70b-4548-953d-9b5ff74bcce3",
+  "persona": "mir0",
+  "names": [
+    "mir0"
+  ],
+  "runs": 3,
+  "bestRank": 62,
+  "worstRank": 132,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1826819,
+  "weeksActive": [
+    17,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 62,
+      "ms": 2507335,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 113,
+      "ms": 2468814,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 132,
+      "ms": 1826819,
+      "dish": "Sundaes"
+    }
+  ]
+}

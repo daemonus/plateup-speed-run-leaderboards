@@ -1,0 +1,34 @@
+{
+  "id": "91a62e4d-d67a-4701-83b2-190ef5ac6739",
+  "persona": "little boy",
+  "names": [
+    "little boy"
+  ],
+  "runs": 2,
+  "bestRank": 407,
+  "worstRank": 738,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3876191,
+  "weeksActive": [
+    -30,
+    -18
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 738,
+      "ms": 3876191,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 407,
+      "ms": 3895597,
+      "dish": "Fish"
+    }
+  ]
+}

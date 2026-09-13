@@ -1,0 +1,42 @@
+{
+  "id": "a0a7a72c-3d97-4ec4-9acf-763c9c01a8d6",
+  "persona": "Autumnal-Philosopher",
+  "names": [
+    "Autumnal-Philosopher"
+  ],
+  "runs": 3,
+  "bestRank": 423,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5202696,
+  "weeksActive": [
+    -6,
+    44,
+    66
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 603,
+      "ms": 5288701,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 515,
+      "ms": 8736868,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 423,
+      "ms": 5202696,
+      "dish": "Breakfast"
+    }
+  ]
+}

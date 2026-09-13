@@ -1,0 +1,34 @@
+{
+  "id": "79dd8786-4ff0-4e29-abd4-be8ad4cdbe7c",
+  "persona": "\u30A8\u30BF\u30ED\u30EA",
+  "names": [
+    "\u30A8\u30BF\u30ED\u30EA"
+  ],
+  "runs": 2,
+  "bestRank": 122,
+  "worstRank": 301,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2208126,
+  "weeksActive": [
+    -31,
+    43
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 301,
+      "ms": 3293225,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 122,
+      "ms": 2208126,
+      "dish": "Fish"
+    }
+  ]
+}

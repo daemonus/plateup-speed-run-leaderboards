@@ -1,0 +1,66 @@
+{
+  "id": "6e1b9316-95e8-4400-aeb1-24bd16462b4f",
+  "persona": "MAJAFUL",
+  "names": [
+    "MAJAFUL"
+  ],
+  "runs": 6,
+  "bestRank": 414,
+  "worstRank": 686,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3075998,
+  "weeksActive": [
+    -77,
+    -75,
+    -71,
+    -70,
+    8,
+    13
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 665,
+      "ms": 4096248,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 545,
+      "ms": 3174710,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 683,
+      "ms": 3568073,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 522,
+      "ms": 5011662,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 414,
+      "ms": 3075998,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 686,
+      "ms": 4405292,
+      "dish": "Turkey"
+    }
+  ]
+}

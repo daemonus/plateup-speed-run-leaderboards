@@ -1,0 +1,50 @@
+{
+  "id": "6240e467-85ea-4558-b8f2-8e6ad0d27548",
+  "persona": "acetilacetone",
+  "names": [
+    "acetilacetone"
+  ],
+  "runs": 4,
+  "bestRank": 172,
+  "worstRank": 749,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2666536,
+  "weeksActive": [
+    -32,
+    -16,
+    -15,
+    -14
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 749,
+      "ms": 4021276,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 172,
+      "ms": 2723184,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 188,
+      "ms": 2666536,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 208,
+      "ms": 4619086,
+      "dish": "Salad"
+    }
+  ]
+}

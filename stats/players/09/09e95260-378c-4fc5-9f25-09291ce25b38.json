@@ -1,0 +1,50 @@
+{
+  "id": "09e95260-378c-4fc5-9f25-09291ce25b38",
+  "persona": "Roberto",
+  "names": [
+    "Roberto"
+  ],
+  "runs": 4,
+  "bestRank": 168,
+  "worstRank": 583,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3253478,
+  "weeksActive": [
+    -3,
+    -1,
+    4,
+    13
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 583,
+      "ms": 4252174,
+      "dish": "Turkey"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 168,
+      "ms": 4779958,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 422,
+      "ms": 5251498,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 384,
+      "ms": 3253478,
+      "dish": "Turkey"
+    }
+  ]
+}

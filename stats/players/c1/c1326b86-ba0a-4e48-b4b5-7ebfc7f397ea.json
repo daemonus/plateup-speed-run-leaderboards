@@ -1,0 +1,42 @@
+{
+  "id": "c1326b86-ba0a-4e48-b4b5-7ebfc7f397ea",
+  "persona": "Sam",
+  "names": [
+    "Sam"
+  ],
+  "runs": 3,
+  "bestRank": 352,
+  "worstRank": 939,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3212291,
+  "weeksActive": [
+    -77,
+    -75,
+    -71
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 352,
+      "ms": 3212291,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 939,
+      "ms": 4389320,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 756,
+      "ms": 3708687,
+      "dish": "Turkey"
+    }
+  ]
+}

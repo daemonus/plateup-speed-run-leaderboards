@@ -1,0 +1,34 @@
+{
+  "id": "be14c9e5-6bd7-4ae2-9465-e81808416b9c",
+  "persona": "Scarecrow",
+  "names": [
+    "Scarecrow"
+  ],
+  "runs": 2,
+  "bestRank": 298,
+  "worstRank": 358,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3451547,
+  "weeksActive": [
+    59,
+    82
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 358,
+      "ms": 4288458,
+      "dish": "Salad"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 298,
+      "ms": 3451547,
+      "dish": "Pizza"
+    }
+  ]
+}

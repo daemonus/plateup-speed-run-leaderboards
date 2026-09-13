@@ -1,0 +1,42 @@
+{
+  "id": "e567fd51-89f7-4204-ae8a-d15f5e47b451",
+  "persona": "Saesura",
+  "names": [
+    "Saesura"
+  ],
+  "runs": 3,
+  "bestRank": 20,
+  "worstRank": 204,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2536779,
+  "weeksActive": [
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 204,
+      "ms": 2706419,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 20,
+      "ms": 2536779,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 39,
+      "ms": 2723985,
+      "dish": "Breakfast"
+    }
+  ]
+}

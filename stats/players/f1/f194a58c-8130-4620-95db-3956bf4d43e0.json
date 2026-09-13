@@ -1,0 +1,42 @@
+{
+  "id": "f194a58c-8130-4620-95db-3956bf4d43e0",
+  "persona": "Bond7890",
+  "names": [
+    "Bond7890"
+  ],
+  "runs": 3,
+  "bestRank": 157,
+  "worstRank": 1436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3649346,
+  "weeksActive": [
+    -91,
+    -72,
+    -52
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1436,
+      "ms": 3649346,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 870,
+      "ms": 6659876,
+      "dish": "Pies"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 157,
+      "ms": 4179132,
+      "dish": "Stir Fry"
+    }
+  ]
+}

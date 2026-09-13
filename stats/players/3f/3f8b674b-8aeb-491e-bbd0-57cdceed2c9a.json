@@ -1,0 +1,42 @@
+{
+  "id": "3f8b674b-8aeb-491e-bbd0-57cdceed2c9a",
+  "persona": "John2p0",
+  "names": [
+    "John2p0"
+  ],
+  "runs": 3,
+  "bestRank": 307,
+  "worstRank": 332,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6417115,
+  "weeksActive": [
+    10,
+    27,
+    54
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 325,
+      "ms": 8305670,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 307,
+      "ms": 6567838,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 332,
+      "ms": 6417115,
+      "dish": "Burgers"
+    }
+  ]
+}

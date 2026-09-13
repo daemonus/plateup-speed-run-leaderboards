@@ -1,0 +1,42 @@
+{
+  "id": "41bd4423-5bd0-4806-b012-020f72ec5066",
+  "persona": "Vicky",
+  "names": [
+    "Vicky"
+  ],
+  "runs": 3,
+  "bestRank": 395,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3952816,
+  "weeksActive": [
+    62,
+    63,
+    71
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 395,
+      "ms": 3952816,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 573,
+      "ms": 4188194,
+      "dish": "Pizza"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 455,
+      "ms": 5254261,
+      "dish": "Pizza"
+    }
+  ]
+}

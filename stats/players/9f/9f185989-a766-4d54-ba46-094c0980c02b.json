@@ -1,0 +1,58 @@
+{
+  "id": "9f185989-a766-4d54-ba46-094c0980c02b",
+  "persona": "BAKUON RU-MOSU SYUUDAN",
+  "names": [
+    "BAKUON RU-MOSU SYUUDAN"
+  ],
+  "runs": 5,
+  "bestRank": 177,
+  "worstRank": 405,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2280411,
+  "weeksActive": [
+    -38,
+    -21,
+    2,
+    12,
+    27
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 177,
+      "ms": 2280411,
+      "dish": "Turkey"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 366,
+      "ms": 3950236,
+      "dish": "Pizza"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 231,
+      "ms": 3653471,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 405,
+      "ms": 3302105,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 224,
+      "ms": 3819831,
+      "dish": "Breakfast"
+    }
+  ]
+}

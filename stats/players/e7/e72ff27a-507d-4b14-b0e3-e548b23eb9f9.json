@@ -1,0 +1,50 @@
+{
+  "id": "e72ff27a-507d-4b14-b0e3-e548b23eb9f9",
+  "persona": "The_Impasta",
+  "names": [
+    "The_Impasta"
+  ],
+  "runs": 4,
+  "bestRank": 288,
+  "worstRank": 1109,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2760469,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -83
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1109,
+      "ms": 3105602,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 841,
+      "ms": 3328505,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 423,
+      "ms": 2760469,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 288,
+      "ms": 3202325,
+      "dish": "Steak"
+    }
+  ]
+}

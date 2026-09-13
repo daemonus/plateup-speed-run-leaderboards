@@ -1,0 +1,34 @@
+{
+  "id": "fb8f90fc-3570-489f-98fb-ac4742c9ef54",
+  "persona": "Raenius",
+  "names": [
+    "Raenius"
+  ],
+  "runs": 2,
+  "bestRank": 777,
+  "worstRank": 1101,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3088072,
+  "weeksActive": [
+    -94,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 777,
+      "ms": 3169485,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1101,
+      "ms": 3088072,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "8a59fc89-e0c3-4dba-b1b0-985a27d72214",
+  "persona": "psabin",
+  "names": [
+    "psabin"
+  ],
+  "runs": 8,
+  "bestRank": 138,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1767797,
+  "weeksActive": [
+    57,
+    58,
+    59,
+    62,
+    63,
+    64,
+    74,
+    78
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 230,
+      "ms": 3286763,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 409,
+      "ms": 3641114,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 376,
+      "ms": 4527309,
+      "dish": "Salad"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 410,
+      "ms": 4061386,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 414,
+      "ms": 3566214,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 138,
+      "ms": 1767797,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 293,
+      "ms": 4749440,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 280,
+      "ms": 3753753,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

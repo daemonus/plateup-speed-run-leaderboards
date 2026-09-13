@@ -1,0 +1,90 @@
+{
+  "id": "129f7ed5-c43b-43a5-86b3-55bb83e35918",
+  "persona": "HannBLL",
+  "names": [
+    "HannBLL"
+  ],
+  "runs": 9,
+  "bestRank": 210,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3265241,
+  "weeksActive": [
+    -39,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    68,
+    70
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 582,
+      "ms": 4041369,
+      "dish": "Pizza"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 572,
+      "ms": 3940840,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 296,
+      "ms": 4398964,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 216,
+      "ms": 3803860,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 304,
+      "ms": 5731837,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 355,
+      "ms": 4747883,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 516,
+      "ms": 3265241,
+      "dish": "Turkey"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 459,
+      "ms": 3971476,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 210,
+      "ms": 3657323,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

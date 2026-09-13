@@ -1,0 +1,50 @@
+{
+  "id": "55d74bb8-5fc6-480a-b839-894dac9427c7",
+  "persona": "bumblefumble",
+  "names": [
+    "bumblefumble"
+  ],
+  "runs": 4,
+  "bestRank": 102,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1687983,
+  "weeksActive": [
+    49,
+    57,
+    64,
+    69
+  ],
+  "history": [
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 102,
+      "ms": 3424901,
+      "dish": "Burgers"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 272,
+      "ms": 3436521,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 114,
+      "ms": 1687983,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 133,
+      "ms": 3200008,
+      "dish": "Burgers"
+    }
+  ]
+}

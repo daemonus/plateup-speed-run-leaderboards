@@ -1,0 +1,42 @@
+{
+  "id": "917e1cac-e9e6-4e08-a0a0-114853e6edf5",
+  "persona": "Pigliicorn",
+  "names": [
+    "Pigliicorn"
+  ],
+  "runs": 3,
+  "bestRank": 97,
+  "worstRank": 474,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2293728,
+  "weeksActive": [
+    -94,
+    -91,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 231,
+      "ms": 2424075,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 474,
+      "ms": 2293728,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 97,
+      "ms": 2299429,
+      "dish": "Pies"
+    }
+  ]
+}

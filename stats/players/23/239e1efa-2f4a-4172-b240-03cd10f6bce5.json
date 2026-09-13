@@ -1,0 +1,42 @@
+{
+  "id": "239e1efa-2f4a-4172-b240-03cd10f6bce5",
+  "persona": "SmallKat",
+  "names": [
+    "SmallKat"
+  ],
+  "runs": 3,
+  "bestRank": 681,
+  "worstRank": 2289,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3389043,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1299,
+      "ms": 3819495,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2289,
+      "ms": 3389043,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 681,
+      "ms": 4162833,
+      "dish": "Steak"
+    }
+  ]
+}

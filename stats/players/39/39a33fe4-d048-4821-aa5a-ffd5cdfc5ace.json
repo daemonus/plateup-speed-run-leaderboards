@@ -1,0 +1,58 @@
+{
+  "id": "39a33fe4-d048-4821-aa5a-ffd5cdfc5ace",
+  "persona": "twohand",
+  "names": [
+    "twohand"
+  ],
+  "runs": 5,
+  "bestRank": 142,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2841314,
+  "weeksActive": [
+    -37,
+    -35,
+    -34,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 255,
+      "ms": 2843892,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 142,
+      "ms": 3644329,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 176,
+      "ms": 2841314,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 241,
+      "ms": 2924717,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 429,
+      "ms": 3637039,
+      "dish": "Pies"
+    }
+  ]
+}

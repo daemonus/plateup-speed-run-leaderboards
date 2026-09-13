@@ -1,0 +1,42 @@
+{
+  "id": "79445d28-31b4-4bda-82e0-86add0c70ec4",
+  "persona": "Anthonirvash",
+  "names": [
+    "Anthonirvash"
+  ],
+  "runs": 3,
+  "bestRank": 101,
+  "worstRank": 203,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2473387,
+  "weeksActive": [
+    -62,
+    -61,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 101,
+      "ms": 2684747,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 103,
+      "ms": 2473387,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 203,
+      "ms": 3012741,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

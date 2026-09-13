@@ -1,0 +1,50 @@
+{
+  "id": "1afd851f-8ed1-4332-80a0-f5b8f6c2f9b8",
+  "persona": "caldancer",
+  "names": [
+    "caldancer"
+  ],
+  "runs": 4,
+  "bestRank": 41,
+  "worstRank": 353,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2185620,
+  "weeksActive": [
+    -46,
+    -3,
+    -2,
+    7
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 353,
+      "ms": 4320391,
+      "dish": "Salad"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 95,
+      "ms": 2185620,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 87,
+      "ms": 2464987,
+      "dish": "Pizza"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 41,
+      "ms": 2199309,
+      "dish": "Fish"
+    }
+  ]
+}

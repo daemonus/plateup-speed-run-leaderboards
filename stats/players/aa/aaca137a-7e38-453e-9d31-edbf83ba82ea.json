@@ -1,0 +1,42 @@
+{
+  "id": "aaca137a-7e38-453e-9d31-edbf83ba82ea",
+  "persona": "Bluebell",
+  "names": [
+    "Bluebell"
+  ],
+  "runs": 3,
+  "bestRank": 314,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4633403,
+  "weeksActive": [
+    75,
+    78,
+    85
+  ],
+  "history": [
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 314,
+      "ms": 4633403,
+      "dish": "Pies"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 364,
+      "ms": 5402874,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 416,
+      "ms": 5202377,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "e6d82258-3fe6-497d-b1e4-b7a5de44ce43",
+  "persona": "Ev22",
+  "names": [
+    "Ev22"
+  ],
+  "runs": 5,
+  "bestRank": 112,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2991031,
+  "weeksActive": [
+    52,
+    55,
+    77,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 428,
+      "ms": 3453358,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 233,
+      "ms": 4105683,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 309,
+      "ms": 3252320,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 112,
+      "ms": 2991031,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 311,
+      "ms": 3577060,
+      "dish": "Pizza"
+    }
+  ]
+}

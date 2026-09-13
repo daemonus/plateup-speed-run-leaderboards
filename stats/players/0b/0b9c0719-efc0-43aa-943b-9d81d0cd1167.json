@@ -1,0 +1,74 @@
+{
+  "id": "0b9c0719-efc0-43aa-943b-9d81d0cd1167",
+  "persona": "Master_Wess",
+  "names": [
+    "Master_Wess"
+  ],
+  "runs": 7,
+  "bestRank": 125,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2856550,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    7,
+    9,
+    10,
+    12
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 393,
+      "ms": 3533779,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 172,
+      "ms": 3148934,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 167,
+      "ms": 3324777,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 275,
+      "ms": 3445524,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 332,
+      "ms": 3637774,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 125,
+      "ms": 3481784,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 303,
+      "ms": 2856550,
+      "dish": "Turkey"
+    }
+  ]
+}

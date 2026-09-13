@@ -1,0 +1,34 @@
+{
+  "id": "61c69291-5187-4f6c-a953-f3b2f34cfa35",
+  "persona": "Dr. Lee",
+  "names": [
+    "Dr. Lee"
+  ],
+  "runs": 2,
+  "bestRank": 144,
+  "worstRank": 175,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4688419,
+  "weeksActive": [
+    -11,
+    -9
+  ],
+  "history": [
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 175,
+      "ms": 4778396,
+      "dish": "Burgers"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 144,
+      "ms": 4688419,
+      "dish": "Stir Fry"
+    }
+  ]
+}

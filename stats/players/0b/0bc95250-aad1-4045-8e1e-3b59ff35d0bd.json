@@ -1,0 +1,50 @@
+{
+  "id": "0bc95250-aad1-4045-8e1e-3b59ff35d0bd",
+  "persona": "FragginDragon",
+  "names": [
+    "FragginDragon"
+  ],
+  "runs": 4,
+  "bestRank": 416,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5163313,
+  "weeksActive": [
+    -2,
+    0,
+    6,
+    7
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 422,
+      "ms": 5188576,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 467,
+      "ms": 5774187,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 416,
+      "ms": 5617420,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 432,
+      "ms": 5163313,
+      "dish": "Fish"
+    }
+  ]
+}

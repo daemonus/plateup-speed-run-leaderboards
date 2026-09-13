@@ -1,0 +1,42 @@
+{
+  "id": "ffa428ce-353e-428a-a0f1-4467d7d9e32f",
+  "persona": "beat.beat.beat.m",
+  "names": [
+    "beat.beat.beat.m"
+  ],
+  "runs": 3,
+  "bestRank": 160,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2178867,
+  "weeksActive": [
+    11,
+    12,
+    46
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 184,
+      "ms": 3595824,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 160,
+      "ms": 2178867,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 308,
+      "ms": 3484674,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c88c0d2f-96cc-438c-af23-474ae647f372",
+  "persona": "1ee",
+  "names": [
+    "1ee"
+  ],
+  "runs": 2,
+  "bestRank": 283,
+  "worstRank": 546,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5539243,
+  "weeksActive": [
+    16,
+    17
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 546,
+      "ms": 7219585,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 283,
+      "ms": 5539243,
+      "dish": "Pizza"
+    }
+  ]
+}

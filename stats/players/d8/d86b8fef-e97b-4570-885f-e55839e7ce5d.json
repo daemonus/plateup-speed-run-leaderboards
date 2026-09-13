@@ -1,0 +1,82 @@
+{
+  "id": "d86b8fef-e97b-4570-885f-e55839e7ce5d",
+  "persona": "Willow",
+  "names": [
+    "Willow"
+  ],
+  "runs": 8,
+  "bestRank": 146,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2760557,
+  "weeksActive": [
+    -79,
+    -57,
+    -54,
+    -51,
+    -18,
+    -9,
+    -8,
+    3
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 385,
+      "ms": 4346463,
+      "dish": "Pies"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 219,
+      "ms": 4059254,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 162,
+      "ms": 4670406,
+      "dish": "Salad"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 413,
+      "ms": 3421263,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 477,
+      "ms": 4113118,
+      "dish": "Fish"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 167,
+      "ms": 5352021,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 212,
+      "ms": 4475522,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 146,
+      "ms": 2760557,
+      "dish": "Fish"
+    }
+  ]
+}

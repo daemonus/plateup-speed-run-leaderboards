@@ -1,0 +1,50 @@
+{
+  "id": "610b6be4-aaad-40ae-85b5-190290a238fa",
+  "persona": "derNutser",
+  "names": [
+    "derNutser"
+  ],
+  "runs": 4,
+  "bestRank": 243,
+  "worstRank": 469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3836358,
+  "weeksActive": [
+    -21,
+    -20,
+    -19,
+    -18
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 394,
+      "ms": 4125582,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 465,
+      "ms": 4655831,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 243,
+      "ms": 3836358,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 469,
+      "ms": 4087824,
+      "dish": "Fish"
+    }
+  ]
+}

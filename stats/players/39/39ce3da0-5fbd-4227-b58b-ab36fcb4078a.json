@@ -1,0 +1,42 @@
+{
+  "id": "39ce3da0-5fbd-4227-b58b-ab36fcb4078a",
+  "persona": "ShootinPanda",
+  "names": [
+    "ShootinPanda"
+  ],
+  "runs": 3,
+  "bestRank": 320,
+  "worstRank": 1490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3382542,
+  "weeksActive": [
+    -94,
+    -92,
+    -87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1490,
+      "ms": 4186586,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 728,
+      "ms": 4466969,
+      "dish": "Steak"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 320,
+      "ms": 3382542,
+      "dish": "Stir Fry"
+    }
+  ]
+}

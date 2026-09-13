@@ -1,0 +1,66 @@
+{
+  "id": "acae33d3-37f3-409d-b038-ead90a3bd545",
+  "persona": "Wildman",
+  "names": [
+    "Wildman"
+  ],
+  "runs": 6,
+  "bestRank": 60,
+  "worstRank": 164,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1577898,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 152,
+      "ms": 1679010,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 68,
+      "ms": 1593088,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 63,
+      "ms": 1590230,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 60,
+      "ms": 1577898,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 117,
+      "ms": 2382087,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 164,
+      "ms": 2807786,
+      "dish": "Stir Fry"
+    }
+  ]
+}

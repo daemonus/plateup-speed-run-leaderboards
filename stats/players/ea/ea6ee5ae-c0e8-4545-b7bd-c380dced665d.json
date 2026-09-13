@@ -1,0 +1,34 @@
+{
+  "id": "ea6ee5ae-c0e8-4545-b7bd-c380dced665d",
+  "persona": "Kay",
+  "names": [
+    "Kay"
+  ],
+  "runs": 2,
+  "bestRank": 86,
+  "worstRank": 123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2670875,
+  "weeksActive": [
+    -18,
+    -13
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 123,
+      "ms": 2824520,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 86,
+      "ms": 2670875,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

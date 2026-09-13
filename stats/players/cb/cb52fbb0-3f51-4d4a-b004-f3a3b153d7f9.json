@@ -1,0 +1,66 @@
+{
+  "id": "cb52fbb0-3f51-4d4a-b004-f3a3b153d7f9",
+  "persona": "hankamer",
+  "names": [
+    "hankamer"
+  ],
+  "runs": 6,
+  "bestRank": 195,
+  "worstRank": 611,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3287934,
+  "weeksActive": [
+    -76,
+    -72,
+    -70,
+    -62,
+    -61,
+    -59
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 519,
+      "ms": 3287934,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 611,
+      "ms": 4502790,
+      "dish": "Pies"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 195,
+      "ms": 3564992,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 257,
+      "ms": 3335734,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 273,
+      "ms": 3358985,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 395,
+      "ms": 3795919,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

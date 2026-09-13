@@ -1,0 +1,42 @@
+{
+  "id": "e47f1ade-3b78-4988-a67c-ab6a7d606175",
+  "persona": "Eva_Ebekus",
+  "names": [
+    "Eva_Ebekus"
+  ],
+  "runs": 3,
+  "bestRank": 284,
+  "worstRank": 1177,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3600736,
+  "weeksActive": [
+    -32,
+    -30,
+    30
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1177,
+      "ms": 6444973,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 699,
+      "ms": 3748408,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 284,
+      "ms": 3600736,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1e0562ac-d7e5-4961-8051-45d0c73383e9",
+  "persona": "Lambda_17",
+  "names": [
+    "Lambda_17"
+  ],
+  "runs": 6,
+  "bestRank": 155,
+  "worstRank": 462,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2739381,
+  "weeksActive": [
+    -34,
+    -20,
+    8,
+    68,
+    70,
+    75
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 216,
+      "ms": 3031038,
+      "dish": "Pies"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 462,
+      "ms": 4609337,
+      "dish": "Burgers"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 283,
+      "ms": 2739381,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 408,
+      "ms": 3595186,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 155,
+      "ms": 3231982,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 201,
+      "ms": 3579906,
+      "dish": "Pies"
+    }
+  ]
+}

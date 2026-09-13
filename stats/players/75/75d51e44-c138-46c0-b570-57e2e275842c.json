@@ -1,0 +1,90 @@
+{
+  "id": "75d51e44-c138-46c0-b570-57e2e275842c",
+  "persona": "LittleFury",
+  "names": [
+    "LittleFury"
+  ],
+  "runs": 9,
+  "bestRank": 231,
+  "worstRank": 576,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2500810,
+  "weeksActive": [
+    -53,
+    -42,
+    -41,
+    -39,
+    -38,
+    -37,
+    0,
+    20,
+    23
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 249,
+      "ms": 4109795,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 233,
+      "ms": 5579842,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 303,
+      "ms": 4779044,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 241,
+      "ms": 2870355,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 237,
+      "ms": 2500810,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 576,
+      "ms": 3632757,
+      "dish": "Fish"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 231,
+      "ms": 4129435,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 388,
+      "ms": 2895317,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 293,
+      "ms": 3058084,
+      "dish": "Turkey"
+    }
+  ]
+}

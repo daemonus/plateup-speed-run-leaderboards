@@ -1,0 +1,50 @@
+{
+  "id": "d30004e6-e741-4a9d-ad07-d0fd985bbace",
+  "persona": "Shijikori",
+  "names": [
+    "Shijikori"
+  ],
+  "runs": 4,
+  "bestRank": 220,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2491297,
+  "weeksActive": [
+    -17,
+    12,
+    39,
+    41
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 256,
+      "ms": 3658890,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 324,
+      "ms": 2939710,
+      "dish": "Turkey"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 220,
+      "ms": 4085063,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 346,
+      "ms": 2491297,
+      "dish": "Turkey"
+    }
+  ]
+}

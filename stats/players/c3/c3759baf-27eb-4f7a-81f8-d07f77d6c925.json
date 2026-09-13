@@ -1,0 +1,50 @@
+{
+  "id": "c3759baf-27eb-4f7a-81f8-d07f77d6c925",
+  "persona": "Sprite",
+  "names": [
+    "Sprite"
+  ],
+  "runs": 4,
+  "bestRank": 89,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2732232,
+  "weeksActive": [
+    -59,
+    -53,
+    -51,
+    -48
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 139,
+      "ms": 2732232,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 140,
+      "ms": 3500497,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 355,
+      "ms": 3248628,
+      "dish": "Turkey"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 89,
+      "ms": 3541431,
+      "dish": "Burgers"
+    }
+  ]
+}

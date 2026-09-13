@@ -1,0 +1,66 @@
+{
+  "id": "a7a7b85b-54c0-4c87-a966-93adf6c74ee6",
+  "persona": "Egon",
+  "names": [
+    "Egon"
+  ],
+  "runs": 6,
+  "bestRank": 194,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3822635,
+  "weeksActive": [
+    -34,
+    -33,
+    29,
+    30,
+    35,
+    63
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 490,
+      "ms": 5437694,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 400,
+      "ms": 4968650,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 194,
+      "ms": 5268060,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 457,
+      "ms": 4918871,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 283,
+      "ms": 3822635,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 521,
+      "ms": 3994655,
+      "dish": "Pizza"
+    }
+  ]
+}

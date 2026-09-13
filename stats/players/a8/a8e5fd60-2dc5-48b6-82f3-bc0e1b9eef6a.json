@@ -1,0 +1,90 @@
+{
+  "id": "a8e5fd60-2dc5-48b6-82f3-bc0e1b9eef6a",
+  "persona": "Espe",
+  "names": [
+    "Espe"
+  ],
+  "runs": 9,
+  "bestRank": 22,
+  "worstRank": 445,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1741396,
+  "weeksActive": [
+    -80,
+    -78,
+    -76,
+    -74,
+    -71,
+    -66,
+    -51,
+    -45,
+    -34
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 178,
+      "ms": 3822225,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 421,
+      "ms": 3977802,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 372,
+      "ms": 2928741,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 445,
+      "ms": 4377105,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 196,
+      "ms": 2540083,
+      "dish": "Turkey"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 134,
+      "ms": 2896129,
+      "dish": "Turkey"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 22,
+      "ms": 1741396,
+      "dish": "Turkey"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 102,
+      "ms": 2639174,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 111,
+      "ms": 2604911,
+      "dish": "Pies"
+    }
+  ]
+}

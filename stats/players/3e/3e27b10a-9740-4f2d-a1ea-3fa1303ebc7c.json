@@ -1,0 +1,82 @@
+{
+  "id": "3e27b10a-9740-4f2d-a1ea-3fa1303ebc7c",
+  "persona": "\u5357\u65B9\u7684\u5583\u5583\u84DD\u84DD\u96BE",
+  "names": [
+    "\u5357\u65B9\u7684\u5583\u5583\u84DD\u84DD\u96BE"
+  ],
+  "runs": 8,
+  "bestRank": 120,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1684411,
+  "weeksActive": [
+    58,
+    62,
+    64,
+    66,
+    67,
+    68,
+    69,
+    84
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 447,
+      "ms": 3777079,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 217,
+      "ms": 3065323,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 249,
+      "ms": 2098049,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 155,
+      "ms": 2672384,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 120,
+      "ms": 2723142,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 185,
+      "ms": 2471103,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 150,
+      "ms": 3295761,
+      "dish": "Burgers"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 124,
+      "ms": 1684411,
+      "dish": "Sundaes"
+    }
+  ]
+}

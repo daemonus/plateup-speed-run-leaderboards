@@ -1,0 +1,66 @@
+{
+  "id": "09eea07a-fbdf-4d17-ac42-e3060bbb63cd",
+  "persona": "CoPort",
+  "names": [
+    "CoPort"
+  ],
+  "runs": 6,
+  "bestRank": 74,
+  "worstRank": 193,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2184492,
+  "weeksActive": [
+    -51,
+    -18,
+    -17,
+    -16,
+    -14,
+    -13
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 104,
+      "ms": 2297786,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 130,
+      "ms": 2849123,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 163,
+      "ms": 2950206,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 74,
+      "ms": 2184492,
+      "dish": "Pies"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 193,
+      "ms": 4518510,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 78,
+      "ms": 2620019,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

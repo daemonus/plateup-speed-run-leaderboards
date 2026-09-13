@@ -1,0 +1,42 @@
+{
+  "id": "4299dc21-7dee-4b2c-ba38-5c5a30df00f4",
+  "persona": "Sitka",
+  "names": [
+    "Sitka"
+  ],
+  "runs": 3,
+  "bestRank": 283,
+  "worstRank": 664,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3686035,
+  "weeksActive": [
+    -82,
+    -79,
+    83
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 576,
+      "ms": 3725281,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 283,
+      "ms": 3688148,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 664,
+      "ms": 3686035,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "7874a3a8-1e91-4a45-ae3e-cbe95d322795",
+  "persona": "Lea",
+  "names": [
+    "Lea"
+  ],
+  "runs": 6,
+  "bestRank": 396,
+  "worstRank": 2169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3173948,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -88,
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2169,
+      "ms": 3272303,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1153,
+      "ms": 3173948,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 844,
+      "ms": 3344166,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 796,
+      "ms": 5079381,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 606,
+      "ms": 3360125,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 396,
+      "ms": 3193937,
+      "dish": "Fish"
+    }
+  ]
+}

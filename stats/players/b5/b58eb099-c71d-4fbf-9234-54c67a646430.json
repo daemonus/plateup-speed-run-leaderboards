@@ -1,0 +1,90 @@
+{
+  "id": "b58eb099-c71d-4fbf-9234-54c67a646430",
+  "persona": "WaffleFish",
+  "names": [
+    "WaffleFish"
+  ],
+  "runs": 9,
+  "bestRank": 15,
+  "worstRank": 88,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1504338,
+  "weeksActive": [
+    -84,
+    -83,
+    -82,
+    -75,
+    4,
+    6,
+    9,
+    82,
+    84
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 32,
+      "ms": 1703236,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 25,
+      "ms": 1892628,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 27,
+      "ms": 1570043,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 88,
+      "ms": 1809793,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 15,
+      "ms": 1568749,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 23,
+      "ms": 2088326,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 25,
+      "ms": 2106875,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 59,
+      "ms": 2310579,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 85,
+      "ms": 1504338,
+      "dish": "Sundaes"
+    }
+  ]
+}

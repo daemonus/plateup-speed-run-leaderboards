@@ -1,0 +1,58 @@
+{
+  "id": "fbe9029b-fc08-4570-8444-01fdef5e3aa8",
+  "persona": "Soaker",
+  "names": [
+    "Soaker"
+  ],
+  "runs": 5,
+  "bestRank": 52,
+  "worstRank": 207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2038268,
+  "weeksActive": [
+    38,
+    41,
+    42,
+    45,
+    46
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 134,
+      "ms": 2625682,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 207,
+      "ms": 2038268,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 112,
+      "ms": 2894773,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 89,
+      "ms": 3229693,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 52,
+      "ms": 2212482,
+      "dish": "Pizza"
+    }
+  ]
+}

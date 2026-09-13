@@ -1,0 +1,42 @@
+{
+  "id": "587f2f39-3b91-433f-9f52-0688ef22a350",
+  "persona": "saan_gwon",
+  "names": [
+    "saan_gwon"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 421,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2749242,
+  "weeksActive": [
+    -20,
+    -18,
+    -17
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 421,
+      "ms": 4276883,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 313,
+      "ms": 3557715,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 125,
+      "ms": 2749242,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

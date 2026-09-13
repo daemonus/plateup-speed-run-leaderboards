@@ -1,0 +1,34 @@
+{
+  "id": "15bc0eb5-4979-4fc8-a6a6-cd4d87b32f2d",
+  "persona": "benem",
+  "names": [
+    "benem"
+  ],
+  "runs": 2,
+  "bestRank": 412,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4460671,
+  "weeksActive": [
+    -59,
+    -46
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 561,
+      "ms": 4460671,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 412,
+      "ms": 4592980,
+      "dish": "Salad"
+    }
+  ]
+}

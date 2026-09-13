@@ -1,0 +1,58 @@
+{
+  "id": "3dd15d0f-3955-469b-904e-068b3b5f2d4d",
+  "persona": "bigmoe",
+  "names": [
+    "bigmoe"
+  ],
+  "runs": 5,
+  "bestRank": 115,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2561378,
+  "weeksActive": [
+    -41,
+    -38,
+    -37,
+    0,
+    63
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 169,
+      "ms": 3983733,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 261,
+      "ms": 2561378,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 460,
+      "ms": 3401815,
+      "dish": "Fish"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 115,
+      "ms": 3385929,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 504,
+      "ms": 3907505,
+      "dish": "Pizza"
+    }
+  ]
+}

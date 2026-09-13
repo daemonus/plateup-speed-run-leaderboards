@@ -1,0 +1,50 @@
+{
+  "id": "11a3c03a-4259-4e7d-ab3d-911282dcda7a",
+  "persona": "wine",
+  "names": [
+    "wine"
+  ],
+  "runs": 4,
+  "bestRank": 181,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785897,
+  "weeksActive": [
+    -61,
+    -3,
+    24,
+    26
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 186,
+      "ms": 3047059,
+      "dish": "Fish"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 245,
+      "ms": 2785897,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 181,
+      "ms": 2966082,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 201,
+      "ms": 3476556,
+      "dish": "Pizza"
+    }
+  ]
+}

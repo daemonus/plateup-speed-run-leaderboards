@@ -1,0 +1,42 @@
+{
+  "id": "ad508019-5470-4b41-8445-a71bb9a9a7a9",
+  "persona": "Likecalifornia",
+  "names": [
+    "Likecalifornia"
+  ],
+  "runs": 3,
+  "bestRank": 243,
+  "worstRank": 892,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2873029,
+  "weeksActive": [
+    -92,
+    -90,
+    -39
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 636,
+      "ms": 3944139,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 892,
+      "ms": 3455133,
+      "dish": "Fish"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 243,
+      "ms": 2873029,
+      "dish": "Pizza"
+    }
+  ]
+}

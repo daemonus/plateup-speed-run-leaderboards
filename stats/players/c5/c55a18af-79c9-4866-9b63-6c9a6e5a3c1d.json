@@ -1,0 +1,42 @@
+{
+  "id": "c55a18af-79c9-4866-9b63-6c9a6e5a3c1d",
+  "persona": "Dulcius",
+  "names": [
+    "Dulcius"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 95,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2082489,
+  "weeksActive": [
+    -82,
+    -19,
+    -12
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 95,
+      "ms": 2082489,
+      "dish": "Fish"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 40,
+      "ms": 2179289,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 29,
+      "ms": 2261708,
+      "dish": "Breakfast"
+    }
+  ]
+}

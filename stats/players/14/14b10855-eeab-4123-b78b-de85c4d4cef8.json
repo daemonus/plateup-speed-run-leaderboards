@@ -1,0 +1,42 @@
+{
+  "id": "14b10855-eeab-4123-b78b-de85c4d4cef8",
+  "persona": "CommanderMullins",
+  "names": [
+    "CommanderMullins"
+  ],
+  "runs": 3,
+  "bestRank": 131,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2696361,
+  "weeksActive": [
+    19,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 161,
+      "ms": 3412142,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 479,
+      "ms": 3173479,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 131,
+      "ms": 2696361,
+      "dish": "Burgers"
+    }
+  ]
+}

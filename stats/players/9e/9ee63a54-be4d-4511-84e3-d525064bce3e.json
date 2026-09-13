@@ -1,0 +1,34 @@
+{
+  "id": "9ee63a54-be4d-4511-84e3-d525064bce3e",
+  "persona": "Johannes",
+  "names": [
+    "Johannes"
+  ],
+  "runs": 2,
+  "bestRank": 208,
+  "worstRank": 420,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2429774,
+  "weeksActive": [
+    -21,
+    12
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 420,
+      "ms": 4285578,
+      "dish": "Pizza"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 208,
+      "ms": 2429774,
+      "dish": "Turkey"
+    }
+  ]
+}

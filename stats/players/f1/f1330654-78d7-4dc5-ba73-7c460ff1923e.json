@@ -1,0 +1,34 @@
+{
+  "id": "f1330654-78d7-4dc5-ba73-7c460ff1923e",
+  "persona": "johncaruso",
+  "names": [
+    "johncaruso"
+  ],
+  "runs": 2,
+  "bestRank": 495,
+  "worstRank": 1879,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3035447,
+  "weeksActive": [
+    -93,
+    -75
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1879,
+      "ms": 3048717,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 495,
+      "ms": 3035447,
+      "dish": "Fish"
+    }
+  ]
+}

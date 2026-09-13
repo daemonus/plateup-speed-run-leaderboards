@@ -1,0 +1,42 @@
+{
+  "id": "f457a11a-778d-45cb-8484-4ea3d8a6a2e2",
+  "persona": "Kourai",
+  "names": [
+    "Kourai"
+  ],
+  "runs": 3,
+  "bestRank": 241,
+  "worstRank": 303,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2889421,
+  "weeksActive": [
+    -16,
+    13,
+    51
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 241,
+      "ms": 3051931,
+      "dish": "Pies"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 284,
+      "ms": 2889421,
+      "dish": "Turkey"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 303,
+      "ms": 4866636,
+      "dish": "Salad"
+    }
+  ]
+}

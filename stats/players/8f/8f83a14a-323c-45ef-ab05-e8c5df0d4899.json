@@ -1,0 +1,34 @@
+{
+  "id": "8f83a14a-323c-45ef-ab05-e8c5df0d4899",
+  "persona": "\u6218\u53CB\u4EEC\uFF0C\u9690\u8EAB\uFF01",
+  "names": [
+    "\u6218\u53CB\u4EEC\uFF0C\u9690\u8EAB\uFF01"
+  ],
+  "runs": 2,
+  "bestRank": 269,
+  "worstRank": 586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3104710,
+  "weeksActive": [
+    -46,
+    -44
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 586,
+      "ms": 6920218,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 269,
+      "ms": 3104710,
+      "dish": "Turkey"
+    }
+  ]
+}

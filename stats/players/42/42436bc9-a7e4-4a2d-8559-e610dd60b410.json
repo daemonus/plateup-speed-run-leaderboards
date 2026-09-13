@@ -1,0 +1,50 @@
+{
+  "id": "42436bc9-a7e4-4a2d-8559-e610dd60b410",
+  "persona": "Neo Funtime",
+  "names": [
+    "Neo Funtime"
+  ],
+  "runs": 4,
+  "bestRank": 219,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2713153,
+  "weeksActive": [
+    8,
+    10,
+    17,
+    20
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 589,
+      "ms": 3470170,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 282,
+      "ms": 5433747,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 219,
+      "ms": 3877372,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 341,
+      "ms": 2713153,
+      "dish": "Turkey"
+    }
+  ]
+}

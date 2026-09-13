@@ -1,0 +1,34 @@
+{
+  "id": "4acd295e-f216-4870-8f39-9dd4cc136cbd",
+  "persona": "zalthinea",
+  "names": [
+    "zalthinea"
+  ],
+  "runs": 2,
+  "bestRank": 138,
+  "worstRank": 205,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3327923,
+  "weeksActive": [
+    -81,
+    -80
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 205,
+      "ms": 3667791,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 138,
+      "ms": 3327923,
+      "dish": "Stir Fry"
+    }
+  ]
+}

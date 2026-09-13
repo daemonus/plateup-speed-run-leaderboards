@@ -1,0 +1,42 @@
+{
+  "id": "4129d86a-23d6-4ca8-9702-59f5de0e40de",
+  "persona": "anairda",
+  "names": [
+    "anairda"
+  ],
+  "runs": 3,
+  "bestRank": 138,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3204902,
+  "weeksActive": [
+    48,
+    50,
+    53
+  ],
+  "history": [
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 138,
+      "ms": 4149945,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 222,
+      "ms": 5015002,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 194,
+      "ms": 3204902,
+      "dish": "Pies"
+    }
+  ]
+}

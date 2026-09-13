@@ -1,0 +1,42 @@
+{
+  "id": "cc3bd7fe-85a1-4ed5-9cb5-a80363033675",
+  "persona": "Honey",
+  "names": [
+    "Honey"
+  ],
+  "runs": 3,
+  "bestRank": 68,
+  "worstRank": 338,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2538823,
+  "weeksActive": [
+    3,
+    5,
+    6
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 338,
+      "ms": 3377349,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 165,
+      "ms": 3315403,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 68,
+      "ms": 2538823,
+      "dish": "Breakfast"
+    }
+  ]
+}

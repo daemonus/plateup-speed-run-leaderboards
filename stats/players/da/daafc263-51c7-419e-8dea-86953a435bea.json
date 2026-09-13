@@ -1,0 +1,66 @@
+{
+  "id": "daafc263-51c7-419e-8dea-86953a435bea",
+  "persona": "DeCeiVeR",
+  "names": [
+    "DeCeiVeR"
+  ],
+  "runs": 6,
+  "bestRank": 23,
+  "worstRank": 350,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1960991,
+  "weeksActive": [
+    -88,
+    -79,
+    -53,
+    15,
+    21,
+    24
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 350,
+      "ms": 3179697,
+      "dish": "Pies"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 23,
+      "ms": 1960991,
+      "dish": "Pies"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 255,
+      "ms": 4152388,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 169,
+      "ms": 2298632,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 142,
+      "ms": 2738437,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 24,
+      "ms": 2005281,
+      "dish": "Pies"
+    }
+  ]
+}

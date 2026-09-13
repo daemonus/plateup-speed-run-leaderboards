@@ -1,0 +1,42 @@
+{
+  "id": "5e754652-a82d-4a39-a350-d17360638c1a",
+  "persona": "jaime",
+  "names": [
+    "jaime"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 626,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4295180,
+  "weeksActive": [
+    -53,
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 428,
+      "ms": 6484305,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 197,
+      "ms": 5050585,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 626,
+      "ms": 4295180,
+      "dish": "Turkey"
+    }
+  ]
+}

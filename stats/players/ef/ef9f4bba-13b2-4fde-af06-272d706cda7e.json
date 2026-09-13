@@ -1,0 +1,50 @@
+{
+  "id": "ef9f4bba-13b2-4fde-af06-272d706cda7e",
+  "persona": "Leira_bear",
+  "names": [
+    "Leira_bear"
+  ],
+  "runs": 4,
+  "bestRank": 261,
+  "worstRank": 1730,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3289312,
+  "weeksActive": [
+    -94,
+    -82,
+    -80,
+    77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1730,
+      "ms": 5371430,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 441,
+      "ms": 3289312,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 261,
+      "ms": 4931942,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 430,
+      "ms": 4176778,
+      "dish": "Sundaes"
+    }
+  ]
+}

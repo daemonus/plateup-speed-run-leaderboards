@@ -1,0 +1,58 @@
+{
+  "id": "6a545d87-91da-4d47-a25b-01c9ba2bce3f",
+  "persona": "libbitlibbit",
+  "names": [
+    "libbitlibbit"
+  ],
+  "runs": 5,
+  "bestRank": 122,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2944413,
+  "weeksActive": [
+    -65,
+    -62,
+    -60,
+    -59,
+    -56
+  ],
+  "history": [
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 122,
+      "ms": 4296501,
+      "dish": "Burgers"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 156,
+      "ms": 2944413,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 295,
+      "ms": 3990923,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 231,
+      "ms": 3159706,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 225,
+      "ms": 3042545,
+      "dish": "Breakfast"
+    }
+  ]
+}

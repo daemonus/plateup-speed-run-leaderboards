@@ -1,0 +1,50 @@
+{
+  "id": "ccedf778-8b80-4197-9678-715251e55ca8",
+  "persona": "Timo",
+  "names": [
+    "Timo"
+  ],
+  "runs": 4,
+  "bestRank": 47,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2079620,
+  "weeksActive": [
+    19,
+    20,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 206,
+      "ms": 3634048,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 395,
+      "ms": 2904520,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 48,
+      "ms": 2079620,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 47,
+      "ms": 2134537,
+      "dish": "Pies"
+    }
+  ]
+}

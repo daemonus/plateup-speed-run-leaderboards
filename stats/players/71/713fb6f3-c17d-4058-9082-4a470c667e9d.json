@@ -1,0 +1,66 @@
+{
+  "id": "713fb6f3-c17d-4058-9082-4a470c667e9d",
+  "persona": "Crow Mom",
+  "names": [
+    "Crow Mom"
+  ],
+  "runs": 6,
+  "bestRank": 271,
+  "worstRank": 847,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4231199,
+  "weeksActive": [
+    -18,
+    22,
+    23,
+    24,
+    27,
+    52
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 847,
+      "ms": 35784984,
+      "dish": "Fish"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 310,
+      "ms": 4869716,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 590,
+      "ms": 6343624,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 441,
+      "ms": 4522318,
+      "dish": "Pies"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 271,
+      "ms": 4571140,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 589,
+      "ms": 4231199,
+      "dish": "Fish"
+    }
+  ]
+}

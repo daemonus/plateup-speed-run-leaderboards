@@ -1,0 +1,42 @@
+{
+  "id": "a9ce2d29-93b1-4d93-8bcf-83e15d125e4e",
+  "persona": "AfroLuffy",
+  "names": [
+    "AfroLuffy"
+  ],
+  "runs": 3,
+  "bestRank": 241,
+  "worstRank": 310,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3547937,
+  "weeksActive": [
+    -18,
+    32,
+    57
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 310,
+      "ms": 3549380,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 241,
+      "ms": 3644116,
+      "dish": "Pies"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 296,
+      "ms": 3547937,
+      "dish": "Salad"
+    }
+  ]
+}

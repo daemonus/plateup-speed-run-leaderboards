@@ -1,0 +1,42 @@
+{
+  "id": "ce817857-41fb-4376-b2f5-297a194abb47",
+  "persona": "IAmTeddybear",
+  "names": [
+    "IAmTeddybear"
+  ],
+  "runs": 3,
+  "bestRank": 30,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1164000,
+  "weeksActive": [
+    -75,
+    -74,
+    41
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 257,
+      "ms": 2418783,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 241,
+      "ms": 3370971,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 30,
+      "ms": 1164000,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ab7c598f-1389-40f6-be54-35e13b1a6951",
+  "persona": "Gufty",
+  "names": [
+    "Gufty"
+  ],
+  "runs": 4,
+  "bestRank": 112,
+  "worstRank": 2207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2510828,
+  "weeksActive": [
+    -93,
+    -91,
+    -85,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2207,
+      "ms": 3298420,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 916,
+      "ms": 2829367,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 112,
+      "ms": 2982968,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 209,
+      "ms": 2510828,
+      "dish": "Fish"
+    }
+  ]
+}

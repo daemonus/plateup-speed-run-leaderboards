@@ -1,0 +1,50 @@
+{
+  "id": "e6fa36ac-5fda-4a3d-b7e9-52a05addee08",
+  "persona": "Little Larina",
+  "names": [
+    "Little Larina"
+  ],
+  "runs": 4,
+  "bestRank": 147,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3037790,
+  "weeksActive": [
+    -69,
+    -51,
+    6,
+    71
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 315,
+      "ms": 4744760,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 331,
+      "ms": 3169778,
+      "dish": "Turkey"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 147,
+      "ms": 3037790,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 192,
+      "ms": 3125800,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "e30bb033-784b-430b-b9d6-acdb661c1dac",
+  "persona": "HAL",
+  "names": [
+    "HAL"
+  ],
+  "runs": 11,
+  "bestRank": 186,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2598887,
+  "weeksActive": [
+    23,
+    24,
+    28,
+    29,
+    30,
+    31,
+    32,
+    36,
+    37,
+    41,
+    84
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 572,
+      "ms": 5270655,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 334,
+      "ms": 3773370,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 264,
+      "ms": 3241142,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 186,
+      "ms": 4903991,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 369,
+      "ms": 4063415,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 271,
+      "ms": 3220421,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 189,
+      "ms": 3276273,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 324,
+      "ms": 3359626,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 197,
+      "ms": 4413690,
+      "dish": "Burgers"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 406,
+      "ms": 2688114,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 351,
+      "ms": 2598887,
+      "dish": "Sundaes"
+    }
+  ]
+}

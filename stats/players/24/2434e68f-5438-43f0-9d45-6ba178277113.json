@@ -1,0 +1,34 @@
+{
+  "id": "2434e68f-5438-43f0-9d45-6ba178277113",
+  "persona": "FELV",
+  "names": [
+    "FELV"
+  ],
+  "runs": 2,
+  "bestRank": 514,
+  "worstRank": 773,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5905426,
+  "weeksActive": [
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 773,
+      "ms": 5905426,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 514,
+      "ms": 8094700,
+      "dish": "Breakfast"
+    }
+  ]
+}

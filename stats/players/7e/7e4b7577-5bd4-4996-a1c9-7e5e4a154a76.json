@@ -1,0 +1,58 @@
+{
+  "id": "7e4b7577-5bd4-4996-a1c9-7e5e4a154a76",
+  "persona": "aleesa",
+  "names": [
+    "aleesa"
+  ],
+  "runs": 5,
+  "bestRank": 102,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2522531,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    26,
+    27
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 315,
+      "ms": 3099370,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 395,
+      "ms": 2945742,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 163,
+      "ms": 2522531,
+      "dish": "Fish"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 102,
+      "ms": 2751704,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 117,
+      "ms": 2865653,
+      "dish": "Breakfast"
+    }
+  ]
+}

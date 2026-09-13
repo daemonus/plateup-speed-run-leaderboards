@@ -1,0 +1,50 @@
+{
+  "id": "a352eb65-6a7f-4298-a41c-ad7fb6c6ecc0",
+  "persona": "nairobired",
+  "names": [
+    "nairobired"
+  ],
+  "runs": 4,
+  "bestRank": 195,
+  "worstRank": 735,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2978599,
+  "weeksActive": [
+    -37,
+    -34,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 429,
+      "ms": 3326182,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 324,
+      "ms": 3620235,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 195,
+      "ms": 2978599,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 735,
+      "ms": 3865173,
+      "dish": "Turkey"
+    }
+  ]
+}

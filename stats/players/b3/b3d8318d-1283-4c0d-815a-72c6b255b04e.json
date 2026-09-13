@@ -1,0 +1,34 @@
+{
+  "id": "b3d8318d-1283-4c0d-815a-72c6b255b04e",
+  "persona": "QROBE",
+  "names": [
+    "QROBE"
+  ],
+  "runs": 2,
+  "bestRank": 260,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2581436,
+  "weeksActive": [
+    56,
+    78
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 439,
+      "ms": 2581436,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 260,
+      "ms": 3565906,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

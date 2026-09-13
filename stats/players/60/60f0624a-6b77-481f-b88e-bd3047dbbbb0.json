@@ -1,0 +1,34 @@
+{
+  "id": "60f0624a-6b77-481f-b88e-bd3047dbbbb0",
+  "persona": "wofwof",
+  "names": [
+    "wofwof"
+  ],
+  "runs": 2,
+  "bestRank": 123,
+  "worstRank": 226,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2861284,
+  "weeksActive": [
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 226,
+      "ms": 3034767,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 123,
+      "ms": 2861284,
+      "dish": "Breakfast"
+    }
+  ]
+}

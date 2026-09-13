@@ -1,0 +1,34 @@
+{
+  "id": "e0726cde-440d-4516-bc55-768455903894",
+  "persona": "dergeorg",
+  "names": [
+    "dergeorg"
+  ],
+  "runs": 2,
+  "bestRank": 462,
+  "worstRank": 615,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3547349,
+  "weeksActive": [
+    1,
+    20
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 462,
+      "ms": 6106609,
+      "dish": "Pies"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 615,
+      "ms": 3547349,
+      "dish": "Turkey"
+    }
+  ]
+}

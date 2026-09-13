@@ -1,0 +1,34 @@
+{
+  "id": "771bc178-8cf4-479d-8d57-ee9248725803",
+  "persona": "BUILD",
+  "names": [
+    "BUILD"
+  ],
+  "runs": 2,
+  "bestRank": 294,
+  "worstRank": 715,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3804521,
+  "weeksActive": [
+    -30,
+    -22
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 715,
+      "ms": 3804521,
+      "dish": "Turkey"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 294,
+      "ms": 7476037,
+      "dish": "Stir Fry"
+    }
+  ]
+}

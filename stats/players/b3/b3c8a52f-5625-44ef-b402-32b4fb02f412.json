@@ -1,0 +1,74 @@
+{
+  "id": "b3c8a52f-5625-44ef-b402-32b4fb02f412",
+  "persona": "\u4E9C\u674E",
+  "names": [
+    "\u4E9C\u674E"
+  ],
+  "runs": 7,
+  "bestRank": 65,
+  "worstRank": 321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2291275,
+  "weeksActive": [
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    70
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 321,
+      "ms": 3659643,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 233,
+      "ms": 2871292,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 295,
+      "ms": 3765479,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 229,
+      "ms": 3533289,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 65,
+      "ms": 2291275,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 192,
+      "ms": 2808510,
+      "dish": "Pizza"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 225,
+      "ms": 3745542,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

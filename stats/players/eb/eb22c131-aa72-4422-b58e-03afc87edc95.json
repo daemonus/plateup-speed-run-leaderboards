@@ -1,0 +1,34 @@
+{
+  "id": "eb22c131-aa72-4422-b58e-03afc87edc95",
+  "persona": "So4",
+  "names": [
+    "So4"
+  ],
+  "runs": 2,
+  "bestRank": 243,
+  "worstRank": 913,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4935065,
+  "weeksActive": [
+    -42,
+    20
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 243,
+      "ms": 6205884,
+      "dish": "Burgers"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 913,
+      "ms": 4935065,
+      "dish": "Turkey"
+    }
+  ]
+}

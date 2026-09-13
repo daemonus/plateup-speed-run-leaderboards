@@ -1,0 +1,42 @@
+{
+  "id": "ab95fa96-6488-4704-99c6-8c66ecf9b1b4",
+  "persona": "bchan4509",
+  "names": [
+    "bchan4509"
+  ],
+  "runs": 3,
+  "bestRank": 4,
+  "worstRank": 17,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1287516,
+  "weeksActive": [
+    -29,
+    -28,
+    15
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 4,
+      "ms": 1826866,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 17,
+      "ms": 2663721,
+      "dish": "Burgers"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 9,
+      "ms": 1287516,
+      "dish": "Turkey"
+    }
+  ]
+}

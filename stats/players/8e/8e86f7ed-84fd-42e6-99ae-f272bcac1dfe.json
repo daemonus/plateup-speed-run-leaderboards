@@ -1,0 +1,42 @@
+{
+  "id": "8e86f7ed-84fd-42e6-99ae-f272bcac1dfe",
+  "persona": "Molecularcollege",
+  "names": [
+    "Molecularcollege"
+  ],
+  "runs": 3,
+  "bestRank": 165,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2300036,
+  "weeksActive": [
+    -91,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 480,
+      "ms": 2300036,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 165,
+      "ms": 2720061,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 209,
+      "ms": 2507030,
+      "dish": "Fish"
+    }
+  ]
+}

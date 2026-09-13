@@ -1,0 +1,58 @@
+{
+  "id": "8915a56c-66d3-4cb4-829a-1e1d509a4867",
+  "persona": "Unicorn_Pants",
+  "names": [
+    "Unicorn_Pants"
+  ],
+  "runs": 5,
+  "bestRank": 184,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2315620,
+  "weeksActive": [
+    74,
+    75,
+    82,
+    83,
+    86
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 209,
+      "ms": 3890716,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 184,
+      "ms": 3440075,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 253,
+      "ms": 3237267,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 459,
+      "ms": 2836199,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 228,
+      "ms": 2315620,
+      "dish": "Sundaes"
+    }
+  ]
+}

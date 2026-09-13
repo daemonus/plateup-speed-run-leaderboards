@@ -1,0 +1,34 @@
+{
+  "id": "fd98be2a-a4fb-414e-93f0-061e7c69eb16",
+  "persona": "zzz",
+  "names": [
+    "zzz"
+  ],
+  "runs": 2,
+  "bestRank": 275,
+  "worstRank": 366,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2983333,
+  "weeksActive": [
+    43,
+    46
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 366,
+      "ms": 2983333,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 275,
+      "ms": 3325464,
+      "dish": "Pizza"
+    }
+  ]
+}

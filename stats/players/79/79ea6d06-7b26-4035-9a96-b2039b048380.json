@@ -1,0 +1,42 @@
+{
+  "id": "79ea6d06-7b26-4035-9a96-b2039b048380",
+  "persona": "Faddisaction",
+  "names": [
+    "Faddisaction"
+  ],
+  "runs": 3,
+  "bestRank": 135,
+  "worstRank": 548,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3316210,
+  "weeksActive": [
+    -32,
+    -30,
+    -27
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 481,
+      "ms": 3478439,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 548,
+      "ms": 3316210,
+      "dish": "Turkey"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 135,
+      "ms": 3719803,
+      "dish": "Salad"
+    }
+  ]
+}

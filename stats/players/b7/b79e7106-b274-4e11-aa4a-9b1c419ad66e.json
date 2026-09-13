@@ -1,0 +1,42 @@
+{
+  "id": "b79e7106-b274-4e11-aa4a-9b1c419ad66e",
+  "persona": "magz",
+  "names": [
+    "magz"
+  ],
+  "runs": 3,
+  "bestRank": 65,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1939138,
+  "weeksActive": [
+    -38,
+    -34,
+    13
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 582,
+      "ms": 3434098,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 65,
+      "ms": 2320596,
+      "dish": "Pies"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 80,
+      "ms": 1939138,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d037e8b0-12a3-4026-870b-e6bf00e00f6f",
+  "persona": "justin",
+  "names": [
+    "justin"
+  ],
+  "runs": 2,
+  "bestRank": 1025,
+  "worstRank": 2067,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3188084,
+  "weeksActive": [
+    -93,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2067,
+      "ms": 3188084,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1025,
+      "ms": 4373885,
+      "dish": "Turkey"
+    }
+  ]
+}

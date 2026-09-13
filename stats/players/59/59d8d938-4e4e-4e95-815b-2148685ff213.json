@@ -1,0 +1,42 @@
+{
+  "id": "59d8d938-4e4e-4e95-815b-2148685ff213",
+  "persona": "AtomMKII",
+  "names": [
+    "AtomMKII"
+  ],
+  "runs": 3,
+  "bestRank": 2,
+  "worstRank": 27,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1648755,
+  "weeksActive": [
+    -5,
+    -4,
+    0
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 2,
+      "ms": 1689417,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 17,
+      "ms": 1648755,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 27,
+      "ms": 2345500,
+      "dish": "Stir Fry"
+    }
+  ]
+}

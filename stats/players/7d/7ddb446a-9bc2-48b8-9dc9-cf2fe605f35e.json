@@ -1,0 +1,82 @@
+{
+  "id": "7ddb446a-9bc2-48b8-9dc9-cf2fe605f35e",
+  "persona": "Caesus",
+  "names": [
+    "Caesus"
+  ],
+  "runs": 8,
+  "bestRank": 24,
+  "worstRank": 179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1563681,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -87,
+    -86,
+    -85,
+    -84,
+    44
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 179,
+      "ms": 2331783,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 102,
+      "ms": 1563681,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 75,
+      "ms": 1683642,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 78,
+      "ms": 2360488,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 80,
+      "ms": 1742866,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 27,
+      "ms": 2131822,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 34,
+      "ms": 1732212,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 24,
+      "ms": 1968031,
+      "dish": "Breakfast"
+    }
+  ]
+}

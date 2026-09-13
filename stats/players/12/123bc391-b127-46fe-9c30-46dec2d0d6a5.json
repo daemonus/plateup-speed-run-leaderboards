@@ -1,0 +1,66 @@
+{
+  "id": "123bc391-b127-46fe-9c30-46dec2d0d6a5",
+  "persona": "BaidaBuchi",
+  "names": [
+    "BaidaBuchi"
+  ],
+  "runs": 6,
+  "bestRank": 69,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2346545,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    7,
+    12,
+    15
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 240,
+      "ms": 3094393,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 69,
+      "ms": 2346545,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 106,
+      "ms": 2915761,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 98,
+      "ms": 2641579,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 272,
+      "ms": 2731510,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 194,
+      "ms": 2388460,
+      "dish": "Turkey"
+    }
+  ]
+}

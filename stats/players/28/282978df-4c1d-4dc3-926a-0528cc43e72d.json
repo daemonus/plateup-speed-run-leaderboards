@@ -1,0 +1,34 @@
+{
+  "id": "282978df-4c1d-4dc3-926a-0528cc43e72d",
+  "persona": "Casey",
+  "names": [
+    "Casey"
+  ],
+  "runs": 2,
+  "bestRank": 409,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3861449,
+  "weeksActive": [
+    43,
+    46
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 603,
+      "ms": 3861449,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 409,
+      "ms": 4025966,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4590a60d-0b7d-440e-a97d-7ca9862273d0",
+  "persona": "DY",
+  "names": [
+    "DY"
+  ],
+  "runs": 3,
+  "bestRank": 228,
+  "worstRank": 368,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5308280,
+  "weeksActive": [
+    25,
+    26,
+    50
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 228,
+      "ms": 7153655,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 368,
+      "ms": 5308280,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 273,
+      "ms": 6258378,
+      "dish": "Stir Fry"
+    }
+  ]
+}

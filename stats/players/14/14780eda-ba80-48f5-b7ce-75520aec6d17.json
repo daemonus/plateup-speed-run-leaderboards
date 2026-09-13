@@ -1,0 +1,50 @@
+{
+  "id": "14780eda-ba80-48f5-b7ce-75520aec6d17",
+  "persona": "Nabbius",
+  "names": [
+    "Nabbius"
+  ],
+  "runs": 4,
+  "bestRank": 110,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3693284,
+  "weeksActive": [
+    -6,
+    -1,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 383,
+      "ms": 4305268,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 110,
+      "ms": 3883641,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 325,
+      "ms": 4608377,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 268,
+      "ms": 3693284,
+      "dish": "Pies"
+    }
+  ]
+}

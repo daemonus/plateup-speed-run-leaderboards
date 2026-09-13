@@ -1,0 +1,42 @@
+{
+  "id": "d7833197-51db-4962-a92d-326dd556e29b",
+  "persona": "Szayelaporro",
+  "names": [
+    "Szayelaporro"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 669,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3635208,
+  "weeksActive": [
+    15,
+    17,
+    19
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 669,
+      "ms": 4826442,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 203,
+      "ms": 3635208,
+      "dish": "Pizza"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 318,
+      "ms": 4406756,
+      "dish": "Pizza"
+    }
+  ]
+}

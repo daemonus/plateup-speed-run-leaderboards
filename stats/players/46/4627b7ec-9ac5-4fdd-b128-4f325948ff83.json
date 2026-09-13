@@ -1,0 +1,50 @@
+{
+  "id": "4627b7ec-9ac5-4fdd-b128-4f325948ff83",
+  "persona": "Lelouch Evans",
+  "names": [
+    "Lelouch Evans"
+  ],
+  "runs": 4,
+  "bestRank": 30,
+  "worstRank": 560,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1908529,
+  "weeksActive": [
+    55,
+    56,
+    57,
+    58
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 154,
+      "ms": 3483817,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 560,
+      "ms": 2963450,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 145,
+      "ms": 2866612,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 30,
+      "ms": 1908529,
+      "dish": "Turkey"
+    }
+  ]
+}

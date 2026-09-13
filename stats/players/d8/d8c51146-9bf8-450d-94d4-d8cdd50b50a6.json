@@ -1,0 +1,34 @@
+{
+  "id": "d8c51146-9bf8-450d-94d4-d8cdd50b50a6",
+  "persona": "KABOOM",
+  "names": [
+    "KABOOM"
+  ],
+  "runs": 2,
+  "bestRank": 223,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4063282,
+  "weeksActive": [
+    11,
+    12
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 223,
+      "ms": 4063282,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 500,
+      "ms": 4168600,
+      "dish": "Turkey"
+    }
+  ]
+}

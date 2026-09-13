@@ -1,0 +1,74 @@
+{
+  "id": "b70b0ef0-8cd2-408d-bb3c-3f608880d293",
+  "persona": "ScissorsPete",
+  "names": [
+    "ScissorsPete"
+  ],
+  "runs": 7,
+  "bestRank": 16,
+  "worstRank": 94,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2007718,
+  "weeksActive": [
+    -78,
+    -76,
+    -59,
+    -58,
+    -56,
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 55,
+      "ms": 2378800,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 86,
+      "ms": 2007718,
+      "dish": "Turkey"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 94,
+      "ms": 2471651,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 16,
+      "ms": 2150099,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 86,
+      "ms": 2319326,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 39,
+      "ms": 2255853,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 65,
+      "ms": 3258449,
+      "dish": "Salad"
+    }
+  ]
+}

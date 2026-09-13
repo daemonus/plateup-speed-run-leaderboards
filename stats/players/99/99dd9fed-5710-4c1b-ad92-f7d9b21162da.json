@@ -1,0 +1,58 @@
+{
+  "id": "99dd9fed-5710-4c1b-ad92-f7d9b21162da",
+  "persona": "inidthenan",
+  "names": [
+    "inidthenan"
+  ],
+  "runs": 5,
+  "bestRank": 273,
+  "worstRank": 957,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4398990,
+  "weeksActive": [
+    20,
+    77,
+    78,
+    79,
+    80
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 957,
+      "ms": 5907806,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 507,
+      "ms": 8108175,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 330,
+      "ms": 4398990,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 273,
+      "ms": 10178375,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 413,
+      "ms": 5317914,
+      "dish": "Pizza"
+    }
+  ]
+}

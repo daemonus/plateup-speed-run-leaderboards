@@ -1,0 +1,42 @@
+{
+  "id": "50f49e42-7c3c-4ab3-99ea-74963adc32d6",
+  "persona": "leo",
+  "names": [
+    "leo"
+  ],
+  "runs": 3,
+  "bestRank": 285,
+  "worstRank": 1004,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2456282,
+  "weeksActive": [
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1004,
+      "ms": 2456282,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 285,
+      "ms": 2820738,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 961,
+      "ms": 3645756,
+      "dish": "Fish"
+    }
+  ]
+}

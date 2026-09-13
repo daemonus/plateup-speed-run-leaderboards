@@ -1,0 +1,34 @@
+{
+  "id": "77940f9c-947d-4524-852a-d6ce8499d17c",
+  "persona": "Lier",
+  "names": [
+    "Lier"
+  ],
+  "runs": 2,
+  "bestRank": 297,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2662840,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 297,
+      "ms": 3283706,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 299,
+      "ms": 2662840,
+      "dish": "Turkey"
+    }
+  ]
+}

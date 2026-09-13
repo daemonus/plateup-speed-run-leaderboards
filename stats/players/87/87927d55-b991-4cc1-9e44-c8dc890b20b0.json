@@ -1,0 +1,34 @@
+{
+  "id": "87927d55-b991-4cc1-9e44-c8dc890b20b0",
+  "persona": "Tetra",
+  "names": [
+    "Tetra"
+  ],
+  "runs": 2,
+  "bestRank": 246,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3510330,
+  "weeksActive": [
+    -72,
+    14
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 299,
+      "ms": 3510330,
+      "dish": "Pies"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 246,
+      "ms": 3635919,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "41b21825-dd81-42eb-b419-7957826b1b78",
+  "persona": "micha",
+  "names": [
+    "micha"
+  ],
+  "runs": 7,
+  "bestRank": 57,
+  "worstRank": 838,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1690155,
+  "weeksActive": [
+    -94,
+    -93,
+    -86,
+    -59,
+    -18,
+    12,
+    41
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 838,
+      "ms": 3241962,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 618,
+      "ms": 2192136,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 111,
+      "ms": 1874906,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 423,
+      "ms": 3920716,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 84,
+      "ms": 2583259,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 57,
+      "ms": 1690155,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 199,
+      "ms": 2023296,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "1f869e09-75d0-4f3e-8095-1b7d67c523db",
+  "persona": "Kiko",
+  "names": [
+    "Kiko"
+  ],
+  "runs": 7,
+  "bestRank": 141,
+  "worstRank": 681,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1976756,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -86,
+    -83,
+    -78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 368,
+      "ms": 1976756,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 681,
+      "ms": 2545876,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 224,
+      "ms": 2109030,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 480,
+      "ms": 2911261,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 265,
+      "ms": 2468508,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 185,
+      "ms": 2790395,
+      "dish": "Steak"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 141,
+      "ms": 2779539,
+      "dish": "Burgers"
+    }
+  ]
+}

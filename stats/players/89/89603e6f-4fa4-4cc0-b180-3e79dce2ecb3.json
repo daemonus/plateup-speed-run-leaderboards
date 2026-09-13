@@ -1,0 +1,42 @@
+{
+  "id": "89603e6f-4fa4-4cc0-b180-3e79dce2ecb3",
+  "persona": "TheChessKnight",
+  "names": [
+    "TheChessKnight"
+  ],
+  "runs": 3,
+  "bestRank": 400,
+  "worstRank": 713,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4525182,
+  "weeksActive": [
+    34,
+    36,
+    43
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 400,
+      "ms": 4996353,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 462,
+      "ms": 6181899,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 713,
+      "ms": 4525182,
+      "dish": "Fish"
+    }
+  ]
+}

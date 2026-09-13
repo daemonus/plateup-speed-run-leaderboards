@@ -1,0 +1,58 @@
+{
+  "id": "289f0b5d-d640-4df3-a0cf-fb678dcf98f8",
+  "persona": "DonDon",
+  "names": [
+    "DonDon"
+  ],
+  "runs": 5,
+  "bestRank": 312,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4303955,
+  "weeksActive": [
+    -50,
+    -47,
+    -46,
+    -45,
+    -43
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 322,
+      "ms": 15858804,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 403,
+      "ms": 4654177,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 465,
+      "ms": 4909136,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 437,
+      "ms": 4303955,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 312,
+      "ms": 6327203,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

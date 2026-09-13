@@ -1,0 +1,42 @@
+{
+  "id": "1a70f8b8-1719-4972-86f2-3f4afcb90918",
+  "persona": "ozzyty1",
+  "names": [
+    "ozzyty1"
+  ],
+  "runs": 3,
+  "bestRank": 22,
+  "worstRank": 76,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1910801,
+  "weeksActive": [
+    30,
+    31,
+    35
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 22,
+      "ms": 1910801,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 76,
+      "ms": 2254644,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 49,
+      "ms": 2247525,
+      "dish": "Fish"
+    }
+  ]
+}

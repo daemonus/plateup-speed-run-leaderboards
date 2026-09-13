@@ -1,0 +1,74 @@
+{
+  "id": "644127a6-fe85-445f-b29a-51a86cb948fa",
+  "persona": "chrysannek",
+  "names": [
+    "chrysannek"
+  ],
+  "runs": 7,
+  "bestRank": 48,
+  "worstRank": 213,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1691472,
+  "weeksActive": [
+    31,
+    35,
+    41,
+    43,
+    60,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 122,
+      "ms": 2498514,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 48,
+      "ms": 2235530,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 120,
+      "ms": 1691472,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 206,
+      "ms": 2496450,
+      "dish": "Fish"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 213,
+      "ms": 3438286,
+      "dish": "Burgers"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 112,
+      "ms": 2704004,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 114,
+      "ms": 2999922,
+      "dish": "Pizza"
+    }
+  ]
+}

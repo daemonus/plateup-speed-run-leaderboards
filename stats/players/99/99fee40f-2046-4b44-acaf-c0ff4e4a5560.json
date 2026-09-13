@@ -1,0 +1,50 @@
+{
+  "id": "99fee40f-2046-4b44-acaf-c0ff4e4a5560",
+  "persona": "TruJamerz",
+  "names": [
+    "TruJamerz"
+  ],
+  "runs": 4,
+  "bestRank": 114,
+  "worstRank": 166,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2322595,
+  "weeksActive": [
+    -29,
+    -6,
+    -3,
+    7
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 114,
+      "ms": 3354989,
+      "dish": "Burgers"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 132,
+      "ms": 3128036,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 125,
+      "ms": 2322595,
+      "dish": "Turkey"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 166,
+      "ms": 2946290,
+      "dish": "Fish"
+    }
+  ]
+}

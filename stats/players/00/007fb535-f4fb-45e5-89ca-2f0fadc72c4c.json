@@ -1,0 +1,42 @@
+{
+  "id": "007fb535-f4fb-45e5-89ca-2f0fadc72c4c",
+  "persona": "Lunchbox",
+  "names": [
+    "Lunchbox"
+  ],
+  "runs": 3,
+  "bestRank": 396,
+  "worstRank": 1453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2710395,
+  "weeksActive": [
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1453,
+      "ms": 2762923,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 926,
+      "ms": 2842014,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 396,
+      "ms": 2710395,
+      "dish": "Pies"
+    }
+  ]
+}

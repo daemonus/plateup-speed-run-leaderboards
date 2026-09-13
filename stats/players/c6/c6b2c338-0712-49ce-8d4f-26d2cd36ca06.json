@@ -1,0 +1,66 @@
+{
+  "id": "c6b2c338-0712-49ce-8d4f-26d2cd36ca06",
+  "persona": "motman",
+  "names": [
+    "motman"
+  ],
+  "runs": 6,
+  "bestRank": 17,
+  "worstRank": 264,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1076682,
+  "weeksActive": [
+    68,
+    75,
+    76,
+    80,
+    81,
+    83
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 169,
+      "ms": 2406701,
+      "dish": "Turkey"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 164,
+      "ms": 3285073,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 130,
+      "ms": 3246953,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 264,
+      "ms": 3734478,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 154,
+      "ms": 3303010,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 17,
+      "ms": 1076682,
+      "dish": "Sundaes"
+    }
+  ]
+}

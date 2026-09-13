@@ -1,0 +1,58 @@
+{
+  "id": "d1a555c3-87e5-41a7-80db-6123d05ddaa7",
+  "persona": "enoki27",
+  "names": [
+    "enoki27"
+  ],
+  "runs": 5,
+  "bestRank": 244,
+  "worstRank": 762,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3104343,
+  "weeksActive": [
+    52,
+    54,
+    56,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 317,
+      "ms": 3104343,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 244,
+      "ms": 4293262,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 762,
+      "ms": 3671120,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 265,
+      "ms": 3611307,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 266,
+      "ms": 3818864,
+      "dish": "Burgers"
+    }
+  ]
+}

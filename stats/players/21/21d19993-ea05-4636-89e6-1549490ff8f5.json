@@ -1,0 +1,42 @@
+{
+  "id": "21d19993-ea05-4636-89e6-1549490ff8f5",
+  "persona": "Acornicus",
+  "names": [
+    "Acornicus"
+  ],
+  "runs": 3,
+  "bestRank": 553,
+  "worstRank": 927,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4309231,
+  "weeksActive": [
+    -75,
+    -74,
+    -62
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 927,
+      "ms": 4309231,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 553,
+      "ms": 5114794,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 582,
+      "ms": 4483935,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "e84a162d-0ec0-416e-811a-34a29c3f3777",
+  "persona": "FlimsyCook",
+  "names": [
+    "FlimsyCook"
+  ],
+  "runs": 5,
+  "bestRank": 120,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2685202,
+  "weeksActive": [
+    -74,
+    -73,
+    -72,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 206,
+      "ms": 3177597,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 120,
+      "ms": 3779155,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 132,
+      "ms": 2756892,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 238,
+      "ms": 2685202,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 297,
+      "ms": 3990584,
+      "dish": "Breakfast"
+    }
+  ]
+}

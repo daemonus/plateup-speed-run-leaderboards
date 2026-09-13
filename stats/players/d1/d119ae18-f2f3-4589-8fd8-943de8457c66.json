@@ -1,0 +1,66 @@
+{
+  "id": "d119ae18-f2f3-4589-8fd8-943de8457c66",
+  "persona": "Qoalabae",
+  "names": [
+    "Qoalabae"
+  ],
+  "runs": 6,
+  "bestRank": 25,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2164801,
+  "weeksActive": [
+    -48,
+    -43,
+    -20,
+    33,
+    34,
+    52
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 25,
+      "ms": 2727809,
+      "dish": "Burgers"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 39,
+      "ms": 2322626,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 197,
+      "ms": 3298606,
+      "dish": "Burgers"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 85,
+      "ms": 2847901,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 73,
+      "ms": 2935318,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 87,
+      "ms": 2164801,
+      "dish": "Fish"
+    }
+  ]
+}

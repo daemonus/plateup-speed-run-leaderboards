@@ -1,0 +1,34 @@
+{
+  "id": "109bebc3-5b14-4691-ba43-21b7cc914ea8",
+  "persona": "Pr0gan",
+  "names": [
+    "Pr0gan"
+  ],
+  "runs": 2,
+  "bestRank": 108,
+  "worstRank": 148,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2654504,
+  "weeksActive": [
+    -23,
+    -21
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 148,
+      "ms": 3496598,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 108,
+      "ms": 2654504,
+      "dish": "Pizza"
+    }
+  ]
+}

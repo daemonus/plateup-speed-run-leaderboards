@@ -1,0 +1,74 @@
+{
+  "id": "c01a3fc8-2ad3-4849-9097-013e812c696d",
+  "persona": "KnoJo81",
+  "names": [
+    "KnoJo81"
+  ],
+  "runs": 7,
+  "bestRank": 235,
+  "worstRank": 934,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2690072,
+  "weeksActive": [
+    20,
+    21,
+    22,
+    41,
+    69,
+    70,
+    71
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 934,
+      "ms": 5334555,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 410,
+      "ms": 4449854,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 235,
+      "ms": 3855055,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 408,
+      "ms": 2690072,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 268,
+      "ms": 4522666,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 243,
+      "ms": 3954321,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 281,
+      "ms": 3706842,
+      "dish": "Pizza"
+    }
+  ]
+}

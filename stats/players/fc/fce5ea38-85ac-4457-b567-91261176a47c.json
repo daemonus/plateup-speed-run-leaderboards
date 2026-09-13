@@ -1,0 +1,34 @@
+{
+  "id": "fce5ea38-85ac-4457-b567-91261176a47c",
+  "persona": "basscat",
+  "names": [
+    "basscat"
+  ],
+  "runs": 2,
+  "bestRank": 245,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3843360,
+  "weeksActive": [
+    -23,
+    -18
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 245,
+      "ms": 6936204,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 395,
+      "ms": 3843360,
+      "dish": "Fish"
+    }
+  ]
+}

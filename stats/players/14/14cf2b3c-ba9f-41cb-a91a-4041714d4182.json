@@ -1,0 +1,50 @@
+{
+  "id": "14cf2b3c-ba9f-41cb-a91a-4041714d4182",
+  "persona": "aewebb17",
+  "names": [
+    "aewebb17"
+  ],
+  "runs": 4,
+  "bestRank": 290,
+  "worstRank": 1025,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2308827,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1025,
+      "ms": 3472959,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 786,
+      "ms": 2308827,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 290,
+      "ms": 2830901,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 796,
+      "ms": 2694884,
+      "dish": "Fish"
+    }
+  ]
+}

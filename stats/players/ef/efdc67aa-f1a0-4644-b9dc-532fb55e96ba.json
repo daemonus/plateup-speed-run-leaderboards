@@ -1,0 +1,42 @@
+{
+  "id": "efdc67aa-f1a0-4644-b9dc-532fb55e96ba",
+  "persona": "Shq\u963F\u767D\u5C0F\u6E38\u620F",
+  "names": [
+    "Shq\u963F\u767D\u5C0F\u6E38\u620F"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3646339,
+  "weeksActive": [
+    23,
+    24,
+    25
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 401,
+      "ms": 3646339,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 506,
+      "ms": 5191665,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 212,
+      "ms": 5811622,
+      "dish": "Stir Fry"
+    }
+  ]
+}

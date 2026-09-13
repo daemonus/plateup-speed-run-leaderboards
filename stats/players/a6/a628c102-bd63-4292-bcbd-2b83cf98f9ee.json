@@ -1,0 +1,50 @@
+{
+  "id": "a628c102-bd63-4292-bcbd-2b83cf98f9ee",
+  "persona": "Mino",
+  "names": [
+    "Mino"
+  ],
+  "runs": 4,
+  "bestRank": 88,
+  "worstRank": 271,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2606843,
+  "weeksActive": [
+    -82,
+    -79,
+    -73,
+    -70
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 271,
+      "ms": 2743034,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 88,
+      "ms": 2606843,
+      "dish": "Pies"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 131,
+      "ms": 3886727,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 234,
+      "ms": 3742512,
+      "dish": "Breakfast"
+    }
+  ]
+}

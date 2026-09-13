@@ -1,0 +1,58 @@
+{
+  "id": "42e6aafe-f96b-4e8b-9eed-2552a4c9b9c0",
+  "persona": "Okami Ni",
+  "names": [
+    "Okami Ni"
+  ],
+  "runs": 5,
+  "bestRank": 141,
+  "worstRank": 360,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1701342,
+  "weeksActive": [
+    47,
+    50,
+    52,
+    56,
+    71
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 310,
+      "ms": 4499601,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 187,
+      "ms": 4461385,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 326,
+      "ms": 3118150,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 141,
+      "ms": 1701342,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 360,
+      "ms": 4207788,
+      "dish": "Pizza"
+    }
+  ]
+}

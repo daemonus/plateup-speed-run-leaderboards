@@ -1,0 +1,58 @@
+{
+  "id": "0204a056-9523-497a-a736-ce7236a99cc7",
+  "persona": "asucely",
+  "names": [
+    "asucely"
+  ],
+  "runs": 5,
+  "bestRank": 231,
+  "worstRank": 1195,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3595025,
+  "weeksActive": [
+    -47,
+    -33,
+    -32,
+    -30,
+    -17
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 406,
+      "ms": 4668908,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 231,
+      "ms": 3595025,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1195,
+      "ms": 6967787,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 739,
+      "ms": 3876396,
+      "dish": "Turkey"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 308,
+      "ms": 4107919,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

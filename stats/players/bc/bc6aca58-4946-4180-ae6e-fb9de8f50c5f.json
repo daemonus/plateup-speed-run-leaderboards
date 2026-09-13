@@ -1,0 +1,42 @@
+{
+  "id": "bc6aca58-4946-4180-ae6e-fb9de8f50c5f",
+  "persona": "Big Fry",
+  "names": [
+    "Big Fry"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2827872,
+  "weeksActive": [
+    -45,
+    -44,
+    4
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 224,
+      "ms": 3168617,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 197,
+      "ms": 2827872,
+      "dish": "Turkey"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 326,
+      "ms": 4221184,
+      "dish": "Breakfast"
+    }
+  ]
+}

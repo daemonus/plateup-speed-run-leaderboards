@@ -1,0 +1,34 @@
+{
+  "id": "5052c09d-fe2e-440a-97e1-27726b95980a",
+  "persona": "Candellum",
+  "names": [
+    "Candellum"
+  ],
+  "runs": 2,
+  "bestRank": 48,
+  "worstRank": 129,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1840448,
+  "weeksActive": [
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 129,
+      "ms": 2550229,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 48,
+      "ms": 1840448,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "eb7b9316-7467-407c-8d97-cb597e15db5b",
+  "persona": "James",
+  "names": [
+    "James"
+  ],
+  "runs": 2,
+  "bestRank": 44,
+  "worstRank": 181,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2015247,
+  "weeksActive": [
+    58,
+    59
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 44,
+      "ms": 2015247,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 181,
+      "ms": 3169752,
+      "dish": "Salad"
+    }
+  ]
+}

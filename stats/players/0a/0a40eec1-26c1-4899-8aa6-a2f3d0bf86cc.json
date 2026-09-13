@@ -1,0 +1,50 @@
+{
+  "id": "0a40eec1-26c1-4899-8aa6-a2f3d0bf86cc",
+  "persona": "AnnieD28",
+  "names": [
+    "AnnieD28"
+  ],
+  "runs": 4,
+  "bestRank": 172,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3373006,
+  "weeksActive": [
+    -46,
+    -44,
+    -43,
+    -41
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 501,
+      "ms": 5258129,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 341,
+      "ms": 3385662,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 172,
+      "ms": 3373006,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 231,
+      "ms": 4346949,
+      "dish": "Stir Fry"
+    }
+  ]
+}

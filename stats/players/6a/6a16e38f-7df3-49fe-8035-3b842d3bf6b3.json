@@ -1,0 +1,58 @@
+{
+  "id": "6a16e38f-7df3-49fe-8035-3b842d3bf6b3",
+  "persona": "Kard",
+  "names": [
+    "Kard"
+  ],
+  "runs": 5,
+  "bestRank": 188,
+  "worstRank": 956,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2900991,
+  "weeksActive": [
+    -75,
+    -71,
+    20,
+    23,
+    87
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 956,
+      "ms": 4512069,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 338,
+      "ms": 2913273,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 430,
+      "ms": 3016660,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 260,
+      "ms": 2900991,
+      "dish": "Turkey"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 188,
+      "ms": 5084309,
+      "dish": "Fajitas"
+    }
+  ]
+}

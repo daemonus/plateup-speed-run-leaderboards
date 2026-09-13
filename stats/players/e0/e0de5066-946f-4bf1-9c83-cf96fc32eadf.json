@@ -1,0 +1,50 @@
+{
+  "id": "e0de5066-946f-4bf1-9c83-cf96fc32eadf",
+  "persona": "LemonBar",
+  "names": [
+    "LemonBar"
+  ],
+  "runs": 4,
+  "bestRank": 35,
+  "worstRank": 169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1740581,
+  "weeksActive": [
+    -84,
+    -82,
+    8,
+    10
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 169,
+      "ms": 2381154,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 85,
+      "ms": 2039194,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 42,
+      "ms": 1740581,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 35,
+      "ms": 2687839,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

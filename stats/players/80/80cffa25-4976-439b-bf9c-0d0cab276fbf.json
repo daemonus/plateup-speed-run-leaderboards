@@ -1,0 +1,50 @@
+{
+  "id": "80cffa25-4976-439b-bf9c-0d0cab276fbf",
+  "persona": "Madrua",
+  "names": [
+    "Madrua"
+  ],
+  "runs": 4,
+  "bestRank": 367,
+  "worstRank": 987,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2703648,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -87
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 806,
+      "ms": 2703648,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 987,
+      "ms": 3697538,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 561,
+      "ms": 3101060,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 367,
+      "ms": 3567613,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "7216ce32-3be0-4b19-a730-05e22e763488",
+  "persona": "4\u831C\u831C",
+  "names": [
+    "4\u831C\u831C"
+  ],
+  "runs": 5,
+  "bestRank": 121,
+  "worstRank": 724,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2172637,
+  "weeksActive": [
+    63,
+    64,
+    77,
+    78,
+    84
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 724,
+      "ms": 5413950,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 278,
+      "ms": 2172637,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 246,
+      "ms": 2859878,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 121,
+      "ms": 2692385,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 334,
+      "ms": 2490673,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fcb925cb-785e-4d20-8c5b-0427caee3b17",
+  "persona": "Colacone",
+  "names": [
+    "Colacone"
+  ],
+  "runs": 3,
+  "bestRank": 30,
+  "worstRank": 181,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1508570,
+  "weeksActive": [
+    -78,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 181,
+      "ms": 2906309,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 160,
+      "ms": 2613539,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 30,
+      "ms": 1508570,
+      "dish": "Turkey"
+    }
+  ]
+}

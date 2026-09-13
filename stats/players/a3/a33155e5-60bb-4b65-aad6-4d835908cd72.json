@@ -1,0 +1,74 @@
+{
+  "id": "a33155e5-60bb-4b65-aad6-4d835908cd72",
+  "persona": "\u5C0F\u7C89\u4E00\u6CEA\u5341\u4E2A",
+  "names": [
+    "\u5C0F\u7C89\u4E00\u6CEA\u5341\u4E2A"
+  ],
+  "runs": 7,
+  "bestRank": 52,
+  "worstRank": 126,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2433552,
+  "weeksActive": [
+    21,
+    22,
+    24,
+    25,
+    26,
+    29,
+    31
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 122,
+      "ms": 2633119,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 101,
+      "ms": 2791242,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 126,
+      "ms": 2729112,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 52,
+      "ms": 3044197,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 116,
+      "ms": 2842724,
+      "dish": "Pizza"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 123,
+      "ms": 3552963,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 109,
+      "ms": 2433552,
+      "dish": "Fish"
+    }
+  ]
+}

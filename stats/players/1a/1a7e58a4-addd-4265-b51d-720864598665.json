@@ -1,0 +1,66 @@
+{
+  "id": "1a7e58a4-addd-4265-b51d-720864598665",
+  "persona": "soure1",
+  "names": [
+    "soure1"
+  ],
+  "runs": 6,
+  "bestRank": 58,
+  "worstRank": 321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1493371,
+  "weeksActive": [
+    12,
+    15,
+    53,
+    84,
+    85,
+    87
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 116,
+      "ms": 1967475,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 179,
+      "ms": 2326586,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 321,
+      "ms": 3843948,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 81,
+      "ms": 1493371,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 125,
+      "ms": 2544346,
+      "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 58,
+      "ms": 3022139,
+      "dish": "Fajitas"
+    }
+  ]
+}

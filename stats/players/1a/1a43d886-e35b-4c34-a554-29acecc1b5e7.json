@@ -1,0 +1,50 @@
+{
+  "id": "1a43d886-e35b-4c34-a554-29acecc1b5e7",
+  "persona": "Ephesos",
+  "names": [
+    "Ephesos"
+  ],
+  "runs": 4,
+  "bestRank": 71,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2562937,
+  "weeksActive": [
+    -94,
+    6,
+    37,
+    46
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 504,
+      "ms": 2851548,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 71,
+      "ms": 2562937,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 143,
+      "ms": 3710458,
+      "dish": "Burgers"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 119,
+      "ms": 2631947,
+      "dish": "Pizza"
+    }
+  ]
+}

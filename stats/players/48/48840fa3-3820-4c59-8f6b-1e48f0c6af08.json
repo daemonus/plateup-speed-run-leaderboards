@@ -1,0 +1,42 @@
+{
+  "id": "48840fa3-3820-4c59-8f6b-1e48f0c6af08",
+  "persona": "SleepyLlama2000",
+  "names": [
+    "SleepyLlama2000"
+  ],
+  "runs": 3,
+  "bestRank": 413,
+  "worstRank": 514,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3243487,
+  "weeksActive": [
+    13,
+    15,
+    31
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 514,
+      "ms": 3690732,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 413,
+      "ms": 3243487,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 499,
+      "ms": 4242601,
+      "dish": "Fish"
+    }
+  ]
+}

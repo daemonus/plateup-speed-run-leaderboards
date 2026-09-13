@@ -1,0 +1,50 @@
+{
+  "id": "0af5d698-6e10-4eb5-a657-bdc7dbedcea7",
+  "persona": "She-Ra",
+  "names": [
+    "She-Ra"
+  ],
+  "runs": 4,
+  "bestRank": 257,
+  "worstRank": 663,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4949292,
+  "weeksActive": [
+    36,
+    37,
+    38,
+    52
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 446,
+      "ms": 4986740,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 257,
+      "ms": 5936396,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 491,
+      "ms": 4949292,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 663,
+      "ms": 5077332,
+      "dish": "Fish"
+    }
+  ]
+}

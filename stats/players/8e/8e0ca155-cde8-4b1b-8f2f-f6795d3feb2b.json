@@ -1,0 +1,42 @@
+{
+  "id": "8e0ca155-cde8-4b1b-8f2f-f6795d3feb2b",
+  "persona": "knuckles_up",
+  "names": [
+    "knuckles_up"
+  ],
+  "runs": 3,
+  "bestRank": 87,
+  "worstRank": 139,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1658578,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 139,
+      "ms": 1658578,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 136,
+      "ms": 1759838,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 87,
+      "ms": 1693713,
+      "dish": "Fish"
+    }
+  ]
+}

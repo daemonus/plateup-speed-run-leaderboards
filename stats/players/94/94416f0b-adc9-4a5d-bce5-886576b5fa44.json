@@ -1,0 +1,50 @@
+{
+  "id": "94416f0b-adc9-4a5d-bce5-886576b5fa44",
+  "persona": "Biggles",
+  "names": [
+    "Biggles"
+  ],
+  "runs": 4,
+  "bestRank": 668,
+  "worstRank": 1078,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2966823,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 668,
+      "ms": 4097123,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1014,
+      "ms": 2966823,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1078,
+      "ms": 4069540,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 894,
+      "ms": 6289019,
+      "dish": "Pies"
+    }
+  ]
+}

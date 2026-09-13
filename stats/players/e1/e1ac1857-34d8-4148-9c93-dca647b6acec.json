@@ -1,0 +1,74 @@
+{
+  "id": "e1ac1857-34d8-4148-9c93-dca647b6acec",
+  "persona": "Tiggy",
+  "names": [
+    "Tiggy"
+  ],
+  "runs": 7,
+  "bestRank": 225,
+  "worstRank": 651,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3606153,
+  "weeksActive": [
+    -69,
+    -68,
+    -55,
+    -46,
+    -31,
+    -30,
+    -22
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 429,
+      "ms": 5528291,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 355,
+      "ms": 6668070,
+      "dish": "Salad"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 321,
+      "ms": 3812806,
+      "dish": "Pizza"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 470,
+      "ms": 4961198,
+      "dish": "Salad"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 546,
+      "ms": 3909582,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 651,
+      "ms": 3606153,
+      "dish": "Turkey"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 225,
+      "ms": 4842913,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "40df4567-a55c-4c92-b48b-ec0831d8f458",
+  "persona": "LaNdMaStEr",
+  "names": [
+    "LaNdMaStEr"
+  ],
+  "runs": 4,
+  "bestRank": 382,
+  "worstRank": 1986,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3021954,
+  "weeksActive": [
+    -93,
+    -91,
+    -32,
+    23
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1986,
+      "ms": 3121334,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1051,
+      "ms": 3021954,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 825,
+      "ms": 4212592,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 382,
+      "ms": 3577429,
+      "dish": "Turkey"
+    }
+  ]
+}

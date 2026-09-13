@@ -1,0 +1,58 @@
+{
+  "id": "047bc2d7-e810-4e4f-b733-267376feeaed",
+  "persona": "Tintin",
+  "names": [
+    "Tintin"
+  ],
+  "runs": 5,
+  "bestRank": 65,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2469686,
+  "weeksActive": [
+    -64,
+    -63,
+    -62,
+    -12,
+    65
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 245,
+      "ms": 3751088,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 535,
+      "ms": 4853212,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 347,
+      "ms": 3681524,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 122,
+      "ms": 3048008,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 65,
+      "ms": 2469686,
+      "dish": "Pizza"
+    }
+  ]
+}

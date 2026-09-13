@@ -1,0 +1,42 @@
+{
+  "id": "f003adea-73f7-4260-ba59-f0b81383c850",
+  "persona": "kurute",
+  "names": [
+    "kurute"
+  ],
+  "runs": 3,
+  "bestRank": 267,
+  "worstRank": 356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3713317,
+  "weeksActive": [
+    46,
+    47,
+    80
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 356,
+      "ms": 3713317,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 267,
+      "ms": 4157104,
+      "dish": "Pizza"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 302,
+      "ms": 4010330,
+      "dish": "Pizza"
+    }
+  ]
+}

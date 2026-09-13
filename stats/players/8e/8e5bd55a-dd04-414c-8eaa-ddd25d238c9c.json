@@ -1,0 +1,74 @@
+{
+  "id": "8e5bd55a-dd04-414c-8eaa-ddd25d238c9c",
+  "persona": "clavier.h",
+  "names": [
+    "clavier.h"
+  ],
+  "runs": 7,
+  "bestRank": 27,
+  "worstRank": 168,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2148479,
+  "weeksActive": [
+    -51,
+    -22,
+    -20,
+    -17,
+    -13,
+    -12,
+    36
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 168,
+      "ms": 2600354,
+      "dish": "Turkey"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 104,
+      "ms": 3432376,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 68,
+      "ms": 2736050,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 36,
+      "ms": 2148479,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 122,
+      "ms": 2971468,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 27,
+      "ms": 2223991,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 89,
+      "ms": 2201610,
+      "dish": "Fish"
+    }
+  ]
+}

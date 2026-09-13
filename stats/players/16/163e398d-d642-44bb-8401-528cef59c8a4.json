@@ -1,0 +1,42 @@
+{
+  "id": "163e398d-d642-44bb-8401-528cef59c8a4",
+  "persona": "Kisako",
+  "names": [
+    "Kisako"
+  ],
+  "runs": 3,
+  "bestRank": 299,
+  "worstRank": 527,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3620447,
+  "weeksActive": [
+    -63,
+    -56,
+    -20
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 527,
+      "ms": 4816357,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 356,
+      "ms": 3620447,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 299,
+      "ms": 3735408,
+      "dish": "Burgers"
+    }
+  ]
+}

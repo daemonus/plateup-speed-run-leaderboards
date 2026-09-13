@@ -1,0 +1,58 @@
+{
+  "id": "4191e531-0489-4924-9c5d-f081c96956a6",
+  "persona": "SaltyPretzalz",
+  "names": [
+    "SaltyPretzalz"
+  ],
+  "runs": 5,
+  "bestRank": 42,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2658200,
+  "weeksActive": [
+    -46,
+    -45,
+    -43,
+    -42,
+    -34
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 244,
+      "ms": 3751291,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 336,
+      "ms": 3651626,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 112,
+      "ms": 2992864,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 42,
+      "ms": 2882121,
+      "dish": "Burgers"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 127,
+      "ms": 2658200,
+      "dish": "Pies"
+    }
+  ]
+}

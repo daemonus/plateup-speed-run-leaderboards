@@ -1,0 +1,50 @@
+{
+  "id": "4cdfc46e-9360-4cfe-8960-862a71f9dd95",
+  "persona": "mizmath40",
+  "names": [
+    "mizmath40"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 595,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2687471,
+  "weeksActive": [
+    60,
+    63,
+    64,
+    67
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 197,
+      "ms": 3380160,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 157,
+      "ms": 2687471,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 595,
+      "ms": 3003354,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 169,
+      "ms": 3077157,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

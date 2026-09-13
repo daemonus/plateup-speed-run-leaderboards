@@ -1,0 +1,66 @@
+{
+  "id": "62e091de-5385-47d3-a799-b6852c33382c",
+  "persona": "Eww",
+  "names": [
+    "Eww"
+  ],
+  "runs": 6,
+  "bestRank": 11,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1852174,
+  "weeksActive": [
+    -78,
+    -77,
+    -76,
+    -71,
+    -70,
+    -57
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 21,
+      "ms": 2124734,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 19,
+      "ms": 1852174,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 64,
+      "ms": 1898821,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 248,
+      "ms": 2705025,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 28,
+      "ms": 2497918,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 11,
+      "ms": 2045247,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

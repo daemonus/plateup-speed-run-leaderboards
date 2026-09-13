@@ -1,0 +1,34 @@
+{
+  "id": "f4eccfe5-bfed-48df-8ac2-ad647137d05e",
+  "persona": "Yoruga",
+  "names": [
+    "Yoruga"
+  ],
+  "runs": 2,
+  "bestRank": 190,
+  "worstRank": 729,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3665035,
+  "weeksActive": [
+    -71,
+    -42
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 729,
+      "ms": 3665035,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 190,
+      "ms": 4299621,
+      "dish": "Burgers"
+    }
+  ]
+}

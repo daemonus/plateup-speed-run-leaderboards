@@ -1,0 +1,50 @@
+{
+  "id": "2d6f3eeb-fbdb-4a8a-827b-5f5d66971e09",
+  "persona": "velvetcrayon",
+  "names": [
+    "velvetcrayon"
+  ],
+  "runs": 4,
+  "bestRank": 365,
+  "worstRank": 776,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4840410,
+  "weeksActive": [
+    57,
+    61,
+    63,
+    83
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 544,
+      "ms": 6257787,
+      "dish": "Salad"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 365,
+      "ms": 6097232,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 707,
+      "ms": 5140477,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 776,
+      "ms": 4840410,
+      "dish": "Sundaes"
+    }
+  ]
+}

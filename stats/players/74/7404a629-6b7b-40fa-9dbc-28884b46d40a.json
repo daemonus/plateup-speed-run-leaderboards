@@ -1,0 +1,50 @@
+{
+  "id": "7404a629-6b7b-40fa-9dbc-28884b46d40a",
+  "persona": "Rex",
+  "names": [
+    "Rex"
+  ],
+  "runs": 4,
+  "bestRank": 200,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3400041,
+  "weeksActive": [
+    70,
+    71,
+    72,
+    75
+  ],
+  "history": [
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 223,
+      "ms": 3738084,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 355,
+      "ms": 4163068,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 200,
+      "ms": 3400041,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 246,
+      "ms": 3890317,
+      "dish": "Pies"
+    }
+  ]
+}

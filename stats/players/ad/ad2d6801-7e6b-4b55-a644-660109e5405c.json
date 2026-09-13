@@ -1,0 +1,34 @@
+{
+  "id": "ad2d6801-7e6b-4b55-a644-660109e5405c",
+  "persona": "CJS",
+  "names": [
+    "CJS"
+  ],
+  "runs": 2,
+  "bestRank": 240,
+  "worstRank": 396,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2800554,
+  "weeksActive": [
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 396,
+      "ms": 2800554,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 240,
+      "ms": 3310242,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3db215bb-7fae-4ca5-ace3-ec697481a558",
+  "persona": "rana \u043B\u044F\u0433\u0443\u0448\u043A\u0430",
+  "names": [
+    "rana \u043B\u044F\u0433\u0443\u0448\u043A\u0430"
+  ],
+  "runs": 3,
+  "bestRank": 429,
+  "worstRank": 849,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3036392,
+  "weeksActive": [
+    -38,
+    -37,
+    -30
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 849,
+      "ms": 5760840,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 781,
+      "ms": 4141429,
+      "dish": "Fish"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 429,
+      "ms": 3036392,
+      "dish": "Turkey"
+    }
+  ]
+}

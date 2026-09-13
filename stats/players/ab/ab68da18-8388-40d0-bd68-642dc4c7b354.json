@@ -1,0 +1,50 @@
+{
+  "id": "ab68da18-8388-40d0-bd68-642dc4c7b354",
+  "persona": "dillerpickle",
+  "names": [
+    "dillerpickle"
+  ],
+  "runs": 4,
+  "bestRank": 222,
+  "worstRank": 1042,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3907905,
+  "weeksActive": [
+    -32,
+    -31,
+    -12,
+    48
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1042,
+      "ms": 4914784,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 544,
+      "ms": 3907905,
+      "dish": "Pies"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 285,
+      "ms": 4945891,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 222,
+      "ms": 6957886,
+      "dish": "Pizza"
+    }
+  ]
+}

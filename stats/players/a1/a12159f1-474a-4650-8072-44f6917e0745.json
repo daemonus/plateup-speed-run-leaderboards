@@ -1,0 +1,42 @@
+{
+  "id": "a12159f1-474a-4650-8072-44f6917e0745",
+  "persona": "Rhevan",
+  "names": [
+    "Rhevan"
+  ],
+  "runs": 3,
+  "bestRank": 224,
+  "worstRank": 807,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2888731,
+  "weeksActive": [
+    -32,
+    -30,
+    6
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 807,
+      "ms": 4150610,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 369,
+      "ms": 2888731,
+      "dish": "Turkey"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 224,
+      "ms": 3570176,
+      "dish": "Breakfast"
+    }
+  ]
+}

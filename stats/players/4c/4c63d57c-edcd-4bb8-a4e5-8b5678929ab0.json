@@ -1,0 +1,42 @@
+{
+  "id": "4c63d57c-edcd-4bb8-a4e5-8b5678929ab0",
+  "persona": "Razanir",
+  "names": [
+    "Razanir"
+  ],
+  "runs": 3,
+  "bestRank": 276,
+  "worstRank": 1080,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2805696,
+  "weeksActive": [
+    -94,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1080,
+      "ms": 3543162,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 276,
+      "ms": 2805696,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 669,
+      "ms": 3017275,
+      "dish": "Fish"
+    }
+  ]
+}

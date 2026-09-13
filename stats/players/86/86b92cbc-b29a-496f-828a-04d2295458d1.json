@@ -1,0 +1,50 @@
+{
+  "id": "86b92cbc-b29a-496f-828a-04d2295458d1",
+  "persona": "Lazic",
+  "names": [
+    "Lazic"
+  ],
+  "runs": 4,
+  "bestRank": 247,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2996324,
+  "weeksActive": [
+    -8,
+    -5,
+    -3,
+    22
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 266,
+      "ms": 4900329,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 247,
+      "ms": 3801103,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 308,
+      "ms": 2996324,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 262,
+      "ms": 4119528,
+      "dish": "Breakfast"
+    }
+  ]
+}

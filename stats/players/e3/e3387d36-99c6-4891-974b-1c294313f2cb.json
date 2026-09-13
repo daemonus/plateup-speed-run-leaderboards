@@ -1,0 +1,34 @@
+{
+  "id": "e3387d36-99c6-4891-974b-1c294313f2cb",
+  "persona": "ShyGuy",
+  "names": [
+    "ShyGuy"
+  ],
+  "runs": 2,
+  "bestRank": 65,
+  "worstRank": 82,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2275715,
+  "weeksActive": [
+    31,
+    40
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 82,
+      "ms": 2275715,
+      "dish": "Fish"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 65,
+      "ms": 2577036,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

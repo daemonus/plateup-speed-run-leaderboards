@@ -1,0 +1,34 @@
+{
+  "id": "d4c4aafa-8905-43d3-b881-dae72ea70650",
+  "persona": "possum",
+  "names": [
+    "possum"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2900024,
+  "weeksActive": [
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 110,
+      "ms": 3558974,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 260,
+      "ms": 2900024,
+      "dish": "Turkey"
+    }
+  ]
+}

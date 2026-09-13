@@ -1,0 +1,74 @@
+{
+  "id": "74c1e783-abd6-4d04-a6ed-1a259c5fa093",
+  "persona": "bankheso",
+  "names": [
+    "bankheso"
+  ],
+  "runs": 7,
+  "bestRank": 110,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2337403,
+  "weeksActive": [
+    -25,
+    -22,
+    -20,
+    -17,
+    -12,
+    37,
+    56
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 470,
+      "ms": 4487541,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 110,
+      "ms": 3479334,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 295,
+      "ms": 3721819,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 299,
+      "ms": 3979060,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 203,
+      "ms": 3666185,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 216,
+      "ms": 4715092,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 364,
+      "ms": 2337403,
+      "dish": "Sundaes"
+    }
+  ]
+}

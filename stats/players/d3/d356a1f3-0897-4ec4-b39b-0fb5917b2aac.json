@@ -1,0 +1,42 @@
+{
+  "id": "d356a1f3-0897-4ec4-b39b-0fb5917b2aac",
+  "persona": "KhunSuy",
+  "names": [
+    "KhunSuy"
+  ],
+  "runs": 3,
+  "bestRank": 165,
+  "worstRank": 505,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2831884,
+  "weeksActive": [
+    -59,
+    -45,
+    83
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 165,
+      "ms": 2831884,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 188,
+      "ms": 3022874,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 505,
+      "ms": 2989977,
+      "dish": "Sundaes"
+    }
+  ]
+}

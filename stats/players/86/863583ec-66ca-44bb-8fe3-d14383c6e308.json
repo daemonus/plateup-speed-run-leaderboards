@@ -1,0 +1,42 @@
+{
+  "id": "863583ec-66ca-44bb-8fe3-d14383c6e308",
+  "persona": "Sergei Titov",
+  "names": [
+    "Sergei Titov"
+  ],
+  "runs": 3,
+  "bestRank": 107,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3112090,
+  "weeksActive": [
+    -63,
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 342,
+      "ms": 3898419,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 260,
+      "ms": 3347862,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 107,
+      "ms": 3112090,
+      "dish": "Burgers"
+    }
+  ]
+}

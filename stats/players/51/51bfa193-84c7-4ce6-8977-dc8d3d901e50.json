@@ -1,0 +1,34 @@
+{
+  "id": "51bfa193-84c7-4ce6-8977-dc8d3d901e50",
+  "persona": "TopGberg",
+  "names": [
+    "TopGberg"
+  ],
+  "runs": 2,
+  "bestRank": 797,
+  "worstRank": 898,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4257088,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 898,
+      "ms": 6635844,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 797,
+      "ms": 4257088,
+      "dish": "Turkey"
+    }
+  ]
+}

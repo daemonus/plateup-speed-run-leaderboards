@@ -1,0 +1,34 @@
+{
+  "id": "fb747a29-42ee-4df0-bc08-61d163c7759c",
+  "persona": "Camm",
+  "names": [
+    "Camm"
+  ],
+  "runs": 2,
+  "bestRank": 280,
+  "worstRank": 408,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3657384,
+  "weeksActive": [
+    -26,
+    -20
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 408,
+      "ms": 5234558,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 280,
+      "ms": 3657384,
+      "dish": "Burgers"
+    }
+  ]
+}

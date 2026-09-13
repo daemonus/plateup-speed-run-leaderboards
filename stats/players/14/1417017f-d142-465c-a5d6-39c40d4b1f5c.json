@@ -1,0 +1,42 @@
+{
+  "id": "1417017f-d142-465c-a5d6-39c40d4b1f5c",
+  "persona": "StormSSA",
+  "names": [
+    "StormSSA"
+  ],
+  "runs": 3,
+  "bestRank": 229,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2679127,
+  "weeksActive": [
+    20,
+    23,
+    26
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 335,
+      "ms": 2679127,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 429,
+      "ms": 3780198,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 229,
+      "ms": 3652420,
+      "dish": "Pizza"
+    }
+  ]
+}

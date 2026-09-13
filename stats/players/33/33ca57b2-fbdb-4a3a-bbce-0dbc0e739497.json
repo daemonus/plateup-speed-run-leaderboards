@@ -1,0 +1,58 @@
+{
+  "id": "33ca57b2-fbdb-4a3a-bbce-0dbc0e739497",
+  "persona": "Epix-",
+  "names": [
+    "Epix-"
+  ],
+  "runs": 5,
+  "bestRank": 8,
+  "worstRank": 83,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1615923,
+  "weeksActive": [
+    -3,
+    -2,
+    31,
+    49,
+    50
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 83,
+      "ms": 2120349,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 8,
+      "ms": 1615923,
+      "dish": "Pizza"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 63,
+      "ms": 2166425,
+      "dish": "Fish"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 21,
+      "ms": 2406106,
+      "dish": "Burgers"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 16,
+      "ms": 2299955,
+      "dish": "Stir Fry"
+    }
+  ]
+}

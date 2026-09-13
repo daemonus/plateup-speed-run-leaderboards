@@ -1,0 +1,34 @@
+{
+  "id": "3379c237-27f1-4a15-8313-d42af586dd95",
+  "persona": "\u71C3\u6F88\u8DEF\u5FB7",
+  "names": [
+    "\u71C3\u6F88\u8DEF\u5FB7"
+  ],
+  "runs": 2,
+  "bestRank": 146,
+  "worstRank": 619,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3526263,
+  "weeksActive": [
+    -30,
+    -11
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 619,
+      "ms": 3526263,
+      "dish": "Turkey"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 146,
+      "ms": 4062825,
+      "dish": "Burgers"
+    }
+  ]
+}

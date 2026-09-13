@@ -1,0 +1,42 @@
+{
+  "id": "5d24b668-05df-4654-be6c-bf1401fde1ee",
+  "persona": "Blarflesnarflo",
+  "names": [
+    "Blarflesnarflo"
+  ],
+  "runs": 3,
+  "bestRank": 112,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2630595,
+  "weeksActive": [
+    9,
+    10,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 112,
+      "ms": 2630595,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 116,
+      "ms": 3409570,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 227,
+      "ms": 2666734,
+      "dish": "Turkey"
+    }
+  ]
+}

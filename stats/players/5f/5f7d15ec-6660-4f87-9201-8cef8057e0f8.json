@@ -1,0 +1,34 @@
+{
+  "id": "5f7d15ec-6660-4f87-9201-8cef8057e0f8",
+  "persona": "narval",
+  "names": [
+    "narval"
+  ],
+  "runs": 2,
+  "bestRank": 173,
+  "worstRank": 236,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2876331,
+  "weeksActive": [
+    -61,
+    -59
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 236,
+      "ms": 3255212,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 173,
+      "ms": 2876331,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

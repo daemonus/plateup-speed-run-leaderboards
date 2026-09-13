@@ -1,0 +1,42 @@
+{
+  "id": "903c60b5-fa91-483c-98f7-11d9a4d04122",
+  "persona": "Rs\u4E36alan",
+  "names": [
+    "Rs\u4E36alan"
+  ],
+  "runs": 3,
+  "bestRank": 207,
+  "worstRank": 629,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5021850,
+  "weeksActive": [
+    77,
+    82,
+    87
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 480,
+      "ms": 5021850,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 629,
+      "ms": 6149565,
+      "dish": "Pizza"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 207,
+      "ms": 6537931,
+      "dish": "Fajitas"
+    }
+  ]
+}

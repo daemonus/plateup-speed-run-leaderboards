@@ -1,0 +1,34 @@
+{
+  "id": "e6775453-e1fe-4b3b-aa87-cbcad5e86644",
+  "persona": "Wakana",
+  "names": [
+    "Wakana"
+  ],
+  "runs": 2,
+  "bestRank": 78,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3009646,
+  "weeksActive": [
+    -82,
+    -29
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 442,
+      "ms": 3290603,
+      "dish": "Fish"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 78,
+      "ms": 3009646,
+      "dish": "Burgers"
+    }
+  ]
+}

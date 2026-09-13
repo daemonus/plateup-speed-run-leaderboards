@@ -1,0 +1,34 @@
+{
+  "id": "4f87989c-8684-41a8-9a23-92319af506aa",
+  "persona": "Noemi",
+  "names": [
+    "Noemi"
+  ],
+  "runs": 2,
+  "bestRank": 215,
+  "worstRank": 255,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1756293,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 215,
+      "ms": 1756293,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 255,
+      "ms": 1990332,
+      "dish": "Fish"
+    }
+  ]
+}

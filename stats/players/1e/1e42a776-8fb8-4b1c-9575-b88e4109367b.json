@@ -1,0 +1,74 @@
+{
+  "id": "1e42a776-8fb8-4b1c-9575-b88e4109367b",
+  "persona": "angela",
+  "names": [
+    "angela"
+  ],
+  "runs": 7,
+  "bestRank": 225,
+  "worstRank": 481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2560171,
+  "weeksActive": [
+    -81,
+    -80,
+    -76,
+    -75,
+    -74,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 287,
+      "ms": 4176608,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 225,
+      "ms": 4431707,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 481,
+      "ms": 3213031,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 306,
+      "ms": 2560171,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 304,
+      "ms": 3658686,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 236,
+      "ms": 3238394,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 351,
+      "ms": 2927552,
+      "dish": "Turkey"
+    }
+  ]
+}

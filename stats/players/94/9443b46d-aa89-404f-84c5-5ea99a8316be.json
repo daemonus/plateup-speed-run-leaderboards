@@ -1,0 +1,58 @@
+{
+  "id": "9443b46d-aa89-404f-84c5-5ea99a8316be",
+  "persona": "Pink",
+  "names": [
+    "Pink"
+  ],
+  "runs": 5,
+  "bestRank": 87,
+  "worstRank": 548,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2486618,
+  "weeksActive": [
+    -40,
+    -39,
+    -34,
+    -30,
+    47
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 212,
+      "ms": 4736179,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 548,
+      "ms": 3880367,
+      "dish": "Pizza"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 87,
+      "ms": 2486618,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 336,
+      "ms": 2767931,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 131,
+      "ms": 3083735,
+      "dish": "Pizza"
+    }
+  ]
+}

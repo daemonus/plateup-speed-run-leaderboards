@@ -1,0 +1,42 @@
+{
+  "id": "4f0bead8-e3bf-4316-80c9-0c1636e2182d",
+  "persona": "indigo",
+  "names": [
+    "indigo"
+  ],
+  "runs": 3,
+  "bestRank": 151,
+  "worstRank": 668,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3246228,
+  "weeksActive": [
+    43,
+    44,
+    76
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 668,
+      "ms": 4186794,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 247,
+      "ms": 3246228,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 151,
+      "ms": 3591921,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5daa7749-6959-4723-82ca-5df13489dc26",
+  "persona": "mmel",
+  "names": [
+    "mmel"
+  ],
+  "runs": 5,
+  "bestRank": 19,
+  "worstRank": 56,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1756011,
+  "weeksActive": [
+    23,
+    24,
+    25,
+    27,
+    87
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 53,
+      "ms": 1756011,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 56,
+      "ms": 2262840,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 19,
+      "ms": 2388479,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 27,
+      "ms": 1928856,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 29,
+      "ms": 2539438,
+      "dish": "Fajitas"
+    }
+  ]
+}

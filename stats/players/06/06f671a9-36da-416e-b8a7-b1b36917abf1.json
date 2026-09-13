@@ -1,0 +1,42 @@
+{
+  "id": "06f671a9-36da-416e-b8a7-b1b36917abf1",
+  "persona": "luna",
+  "names": [
+    "luna"
+  ],
+  "runs": 3,
+  "bestRank": 168,
+  "worstRank": 226,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2543661,
+  "weeksActive": [
+    27,
+    30,
+    43
+  ],
+  "history": [
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 189,
+      "ms": 3497306,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 168,
+      "ms": 2966484,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 226,
+      "ms": 2543661,
+      "dish": "Fish"
+    }
+  ]
+}

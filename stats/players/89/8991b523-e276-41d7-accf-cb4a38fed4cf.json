@@ -1,0 +1,50 @@
+{
+  "id": "8991b523-e276-41d7-accf-cb4a38fed4cf",
+  "persona": "sstuds",
+  "names": [
+    "sstuds"
+  ],
+  "runs": 4,
+  "bestRank": 58,
+  "worstRank": 217,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1602045,
+  "weeksActive": [
+    -88,
+    -87,
+    -86,
+    -75
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 103,
+      "ms": 2322779,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 58,
+      "ms": 2264369,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 60,
+      "ms": 1602045,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 217,
+      "ms": 2291347,
+      "dish": "Fish"
+    }
+  ]
+}

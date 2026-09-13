@@ -1,0 +1,42 @@
+{
+  "id": "454bae02-715a-461b-b342-9964be4b76c2",
+  "persona": "Zwerg",
+  "names": [
+    "Zwerg"
+  ],
+  "runs": 3,
+  "bestRank": 109,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2511319,
+  "weeksActive": [
+    -61,
+    -59,
+    -32
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 453,
+      "ms": 4299999,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 174,
+      "ms": 2878935,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 109,
+      "ms": 2511319,
+      "dish": "Breakfast"
+    }
+  ]
+}

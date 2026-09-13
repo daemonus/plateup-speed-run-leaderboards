@@ -1,0 +1,34 @@
+{
+  "id": "efc31484-8d70-4283-87a1-ec0826035476",
+  "persona": "Tom",
+  "names": [
+    "Tom"
+  ],
+  "runs": 2,
+  "bestRank": 282,
+  "worstRank": 413,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3891875,
+  "weeksActive": [
+    -25,
+    -17
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 413,
+      "ms": 4290986,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 282,
+      "ms": 3891875,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

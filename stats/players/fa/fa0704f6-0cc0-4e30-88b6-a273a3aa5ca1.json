@@ -1,0 +1,34 @@
+{
+  "id": "fa0704f6-0cc0-4e30-88b6-a273a3aa5ca1",
+  "persona": "Bowl",
+  "names": [
+    "Bowl"
+  ],
+  "runs": 2,
+  "bestRank": 392,
+  "worstRank": 704,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2437364,
+  "weeksActive": [
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 704,
+      "ms": 2582297,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 392,
+      "ms": 2437364,
+      "dish": "Fish"
+    }
+  ]
+}

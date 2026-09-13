@@ -1,0 +1,50 @@
+{
+  "id": "a01956d7-7818-44d8-927d-07ffebdb4347",
+  "persona": "aetuft",
+  "names": [
+    "aetuft"
+  ],
+  "runs": 4,
+  "bestRank": 190,
+  "worstRank": 552,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3932084,
+  "weeksActive": [
+    -51,
+    -50,
+    -49,
+    -47
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 552,
+      "ms": 3932084,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 225,
+      "ms": 4529263,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 190,
+      "ms": 4203903,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 320,
+      "ms": 4130045,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

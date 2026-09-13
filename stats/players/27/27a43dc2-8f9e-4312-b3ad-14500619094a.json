@@ -1,0 +1,66 @@
+{
+  "id": "27a43dc2-8f9e-4312-b3ad-14500619094a",
+  "persona": "yuli",
+  "names": [
+    "yuli"
+  ],
+  "runs": 6,
+  "bestRank": 221,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3323772,
+  "weeksActive": [
+    63,
+    64,
+    66,
+    71,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 684,
+      "ms": 4829154,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 722,
+      "ms": 3323772,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 367,
+      "ms": 4072047,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 302,
+      "ms": 3838595,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 275,
+      "ms": 3894109,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 221,
+      "ms": 3676729,
+      "dish": "Burgers"
+    }
+  ]
+}

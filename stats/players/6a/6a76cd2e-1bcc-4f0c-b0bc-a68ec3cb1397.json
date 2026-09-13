@@ -1,0 +1,58 @@
+{
+  "id": "6a76cd2e-1bcc-4f0c-b0bc-a68ec3cb1397",
+  "persona": "Crow_",
+  "names": [
+    "Crow_"
+  ],
+  "runs": 5,
+  "bestRank": 193,
+  "worstRank": 802,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2940181,
+  "weeksActive": [
+    78,
+    79,
+    80,
+    83,
+    86
+  ],
+  "history": [
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 193,
+      "ms": 3126286,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 250,
+      "ms": 5617133,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 402,
+      "ms": 5051944,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 802,
+      "ms": 7023950,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 330,
+      "ms": 2940181,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "f5a263b7-e611-4380-923d-4ba1b347b0e3",
+  "persona": "Syrus",
+  "names": [
+    "Syrus"
+  ],
+  "runs": 4,
+  "bestRank": 31,
+  "worstRank": 200,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1514651,
+  "weeksActive": [
+    -94,
+    -93,
+    -90,
+    -78
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 31,
+      "ms": 1564562,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 86,
+      "ms": 1514651,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 149,
+      "ms": 1921543,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 200,
+      "ms": 2947676,
+      "dish": "Burgers"
+    }
+  ]
+}

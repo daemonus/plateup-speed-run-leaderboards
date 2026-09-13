@@ -1,0 +1,42 @@
+{
+  "id": "5b261bbb-cd8c-47cc-ae95-1e964fadaad4",
+  "persona": "DOPI",
+  "names": [
+    "DOPI"
+  ],
+  "runs": 3,
+  "bestRank": 111,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3579504,
+  "weeksActive": [
+    -7,
+    39,
+    50
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 111,
+      "ms": 3579504,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 323,
+      "ms": 5320304,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 238,
+      "ms": 5358764,
+      "dish": "Stir Fry"
+    }
+  ]
+}

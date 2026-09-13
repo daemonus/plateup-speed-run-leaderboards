@@ -1,0 +1,58 @@
+{
+  "id": "8466bc77-e31e-4c40-bb25-d72ccb4f4db5",
+  "persona": "valnilla",
+  "names": [
+    "valnilla"
+  ],
+  "runs": 5,
+  "bestRank": 66,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1586417,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 428,
+      "ms": 2748616,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 129,
+      "ms": 1635536,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 66,
+      "ms": 1586417,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 156,
+      "ms": 1936538,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 228,
+      "ms": 2264294,
+      "dish": "Pies"
+    }
+  ]
+}

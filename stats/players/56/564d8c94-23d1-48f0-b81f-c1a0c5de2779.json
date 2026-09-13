@@ -1,0 +1,42 @@
+{
+  "id": "564d8c94-23d1-48f0-b81f-c1a0c5de2779",
+  "persona": "Crodas",
+  "names": [
+    "Crodas"
+  ],
+  "runs": 3,
+  "bestRank": 200,
+  "worstRank": 767,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2070842,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 767,
+      "ms": 2302538,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 466,
+      "ms": 2276589,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 200,
+      "ms": 2070842,
+      "dish": "Fish"
+    }
+  ]
+}

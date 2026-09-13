@@ -1,0 +1,34 @@
+{
+  "id": "36ab2955-eb63-4f44-8fa1-99b3ebff685d",
+  "persona": "pink shell",
+  "names": [
+    "pink shell"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5596349,
+  "weeksActive": [
+    -28,
+    -27
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 225,
+      "ms": 5596349,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 326,
+      "ms": 6694716,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b29e060d-169e-465d-b99d-9f18c5dec21f",
+  "persona": "evmisosc209",
+  "names": [
+    "evmisosc209"
+  ],
+  "runs": 3,
+  "bestRank": 401,
+  "worstRank": 583,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2500866,
+  "weeksActive": [
+    62,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 458,
+      "ms": 4269087,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 583,
+      "ms": 4217860,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 401,
+      "ms": 2500866,
+      "dish": "Sundaes"
+    }
+  ]
+}

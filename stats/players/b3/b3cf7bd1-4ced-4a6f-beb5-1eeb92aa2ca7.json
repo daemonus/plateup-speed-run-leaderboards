@@ -1,0 +1,50 @@
+{
+  "id": "b3cf7bd1-4ced-4a6f-beb5-1eeb92aa2ca7",
+  "persona": "ling",
+  "names": [
+    "ling"
+  ],
+  "runs": 4,
+  "bestRank": 138,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3177795,
+  "weeksActive": [
+    -84,
+    -33,
+    -17,
+    25
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 581,
+      "ms": 3946425,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 239,
+      "ms": 3629697,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 195,
+      "ms": 3177795,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 138,
+      "ms": 4323608,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "f35907e9-b448-403e-9960-1da689e8a484",
+  "persona": "HanaAburame",
+  "names": [
+    "HanaAburame"
+  ],
+  "runs": 4,
+  "bestRank": 312,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3434627,
+  "weeksActive": [
+    30,
+    31,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 312,
+      "ms": 3764549,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 314,
+      "ms": 3434627,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 417,
+      "ms": 5370108,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 409,
+      "ms": 5547873,
+      "dish": "Burgers"
+    }
+  ]
+}

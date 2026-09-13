@@ -1,0 +1,50 @@
+{
+  "id": "9c6946cc-c6b5-4c8b-aa93-c0f737f9ac2d",
+  "persona": "synaptic aries",
+  "names": [
+    "synaptic aries"
+  ],
+  "runs": 4,
+  "bestRank": 77,
+  "worstRank": 216,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1790300,
+  "weeksActive": [
+    7,
+    12,
+    15,
+    16
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 216,
+      "ms": 3173823,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 77,
+      "ms": 1790300,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 138,
+      "ms": 2172721,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 165,
+      "ms": 3732119,
+      "dish": "Stir Fry"
+    }
+  ]
+}

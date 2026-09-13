@@ -1,0 +1,42 @@
+{
+  "id": "55fceeb1-2839-4f98-bb39-3547e7472146",
+  "persona": "minding24",
+  "names": [
+    "minding24"
+  ],
+  "runs": 3,
+  "bestRank": 388,
+  "worstRank": 670,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3656915,
+  "weeksActive": [
+    -84,
+    -79,
+    23
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 670,
+      "ms": 4982215,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 388,
+      "ms": 4365205,
+      "dish": "Pies"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 405,
+      "ms": 3656915,
+      "dish": "Turkey"
+    }
+  ]
+}

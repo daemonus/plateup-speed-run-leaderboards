@@ -1,0 +1,74 @@
+{
+  "id": "d846e43d-d6e0-42f8-8f9f-28d64ad26cb8",
+  "persona": "Chipolla",
+  "names": [
+    "Chipolla"
+  ],
+  "runs": 7,
+  "bestRank": 88,
+  "worstRank": 238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2093480,
+  "weeksActive": [
+    -70,
+    -67,
+    20,
+    22,
+    23,
+    24,
+    28
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 230,
+      "ms": 3730915,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 206,
+      "ms": 3452407,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 238,
+      "ms": 2340452,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 96,
+      "ms": 2767028,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 105,
+      "ms": 2093480,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 124,
+      "ms": 2712832,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 88,
+      "ms": 2227117,
+      "dish": "Turkey"
+    }
+  ]
+}

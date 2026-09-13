@@ -1,0 +1,34 @@
+{
+  "id": "0a057efc-6b89-42af-8936-e7fd38569f86",
+  "persona": "Heluma",
+  "names": [
+    "Heluma"
+  ],
+  "runs": 2,
+  "bestRank": 340,
+  "worstRank": 898,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3300919,
+  "weeksActive": [
+    -90,
+    -15
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 898,
+      "ms": 3471458,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 340,
+      "ms": 3300919,
+      "dish": "Fish"
+    }
+  ]
+}

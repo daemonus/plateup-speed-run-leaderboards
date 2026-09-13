@@ -1,0 +1,58 @@
+{
+  "id": "15bd08f2-b3bd-48ab-bf0e-66b139cab138",
+  "persona": "snadams9",
+  "names": [
+    "snadams9"
+  ],
+  "runs": 5,
+  "bestRank": 79,
+  "worstRank": 539,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2579595,
+  "weeksActive": [
+    -5,
+    20,
+    21,
+    23,
+    26
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 341,
+      "ms": 4193374,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 539,
+      "ms": 3321660,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 217,
+      "ms": 3144831,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 202,
+      "ms": 2605993,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 79,
+      "ms": 2579595,
+      "dish": "Pizza"
+    }
+  ]
+}

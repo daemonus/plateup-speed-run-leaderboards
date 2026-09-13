@@ -1,0 +1,42 @@
+{
+  "id": "f3eedabd-e3c5-4f94-97d3-5a2e4073d3e6",
+  "persona": "Razillea",
+  "names": [
+    "Razillea"
+  ],
+  "runs": 3,
+  "bestRank": 68,
+  "worstRank": 263,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2879633,
+  "weeksActive": [
+    -78,
+    -68,
+    16
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 263,
+      "ms": 3157492,
+      "dish": "Burgers"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 68,
+      "ms": 2879633,
+      "dish": "Salad"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 92,
+      "ms": 3225683,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "53fb34af-84e3-4b7a-beb7-08a9b8066a75",
+  "persona": "MOQ_BOQ_TOROK",
+  "names": [
+    "MOQ_BOQ_TOROK"
+  ],
+  "runs": 3,
+  "bestRank": 166,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2436542,
+  "weeksActive": [
+    -75,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 349,
+      "ms": 2680840,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 166,
+      "ms": 2980424,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 166,
+      "ms": 2436542,
+      "dish": "Turkey"
+    }
+  ]
+}

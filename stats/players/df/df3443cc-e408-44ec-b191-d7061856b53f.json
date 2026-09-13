@@ -1,0 +1,58 @@
+{
+  "id": "df3443cc-e408-44ec-b191-d7061856b53f",
+  "persona": "LST",
+  "names": [
+    "LST"
+  ],
+  "runs": 5,
+  "bestRank": 210,
+  "worstRank": 397,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3407260,
+  "weeksActive": [
+    -63,
+    -57,
+    -56,
+    -55,
+    45
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 397,
+      "ms": 4145046,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 256,
+      "ms": 4361179,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 306,
+      "ms": 3407260,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 389,
+      "ms": 4083552,
+      "dish": "Pizza"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 210,
+      "ms": 5097002,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a05d1027-1a89-4eea-9cbd-265015138806",
+  "persona": "airluck.hi",
+  "names": [
+    "airluck.hi"
+  ],
+  "runs": 2,
+  "bestRank": 174,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2439003,
+  "weeksActive": [
+    -15,
+    23
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 256,
+      "ms": 2961375,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 174,
+      "ms": 2439003,
+      "dish": "Turkey"
+    }
+  ]
+}

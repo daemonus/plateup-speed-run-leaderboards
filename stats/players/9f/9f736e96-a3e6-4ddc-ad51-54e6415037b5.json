@@ -1,0 +1,58 @@
+{
+  "id": "9f736e96-a3e6-4ddc-ad51-54e6415037b5",
+  "persona": "That_Knight",
+  "names": [
+    "That_Knight"
+  ],
+  "runs": 5,
+  "bestRank": 207,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2194621,
+  "weeksActive": [
+    11,
+    12,
+    13,
+    14,
+    86
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 252,
+      "ms": 4454583,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 404,
+      "ms": 3294349,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 483,
+      "ms": 3586836,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 224,
+      "ms": 3528303,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 207,
+      "ms": 2194621,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1a62fc32-a8f3-4d15-8a0b-8844faa7cd5a",
+  "persona": "Birb Juice",
+  "names": [
+    "Birb Juice"
+  ],
+  "runs": 2,
+  "bestRank": 205,
+  "worstRank": 230,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3631477,
+  "weeksActive": [
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 230,
+      "ms": 3862750,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 205,
+      "ms": 3631477,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

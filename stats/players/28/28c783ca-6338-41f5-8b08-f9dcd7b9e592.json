@@ -1,0 +1,82 @@
+{
+  "id": "28c783ca-6338-41f5-8b08-f9dcd7b9e592",
+  "persona": "BUSY",
+  "names": [
+    "BUSY"
+  ],
+  "runs": 8,
+  "bestRank": 60,
+  "worstRank": 235,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2056378,
+  "weeksActive": [
+    -82,
+    -81,
+    -80,
+    -78,
+    -77,
+    -76,
+    -75,
+    -57
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 205,
+      "ms": 2484867,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 127,
+      "ms": 3179524,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 71,
+      "ms": 2731834,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 195,
+      "ms": 2935533,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 235,
+      "ms": 2874629,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 122,
+      "ms": 2170015,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 155,
+      "ms": 2056378,
+      "dish": "Fish"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 60,
+      "ms": 2626438,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

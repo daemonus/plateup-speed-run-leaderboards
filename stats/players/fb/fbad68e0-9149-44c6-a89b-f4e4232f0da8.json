@@ -1,0 +1,42 @@
+{
+  "id": "fbad68e0-9149-44c6-a89b-f4e4232f0da8",
+  "persona": "LeFouFurieux",
+  "names": [
+    "LeFouFurieux"
+  ],
+  "runs": 3,
+  "bestRank": 20,
+  "worstRank": 116,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1731771,
+  "weeksActive": [
+    -76,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 116,
+      "ms": 2135487,
+      "dish": "Turkey"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 43,
+      "ms": 2563056,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 20,
+      "ms": 1731771,
+      "dish": "Pies"
+    }
+  ]
+}

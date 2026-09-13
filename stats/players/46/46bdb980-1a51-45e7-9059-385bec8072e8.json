@@ -1,0 +1,42 @@
+{
+  "id": "46bdb980-1a51-45e7-9059-385bec8072e8",
+  "persona": "no luck 21",
+  "names": [
+    "no luck 21"
+  ],
+  "runs": 3,
+  "bestRank": 103,
+  "worstRank": 304,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2771224,
+  "weeksActive": [
+    8,
+    15,
+    69
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 296,
+      "ms": 2771224,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 304,
+      "ms": 2827340,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 103,
+      "ms": 3048488,
+      "dish": "Burgers"
+    }
+  ]
+}

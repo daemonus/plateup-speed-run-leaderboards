@@ -1,0 +1,42 @@
+{
+  "id": "8838d5fb-8ffc-4d8d-a6d4-5cb6cf190eee",
+  "persona": "Nele",
+  "names": [
+    "Nele"
+  ],
+  "runs": 3,
+  "bestRank": 115,
+  "worstRank": 337,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2994376,
+  "weeksActive": [
+    -31,
+    -28,
+    -16
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 337,
+      "ms": 3382637,
+      "dish": "Pies"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 115,
+      "ms": 3784666,
+      "dish": "Burgers"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 228,
+      "ms": 2994376,
+      "dish": "Pies"
+    }
+  ]
+}

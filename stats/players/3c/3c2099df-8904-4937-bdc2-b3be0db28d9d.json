@@ -1,0 +1,42 @@
+{
+  "id": "3c2099df-8904-4937-bdc2-b3be0db28d9d",
+  "persona": "wdanny",
+  "names": [
+    "wdanny"
+  ],
+  "runs": 3,
+  "bestRank": 178,
+  "worstRank": 335,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3213367,
+  "weeksActive": [
+    0,
+    1,
+    2
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 335,
+      "ms": 4653543,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 178,
+      "ms": 3213367,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 216,
+      "ms": 3603839,
+      "dish": "Breakfast"
+    }
+  ]
+}

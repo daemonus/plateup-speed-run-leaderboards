@@ -1,0 +1,98 @@
+{
+  "id": "d0315c47-ae91-4288-b15f-8dae5593880a",
+  "persona": "Sycoloon",
+  "names": [
+    "Sycoloon"
+  ],
+  "runs": 10,
+  "bestRank": 88,
+  "worstRank": 507,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3248083,
+  "weeksActive": [
+    -68,
+    -22,
+    -21,
+    -10,
+    -8,
+    44,
+    45,
+    46,
+    47,
+    50
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 337,
+      "ms": 6056044,
+      "dish": "Salad"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 88,
+      "ms": 3248083,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 252,
+      "ms": 3440325,
+      "dish": "Pizza"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 221,
+      "ms": 4669749,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 107,
+      "ms": 3428226,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 507,
+      "ms": 6705717,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 198,
+      "ms": 4755101,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 286,
+      "ms": 3381231,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 223,
+      "ms": 3793101,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 175,
+      "ms": 4327634,
+      "dish": "Stir Fry"
+    }
+  ]
+}

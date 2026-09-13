@@ -1,0 +1,42 @@
+{
+  "id": "e072229d-84e0-47fd-9e3b-a686ad737b05",
+  "persona": "nicolezaurrini",
+  "names": [
+    "nicolezaurrini"
+  ],
+  "runs": 3,
+  "bestRank": 460,
+  "worstRank": 1733,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2956777,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 884,
+      "ms": 3295513,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1733,
+      "ms": 2956777,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 460,
+      "ms": 3311595,
+      "dish": "Steak"
+    }
+  ]
+}

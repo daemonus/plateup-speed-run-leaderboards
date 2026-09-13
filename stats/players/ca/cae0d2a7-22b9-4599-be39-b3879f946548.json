@@ -1,0 +1,34 @@
+{
+  "id": "cae0d2a7-22b9-4599-be39-b3879f946548",
+  "persona": "Headpiece",
+  "names": [
+    "Headpiece"
+  ],
+  "runs": 2,
+  "bestRank": 142,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2698299,
+  "weeksActive": [
+    59,
+    82
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 314,
+      "ms": 3924775,
+      "dish": "Salad"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 142,
+      "ms": 2698299,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "898ceff7-5136-4221-8d37-4e8d6cd3b034",
+  "persona": "Tale",
+  "names": [
+    "Tale"
+  ],
+  "runs": 3,
+  "bestRank": 72,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2394801,
+  "weeksActive": [
+    -34,
+    -31,
+    64
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 82,
+      "ms": 2438613,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 72,
+      "ms": 2394801,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 501,
+      "ms": 2780737,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4a16517d-4189-4895-9c1b-e24e71c4cb79",
+  "persona": "Dodo",
+  "names": [
+    "Dodo"
+  ],
+  "runs": 2,
+  "bestRank": 132,
+  "worstRank": 208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2203507,
+  "weeksActive": [
+    77,
+    86
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 132,
+      "ms": 2216612,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 208,
+      "ms": 2203507,
+      "dish": "Sundaes"
+    }
+  ]
+}

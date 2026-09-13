@@ -1,0 +1,50 @@
+{
+  "id": "2a0408e1-34b5-4d6b-91fe-e4da21b87b35",
+  "persona": "Chancellor",
+  "names": [
+    "Chancellor"
+  ],
+  "runs": 4,
+  "bestRank": 84,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2473506,
+  "weeksActive": [
+    -90,
+    -89,
+    -59,
+    -40
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 408,
+      "ms": 2473506,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 594,
+      "ms": 3168923,
+      "dish": "Pies"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 199,
+      "ms": 2998790,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 84,
+      "ms": 3214615,
+      "dish": "Stir Fry"
+    }
+  ]
+}

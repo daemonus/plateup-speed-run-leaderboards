@@ -1,0 +1,66 @@
+{
+  "id": "0995ec17-9279-4d1e-b651-56deb16f527d",
+  "persona": "kai_hoi",
+  "names": [
+    "kai_hoi"
+  ],
+  "runs": 6,
+  "bestRank": 186,
+  "worstRank": 798,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3642434,
+  "weeksActive": [
+    -42,
+    -41,
+    -40,
+    -37,
+    -35,
+    -31
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 242,
+      "ms": 6142210,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 380,
+      "ms": 5559105,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 186,
+      "ms": 4299716,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 798,
+      "ms": 4220329,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 211,
+      "ms": 4909197,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 430,
+      "ms": 3642434,
+      "dish": "Pies"
+    }
+  ]
+}

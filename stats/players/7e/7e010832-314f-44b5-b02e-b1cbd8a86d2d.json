@@ -1,0 +1,34 @@
+{
+  "id": "7e010832-314f-44b5-b02e-b1cbd8a86d2d",
+  "persona": "Tony",
+  "names": [
+    "Tony"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 100,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2551827,
+  "weeksActive": [
+    -48,
+    -34
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 93,
+      "ms": 3579321,
+      "dish": "Burgers"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 100,
+      "ms": 2551827,
+      "dish": "Pies"
+    }
+  ]
+}

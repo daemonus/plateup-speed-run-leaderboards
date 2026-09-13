@@ -1,0 +1,50 @@
+{
+  "id": "fc08b222-6949-4a7c-9776-47b77dca2ed7",
+  "persona": "Alpaka",
+  "names": [
+    "Alpaka"
+  ],
+  "runs": 4,
+  "bestRank": 47,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2647705,
+  "weeksActive": [
+    -26,
+    -25,
+    -23,
+    -19
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 47,
+      "ms": 2647705,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 432,
+      "ms": 4346221,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 114,
+      "ms": 3185370,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 142,
+      "ms": 2952874,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

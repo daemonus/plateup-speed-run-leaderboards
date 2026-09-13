@@ -1,0 +1,50 @@
+{
+  "id": "9149fba2-475b-4135-8e9b-06fad1191185",
+  "persona": "SwiftFox",
+  "names": [
+    "SwiftFox"
+  ],
+  "runs": 4,
+  "bestRank": 421,
+  "worstRank": 592,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3246789,
+  "weeksActive": [
+    -84,
+    -83,
+    -82,
+    -63
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 592,
+      "ms": 3989705,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 545,
+      "ms": 5429842,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 421,
+      "ms": 3246789,
+      "dish": "Fish"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 561,
+      "ms": 4988206,
+      "dish": "Stir Fry"
+    }
+  ]
+}

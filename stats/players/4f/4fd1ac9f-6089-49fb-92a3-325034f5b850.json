@@ -1,0 +1,50 @@
+{
+  "id": "4fd1ac9f-6089-49fb-92a3-325034f5b850",
+  "persona": "\u59EB",
+  "names": [
+    "\u59EB"
+  ],
+  "runs": 4,
+  "bestRank": 320,
+  "worstRank": 463,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2860428,
+  "weeksActive": [
+    39,
+    41,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 339,
+      "ms": 5633747,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 463,
+      "ms": 2860428,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 419,
+      "ms": 3140029,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 320,
+      "ms": 3576269,
+      "dish": "Breakfast"
+    }
+  ]
+}

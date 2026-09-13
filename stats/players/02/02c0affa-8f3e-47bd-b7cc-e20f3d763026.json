@@ -1,0 +1,42 @@
+{
+  "id": "02c0affa-8f3e-47bd-b7cc-e20f3d763026",
+  "persona": "susan.borrett",
+  "names": [
+    "susan.borrett"
+  ],
+  "runs": 3,
+  "bestRank": 23,
+  "worstRank": 243,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2027422,
+  "weeksActive": [
+    -89,
+    -87,
+    -85
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 243,
+      "ms": 2309787,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 53,
+      "ms": 2224326,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 23,
+      "ms": 2027422,
+      "dish": "Stir Fry"
+    }
+  ]
+}

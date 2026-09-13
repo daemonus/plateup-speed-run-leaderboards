@@ -1,0 +1,42 @@
+{
+  "id": "4bb224aa-e3fb-4d4e-8827-085c7529380b",
+  "persona": "Loca",
+  "names": [
+    "Loca"
+  ],
+  "runs": 3,
+  "bestRank": 373,
+  "worstRank": 1280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3684289,
+  "weeksActive": [
+    -94,
+    61,
+    63
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1280,
+      "ms": 3788605,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 373,
+      "ms": 7784868,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 443,
+      "ms": 3684289,
+      "dish": "Pizza"
+    }
+  ]
+}

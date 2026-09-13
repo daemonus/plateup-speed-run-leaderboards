@@ -1,0 +1,50 @@
+{
+  "id": "320a02ff-2660-4564-8e3f-a58895c9ff79",
+  "persona": "kudo_love695172",
+  "names": [
+    "kudo_love695172"
+  ],
+  "runs": 4,
+  "bestRank": 274,
+  "worstRank": 519,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3324236,
+  "weeksActive": [
+    -5,
+    -4,
+    8,
+    10
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 473,
+      "ms": 4858525,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 448,
+      "ms": 4330083,
+      "dish": "Pies"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 519,
+      "ms": 3324236,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 274,
+      "ms": 5201744,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2f87692d-52f2-467e-92bd-1e8c98149bd5",
+  "persona": "Saorsa",
+  "names": [
+    "Saorsa"
+  ],
+  "runs": 3,
+  "bestRank": 218,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3393974,
+  "weeksActive": [
+    2,
+    3,
+    19
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 218,
+      "ms": 3611475,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 345,
+      "ms": 3393974,
+      "dish": "Fish"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 364,
+      "ms": 4821913,
+      "dish": "Pizza"
+    }
+  ]
+}

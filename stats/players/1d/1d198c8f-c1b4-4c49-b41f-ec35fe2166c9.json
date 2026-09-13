@@ -1,0 +1,42 @@
+{
+  "id": "1d198c8f-c1b4-4c49-b41f-ec35fe2166c9",
+  "persona": "Puck",
+  "names": [
+    "Puck"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2966756,
+  "weeksActive": [
+    -82,
+    -77,
+    42
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 439,
+      "ms": 3287366,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 267,
+      "ms": 2966756,
+      "dish": "Pies"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 249,
+      "ms": 6894564,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c210be1b-b0e6-47d4-8645-268f77d3ff40",
+  "persona": "Spaicd",
+  "names": [
+    "Spaicd"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 327,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1902629,
+  "weeksActive": [
+    -92,
+    -91,
+    -32
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 327,
+      "ms": 2961640,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 205,
+      "ms": 1902629,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 316,
+      "ms": 3117416,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b44a21d3-cef9-4217-bdeb-5325bb24895f",
+  "persona": "FizzyElf",
+  "names": [
+    "FizzyElf"
+  ],
+  "runs": 3,
+  "bestRank": 72,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2359104,
+  "weeksActive": [
+    1,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 442,
+      "ms": 5223347,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 72,
+      "ms": 2359104,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 154,
+      "ms": 3063508,
+      "dish": "Breakfast"
+    }
+  ]
+}

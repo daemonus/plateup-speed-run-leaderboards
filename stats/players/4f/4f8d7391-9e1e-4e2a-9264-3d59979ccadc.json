@@ -1,0 +1,42 @@
+{
+  "id": "4f8d7391-9e1e-4e2a-9264-3d59979ccadc",
+  "persona": "Crybaby",
+  "names": [
+    "Crybaby"
+  ],
+  "runs": 3,
+  "bestRank": 104,
+  "worstRank": 123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2401128,
+  "weeksActive": [
+    28,
+    44,
+    47
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 123,
+      "ms": 2401128,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 104,
+      "ms": 2543866,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 111,
+      "ms": 2890424,
+      "dish": "Pizza"
+    }
+  ]
+}

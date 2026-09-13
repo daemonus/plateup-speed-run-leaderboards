@@ -1,0 +1,42 @@
+{
+  "id": "46b6d00f-e872-4bcf-94e5-2375b12da187",
+  "persona": "dokon1904",
+  "names": [
+    "dokon1904"
+  ],
+  "runs": 3,
+  "bestRank": 173,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2549644,
+  "weeksActive": [
+    50,
+    56,
+    58
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 173,
+      "ms": 4306773,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 432,
+      "ms": 2549644,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 199,
+      "ms": 2732353,
+      "dish": "Turkey"
+    }
+  ]
+}

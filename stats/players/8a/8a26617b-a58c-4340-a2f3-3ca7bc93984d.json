@@ -1,0 +1,50 @@
+{
+  "id": "8a26617b-a58c-4340-a2f3-3ca7bc93984d",
+  "persona": "Aracne",
+  "names": [
+    "Aracne"
+  ],
+  "runs": 4,
+  "bestRank": 269,
+  "worstRank": 896,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4595812,
+  "weeksActive": [
+    -50,
+    -49,
+    -31,
+    -16
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 321,
+      "ms": 14299565,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 269,
+      "ms": 10396090,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 896,
+      "ms": 6495001,
+      "dish": "Pies"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 590,
+      "ms": 4595812,
+      "dish": "Pies"
+    }
+  ]
+}

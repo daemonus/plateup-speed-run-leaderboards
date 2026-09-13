@@ -1,0 +1,74 @@
+{
+  "id": "fa288eb3-1cf2-4656-afcf-e97e5bbcdf5e",
+  "persona": "goldenJester",
+  "names": [
+    "goldenJester"
+  ],
+  "runs": 7,
+  "bestRank": 300,
+  "worstRank": 926,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3905950,
+  "weeksActive": [
+    62,
+    63,
+    64,
+    65,
+    66,
+    68,
+    69
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 574,
+      "ms": 5135047,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 502,
+      "ms": 3905950,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 926,
+      "ms": 4429861,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 392,
+      "ms": 5587208,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 435,
+      "ms": 6220915,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 507,
+      "ms": 4544114,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 300,
+      "ms": 6628854,
+      "dish": "Burgers"
+    }
+  ]
+}

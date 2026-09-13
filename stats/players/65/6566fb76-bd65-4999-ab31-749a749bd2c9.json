@@ -1,0 +1,50 @@
+{
+  "id": "6566fb76-bd65-4999-ab31-749a749bd2c9",
+  "persona": "Silent_Ranger",
+  "names": [
+    "Silent_Ranger"
+  ],
+  "runs": 4,
+  "bestRank": 161,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3216677,
+  "weeksActive": [
+    8,
+    9,
+    10,
+    24
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 530,
+      "ms": 3339493,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 238,
+      "ms": 3216677,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 161,
+      "ms": 3852092,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 258,
+      "ms": 3397126,
+      "dish": "Pies"
+    }
+  ]
+}

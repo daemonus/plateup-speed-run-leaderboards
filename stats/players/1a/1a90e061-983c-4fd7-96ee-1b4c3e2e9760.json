@@ -1,0 +1,42 @@
+{
+  "id": "1a90e061-983c-4fd7-96ee-1b4c3e2e9760",
+  "persona": "Risoraka",
+  "names": [
+    "Risoraka"
+  ],
+  "runs": 3,
+  "bestRank": 43,
+  "worstRank": 54,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1476220,
+  "weeksActive": [
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 44,
+      "ms": 1476220,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 43,
+      "ms": 1502260,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 54,
+      "ms": 2028131,
+      "dish": "Pies"
+    }
+  ]
+}

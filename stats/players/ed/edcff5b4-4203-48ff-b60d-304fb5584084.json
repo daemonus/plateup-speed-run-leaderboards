@@ -1,0 +1,50 @@
+{
+  "id": "edcff5b4-4203-48ff-b60d-304fb5584084",
+  "persona": "esperanza210203",
+  "names": [
+    "esperanza210203"
+  ],
+  "runs": 4,
+  "bestRank": 197,
+  "worstRank": 695,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5191610,
+  "weeksActive": [
+    -13,
+    -11,
+    10,
+    15
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 338,
+      "ms": 6078951,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 197,
+      "ms": 5836459,
+      "dish": "Burgers"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 273,
+      "ms": 5191610,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 695,
+      "ms": 5724357,
+      "dish": "Turkey"
+    }
+  ]
+}

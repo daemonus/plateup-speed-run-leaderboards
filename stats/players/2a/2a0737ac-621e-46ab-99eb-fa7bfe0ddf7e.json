@@ -1,0 +1,42 @@
+{
+  "id": "2a0737ac-621e-46ab-99eb-fa7bfe0ddf7e",
+  "persona": "sach10",
+  "names": [
+    "sach10"
+  ],
+  "runs": 3,
+  "bestRank": 103,
+  "worstRank": 151,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2249115,
+  "weeksActive": [
+    -30,
+    -25,
+    -18
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 151,
+      "ms": 2249115,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 113,
+      "ms": 2911002,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 103,
+      "ms": 2706820,
+      "dish": "Fish"
+    }
+  ]
+}

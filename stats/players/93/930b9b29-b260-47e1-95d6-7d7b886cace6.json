@@ -1,0 +1,50 @@
+{
+  "id": "930b9b29-b260-47e1-95d6-7d7b886cace6",
+  "persona": "soggybeartoast",
+  "names": [
+    "soggybeartoast"
+  ],
+  "runs": 4,
+  "bestRank": 142,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2227325,
+  "weeksActive": [
+    -70,
+    84,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 142,
+      "ms": 3317424,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 456,
+      "ms": 3116883,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 232,
+      "ms": 3219516,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 212,
+      "ms": 2227325,
+      "dish": "Sundaes"
+    }
+  ]
+}

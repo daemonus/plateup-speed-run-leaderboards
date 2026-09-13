@@ -1,0 +1,66 @@
+{
+  "id": "58e0aa14-a0d8-4086-9eee-82fb2e4279bb",
+  "persona": "Hiro",
+  "names": [
+    "Hiro"
+  ],
+  "runs": 6,
+  "bestRank": 389,
+  "worstRank": 2424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3533347,
+  "weeksActive": [
+    -93,
+    -92,
+    -73,
+    -72,
+    38,
+    82
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2424,
+      "ms": 3533347,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 803,
+      "ms": 5703135,
+      "dish": "Steak"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 389,
+      "ms": 9344750,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 860,
+      "ms": 6379274,
+      "dish": "Pies"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 535,
+      "ms": 8068754,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 656,
+      "ms": 9464240,
+      "dish": "Pizza"
+    }
+  ]
+}

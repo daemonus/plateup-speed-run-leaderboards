@@ -1,0 +1,66 @@
+{
+  "id": "5e3bd309-ac40-4561-bbb4-9c372cf43cdc",
+  "persona": "Kirsebaer",
+  "names": [
+    "Kirsebaer"
+  ],
+  "runs": 6,
+  "bestRank": 87,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2319754,
+  "weeksActive": [
+    7,
+    9,
+    12,
+    14,
+    16,
+    18
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 120,
+      "ms": 2783741,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 277,
+      "ms": 3420097,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 186,
+      "ms": 2319754,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 121,
+      "ms": 2814740,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 185,
+      "ms": 3835187,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 87,
+      "ms": 2913656,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

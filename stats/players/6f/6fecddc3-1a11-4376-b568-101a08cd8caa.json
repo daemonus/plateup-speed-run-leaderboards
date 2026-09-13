@@ -1,0 +1,50 @@
+{
+  "id": "6fecddc3-1a11-4376-b568-101a08cd8caa",
+  "persona": "Alberto Einstein",
+  "names": [
+    "Alberto Einstein"
+  ],
+  "runs": 4,
+  "bestRank": 304,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2264750,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 712,
+      "ms": 2268685,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 582,
+      "ms": 3704310,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 491,
+      "ms": 2314425,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 304,
+      "ms": 2264750,
+      "dish": "Fish"
+    }
+  ]
+}

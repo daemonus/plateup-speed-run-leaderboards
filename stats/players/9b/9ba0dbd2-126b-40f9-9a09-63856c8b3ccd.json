@@ -1,0 +1,58 @@
+{
+  "id": "9ba0dbd2-126b-40f9-9a09-63856c8b3ccd",
+  "persona": "bennet.stormfire",
+  "names": [
+    "bennet.stormfire"
+  ],
+  "runs": 5,
+  "bestRank": 224,
+  "worstRank": 705,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3571241,
+  "weeksActive": [
+    -85,
+    -80,
+    -32,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 230,
+      "ms": 4118696,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 224,
+      "ms": 4428577,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 705,
+      "ms": 3931877,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 541,
+      "ms": 4731646,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 642,
+      "ms": 3571241,
+      "dish": "Sundaes"
+    }
+  ]
+}

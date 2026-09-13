@@ -1,0 +1,42 @@
+{
+  "id": "61d87670-1632-4a86-82f2-c01675fb2ce4",
+  "persona": "KnightedNarwhal",
+  "names": [
+    "KnightedNarwhal"
+  ],
+  "runs": 3,
+  "bestRank": 160,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3964186,
+  "weeksActive": [
+    -8,
+    45,
+    48
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 320,
+      "ms": 5274485,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 160,
+      "ms": 3964186,
+      "dish": "Salad"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 194,
+      "ms": 4913803,
+      "dish": "Pizza"
+    }
+  ]
+}

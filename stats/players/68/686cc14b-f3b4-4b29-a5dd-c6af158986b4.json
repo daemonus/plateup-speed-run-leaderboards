@@ -1,0 +1,42 @@
+{
+  "id": "686cc14b-f3b4-4b29-a5dd-c6af158986b4",
+  "persona": "joan_of_utah",
+  "names": [
+    "joan_of_utah"
+  ],
+  "runs": 3,
+  "bestRank": 320,
+  "worstRank": 1495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2884930,
+  "weeksActive": [
+    -91,
+    -88,
+    -71
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1495,
+      "ms": 3814316,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 581,
+      "ms": 4046598,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 320,
+      "ms": 2884930,
+      "dish": "Turkey"
+    }
+  ]
+}

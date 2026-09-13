@@ -1,0 +1,50 @@
+{
+  "id": "a91702b0-0e96-4df6-97b2-35b23d5aab8c",
+  "persona": "gabz49242",
+  "names": [
+    "gabz49242"
+  ],
+  "runs": 4,
+  "bestRank": 229,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3305705,
+  "weeksActive": [
+    -72,
+    -71,
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 441,
+      "ms": 3976682,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 547,
+      "ms": 3305705,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 229,
+      "ms": 3725760,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 353,
+      "ms": 4987583,
+      "dish": "Stir Fry"
+    }
+  ]
+}

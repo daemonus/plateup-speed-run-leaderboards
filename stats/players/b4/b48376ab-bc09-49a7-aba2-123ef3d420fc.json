@@ -1,0 +1,42 @@
+{
+  "id": "b48376ab-bc09-49a7-aba2-123ef3d420fc",
+  "persona": "Venom",
+  "names": [
+    "Venom"
+  ],
+  "runs": 3,
+  "bestRank": 482,
+  "worstRank": 822,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4213771,
+  "weeksActive": [
+    20,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 822,
+      "ms": 4213771,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 574,
+      "ms": 5304546,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 482,
+      "ms": 4842039,
+      "dish": "Pies"
+    }
+  ]
+}

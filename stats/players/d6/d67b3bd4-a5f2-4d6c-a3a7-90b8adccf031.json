@@ -1,0 +1,58 @@
+{
+  "id": "d67b3bd4-a5f2-4d6c-a3a7-90b8adccf031",
+  "persona": "Moopsy",
+  "names": [
+    "Moopsy"
+  ],
+  "runs": 5,
+  "bestRank": 148,
+  "worstRank": 525,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2779385,
+  "weeksActive": [
+    -15,
+    -9,
+    15,
+    16,
+    36
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 525,
+      "ms": 4509895,
+      "dish": "Fish"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 148,
+      "ms": 4782012,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 450,
+      "ms": 3429112,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 331,
+      "ms": 4626578,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 213,
+      "ms": 2779385,
+      "dish": "Fish"
+    }
+  ]
+}

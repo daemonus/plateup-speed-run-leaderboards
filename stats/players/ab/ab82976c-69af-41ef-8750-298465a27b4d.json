@@ -1,0 +1,50 @@
+{
+  "id": "ab82976c-69af-41ef-8750-298465a27b4d",
+  "persona": "Twisted Euphoria",
+  "names": [
+    "Twisted Euphoria"
+  ],
+  "runs": 4,
+  "bestRank": 482,
+  "worstRank": 2865,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4519230,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -63
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1792,
+      "ms": 7969142,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2865,
+      "ms": 4709860,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 821,
+      "ms": 7403530,
+      "dish": "Steak"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 482,
+      "ms": 4519230,
+      "dish": "Stir Fry"
+    }
+  ]
+}

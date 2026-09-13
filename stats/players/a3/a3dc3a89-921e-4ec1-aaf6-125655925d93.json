@@ -1,0 +1,34 @@
+{
+  "id": "a3dc3a89-921e-4ec1-aaf6-125655925d93",
+  "persona": "Jeco",
+  "names": [
+    "Jeco"
+  ],
+  "runs": 2,
+  "bestRank": 477,
+  "worstRank": 663,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3607878,
+  "weeksActive": [
+    43,
+    52
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 663,
+      "ms": 4164009,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 477,
+      "ms": 3607878,
+      "dish": "Fish"
+    }
+  ]
+}

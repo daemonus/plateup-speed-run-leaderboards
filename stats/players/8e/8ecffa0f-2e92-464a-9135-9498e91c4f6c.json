@@ -1,0 +1,50 @@
+{
+  "id": "8ecffa0f-2e92-464a-9135-9498e91c4f6c",
+  "persona": "dlesmonde2001",
+  "names": [
+    "dlesmonde2001"
+  ],
+  "runs": 4,
+  "bestRank": 149,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2256032,
+  "weeksActive": [
+    -49,
+    -47,
+    8,
+    24
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 174,
+      "ms": 4048080,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 417,
+      "ms": 4803273,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 149,
+      "ms": 2256032,
+      "dish": "Fish"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 249,
+      "ms": 3340101,
+      "dish": "Pies"
+    }
+  ]
+}

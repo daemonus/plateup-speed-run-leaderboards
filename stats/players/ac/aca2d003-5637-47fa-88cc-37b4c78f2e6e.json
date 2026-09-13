@@ -1,0 +1,66 @@
+{
+  "id": "aca2d003-5637-47fa-88cc-37b4c78f2e6e",
+  "persona": "LucasScooter",
+  "names": [
+    "LucasScooter"
+  ],
+  "runs": 6,
+  "bestRank": 323,
+  "worstRank": 630,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3181290,
+  "weeksActive": [
+    44,
+    46,
+    52,
+    56,
+    71,
+    72
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 485,
+      "ms": 5569087,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 545,
+      "ms": 5040351,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 456,
+      "ms": 3537973,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 630,
+      "ms": 3181290,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 323,
+      "ms": 3961696,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 354,
+      "ms": 4745597,
+      "dish": "Breakfast"
+    }
+  ]
+}

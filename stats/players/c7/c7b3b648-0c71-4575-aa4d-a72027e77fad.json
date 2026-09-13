@@ -1,0 +1,34 @@
+{
+  "id": "c7b3b648-0c71-4575-aa4d-a72027e77fad",
+  "persona": "HAWOO",
+  "names": [
+    "HAWOO"
+  ],
+  "runs": 2,
+  "bestRank": 1446,
+  "worstRank": 2441,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3550102,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2441,
+      "ms": 3550102,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1446,
+      "ms": 3678423,
+      "dish": "Fish"
+    }
+  ]
+}

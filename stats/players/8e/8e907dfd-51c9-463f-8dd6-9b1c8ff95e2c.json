@@ -1,0 +1,50 @@
+{
+  "id": "8e907dfd-51c9-463f-8dd6-9b1c8ff95e2c",
+  "persona": "Joan",
+  "names": [
+    "Joan"
+  ],
+  "runs": 4,
+  "bestRank": 186,
+  "worstRank": 415,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2030916,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 186,
+      "ms": 2349998,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 415,
+      "ms": 2030916,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 289,
+      "ms": 2827614,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 352,
+      "ms": 2142760,
+      "dish": "Fish"
+    }
+  ]
+}

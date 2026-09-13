@@ -1,0 +1,50 @@
+{
+  "id": "24892acd-00c7-48dd-9aaa-2c43ca10d149",
+  "persona": "sakaf6948",
+  "names": [
+    "sakaf6948"
+  ],
+  "runs": 4,
+  "bestRank": 100,
+  "worstRank": 1021,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2148475,
+  "weeksActive": [
+    -75,
+    -71,
+    -67,
+    -66
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1021,
+      "ms": 5205204,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 100,
+      "ms": 2148475,
+      "dish": "Turkey"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 572,
+      "ms": 5500436,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 248,
+      "ms": 3901194,
+      "dish": "Turkey"
+    }
+  ]
+}

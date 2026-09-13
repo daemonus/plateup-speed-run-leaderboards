@@ -1,0 +1,58 @@
+{
+  "id": "fbfd5fee-d512-4e86-b511-5638dad73157",
+  "persona": "Me",
+  "names": [
+    "Me"
+  ],
+  "runs": 5,
+  "bestRank": 361,
+  "worstRank": 1695,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2701334,
+  "weeksActive": [
+    -93,
+    -91,
+    -87,
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1695,
+      "ms": 2932197,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1241,
+      "ms": 3316390,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 450,
+      "ms": 3990413,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 361,
+      "ms": 2701334,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 434,
+      "ms": 3309826,
+      "dish": "Fish"
+    }
+  ]
+}

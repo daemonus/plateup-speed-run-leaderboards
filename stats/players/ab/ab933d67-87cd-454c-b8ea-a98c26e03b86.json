@@ -1,0 +1,58 @@
+{
+  "id": "ab933d67-87cd-454c-b8ea-a98c26e03b86",
+  "persona": "Amoral",
+  "names": [
+    "Amoral"
+  ],
+  "runs": 5,
+  "bestRank": 67,
+  "worstRank": 353,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2146033,
+  "weeksActive": [
+    -91,
+    -83,
+    -62,
+    -59,
+    -58
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 353,
+      "ms": 2146033,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 206,
+      "ms": 2836418,
+      "dish": "Steak"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 116,
+      "ms": 2772392,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 97,
+      "ms": 2481477,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 67,
+      "ms": 2950853,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

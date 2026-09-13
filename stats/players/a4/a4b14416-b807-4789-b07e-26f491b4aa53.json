@@ -1,0 +1,42 @@
+{
+  "id": "a4b14416-b807-4789-b07e-26f491b4aa53",
+  "persona": "Half",
+  "names": [
+    "Half"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2542506,
+  "weeksActive": [
+    -53,
+    -51,
+    9
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 130,
+      "ms": 3447350,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 153,
+      "ms": 2542506,
+      "dish": "Turkey"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 323,
+      "ms": 3583923,
+      "dish": "Breakfast"
+    }
+  ]
+}

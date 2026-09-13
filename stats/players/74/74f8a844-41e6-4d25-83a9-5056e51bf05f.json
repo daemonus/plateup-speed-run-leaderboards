@@ -1,0 +1,42 @@
+{
+  "id": "74f8a844-41e6-4d25-83a9-5056e51bf05f",
+  "persona": "yuzu490215210",
+  "names": [
+    "yuzu490215210"
+  ],
+  "runs": 3,
+  "bestRank": 34,
+  "worstRank": 115,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2311345,
+  "weeksActive": [
+    -61,
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 78,
+      "ms": 2311345,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 34,
+      "ms": 2592893,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 115,
+      "ms": 2601383,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

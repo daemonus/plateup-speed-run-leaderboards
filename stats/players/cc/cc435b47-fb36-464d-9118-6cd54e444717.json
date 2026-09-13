@@ -1,0 +1,34 @@
+{
+  "id": "cc435b47-fb36-464d-9118-6cd54e444717",
+  "persona": "ImNotForgive",
+  "names": [
+    "ImNotForgive"
+  ],
+  "runs": 2,
+  "bestRank": 105,
+  "worstRank": 254,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3060614,
+  "weeksActive": [
+    51,
+    69
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 254,
+      "ms": 4277408,
+      "dish": "Salad"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 105,
+      "ms": 3060614,
+      "dish": "Burgers"
+    }
+  ]
+}

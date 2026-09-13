@@ -1,0 +1,34 @@
+{
+  "id": "1d58954e-36ca-4540-bad5-c358d2235e01",
+  "persona": "Yanks",
+  "names": [
+    "Yanks"
+  ],
+  "runs": 2,
+  "bestRank": 859,
+  "worstRank": 1157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2350761,
+  "weeksActive": [
+    -93,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 859,
+      "ms": 2350761,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1157,
+      "ms": 4623884,
+      "dish": "Fish"
+    }
+  ]
+}

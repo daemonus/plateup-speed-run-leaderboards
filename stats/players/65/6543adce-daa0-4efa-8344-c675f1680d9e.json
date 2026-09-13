@@ -1,0 +1,34 @@
+{
+  "id": "6543adce-daa0-4efa-8344-c675f1680d9e",
+  "persona": "RB\u003E",
+  "names": [
+    "RB\u003E"
+  ],
+  "runs": 2,
+  "bestRank": 250,
+  "worstRank": 330,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4362601,
+  "weeksActive": [
+    -49,
+    60
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 250,
+      "ms": 5785787,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 330,
+      "ms": 4362601,
+      "dish": "Burgers"
+    }
+  ]
+}

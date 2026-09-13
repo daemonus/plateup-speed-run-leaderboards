@@ -1,0 +1,50 @@
+{
+  "id": "51ba10be-5dbb-48f8-ae7d-2ea5d8dd0269",
+  "persona": "CodeAKota",
+  "names": [
+    "CodeAKota"
+  ],
+  "runs": 4,
+  "bestRank": 115,
+  "worstRank": 317,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2622323,
+  "weeksActive": [
+    18,
+    20,
+    28,
+    30
+  ],
+  "history": [
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 285,
+      "ms": 5314308,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 317,
+      "ms": 2622323,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 197,
+      "ms": 2807200,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 115,
+      "ms": 2690419,
+      "dish": "Breakfast"
+    }
+  ]
+}

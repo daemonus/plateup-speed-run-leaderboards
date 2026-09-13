@@ -1,0 +1,34 @@
+{
+  "id": "994d3561-6b1c-4cf6-929e-0e6bd3126a0b",
+  "persona": "Spinable",
+  "names": [
+    "Spinable"
+  ],
+  "runs": 2,
+  "bestRank": 347,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4030452,
+  "weeksActive": [
+    57,
+    85
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 387,
+      "ms": 4082520,
+      "dish": "Salad"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 347,
+      "ms": 4030452,
+      "dish": "Fish"
+    }
+  ]
+}

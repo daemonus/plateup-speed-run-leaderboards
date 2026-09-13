@@ -1,0 +1,42 @@
+{
+  "id": "ed00c11e-3b99-4749-9817-bf1140e51505",
+  "persona": "MaidCorn",
+  "names": [
+    "MaidCorn"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 640,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3621754,
+  "weeksActive": [
+    17,
+    18,
+    20
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 263,
+      "ms": 4798116,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 281,
+      "ms": 5207461,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 640,
+      "ms": 3621754,
+      "dish": "Turkey"
+    }
+  ]
+}

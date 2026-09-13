@@ -1,0 +1,34 @@
+{
+  "id": "0402fec4-fe54-4d54-b1a8-df76818e6b61",
+  "persona": "Challenger",
+  "names": [
+    "Challenger"
+  ],
+  "runs": 2,
+  "bestRank": 48,
+  "worstRank": 194,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1786490,
+  "weeksActive": [
+    7,
+    13
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 194,
+      "ms": 3059957,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 48,
+      "ms": 1786490,
+      "dish": "Turkey"
+    }
+  ]
+}

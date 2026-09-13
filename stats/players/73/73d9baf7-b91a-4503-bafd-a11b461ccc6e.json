@@ -1,0 +1,42 @@
+{
+  "id": "73d9baf7-b91a-4503-bafd-a11b461ccc6e",
+  "persona": "wijnen",
+  "names": [
+    "wijnen"
+  ],
+  "runs": 3,
+  "bestRank": 186,
+  "worstRank": 579,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3997514,
+  "weeksActive": [
+    -53,
+    -31,
+    -27
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 440,
+      "ms": 7263102,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 579,
+      "ms": 3997514,
+      "dish": "Pies"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 186,
+      "ms": 4195128,
+      "dish": "Salad"
+    }
+  ]
+}

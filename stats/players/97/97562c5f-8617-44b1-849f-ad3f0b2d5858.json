@@ -1,0 +1,50 @@
+{
+  "id": "97562c5f-8617-44b1-849f-ad3f0b2d5858",
+  "persona": "latelate02",
+  "names": [
+    "latelate02"
+  ],
+  "runs": 4,
+  "bestRank": 79,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2034992,
+  "weeksActive": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 338,
+      "ms": 3846555,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 95,
+      "ms": 2034992,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 367,
+      "ms": 3859148,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 79,
+      "ms": 3135651,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

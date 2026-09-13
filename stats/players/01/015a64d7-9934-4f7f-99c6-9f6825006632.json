@@ -1,0 +1,42 @@
+{
+  "id": "015a64d7-9934-4f7f-99c6-9f6825006632",
+  "persona": "jamita",
+  "names": [
+    "jamita"
+  ],
+  "runs": 3,
+  "bestRank": 382,
+  "worstRank": 894,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4622745,
+  "weeksActive": [
+    55,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 382,
+      "ms": 6824623,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 894,
+      "ms": 4622745,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 509,
+      "ms": 5206814,
+      "dish": "Salad"
+    }
+  ]
+}

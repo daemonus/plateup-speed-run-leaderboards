@@ -1,0 +1,34 @@
+{
+  "id": "bc59d1e7-4e33-4c1d-909a-cc58bd776ab2",
+  "persona": "STRIPE",
+  "names": [
+    "STRIPE"
+  ],
+  "runs": 2,
+  "bestRank": 374,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3849610,
+  "weeksActive": [
+    52,
+    82
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 533,
+      "ms": 3858752,
+      "dish": "Fish"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 374,
+      "ms": 3849610,
+      "dish": "Pizza"
+    }
+  ]
+}

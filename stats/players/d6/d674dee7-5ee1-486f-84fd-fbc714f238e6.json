@@ -1,0 +1,42 @@
+{
+  "id": "d674dee7-5ee1-486f-84fd-fbc714f238e6",
+  "persona": "Mr_Lucky",
+  "names": [
+    "Mr_Lucky"
+  ],
+  "runs": 3,
+  "bestRank": 234,
+  "worstRank": 415,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3674494,
+  "weeksActive": [
+    -61,
+    -58,
+    -55
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 345,
+      "ms": 3674494,
+      "dish": "Fish"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 234,
+      "ms": 4769633,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 415,
+      "ms": 4204753,
+      "dish": "Pizza"
+    }
+  ]
+}

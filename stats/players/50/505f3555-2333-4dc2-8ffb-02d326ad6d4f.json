@@ -1,0 +1,42 @@
+{
+  "id": "505f3555-2333-4dc2-8ffb-02d326ad6d4f",
+  "persona": "hhhh",
+  "names": [
+    "hhhh"
+  ],
+  "runs": 3,
+  "bestRank": 267,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2879123,
+  "weeksActive": [
+    -39,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 495,
+      "ms": 3661299,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 568,
+      "ms": 3380121,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 267,
+      "ms": 2879123,
+      "dish": "Fish"
+    }
+  ]
+}

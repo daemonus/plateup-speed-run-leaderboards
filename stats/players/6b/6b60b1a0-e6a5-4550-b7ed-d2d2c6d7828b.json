@@ -1,0 +1,42 @@
+{
+  "id": "6b60b1a0-e6a5-4550-b7ed-d2d2c6d7828b",
+  "persona": "Regulator",
+  "names": [
+    "Regulator"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 815,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4069262,
+  "weeksActive": [
+    -52,
+    -39,
+    -37
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 149,
+      "ms": 4069262,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 703,
+      "ms": 4851106,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 815,
+      "ms": 4301095,
+      "dish": "Fish"
+    }
+  ]
+}

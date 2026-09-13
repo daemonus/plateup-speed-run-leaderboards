@@ -1,0 +1,50 @@
+{
+  "id": "00eea894-37cd-47fa-a2b5-fb1202ff3d34",
+  "persona": "Faithee",
+  "names": [
+    "Faithee"
+  ],
+  "runs": 4,
+  "bestRank": 92,
+  "worstRank": 593,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2949122,
+  "weeksActive": [
+    15,
+    16,
+    17,
+    19
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 593,
+      "ms": 4031985,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 512,
+      "ms": 6321824,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 229,
+      "ms": 4013177,
+      "dish": "Pizza"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 92,
+      "ms": 2949122,
+      "dish": "Pizza"
+    }
+  ]
+}

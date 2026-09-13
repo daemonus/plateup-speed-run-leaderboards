@@ -1,0 +1,98 @@
+{
+  "id": "5bc887bc-73d7-4eb2-b39e-e080cf2bc640",
+  "persona": "fedetarrats",
+  "names": [
+    "fedetarrats"
+  ],
+  "runs": 10,
+  "bestRank": 142,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1968069,
+  "weeksActive": [
+    41,
+    42,
+    45,
+    46,
+    51,
+    52,
+    55,
+    56,
+    58,
+    69
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 185,
+      "ms": 1968069,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 142,
+      "ms": 3165467,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 159,
+      "ms": 3960591,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 253,
+      "ms": 3220526,
+      "dish": "Pizza"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 200,
+      "ms": 3865289,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 342,
+      "ms": 3162235,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 174,
+      "ms": 3650714,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 244,
+      "ms": 2006275,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 268,
+      "ms": 2973531,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 211,
+      "ms": 3688213,
+      "dish": "Burgers"
+    }
+  ]
+}

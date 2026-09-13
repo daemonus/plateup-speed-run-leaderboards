@@ -1,0 +1,42 @@
+{
+  "id": "3c2e25c7-42a7-47f0-9c61-b8c6f68078f2",
+  "persona": "yuka",
+  "names": [
+    "yuka"
+  ],
+  "runs": 3,
+  "bestRank": 231,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2545489,
+  "weeksActive": [
+    7,
+    8,
+    12
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 281,
+      "ms": 3482488,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 506,
+      "ms": 3299152,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 231,
+      "ms": 2545489,
+      "dish": "Turkey"
+    }
+  ]
+}

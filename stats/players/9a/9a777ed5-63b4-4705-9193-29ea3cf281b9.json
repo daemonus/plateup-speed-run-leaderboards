@@ -1,0 +1,34 @@
+{
+  "id": "9a777ed5-63b4-4705-9193-29ea3cf281b9",
+  "persona": "MagicBunny",
+  "names": [
+    "MagicBunny"
+  ],
+  "runs": 2,
+  "bestRank": 10,
+  "worstRank": 57,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1728437,
+  "weeksActive": [
+    -78,
+    -68
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 57,
+      "ms": 2390090,
+      "dish": "Burgers"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 10,
+      "ms": 1728437,
+      "dish": "Salad"
+    }
+  ]
+}

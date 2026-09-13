@@ -1,0 +1,58 @@
+{
+  "id": "873eab57-339b-44bc-9056-081a438db353",
+  "persona": "WAKASAGI",
+  "names": [
+    "WAKASAGI"
+  ],
+  "runs": 5,
+  "bestRank": 40,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2247606,
+  "weeksActive": [
+    2,
+    5,
+    7,
+    8,
+    68
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 369,
+      "ms": 4704752,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 40,
+      "ms": 2247606,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 127,
+      "ms": 2809232,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 233,
+      "ms": 2591879,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 296,
+      "ms": 3015243,
+      "dish": "Turkey"
+    }
+  ]
+}

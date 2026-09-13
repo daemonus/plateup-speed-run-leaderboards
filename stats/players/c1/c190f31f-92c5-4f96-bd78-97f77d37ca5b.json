@@ -1,0 +1,50 @@
+{
+  "id": "c190f31f-92c5-4f96-bd78-97f77d37ca5b",
+  "persona": "BiggestZzy",
+  "names": [
+    "BiggestZzy"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4310890,
+  "weeksActive": [
+    44,
+    45,
+    46,
+    49
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 473,
+      "ms": 5315410,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 205,
+      "ms": 4973564,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 457,
+      "ms": 4310890,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 164,
+      "ms": 4992153,
+      "dish": "Burgers"
+    }
+  ]
+}

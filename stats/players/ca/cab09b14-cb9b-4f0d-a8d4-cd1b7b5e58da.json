@@ -1,0 +1,42 @@
+{
+  "id": "cab09b14-cb9b-4f0d-a8d4-cd1b7b5e58da",
+  "persona": "Ben",
+  "names": [
+    "Ben"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 1124,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3666371,
+  "weeksActive": [
+    -32,
+    -24,
+    -7
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1124,
+      "ms": 5515775,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 152,
+      "ms": 3666371,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 285,
+      "ms": 5104015,
+      "dish": "Breakfast"
+    }
+  ]
+}

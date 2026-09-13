@@ -1,0 +1,42 @@
+{
+  "id": "fc83e07a-021a-40c0-97cd-13a6833a7b23",
+  "persona": "Aveii",
+  "names": [
+    "Aveii"
+  ],
+  "runs": 3,
+  "bestRank": 231,
+  "worstRank": 357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2685666,
+  "weeksActive": [
+    -39,
+    -38,
+    6
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 357,
+      "ms": 3238882,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 305,
+      "ms": 2685666,
+      "dish": "Turkey"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 231,
+      "ms": 3619868,
+      "dish": "Breakfast"
+    }
+  ]
+}

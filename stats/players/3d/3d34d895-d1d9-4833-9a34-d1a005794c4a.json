@@ -1,0 +1,42 @@
+{
+  "id": "3d34d895-d1d9-4833-9a34-d1a005794c4a",
+  "persona": "^2[TU]^1Red",
+  "names": [
+    "^2[TU]^1Red"
+  ],
+  "runs": 3,
+  "bestRank": 126,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2297107,
+  "weeksActive": [
+    -91,
+    -63,
+    23
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 479,
+      "ms": 2297107,
+      "dish": "Fish"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 126,
+      "ms": 2930511,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 238,
+      "ms": 2808247,
+      "dish": "Turkey"
+    }
+  ]
+}

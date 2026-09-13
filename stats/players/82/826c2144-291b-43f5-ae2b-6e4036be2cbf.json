@@ -1,0 +1,42 @@
+{
+  "id": "826c2144-291b-43f5-ae2b-6e4036be2cbf",
+  "persona": "IDieAlot",
+  "names": [
+    "IDieAlot"
+  ],
+  "runs": 3,
+  "bestRank": 207,
+  "worstRank": 588,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2989027,
+  "weeksActive": [
+    62,
+    64,
+    71
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 505,
+      "ms": 4599294,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 588,
+      "ms": 2989027,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 207,
+      "ms": 3230695,
+      "dish": "Pizza"
+    }
+  ]
+}

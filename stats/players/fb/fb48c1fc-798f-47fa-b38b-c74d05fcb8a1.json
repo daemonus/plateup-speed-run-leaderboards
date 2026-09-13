@@ -1,0 +1,50 @@
+{
+  "id": "fb48c1fc-798f-47fa-b38b-c74d05fcb8a1",
+  "persona": "MelodyNeko",
+  "names": [
+    "MelodyNeko"
+  ],
+  "runs": 4,
+  "bestRank": 239,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3300258,
+  "weeksActive": [
+    -69,
+    -68,
+    -67,
+    85
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 451,
+      "ms": 5914958,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 366,
+      "ms": 7469707,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 561,
+      "ms": 5345068,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 239,
+      "ms": 3300258,
+      "dish": "Fish"
+    }
+  ]
+}

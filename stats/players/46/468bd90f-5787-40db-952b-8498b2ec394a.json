@@ -1,0 +1,42 @@
+{
+  "id": "468bd90f-5787-40db-952b-8498b2ec394a",
+  "persona": "Rexzal",
+  "names": [
+    "Rexzal"
+  ],
+  "runs": 3,
+  "bestRank": 243,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3179979,
+  "weeksActive": [
+    -4,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 243,
+      "ms": 3179979,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 320,
+      "ms": 4598361,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 412,
+      "ms": 4755277,
+      "dish": "Pies"
+    }
+  ]
+}

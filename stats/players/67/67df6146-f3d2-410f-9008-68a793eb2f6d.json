@@ -1,0 +1,42 @@
+{
+  "id": "67df6146-f3d2-410f-9008-68a793eb2f6d",
+  "persona": "L\u0027anguille",
+  "names": [
+    "L\u0027anguille"
+  ],
+  "runs": 3,
+  "bestRank": 213,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2689587,
+  "weeksActive": [
+    -39,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 365,
+      "ms": 3267510,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 335,
+      "ms": 2765731,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 213,
+      "ms": 2689587,
+      "dish": "Fish"
+    }
+  ]
+}

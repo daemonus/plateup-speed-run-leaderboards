@@ -1,0 +1,34 @@
+{
+  "id": "eb8b20ab-9228-491d-b4fe-c40dc2240550",
+  "persona": "Tommy",
+  "names": [
+    "Tommy"
+  ],
+  "runs": 2,
+  "bestRank": 96,
+  "worstRank": 169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2375710,
+  "weeksActive": [
+    -76,
+    -74
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 169,
+      "ms": 2375710,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 96,
+      "ms": 2486269,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "24eec180-6532-4a9c-ae2a-e1adf31e440b",
+  "persona": "William",
+  "names": [
+    "William"
+  ],
+  "runs": 9,
+  "bestRank": 39,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1442466,
+  "weeksActive": [
+    -93,
+    -87,
+    60,
+    61,
+    64,
+    65,
+    69,
+    70,
+    78
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 349,
+      "ms": 1951710,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 254,
+      "ms": 3161308,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 67,
+      "ms": 2576417,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 39,
+      "ms": 2078087,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 64,
+      "ms": 1442466,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 66,
+      "ms": 2478117,
+      "dish": "Pizza"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 173,
+      "ms": 3406238,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 67,
+      "ms": 2640137,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 64,
+      "ms": 2267750,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

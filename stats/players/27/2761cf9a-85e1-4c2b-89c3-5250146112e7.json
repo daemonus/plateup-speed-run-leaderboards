@@ -1,0 +1,42 @@
+{
+  "id": "2761cf9a-85e1-4c2b-89c3-5250146112e7",
+  "persona": "Kuleru",
+  "names": [
+    "Kuleru"
+  ],
+  "runs": 3,
+  "bestRank": 227,
+  "worstRank": 780,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3460890,
+  "weeksActive": [
+    56,
+    57,
+    74
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 780,
+      "ms": 3727892,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 278,
+      "ms": 3460890,
+      "dish": "Salad"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 227,
+      "ms": 4065034,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4cdcb1c0-4449-498d-9bad-72dd574fc854",
+  "persona": "jackyz",
+  "names": [
+    "jackyz"
+  ],
+  "runs": 4,
+  "bestRank": 112,
+  "worstRank": 218,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3093278,
+  "weeksActive": [
+    -49,
+    -48,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 186,
+      "ms": 4182045,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 137,
+      "ms": 5241725,
+      "dish": "Burgers"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 112,
+      "ms": 3173375,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 218,
+      "ms": 3093278,
+      "dish": "Pies"
+    }
+  ]
+}

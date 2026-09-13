@@ -1,0 +1,34 @@
+{
+  "id": "ec92d822-1ccf-4ed1-991a-78eadff58d44",
+  "persona": "SamWidgeMan",
+  "names": [
+    "SamWidgeMan"
+  ],
+  "runs": 2,
+  "bestRank": 459,
+  "worstRank": 579,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4635245,
+  "weeksActive": [
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 579,
+      "ms": 5502441,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 459,
+      "ms": 4635245,
+      "dish": "Pies"
+    }
+  ]
+}

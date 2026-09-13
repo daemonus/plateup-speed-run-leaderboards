@@ -1,0 +1,50 @@
+{
+  "id": "16a7475e-75d1-41de-a791-adcc6f3ff3c9",
+  "persona": "Kooky Kyle",
+  "names": [
+    "Kooky Kyle"
+  ],
+  "runs": 4,
+  "bestRank": 18,
+  "worstRank": 194,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1624974,
+  "weeksActive": [
+    51,
+    52,
+    53,
+    86
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 30,
+      "ms": 2392709,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 18,
+      "ms": 1624974,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 19,
+      "ms": 1918313,
+      "dish": "Pies"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 194,
+      "ms": 2124602,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5bffa932-75a6-4ad9-8aa6-0bd33daa1bb5",
+  "persona": "Sewhent",
+  "names": [
+    "Sewhent"
+  ],
+  "runs": 3,
+  "bestRank": 190,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2181826,
+  "weeksActive": [
+    -94,
+    -93,
+    -83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 222,
+      "ms": 2409262,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 603,
+      "ms": 2181826,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 190,
+      "ms": 2800066,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "42e4a399-ba95-4bcd-93e6-ebc9aa460119",
+  "persona": "ramee",
+  "names": [
+    "ramee"
+  ],
+  "runs": 5,
+  "bestRank": 244,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3060822,
+  "weeksActive": [
+    58,
+    77,
+    83,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 555,
+      "ms": 4412909,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 379,
+      "ms": 3760183,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 525,
+      "ms": 3060822,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 244,
+      "ms": 3323829,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 475,
+      "ms": 4008461,
+      "dish": "Sundaes"
+    }
+  ]
+}

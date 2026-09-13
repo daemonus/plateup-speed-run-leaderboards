@@ -1,0 +1,58 @@
+{
+  "id": "f64dfa32-bb2a-4c16-b3d5-389ee86d1cdd",
+  "persona": "i_y_0121",
+  "names": [
+    "i_y_0121"
+  ],
+  "runs": 5,
+  "bestRank": 15,
+  "worstRank": 219,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1693080,
+  "weeksActive": [
+    -18,
+    -15,
+    15,
+    78,
+    79
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 117,
+      "ms": 2787258,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 219,
+      "ms": 2824855,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 80,
+      "ms": 1866884,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 15,
+      "ms": 1693080,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 20,
+      "ms": 2157293,
+      "dish": "Salad"
+    }
+  ]
+}

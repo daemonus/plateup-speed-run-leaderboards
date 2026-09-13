@@ -1,0 +1,74 @@
+{
+  "id": "317375e8-ac79-44d0-95b8-4d141513cf62",
+  "persona": "Megwig1",
+  "names": [
+    "Megwig1"
+  ],
+  "runs": 7,
+  "bestRank": 63,
+  "worstRank": 333,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2338937,
+  "weeksActive": [
+    -64,
+    -45,
+    -44,
+    33,
+    34,
+    36,
+    39
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 106,
+      "ms": 2914664,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 166,
+      "ms": 2928262,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 333,
+      "ms": 3362515,
+      "dish": "Turkey"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 124,
+      "ms": 3263018,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 65,
+      "ms": 2861027,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 124,
+      "ms": 2338937,
+      "dish": "Fish"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 63,
+      "ms": 2773772,
+      "dish": "Stir Fry"
+    }
+  ]
+}

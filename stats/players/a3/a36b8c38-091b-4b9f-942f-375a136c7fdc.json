@@ -1,0 +1,66 @@
+{
+  "id": "a36b8c38-091b-4b9f-942f-375a136c7fdc",
+  "persona": "Jason",
+  "names": [
+    "Jason"
+  ],
+  "runs": 6,
+  "bestRank": 195,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2248082,
+  "weeksActive": [
+    40,
+    41,
+    54,
+    57,
+    68,
+    82
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 208,
+      "ms": 3803059,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 276,
+      "ms": 2248082,
+      "dish": "Turkey"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 195,
+      "ms": 3834281,
+      "dish": "Burgers"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 341,
+      "ms": 3795709,
+      "dish": "Salad"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 468,
+      "ms": 4051811,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 256,
+      "ms": 3253940,
+      "dish": "Pizza"
+    }
+  ]
+}

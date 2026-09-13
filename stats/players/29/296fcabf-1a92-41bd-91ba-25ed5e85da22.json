@@ -1,0 +1,50 @@
+{
+  "id": "296fcabf-1a92-41bd-91ba-25ed5e85da22",
+  "persona": "Pistol_Pete",
+  "names": [
+    "Pistol_Pete"
+  ],
+  "runs": 4,
+  "bestRank": 45,
+  "worstRank": 192,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2135116,
+  "weeksActive": [
+    -39,
+    -38,
+    -32,
+    59
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 53,
+      "ms": 2135116,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 192,
+      "ms": 2341525,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 45,
+      "ms": 2226531,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 97,
+      "ms": 2762419,
+      "dish": "Salad"
+    }
+  ]
+}

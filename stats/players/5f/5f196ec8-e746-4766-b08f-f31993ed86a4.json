@@ -1,0 +1,50 @@
+{
+  "id": "5f196ec8-e746-4766-b08f-f31993ed86a4",
+  "persona": "Cielinadress",
+  "names": [
+    "Cielinadress"
+  ],
+  "runs": 4,
+  "bestRank": 63,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2553953,
+  "weeksActive": [
+    -75,
+    -67,
+    -7,
+    75
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 304,
+      "ms": 2553953,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 91,
+      "ms": 2939654,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 63,
+      "ms": 3174619,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 369,
+      "ms": 7294348,
+      "dish": "Pies"
+    }
+  ]
+}

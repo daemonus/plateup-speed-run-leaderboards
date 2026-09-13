@@ -1,0 +1,42 @@
+{
+  "id": "8937a0db-c584-4d3e-b0a7-693ef1f7cbce",
+  "persona": "PandaBasedGod",
+  "names": [
+    "PandaBasedGod"
+  ],
+  "runs": 3,
+  "bestRank": 374,
+  "worstRank": 958,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2572329,
+  "weeksActive": [
+    8,
+    41,
+    56
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 958,
+      "ms": 6018761,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 374,
+      "ms": 2572329,
+      "dish": "Turkey"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 712,
+      "ms": 3495889,
+      "dish": "Sundaes"
+    }
+  ]
+}

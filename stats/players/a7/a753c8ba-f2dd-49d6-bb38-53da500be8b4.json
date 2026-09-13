@@ -1,0 +1,34 @@
+{
+  "id": "a753c8ba-f2dd-49d6-bb38-53da500be8b4",
+  "persona": "Artifus",
+  "names": [
+    "Artifus"
+  ],
+  "runs": 2,
+  "bestRank": 374,
+  "worstRank": 564,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4790223,
+  "weeksActive": [
+    60,
+    62
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 374,
+      "ms": 4790223,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 564,
+      "ms": 5015315,
+      "dish": "Pies"
+    }
+  ]
+}

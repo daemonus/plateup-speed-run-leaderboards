@@ -1,0 +1,50 @@
+{
+  "id": "0f8835d9-331f-4617-9f65-0e48d4dff754",
+  "persona": "\u512A\u8863",
+  "names": [
+    "\u512A\u8863"
+  ],
+  "runs": 4,
+  "bestRank": 122,
+  "worstRank": 268,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2334914,
+  "weeksActive": [
+    -2,
+    13,
+    38,
+    40
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 268,
+      "ms": 3366005,
+      "dish": "Pizza"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 149,
+      "ms": 2334914,
+      "dish": "Turkey"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 122,
+      "ms": 2552645,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 193,
+      "ms": 3583590,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "6ac34f3c-e9b4-4232-b013-272acd884063",
+  "persona": "Shirley_Canary",
+  "names": [
+    "Shirley_Canary"
+  ],
+  "runs": 3,
+  "bestRank": 435,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3148616,
+  "weeksActive": [
+    68,
+    71,
+    84
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 435,
+      "ms": 3780244,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 495,
+      "ms": 9029110,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 464,
+      "ms": 3148616,
+      "dish": "Sundaes"
+    }
+  ]
+}

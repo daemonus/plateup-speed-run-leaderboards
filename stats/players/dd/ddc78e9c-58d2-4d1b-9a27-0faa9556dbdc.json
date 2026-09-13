@@ -1,0 +1,50 @@
+{
+  "id": "ddc78e9c-58d2-4d1b-9a27-0faa9556dbdc",
+  "persona": "Viejita",
+  "names": [
+    "Viejita"
+  ],
+  "runs": 4,
+  "bestRank": 72,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1454856,
+  "weeksActive": [
+    83,
+    84,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 136,
+      "ms": 1757743,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 84,
+      "ms": 1504150,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 331,
+      "ms": 3902877,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 72,
+      "ms": 1454856,
+      "dish": "Sundaes"
+    }
+  ]
+}

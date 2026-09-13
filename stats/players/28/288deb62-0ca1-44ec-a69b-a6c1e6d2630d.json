@@ -1,0 +1,50 @@
+{
+  "id": "288deb62-0ca1-44ec-a69b-a6c1e6d2630d",
+  "persona": "macin",
+  "names": [
+    "macin"
+  ],
+  "runs": 4,
+  "bestRank": 695,
+  "worstRank": 2382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3480300,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1709,
+      "ms": 5178921,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2382,
+      "ms": 3480300,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 695,
+      "ms": 4236856,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1592,
+      "ms": 4262289,
+      "dish": "Fish"
+    }
+  ]
+}

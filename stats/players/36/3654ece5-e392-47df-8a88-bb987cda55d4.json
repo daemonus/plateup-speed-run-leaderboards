@@ -1,0 +1,34 @@
+{
+  "id": "3654ece5-e392-47df-8a88-bb987cda55d4",
+  "persona": "Alex",
+  "names": [
+    "Alex"
+  ],
+  "runs": 2,
+  "bestRank": 423,
+  "worstRank": 778,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4847524,
+  "weeksActive": [
+    -82,
+    -79
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 778,
+      "ms": 5219809,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 423,
+      "ms": 4847524,
+      "dish": "Pies"
+    }
+  ]
+}

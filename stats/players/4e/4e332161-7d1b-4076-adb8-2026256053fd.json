@@ -1,0 +1,34 @@
+{
+  "id": "4e332161-7d1b-4076-adb8-2026256053fd",
+  "persona": "simi",
+  "names": [
+    "simi"
+  ],
+  "runs": 2,
+  "bestRank": 538,
+  "worstRank": 755,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4302863,
+  "weeksActive": [
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 538,
+      "ms": 4302863,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 755,
+      "ms": 7059713,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "0295238a-c9d1-4969-8041-3648475831b4",
+  "persona": "Booplay",
+  "names": [
+    "Booplay"
+  ],
+  "runs": 6,
+  "bestRank": 345,
+  "worstRank": 674,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3579498,
+  "weeksActive": [
+    23,
+    58,
+    70,
+    71,
+    72,
+    78
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 383,
+      "ms": 3579498,
+      "dish": "Turkey"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 674,
+      "ms": 6473043,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 345,
+      "ms": 5730333,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 475,
+      "ms": 5942251,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 361,
+      "ms": 4918124,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 353,
+      "ms": 5109053,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

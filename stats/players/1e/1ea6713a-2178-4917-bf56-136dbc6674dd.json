@@ -1,0 +1,50 @@
+{
+  "id": "1ea6713a-2178-4917-bf56-136dbc6674dd",
+  "persona": "Boss Brit",
+  "names": [
+    "Boss Brit"
+  ],
+  "runs": 4,
+  "bestRank": 78,
+  "worstRank": 160,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2387533,
+  "weeksActive": [
+    71,
+    72,
+    73,
+    77
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 78,
+      "ms": 2480096,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 90,
+      "ms": 2647151,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 116,
+      "ms": 2866252,
+      "dish": "Burgers"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 160,
+      "ms": 2387533,
+      "dish": "Sundaes"
+    }
+  ]
+}

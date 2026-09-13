@@ -1,0 +1,58 @@
+{
+  "id": "7daaa964-ba8a-4dc8-958e-7053b8fe5dcf",
+  "persona": "Arcturus",
+  "names": [
+    "Arcturus"
+  ],
+  "runs": 5,
+  "bestRank": 109,
+  "worstRank": 161,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2313855,
+  "weeksActive": [
+    -77,
+    -76,
+    -72,
+    -71,
+    38
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 136,
+      "ms": 2518002,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 151,
+      "ms": 2313855,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 149,
+      "ms": 2869142,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 161,
+      "ms": 2424689,
+      "dish": "Turkey"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 109,
+      "ms": 2490762,
+      "dish": "Pies"
+    }
+  ]
+}

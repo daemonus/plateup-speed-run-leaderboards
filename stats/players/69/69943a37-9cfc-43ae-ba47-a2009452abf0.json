@@ -1,0 +1,42 @@
+{
+  "id": "69943a37-9cfc-43ae-ba47-a2009452abf0",
+  "persona": "fenrir173.13",
+  "names": [
+    "fenrir173.13"
+  ],
+  "runs": 3,
+  "bestRank": 215,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2605776,
+  "weeksActive": [
+    20,
+    42,
+    43
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 603,
+      "ms": 3520821,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 215,
+      "ms": 4143513,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 245,
+      "ms": 2605776,
+      "dish": "Fish"
+    }
+  ]
+}

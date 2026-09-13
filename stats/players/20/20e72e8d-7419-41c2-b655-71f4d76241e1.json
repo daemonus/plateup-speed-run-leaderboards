@@ -1,0 +1,42 @@
+{
+  "id": "20e72e8d-7419-41c2-b655-71f4d76241e1",
+  "persona": "katmon0102",
+  "names": [
+    "katmon0102"
+  ],
+  "runs": 3,
+  "bestRank": 111,
+  "worstRank": 182,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2232040,
+  "weeksActive": [
+    -73,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 150,
+      "ms": 4012444,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 182,
+      "ms": 3036132,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 111,
+      "ms": 2232040,
+      "dish": "Turkey"
+    }
+  ]
+}

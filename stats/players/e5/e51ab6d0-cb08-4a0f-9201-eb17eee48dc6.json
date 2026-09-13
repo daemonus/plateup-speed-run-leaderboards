@@ -1,0 +1,34 @@
+{
+  "id": "e51ab6d0-cb08-4a0f-9201-eb17eee48dc6",
+  "persona": "Odings",
+  "names": [
+    "Odings"
+  ],
+  "runs": 2,
+  "bestRank": 302,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3665025,
+  "weeksActive": [
+    15,
+    16
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 516,
+      "ms": 3665025,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 302,
+      "ms": 4441467,
+      "dish": "Stir Fry"
+    }
+  ]
+}

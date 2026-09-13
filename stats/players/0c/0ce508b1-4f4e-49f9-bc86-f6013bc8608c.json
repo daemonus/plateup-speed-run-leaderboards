@@ -1,0 +1,50 @@
+{
+  "id": "0ce508b1-4f4e-49f9-bc86-f6013bc8608c",
+  "persona": "tataking",
+  "names": [
+    "tataking"
+  ],
+  "runs": 4,
+  "bestRank": 40,
+  "worstRank": 93,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2396565,
+  "weeksActive": [
+    69,
+    70,
+    71,
+    74
+  ],
+  "history": [
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 69,
+      "ms": 2823242,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 40,
+      "ms": 2396565,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 77,
+      "ms": 2478948,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 93,
+      "ms": 3059901,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5647e2c6-0b45-4b67-a035-7174acbca6a2",
+  "persona": "sgreiner64",
+  "names": [
+    "sgreiner64"
+  ],
+  "runs": 4,
+  "bestRank": 97,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2143409,
+  "weeksActive": [
+    -71,
+    -6,
+    -4,
+    28
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 97,
+      "ms": 2143409,
+      "dish": "Turkey"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 157,
+      "ms": 3290654,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 257,
+      "ms": 3232182,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 174,
+      "ms": 2649430,
+      "dish": "Turkey"
+    }
+  ]
+}

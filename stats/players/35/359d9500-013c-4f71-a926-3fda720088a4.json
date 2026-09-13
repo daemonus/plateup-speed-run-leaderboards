@@ -1,0 +1,50 @@
+{
+  "id": "359d9500-013c-4f71-a926-3fda720088a4",
+  "persona": "Mei",
+  "names": [
+    "Mei"
+  ],
+  "runs": 4,
+  "bestRank": 115,
+  "worstRank": 559,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1809678,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 559,
+      "ms": 2923007,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 266,
+      "ms": 1841445,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 262,
+      "ms": 2777502,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 115,
+      "ms": 1809678,
+      "dish": "Fish"
+    }
+  ]
+}

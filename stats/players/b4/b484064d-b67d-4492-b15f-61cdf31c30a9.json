@@ -1,0 +1,58 @@
+{
+  "id": "b484064d-b67d-4492-b15f-61cdf31c30a9",
+  "persona": "Award0321",
+  "names": [
+    "Award0321"
+  ],
+  "runs": 5,
+  "bestRank": 27,
+  "worstRank": 191,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2198098,
+  "weeksActive": [
+    43,
+    48,
+    61,
+    68,
+    82
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 115,
+      "ms": 2198098,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 27,
+      "ms": 2906700,
+      "dish": "Pizza"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 180,
+      "ms": 3103595,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 191,
+      "ms": 2501465,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 90,
+      "ms": 2482121,
+      "dish": "Pizza"
+    }
+  ]
+}

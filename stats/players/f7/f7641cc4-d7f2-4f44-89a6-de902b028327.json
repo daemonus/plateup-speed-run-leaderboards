@@ -1,0 +1,58 @@
+{
+  "id": "f7641cc4-d7f2-4f44-89a6-de902b028327",
+  "persona": "LeeTbeats",
+  "names": [
+    "LeeTbeats"
+  ],
+  "runs": 5,
+  "bestRank": 218,
+  "worstRank": 1040,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3674129,
+  "weeksActive": [
+    -75,
+    -64,
+    2,
+    22,
+    80
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1040,
+      "ms": 5785142,
+      "dish": "Fish"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 433,
+      "ms": 5611339,
+      "dish": "Salad"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 421,
+      "ms": 5183982,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 218,
+      "ms": 3674129,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 358,
+      "ms": 4387659,
+      "dish": "Pizza"
+    }
+  ]
+}

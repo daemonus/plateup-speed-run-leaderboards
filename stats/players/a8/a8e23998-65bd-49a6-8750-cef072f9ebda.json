@@ -1,0 +1,34 @@
+{
+  "id": "a8e23998-65bd-49a6-8750-cef072f9ebda",
+  "persona": "Queenie",
+  "names": [
+    "Queenie"
+  ],
+  "runs": 2,
+  "bestRank": 369,
+  "worstRank": 472,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2718378,
+  "weeksActive": [
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 472,
+      "ms": 4127164,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 369,
+      "ms": 2718378,
+      "dish": "Fish"
+    }
+  ]
+}

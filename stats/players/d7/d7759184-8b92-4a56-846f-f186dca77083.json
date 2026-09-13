@@ -1,0 +1,42 @@
+{
+  "id": "d7759184-8b92-4a56-846f-f186dca77083",
+  "persona": "mfactory",
+  "names": [
+    "mfactory"
+  ],
+  "runs": 3,
+  "bestRank": 112,
+  "worstRank": 259,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3282369,
+  "weeksActive": [
+    -50,
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 112,
+      "ms": 3485548,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 259,
+      "ms": 3833360,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 249,
+      "ms": 3282369,
+      "dish": "Breakfast"
+    }
+  ]
+}

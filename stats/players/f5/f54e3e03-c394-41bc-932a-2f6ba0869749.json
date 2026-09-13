@@ -1,0 +1,34 @@
+{
+  "id": "f54e3e03-c394-41bc-932a-2f6ba0869749",
+  "persona": "NEXUS",
+  "names": [
+    "NEXUS"
+  ],
+  "runs": 2,
+  "bestRank": 15,
+  "worstRank": 149,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1778866,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 149,
+      "ms": 3343403,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 15,
+      "ms": 1778866,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

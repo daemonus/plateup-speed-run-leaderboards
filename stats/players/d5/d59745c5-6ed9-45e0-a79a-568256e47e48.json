@@ -1,0 +1,50 @@
+{
+  "id": "d59745c5-6ed9-45e0-a79a-568256e47e48",
+  "persona": "drain",
+  "names": [
+    "drain"
+  ],
+  "runs": 4,
+  "bestRank": 212,
+  "worstRank": 307,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3305698,
+  "weeksActive": [
+    -6,
+    -5,
+    40,
+    46
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 307,
+      "ms": 4008354,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 232,
+      "ms": 3752282,
+      "dish": "Pizza"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 212,
+      "ms": 3831351,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 269,
+      "ms": 3305698,
+      "dish": "Pizza"
+    }
+  ]
+}

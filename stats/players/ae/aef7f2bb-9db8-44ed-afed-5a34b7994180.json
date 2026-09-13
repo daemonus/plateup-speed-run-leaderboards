@@ -1,0 +1,90 @@
+{
+  "id": "aef7f2bb-9db8-44ed-afed-5a34b7994180",
+  "persona": "Furfurfur",
+  "names": [
+    "Furfurfur"
+  ],
+  "runs": 9,
+  "bestRank": 57,
+  "worstRank": 741,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2844840,
+  "weeksActive": [
+    -60,
+    -59,
+    -53,
+    -52,
+    -48,
+    -47,
+    -46,
+    -42,
+    -18
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 292,
+      "ms": 3967889,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 741,
+      "ms": 6361322,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 279,
+      "ms": 4280952,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 86,
+      "ms": 3351541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 57,
+      "ms": 3208912,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 289,
+      "ms": 3930361,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 166,
+      "ms": 3441107,
+      "dish": "Salad"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 131,
+      "ms": 3613495,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 127,
+      "ms": 2844840,
+      "dish": "Fish"
+    }
+  ]
+}

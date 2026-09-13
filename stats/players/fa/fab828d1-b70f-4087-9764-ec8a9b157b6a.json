@@ -1,0 +1,50 @@
+{
+  "id": "fab828d1-b70f-4087-9764-ec8a9b157b6a",
+  "persona": "electropop",
+  "names": [
+    "electropop"
+  ],
+  "runs": 4,
+  "bestRank": 81,
+  "worstRank": 103,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2294265,
+  "weeksActive": [
+    -52,
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 93,
+      "ms": 3421737,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 103,
+      "ms": 2294265,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 81,
+      "ms": 3186621,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 90,
+      "ms": 3244274,
+      "dish": "Breakfast"
+    }
+  ]
+}

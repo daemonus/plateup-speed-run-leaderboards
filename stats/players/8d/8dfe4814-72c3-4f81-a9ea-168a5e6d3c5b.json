@@ -1,0 +1,34 @@
+{
+  "id": "8dfe4814-72c3-4f81-a9ea-168a5e6d3c5b",
+  "persona": "Bam",
+  "names": [
+    "Bam"
+  ],
+  "runs": 2,
+  "bestRank": 127,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3195713,
+  "weeksActive": [
+    11,
+    16
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 127,
+      "ms": 3195713,
+      "dish": "Salad"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 412,
+      "ms": 5085125,
+      "dish": "Stir Fry"
+    }
+  ]
+}

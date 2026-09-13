@@ -1,0 +1,34 @@
+{
+  "id": "4bcb6cdc-9656-44ac-b49e-0ee970eae8ce",
+  "persona": "Bear",
+  "names": [
+    "Bear"
+  ],
+  "runs": 2,
+  "bestRank": 74,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2516146,
+  "weeksActive": [
+    -30,
+    57
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 344,
+      "ms": 2786079,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 74,
+      "ms": 2516146,
+      "dish": "Salad"
+    }
+  ]
+}

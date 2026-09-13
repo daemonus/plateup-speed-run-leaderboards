@@ -1,0 +1,42 @@
+{
+  "id": "62b47797-74f7-491d-946d-ef47be1ef89f",
+  "persona": "Gven",
+  "names": [
+    "Gven"
+  ],
+  "runs": 3,
+  "bestRank": 183,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2355272,
+  "weeksActive": [
+    -90,
+    -88,
+    -82
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 349,
+      "ms": 2355272,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 331,
+      "ms": 3117778,
+      "dish": "Pies"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 183,
+      "ms": 2394749,
+      "dish": "Fish"
+    }
+  ]
+}

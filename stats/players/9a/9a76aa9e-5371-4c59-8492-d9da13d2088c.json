@@ -1,0 +1,50 @@
+{
+  "id": "9a76aa9e-5371-4c59-8492-d9da13d2088c",
+  "persona": "Coldrise",
+  "names": [
+    "Coldrise"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2807196,
+  "weeksActive": [
+    -38,
+    -37,
+    -22,
+    -18
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 353,
+      "ms": 2807196,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 432,
+      "ms": 3333379,
+      "dish": "Fish"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 130,
+      "ms": 3729880,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 327,
+      "ms": 3602796,
+      "dish": "Fish"
+    }
+  ]
+}

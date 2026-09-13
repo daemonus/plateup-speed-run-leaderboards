@@ -1,0 +1,50 @@
+{
+  "id": "af78cbf3-207b-41f3-81aa-66edc384a5b9",
+  "persona": "Catsniper",
+  "names": [
+    "Catsniper"
+  ],
+  "runs": 4,
+  "bestRank": 60,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1927492,
+  "weeksActive": [
+    -32,
+    6,
+    8,
+    15
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 387,
+      "ms": 3285022,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 60,
+      "ms": 2458251,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 153,
+      "ms": 2265670,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 88,
+      "ms": 1927492,
+      "dish": "Turkey"
+    }
+  ]
+}

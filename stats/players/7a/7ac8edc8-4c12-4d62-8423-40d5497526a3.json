@@ -1,0 +1,82 @@
+{
+  "id": "7ac8edc8-4c12-4d62-8423-40d5497526a3",
+  "persona": "mati",
+  "names": [
+    "mati"
+  ],
+  "runs": 8,
+  "bestRank": 68,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1866309,
+  "weeksActive": [
+    -27,
+    -26,
+    -25,
+    1,
+    12,
+    19,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 215,
+      "ms": 4502778,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 130,
+      "ms": 3353032,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 172,
+      "ms": 3325258,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 109,
+      "ms": 2787266,
+      "dish": "Pies"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 103,
+      "ms": 1926875,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 87,
+      "ms": 2920041,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 68,
+      "ms": 1866309,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 142,
+      "ms": 2811562,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3af21393-586e-4783-8e0f-605f2f6f3072",
+  "persona": "\u6D77\u7EF5\u5B9D\u5B9D\u8BEF\u5165\u94F6\u8DB4\u8DEA\u6C42\u4E0D\u8981\u65E0\u5B54\u4E0D\u5165",
+  "names": [
+    "\u6D77\u7EF5\u5B9D\u5B9D\u8BEF\u5165\u94F6\u8DB4\u8DEA\u6C42\u4E0D\u8981\u65E0\u5B54\u4E0D\u5165"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2570241,
+  "weeksActive": [
+    -18,
+    -17,
+    -16
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 506,
+      "ms": 4200152,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 320,
+      "ms": 4279035,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 143,
+      "ms": 2570241,
+      "dish": "Pies"
+    }
+  ]
+}

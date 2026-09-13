@@ -1,0 +1,42 @@
+{
+  "id": "74227fec-72cb-4c78-a4fb-2e969b058bb5",
+  "persona": "BabyMochi",
+  "names": [
+    "BabyMochi"
+  ],
+  "runs": 3,
+  "bestRank": 223,
+  "worstRank": 814,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4201711,
+  "weeksActive": [
+    -31,
+    -30,
+    -28
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 642,
+      "ms": 4201711,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 814,
+      "ms": 4449747,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 223,
+      "ms": 5516171,
+      "dish": "Burgers"
+    }
+  ]
+}

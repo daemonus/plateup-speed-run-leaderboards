@@ -1,0 +1,42 @@
+{
+  "id": "3f6a9c3e-8041-4adf-9a72-f0bfcf3a1362",
+  "persona": "PHOENIX_BEE2",
+  "names": [
+    "PHOENIX_BEE2"
+  ],
+  "runs": 3,
+  "bestRank": 57,
+  "worstRank": 87,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2050581,
+  "weeksActive": [
+    67,
+    68,
+    76
+  ],
+  "history": [
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 57,
+      "ms": 2308660,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 87,
+      "ms": 2050581,
+      "dish": "Turkey"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 61,
+      "ms": 2564261,
+      "dish": "Salad"
+    }
+  ]
+}

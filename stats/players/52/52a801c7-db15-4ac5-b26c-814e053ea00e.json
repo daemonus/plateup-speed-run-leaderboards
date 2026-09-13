@@ -1,0 +1,42 @@
+{
+  "id": "52a801c7-db15-4ac5-b26c-814e053ea00e",
+  "persona": "Georgtirza",
+  "names": [
+    "Georgtirza"
+  ],
+  "runs": 3,
+  "bestRank": 141,
+  "worstRank": 402,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2952146,
+  "weeksActive": [
+    -61,
+    -22,
+    -19
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 402,
+      "ms": 3979071,
+      "dish": "Fish"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 207,
+      "ms": 4556502,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 141,
+      "ms": 2952146,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

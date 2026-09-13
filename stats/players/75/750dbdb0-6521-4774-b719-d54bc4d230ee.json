@@ -1,0 +1,34 @@
+{
+  "id": "750dbdb0-6521-4774-b719-d54bc4d230ee",
+  "persona": "goodCC",
+  "names": [
+    "goodCC"
+  ],
+  "runs": 2,
+  "bestRank": 268,
+  "worstRank": 276,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3756906,
+  "weeksActive": [
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 268,
+      "ms": 3756906,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 276,
+      "ms": 4569595,
+      "dish": "Pizza"
+    }
+  ]
+}

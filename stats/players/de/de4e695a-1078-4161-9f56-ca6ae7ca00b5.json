@@ -1,0 +1,34 @@
+{
+  "id": "de4e695a-1078-4161-9f56-ca6ae7ca00b5",
+  "persona": "Buck",
+  "names": [
+    "Buck"
+  ],
+  "runs": 2,
+  "bestRank": 71,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3150499,
+  "weeksActive": [
+    -17,
+    -14
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 188,
+      "ms": 3150499,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 71,
+      "ms": 3287194,
+      "dish": "Salad"
+    }
+  ]
+}

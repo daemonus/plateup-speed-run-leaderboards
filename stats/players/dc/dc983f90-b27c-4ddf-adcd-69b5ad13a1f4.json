@@ -1,0 +1,82 @@
+{
+  "id": "dc983f90-b27c-4ddf-adcd-69b5ad13a1f4",
+  "persona": "sweeper_28",
+  "names": [
+    "sweeper_28"
+  ],
+  "runs": 8,
+  "bestRank": 161,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2149038,
+  "weeksActive": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    9,
+    41,
+    52
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 222,
+      "ms": 4099929,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 295,
+      "ms": 3827109,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 171,
+      "ms": 2881624,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 161,
+      "ms": 3092839,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 346,
+      "ms": 4341195,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 300,
+      "ms": 3502325,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 243,
+      "ms": 2149038,
+      "dish": "Turkey"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 203,
+      "ms": 2693405,
+      "dish": "Fish"
+    }
+  ]
+}

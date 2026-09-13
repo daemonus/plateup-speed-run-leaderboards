@@ -1,0 +1,34 @@
+{
+  "id": "6db469ec-3f54-4f85-9454-00cc6c948876",
+  "persona": "Cilantro Merchant",
+  "names": [
+    "Cilantro Merchant"
+  ],
+  "runs": 2,
+  "bestRank": 322,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4091675,
+  "weeksActive": [
+    -6,
+    -5
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 516,
+      "ms": 4832175,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 322,
+      "ms": 4091675,
+      "dish": "Pizza"
+    }
+  ]
+}

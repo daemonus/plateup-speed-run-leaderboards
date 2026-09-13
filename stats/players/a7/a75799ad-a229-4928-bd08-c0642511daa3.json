@@ -1,0 +1,58 @@
+{
+  "id": "a75799ad-a229-4928-bd08-c0642511daa3",
+  "persona": "Tappenzel",
+  "names": [
+    "Tappenzel"
+  ],
+  "runs": 5,
+  "bestRank": 134,
+  "worstRank": 554,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2872854,
+  "weeksActive": [
+    -62,
+    -38,
+    -23,
+    -22,
+    -21
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 554,
+      "ms": 4382179,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 372,
+      "ms": 2872854,
+      "dish": "Turkey"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 134,
+      "ms": 3357969,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 160,
+      "ms": 4026185,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 197,
+      "ms": 3130479,
+      "dish": "Pizza"
+    }
+  ]
+}

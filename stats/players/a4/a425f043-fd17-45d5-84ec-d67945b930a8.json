@@ -1,0 +1,50 @@
+{
+  "id": "a425f043-fd17-45d5-84ec-d67945b930a8",
+  "persona": "AVgl21",
+  "names": [
+    "AVgl21"
+  ],
+  "runs": 4,
+  "bestRank": 190,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3451855,
+  "weeksActive": [
+    -67,
+    -66,
+    -64,
+    -59
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 407,
+      "ms": 4319365,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 252,
+      "ms": 3930128,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 190,
+      "ms": 3451855,
+      "dish": "Salad"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 333,
+      "ms": 3613693,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

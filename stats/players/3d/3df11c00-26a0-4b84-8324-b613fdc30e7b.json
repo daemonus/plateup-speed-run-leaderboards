@@ -1,0 +1,42 @@
+{
+  "id": "3df11c00-26a0-4b84-8324-b613fdc30e7b",
+  "persona": "ChicoMapache",
+  "names": [
+    "ChicoMapache"
+  ],
+  "runs": 3,
+  "bestRank": 532,
+  "worstRank": 2292,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3391333,
+  "weeksActive": [
+    -93,
+    -89,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2292,
+      "ms": 3391333,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 931,
+      "ms": 4586583,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 532,
+      "ms": 4690318,
+      "dish": "Stir Fry"
+    }
+  ]
+}

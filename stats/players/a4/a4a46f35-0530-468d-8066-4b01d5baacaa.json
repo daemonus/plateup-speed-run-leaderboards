@@ -1,0 +1,50 @@
+{
+  "id": "a4a46f35-0530-468d-8066-4b01d5baacaa",
+  "persona": "samantha.park.uvu",
+  "names": [
+    "samantha.park.uvu"
+  ],
+  "runs": 4,
+  "bestRank": 30,
+  "worstRank": 77,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1548563,
+  "weeksActive": [
+    16,
+    20,
+    23,
+    32
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 64,
+      "ms": 2922094,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 77,
+      "ms": 1729250,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 30,
+      "ms": 1548563,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 30,
+      "ms": 1933679,
+      "dish": "Pies"
+    }
+  ]
+}

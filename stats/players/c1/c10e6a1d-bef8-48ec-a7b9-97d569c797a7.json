@@ -1,0 +1,42 @@
+{
+  "id": "c10e6a1d-bef8-48ec-a7b9-97d569c797a7",
+  "persona": "BEZ",
+  "names": [
+    "BEZ"
+  ],
+  "runs": 3,
+  "bestRank": 103,
+  "worstRank": 402,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2015284,
+  "weeksActive": [
+    -94,
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 103,
+      "ms": 2134173,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 402,
+      "ms": 2015284,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 264,
+      "ms": 2369554,
+      "dish": "Pies"
+    }
+  ]
+}

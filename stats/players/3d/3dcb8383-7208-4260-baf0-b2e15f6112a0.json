@@ -1,0 +1,50 @@
+{
+  "id": "3dcb8383-7208-4260-baf0-b2e15f6112a0",
+  "persona": "lyanwu901119",
+  "names": [
+    "lyanwu901119"
+  ],
+  "runs": 4,
+  "bestRank": 152,
+  "worstRank": 606,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2974924,
+  "weeksActive": [
+    -47,
+    23,
+    24,
+    84
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 152,
+      "ms": 3280653,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 314,
+      "ms": 3201217,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 183,
+      "ms": 2974924,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 606,
+      "ms": 4441183,
+      "dish": "Sundaes"
+    }
+  ]
+}

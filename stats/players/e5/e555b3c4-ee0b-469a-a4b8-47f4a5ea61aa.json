@@ -1,0 +1,42 @@
+{
+  "id": "e555b3c4-ee0b-469a-a4b8-47f4a5ea61aa",
+  "persona": "squidscrocs",
+  "names": [
+    "squidscrocs"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2346415,
+  "weeksActive": [
+    -41,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 147,
+      "ms": 3822308,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 125,
+      "ms": 2707281,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 185,
+      "ms": 2346415,
+      "dish": "Turkey"
+    }
+  ]
+}

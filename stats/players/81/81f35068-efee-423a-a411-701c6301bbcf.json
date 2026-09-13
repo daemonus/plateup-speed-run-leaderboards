@@ -1,0 +1,34 @@
+{
+  "id": "81f35068-efee-423a-a411-701c6301bbcf",
+  "persona": "Ionata",
+  "names": [
+    "Ionata"
+  ],
+  "runs": 2,
+  "bestRank": 241,
+  "worstRank": 279,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3942932,
+  "weeksActive": [
+    -50,
+    4
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 241,
+      "ms": 4724526,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 279,
+      "ms": 3942932,
+      "dish": "Breakfast"
+    }
+  ]
+}

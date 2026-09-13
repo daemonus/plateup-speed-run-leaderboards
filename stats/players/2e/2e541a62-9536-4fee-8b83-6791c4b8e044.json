@@ -1,0 +1,90 @@
+{
+  "id": "2e541a62-9536-4fee-8b83-6791c4b8e044",
+  "persona": "Mura",
+  "names": [
+    "Mura"
+  ],
+  "runs": 9,
+  "bestRank": 75,
+  "worstRank": 1136,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2282309,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -76,
+    -75,
+    -68,
+    -67,
+    -62,
+    -61
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 315,
+      "ms": 2582178,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1136,
+      "ms": 2551967,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 736,
+      "ms": 2619679,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 141,
+      "ms": 2282309,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 218,
+      "ms": 2291595,
+      "dish": "Fish"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 179,
+      "ms": 3807825,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 75,
+      "ms": 2790857,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 298,
+      "ms": 3484807,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 152,
+      "ms": 2856514,
+      "dish": "Fish"
+    }
+  ]
+}

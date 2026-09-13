@@ -1,0 +1,42 @@
+{
+  "id": "927a5228-7fc4-4e69-b4f7-b4fc34498696",
+  "persona": "NOHD_ZORO",
+  "names": [
+    "NOHD_ZORO"
+  ],
+  "runs": 3,
+  "bestRank": 671,
+  "worstRank": 2187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3265488,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2187,
+      "ms": 3287478,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 671,
+      "ms": 4116538,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1211,
+      "ms": 3265488,
+      "dish": "Fish"
+    }
+  ]
+}

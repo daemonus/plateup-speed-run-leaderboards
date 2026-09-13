@@ -1,0 +1,50 @@
+{
+  "id": "34e6406b-1727-40b7-8a33-12c0c36ad3b9",
+  "persona": "Coach",
+  "names": [
+    "Coach"
+  ],
+  "runs": 4,
+  "bestRank": 300,
+  "worstRank": 747,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2856528,
+  "weeksActive": [
+    -88,
+    -87,
+    -86,
+    -79
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 747,
+      "ms": 4766083,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 429,
+      "ms": 3856399,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 420,
+      "ms": 2856528,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 300,
+      "ms": 3794890,
+      "dish": "Pies"
+    }
+  ]
+}

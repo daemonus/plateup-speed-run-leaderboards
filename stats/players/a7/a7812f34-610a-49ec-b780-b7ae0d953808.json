@@ -1,0 +1,34 @@
+{
+  "id": "a7812f34-610a-49ec-b780-b7ae0d953808",
+  "persona": "\u590F\u5929\u7684\u5C0F\u68C9\u8956",
+  "names": [
+    "\u590F\u5929\u7684\u5C0F\u68C9\u8956"
+  ],
+  "runs": 2,
+  "bestRank": 729,
+  "worstRank": 979,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3848737,
+  "weeksActive": [
+    -76,
+    -71
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 729,
+      "ms": 3848737,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 979,
+      "ms": 4258989,
+      "dish": "Turkey"
+    }
+  ]
+}

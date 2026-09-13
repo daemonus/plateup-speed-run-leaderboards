@@ -1,0 +1,34 @@
+{
+  "id": "8e380f84-aef6-4019-be2a-25d509129f03",
+  "persona": "Betula",
+  "names": [
+    "Betula"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 475,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 9061666,
+  "weeksActive": [
+    -26,
+    -22
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 475,
+      "ms": 9061666,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 309,
+      "ms": 11004552,
+      "dish": "Stir Fry"
+    }
+  ]
+}

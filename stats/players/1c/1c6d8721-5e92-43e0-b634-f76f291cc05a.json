@@ -1,0 +1,66 @@
+{
+  "id": "1c6d8721-5e92-43e0-b634-f76f291cc05a",
+  "persona": "\uD584\uD0F1",
+  "names": [
+    "\uD584\uD0F1"
+  ],
+  "runs": 6,
+  "bestRank": 290,
+  "worstRank": 875,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4480969,
+  "weeksActive": [
+    -16,
+    -13,
+    19,
+    20,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 730,
+      "ms": 7240458,
+      "dish": "Pies"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 346,
+      "ms": 11288271,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 430,
+      "ms": 6106662,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 875,
+      "ms": 4530968,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 429,
+      "ms": 4592452,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 290,
+      "ms": 4480969,
+      "dish": "Breakfast"
+    }
+  ]
+}

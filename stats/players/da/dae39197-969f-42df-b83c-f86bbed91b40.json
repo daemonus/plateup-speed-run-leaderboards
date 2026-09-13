@@ -1,0 +1,42 @@
+{
+  "id": "dae39197-969f-42df-b83c-f86bbed91b40",
+  "persona": "Shanpoo",
+  "names": [
+    "Shanpoo"
+  ],
+  "runs": 3,
+  "bestRank": 411,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3265307,
+  "weeksActive": [
+    -33,
+    16,
+    64
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 411,
+      "ms": 5153992,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 451,
+      "ms": 5385946,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 706,
+      "ms": 3265307,
+      "dish": "Sundaes"
+    }
+  ]
+}

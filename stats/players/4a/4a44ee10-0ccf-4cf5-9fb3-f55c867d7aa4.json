@@ -1,0 +1,58 @@
+{
+  "id": "4a44ee10-0ccf-4cf5-9fb3-f55c867d7aa4",
+  "persona": "Juice",
+  "names": [
+    "Juice"
+  ],
+  "runs": 5,
+  "bestRank": 214,
+  "worstRank": 330,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2978034,
+  "weeksActive": [
+    24,
+    26,
+    28,
+    30,
+    32
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 330,
+      "ms": 3757925,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 233,
+      "ms": 3679408,
+      "dish": "Pizza"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 229,
+      "ms": 2978034,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 219,
+      "ms": 3219576,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 214,
+      "ms": 3474182,
+      "dish": "Pies"
+    }
+  ]
+}

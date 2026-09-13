@@ -1,0 +1,50 @@
+{
+  "id": "53080687-179e-4187-9d2e-7128bb09d47e",
+  "persona": "Dr_Happs",
+  "names": [
+    "Dr_Happs"
+  ],
+  "runs": 4,
+  "bestRank": 216,
+  "worstRank": 360,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2607885,
+  "weeksActive": [
+    -41,
+    3,
+    4,
+    8
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 216,
+      "ms": 4245118,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 335,
+      "ms": 3366853,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 360,
+      "ms": 4462293,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 238,
+      "ms": 2607885,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7723378a-6b20-4dcc-baf7-9e78d6e7f6f3",
+  "persona": "Torak",
+  "names": [
+    "Torak"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3452153,
+  "weeksActive": [
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 578,
+      "ms": 3452153,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 309,
+      "ms": 3668986,
+      "dish": "Burgers"
+    }
+  ]
+}

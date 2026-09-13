@@ -1,0 +1,34 @@
+{
+  "id": "adefa2ae-d838-4568-a2c4-abba7ed92532",
+  "persona": "Lucky",
+  "names": [
+    "Lucky"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2316783,
+  "weeksActive": [
+    -45,
+    -16
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 222,
+      "ms": 3156505,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 93,
+      "ms": 2316783,
+      "dish": "Pies"
+    }
+  ]
+}

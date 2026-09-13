@@ -1,0 +1,50 @@
+{
+  "id": "bc2532eb-88e9-45d4-88f8-403cf8d1c0d5",
+  "persona": "\u96E8\u5BAE\u3055\u304F\u3089",
+  "names": [
+    "\u96E8\u5BAE\u3055\u304F\u3089"
+  ],
+  "runs": 4,
+  "bestRank": 280,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3566585,
+  "weeksActive": [
+    -60,
+    -59,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 498,
+      "ms": 7029186,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 621,
+      "ms": 4841446,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 280,
+      "ms": 3566585,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 459,
+      "ms": 4569437,
+      "dish": "Burgers"
+    }
+  ]
+}

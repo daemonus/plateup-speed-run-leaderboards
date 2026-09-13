@@ -1,0 +1,82 @@
+{
+  "id": "cd7baab2-b263-4b82-8519-87de636773f9",
+  "persona": "Nami",
+  "names": [
+    "Nami"
+  ],
+  "runs": 8,
+  "bestRank": 171,
+  "worstRank": 674,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2909667,
+  "weeksActive": [
+    3,
+    7,
+    8,
+    9,
+    45,
+    46,
+    47,
+    80
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 674,
+      "ms": 4464981,
+      "dish": "Fish"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 327,
+      "ms": 3766461,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 348,
+      "ms": 2909667,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 372,
+      "ms": 3881670,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 171,
+      "ms": 4125124,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 474,
+      "ms": 4414998,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 183,
+      "ms": 3538109,
+      "dish": "Pizza"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 357,
+      "ms": 4380911,
+      "dish": "Pizza"
+    }
+  ]
+}

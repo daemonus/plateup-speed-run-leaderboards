@@ -1,0 +1,42 @@
+{
+  "id": "89b41c2b-4685-4158-9399-e3f2a0c3a8f9",
+  "persona": "BoundlessInt",
+  "names": [
+    "BoundlessInt"
+  ],
+  "runs": 3,
+  "bestRank": 605,
+  "worstRank": 651,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2225924,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 624,
+      "ms": 3000759,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 651,
+      "ms": 2225924,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 605,
+      "ms": 3785730,
+      "dish": "Steak"
+    }
+  ]
+}

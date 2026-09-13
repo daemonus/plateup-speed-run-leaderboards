@@ -1,0 +1,34 @@
+{
+  "id": "e31bb444-6b41-49de-91c7-c52d31b9b671",
+  "persona": "5donuts",
+  "names": [
+    "5donuts"
+  ],
+  "runs": 2,
+  "bestRank": 300,
+  "worstRank": 835,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3236404,
+  "weeksActive": [
+    -94,
+    -81
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 835,
+      "ms": 3236404,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 300,
+      "ms": 4272547,
+      "dish": "Steak"
+    }
+  ]
+}

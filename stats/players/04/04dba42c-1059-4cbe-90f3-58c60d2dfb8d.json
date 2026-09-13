@@ -1,0 +1,42 @@
+{
+  "id": "04dba42c-1059-4cbe-90f3-58c60d2dfb8d",
+  "persona": "rebaudiana",
+  "names": [
+    "rebaudiana"
+  ],
+  "runs": 3,
+  "bestRank": 242,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4466518,
+  "weeksActive": [
+    -25,
+    -23,
+    -19
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 464,
+      "ms": 4473549,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 242,
+      "ms": 5865414,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 284,
+      "ms": 4466518,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

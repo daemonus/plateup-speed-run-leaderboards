@@ -1,0 +1,42 @@
+{
+  "id": "8562e58a-1161-4606-86ba-c16223fc6cfd",
+  "persona": "basic billie",
+  "names": [
+    "basic billie"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2425726,
+  "weeksActive": [
+    -89,
+    -88,
+    -84
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 460,
+      "ms": 2859057,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 130,
+      "ms": 2425726,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 204,
+      "ms": 2504392,
+      "dish": "Fish"
+    }
+  ]
+}

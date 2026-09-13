@@ -1,0 +1,50 @@
+{
+  "id": "f6ff207d-677c-4acd-9063-6a8e5dffe365",
+  "persona": "UndeadMarah",
+  "names": [
+    "UndeadMarah"
+  ],
+  "runs": 4,
+  "bestRank": 191,
+  "worstRank": 2388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2959369,
+  "weeksActive": [
+    -93,
+    -89,
+    -81,
+    -75
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2388,
+      "ms": 3493090,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 536,
+      "ms": 3058301,
+      "dish": "Pies"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 191,
+      "ms": 3520845,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 469,
+      "ms": 2959369,
+      "dish": "Fish"
+    }
+  ]
+}

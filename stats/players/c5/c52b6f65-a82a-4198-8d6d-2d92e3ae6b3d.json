@@ -1,0 +1,66 @@
+{
+  "id": "c52b6f65-a82a-4198-8d6d-2d92e3ae6b3d",
+  "persona": "YOUYOU",
+  "names": [
+    "YOUYOU"
+  ],
+  "runs": 6,
+  "bestRank": 200,
+  "worstRank": 624,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2537693,
+  "weeksActive": [
+    61,
+    62,
+    63,
+    64,
+    66,
+    78
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 343,
+      "ms": 4910444,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 522,
+      "ms": 4704519,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 624,
+      "ms": 4384230,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 415,
+      "ms": 2537693,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 290,
+      "ms": 3439406,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 200,
+      "ms": 3178151,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

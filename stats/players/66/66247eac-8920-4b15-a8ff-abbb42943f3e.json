@@ -1,0 +1,50 @@
+{
+  "id": "66247eac-8920-4b15-a8ff-abbb42943f3e",
+  "persona": "Nadja",
+  "names": [
+    "Nadja"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 345,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2297249,
+  "weeksActive": [
+    -53,
+    -51,
+    72,
+    84
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 345,
+      "ms": 4813598,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 134,
+      "ms": 2458953,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 342,
+      "ms": 4616077,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 290,
+      "ms": 2297249,
+      "dish": "Sundaes"
+    }
+  ]
+}

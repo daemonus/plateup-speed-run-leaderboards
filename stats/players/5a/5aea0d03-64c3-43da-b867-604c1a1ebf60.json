@@ -1,0 +1,74 @@
+{
+  "id": "5aea0d03-64c3-43da-b867-604c1a1ebf60",
+  "persona": "lude2GEN",
+  "names": [
+    "lude2GEN"
+  ],
+  "runs": 7,
+  "bestRank": 240,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3201813,
+  "weeksActive": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 419,
+      "ms": 4472130,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 266,
+      "ms": 3201813,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 331,
+      "ms": 4369128,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 287,
+      "ms": 5576791,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 240,
+      "ms": 3998328,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 253,
+      "ms": 3600868,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 336,
+      "ms": 3413854,
+      "dish": "Fish"
+    }
+  ]
+}

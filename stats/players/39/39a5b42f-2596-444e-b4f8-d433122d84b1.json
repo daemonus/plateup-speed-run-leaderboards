@@ -1,0 +1,42 @@
+{
+  "id": "39a5b42f-2596-444e-b4f8-d433122d84b1",
+  "persona": "AliceStar",
+  "names": [
+    "AliceStar"
+  ],
+  "runs": 3,
+  "bestRank": 413,
+  "worstRank": 641,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3590797,
+  "weeksActive": [
+    -59,
+    7,
+    8
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 569,
+      "ms": 4485673,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 413,
+      "ms": 4587910,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 641,
+      "ms": 3590797,
+      "dish": "Fish"
+    }
+  ]
+}

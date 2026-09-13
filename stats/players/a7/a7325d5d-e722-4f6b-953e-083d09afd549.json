@@ -1,0 +1,42 @@
+{
+  "id": "a7325d5d-e722-4f6b-953e-083d09afd549",
+  "persona": "pupu_ca",
+  "names": [
+    "pupu_ca"
+  ],
+  "runs": 3,
+  "bestRank": 250,
+  "worstRank": 506,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4260751,
+  "weeksActive": [
+    -60,
+    -59,
+    -57
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 369,
+      "ms": 4529236,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 506,
+      "ms": 4260751,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 250,
+      "ms": 4320524,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

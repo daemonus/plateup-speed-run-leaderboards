@@ -1,0 +1,50 @@
+{
+  "id": "af885524-ac0c-4342-bbd9-b6419336fc9a",
+  "persona": "AfroAnt",
+  "names": [
+    "AfroAnt"
+  ],
+  "runs": 4,
+  "bestRank": 173,
+  "worstRank": 375,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3865500,
+  "weeksActive": [
+    -13,
+    -10,
+    -9,
+    -8
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 259,
+      "ms": 3865500,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 252,
+      "ms": 5260509,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 173,
+      "ms": 5618496,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 375,
+      "ms": 5805262,
+      "dish": "Stir Fry"
+    }
+  ]
+}

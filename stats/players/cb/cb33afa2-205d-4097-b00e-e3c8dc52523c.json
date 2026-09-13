@@ -1,0 +1,66 @@
+{
+  "id": "cb33afa2-205d-4097-b00e-e3c8dc52523c",
+  "persona": "mito",
+  "names": [
+    "mito"
+  ],
+  "runs": 6,
+  "bestRank": 243,
+  "worstRank": 466,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2072578,
+  "weeksActive": [
+    51,
+    64,
+    71,
+    80,
+    83,
+    84
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 291,
+      "ms": 4722947,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 243,
+      "ms": 2072578,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 412,
+      "ms": 4722434,
+      "dish": "Pizza"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 333,
+      "ms": 4200251,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 466,
+      "ms": 2859863,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 296,
+      "ms": 2333848,
+      "dish": "Sundaes"
+    }
+  ]
+}

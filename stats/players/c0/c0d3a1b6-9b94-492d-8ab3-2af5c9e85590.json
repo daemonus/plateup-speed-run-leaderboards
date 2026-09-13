@@ -1,0 +1,34 @@
+{
+  "id": "c0d3a1b6-9b94-492d-8ab3-2af5c9e85590",
+  "persona": "Master Onion",
+  "names": [
+    "Master Onion"
+  ],
+  "runs": 2,
+  "bestRank": 123,
+  "worstRank": 164,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2914679,
+  "weeksActive": [
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 164,
+      "ms": 3303498,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 123,
+      "ms": 2914679,
+      "dish": "Stir Fry"
+    }
+  ]
+}

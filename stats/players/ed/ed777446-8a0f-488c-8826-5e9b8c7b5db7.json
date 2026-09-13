@@ -1,0 +1,42 @@
+{
+  "id": "ed777446-8a0f-488c-8826-5e9b8c7b5db7",
+  "persona": "Nu-are",
+  "names": [
+    "Nu-are"
+  ],
+  "runs": 3,
+  "bestRank": 235,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3567762,
+  "weeksActive": [
+    1,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 286,
+      "ms": 3776941,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 403,
+      "ms": 3567762,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 235,
+      "ms": 3656280,
+      "dish": "Breakfast"
+    }
+  ]
+}

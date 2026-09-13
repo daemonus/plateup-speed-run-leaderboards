@@ -1,0 +1,42 @@
+{
+  "id": "e5167624-7d41-401e-9352-b63a1a654dca",
+  "persona": "\u4F9D\u53E4\u6BD4\u53E4",
+  "names": [
+    "\u4F9D\u53E4\u6BD4\u53E4"
+  ],
+  "runs": 3,
+  "bestRank": 153,
+  "worstRank": 531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2344506,
+  "weeksActive": [
+    -44,
+    77,
+    78
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 531,
+      "ms": 4800954,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 153,
+      "ms": 2344506,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 316,
+      "ms": 4066252,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

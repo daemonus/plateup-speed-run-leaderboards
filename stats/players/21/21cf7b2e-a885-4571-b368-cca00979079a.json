@@ -1,0 +1,42 @@
+{
+  "id": "21cf7b2e-a885-4571-b368-cca00979079a",
+  "persona": "zuzia.ziemniaki",
+  "names": [
+    "zuzia.ziemniaki"
+  ],
+  "runs": 3,
+  "bestRank": 295,
+  "worstRank": 558,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3841812,
+  "weeksActive": [
+    11,
+    13,
+    16
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 295,
+      "ms": 6351180,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 558,
+      "ms": 3841812,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 385,
+      "ms": 4916684,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "90aa98d7-4000-4d64-abc4-fde5fb8ae786",
+  "persona": "shan",
+  "names": [
+    "shan"
+  ],
+  "runs": 2,
+  "bestRank": 128,
+  "worstRank": 206,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3210675,
+  "weeksActive": [
+    -80,
+    -20
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 128,
+      "ms": 3210675,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 206,
+      "ms": 3350073,
+      "dish": "Burgers"
+    }
+  ]
+}

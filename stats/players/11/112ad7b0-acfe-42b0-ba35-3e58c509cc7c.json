@@ -1,0 +1,42 @@
+{
+  "id": "112ad7b0-acfe-42b0-ba35-3e58c509cc7c",
+  "persona": "asimplepintobean",
+  "names": [
+    "asimplepintobean"
+  ],
+  "runs": 3,
+  "bestRank": 302,
+  "worstRank": 1334,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2688664,
+  "weeksActive": [
+    -93,
+    -89,
+    -59
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1334,
+      "ms": 2688664,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 547,
+      "ms": 3078310,
+      "dish": "Pies"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 302,
+      "ms": 3466991,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

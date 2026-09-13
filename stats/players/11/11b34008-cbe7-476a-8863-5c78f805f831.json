@@ -1,0 +1,50 @@
+{
+  "id": "11b34008-cbe7-476a-8863-5c78f805f831",
+  "persona": "Velour",
+  "names": [
+    "Velour"
+  ],
+  "runs": 4,
+  "bestRank": 117,
+  "worstRank": 820,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4336049,
+  "weeksActive": [
+    -38,
+    -37,
+    -36,
+    -35
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 788,
+      "ms": 4418173,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 820,
+      "ms": 4336049,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 117,
+      "ms": 4942202,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 207,
+      "ms": 4713972,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "a79c32b8-cfff-4d7b-804e-c968d09b5fbe",
+  "persona": "jimmyhamilton22",
+  "names": [
+    "jimmyhamilton22"
+  ],
+  "runs": 4,
+  "bestRank": 236,
+  "worstRank": 492,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3536143,
+  "weeksActive": [
+    -25,
+    -20,
+    16,
+    46
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 236,
+      "ms": 3642854,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 492,
+      "ms": 4882415,
+      "dish": "Burgers"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 380,
+      "ms": 4897547,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 316,
+      "ms": 3536143,
+      "dish": "Pizza"
+    }
+  ]
+}

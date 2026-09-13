@@ -1,0 +1,34 @@
+{
+  "id": "5c62b429-e829-4f57-8250-8e2319b82401",
+  "persona": "Bingo",
+  "names": [
+    "Bingo"
+  ],
+  "runs": 2,
+  "bestRank": 644,
+  "worstRank": 795,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5828326,
+  "weeksActive": [
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 644,
+      "ms": 7175400,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 795,
+      "ms": 5828326,
+      "dish": "Sundaes"
+    }
+  ]
+}

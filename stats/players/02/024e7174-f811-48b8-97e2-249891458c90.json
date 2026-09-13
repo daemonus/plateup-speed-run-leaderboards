@@ -1,0 +1,34 @@
+{
+  "id": "024e7174-f811-48b8-97e2-249891458c90",
+  "persona": "DELL",
+  "names": [
+    "DELL"
+  ],
+  "runs": 2,
+  "bestRank": 333,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3042316,
+  "weeksActive": [
+    43,
+    52
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 384,
+      "ms": 3042316,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 333,
+      "ms": 3144266,
+      "dish": "Fish"
+    }
+  ]
+}

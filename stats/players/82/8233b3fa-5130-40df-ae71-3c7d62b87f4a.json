@@ -1,0 +1,42 @@
+{
+  "id": "8233b3fa-5130-40df-ae71-3c7d62b87f4a",
+  "persona": "TakeMySpells",
+  "names": [
+    "TakeMySpells"
+  ],
+  "runs": 3,
+  "bestRank": 49,
+  "worstRank": 219,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2198969,
+  "weeksActive": [
+    -33,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 219,
+      "ms": 3520629,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 126,
+      "ms": 2569844,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 49,
+      "ms": 2198969,
+      "dish": "Pies"
+    }
+  ]
+}

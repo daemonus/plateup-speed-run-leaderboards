@@ -1,0 +1,58 @@
+{
+  "id": "8718222b-1747-45cc-ae5f-c64f22182c52",
+  "persona": "bianxx_c",
+  "names": [
+    "bianxx_c"
+  ],
+  "runs": 5,
+  "bestRank": 187,
+  "worstRank": 990,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2470080,
+  "weeksActive": [
+    -75,
+    -73,
+    -67,
+    -52,
+    83
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 990,
+      "ms": 4777429,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 318,
+      "ms": 5568926,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 361,
+      "ms": 4120160,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 187,
+      "ms": 4689143,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 353,
+      "ms": 2470080,
+      "dish": "Sundaes"
+    }
+  ]
+}

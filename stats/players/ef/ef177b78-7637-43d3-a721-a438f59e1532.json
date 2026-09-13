@@ -1,0 +1,58 @@
+{
+  "id": "ef177b78-7637-43d3-a721-a438f59e1532",
+  "persona": "kiccyo",
+  "names": [
+    "kiccyo"
+  ],
+  "runs": 5,
+  "bestRank": 326,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3042424,
+  "weeksActive": [
+    -31,
+    -25,
+    -21,
+    -18,
+    15
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 654,
+      "ms": 4236024,
+      "dish": "Pies"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 381,
+      "ms": 4191177,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 326,
+      "ms": 3778140,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 712,
+      "ms": 5059648,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 358,
+      "ms": 3042424,
+      "dish": "Turkey"
+    }
+  ]
+}

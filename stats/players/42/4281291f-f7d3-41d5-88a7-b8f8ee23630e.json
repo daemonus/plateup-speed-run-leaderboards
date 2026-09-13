@@ -1,0 +1,90 @@
+{
+  "id": "4281291f-f7d3-41d5-88a7-b8f8ee23630e",
+  "persona": "Ambrella",
+  "names": [
+    "Ambrella"
+  ],
+  "runs": 9,
+  "bestRank": 121,
+  "worstRank": 1430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2896402,
+  "weeksActive": [
+    -91,
+    -82,
+    -72,
+    -45,
+    -44,
+    -42,
+    -18,
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1430,
+      "ms": 3636371,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 574,
+      "ms": 3722630,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 669,
+      "ms": 4724969,
+      "dish": "Pies"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 314,
+      "ms": 3554756,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 215,
+      "ms": 2896402,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 192,
+      "ms": 4349287,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 427,
+      "ms": 3957664,
+      "dish": "Fish"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 121,
+      "ms": 3663061,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 321,
+      "ms": 4072772,
+      "dish": "Breakfast"
+    }
+  ]
+}

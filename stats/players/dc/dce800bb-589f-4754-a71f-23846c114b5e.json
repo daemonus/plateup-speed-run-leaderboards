@@ -1,0 +1,42 @@
+{
+  "id": "dce800bb-589f-4754-a71f-23846c114b5e",
+  "persona": "ryan.hennessey",
+  "names": [
+    "ryan.hennessey"
+  ],
+  "runs": 3,
+  "bestRank": 83,
+  "worstRank": 213,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1755091,
+  "weeksActive": [
+    -93,
+    -87,
+    -77
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 213,
+      "ms": 1755091,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 181,
+      "ms": 2870893,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 83,
+      "ms": 2256257,
+      "dish": "Pies"
+    }
+  ]
+}

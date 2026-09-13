@@ -1,0 +1,42 @@
+{
+  "id": "7984c1cc-2def-4de4-a8ec-e13edb4ccfd4",
+  "persona": "Kobbie Da Chef",
+  "names": [
+    "Kobbie Da Chef"
+  ],
+  "runs": 3,
+  "bestRank": 389,
+  "worstRank": 939,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4679563,
+  "weeksActive": [
+    15,
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 658,
+      "ms": 4679563,
+      "dish": "Turkey"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 389,
+      "ms": 7341442,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 939,
+      "ms": 6760484,
+      "dish": "Sundaes"
+    }
+  ]
+}

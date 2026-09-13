@@ -1,0 +1,42 @@
+{
+  "id": "4d8cd358-3139-4956-a85d-0c4d622d1af7",
+  "persona": "someseee",
+  "names": [
+    "someseee"
+  ],
+  "runs": 3,
+  "bestRank": 179,
+  "worstRank": 481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4094347,
+  "weeksActive": [
+    -25,
+    -24,
+    -23
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 481,
+      "ms": 4520633,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 179,
+      "ms": 4094347,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 220,
+      "ms": 4530083,
+      "dish": "Pizza"
+    }
+  ]
+}

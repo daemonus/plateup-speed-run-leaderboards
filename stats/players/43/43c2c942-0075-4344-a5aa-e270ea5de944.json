@@ -1,0 +1,34 @@
+{
+  "id": "43c2c942-0075-4344-a5aa-e270ea5de944",
+  "persona": "Klein",
+  "names": [
+    "Klein"
+  ],
+  "runs": 2,
+  "bestRank": 393,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4006367,
+  "weeksActive": [
+    -45,
+    -44
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 393,
+      "ms": 4006367,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 499,
+      "ms": 4305297,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4b973b01-1752-4617-b29c-1e912f641b32",
+  "persona": "chromiumduck",
+  "names": [
+    "chromiumduck"
+  ],
+  "runs": 3,
+  "bestRank": 207,
+  "worstRank": 455,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2563979,
+  "weeksActive": [
+    -86,
+    -84,
+    -78
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 312,
+      "ms": 2563979,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 455,
+      "ms": 3410861,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 207,
+      "ms": 2966414,
+      "dish": "Burgers"
+    }
+  ]
+}

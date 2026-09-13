@@ -1,0 +1,58 @@
+{
+  "id": "054f5f63-e36c-4fde-97c7-1ed048d8c5ed",
+  "persona": "Kitty_Pryde",
+  "names": [
+    "Kitty_Pryde"
+  ],
+  "runs": 5,
+  "bestRank": 97,
+  "worstRank": 1013,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3326121,
+  "weeksActive": [
+    -32,
+    -31,
+    -28,
+    -27,
+    20
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1013,
+      "ms": 4830719,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 428,
+      "ms": 3636775,
+      "dish": "Pies"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 97,
+      "ms": 3649406,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 200,
+      "ms": 4329749,
+      "dish": "Salad"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 542,
+      "ms": 3326121,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2cf9511e-0506-4648-9cd3-3bdb6830a06d",
+  "persona": "Sphynx",
+  "names": [
+    "Sphynx"
+  ],
+  "runs": 3,
+  "bestRank": 262,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2958437,
+  "weeksActive": [
+    58,
+    60,
+    71
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 262,
+      "ms": 2958437,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 366,
+      "ms": 4698712,
+      "dish": "Burgers"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 424,
+      "ms": 4851742,
+      "dish": "Pizza"
+    }
+  ]
+}

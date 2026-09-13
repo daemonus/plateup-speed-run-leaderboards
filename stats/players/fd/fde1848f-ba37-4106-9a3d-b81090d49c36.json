@@ -1,0 +1,42 @@
+{
+  "id": "fde1848f-ba37-4106-9a3d-b81090d49c36",
+  "persona": "kwh7433",
+  "names": [
+    "kwh7433"
+  ],
+  "runs": 3,
+  "bestRank": 47,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2460316,
+  "weeksActive": [
+    -94,
+    -35,
+    33
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 320,
+      "ms": 2589086,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 55,
+      "ms": 2787882,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 47,
+      "ms": 2460316,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

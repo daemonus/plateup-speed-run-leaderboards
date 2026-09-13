@@ -1,0 +1,66 @@
+{
+  "id": "89dcb8b3-d3a5-4014-af41-49dab3f27885",
+  "persona": "robot_gnome",
+  "names": [
+    "robot_gnome"
+  ],
+  "runs": 6,
+  "bestRank": 495,
+  "worstRank": 2467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3112414,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1330,
+      "ms": 3876661,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2467,
+      "ms": 3577491,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 612,
+      "ms": 3835688,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 736,
+      "ms": 3112414,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 737,
+      "ms": 3674657,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 495,
+      "ms": 3763750,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "46e62170-cb29-4e5d-a80c-7f07ec6c8344",
+  "persona": "takina",
+  "names": [
+    "takina"
+  ],
+  "runs": 3,
+  "bestRank": 314,
+  "worstRank": 450,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2725155,
+  "weeksActive": [
+    20,
+    41,
+    44
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 450,
+      "ms": 3093224,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 423,
+      "ms": 2725155,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 314,
+      "ms": 3535761,
+      "dish": "Breakfast"
+    }
+  ]
+}

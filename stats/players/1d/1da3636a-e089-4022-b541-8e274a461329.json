@@ -1,0 +1,74 @@
+{
+  "id": "1da3636a-e089-4022-b541-8e274a461329",
+  "persona": "yevfurman",
+  "names": [
+    "yevfurman"
+  ],
+  "runs": 7,
+  "bestRank": 128,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2425826,
+  "weeksActive": [
+    79,
+    80,
+    81,
+    83,
+    84,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 135,
+      "ms": 3490854,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 128,
+      "ms": 2854503,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 196,
+      "ms": 3634897,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 555,
+      "ms": 3163117,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 479,
+      "ms": 3255009,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 164,
+      "ms": 2770020,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 244,
+      "ms": 2425826,
+      "dish": "Sundaes"
+    }
+  ]
+}

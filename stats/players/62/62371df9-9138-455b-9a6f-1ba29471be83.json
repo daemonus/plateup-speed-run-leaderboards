@@ -1,0 +1,42 @@
+{
+  "id": "62371df9-9138-455b-9a6f-1ba29471be83",
+  "persona": "sandmagican",
+  "names": [
+    "sandmagican"
+  ],
+  "runs": 3,
+  "bestRank": 466,
+  "worstRank": 613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3376294,
+  "weeksActive": [
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 613,
+      "ms": 3376294,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 494,
+      "ms": 3555197,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 466,
+      "ms": 4011128,
+      "dish": "Steak"
+    }
+  ]
+}

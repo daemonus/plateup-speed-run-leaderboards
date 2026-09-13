@@ -1,0 +1,42 @@
+{
+  "id": "cd52b2b7-9f68-43b5-9488-1956d9cc18cb",
+  "persona": "RaZer_Cool",
+  "names": [
+    "RaZer_Cool"
+  ],
+  "runs": 3,
+  "bestRank": 109,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3162405,
+  "weeksActive": [
+    -2,
+    4,
+    74
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 406,
+      "ms": 4796667,
+      "dish": "Pizza"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 333,
+      "ms": 4298778,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 109,
+      "ms": 3162405,
+      "dish": "Breakfast"
+    }
+  ]
+}

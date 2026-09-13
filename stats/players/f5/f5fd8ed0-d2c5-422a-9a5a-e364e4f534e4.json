@@ -1,0 +1,34 @@
+{
+  "id": "f5fd8ed0-d2c5-422a-9a5a-e364e4f534e4",
+  "persona": "EN4001",
+  "names": [
+    "EN4001"
+  ],
+  "runs": 2,
+  "bestRank": 359,
+  "worstRank": 469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3575415,
+  "weeksActive": [
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 469,
+      "ms": 5112538,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 359,
+      "ms": 3575415,
+      "dish": "Fish"
+    }
+  ]
+}

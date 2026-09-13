@@ -1,0 +1,50 @@
+{
+  "id": "bde5b77d-5a58-4237-bc7f-1f2e1d2189fc",
+  "persona": "Z\u00E4mmy",
+  "names": [
+    "Z\u00E4mmy"
+  ],
+  "runs": 4,
+  "bestRank": 169,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2388073,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 365,
+      "ms": 3558541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 236,
+      "ms": 2388073,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 241,
+      "ms": 2669587,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 169,
+      "ms": 2735012,
+      "dish": "Steak"
+    }
+  ]
+}

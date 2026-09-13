@@ -1,0 +1,58 @@
+{
+  "id": "9072ba42-b13b-4445-8fbb-b258a9099156",
+  "persona": "Meeeka",
+  "names": [
+    "Meeeka"
+  ],
+  "runs": 5,
+  "bestRank": 463,
+  "worstRank": 2303,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3402683,
+  "weeksActive": [
+    -93,
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2303,
+      "ms": 3402683,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 901,
+      "ms": 3478406,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 811,
+      "ms": 3982269,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 789,
+      "ms": 5026983,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 463,
+      "ms": 4065108,
+      "dish": "Stir Fry"
+    }
+  ]
+}

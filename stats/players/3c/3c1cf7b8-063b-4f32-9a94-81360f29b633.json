@@ -1,0 +1,50 @@
+{
+  "id": "3c1cf7b8-063b-4f32-9a94-81360f29b633",
+  "persona": "rico",
+  "names": [
+    "rico"
+  ],
+  "runs": 4,
+  "bestRank": 126,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3225523,
+  "weeksActive": [
+    1,
+    55,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 395,
+      "ms": 4607830,
+      "dish": "Pies"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 126,
+      "ms": 3326328,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 253,
+      "ms": 3724428,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 190,
+      "ms": 3225523,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

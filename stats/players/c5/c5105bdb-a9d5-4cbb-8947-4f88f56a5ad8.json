@@ -1,0 +1,98 @@
+{
+  "id": "c5105bdb-a9d5-4cbb-8947-4f88f56a5ad8",
+  "persona": "kano",
+  "names": [
+    "kano"
+  ],
+  "runs": 10,
+  "bestRank": 18,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1453404,
+  "weeksActive": [
+    -57,
+    -51,
+    -41,
+    -37,
+    -31,
+    41,
+    57,
+    58,
+    72,
+    86
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 63,
+      "ms": 2658553,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 68,
+      "ms": 2139430,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 113,
+      "ms": 3489866,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 76,
+      "ms": 2161632,
+      "dish": "Fish"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 130,
+      "ms": 2716883,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 67,
+      "ms": 1453404,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 168,
+      "ms": 2963412,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 33,
+      "ms": 1934318,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 18,
+      "ms": 1965469,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 260,
+      "ms": 2515950,
+      "dish": "Sundaes"
+    }
+  ]
+}

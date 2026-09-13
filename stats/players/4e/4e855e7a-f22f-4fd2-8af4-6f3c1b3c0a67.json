@@ -1,0 +1,50 @@
+{
+  "id": "4e855e7a-f22f-4fd2-8af4-6f3c1b3c0a67",
+  "persona": "N02S",
+  "names": [
+    "N02S"
+  ],
+  "runs": 4,
+  "bestRank": 133,
+  "worstRank": 309,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2594494,
+  "weeksActive": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 154,
+      "ms": 3227117,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 133,
+      "ms": 3366443,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 287,
+      "ms": 4160077,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 309,
+      "ms": 2594494,
+      "dish": "Turkey"
+    }
+  ]
+}

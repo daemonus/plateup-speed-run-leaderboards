@@ -1,0 +1,42 @@
+{
+  "id": "cd3c81ab-aba5-4c97-a0b2-e47dc3068ab4",
+  "persona": "wystarlight",
+  "names": [
+    "wystarlight"
+  ],
+  "runs": 3,
+  "bestRank": 189,
+  "worstRank": 524,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4453166,
+  "weeksActive": [
+    -14,
+    -12,
+    -6
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 189,
+      "ms": 4453166,
+      "dish": "Salad"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 287,
+      "ms": 5011322,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 524,
+      "ms": 4872312,
+      "dish": "Breakfast"
+    }
+  ]
+}

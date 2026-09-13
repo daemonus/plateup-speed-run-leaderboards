@@ -1,0 +1,34 @@
+{
+  "id": "11fb641c-7c25-4c40-b0bd-1b7ce2ec42de",
+  "persona": "WoodfordChocobo",
+  "names": [
+    "WoodfordChocobo"
+  ],
+  "runs": 2,
+  "bestRank": 165,
+  "worstRank": 409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3400927,
+  "weeksActive": [
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 409,
+      "ms": 5260161,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 165,
+      "ms": 3400927,
+      "dish": "Pizza"
+    }
+  ]
+}

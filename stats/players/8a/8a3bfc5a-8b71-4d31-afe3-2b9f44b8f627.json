@@ -1,0 +1,34 @@
+{
+  "id": "8a3bfc5a-8b71-4d31-afe3-2b9f44b8f627",
+  "persona": "The Vulcan",
+  "names": [
+    "The Vulcan"
+  ],
+  "runs": 2,
+  "bestRank": 494,
+  "worstRank": 597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3343130,
+  "weeksActive": [
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 494,
+      "ms": 4279152,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 597,
+      "ms": 3343130,
+      "dish": "Fish"
+    }
+  ]
+}

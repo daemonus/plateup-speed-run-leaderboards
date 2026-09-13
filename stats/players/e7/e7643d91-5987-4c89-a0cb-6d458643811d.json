@@ -1,0 +1,34 @@
+{
+  "id": "e7643d91-5987-4c89-a0cb-6d458643811d",
+  "persona": "Boo",
+  "names": [
+    "Boo"
+  ],
+  "runs": 2,
+  "bestRank": 114,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2745407,
+  "weeksActive": [
+    -63,
+    7
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 185,
+      "ms": 3245686,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 114,
+      "ms": 2745407,
+      "dish": "Fish"
+    }
+  ]
+}

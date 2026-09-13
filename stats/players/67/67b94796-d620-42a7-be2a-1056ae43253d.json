@@ -1,0 +1,34 @@
+{
+  "id": "67b94796-d620-42a7-be2a-1056ae43253d",
+  "persona": "Zero",
+  "names": [
+    "Zero"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 380,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2701968,
+  "weeksActive": [
+    -38,
+    46
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 309,
+      "ms": 2701968,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 380,
+      "ms": 3875401,
+      "dish": "Pizza"
+    }
+  ]
+}

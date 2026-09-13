@@ -1,0 +1,50 @@
+{
+  "id": "29f585b1-e5f4-4efd-b4dd-457215e23c45",
+  "persona": "north",
+  "names": [
+    "north"
+  ],
+  "runs": 4,
+  "bestRank": 224,
+  "worstRank": 482,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3186986,
+  "weeksActive": [
+    19,
+    20,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 323,
+      "ms": 4447084,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 482,
+      "ms": 3186986,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 417,
+      "ms": 5865592,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 224,
+      "ms": 3726572,
+      "dish": "Burgers"
+    }
+  ]
+}

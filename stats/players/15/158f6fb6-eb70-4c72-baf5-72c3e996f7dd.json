@@ -1,0 +1,50 @@
+{
+  "id": "158f6fb6-eb70-4c72-baf5-72c3e996f7dd",
+  "persona": "Peter",
+  "names": [
+    "Peter"
+  ],
+  "runs": 4,
+  "bestRank": 104,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2802302,
+  "weeksActive": [
+    -26,
+    -25,
+    -23,
+    63
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 104,
+      "ms": 3184717,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 126,
+      "ms": 3017718,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 166,
+      "ms": 3673866,
+      "dish": "Pizza"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 188,
+      "ms": 2802302,
+      "dish": "Pizza"
+    }
+  ]
+}

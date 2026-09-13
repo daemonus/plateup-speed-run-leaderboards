@@ -1,0 +1,42 @@
+{
+  "id": "51e73d53-6237-4cb1-a792-1caed18ff032",
+  "persona": "\u99AC\u864E",
+  "names": [
+    "\u99AC\u864E"
+  ],
+  "runs": 3,
+  "bestRank": 269,
+  "worstRank": 584,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4313679,
+  "weeksActive": [
+    -19,
+    -16,
+    -12
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 277,
+      "ms": 4313679,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 584,
+      "ms": 4573986,
+      "dish": "Pies"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 269,
+      "ms": 4632813,
+      "dish": "Breakfast"
+    }
+  ]
+}

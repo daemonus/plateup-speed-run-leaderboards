@@ -1,0 +1,42 @@
+{
+  "id": "4c48c5d5-f97a-4201-b5d0-f0bc5d7ab2c2",
+  "persona": "Kalina",
+  "names": [
+    "Kalina"
+  ],
+  "runs": 3,
+  "bestRank": 922,
+  "worstRank": 2545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3695117,
+  "weeksActive": [
+    -93,
+    -91,
+    -76
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2545,
+      "ms": 3695117,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1600,
+      "ms": 4302953,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 922,
+      "ms": 4892974,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8a94519a-5325-40f9-9a1c-a7c2399cf72e",
+  "persona": "ElMacro",
+  "names": [
+    "ElMacro"
+  ],
+  "runs": 3,
+  "bestRank": 58,
+  "worstRank": 370,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1881167,
+  "weeksActive": [
+    -93,
+    -92,
+    51
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 370,
+      "ms": 1977391,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 58,
+      "ms": 1881167,
+      "dish": "Steak"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 74,
+      "ms": 2852106,
+      "dish": "Salad"
+    }
+  ]
+}

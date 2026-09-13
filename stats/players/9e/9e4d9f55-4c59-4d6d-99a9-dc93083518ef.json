@@ -1,0 +1,34 @@
+{
+  "id": "9e4d9f55-4c59-4d6d-99a9-dc93083518ef",
+  "persona": "Nhimm_01",
+  "names": [
+    "Nhimm_01"
+  ],
+  "runs": 2,
+  "bestRank": 430,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4215776,
+  "weeksActive": [
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 509,
+      "ms": 4215776,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 430,
+      "ms": 4472364,
+      "dish": "Pies"
+    }
+  ]
+}

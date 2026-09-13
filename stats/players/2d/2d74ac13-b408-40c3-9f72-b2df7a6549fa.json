@@ -1,0 +1,98 @@
+{
+  "id": "2d74ac13-b408-40c3-9f72-b2df7a6549fa",
+  "persona": "ponyo",
+  "names": [
+    "ponyo"
+  ],
+  "runs": 10,
+  "bestRank": 130,
+  "worstRank": 579,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2138014,
+  "weeksActive": [
+    -51,
+    -50,
+    -21,
+    -20,
+    -19,
+    1,
+    28,
+    53,
+    80,
+    84
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 444,
+      "ms": 3520186,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 130,
+      "ms": 3603610,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 477,
+      "ms": 4749889,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 579,
+      "ms": 6236139,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 289,
+      "ms": 4605747,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 260,
+      "ms": 3647349,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 283,
+      "ms": 3331182,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 385,
+      "ms": 4282700,
+      "dish": "Pies"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 241,
+      "ms": 3586974,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 261,
+      "ms": 2138014,
+      "dish": "Sundaes"
+    }
+  ]
+}

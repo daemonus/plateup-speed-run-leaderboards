@@ -1,0 +1,42 @@
+{
+  "id": "700de1b7-58d5-4f4a-9697-dcdad1ef7c93",
+  "persona": "Cee",
+  "names": [
+    "Cee"
+  ],
+  "runs": 3,
+  "bestRank": 71,
+  "worstRank": 282,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1755495,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 214,
+      "ms": 1755495,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 71,
+      "ms": 1958425,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 282,
+      "ms": 2034928,
+      "dish": "Fish"
+    }
+  ]
+}

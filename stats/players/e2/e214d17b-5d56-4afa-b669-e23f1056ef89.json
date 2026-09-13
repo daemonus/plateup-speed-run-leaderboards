@@ -1,0 +1,42 @@
+{
+  "id": "e214d17b-5d56-4afa-b669-e23f1056ef89",
+  "persona": "GY",
+  "names": [
+    "GY"
+  ],
+  "runs": 3,
+  "bestRank": 137,
+  "worstRank": 433,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3273066,
+  "weeksActive": [
+    -82,
+    -81,
+    -80
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 433,
+      "ms": 3273066,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 243,
+      "ms": 3892104,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 137,
+      "ms": 3322917,
+      "dish": "Stir Fry"
+    }
+  ]
+}

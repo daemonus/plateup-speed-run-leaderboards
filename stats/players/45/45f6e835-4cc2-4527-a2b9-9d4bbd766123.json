@@ -1,0 +1,50 @@
+{
+  "id": "45f6e835-4cc2-4527-a2b9-9d4bbd766123",
+  "persona": "CiRAWRa",
+  "names": [
+    "CiRAWRa"
+  ],
+  "runs": 4,
+  "bestRank": 124,
+  "worstRank": 728,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3710629,
+  "weeksActive": [
+    -86,
+    -41,
+    -11,
+    -9
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 728,
+      "ms": 3831711,
+      "dish": "Fish"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 140,
+      "ms": 3753641,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 124,
+      "ms": 3710629,
+      "dish": "Burgers"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 165,
+      "ms": 5231110,
+      "dish": "Stir Fry"
+    }
+  ]
+}

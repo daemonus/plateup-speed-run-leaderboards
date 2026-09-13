@@ -1,0 +1,50 @@
+{
+  "id": "c8abb047-1b2f-4924-96b1-8c0b36f6247c",
+  "persona": "Dee",
+  "names": [
+    "Dee"
+  ],
+  "runs": 4,
+  "bestRank": 350,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3035205,
+  "weeksActive": [
+    34,
+    46,
+    52,
+    56
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 350,
+      "ms": 4596137,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 352,
+      "ms": 3703593,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 353,
+      "ms": 3209305,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 589,
+      "ms": 3035205,
+      "dish": "Sundaes"
+    }
+  ]
+}

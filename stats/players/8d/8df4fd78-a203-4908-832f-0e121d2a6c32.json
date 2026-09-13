@@ -1,0 +1,50 @@
+{
+  "id": "8df4fd78-a203-4908-832f-0e121d2a6c32",
+  "persona": "Zire",
+  "names": [
+    "Zire"
+  ],
+  "runs": 4,
+  "bestRank": 179,
+  "worstRank": 2482,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2749144,
+  "weeksActive": [
+    -93,
+    -16,
+    8,
+    31
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2482,
+      "ms": 3605119,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 179,
+      "ms": 2749144,
+      "dish": "Pies"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 578,
+      "ms": 3445891,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 224,
+      "ms": 2984177,
+      "dish": "Fish"
+    }
+  ]
+}

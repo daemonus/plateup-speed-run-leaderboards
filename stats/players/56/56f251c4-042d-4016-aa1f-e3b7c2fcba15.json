@@ -1,0 +1,42 @@
+{
+  "id": "56f251c4-042d-4016-aa1f-e3b7c2fcba15",
+  "persona": "Slavic_Lady",
+  "names": [
+    "Slavic_Lady"
+  ],
+  "runs": 3,
+  "bestRank": 251,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4432582,
+  "weeksActive": [
+    32,
+    36,
+    37
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 335,
+      "ms": 4432582,
+      "dish": "Pies"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 444,
+      "ms": 4966895,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 251,
+      "ms": 5526216,
+      "dish": "Burgers"
+    }
+  ]
+}

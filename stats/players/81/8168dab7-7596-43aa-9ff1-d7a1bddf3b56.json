@@ -1,0 +1,50 @@
+{
+  "id": "8168dab7-7596-43aa-9ff1-d7a1bddf3b56",
+  "persona": "shainaestimo",
+  "names": [
+    "shainaestimo"
+  ],
+  "runs": 4,
+  "bestRank": 139,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3124911,
+  "weeksActive": [
+    -68,
+    -66,
+    -65,
+    -64
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 240,
+      "ms": 4268340,
+      "dish": "Salad"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 176,
+      "ms": 3205648,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 141,
+      "ms": 4794215,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 139,
+      "ms": 3124911,
+      "dish": "Salad"
+    }
+  ]
+}

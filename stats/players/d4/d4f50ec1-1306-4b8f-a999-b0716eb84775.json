@@ -1,0 +1,50 @@
+{
+  "id": "d4f50ec1-1306-4b8f-a999-b0716eb84775",
+  "persona": "suvi",
+  "names": [
+    "suvi"
+  ],
+  "runs": 4,
+  "bestRank": 122,
+  "worstRank": 409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2671849,
+  "weeksActive": [
+    41,
+    43,
+    46,
+    48
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 409,
+      "ms": 2692534,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 266,
+      "ms": 2671849,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 231,
+      "ms": 3127772,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 122,
+      "ms": 3904056,
+      "dish": "Pizza"
+    }
+  ]
+}

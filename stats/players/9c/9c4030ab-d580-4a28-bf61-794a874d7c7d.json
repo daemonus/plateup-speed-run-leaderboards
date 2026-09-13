@@ -1,0 +1,42 @@
+{
+  "id": "9c4030ab-d580-4a28-bf61-794a874d7c7d",
+  "persona": "Pennyworth",
+  "names": [
+    "Pennyworth"
+  ],
+  "runs": 3,
+  "bestRank": 99,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2033254,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 99,
+      "ms": 2121265,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 419,
+      "ms": 2033254,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 153,
+      "ms": 2399974,
+      "dish": "Steak"
+    }
+  ]
+}

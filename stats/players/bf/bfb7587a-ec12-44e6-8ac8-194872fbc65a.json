@@ -1,0 +1,42 @@
+{
+  "id": "bfb7587a-ec12-44e6-8ac8-194872fbc65a",
+  "persona": "gummiolafs",
+  "names": [
+    "gummiolafs"
+  ],
+  "runs": 3,
+  "bestRank": 256,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3136081,
+  "weeksActive": [
+    -78,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 256,
+      "ms": 3136081,
+      "dish": "Burgers"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 337,
+      "ms": 3845933,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 582,
+      "ms": 3386130,
+      "dish": "Turkey"
+    }
+  ]
+}

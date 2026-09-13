@@ -1,0 +1,50 @@
+{
+  "id": "f3ca90a7-faa1-4573-b64b-3a9f0c332e96",
+  "persona": "LunaLin",
+  "names": [
+    "LunaLin"
+  ],
+  "runs": 4,
+  "bestRank": 124,
+  "worstRank": 223,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1962408,
+  "weeksActive": [
+    -86,
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 124,
+      "ms": 1962408,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 147,
+      "ms": 2323262,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 187,
+      "ms": 2793714,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 223,
+      "ms": 2560428,
+      "dish": "Fish"
+    }
+  ]
+}

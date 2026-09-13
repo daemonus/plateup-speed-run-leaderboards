@@ -1,0 +1,34 @@
+{
+  "id": "1c0cde1d-c178-4926-b75f-454217bc10ab",
+  "persona": "BBJR",
+  "names": [
+    "BBJR"
+  ],
+  "runs": 2,
+  "bestRank": 25,
+  "worstRank": 173,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2143897,
+  "weeksActive": [
+    -42,
+    -6
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 173,
+      "ms": 4118601,
+      "dish": "Burgers"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 25,
+      "ms": 2143897,
+      "dish": "Breakfast"
+    }
+  ]
+}

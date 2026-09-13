@@ -1,0 +1,58 @@
+{
+  "id": "4a36b06f-b615-4dc0-af75-36db3eb16638",
+  "persona": "shiawasagi",
+  "names": [
+    "shiawasagi"
+  ],
+  "runs": 5,
+  "bestRank": 171,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2825437,
+  "weeksActive": [
+    -76,
+    -75,
+    -69,
+    -67,
+    53
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 412,
+      "ms": 3039881,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 405,
+      "ms": 2825437,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 171,
+      "ms": 3983600,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 200,
+      "ms": 3436396,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 249,
+      "ms": 3462204,
+      "dish": "Pies"
+    }
+  ]
+}

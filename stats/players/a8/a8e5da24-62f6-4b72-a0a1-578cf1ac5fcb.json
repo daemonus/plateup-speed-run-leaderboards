@@ -1,0 +1,50 @@
+{
+  "id": "a8e5da24-62f6-4b72-a0a1-578cf1ac5fcb",
+  "persona": "seashanty",
+  "names": [
+    "seashanty"
+  ],
+  "runs": 4,
+  "bestRank": 374,
+  "worstRank": 1626,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4357729,
+  "weeksActive": [
+    -91,
+    -82,
+    -81,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1626,
+      "ms": 4545639,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 702,
+      "ms": 4357729,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 374,
+      "ms": 4966770,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 938,
+      "ms": 5182591,
+      "dish": "Turkey"
+    }
+  ]
+}

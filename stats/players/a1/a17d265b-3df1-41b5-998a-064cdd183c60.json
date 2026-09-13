@@ -1,0 +1,58 @@
+{
+  "id": "a17d265b-3df1-41b5-998a-064cdd183c60",
+  "persona": "Potato.png",
+  "names": [
+    "Potato.png"
+  ],
+  "runs": 5,
+  "bestRank": 379,
+  "worstRank": 2518,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3627258,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2518,
+      "ms": 3657119,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 662,
+      "ms": 4060628,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1549,
+      "ms": 3997134,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1105,
+      "ms": 4179576,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 379,
+      "ms": 3627258,
+      "dish": "Stir Fry"
+    }
+  ]
+}

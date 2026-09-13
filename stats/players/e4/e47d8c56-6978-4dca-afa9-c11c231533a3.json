@@ -1,0 +1,50 @@
+{
+  "id": "e47d8c56-6978-4dca-afa9-c11c231533a3",
+  "persona": "auric",
+  "names": [
+    "auric"
+  ],
+  "runs": 4,
+  "bestRank": 182,
+  "worstRank": 850,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3609759,
+  "weeksActive": [
+    -87,
+    -76,
+    -71,
+    16
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 487,
+      "ms": 4228909,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 850,
+      "ms": 4342890,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 702,
+      "ms": 3609759,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 182,
+      "ms": 3829271,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "f3c80ed0-a0e0-46ce-81b3-4b625a40d01d",
+  "persona": "vale",
+  "names": [
+    "vale"
+  ],
+  "runs": 5,
+  "bestRank": 118,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2580480,
+  "weeksActive": [
+    0,
+    1,
+    2,
+    3,
+    23
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 199,
+      "ms": 3974578,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 197,
+      "ms": 3280076,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 159,
+      "ms": 3206997,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 118,
+      "ms": 2580480,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 257,
+      "ms": 2884558,
+      "dish": "Turkey"
+    }
+  ]
+}

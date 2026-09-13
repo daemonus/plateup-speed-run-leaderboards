@@ -1,0 +1,42 @@
+{
+  "id": "f4284e00-fe8b-4132-be69-b4ece0ce05a5",
+  "persona": "Wombo",
+  "names": [
+    "Wombo"
+  ],
+  "runs": 3,
+  "bestRank": 156,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2503993,
+  "weeksActive": [
+    -94,
+    -75,
+    -68
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 578,
+      "ms": 2948754,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 287,
+      "ms": 2503993,
+      "dish": "Fish"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 156,
+      "ms": 3587070,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ce22b4d7-7180-40c5-ac9d-626203ef45f1",
+  "persona": "KalistaAnanke",
+  "names": [
+    "KalistaAnanke"
+  ],
+  "runs": 3,
+  "bestRank": 385,
+  "worstRank": 892,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6170653,
+  "weeksActive": [
+    -74,
+    -73,
+    -72
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 629,
+      "ms": 6170653,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 385,
+      "ms": 8021303,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 892,
+      "ms": 7483265,
+      "dish": "Pies"
+    }
+  ]
+}

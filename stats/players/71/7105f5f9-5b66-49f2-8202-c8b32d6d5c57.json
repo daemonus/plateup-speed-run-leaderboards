@@ -1,0 +1,42 @@
+{
+  "id": "7105f5f9-5b66-49f2-8202-c8b32d6d5c57",
+  "persona": "Waterbird",
+  "names": [
+    "Waterbird"
+  ],
+  "runs": 3,
+  "bestRank": 393,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5042768,
+  "weeksActive": [
+    -26,
+    -21,
+    -6
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 393,
+      "ms": 5110782,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 500,
+      "ms": 5042768,
+      "dish": "Pizza"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 589,
+      "ms": 5192692,
+      "dish": "Breakfast"
+    }
+  ]
+}

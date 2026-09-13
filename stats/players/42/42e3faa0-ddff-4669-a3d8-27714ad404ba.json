@@ -1,0 +1,58 @@
+{
+  "id": "42e3faa0-ddff-4669-a3d8-27714ad404ba",
+  "persona": "FADENT",
+  "names": [
+    "FADENT"
+  ],
+  "runs": 5,
+  "bestRank": 218,
+  "worstRank": 1693,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3200684,
+  "weeksActive": [
+    -94,
+    -92,
+    -86,
+    -76,
+    -74
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1693,
+      "ms": 5069801,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 708,
+      "ms": 4316554,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 564,
+      "ms": 3246782,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 472,
+      "ms": 3200684,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 218,
+      "ms": 3247026,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

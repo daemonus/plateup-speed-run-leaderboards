@@ -1,0 +1,82 @@
+{
+  "id": "1d9eab20-5713-42d9-a966-bcf0b4f36f1a",
+  "persona": "Rio",
+  "names": [
+    "Rio"
+  ],
+  "runs": 8,
+  "bestRank": 122,
+  "worstRank": 389,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2438117,
+  "weeksActive": [
+    -89,
+    -88,
+    -87,
+    -85,
+    -84,
+    -62,
+    -59,
+    -37
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 287,
+      "ms": 2438117,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 389,
+      "ms": 3293346,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 306,
+      "ms": 3347074,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 180,
+      "ms": 3543625,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 320,
+      "ms": 2919658,
+      "dish": "Fish"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 122,
+      "ms": 2807960,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 172,
+      "ms": 2873739,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 303,
+      "ms": 2999770,
+      "dish": "Fish"
+    }
+  ]
+}

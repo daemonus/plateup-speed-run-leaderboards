@@ -1,0 +1,42 @@
+{
+  "id": "06bfeb36-32c4-448e-be9b-f37d4fe6ad5f",
+  "persona": "\uD638",
+  "names": [
+    "\uD638"
+  ],
+  "runs": 3,
+  "bestRank": 277,
+  "worstRank": 853,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3976603,
+  "weeksActive": [
+    -75,
+    -74,
+    -73
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 853,
+      "ms": 3976603,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 452,
+      "ms": 4412076,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 277,
+      "ms": 5119858,
+      "dish": "Stir Fry"
+    }
+  ]
+}

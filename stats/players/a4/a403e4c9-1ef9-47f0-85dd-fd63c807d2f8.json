@@ -1,0 +1,42 @@
+{
+  "id": "a403e4c9-1ef9-47f0-85dd-fd63c807d2f8",
+  "persona": "Ariel Winter",
+  "names": [
+    "Ariel Winter"
+  ],
+  "runs": 3,
+  "bestRank": 82,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3021661,
+  "weeksActive": [
+    -75,
+    -74,
+    -73
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 491,
+      "ms": 3021661,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 240,
+      "ms": 3362767,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 82,
+      "ms": 3416565,
+      "dish": "Stir Fry"
+    }
+  ]
+}

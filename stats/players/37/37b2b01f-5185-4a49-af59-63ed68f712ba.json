@@ -1,0 +1,42 @@
+{
+  "id": "37b2b01f-5185-4a49-af59-63ed68f712ba",
+  "persona": "Gr3zzz",
+  "names": [
+    "Gr3zzz"
+  ],
+  "runs": 3,
+  "bestRank": 148,
+  "worstRank": 337,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3152220,
+  "weeksActive": [
+    50,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 148,
+      "ms": 4054604,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 337,
+      "ms": 3152220,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 256,
+      "ms": 3521920,
+      "dish": "Pies"
+    }
+  ]
+}

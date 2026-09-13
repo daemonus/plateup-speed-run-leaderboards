@@ -1,0 +1,42 @@
+{
+  "id": "9af8f6e0-0d29-4aa6-95b0-de5e65d66a5d",
+  "persona": "oblivionis",
+  "names": [
+    "oblivionis"
+  ],
+  "runs": 3,
+  "bestRank": 151,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2934708,
+  "weeksActive": [
+    54,
+    68,
+    69
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 254,
+      "ms": 4348964,
+      "dish": "Burgers"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 278,
+      "ms": 2934708,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 151,
+      "ms": 3298286,
+      "dish": "Burgers"
+    }
+  ]
+}

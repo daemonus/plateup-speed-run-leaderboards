@@ -1,0 +1,50 @@
+{
+  "id": "5990216e-a4b1-4742-8278-51bc95168c2b",
+  "persona": "jackson.danielle007",
+  "names": [
+    "jackson.danielle007"
+  ],
+  "runs": 4,
+  "bestRank": 261,
+  "worstRank": 613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3448464,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    0
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 613,
+      "ms": 6691331,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 299,
+      "ms": 3448464,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 433,
+      "ms": 3464386,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 261,
+      "ms": 4291543,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1d63d0c3-5d5b-4770-a2f0-3a8c433f9190",
+  "persona": "Cezar",
+  "names": [
+    "Cezar"
+  ],
+  "runs": 2,
+  "bestRank": 267,
+  "worstRank": 1165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3186964,
+  "weeksActive": [
+    -91,
+    -34
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1165,
+      "ms": 3186964,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 267,
+      "ms": 3290358,
+      "dish": "Pies"
+    }
+  ]
+}

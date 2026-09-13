@@ -1,0 +1,50 @@
+{
+  "id": "f16fbf31-9389-45d2-a9a6-b8db54be8419",
+  "persona": "Enfys",
+  "names": [
+    "Enfys"
+  ],
+  "runs": 4,
+  "bestRank": 4,
+  "worstRank": 76,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1574409,
+  "weeksActive": [
+    -75,
+    -74,
+    -66,
+    -59
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 76,
+      "ms": 1772742,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 18,
+      "ms": 1726747,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 4,
+      "ms": 1574409,
+      "dish": "Turkey"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 27,
+      "ms": 1979330,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

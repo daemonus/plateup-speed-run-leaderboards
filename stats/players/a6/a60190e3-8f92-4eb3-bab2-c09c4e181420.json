@@ -1,0 +1,42 @@
+{
+  "id": "a60190e3-8f92-4eb3-bab2-c09c4e181420",
+  "persona": "MeiMei",
+  "names": [
+    "MeiMei"
+  ],
+  "runs": 3,
+  "bestRank": 114,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2609065,
+  "weeksActive": [
+    -5,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 387,
+      "ms": 4405010,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 114,
+      "ms": 2609065,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 200,
+      "ms": 2625381,
+      "dish": "Turkey"
+    }
+  ]
+}

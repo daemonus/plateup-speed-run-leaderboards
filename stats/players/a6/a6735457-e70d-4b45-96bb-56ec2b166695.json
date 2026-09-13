@@ -1,0 +1,50 @@
+{
+  "id": "a6735457-e70d-4b45-96bb-56ec2b166695",
+  "persona": "high fructose corn syrup",
+  "names": [
+    "high fructose corn syrup"
+  ],
+  "runs": 4,
+  "bestRank": 27,
+  "worstRank": 191,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2114087,
+  "weeksActive": [
+    50,
+    53,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 46,
+      "ms": 2873138,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 191,
+      "ms": 3200731,
+      "dish": "Pies"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 38,
+      "ms": 2215529,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 27,
+      "ms": 2114087,
+      "dish": "Pizza"
+    }
+  ]
+}

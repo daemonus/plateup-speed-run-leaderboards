@@ -1,0 +1,34 @@
+{
+  "id": "f7b46cb6-3924-4663-b91e-a7f44cfeb6e9",
+  "persona": "DOGE",
+  "names": [
+    "DOGE"
+  ],
+  "runs": 2,
+  "bestRank": 175,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2119325,
+  "weeksActive": [
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 349,
+      "ms": 2138904,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 175,
+      "ms": 2119325,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4f4e2103-7be6-4f3d-bcbe-371d9003c065",
+  "persona": "DoYouEvenChase",
+  "names": [
+    "DoYouEvenChase"
+  ],
+  "runs": 3,
+  "bestRank": 88,
+  "worstRank": 751,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1659433,
+  "weeksActive": [
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 751,
+      "ms": 2290737,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 88,
+      "ms": 1659433,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 164,
+      "ms": 1955508,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "d23b9f0f-e5f8-4dbd-be47-9dc17c76e040",
+  "persona": "Xary",
+  "names": [
+    "Xary"
+  ],
+  "runs": 5,
+  "bestRank": 76,
+  "worstRank": 204,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1624633,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -20,
+    23
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 76,
+      "ms": 1984976,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 124,
+      "ms": 1624633,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 194,
+      "ms": 2171299,
+      "dish": "Pies"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 117,
+      "ms": 2958136,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 204,
+      "ms": 2612714,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "beb25283-df47-49db-a6ff-55ff73f29229",
+  "persona": "jojo",
+  "names": [
+    "jojo"
+  ],
+  "runs": 2,
+  "bestRank": 289,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3971425,
+  "weeksActive": [
+    4,
+    5
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 289,
+      "ms": 3971425,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 399,
+      "ms": 4640390,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f215d562-d023-4ba2-aaaf-c4bf77026cdf",
+  "persona": "Zev",
+  "names": [
+    "Zev"
+  ],
+  "runs": 2,
+  "bestRank": 357,
+  "worstRank": 1173,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2577466,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 357,
+      "ms": 2645887,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1173,
+      "ms": 2577466,
+      "dish": "Fish"
+    }
+  ]
+}

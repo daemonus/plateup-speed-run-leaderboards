@@ -1,0 +1,34 @@
+{
+  "id": "91e108c4-8f87-46e1-9a40-71db2b2d5fc9",
+  "persona": "Mitito",
+  "names": [
+    "Mitito"
+  ],
+  "runs": 2,
+  "bestRank": 376,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3658588,
+  "weeksActive": [
+    -55,
+    -44
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 376,
+      "ms": 4019018,
+      "dish": "Pizza"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 399,
+      "ms": 3658588,
+      "dish": "Turkey"
+    }
+  ]
+}

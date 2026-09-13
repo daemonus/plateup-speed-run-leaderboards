@@ -1,0 +1,42 @@
+{
+  "id": "3d145650-1c84-46b1-840b-d328d814e222",
+  "persona": "Tentacles",
+  "names": [
+    "Tentacles"
+  ],
+  "runs": 3,
+  "bestRank": 183,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2912207,
+  "weeksActive": [
+    -16,
+    15,
+    18
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 211,
+      "ms": 2912207,
+      "dish": "Pies"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 386,
+      "ms": 3124312,
+      "dish": "Turkey"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 183,
+      "ms": 3936512,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

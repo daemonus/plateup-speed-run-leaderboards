@@ -1,0 +1,34 @@
+{
+  "id": "ee726c85-6230-4725-af13-862e1a8e2105",
+  "persona": "ibnue",
+  "names": [
+    "ibnue"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 804,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2567198,
+  "weeksActive": [
+    -77,
+    -75
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 804,
+      "ms": 4571124,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 309,
+      "ms": 2567198,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "31da4ad9-74bd-4f9e-a67d-9493e2ae03ad",
+  "persona": "SunsetBlvd",
+  "names": [
+    "SunsetBlvd"
+  ],
+  "runs": 2,
+  "bestRank": 335,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6583687,
+  "weeksActive": [
+    51,
+    54
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 384,
+      "ms": 6583687,
+      "dish": "Salad"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 335,
+      "ms": 7192201,
+      "dish": "Burgers"
+    }
+  ]
+}

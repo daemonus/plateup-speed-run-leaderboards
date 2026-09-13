@@ -1,0 +1,34 @@
+{
+  "id": "6b758edc-b8e2-4e66-aa66-e010a9712f68",
+  "persona": "Snowy",
+  "names": [
+    "Snowy"
+  ],
+  "runs": 2,
+  "bestRank": 236,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4939710,
+  "weeksActive": [
+    78,
+    79
+  ],
+  "history": [
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 386,
+      "ms": 6801715,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 236,
+      "ms": 4939710,
+      "dish": "Salad"
+    }
+  ]
+}

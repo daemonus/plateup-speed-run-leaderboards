@@ -1,0 +1,82 @@
+{
+  "id": "b688e1c1-4465-4ab3-8fce-e2862004af7f",
+  "persona": "Vailen",
+  "names": [
+    "Vailen"
+  ],
+  "runs": 8,
+  "bestRank": 145,
+  "worstRank": 731,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3147967,
+  "weeksActive": [
+    -57,
+    -56,
+    -55,
+    -40,
+    -39,
+    -38,
+    -37,
+    -24
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 161,
+      "ms": 3512421,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 265,
+      "ms": 3203767,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 297,
+      "ms": 3684122,
+      "dish": "Pizza"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 145,
+      "ms": 3822734,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 466,
+      "ms": 3574206,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 484,
+      "ms": 3147967,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 731,
+      "ms": 3970121,
+      "dish": "Fish"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 207,
+      "ms": 4367323,
+      "dish": "Breakfast"
+    }
+  ]
+}

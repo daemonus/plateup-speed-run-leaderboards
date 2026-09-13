@@ -1,0 +1,42 @@
+{
+  "id": "bb9bfa3a-424c-400b-94c6-73adcf4b232d",
+  "persona": "GROUNELAND",
+  "names": [
+    "GROUNELAND"
+  ],
+  "runs": 3,
+  "bestRank": 86,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2416188,
+  "weeksActive": [
+    55,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 86,
+      "ms": 3016996,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 388,
+      "ms": 2416188,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 271,
+      "ms": 3431905,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "072f29a8-d261-4499-ad93-55ac8d875a21",
+  "persona": "Honey Badger",
+  "names": [
+    "Honey Badger"
+  ],
+  "runs": 3,
+  "bestRank": 79,
+  "worstRank": 163,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2947696,
+  "weeksActive": [
+    -8,
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 79,
+      "ms": 3174679,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 163,
+      "ms": 3916717,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 96,
+      "ms": 2947696,
+      "dish": "Breakfast"
+    }
+  ]
+}

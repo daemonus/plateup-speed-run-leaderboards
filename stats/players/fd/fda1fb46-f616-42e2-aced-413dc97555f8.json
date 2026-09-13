@@ -1,0 +1,42 @@
+{
+  "id": "fda1fb46-f616-42e2-aced-413dc97555f8",
+  "persona": "antsy",
+  "names": [
+    "antsy"
+  ],
+  "runs": 3,
+  "bestRank": 793,
+  "worstRank": 1647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2749974,
+  "weeksActive": [
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1647,
+      "ms": 2895725,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 850,
+      "ms": 2749974,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 793,
+      "ms": 3880847,
+      "dish": "Pies"
+    }
+  ]
+}

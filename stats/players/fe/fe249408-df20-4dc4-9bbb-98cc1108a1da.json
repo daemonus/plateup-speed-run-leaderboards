@@ -1,0 +1,50 @@
+{
+  "id": "fe249408-df20-4dc4-9bbb-98cc1108a1da",
+  "persona": "Samich",
+  "names": [
+    "Samich"
+  ],
+  "runs": 4,
+  "bestRank": 43,
+  "worstRank": 463,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2654318,
+  "weeksActive": [
+    -34,
+    -33,
+    -30,
+    48
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 191,
+      "ms": 2895598,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 75,
+      "ms": 2654318,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 463,
+      "ms": 3109469,
+      "dish": "Turkey"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 43,
+      "ms": 3036112,
+      "dish": "Pizza"
+    }
+  ]
+}

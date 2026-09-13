@@ -1,0 +1,34 @@
+{
+  "id": "7bb76826-4ce1-41d4-b3d0-96866989ec96",
+  "persona": "Mukstin",
+  "names": [
+    "Mukstin"
+  ],
+  "runs": 2,
+  "bestRank": 257,
+  "worstRank": 540,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3322889,
+  "weeksActive": [
+    -72,
+    -70
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 257,
+      "ms": 3322889,
+      "dish": "Pies"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 540,
+      "ms": 5059373,
+      "dish": "Breakfast"
+    }
+  ]
+}

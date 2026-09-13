@@ -1,0 +1,42 @@
+{
+  "id": "1c9301a9-573f-4f8a-a609-800a25d6b837",
+  "persona": "b",
+  "names": [
+    "b"
+  ],
+  "runs": 3,
+  "bestRank": 285,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3179551,
+  "weeksActive": [
+    -63,
+    -59,
+    -44
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 467,
+      "ms": 4446159,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 345,
+      "ms": 3658708,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 285,
+      "ms": 3179551,
+      "dish": "Turkey"
+    }
+  ]
+}

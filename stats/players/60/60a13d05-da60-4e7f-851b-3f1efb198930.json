@@ -1,0 +1,58 @@
+{
+  "id": "60a13d05-da60-4e7f-851b-3f1efb198930",
+  "persona": "DerCarlster",
+  "names": [
+    "DerCarlster"
+  ],
+  "runs": 5,
+  "bestRank": 120,
+  "worstRank": 1020,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2225135,
+  "weeksActive": [
+    -93,
+    -91,
+    -82,
+    -75,
+    -70
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1020,
+      "ms": 2468044,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 422,
+      "ms": 2225135,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 430,
+      "ms": 3267436,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 250,
+      "ms": 2393228,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 120,
+      "ms": 3214405,
+      "dish": "Breakfast"
+    }
+  ]
+}

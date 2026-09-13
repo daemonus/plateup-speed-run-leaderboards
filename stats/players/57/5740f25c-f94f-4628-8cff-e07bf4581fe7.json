@@ -1,0 +1,34 @@
+{
+  "id": "5740f25c-f94f-4628-8cff-e07bf4581fe7",
+  "persona": "beans",
+  "names": [
+    "beans"
+  ],
+  "runs": 2,
+  "bestRank": 330,
+  "worstRank": 647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4348026,
+  "weeksActive": [
+    -41,
+    -39
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 330,
+      "ms": 4973303,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 647,
+      "ms": 4348026,
+      "dish": "Pizza"
+    }
+  ]
+}

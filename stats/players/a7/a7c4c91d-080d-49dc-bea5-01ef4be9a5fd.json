@@ -1,0 +1,34 @@
+{
+  "id": "a7c4c91d-080d-49dc-bea5-01ef4be9a5fd",
+  "persona": "aaa",
+  "names": [
+    "aaa"
+  ],
+  "runs": 2,
+  "bestRank": 65,
+  "worstRank": 132,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2313971,
+  "weeksActive": [
+    24,
+    32
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 132,
+      "ms": 2763741,
+      "dish": "Pies"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 65,
+      "ms": 2313971,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "31b8dc47-797a-43ab-a62e-d45558652153",
+  "persona": "maria",
+  "names": [
+    "maria"
+  ],
+  "runs": 8,
+  "bestRank": 186,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2496270,
+  "weeksActive": [
+    -82,
+    -78,
+    -77,
+    -74,
+    -73,
+    69,
+    73,
+    80
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 207,
+      "ms": 2496270,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 403,
+      "ms": 3902598,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 549,
+      "ms": 3729084,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 582,
+      "ms": 5416677,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 207,
+      "ms": 4550887,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 299,
+      "ms": 6435488,
+      "dish": "Burgers"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 282,
+      "ms": 5416285,
+      "dish": "Burgers"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 186,
+      "ms": 3167653,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "625e4928-37c3-49c2-8411-90e3d0882693",
+  "persona": "Nato",
+  "names": [
+    "Nato"
+  ],
+  "runs": 3,
+  "bestRank": 155,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3497591,
+  "weeksActive": [
+    32,
+    33,
+    34
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 284,
+      "ms": 3948259,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 155,
+      "ms": 3497591,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 224,
+      "ms": 3932391,
+      "dish": "Stir Fry"
+    }
+  ]
+}

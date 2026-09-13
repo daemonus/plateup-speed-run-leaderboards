@@ -1,0 +1,50 @@
+{
+  "id": "30a82268-d034-43be-bddb-14ef21ed66c5",
+  "persona": "nyx.auris",
+  "names": [
+    "nyx.auris"
+  ],
+  "runs": 4,
+  "bestRank": 84,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2987984,
+  "weeksActive": [
+    -29,
+    -26,
+    -25,
+    51
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 110,
+      "ms": 3317072,
+      "dish": "Burgers"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 84,
+      "ms": 2987984,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 166,
+      "ms": 3276778,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 270,
+      "ms": 4374784,
+      "dish": "Salad"
+    }
+  ]
+}

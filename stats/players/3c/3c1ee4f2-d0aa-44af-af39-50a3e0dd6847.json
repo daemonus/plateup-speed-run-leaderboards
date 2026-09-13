@@ -1,0 +1,42 @@
+{
+  "id": "3c1ee4f2-d0aa-44af-af39-50a3e0dd6847",
+  "persona": "Lasttopus",
+  "names": [
+    "Lasttopus"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 304,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3835423,
+  "weeksActive": [
+    -73,
+    -10,
+    14
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 304,
+      "ms": 5354834,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 149,
+      "ms": 3835423,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 299,
+      "ms": 4320523,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

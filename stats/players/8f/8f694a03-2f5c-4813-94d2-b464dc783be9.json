@@ -1,0 +1,82 @@
+{
+  "id": "8f694a03-2f5c-4813-94d2-b464dc783be9",
+  "persona": "Chiggi",
+  "names": [
+    "Chiggi"
+  ],
+  "runs": 8,
+  "bestRank": 63,
+  "worstRank": 290,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2388832,
+  "weeksActive": [
+    -61,
+    -60,
+    -30,
+    -5,
+    -4,
+    -2,
+    0,
+    4
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 231,
+      "ms": 3240214,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 290,
+      "ms": 3943976,
+      "dish": "Burgers"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 203,
+      "ms": 2388832,
+      "dish": "Turkey"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 163,
+      "ms": 3451369,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 103,
+      "ms": 2547135,
+      "dish": "Pies"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 206,
+      "ms": 3025189,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 63,
+      "ms": 2927788,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 167,
+      "ms": 3136994,
+      "dish": "Breakfast"
+    }
+  ]
+}

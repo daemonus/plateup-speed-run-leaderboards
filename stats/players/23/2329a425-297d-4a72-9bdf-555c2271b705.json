@@ -1,0 +1,66 @@
+{
+  "id": "2329a425-297d-4a72-9bdf-555c2271b705",
+  "persona": "Weecho",
+  "names": [
+    "Weecho"
+  ],
+  "runs": 6,
+  "bestRank": 87,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2156470,
+  "weeksActive": [
+    41,
+    43,
+    44,
+    45,
+    46,
+    53
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 248,
+      "ms": 2156470,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 260,
+      "ms": 2640041,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 181,
+      "ms": 2940528,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 87,
+      "ms": 3221187,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 145,
+      "ms": 2757328,
+      "dish": "Pizza"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 187,
+      "ms": 3147509,
+      "dish": "Pies"
+    }
+  ]
+}

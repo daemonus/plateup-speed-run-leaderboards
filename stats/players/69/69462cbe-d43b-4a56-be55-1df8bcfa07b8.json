@@ -1,0 +1,42 @@
+{
+  "id": "69462cbe-d43b-4a56-be55-1df8bcfa07b8",
+  "persona": "Kyrant",
+  "names": [
+    "Kyrant"
+  ],
+  "runs": 3,
+  "bestRank": 56,
+  "worstRank": 82,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2269047,
+  "weeksActive": [
+    -34,
+    -33,
+    -21
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 56,
+      "ms": 2269047,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 82,
+      "ms": 2689306,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 75,
+      "ms": 2402855,
+      "dish": "Pizza"
+    }
+  ]
+}

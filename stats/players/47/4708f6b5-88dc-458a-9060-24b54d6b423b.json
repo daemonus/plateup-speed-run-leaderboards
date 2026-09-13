@@ -1,0 +1,58 @@
+{
+  "id": "4708f6b5-88dc-458a-9060-24b54d6b423b",
+  "persona": "kdanielle123",
+  "names": [
+    "kdanielle123"
+  ],
+  "runs": 5,
+  "bestRank": 213,
+  "worstRank": 804,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3434961,
+  "weeksActive": [
+    -40,
+    -25,
+    -18,
+    15,
+    23
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 213,
+      "ms": 4745710,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 678,
+      "ms": 6216295,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 804,
+      "ms": 6301515,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 580,
+      "ms": 3979334,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 352,
+      "ms": 3434961,
+      "dish": "Turkey"
+    }
+  ]
+}

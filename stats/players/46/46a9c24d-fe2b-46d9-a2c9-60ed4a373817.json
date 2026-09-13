@@ -1,0 +1,58 @@
+{
+  "id": "46a9c24d-fe2b-46d9-a2c9-60ed4a373817",
+  "persona": "TESSA",
+  "names": [
+    "TESSA"
+  ],
+  "runs": 5,
+  "bestRank": 256,
+  "worstRank": 439,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3220933,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    46,
+    77
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 256,
+      "ms": 3838972,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 336,
+      "ms": 3608428,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 371,
+      "ms": 3220933,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 314,
+      "ms": 3527959,
+      "dish": "Pizza"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 439,
+      "ms": 4284430,
+      "dish": "Sundaes"
+    }
+  ]
+}

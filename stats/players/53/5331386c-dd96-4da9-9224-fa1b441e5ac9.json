@@ -1,0 +1,50 @@
+{
+  "id": "5331386c-dd96-4da9-9224-fa1b441e5ac9",
+  "persona": "complicasian",
+  "names": [
+    "complicasian"
+  ],
+  "runs": 4,
+  "bestRank": 196,
+  "worstRank": 228,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1979949,
+  "weeksActive": [
+    -78,
+    -76,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 216,
+      "ms": 2991150,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 218,
+      "ms": 2505592,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 228,
+      "ms": 3082147,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 196,
+      "ms": 1979949,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "db145a95-e12b-440d-b197-64ee9ab11ad0",
+  "persona": "NickTheMaleNurse",
+  "names": [
+    "NickTheMaleNurse"
+  ],
+  "runs": 3,
+  "bestRank": 193,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2975588,
+  "weeksActive": [
+    28,
+    31,
+    35
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 228,
+      "ms": 2975588,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 256,
+      "ms": 3161302,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 193,
+      "ms": 3252804,
+      "dish": "Fish"
+    }
+  ]
+}

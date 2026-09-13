@@ -1,0 +1,58 @@
+{
+  "id": "9bc47657-523d-433b-8cb0-658d98a69c44",
+  "persona": "SassySyka",
+  "names": [
+    "SassySyka"
+  ],
+  "runs": 5,
+  "bestRank": 129,
+  "worstRank": 877,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2679603,
+  "weeksActive": [
+    -32,
+    -8,
+    -6,
+    -3,
+    3
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 877,
+      "ms": 4321121,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 197,
+      "ms": 4384784,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 323,
+      "ms": 4081321,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 363,
+      "ms": 3175864,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 129,
+      "ms": 2679603,
+      "dish": "Fish"
+    }
+  ]
+}

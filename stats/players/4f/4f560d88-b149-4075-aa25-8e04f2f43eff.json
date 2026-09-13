@@ -1,0 +1,34 @@
+{
+  "id": "4f560d88-b149-4075-aa25-8e04f2f43eff",
+  "persona": "NotaSingleFkGiven",
+  "names": [
+    "NotaSingleFkGiven"
+  ],
+  "runs": 2,
+  "bestRank": 521,
+  "worstRank": 601,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2448673,
+  "weeksActive": [
+    -91,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 601,
+      "ms": 2448673,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 521,
+      "ms": 3288725,
+      "dish": "Turkey"
+    }
+  ]
+}

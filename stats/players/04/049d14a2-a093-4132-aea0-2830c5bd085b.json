@@ -1,0 +1,58 @@
+{
+  "id": "049d14a2-a093-4132-aea0-2830c5bd085b",
+  "persona": "Tasil",
+  "names": [
+    "Tasil"
+  ],
+  "runs": 5,
+  "bestRank": 321,
+  "worstRank": 597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4400577,
+  "weeksActive": [
+    -3,
+    -2,
+    0,
+    2,
+    28
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 597,
+      "ms": 4400577,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 429,
+      "ms": 5395676,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 321,
+      "ms": 4602828,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 359,
+      "ms": 4609938,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 382,
+      "ms": 4550247,
+      "dish": "Turkey"
+    }
+  ]
+}

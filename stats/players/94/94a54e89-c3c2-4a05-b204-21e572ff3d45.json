@@ -1,0 +1,50 @@
+{
+  "id": "94a54e89-c3c2-4a05-b204-21e572ff3d45",
+  "persona": "Nhii",
+  "names": [
+    "Nhii"
+  ],
+  "runs": 4,
+  "bestRank": 258,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3848349,
+  "weeksActive": [
+    -8,
+    30,
+    31,
+    34
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 491,
+      "ms": 10381933,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 327,
+      "ms": 3848349,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 535,
+      "ms": 4502865,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 258,
+      "ms": 4077301,
+      "dish": "Stir Fry"
+    }
+  ]
+}

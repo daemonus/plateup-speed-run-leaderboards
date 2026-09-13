@@ -1,0 +1,34 @@
+{
+  "id": "60af8359-9ab4-41fc-9e0a-7e1180bc1e7a",
+  "persona": "Roro",
+  "names": [
+    "Roro"
+  ],
+  "runs": 2,
+  "bestRank": 358,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5622403,
+  "weeksActive": [
+    -84,
+    55
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 700,
+      "ms": 6598741,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 358,
+      "ms": 5622403,
+      "dish": "Stir Fry"
+    }
+  ]
+}

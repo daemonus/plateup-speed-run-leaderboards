@@ -1,0 +1,50 @@
+{
+  "id": "bf77cd2f-5b70-463d-930c-1a76efc2eb31",
+  "persona": "SamKloes",
+  "names": [
+    "SamKloes"
+  ],
+  "runs": 4,
+  "bestRank": 43,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1588966,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 465,
+      "ms": 2800311,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 140,
+      "ms": 1658727,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 43,
+      "ms": 1700515,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 67,
+      "ms": 1588966,
+      "dish": "Fish"
+    }
+  ]
+}

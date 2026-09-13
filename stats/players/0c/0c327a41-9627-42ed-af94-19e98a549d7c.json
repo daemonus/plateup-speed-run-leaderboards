@@ -1,0 +1,50 @@
+{
+  "id": "0c327a41-9627-42ed-af94-19e98a549d7c",
+  "persona": "lansj?",
+  "names": [
+    "lansj?"
+  ],
+  "runs": 4,
+  "bestRank": 71,
+  "worstRank": 172,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2027721,
+  "weeksActive": [
+    -75,
+    -74,
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 148,
+      "ms": 2027721,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 172,
+      "ms": 3015309,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 102,
+      "ms": 3080601,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 71,
+      "ms": 3207849,
+      "dish": "Stir Fry"
+    }
+  ]
+}

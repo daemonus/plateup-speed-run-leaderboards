@@ -1,0 +1,50 @@
+{
+  "id": "8f615859-61a8-40c5-94c6-24f87286a606",
+  "persona": "ansosog",
+  "names": [
+    "ansosog"
+  ],
+  "runs": 4,
+  "bestRank": 233,
+  "worstRank": 847,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2989446,
+  "weeksActive": [
+    -71,
+    -39,
+    -38,
+    -17
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 847,
+      "ms": 3906777,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 598,
+      "ms": 4110525,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 418,
+      "ms": 2989446,
+      "dish": "Turkey"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 233,
+      "ms": 3490891,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

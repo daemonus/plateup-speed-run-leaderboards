@@ -1,0 +1,58 @@
+{
+  "id": "1b6bb3ca-099e-47a4-bd6b-78e2ccd0fb84",
+  "persona": "Jay",
+  "names": [
+    "Jay"
+  ],
+  "runs": 5,
+  "bestRank": 183,
+  "worstRank": 329,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2327879,
+  "weeksActive": [
+    41,
+    43,
+    57,
+    60,
+    78
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 301,
+      "ms": 2327879,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 183,
+      "ms": 2436275,
+      "dish": "Fish"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 329,
+      "ms": 3706522,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 271,
+      "ms": 3836858,
+      "dish": "Burgers"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 212,
+      "ms": 3238494,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

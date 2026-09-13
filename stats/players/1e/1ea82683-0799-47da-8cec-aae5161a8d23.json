@@ -1,0 +1,58 @@
+{
+  "id": "1ea82683-0799-47da-8cec-aae5161a8d23",
+  "persona": "Yod",
+  "names": [
+    "Yod"
+  ],
+  "runs": 5,
+  "bestRank": 208,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3714928,
+  "weeksActive": [
+    46,
+    47,
+    58,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 495,
+      "ms": 4531744,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 208,
+      "ms": 3714928,
+      "dish": "Pizza"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 492,
+      "ms": 3990150,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 435,
+      "ms": 7454791,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 266,
+      "ms": 3893816,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

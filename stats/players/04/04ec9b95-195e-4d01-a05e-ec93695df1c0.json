@@ -1,0 +1,34 @@
+{
+  "id": "04ec9b95-195e-4d01-a05e-ec93695df1c0",
+  "persona": "SevenSnake",
+  "names": [
+    "SevenSnake"
+  ],
+  "runs": 2,
+  "bestRank": 286,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3864780,
+  "weeksActive": [
+    19,
+    67
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 387,
+      "ms": 5005073,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 286,
+      "ms": 3864780,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

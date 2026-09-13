@@ -1,0 +1,42 @@
+{
+  "id": "31989dda-f110-4fbd-b2fd-e4e0e576c317",
+  "persona": "Arisu",
+  "names": [
+    "Arisu"
+  ],
+  "runs": 3,
+  "bestRank": 13,
+  "worstRank": 29,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1417415,
+  "weeksActive": [
+    -75,
+    -74,
+    -72
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 29,
+      "ms": 1417415,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 15,
+      "ms": 1693101,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 13,
+      "ms": 1683927,
+      "dish": "Pies"
+    }
+  ]
+}

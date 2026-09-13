@@ -1,0 +1,58 @@
+{
+  "id": "f21780e3-6cd9-4ae1-9790-a84c19d3d10a",
+  "persona": "shadagai",
+  "names": [
+    "shadagai"
+  ],
+  "runs": 5,
+  "bestRank": 161,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2855543,
+  "weeksActive": [
+    -37,
+    -33,
+    -31,
+    -30,
+    -25
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 265,
+      "ms": 2872545,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 161,
+      "ms": 3201245,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 164,
+      "ms": 2855543,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 367,
+      "ms": 2876257,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 317,
+      "ms": 3972170,
+      "dish": "Breakfast"
+    }
+  ]
+}

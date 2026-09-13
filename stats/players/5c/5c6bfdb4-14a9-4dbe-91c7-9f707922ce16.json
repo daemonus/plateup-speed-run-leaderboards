@@ -1,0 +1,34 @@
+{
+  "id": "5c6bfdb4-14a9-4dbe-91c7-9f707922ce16",
+  "persona": "REPAIRMAN-MAN-MAN-MAN",
+  "names": [
+    "REPAIRMAN-MAN-MAN-MAN"
+  ],
+  "runs": 2,
+  "bestRank": 370,
+  "worstRank": 552,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3765543,
+  "weeksActive": [
+    -20,
+    38
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 552,
+      "ms": 5590933,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 370,
+      "ms": 3765543,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8ae27f97-b720-4713-b150-3eebee2f6ce3",
+  "persona": "Derpy Potato",
+  "names": [
+    "Derpy Potato"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 493,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1710620,
+  "weeksActive": [
+    61,
+    62,
+    64
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 339,
+      "ms": 4785924,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 493,
+      "ms": 4556199,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 125,
+      "ms": 1710620,
+      "dish": "Sundaes"
+    }
+  ]
+}

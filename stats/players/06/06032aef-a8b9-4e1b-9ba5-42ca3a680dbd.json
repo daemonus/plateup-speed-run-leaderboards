@@ -1,0 +1,42 @@
+{
+  "id": "06032aef-a8b9-4e1b-9ba5-42ca3a680dbd",
+  "persona": "DreamJester",
+  "names": [
+    "DreamJester"
+  ],
+  "runs": 3,
+  "bestRank": 227,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4581681,
+  "weeksActive": [
+    -50,
+    1,
+    4
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 227,
+      "ms": 4581681,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 451,
+      "ms": 5500763,
+      "dish": "Pies"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 459,
+      "ms": 6232014,
+      "dish": "Breakfast"
+    }
+  ]
+}

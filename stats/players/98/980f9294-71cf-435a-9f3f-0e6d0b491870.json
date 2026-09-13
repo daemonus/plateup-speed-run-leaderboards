@@ -1,0 +1,50 @@
+{
+  "id": "980f9294-71cf-435a-9f3f-0e6d0b491870",
+  "persona": "Bean",
+  "names": [
+    "Bean"
+  ],
+  "runs": 4,
+  "bestRank": 116,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3209866,
+  "weeksActive": [
+    -23,
+    -22,
+    -21,
+    -19
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 116,
+      "ms": 3209866,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 238,
+      "ms": 5078767,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 341,
+      "ms": 3832045,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 189,
+      "ms": 3297311,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

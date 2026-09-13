@@ -1,0 +1,66 @@
+{
+  "id": "ed7d17f8-ddad-49d7-a145-765437a201a3",
+  "persona": "Liv",
+  "names": [
+    "Liv"
+  ],
+  "runs": 6,
+  "bestRank": 74,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1916303,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 565,
+      "ms": 2155867,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 332,
+      "ms": 2967441,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 307,
+      "ms": 2071943,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 213,
+      "ms": 2096241,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 123,
+      "ms": 1916303,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 74,
+      "ms": 2180325,
+      "dish": "Pies"
+    }
+  ]
+}

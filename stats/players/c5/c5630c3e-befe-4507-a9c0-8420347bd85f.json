@@ -1,0 +1,66 @@
+{
+  "id": "c5630c3e-befe-4507-a9c0-8420347bd85f",
+  "persona": "starlightia",
+  "names": [
+    "starlightia"
+  ],
+  "runs": 6,
+  "bestRank": 224,
+  "worstRank": 809,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4423438,
+  "weeksActive": [
+    -34,
+    -33,
+    -31,
+    -30,
+    -29,
+    -25
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 495,
+      "ms": 5609434,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 434,
+      "ms": 5466936,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 805,
+      "ms": 4947664,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 809,
+      "ms": 4423438,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 224,
+      "ms": 5731087,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 656,
+      "ms": 5735896,
+      "dish": "Breakfast"
+    }
+  ]
+}

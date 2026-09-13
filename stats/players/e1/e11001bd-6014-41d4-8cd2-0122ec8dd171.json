@@ -1,0 +1,34 @@
+{
+  "id": "e11001bd-6014-41d4-8cd2-0122ec8dd171",
+  "persona": "Itsme",
+  "names": [
+    "Itsme"
+  ],
+  "runs": 2,
+  "bestRank": 1373,
+  "worstRank": 1419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2741863,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1373,
+      "ms": 3964420,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1419,
+      "ms": 2741863,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c6882a18-d860-4b2e-81ec-53bea3cda046",
+  "persona": "Pablo Jones",
+  "names": [
+    "Pablo Jones"
+  ],
+  "runs": 2,
+  "bestRank": 335,
+  "worstRank": 588,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3029723,
+  "weeksActive": [
+    56,
+    60
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 588,
+      "ms": 3029723,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 335,
+      "ms": 4434708,
+      "dish": "Burgers"
+    }
+  ]
+}

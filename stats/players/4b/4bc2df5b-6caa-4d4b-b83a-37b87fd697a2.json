@@ -1,0 +1,42 @@
+{
+  "id": "4bc2df5b-6caa-4d4b-b83a-37b87fd697a2",
+  "persona": "bjholubets",
+  "names": [
+    "bjholubets"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 261,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2668415,
+  "weeksActive": [
+    -83,
+    71,
+    76
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 152,
+      "ms": 2668415,
+      "dish": "Steak"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 261,
+      "ms": 3584894,
+      "dish": "Pizza"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 188,
+      "ms": 4394302,
+      "dish": "Salad"
+    }
+  ]
+}

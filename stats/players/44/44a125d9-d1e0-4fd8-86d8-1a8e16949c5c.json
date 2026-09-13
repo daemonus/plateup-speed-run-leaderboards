@@ -1,0 +1,50 @@
+{
+  "id": "44a125d9-d1e0-4fd8-86d8-1a8e16949c5c",
+  "persona": "MissAlice",
+  "names": [
+    "MissAlice"
+  ],
+  "runs": 4,
+  "bestRank": 133,
+  "worstRank": 1063,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4752528,
+  "weeksActive": [
+    -75,
+    -73,
+    -48,
+    -32
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1056,
+      "ms": 7113199,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 321,
+      "ms": 5633575,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 133,
+      "ms": 4752528,
+      "dish": "Burgers"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1063,
+      "ms": 5030212,
+      "dish": "Breakfast"
+    }
+  ]
+}

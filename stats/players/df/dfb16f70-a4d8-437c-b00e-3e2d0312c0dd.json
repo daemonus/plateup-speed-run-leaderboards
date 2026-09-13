@@ -1,0 +1,42 @@
+{
+  "id": "dfb16f70-a4d8-437c-b00e-3e2d0312c0dd",
+  "persona": "ywelly",
+  "names": [
+    "ywelly"
+  ],
+  "runs": 3,
+  "bestRank": 171,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2728884,
+  "weeksActive": [
+    -4,
+    41,
+    51
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 248,
+      "ms": 3194117,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 424,
+      "ms": 2728884,
+      "dish": "Turkey"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 171,
+      "ms": 3661554,
+      "dish": "Salad"
+    }
+  ]
+}

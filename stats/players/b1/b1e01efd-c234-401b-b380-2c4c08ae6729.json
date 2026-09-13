@@ -1,0 +1,34 @@
+{
+  "id": "b1e01efd-c234-401b-b380-2c4c08ae6729",
+  "persona": "Abygale",
+  "names": [
+    "Abygale"
+  ],
+  "runs": 2,
+  "bestRank": 345,
+  "worstRank": 735,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4293801,
+  "weeksActive": [
+    -51,
+    -47
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 735,
+      "ms": 5924199,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 345,
+      "ms": 4293801,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

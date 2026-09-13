@@ -1,0 +1,58 @@
+{
+  "id": "1e40bea0-6b46-434c-bc4a-42bcf0d7b264",
+  "persona": "Jenerally",
+  "names": [
+    "Jenerally"
+  ],
+  "runs": 5,
+  "bestRank": 589,
+  "worstRank": 2142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2837266,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1263,
+      "ms": 3768680,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2142,
+      "ms": 3249769,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 701,
+      "ms": 4282082,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1150,
+      "ms": 3163730,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 589,
+      "ms": 2837266,
+      "dish": "Fish"
+    }
+  ]
+}

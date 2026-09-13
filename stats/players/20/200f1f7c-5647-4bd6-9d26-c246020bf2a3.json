@@ -1,0 +1,34 @@
+{
+  "id": "200f1f7c-5647-4bd6-9d26-c246020bf2a3",
+  "persona": "Obamba",
+  "names": [
+    "Obamba"
+  ],
+  "runs": 2,
+  "bestRank": 278,
+  "worstRank": 683,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3480650,
+  "weeksActive": [
+    -75,
+    -68
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 683,
+      "ms": 3480650,
+      "dish": "Fish"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 278,
+      "ms": 4660536,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "c736e794-8fbd-414d-91d6-0bef449d44d0",
+  "persona": "Kailaria",
+  "names": [
+    "Kailaria"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3061208,
+  "weeksActive": [
+    -72,
+    -71,
+    -70,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 666,
+      "ms": 4704102,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 424,
+      "ms": 3061208,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 452,
+      "ms": 4664689,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 133,
+      "ms": 3736429,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 239,
+      "ms": 4254180,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7645eb71-8f60-41c3-953d-f88f9f105872",
+  "persona": "NisaNeepa",
+  "names": [
+    "NisaNeepa"
+  ],
+  "runs": 4,
+  "bestRank": 178,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3284394,
+  "weeksActive": [
+    -52,
+    -45,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 188,
+      "ms": 4693015,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 379,
+      "ms": 3923555,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 533,
+      "ms": 3284394,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 178,
+      "ms": 4120341,
+      "dish": "Burgers"
+    }
+  ]
+}

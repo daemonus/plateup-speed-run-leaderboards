@@ -1,0 +1,42 @@
+{
+  "id": "41174cda-b964-4b56-a733-e709ca8b17c6",
+  "persona": "Jessie",
+  "names": [
+    "Jessie"
+  ],
+  "runs": 3,
+  "bestRank": 456,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3200467,
+  "weeksActive": [
+    -83,
+    -76,
+    8
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 456,
+      "ms": 3946481,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 500,
+      "ms": 3249817,
+      "dish": "Turkey"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 464,
+      "ms": 3200467,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5517e2aa-3a62-4fa7-98a6-fa66cc17f7d1",
+  "persona": "killng",
+  "names": [
+    "killng"
+  ],
+  "runs": 5,
+  "bestRank": 53,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2005836,
+  "weeksActive": [
+    38,
+    41,
+    43,
+    44,
+    47
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 380,
+      "ms": 3834147,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 496,
+      "ms": 2983929,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 74,
+      "ms": 2005836,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 53,
+      "ms": 2219674,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 118,
+      "ms": 2967533,
+      "dish": "Pizza"
+    }
+  ]
+}

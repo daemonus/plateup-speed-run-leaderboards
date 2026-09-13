@@ -1,0 +1,50 @@
+{
+  "id": "8daa9237-ff6b-461e-8433-c5f44ddde69c",
+  "persona": "STMiri",
+  "names": [
+    "STMiri"
+  ],
+  "runs": 4,
+  "bestRank": 250,
+  "worstRank": 1753,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2714684,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -71
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1753,
+      "ms": 5712136,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1723,
+      "ms": 2951608,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1409,
+      "ms": 3600329,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 250,
+      "ms": 2714684,
+      "dish": "Turkey"
+    }
+  ]
+}

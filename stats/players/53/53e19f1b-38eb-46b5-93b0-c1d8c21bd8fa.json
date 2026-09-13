@@ -1,0 +1,66 @@
+{
+  "id": "53e19f1b-38eb-46b5-93b0-c1d8c21bd8fa",
+  "persona": "Toumignon",
+  "names": [
+    "Toumignon"
+  ],
+  "runs": 6,
+  "bestRank": 88,
+  "worstRank": 763,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2470836,
+  "weeksActive": [
+    -51,
+    -37,
+    42,
+    44,
+    66,
+    73
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 638,
+      "ms": 4390069,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 763,
+      "ms": 4060225,
+      "dish": "Fish"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 88,
+      "ms": 2723201,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 179,
+      "ms": 2928560,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 113,
+      "ms": 2470836,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 96,
+      "ms": 2671049,
+      "dish": "Burgers"
+    }
+  ]
+}

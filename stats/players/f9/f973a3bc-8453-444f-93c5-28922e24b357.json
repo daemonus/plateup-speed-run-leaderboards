@@ -1,0 +1,58 @@
+{
+  "id": "f973a3bc-8453-444f-93c5-28922e24b357",
+  "persona": "Weasel Eggs",
+  "names": [
+    "Weasel Eggs"
+  ],
+  "runs": 5,
+  "bestRank": 466,
+  "worstRank": 1152,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3248805,
+  "weeksActive": [
+    -90,
+    -89,
+    -88,
+    -84,
+    -75
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1152,
+      "ms": 4581259,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 656,
+      "ms": 3358511,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 912,
+      "ms": 6899358,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 466,
+      "ms": 3444349,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 580,
+      "ms": 3248805,
+      "dish": "Fish"
+    }
+  ]
+}

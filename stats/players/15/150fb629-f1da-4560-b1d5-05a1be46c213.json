@@ -1,0 +1,66 @@
+{
+  "id": "150fb629-f1da-4560-b1d5-05a1be46c213",
+  "persona": "Arshi",
+  "names": [
+    "Arshi"
+  ],
+  "runs": 6,
+  "bestRank": 159,
+  "worstRank": 623,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3246125,
+  "weeksActive": [
+    -34,
+    -32,
+    38,
+    40,
+    50,
+    87
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 257,
+      "ms": 3246125,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 623,
+      "ms": 3776674,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 323,
+      "ms": 3562487,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 179,
+      "ms": 3529160,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 159,
+      "ms": 4147816,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 189,
+      "ms": 5084380,
+      "dish": "Fajitas"
+    }
+  ]
+}

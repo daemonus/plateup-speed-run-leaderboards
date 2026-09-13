@@ -1,0 +1,74 @@
+{
+  "id": "b13d5650-674c-4c36-bad1-afd55cec5cec",
+  "persona": "jackodon15",
+  "names": [
+    "jackodon15"
+  ],
+  "runs": 7,
+  "bestRank": 30,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2066140,
+  "weeksActive": [
+    -48,
+    -46,
+    38,
+    48,
+    58,
+    60,
+    65
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 86,
+      "ms": 3512990,
+      "dish": "Burgers"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 87,
+      "ms": 3023824,
+      "dish": "Salad"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 132,
+      "ms": 2610434,
+      "dish": "Pies"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 30,
+      "ms": 2922283,
+      "dish": "Pizza"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 299,
+      "ms": 3141738,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 180,
+      "ms": 3246028,
+      "dish": "Burgers"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 32,
+      "ms": 2066140,
+      "dish": "Pizza"
+    }
+  ]
+}

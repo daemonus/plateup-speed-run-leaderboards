@@ -1,0 +1,42 @@
+{
+  "id": "56d7989d-47a9-49a9-b271-68fe9f2ca635",
+  "persona": "\u53C8\u83DC\u53C8\u7231\u73A9",
+  "names": [
+    "\u53C8\u83DC\u53C8\u7231\u73A9"
+  ],
+  "runs": 3,
+  "bestRank": 445,
+  "worstRank": 805,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3096134,
+  "weeksActive": [
+    -76,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 805,
+      "ms": 4089773,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 483,
+      "ms": 4547265,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 445,
+      "ms": 3096134,
+      "dish": "Turkey"
+    }
+  ]
+}

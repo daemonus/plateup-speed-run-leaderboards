@@ -1,0 +1,50 @@
+{
+  "id": "d5a92774-c524-408f-a3de-10c917211448",
+  "persona": "tekka",
+  "names": [
+    "tekka"
+  ],
+  "runs": 4,
+  "bestRank": 78,
+  "worstRank": 151,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1911685,
+  "weeksActive": [
+    -22,
+    -17,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 78,
+      "ms": 3159807,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 113,
+      "ms": 2708380,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 138,
+      "ms": 2611652,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 151,
+      "ms": 1911685,
+      "dish": "Sundaes"
+    }
+  ]
+}

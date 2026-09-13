@@ -1,0 +1,42 @@
+{
+  "id": "97cc8962-5980-44de-ba94-27de3b075ea4",
+  "persona": "Assisting",
+  "names": [
+    "Assisting"
+  ],
+  "runs": 3,
+  "bestRank": 123,
+  "worstRank": 157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2640561,
+  "weeksActive": [
+    46,
+    47,
+    59
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 123,
+      "ms": 2640561,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 125,
+      "ms": 3009154,
+      "dish": "Pizza"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 157,
+      "ms": 3041872,
+      "dish": "Salad"
+    }
+  ]
+}

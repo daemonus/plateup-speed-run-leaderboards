@@ -1,0 +1,34 @@
+{
+  "id": "30ca7b9e-ac47-4abd-b979-b97168bf3f8c",
+  "persona": "Rentler",
+  "names": [
+    "Rentler"
+  ],
+  "runs": 2,
+  "bestRank": 208,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3281542,
+  "weeksActive": [
+    -59,
+    -17
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 272,
+      "ms": 3313245,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 208,
+      "ms": 3281542,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ead6eb42-42f2-4be5-80e5-2f954c9b043b",
+  "persona": "sprork",
+  "names": [
+    "sprork"
+  ],
+  "runs": 3,
+  "bestRank": 819,
+  "worstRank": 948,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4439401,
+  "weeksActive": [
+    -76,
+    -75,
+    -72
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 933,
+      "ms": 5058062,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 948,
+      "ms": 4439401,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 819,
+      "ms": 5738729,
+      "dish": "Pies"
+    }
+  ]
+}

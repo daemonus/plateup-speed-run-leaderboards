@@ -1,0 +1,50 @@
+{
+  "id": "18f13288-0ab6-49fc-a1ff-a478f5d6f196",
+  "persona": "cady",
+  "names": [
+    "cady"
+  ],
+  "runs": 4,
+  "bestRank": 437,
+  "worstRank": 2288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2895904,
+  "weeksActive": [
+    -94,
+    -93,
+    -86,
+    38
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 544,
+      "ms": 2895904,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2288,
+      "ms": 3388815,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 546,
+      "ms": 3184937,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 437,
+      "ms": 4217851,
+      "dish": "Pies"
+    }
+  ]
+}

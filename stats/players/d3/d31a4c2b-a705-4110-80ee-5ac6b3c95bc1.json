@@ -1,0 +1,74 @@
+{
+  "id": "d31a4c2b-a705-4110-80ee-5ac6b3c95bc1",
+  "persona": "SwitchyRoo",
+  "names": [
+    "SwitchyRoo"
+  ],
+  "runs": 7,
+  "bestRank": 245,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2655538,
+  "weeksActive": [
+    63,
+    64,
+    66,
+    68,
+    69,
+    71,
+    84
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 558,
+      "ms": 4145528,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 464,
+      "ms": 2655538,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 245,
+      "ms": 3147248,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 488,
+      "ms": 4244275,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 250,
+      "ms": 4219521,
+      "dish": "Burgers"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 306,
+      "ms": 3877527,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 568,
+      "ms": 3886422,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9c3f847d-bfbf-4817-8265-274e290d20b9",
+  "persona": "Ford Prefect",
+  "names": [
+    "Ford Prefect"
+  ],
+  "runs": 3,
+  "bestRank": 77,
+  "worstRank": 124,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2189082,
+  "weeksActive": [
+    -37,
+    -35,
+    -23
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 77,
+      "ms": 2189082,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 87,
+      "ms": 3099373,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 124,
+      "ms": 3268470,
+      "dish": "Pizza"
+    }
+  ]
+}

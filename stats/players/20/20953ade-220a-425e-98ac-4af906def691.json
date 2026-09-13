@@ -1,0 +1,42 @@
+{
+  "id": "20953ade-220a-425e-98ac-4af906def691",
+  "persona": "Admiral Stupid",
+  "names": [
+    "Admiral Stupid"
+  ],
+  "runs": 3,
+  "bestRank": 230,
+  "worstRank": 372,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2644821,
+  "weeksActive": [
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 372,
+      "ms": 2644821,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 363,
+      "ms": 3206457,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 230,
+      "ms": 3071063,
+      "dish": "Stir Fry"
+    }
+  ]
+}

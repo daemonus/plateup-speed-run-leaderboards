@@ -1,0 +1,90 @@
+{
+  "id": "da7f9776-2df1-433a-9413-0ec70974a1de",
+  "persona": "AlienEinstein",
+  "names": [
+    "AlienEinstein"
+  ],
+  "runs": 9,
+  "bestRank": 199,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2251121,
+  "weeksActive": [
+    12,
+    35,
+    36,
+    43,
+    80,
+    83,
+    84,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 364,
+      "ms": 3129287,
+      "dish": "Turkey"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 217,
+      "ms": 3378999,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 199,
+      "ms": 2738632,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 460,
+      "ms": 3256957,
+      "dish": "Fish"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 271,
+      "ms": 3764198,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 358,
+      "ms": 2488917,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 418,
+      "ms": 2928354,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 340,
+      "ms": 3993149,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 216,
+      "ms": 2251121,
+      "dish": "Sundaes"
+    }
+  ]
+}

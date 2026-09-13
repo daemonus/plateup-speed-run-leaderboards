@@ -1,0 +1,42 @@
+{
+  "id": "89fed084-8ade-4a9d-b1e5-c037c05d8d2b",
+  "persona": "f_scottf",
+  "names": [
+    "f_scottf"
+  ],
+  "runs": 3,
+  "bestRank": 25,
+  "worstRank": 186,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1798085,
+  "weeksActive": [
+    -13,
+    -3,
+    22
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 25,
+      "ms": 2136340,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 41,
+      "ms": 1798085,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 186,
+      "ms": 3432973,
+      "dish": "Breakfast"
+    }
+  ]
+}

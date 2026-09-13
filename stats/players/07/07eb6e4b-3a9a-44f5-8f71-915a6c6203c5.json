@@ -1,0 +1,74 @@
+{
+  "id": "07eb6e4b-3a9a-44f5-8f71-915a6c6203c5",
+  "persona": "michael shannon",
+  "names": [
+    "michael shannon"
+  ],
+  "runs": 7,
+  "bestRank": 238,
+  "worstRank": 701,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3427978,
+  "weeksActive": [
+    7,
+    8,
+    9,
+    16,
+    60,
+    62,
+    66
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 366,
+      "ms": 4010020,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 701,
+      "ms": 3765262,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 380,
+      "ms": 3940573,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 490,
+      "ms": 5870541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 238,
+      "ms": 3591300,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 330,
+      "ms": 3566920,
+      "dish": "Pies"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 288,
+      "ms": 3427978,
+      "dish": "Breakfast"
+    }
+  ]
+}

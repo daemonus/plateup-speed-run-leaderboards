@@ -1,0 +1,90 @@
+{
+  "id": "8a6ffb33-d620-40d7-884b-6076c9a5533b",
+  "persona": "Chant",
+  "names": [
+    "Chant"
+  ],
+  "runs": 9,
+  "bestRank": 3,
+  "worstRank": 158,
+  "firstPlaces": 0,
+  "top3": 2,
+  "top10": 4,
+  "bestMs": 1500505,
+  "weeksActive": [
+    30,
+    31,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 158,
+      "ms": 2922954,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 17,
+      "ms": 1777678,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 12,
+      "ms": 1961418,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 3,
+      "ms": 1640779,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 9,
+      "ms": 1500505,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 3,
+      "ms": 1965329,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 4,
+      "ms": 1543407,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 27,
+      "ms": 2186494,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 44,
+      "ms": 2319715,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

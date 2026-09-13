@@ -1,0 +1,42 @@
+{
+  "id": "75a99c9a-eb12-4a0b-be7b-3028a469b53b",
+  "persona": "ChingChingkot",
+  "names": [
+    "ChingChingkot"
+  ],
+  "runs": 3,
+  "bestRank": 315,
+  "worstRank": 829,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4160576,
+  "weeksActive": [
+    6,
+    8,
+    15
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 315,
+      "ms": 4160576,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 829,
+      "ms": 4281348,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 636,
+      "ms": 4391533,
+      "dish": "Turkey"
+    }
+  ]
+}

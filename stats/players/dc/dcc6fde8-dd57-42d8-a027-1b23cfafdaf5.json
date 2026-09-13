@@ -1,0 +1,66 @@
+{
+  "id": "dcc6fde8-dd57-42d8-a027-1b23cfafdaf5",
+  "persona": "PuPu\u8C93",
+  "names": [
+    "PuPu\u8C93"
+  ],
+  "runs": 6,
+  "bestRank": 41,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2313038,
+  "weeksActive": [
+    -28,
+    -18,
+    -13,
+    -5,
+    -4,
+    41
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 184,
+      "ms": 4602024,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 114,
+      "ms": 2769540,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 41,
+      "ms": 2313038,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 42,
+      "ms": 2528393,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 89,
+      "ms": 2447623,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 385,
+      "ms": 2613138,
+      "dish": "Turkey"
+    }
+  ]
+}

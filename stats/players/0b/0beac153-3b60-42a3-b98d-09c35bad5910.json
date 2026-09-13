@@ -1,0 +1,42 @@
+{
+  "id": "0beac153-3b60-42a3-b98d-09c35bad5910",
+  "persona": "Liam.",
+  "names": [
+    "Liam."
+  ],
+  "runs": 3,
+  "bestRank": 27,
+  "worstRank": 80,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1298841,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 27,
+      "ms": 1298841,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 47,
+      "ms": 1769124,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 80,
+      "ms": 1634332,
+      "dish": "Fish"
+    }
+  ]
+}

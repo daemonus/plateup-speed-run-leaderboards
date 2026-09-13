@@ -1,0 +1,34 @@
+{
+  "id": "da1be84c-0eee-400c-8fd9-6c9f9cef708f",
+  "persona": "scryer",
+  "names": [
+    "scryer"
+  ],
+  "runs": 2,
+  "bestRank": 1018,
+  "worstRank": 2611,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3457630,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1018,
+      "ms": 3457630,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2611,
+      "ms": 3796586,
+      "dish": "Fish"
+    }
+  ]
+}

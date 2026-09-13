@@ -1,0 +1,42 @@
+{
+  "id": "5d987f02-6a0b-4f87-9945-5658033f8ee9",
+  "persona": "miharu_04",
+  "names": [
+    "miharu_04"
+  ],
+  "runs": 3,
+  "bestRank": 241,
+  "worstRank": 687,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3451183,
+  "weeksActive": [
+    -39,
+    -38,
+    78
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 423,
+      "ms": 3459781,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 687,
+      "ms": 3806805,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 241,
+      "ms": 3451183,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

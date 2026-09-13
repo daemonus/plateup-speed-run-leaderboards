@@ -1,0 +1,34 @@
+{
+  "id": "2ae99cd7-c19f-482d-91bb-d7dacea0044c",
+  "persona": "fikes",
+  "names": [
+    "fikes"
+  ],
+  "runs": 2,
+  "bestRank": 421,
+  "worstRank": 829,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3876664,
+  "weeksActive": [
+    -71,
+    -41
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 829,
+      "ms": 3876664,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 421,
+      "ms": 6329541,
+      "dish": "Stir Fry"
+    }
+  ]
+}

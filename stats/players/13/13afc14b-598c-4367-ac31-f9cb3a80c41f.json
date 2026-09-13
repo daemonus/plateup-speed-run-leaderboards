@@ -1,0 +1,42 @@
+{
+  "id": "13afc14b-598c-4367-ac31-f9cb3a80c41f",
+  "persona": "bonelessjoe",
+  "names": [
+    "bonelessjoe"
+  ],
+  "runs": 3,
+  "bestRank": 223,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3860040,
+  "weeksActive": [
+    -12,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 223,
+      "ms": 3860040,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 286,
+      "ms": 4432648,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 364,
+      "ms": 4284039,
+      "dish": "Pies"
+    }
+  ]
+}

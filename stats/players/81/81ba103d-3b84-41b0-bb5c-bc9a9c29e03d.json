@@ -1,0 +1,42 @@
+{
+  "id": "81ba103d-3b84-41b0-bb5c-bc9a9c29e03d",
+  "persona": "dagudside",
+  "names": [
+    "dagudside"
+  ],
+  "runs": 3,
+  "bestRank": 111,
+  "worstRank": 266,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2819852,
+  "weeksActive": [
+    -10,
+    -7,
+    13
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 111,
+      "ms": 3573877,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 186,
+      "ms": 4089000,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 266,
+      "ms": 2819852,
+      "dish": "Turkey"
+    }
+  ]
+}

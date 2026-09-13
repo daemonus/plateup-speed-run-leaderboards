@@ -1,0 +1,34 @@
+{
+  "id": "ccc38f64-5e25-45d3-b287-106ec4198a5c",
+  "persona": "pawa",
+  "names": [
+    "pawa"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2907580,
+  "weeksActive": [
+    5,
+    11
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 357,
+      "ms": 4409957,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 93,
+      "ms": 2907580,
+      "dish": "Salad"
+    }
+  ]
+}

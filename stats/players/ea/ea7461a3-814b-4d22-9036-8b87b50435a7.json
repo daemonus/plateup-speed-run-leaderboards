@@ -1,0 +1,42 @@
+{
+  "id": "ea7461a3-814b-4d22-9036-8b87b50435a7",
+  "persona": "kattifnatt",
+  "names": [
+    "kattifnatt"
+  ],
+  "runs": 3,
+  "bestRank": 544,
+  "worstRank": 2201,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3114343,
+  "weeksActive": [
+    -93,
+    -91,
+    -77
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2201,
+      "ms": 3296856,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1118,
+      "ms": 3114343,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 544,
+      "ms": 3723269,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "05c03eb2-370b-4427-bcf3-95c1c473fe39",
+  "persona": "Butt Pirate",
+  "names": [
+    "Butt Pirate"
+  ],
+  "runs": 4,
+  "bestRank": 257,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3249677,
+  "weeksActive": [
+    -24,
+    -20,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 257,
+      "ms": 5010359,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 312,
+      "ms": 3802562,
+      "dish": "Burgers"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 388,
+      "ms": 3615486,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 328,
+      "ms": 3249677,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "92ef26cd-8de4-4bee-b4af-4c9fd180fa38",
+  "persona": "Hana",
+  "names": [
+    "Hana"
+  ],
+  "runs": 2,
+  "bestRank": 49,
+  "worstRank": 135,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2299420,
+  "weeksActive": [
+    -57,
+    -55
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 135,
+      "ms": 3266916,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 49,
+      "ms": 2299420,
+      "dish": "Pizza"
+    }
+  ]
+}

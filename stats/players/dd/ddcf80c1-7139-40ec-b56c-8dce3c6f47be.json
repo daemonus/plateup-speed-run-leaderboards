@@ -1,0 +1,42 @@
+{
+  "id": "ddcf80c1-7139-40ec-b56c-8dce3c6f47be",
+  "persona": "Nessikah",
+  "names": [
+    "Nessikah"
+  ],
+  "runs": 3,
+  "bestRank": 574,
+  "worstRank": 959,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5915402,
+  "weeksActive": [
+    -20,
+    -18,
+    20
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 574,
+      "ms": 6121317,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 814,
+      "ms": 6706442,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 959,
+      "ms": 5915402,
+      "dish": "Turkey"
+    }
+  ]
+}

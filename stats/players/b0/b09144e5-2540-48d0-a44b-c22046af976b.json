@@ -1,0 +1,66 @@
+{
+  "id": "b09144e5-2540-48d0-a44b-c22046af976b",
+  "persona": "Pundas\u2122",
+  "names": [
+    "Pundas\u2122"
+  ],
+  "runs": 6,
+  "bestRank": 97,
+  "worstRank": 482,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2402985,
+  "weeksActive": [
+    -30,
+    -29,
+    -27,
+    63,
+    66,
+    78
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 482,
+      "ms": 3168265,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 227,
+      "ms": 5969920,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 179,
+      "ms": 4113301,
+      "dish": "Salad"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 97,
+      "ms": 2402985,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 198,
+      "ms": 2884639,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 99,
+      "ms": 2489672,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

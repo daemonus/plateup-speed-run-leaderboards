@@ -1,0 +1,58 @@
+{
+  "id": "a473dad7-9297-4a7e-a7ef-fe3dc9647ac6",
+  "persona": "Supernooba",
+  "names": [
+    "Supernooba"
+  ],
+  "runs": 5,
+  "bestRank": 58,
+  "worstRank": 348,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2843572,
+  "weeksActive": [
+    -65,
+    -62,
+    -61,
+    -60,
+    -56
+  ],
+  "history": [
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 58,
+      "ms": 3362509,
+      "dish": "Burgers"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 348,
+      "ms": 3693860,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 215,
+      "ms": 3141850,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 105,
+      "ms": 3098954,
+      "dish": "Burgers"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 177,
+      "ms": 2843572,
+      "dish": "Breakfast"
+    }
+  ]
+}

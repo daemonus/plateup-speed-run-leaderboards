@@ -1,0 +1,58 @@
+{
+  "id": "e0560df9-bfb9-4f70-915e-58ca8ac7ec70",
+  "persona": "nephirie",
+  "names": [
+    "nephirie"
+  ],
+  "runs": 5,
+  "bestRank": 72,
+  "worstRank": 418,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2473013,
+  "weeksActive": [
+    -71,
+    -66,
+    -64,
+    -63,
+    -51
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 418,
+      "ms": 3051614,
+      "dish": "Turkey"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 72,
+      "ms": 2473013,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 89,
+      "ms": 2735407,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 141,
+      "ms": 3033708,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 275,
+      "ms": 2946234,
+      "dish": "Turkey"
+    }
+  ]
+}

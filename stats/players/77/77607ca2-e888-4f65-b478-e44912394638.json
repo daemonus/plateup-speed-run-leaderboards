@@ -1,0 +1,42 @@
+{
+  "id": "77607ca2-e888-4f65-b478-e44912394638",
+  "persona": "NYPD",
+  "names": [
+    "NYPD"
+  ],
+  "runs": 3,
+  "bestRank": 181,
+  "worstRank": 520,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2485697,
+  "weeksActive": [
+    -72,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 520,
+      "ms": 4216922,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 181,
+      "ms": 2485697,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 219,
+      "ms": 3692848,
+      "dish": "Breakfast"
+    }
+  ]
+}

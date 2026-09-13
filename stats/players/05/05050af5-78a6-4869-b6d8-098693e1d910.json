@@ -1,0 +1,42 @@
+{
+  "id": "05050af5-78a6-4869-b6d8-098693e1d910",
+  "persona": "Jess",
+  "names": [
+    "Jess"
+  ],
+  "runs": 3,
+  "bestRank": 149,
+  "worstRank": 1115,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2217735,
+  "weeksActive": [
+    -93,
+    64,
+    65
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1115,
+      "ms": 2537065,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 290,
+      "ms": 2217735,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 149,
+      "ms": 2985549,
+      "dish": "Pizza"
+    }
+  ]
+}

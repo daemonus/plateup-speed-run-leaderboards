@@ -1,0 +1,34 @@
+{
+  "id": "dc9e9fe8-0a92-4db9-814c-33d1cf652fed",
+  "persona": "AAA",
+  "names": [
+    "AAA"
+  ],
+  "runs": 2,
+  "bestRank": 218,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4290709,
+  "weeksActive": [
+    -7,
+    10
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 218,
+      "ms": 4290709,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 277,
+      "ms": 5314839,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "f2c841a9-a8dd-46c3-a803-9271c1641732",
+  "persona": "Dyowsza",
+  "names": [
+    "Dyowsza"
+  ],
+  "runs": 5,
+  "bestRank": 198,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3390937,
+  "weeksActive": [
+    74,
+    77,
+    78,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 326,
+      "ms": 5465530,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 329,
+      "ms": 3390937,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 356,
+      "ms": 5210562,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 374,
+      "ms": 4554471,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 198,
+      "ms": 3649970,
+      "dish": "Pizza"
+    }
+  ]
+}

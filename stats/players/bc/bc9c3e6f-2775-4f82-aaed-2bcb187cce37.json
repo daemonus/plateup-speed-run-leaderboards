@@ -1,0 +1,34 @@
+{
+  "id": "bc9c3e6f-2775-4f82-aaed-2bcb187cce37",
+  "persona": "gost",
+  "names": [
+    "gost"
+  ],
+  "runs": 2,
+  "bestRank": 13,
+  "worstRank": 54,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1666234,
+  "weeksActive": [
+    36,
+    58
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 54,
+      "ms": 1956942,
+      "dish": "Fish"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 13,
+      "ms": 1666234,
+      "dish": "Turkey"
+    }
+  ]
+}

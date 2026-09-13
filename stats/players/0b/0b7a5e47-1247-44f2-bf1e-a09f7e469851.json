@@ -1,0 +1,50 @@
+{
+  "id": "0b7a5e47-1247-44f2-bf1e-a09f7e469851",
+  "persona": "Nyura",
+  "names": [
+    "Nyura"
+  ],
+  "runs": 4,
+  "bestRank": 26,
+  "worstRank": 636,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1921482,
+  "weeksActive": [
+    -91,
+    -57,
+    -56,
+    38
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 636,
+      "ms": 2494800,
+      "dish": "Fish"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 29,
+      "ms": 2333593,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 78,
+      "ms": 2255289,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 26,
+      "ms": 1921482,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2d21d157-1111-470e-a589-896c4d81a862",
+  "persona": "farallel",
+  "names": [
+    "farallel"
+  ],
+  "runs": 5,
+  "bestRank": 124,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1772522,
+  "weeksActive": [
+    -31,
+    82,
+    83,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 562,
+      "ms": 3951000,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 315,
+      "ms": 3583470,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 299,
+      "ms": 2308261,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 126,
+      "ms": 2553317,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 124,
+      "ms": 1772522,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fb5deb44-7a23-43ab-9ce2-7f54ff932f76",
+  "persona": "Self-Employed Comedian",
+  "names": [
+    "Self-Employed Comedian"
+  ],
+  "runs": 3,
+  "bestRank": 134,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2724100,
+  "weeksActive": [
+    -62,
+    -33,
+    -31
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 465,
+      "ms": 4082796,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 208,
+      "ms": 3463902,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 134,
+      "ms": 2724100,
+      "dish": "Pies"
+    }
+  ]
+}

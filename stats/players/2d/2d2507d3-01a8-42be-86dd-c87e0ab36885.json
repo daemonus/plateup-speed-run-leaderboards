@@ -1,0 +1,50 @@
+{
+  "id": "2d2507d3-01a8-42be-86dd-c87e0ab36885",
+  "persona": "Surf \u0027n\u0027 Tokyo",
+  "names": [
+    "Surf \u0027n\u0027 Tokyo"
+  ],
+  "runs": 4,
+  "bestRank": 10,
+  "worstRank": 26,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1309403,
+  "weeksActive": [
+    -92,
+    -91,
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 10,
+      "ms": 1309403,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 26,
+      "ms": 1333820,
+      "dish": "Fish"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 10,
+      "ms": 1523645,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 16,
+      "ms": 1780805,
+      "dish": "Stir Fry"
+    }
+  ]
+}

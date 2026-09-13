@@ -1,0 +1,42 @@
+{
+  "id": "988f6cf4-e561-423b-a8d3-be2f8010f703",
+  "persona": "Ely",
+  "names": [
+    "Ely"
+  ],
+  "runs": 3,
+  "bestRank": 363,
+  "worstRank": 734,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4796006,
+  "weeksActive": [
+    13,
+    14,
+    72
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 734,
+      "ms": 4796006,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 363,
+      "ms": 7192869,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 363,
+      "ms": 4931178,
+      "dish": "Breakfast"
+    }
+  ]
+}

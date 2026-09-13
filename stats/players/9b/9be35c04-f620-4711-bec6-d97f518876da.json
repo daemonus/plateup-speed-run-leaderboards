@@ -1,0 +1,34 @@
+{
+  "id": "9be35c04-f620-4711-bec6-d97f518876da",
+  "persona": "CEReS",
+  "names": [
+    "CEReS"
+  ],
+  "runs": 2,
+  "bestRank": 330,
+  "worstRank": 475,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3524784,
+  "weeksActive": [
+    -77,
+    -59
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 475,
+      "ms": 3524784,
+      "dish": "Pies"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 330,
+      "ms": 3585856,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

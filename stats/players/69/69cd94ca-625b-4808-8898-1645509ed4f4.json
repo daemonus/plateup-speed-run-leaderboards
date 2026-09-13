@@ -1,0 +1,58 @@
+{
+  "id": "69cd94ca-625b-4808-8898-1645509ed4f4",
+  "persona": "Lucia",
+  "names": [
+    "Lucia"
+  ],
+  "runs": 5,
+  "bestRank": 250,
+  "worstRank": 1584,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2851268,
+  "weeksActive": [
+    -94,
+    -93,
+    -83,
+    -81,
+    -71
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1107,
+      "ms": 3571799,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1584,
+      "ms": 2851268,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 266,
+      "ms": 3092093,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 250,
+      "ms": 3972637,
+      "dish": "Steak"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 712,
+      "ms": 3633993,
+      "dish": "Turkey"
+    }
+  ]
+}

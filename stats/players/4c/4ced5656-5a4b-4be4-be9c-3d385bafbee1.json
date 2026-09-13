@@ -1,0 +1,34 @@
+{
+  "id": "4ced5656-5a4b-4be4-be9c-3d385bafbee1",
+  "persona": "ApatrosMiner",
+  "names": [
+    "ApatrosMiner"
+  ],
+  "runs": 2,
+  "bestRank": 471,
+  "worstRank": 543,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3678281,
+  "weeksActive": [
+    68,
+    84
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 471,
+      "ms": 4076407,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 543,
+      "ms": 3678281,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "655c0293-ddcb-4ac9-9957-d3f3dd78d0ea",
+  "persona": "Hagen",
+  "names": [
+    "Hagen"
+  ],
+  "runs": 2,
+  "bestRank": 158,
+  "worstRank": 389,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3233844,
+  "weeksActive": [
+    -49,
+    -37
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 158,
+      "ms": 3942870,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 389,
+      "ms": 3233844,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "93980b39-eef3-4c18-b082-371c1a579d5a",
+  "persona": "Andi_Sherbet",
+  "names": [
+    "Andi_Sherbet"
+  ],
+  "runs": 5,
+  "bestRank": 201,
+  "worstRank": 538,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4204063,
+  "weeksActive": [
+    -27,
+    -12,
+    -8,
+    -1,
+    5
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 317,
+      "ms": 6112326,
+      "dish": "Salad"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 251,
+      "ms": 4204063,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 205,
+      "ms": 4435794,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 201,
+      "ms": 5847722,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 538,
+      "ms": 6442000,
+      "dish": "Breakfast"
+    }
+  ]
+}

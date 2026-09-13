@@ -1,0 +1,42 @@
+{
+  "id": "44a2ce1f-ebd9-4e28-ba50-d56cab60d9cb",
+  "persona": "Synicull",
+  "names": [
+    "Synicull"
+  ],
+  "runs": 3,
+  "bestRank": 200,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2179412,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 387,
+      "ms": 2179412,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 278,
+      "ms": 2217247,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 200,
+      "ms": 2195210,
+      "dish": "Pies"
+    }
+  ]
+}

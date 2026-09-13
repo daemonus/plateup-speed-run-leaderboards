@@ -1,0 +1,98 @@
+{
+  "id": "d4c9a46f-5a98-4bc0-9b8c-da9a4dc4ec61",
+  "persona": "DrLion",
+  "names": [
+    "DrLion"
+  ],
+  "runs": 10,
+  "bestRank": 2,
+  "worstRank": 30,
+  "firstPlaces": 0,
+  "top3": 2,
+  "top10": 6,
+  "bestMs": 1130775,
+  "weeksActive": [
+    -9,
+    19,
+    20,
+    21,
+    22,
+    24,
+    26,
+    57,
+    60,
+    68
+  ],
+  "history": [
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 30,
+      "ms": 2906645,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 21,
+      "ms": 2193174,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 7,
+      "ms": 1150711,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 8,
+      "ms": 1603664,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 9,
+      "ms": 1879257,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 2,
+      "ms": 1375442,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 20,
+      "ms": 1883647,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 7,
+      "ms": 1732082,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 18,
+      "ms": 2103010,
+      "dish": "Burgers"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 3,
+      "ms": 1130775,
+      "dish": "Turkey"
+    }
+  ]
+}

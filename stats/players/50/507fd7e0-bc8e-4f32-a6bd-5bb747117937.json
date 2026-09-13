@@ -1,0 +1,58 @@
+{
+  "id": "507fd7e0-bc8e-4f32-a6bd-5bb747117937",
+  "persona": "Single Mom Who Works Too Hard",
+  "names": [
+    "Single Mom Who Works Too Hard"
+  ],
+  "runs": 5,
+  "bestRank": 6,
+  "worstRank": 22,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1095646,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 9,
+      "ms": 1166124,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 6,
+      "ms": 1095646,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 22,
+      "ms": 1305358,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 12,
+      "ms": 1184969,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 16,
+      "ms": 1585368,
+      "dish": "Pies"
+    }
+  ]
+}

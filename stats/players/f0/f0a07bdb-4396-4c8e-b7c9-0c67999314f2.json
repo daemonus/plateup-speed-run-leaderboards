@@ -1,0 +1,42 @@
+{
+  "id": "f0a07bdb-4396-4c8e-b7c9-0c67999314f2",
+  "persona": "CoB",
+  "names": [
+    "CoB"
+  ],
+  "runs": 3,
+  "bestRank": 81,
+  "worstRank": 391,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2244429,
+  "weeksActive": [
+    -55,
+    -37,
+    -16
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 391,
+      "ms": 4085445,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 245,
+      "ms": 2800045,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 81,
+      "ms": 2244429,
+      "dish": "Pies"
+    }
+  ]
+}

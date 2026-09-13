@@ -1,0 +1,42 @@
+{
+  "id": "8dd1b844-cd9e-4aed-8a67-411041eb27be",
+  "persona": "Adeaxy",
+  "names": [
+    "Adeaxy"
+  ],
+  "runs": 3,
+  "bestRank": 758,
+  "worstRank": 1509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2802680,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1272,
+      "ms": 3780395,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1509,
+      "ms": 2802680,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 758,
+      "ms": 4693927,
+      "dish": "Steak"
+    }
+  ]
+}

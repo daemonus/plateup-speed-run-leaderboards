@@ -1,0 +1,66 @@
+{
+  "id": "d9d88469-75d9-49ff-968b-0498df02c494",
+  "persona": "hen",
+  "names": [
+    "hen"
+  ],
+  "runs": 6,
+  "bestRank": 29,
+  "worstRank": 97,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1146161,
+  "weeksActive": [
+    -1,
+    0,
+    1,
+    6,
+    48,
+    56
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 70,
+      "ms": 3274328,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 69,
+      "ms": 2979871,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 90,
+      "ms": 2595420,
+      "dish": "Pies"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 97,
+      "ms": 2747760,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 72,
+      "ms": 3340700,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 29,
+      "ms": 1146161,
+      "dish": "Sundaes"
+    }
+  ]
+}

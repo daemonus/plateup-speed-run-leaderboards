@@ -1,0 +1,50 @@
+{
+  "id": "0aac4039-f040-4a5e-a7b8-9d243e45d34c",
+  "persona": "Rosie Elonia",
+  "names": [
+    "Rosie Elonia"
+  ],
+  "runs": 4,
+  "bestRank": 162,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3677899,
+  "weeksActive": [
+    -73,
+    -72,
+    -67,
+    -65
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 351,
+      "ms": 6088594,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 346,
+      "ms": 3677899,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 480,
+      "ms": 4663944,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 162,
+      "ms": 5968119,
+      "dish": "Burgers"
+    }
+  ]
+}

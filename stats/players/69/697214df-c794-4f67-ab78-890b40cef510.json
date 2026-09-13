@@ -1,0 +1,50 @@
+{
+  "id": "697214df-c794-4f67-ab78-890b40cef510",
+  "persona": "Dourdreck",
+  "names": [
+    "Dourdreck"
+  ],
+  "runs": 4,
+  "bestRank": 53,
+  "worstRank": 138,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1697467,
+  "weeksActive": [
+    -90,
+    -89,
+    -88,
+    -18
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 89,
+      "ms": 1697467,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 138,
+      "ms": 1984275,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 69,
+      "ms": 2148184,
+      "dish": "Pies"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 53,
+      "ms": 2418499,
+      "dish": "Fish"
+    }
+  ]
+}

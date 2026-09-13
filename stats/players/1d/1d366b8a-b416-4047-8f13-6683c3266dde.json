@@ -1,0 +1,42 @@
+{
+  "id": "1d366b8a-b416-4047-8f13-6683c3266dde",
+  "persona": "ZyRe",
+  "names": [
+    "ZyRe"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 307,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2000213,
+  "weeksActive": [
+    -90,
+    -89,
+    -87
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 307,
+      "ms": 2265644,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 143,
+      "ms": 2000213,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 180,
+      "ms": 2867642,
+      "dish": "Stir Fry"
+    }
+  ]
+}

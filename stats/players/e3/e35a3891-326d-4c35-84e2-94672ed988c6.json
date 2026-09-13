@@ -1,0 +1,42 @@
+{
+  "id": "e35a3891-326d-4c35-84e2-94672ed988c6",
+  "persona": "pierrolastico",
+  "names": [
+    "pierrolastico"
+  ],
+  "runs": 3,
+  "bestRank": 288,
+  "worstRank": 518,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2806313,
+  "weeksActive": [
+    41,
+    44,
+    65
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 450,
+      "ms": 2806313,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 518,
+      "ms": 14084241,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 288,
+      "ms": 3938270,
+      "dish": "Pizza"
+    }
+  ]
+}

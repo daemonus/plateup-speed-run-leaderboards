@@ -1,0 +1,50 @@
+{
+  "id": "d575dc16-9368-48c7-a50f-d37635f15156",
+  "persona": "BOBO",
+  "names": [
+    "BOBO"
+  ],
+  "runs": 4,
+  "bestRank": 58,
+  "worstRank": 208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2310578,
+  "weeksActive": [
+    -73,
+    -70,
+    7,
+    8
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 168,
+      "ms": 4154632,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 208,
+      "ms": 3630104,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 58,
+      "ms": 2378778,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 162,
+      "ms": 2310578,
+      "dish": "Fish"
+    }
+  ]
+}

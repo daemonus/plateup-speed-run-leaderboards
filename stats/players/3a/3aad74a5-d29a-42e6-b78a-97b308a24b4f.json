@@ -1,0 +1,106 @@
+{
+  "id": "3aad74a5-d29a-42e6-b78a-97b308a24b4f",
+  "persona": "Planted02",
+  "names": [
+    "Planted02"
+  ],
+  "runs": 11,
+  "bestRank": 142,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3238085,
+  "weeksActive": [
+    -10,
+    -6,
+    1,
+    6,
+    10,
+    18,
+    29,
+    52,
+    63,
+    68,
+    74
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 198,
+      "ms": 4373694,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 334,
+      "ms": 4123641,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 186,
+      "ms": 3243913,
+      "dish": "Pies"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 244,
+      "ms": 3691479,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 148,
+      "ms": 3736646,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 175,
+      "ms": 3882686,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 142,
+      "ms": 3879394,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 582,
+      "ms": 4147037,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 307,
+      "ms": 3238085,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 380,
+      "ms": 3410335,
+      "dish": "Turkey"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 266,
+      "ms": 4419224,
+      "dish": "Breakfast"
+    }
+  ]
+}

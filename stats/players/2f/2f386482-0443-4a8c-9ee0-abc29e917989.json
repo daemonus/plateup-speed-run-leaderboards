@@ -1,0 +1,42 @@
+{
+  "id": "2f386482-0443-4a8c-9ee0-abc29e917989",
+  "persona": "Frog",
+  "names": [
+    "Frog"
+  ],
+  "runs": 3,
+  "bestRank": 131,
+  "worstRank": 184,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2651877,
+  "weeksActive": [
+    24,
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 155,
+      "ms": 2849307,
+      "dish": "Pies"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 131,
+      "ms": 2795121,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 184,
+      "ms": 2651877,
+      "dish": "Fish"
+    }
+  ]
+}

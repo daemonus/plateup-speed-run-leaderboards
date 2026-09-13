@@ -1,0 +1,98 @@
+{
+  "id": "bded7f71-3712-43d8-94c5-907ba29b3270",
+  "persona": "woodchip",
+  "names": [
+    "woodchip"
+  ],
+  "runs": 10,
+  "bestRank": 148,
+  "worstRank": 889,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2416082,
+  "weeksActive": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    26,
+    28,
+    40,
+    60
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 337,
+      "ms": 4545541,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 889,
+      "ms": 4680442,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 239,
+      "ms": 3260966,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 269,
+      "ms": 4152198,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 171,
+      "ms": 2416082,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 204,
+      "ms": 3084002,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 176,
+      "ms": 3266005,
+      "dish": "Pizza"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 167,
+      "ms": 2633709,
+      "dish": "Turkey"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 148,
+      "ms": 3266633,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 257,
+      "ms": 3755195,
+      "dish": "Burgers"
+    }
+  ]
+}

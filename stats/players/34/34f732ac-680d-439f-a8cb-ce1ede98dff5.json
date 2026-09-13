@@ -1,0 +1,58 @@
+{
+  "id": "34f732ac-680d-439f-a8cb-ce1ede98dff5",
+  "persona": "sit",
+  "names": [
+    "sit"
+  ],
+  "runs": 5,
+  "bestRank": 268,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2832948,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -34,
+    -31
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 300,
+      "ms": 3038015,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 362,
+      "ms": 2832948,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 355,
+      "ms": 3135989,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 268,
+      "ms": 3293533,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 477,
+      "ms": 3739600,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "4e936bff-36f0-4a48-ad0a-e0fb3831583e",
+  "persona": "Minyini",
+  "names": [
+    "Minyini"
+  ],
+  "runs": 8,
+  "bestRank": 136,
+  "worstRank": 627,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3072299,
+  "weeksActive": [
+    -83,
+    -79,
+    -77,
+    -76,
+    -75,
+    -74,
+    -73,
+    -72
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 532,
+      "ms": 4865875,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 358,
+      "ms": 4204530,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 627,
+      "ms": 3968263,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 453,
+      "ms": 3142452,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 510,
+      "ms": 3072299,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 491,
+      "ms": 4609855,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 136,
+      "ms": 3916256,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 345,
+      "ms": 3677330,
+      "dish": "Pies"
+    }
+  ]
+}

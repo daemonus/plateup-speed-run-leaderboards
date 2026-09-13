@@ -1,0 +1,58 @@
+{
+  "id": "4d0d1147-d90a-4876-8685-e199e31ff110",
+  "persona": "Aliminti",
+  "names": [
+    "Aliminti"
+  ],
+  "runs": 5,
+  "bestRank": 235,
+  "worstRank": 1003,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2217205,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -86,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1003,
+      "ms": 3441737,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 640,
+      "ms": 2217205,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 643,
+      "ms": 2504673,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 235,
+      "ms": 2385405,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 464,
+      "ms": 3333498,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3acf524c-0dcb-4867-aa18-31d95742800c",
+  "persona": "Rejoyce",
+  "names": [
+    "Rejoyce"
+  ],
+  "runs": 3,
+  "bestRank": 159,
+  "worstRank": 802,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2944386,
+  "weeksActive": [
+    -78,
+    -77,
+    -74
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 490,
+      "ms": 5317552,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 802,
+      "ms": 4559800,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 159,
+      "ms": 2944386,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

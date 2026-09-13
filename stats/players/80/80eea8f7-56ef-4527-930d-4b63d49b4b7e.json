@@ -1,0 +1,66 @@
+{
+  "id": "80eea8f7-56ef-4527-930d-4b63d49b4b7e",
+  "persona": "FireHeart",
+  "names": [
+    "FireHeart"
+  ],
+  "runs": 6,
+  "bestRank": 119,
+  "worstRank": 554,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1663436,
+  "weeksActive": [
+    -70,
+    -68,
+    -66,
+    83,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 328,
+      "ms": 4110564,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 132,
+      "ms": 3408100,
+      "dish": "Salad"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 278,
+      "ms": 4512478,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 554,
+      "ms": 3158090,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 119,
+      "ms": 1663436,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 251,
+      "ms": 3378063,
+      "dish": "Fish"
+    }
+  ]
+}

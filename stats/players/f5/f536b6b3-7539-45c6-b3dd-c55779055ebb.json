@@ -1,0 +1,42 @@
+{
+  "id": "f536b6b3-7539-45c6-b3dd-c55779055ebb",
+  "persona": "Tech Sgt. Jay Grass",
+  "names": [
+    "Tech Sgt. Jay Grass"
+  ],
+  "runs": 3,
+  "bestRank": 303,
+  "worstRank": 895,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3645893,
+  "weeksActive": [
+    20,
+    22,
+    24
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 895,
+      "ms": 4739551,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 307,
+      "ms": 4810959,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 303,
+      "ms": 3645893,
+      "dish": "Pies"
+    }
+  ]
+}

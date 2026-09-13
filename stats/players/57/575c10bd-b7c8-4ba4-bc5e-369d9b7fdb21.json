@@ -1,0 +1,42 @@
+{
+  "id": "575c10bd-b7c8-4ba4-bc5e-369d9b7fdb21",
+  "persona": "Celery",
+  "names": [
+    "Celery"
+  ],
+  "runs": 3,
+  "bestRank": 286,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2551371,
+  "weeksActive": [
+    57,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 563,
+      "ms": 8058671,
+      "dish": "Salad"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 370,
+      "ms": 2551371,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 286,
+      "ms": 3580547,
+      "dish": "Fish"
+    }
+  ]
+}

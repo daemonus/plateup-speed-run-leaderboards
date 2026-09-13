@@ -1,0 +1,82 @@
+{
+  "id": "9230a484-ee94-40c6-ac3f-9c7d032d14d8",
+  "persona": "sua",
+  "names": [
+    "sua"
+  ],
+  "runs": 8,
+  "bestRank": 85,
+  "worstRank": 292,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2481488,
+  "weeksActive": [
+    -46,
+    -44,
+    -41,
+    -40,
+    -39,
+    -38,
+    -32,
+    -6
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 138,
+      "ms": 3315965,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 183,
+      "ms": 2775125,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 261,
+      "ms": 4531916,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 105,
+      "ms": 3382045,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 292,
+      "ms": 3019250,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 231,
+      "ms": 2481488,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 140,
+      "ms": 2623845,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 85,
+      "ms": 2799311,
+      "dish": "Breakfast"
+    }
+  ]
+}

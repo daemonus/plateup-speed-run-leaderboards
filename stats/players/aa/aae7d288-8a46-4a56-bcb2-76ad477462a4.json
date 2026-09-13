@@ -1,0 +1,42 @@
+{
+  "id": "aae7d288-8a46-4a56-bcb2-76ad477462a4",
+  "persona": "ANE",
+  "names": [
+    "ANE"
+  ],
+  "runs": 3,
+  "bestRank": 66,
+  "worstRank": 223,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2162681,
+  "weeksActive": [
+    -21,
+    -20,
+    -16
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 179,
+      "ms": 3048418,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 223,
+      "ms": 3420887,
+      "dish": "Burgers"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 66,
+      "ms": 2162681,
+      "dish": "Pies"
+    }
+  ]
+}

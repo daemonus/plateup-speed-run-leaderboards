@@ -1,0 +1,42 @@
+{
+  "id": "aea10f03-8789-408b-9223-af8f57454951",
+  "persona": "Iouyp",
+  "names": [
+    "Iouyp"
+  ],
+  "runs": 3,
+  "bestRank": 42,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2392325,
+  "weeksActive": [
+    -56,
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 347,
+      "ms": 3581987,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 62,
+      "ms": 2392325,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 42,
+      "ms": 2965334,
+      "dish": "Salad"
+    }
+  ]
+}

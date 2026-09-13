@@ -1,0 +1,50 @@
+{
+  "id": "fe4beb2f-dc75-4a4a-b1aa-5146e1ef519d",
+  "persona": "JEREMY",
+  "names": [
+    "JEREMY"
+  ],
+  "runs": 4,
+  "bestRank": 167,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2498991,
+  "weeksActive": [
+    -14,
+    -10,
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 230,
+      "ms": 4886221,
+      "dish": "Salad"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 175,
+      "ms": 4161970,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 167,
+      "ms": 3593054,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 419,
+      "ms": 2498991,
+      "dish": "Sundaes"
+    }
+  ]
+}

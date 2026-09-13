@@ -1,0 +1,42 @@
+{
+  "id": "27291ef3-2cbf-4aa2-9dc6-b966040bfb6c",
+  "persona": "Tyrone_McDik",
+  "names": [
+    "Tyrone_McDik"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 217,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2761180,
+  "weeksActive": [
+    -4,
+    0,
+    6
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 143,
+      "ms": 2761180,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 197,
+      "ms": 3972888,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 217,
+      "ms": 3550108,
+      "dish": "Breakfast"
+    }
+  ]
+}

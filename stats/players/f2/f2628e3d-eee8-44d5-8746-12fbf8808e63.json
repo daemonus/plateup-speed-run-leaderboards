@@ -1,0 +1,42 @@
+{
+  "id": "f2628e3d-eee8-44d5-8746-12fbf8808e63",
+  "persona": "Blou",
+  "names": [
+    "Blou"
+  ],
+  "runs": 3,
+  "bestRank": 230,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3385811,
+  "weeksActive": [
+    74,
+    78,
+    80
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 230,
+      "ms": 4091730,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 233,
+      "ms": 3385811,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 406,
+      "ms": 5205255,
+      "dish": "Pizza"
+    }
+  ]
+}

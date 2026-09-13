@@ -1,0 +1,66 @@
+{
+  "id": "dab9c81a-5d32-4880-996d-46a9fd7311ef",
+  "persona": "flipped bits",
+  "names": [
+    "flipped bits"
+  ],
+  "runs": 6,
+  "bestRank": 2,
+  "worstRank": 88,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 843176,
+  "weeksActive": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 2,
+      "ms": 843176,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 88,
+      "ms": 2600848,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 65,
+      "ms": 2139992,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 42,
+      "ms": 2286344,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 65,
+      "ms": 2562511,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 57,
+      "ms": 2251489,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

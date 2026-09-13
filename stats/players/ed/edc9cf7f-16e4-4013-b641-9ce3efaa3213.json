@@ -1,0 +1,50 @@
+{
+  "id": "edc9cf7f-16e4-4013-b641-9ce3efaa3213",
+  "persona": "\u662F\u5426\u5F88\u60CA\u8BB6\u4E36",
+  "names": [
+    "\u662F\u5426\u5F88\u60CA\u8BB6\u4E36"
+  ],
+  "runs": 4,
+  "bestRank": 159,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3355279,
+  "weeksActive": [
+    2,
+    49,
+    66,
+    67
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 234,
+      "ms": 3693839,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 159,
+      "ms": 4836389,
+      "dish": "Burgers"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 320,
+      "ms": 3679807,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 215,
+      "ms": 3355279,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

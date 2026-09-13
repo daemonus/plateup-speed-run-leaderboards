@@ -1,0 +1,42 @@
+{
+  "id": "d50d1749-6808-4b79-9364-5edfeb0ae814",
+  "persona": "ysp0955910575",
+  "names": [
+    "ysp0955910575"
+  ],
+  "runs": 3,
+  "bestRank": 268,
+  "worstRank": 445,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3768116,
+  "weeksActive": [
+    58,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 445,
+      "ms": 3768116,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 438,
+      "ms": 6435242,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 268,
+      "ms": 4730244,
+      "dish": "Burgers"
+    }
+  ]
+}

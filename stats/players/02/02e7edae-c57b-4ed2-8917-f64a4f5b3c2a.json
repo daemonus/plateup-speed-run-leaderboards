@@ -1,0 +1,74 @@
+{
+  "id": "02e7edae-c57b-4ed2-8917-f64a4f5b3c2a",
+  "persona": "StarLord",
+  "names": [
+    "StarLord"
+  ],
+  "runs": 7,
+  "bestRank": 387,
+  "worstRank": 634,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3795212,
+  "weeksActive": [
+    -5,
+    -3,
+    0,
+    2,
+    13,
+    16,
+    72
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 450,
+      "ms": 4748652,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 634,
+      "ms": 5371906,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 482,
+      "ms": 6134972,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 387,
+      "ms": 4865774,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 540,
+      "ms": 3795212,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 418,
+      "ms": 5174493,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 392,
+      "ms": 5297883,
+      "dish": "Breakfast"
+    }
+  ]
+}

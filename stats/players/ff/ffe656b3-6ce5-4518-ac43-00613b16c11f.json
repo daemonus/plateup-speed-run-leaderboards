@@ -1,0 +1,58 @@
+{
+  "id": "ffe656b3-6ce5-4518-ac43-00613b16c11f",
+  "persona": "Tyran",
+  "names": [
+    "Tyran"
+  ],
+  "runs": 5,
+  "bestRank": 37,
+  "worstRank": 147,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2151023,
+  "weeksActive": [
+    -46,
+    -44,
+    -38,
+    -37,
+    -35
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 37,
+      "ms": 2588579,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 98,
+      "ms": 2369517,
+      "dish": "Turkey"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 147,
+      "ms": 2151023,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 140,
+      "ms": 2459525,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 128,
+      "ms": 3425496,
+      "dish": "Breakfast"
+    }
+  ]
+}

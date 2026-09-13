@@ -1,0 +1,50 @@
+{
+  "id": "fc667650-98e4-4e5a-bdf6-d77a4ea53eed",
+  "persona": "RariTea",
+  "names": [
+    "RariTea"
+  ],
+  "runs": 4,
+  "bestRank": 118,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2149300,
+  "weeksActive": [
+    -91,
+    -89,
+    -86,
+    -82
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 369,
+      "ms": 2159287,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 188,
+      "ms": 2149300,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 263,
+      "ms": 2463136,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 118,
+      "ms": 2204976,
+      "dish": "Fish"
+    }
+  ]
+}

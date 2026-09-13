@@ -1,0 +1,50 @@
+{
+  "id": "db21c616-2fc1-42af-a382-27db01f619a9",
+  "persona": "Blossom_Tulip",
+  "names": [
+    "Blossom_Tulip"
+  ],
+  "runs": 4,
+  "bestRank": 143,
+  "worstRank": 458,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2497838,
+  "weeksActive": [
+    -86,
+    -82,
+    -79,
+    -51
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 458,
+      "ms": 2961483,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 408,
+      "ms": 3208575,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 321,
+      "ms": 3904696,
+      "dish": "Pies"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 143,
+      "ms": 2497838,
+      "dish": "Turkey"
+    }
+  ]
+}

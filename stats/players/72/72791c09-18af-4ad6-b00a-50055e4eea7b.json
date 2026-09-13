@@ -1,0 +1,34 @@
+{
+  "id": "72791c09-18af-4ad6-b00a-50055e4eea7b",
+  "persona": "2Hands",
+  "names": [
+    "2Hands"
+  ],
+  "runs": 2,
+  "bestRank": 36,
+  "worstRank": 89,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2667669,
+  "weeksActive": [
+    49,
+    51
+  ],
+  "history": [
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 36,
+      "ms": 2667669,
+      "dish": "Burgers"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 89,
+      "ms": 3012331,
+      "dish": "Salad"
+    }
+  ]
+}

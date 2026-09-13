@@ -1,0 +1,66 @@
+{
+  "id": "b4b178e2-bf77-42c5-871e-f9bfdd424ef9",
+  "persona": "lmaviles",
+  "names": [
+    "lmaviles"
+  ],
+  "runs": 6,
+  "bestRank": 159,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2729685,
+  "weeksActive": [
+    68,
+    72,
+    75,
+    76,
+    77,
+    78
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 412,
+      "ms": 3620522,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 387,
+      "ms": 5230257,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 327,
+      "ms": 4992814,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 159,
+      "ms": 3673632,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 214,
+      "ms": 2729685,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 371,
+      "ms": 5765260,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

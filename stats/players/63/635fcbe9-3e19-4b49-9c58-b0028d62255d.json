@@ -1,0 +1,34 @@
+{
+  "id": "635fcbe9-3e19-4b49-9c58-b0028d62255d",
+  "persona": "Mintisc",
+  "names": [
+    "Mintisc"
+  ],
+  "runs": 2,
+  "bestRank": 172,
+  "worstRank": 303,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2899125,
+  "weeksActive": [
+    58,
+    62
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 303,
+      "ms": 3153548,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 172,
+      "ms": 2899125,
+      "dish": "Pies"
+    }
+  ]
+}

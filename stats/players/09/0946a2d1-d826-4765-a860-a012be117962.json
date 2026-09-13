@@ -1,0 +1,58 @@
+{
+  "id": "0946a2d1-d826-4765-a860-a012be117962",
+  "persona": "mausemacula",
+  "names": [
+    "mausemacula"
+  ],
+  "runs": 5,
+  "bestRank": 159,
+  "worstRank": 882,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2586736,
+  "weeksActive": [
+    -31,
+    -15,
+    26,
+    28,
+    57
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 882,
+      "ms": 6035236,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 475,
+      "ms": 4062622,
+      "dish": "Fish"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 419,
+      "ms": 7974683,
+      "dish": "Pizza"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 159,
+      "ms": 2586736,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 376,
+      "ms": 4002988,
+      "dish": "Salad"
+    }
+  ]
+}

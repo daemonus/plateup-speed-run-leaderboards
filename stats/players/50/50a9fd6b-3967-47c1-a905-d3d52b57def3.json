@@ -1,0 +1,42 @@
+{
+  "id": "50a9fd6b-3967-47c1-a905-d3d52b57def3",
+  "persona": "Misuru",
+  "names": [
+    "Misuru"
+  ],
+  "runs": 3,
+  "bestRank": 231,
+  "worstRank": 515,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3197889,
+  "weeksActive": [
+    -6,
+    -4,
+    21
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 515,
+      "ms": 4805427,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 261,
+      "ms": 3250119,
+      "dish": "Pies"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 231,
+      "ms": 3197889,
+      "dish": "Burgers"
+    }
+  ]
+}

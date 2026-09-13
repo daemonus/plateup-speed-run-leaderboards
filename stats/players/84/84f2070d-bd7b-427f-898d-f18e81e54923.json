@@ -1,0 +1,58 @@
+{
+  "id": "84f2070d-bd7b-427f-898d-f18e81e54923",
+  "persona": "Izumiachi",
+  "names": [
+    "Izumiachi"
+  ],
+  "runs": 5,
+  "bestRank": 78,
+  "worstRank": 502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1755405,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 502,
+      "ms": 2103999,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 78,
+      "ms": 2034071,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 134,
+      "ms": 1755405,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 164,
+      "ms": 3225857,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 133,
+      "ms": 2587561,
+      "dish": "Breakfast"
+    }
+  ]
+}

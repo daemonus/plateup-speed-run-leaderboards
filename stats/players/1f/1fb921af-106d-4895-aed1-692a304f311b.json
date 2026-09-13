@@ -1,0 +1,58 @@
+{
+  "id": "1fb921af-106d-4895-aed1-692a304f311b",
+  "persona": "Gray",
+  "names": [
+    "Gray"
+  ],
+  "runs": 5,
+  "bestRank": 118,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2418850,
+  "weeksActive": [
+    52,
+    53,
+    54,
+    57,
+    62
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 141,
+      "ms": 2418850,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 159,
+      "ms": 3002333,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 119,
+      "ms": 3326488,
+      "dish": "Burgers"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 118,
+      "ms": 2755008,
+      "dish": "Salad"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 288,
+      "ms": 3390066,
+      "dish": "Pies"
+    }
+  ]
+}

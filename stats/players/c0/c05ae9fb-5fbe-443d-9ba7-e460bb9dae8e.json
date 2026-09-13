@@ -1,0 +1,42 @@
+{
+  "id": "c05ae9fb-5fbe-443d-9ba7-e460bb9dae8e",
+  "persona": "Mamo",
+  "names": [
+    "Mamo"
+  ],
+  "runs": 3,
+  "bestRank": 502,
+  "worstRank": 663,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3217088,
+  "weeksActive": [
+    -31,
+    -30,
+    -25
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 659,
+      "ms": 4270516,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 502,
+      "ms": 3217088,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 663,
+      "ms": 5849493,
+      "dish": "Breakfast"
+    }
+  ]
+}

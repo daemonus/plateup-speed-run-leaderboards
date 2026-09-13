@@ -1,0 +1,34 @@
+{
+  "id": "851d03ea-99e0-4edf-baf2-29a1664867dd",
+  "persona": "Trujillo",
+  "names": [
+    "Trujillo"
+  ],
+  "runs": 2,
+  "bestRank": 311,
+  "worstRank": 935,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2771509,
+  "weeksActive": [
+    -90,
+    -76
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 935,
+      "ms": 3560858,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 311,
+      "ms": 2771509,
+      "dish": "Turkey"
+    }
+  ]
+}

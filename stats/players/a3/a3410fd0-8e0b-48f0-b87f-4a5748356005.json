@@ -1,0 +1,34 @@
+{
+  "id": "a3410fd0-8e0b-48f0-b87f-4a5748356005",
+  "persona": "Elite",
+  "names": [
+    "Elite"
+  ],
+  "runs": 2,
+  "bestRank": 72,
+  "worstRank": 179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1715043,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 179,
+      "ms": 1715043,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 72,
+      "ms": 1963099,
+      "dish": "Steak"
+    }
+  ]
+}

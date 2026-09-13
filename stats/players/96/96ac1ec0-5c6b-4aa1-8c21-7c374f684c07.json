@@ -1,0 +1,58 @@
+{
+  "id": "96ac1ec0-5c6b-4aa1-8c21-7c374f684c07",
+  "persona": "Sir Walrus IV",
+  "names": [
+    "Sir Walrus IV"
+  ],
+  "runs": 5,
+  "bestRank": 91,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2378010,
+  "weeksActive": [
+    -27,
+    -24,
+    -23,
+    -22,
+    -16
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 91,
+      "ms": 3382365,
+      "dish": "Salad"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 280,
+      "ms": 5435115,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 150,
+      "ms": 3513572,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 126,
+      "ms": 3649523,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 103,
+      "ms": 2378010,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "52b733b5-3567-4683-adcf-dc93d824c1f3",
+  "persona": "\u5E84\u56ED\u6076\u9738\u5C0F\u5C0F\u5C0F",
+  "names": [
+    "\u5E84\u56ED\u6076\u9738\u5C0F\u5C0F\u5C0F"
+  ],
+  "runs": 11,
+  "bestRank": 219,
+  "worstRank": 740,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3423317,
+  "weeksActive": [
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    50,
+    51,
+    62,
+    65
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 740,
+      "ms": 3912940,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 343,
+      "ms": 3919943,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 349,
+      "ms": 3423317,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 283,
+      "ms": 3538857,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 219,
+      "ms": 6142901,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 325,
+      "ms": 4496515,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 288,
+      "ms": 4998785,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 265,
+      "ms": 6083546,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 315,
+      "ms": 4971813,
+      "dish": "Salad"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 419,
+      "ms": 4087084,
+      "dish": "Pies"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 346,
+      "ms": 4638867,
+      "dish": "Pizza"
+    }
+  ]
+}

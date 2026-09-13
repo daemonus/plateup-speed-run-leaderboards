@@ -1,0 +1,50 @@
+{
+  "id": "52be67c6-15fb-48ad-aff5-fe6a583b580d",
+  "persona": "Wicira",
+  "names": [
+    "Wicira"
+  ],
+  "runs": 4,
+  "bestRank": 60,
+  "worstRank": 91,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1436285,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 60,
+      "ms": 1436285,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 91,
+      "ms": 1674461,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 91,
+      "ms": 1759362,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 61,
+      "ms": 1889114,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8baa438b-6b2f-4837-8d2f-2a36df6583ac",
+  "persona": "QBagel",
+  "names": [
+    "QBagel"
+  ],
+  "runs": 3,
+  "bestRank": 216,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3083134,
+  "weeksActive": [
+    -88,
+    -83,
+    -81
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 425,
+      "ms": 3427008,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 264,
+      "ms": 3083134,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 216,
+      "ms": 3720055,
+      "dish": "Steak"
+    }
+  ]
+}

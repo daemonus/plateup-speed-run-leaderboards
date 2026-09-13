@@ -1,0 +1,82 @@
+{
+  "id": "218ccfea-36dc-49a2-8fd8-899a1381fe23",
+  "persona": "Gribble",
+  "names": [
+    "Gribble"
+  ],
+  "runs": 8,
+  "bestRank": 57,
+  "worstRank": 146,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2157787,
+  "weeksActive": [
+    0,
+    2,
+    3,
+    5,
+    7,
+    8,
+    10,
+    36
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 81,
+      "ms": 3073713,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 92,
+      "ms": 2797855,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 79,
+      "ms": 2402858,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 57,
+      "ms": 2412876,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 107,
+      "ms": 2680877,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 146,
+      "ms": 2245948,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 89,
+      "ms": 3225890,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 83,
+      "ms": 2157787,
+      "dish": "Fish"
+    }
+  ]
+}

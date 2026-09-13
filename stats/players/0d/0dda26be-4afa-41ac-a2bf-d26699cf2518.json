@@ -1,0 +1,50 @@
+{
+  "id": "0dda26be-4afa-41ac-a2bf-d26699cf2518",
+  "persona": "kristina",
+  "names": [
+    "kristina"
+  ],
+  "runs": 4,
+  "bestRank": 109,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2908150,
+  "weeksActive": [
+    -29,
+    -20,
+    -17,
+    6
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 166,
+      "ms": 3886166,
+      "dish": "Burgers"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 109,
+      "ms": 2908150,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 197,
+      "ms": 3200525,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 139,
+      "ms": 3007820,
+      "dish": "Breakfast"
+    }
+  ]
+}

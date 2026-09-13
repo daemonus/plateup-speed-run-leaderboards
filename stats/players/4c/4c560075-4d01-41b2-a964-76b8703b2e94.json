@@ -1,0 +1,34 @@
+{
+  "id": "4c560075-4d01-41b2-a964-76b8703b2e94",
+  "persona": "Blink",
+  "names": [
+    "Blink"
+  ],
+  "runs": 2,
+  "bestRank": 525,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3673976,
+  "weeksActive": [
+    38,
+    43
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 525,
+      "ms": 6317160,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 572,
+      "ms": 3673976,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5de69042-bcfd-4aab-87c5-71a59627f5b9",
+  "persona": "Eno",
+  "names": [
+    "Eno"
+  ],
+  "runs": 2,
+  "bestRank": 101,
+  "worstRank": 171,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2618428,
+  "weeksActive": [
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 101,
+      "ms": 2618428,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 171,
+      "ms": 3189968,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4e2cac8d-8ddf-4594-b791-fe8cd9b9b103",
+  "persona": "pale",
+  "names": [
+    "pale"
+  ],
+  "runs": 2,
+  "bestRank": 158,
+  "worstRank": 191,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2652030,
+  "weeksActive": [
+    -19,
+    -16
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 191,
+      "ms": 3335807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 158,
+      "ms": 2652030,
+      "dish": "Pies"
+    }
+  ]
+}

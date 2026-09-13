@@ -1,0 +1,66 @@
+{
+  "id": "cfabf26b-c9b7-4a27-8ee8-8fa92e408215",
+  "persona": "Lord Radiant",
+  "names": [
+    "Lord Radiant"
+  ],
+  "runs": 6,
+  "bestRank": 196,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3012820,
+  "weeksActive": [
+    -34,
+    -33,
+    -30,
+    7,
+    23,
+    60
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 359,
+      "ms": 3780480,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 240,
+      "ms": 3632468,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 419,
+      "ms": 3016507,
+      "dish": "Turkey"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 274,
+      "ms": 3437202,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 286,
+      "ms": 3012820,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 196,
+      "ms": 3379608,
+      "dish": "Burgers"
+    }
+  ]
+}

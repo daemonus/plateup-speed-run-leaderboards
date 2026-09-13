@@ -1,0 +1,34 @@
+{
+  "id": "66543636-4c9f-41f7-94a2-1b5baa51c5b0",
+  "persona": "Hanna",
+  "names": [
+    "Hanna"
+  ],
+  "runs": 2,
+  "bestRank": 221,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3810562,
+  "weeksActive": [
+    1,
+    39
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 291,
+      "ms": 3810562,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 221,
+      "ms": 4089201,
+      "dish": "Stir Fry"
+    }
+  ]
+}

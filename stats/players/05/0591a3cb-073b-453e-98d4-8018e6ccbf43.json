@@ -1,0 +1,42 @@
+{
+  "id": "0591a3cb-073b-453e-98d4-8018e6ccbf43",
+  "persona": "Karlyn",
+  "names": [
+    "Karlyn"
+  ],
+  "runs": 3,
+  "bestRank": 468,
+  "worstRank": 571,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4133179,
+  "weeksActive": [
+    -70,
+    -62,
+    -56
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 571,
+      "ms": 5345122,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 477,
+      "ms": 4133179,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 468,
+      "ms": 4829057,
+      "dish": "Breakfast"
+    }
+  ]
+}

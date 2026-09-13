@@ -1,0 +1,34 @@
+{
+  "id": "7cf77eea-098f-47b2-b51a-84016461dfde",
+  "persona": "SomeOne",
+  "names": [
+    "SomeOne"
+  ],
+  "runs": 2,
+  "bestRank": 146,
+  "worstRank": 171,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2943349,
+  "weeksActive": [
+    4,
+    9
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 146,
+      "ms": 3010399,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 171,
+      "ms": 2943349,
+      "dish": "Breakfast"
+    }
+  ]
+}

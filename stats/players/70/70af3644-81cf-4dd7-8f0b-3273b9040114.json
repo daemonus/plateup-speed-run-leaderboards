@@ -1,0 +1,58 @@
+{
+  "id": "70af3644-81cf-4dd7-8f0b-3273b9040114",
+  "persona": "BlindSide",
+  "names": [
+    "BlindSide"
+  ],
+  "runs": 5,
+  "bestRank": 134,
+  "worstRank": 539,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2575983,
+  "weeksActive": [
+    -87,
+    -86,
+    -85,
+    -83,
+    31
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 299,
+      "ms": 3332694,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 539,
+      "ms": 3159572,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 146,
+      "ms": 3204507,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 134,
+      "ms": 2575983,
+      "dish": "Steak"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 194,
+      "ms": 2825263,
+      "dish": "Fish"
+    }
+  ]
+}

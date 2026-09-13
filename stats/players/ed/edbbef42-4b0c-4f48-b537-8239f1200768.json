@@ -1,0 +1,42 @@
+{
+  "id": "edbbef42-4b0c-4f48-b537-8239f1200768",
+  "persona": "Faust",
+  "names": [
+    "Faust"
+  ],
+  "runs": 3,
+  "bestRank": 173,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3116511,
+  "weeksActive": [
+    -45,
+    -37,
+    17
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 282,
+      "ms": 3417080,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 347,
+      "ms": 3116511,
+      "dish": "Fish"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 173,
+      "ms": 3326325,
+      "dish": "Pizza"
+    }
+  ]
+}

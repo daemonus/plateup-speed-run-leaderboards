@@ -1,0 +1,50 @@
+{
+  "id": "ea145f98-c615-4ae7-8f1f-c0cc4ee2947f",
+  "persona": "MeDa",
+  "names": [
+    "MeDa"
+  ],
+  "runs": 4,
+  "bestRank": 120,
+  "worstRank": 225,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2984800,
+  "weeksActive": [
+    30,
+    31,
+    33,
+    39
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 210,
+      "ms": 3188273,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 225,
+      "ms": 2984800,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 120,
+      "ms": 3238439,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 181,
+      "ms": 3759121,
+      "dish": "Stir Fry"
+    }
+  ]
+}

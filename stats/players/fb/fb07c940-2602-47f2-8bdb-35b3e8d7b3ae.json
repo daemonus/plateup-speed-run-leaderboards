@@ -1,0 +1,58 @@
+{
+  "id": "fb07c940-2602-47f2-8bdb-35b3e8d7b3ae",
+  "persona": "Rven",
+  "names": [
+    "Rven"
+  ],
+  "runs": 5,
+  "bestRank": 479,
+  "worstRank": 874,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3162649,
+  "weeksActive": [
+    -72,
+    -71,
+    -63,
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 874,
+      "ms": 6817794,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 783,
+      "ms": 3757460,
+      "dish": "Turkey"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 694,
+      "ms": 8187047,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 565,
+      "ms": 3627723,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 479,
+      "ms": 3162649,
+      "dish": "Turkey"
+    }
+  ]
+}

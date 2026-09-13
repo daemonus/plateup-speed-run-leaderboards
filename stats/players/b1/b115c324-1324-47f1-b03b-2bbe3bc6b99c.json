@@ -1,0 +1,50 @@
+{
+  "id": "b115c324-1324-47f1-b03b-2bbe3bc6b99c",
+  "persona": "Draco",
+  "names": [
+    "Draco"
+  ],
+  "runs": 4,
+  "bestRank": 475,
+  "worstRank": 886,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3442727,
+  "weeksActive": [
+    -92,
+    -90,
+    -83,
+    -70
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 825,
+      "ms": 8105461,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 886,
+      "ms": 3442727,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 555,
+      "ms": 6723221,
+      "dish": "Steak"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 475,
+      "ms": 4778236,
+      "dish": "Breakfast"
+    }
+  ]
+}

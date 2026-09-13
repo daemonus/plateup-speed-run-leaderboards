@@ -1,0 +1,82 @@
+{
+  "id": "902d06c2-7133-417e-a19f-564d927a13d0",
+  "persona": "Cookie Cutter",
+  "names": [
+    "Cookie Cutter"
+  ],
+  "runs": 8,
+  "bestRank": 112,
+  "worstRank": 339,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1916504,
+  "weeksActive": [
+    0,
+    2,
+    3,
+    13,
+    18,
+    29,
+    34,
+    64
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 272,
+      "ms": 4354450,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 339,
+      "ms": 4427514,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 159,
+      "ms": 2823419,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 223,
+      "ms": 2650046,
+      "dish": "Turkey"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 210,
+      "ms": 4206369,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 112,
+      "ms": 3383642,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 330,
+      "ms": 4471291,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 189,
+      "ms": 1916504,
+      "dish": "Sundaes"
+    }
+  ]
+}

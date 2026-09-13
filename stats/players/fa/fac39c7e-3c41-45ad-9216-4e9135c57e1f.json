@@ -1,0 +1,50 @@
+{
+  "id": "fac39c7e-3c41-45ad-9216-4e9135c57e1f",
+  "persona": "C-Bear",
+  "names": [
+    "C-Bear"
+  ],
+  "runs": 4,
+  "bestRank": 50,
+  "worstRank": 89,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2028794,
+  "weeksActive": [
+    -80,
+    -77,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 52,
+      "ms": 2459490,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 89,
+      "ms": 2313346,
+      "dish": "Pies"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 50,
+      "ms": 2028794,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 53,
+      "ms": 2334615,
+      "dish": "Pizza"
+    }
+  ]
+}

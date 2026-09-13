@@ -1,0 +1,58 @@
+{
+  "id": "eed32fc2-834b-4dc6-95d1-d0e018bcff33",
+  "persona": "SparklyPandas",
+  "names": [
+    "SparklyPandas"
+  ],
+  "runs": 5,
+  "bestRank": 99,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2480624,
+  "weeksActive": [
+    -14,
+    -13,
+    1,
+    21,
+    62
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 197,
+      "ms": 4545928,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 284,
+      "ms": 4180334,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 294,
+      "ms": 3823956,
+      "dish": "Pies"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 186,
+      "ms": 2971541,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 99,
+      "ms": 2480624,
+      "dish": "Pies"
+    }
+  ]
+}

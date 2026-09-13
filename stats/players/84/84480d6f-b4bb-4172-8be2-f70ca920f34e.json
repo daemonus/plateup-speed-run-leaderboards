@@ -1,0 +1,42 @@
+{
+  "id": "84480d6f-b4bb-4172-8be2-f70ca920f34e",
+  "persona": "kami",
+  "names": [
+    "kami"
+  ],
+  "runs": 3,
+  "bestRank": 222,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2287590,
+  "weeksActive": [
+    -77,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 685,
+      "ms": 4149845,
+      "dish": "Pies"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 276,
+      "ms": 3533212,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 222,
+      "ms": 2287590,
+      "dish": "Sundaes"
+    }
+  ]
+}

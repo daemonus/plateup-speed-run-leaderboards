@@ -1,0 +1,42 @@
+{
+  "id": "5061c9b0-3134-4477-864d-ea3bc1a3bd9a",
+  "persona": "Newagent007",
+  "names": [
+    "Newagent007"
+  ],
+  "runs": 3,
+  "bestRank": 57,
+  "worstRank": 203,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2293160,
+  "weeksActive": [
+    -22,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 177,
+      "ms": 4140796,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 57,
+      "ms": 2293160,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 203,
+      "ms": 3322551,
+      "dish": "Burgers"
+    }
+  ]
+}

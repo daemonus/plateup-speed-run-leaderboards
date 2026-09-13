@@ -1,0 +1,58 @@
+{
+  "id": "b7570898-4482-4805-ab7e-3a039232941f",
+  "persona": "Yomogi",
+  "names": [
+    "Yomogi"
+  ],
+  "runs": 5,
+  "bestRank": 84,
+  "worstRank": 244,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2495434,
+  "weeksActive": [
+    11,
+    12,
+    15,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 175,
+      "ms": 3509053,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 222,
+      "ms": 2495434,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 244,
+      "ms": 2573233,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 110,
+      "ms": 2854307,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 84,
+      "ms": 2900261,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

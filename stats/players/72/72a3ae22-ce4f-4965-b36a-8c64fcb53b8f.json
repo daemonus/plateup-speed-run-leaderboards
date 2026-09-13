@@ -1,0 +1,50 @@
+{
+  "id": "72a3ae22-ce4f-4965-b36a-8c64fcb53b8f",
+  "persona": "Jazz",
+  "names": [
+    "Jazz"
+  ],
+  "runs": 4,
+  "bestRank": 285,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2366768,
+  "weeksActive": [
+    51,
+    52,
+    53,
+    64
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 285,
+      "ms": 4673169,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 563,
+      "ms": 4036612,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 318,
+      "ms": 3815020,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 349,
+      "ms": 2366768,
+      "dish": "Sundaes"
+    }
+  ]
+}

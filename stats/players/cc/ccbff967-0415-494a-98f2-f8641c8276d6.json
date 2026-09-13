@@ -1,0 +1,74 @@
+{
+  "id": "ccbff967-0415-494a-98f2-f8641c8276d6",
+  "persona": "AsterCoffeeBean",
+  "names": [
+    "AsterCoffeeBean"
+  ],
+  "runs": 7,
+  "bestRank": 142,
+  "worstRank": 448,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3046322,
+  "weeksActive": [
+    -47,
+    -2,
+    1,
+    23,
+    24,
+    26,
+    50
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 448,
+      "ms": 5284604,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 392,
+      "ms": 4556972,
+      "dish": "Pizza"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 302,
+      "ms": 3899155,
+      "dish": "Pies"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 298,
+      "ms": 3103573,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 411,
+      "ms": 4409408,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 142,
+      "ms": 3046322,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 161,
+      "ms": 4155211,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "160ee409-23d4-4805-878f-afd1cb6865c1",
+  "persona": "hanryki",
+  "names": [
+    "hanryki"
+  ],
+  "runs": 3,
+  "bestRank": 239,
+  "worstRank": 1177,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3341507,
+  "weeksActive": [
+    -71,
+    -49,
+    64
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1177,
+      "ms": 5571268,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 239,
+      "ms": 5206668,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 729,
+      "ms": 3341507,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "498486b8-d7c3-4fa0-82a0-2d1859d5755f",
+  "persona": "Taneli",
+  "names": [
+    "Taneli"
+  ],
+  "runs": 6,
+  "bestRank": 187,
+  "worstRank": 1345,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1810070,
+  "weeksActive": [
+    -94,
+    -93,
+    -90,
+    -89,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1345,
+      "ms": 3905760,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 251,
+      "ms": 1810070,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 255,
+      "ms": 2163829,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 452,
+      "ms": 2830357,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 187,
+      "ms": 2897389,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 229,
+      "ms": 2361217,
+      "dish": "Fish"
+    }
+  ]
+}

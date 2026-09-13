@@ -1,0 +1,42 @@
+{
+  "id": "4b21e1f3-f4ff-40ea-b0ff-50188ad04fc3",
+  "persona": "GrapheneWizard",
+  "names": [
+    "GrapheneWizard"
+  ],
+  "runs": 3,
+  "bestRank": 21,
+  "worstRank": 136,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1417092,
+  "weeksActive": [
+    -40,
+    -38,
+    -32
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 136,
+      "ms": 3661476,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 21,
+      "ms": 1417092,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 48,
+      "ms": 2229615,
+      "dish": "Breakfast"
+    }
+  ]
+}

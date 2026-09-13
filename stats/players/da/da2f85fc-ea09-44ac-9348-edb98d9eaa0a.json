@@ -1,0 +1,34 @@
+{
+  "id": "da2f85fc-ea09-44ac-9348-edb98d9eaa0a",
+  "persona": "Sorvan",
+  "names": [
+    "Sorvan"
+  ],
+  "runs": 2,
+  "bestRank": 78,
+  "worstRank": 99,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2395719,
+  "weeksActive": [
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 78,
+      "ms": 2395719,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 99,
+      "ms": 2698066,
+      "dish": "Breakfast"
+    }
+  ]
+}

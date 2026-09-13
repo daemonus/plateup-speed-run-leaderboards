@@ -1,0 +1,66 @@
+{
+  "id": "ee0386a3-2480-41d1-9672-32d3595b93c2",
+  "persona": "Sir Chion",
+  "names": [
+    "Sir Chion"
+  ],
+  "runs": 6,
+  "bestRank": 19,
+  "worstRank": 793,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1805534,
+  "weeksActive": [
+    -82,
+    -57,
+    -44,
+    -43,
+    -41,
+    -39
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 793,
+      "ms": 5570000,
+      "dish": "Fish"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 152,
+      "ms": 3414284,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 564,
+      "ms": 6887125,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 70,
+      "ms": 2650747,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 293,
+      "ms": 4718266,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 19,
+      "ms": 1805534,
+      "dish": "Pizza"
+    }
+  ]
+}

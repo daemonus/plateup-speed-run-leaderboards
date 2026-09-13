@@ -1,0 +1,50 @@
+{
+  "id": "f5ca815c-2a4a-4cdc-9994-1464235d9992",
+  "persona": "pwnerdonor",
+  "names": [
+    "pwnerdonor"
+  ],
+  "runs": 4,
+  "bestRank": 107,
+  "worstRank": 285,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2631866,
+  "weeksActive": [
+    0,
+    1,
+    11,
+    13
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 285,
+      "ms": 4431888,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 107,
+      "ms": 2781975,
+      "dish": "Pies"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 217,
+      "ms": 4017169,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 218,
+      "ms": 2631866,
+      "dish": "Turkey"
+    }
+  ]
+}

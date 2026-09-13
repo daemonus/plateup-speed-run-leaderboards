@@ -1,0 +1,50 @@
+{
+  "id": "bac959c8-6ed8-4392-836d-f7d8c4916de8",
+  "persona": "Gluttonous Gulo",
+  "names": [
+    "Gluttonous Gulo"
+  ],
+  "runs": 4,
+  "bestRank": 129,
+  "worstRank": 212,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3539114,
+  "weeksActive": [
+    -60,
+    -58,
+    -50,
+    -14
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 194,
+      "ms": 3539114,
+      "dish": "Burgers"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 129,
+      "ms": 3707323,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 160,
+      "ms": 3859151,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 212,
+      "ms": 4647530,
+      "dish": "Salad"
+    }
+  ]
+}

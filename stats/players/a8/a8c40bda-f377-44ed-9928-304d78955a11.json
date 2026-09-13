@@ -1,0 +1,58 @@
+{
+  "id": "a8c40bda-f377-44ed-9928-304d78955a11",
+  "persona": "YoJoMo",
+  "names": [
+    "YoJoMo"
+  ],
+  "runs": 5,
+  "bestRank": 167,
+  "worstRank": 457,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2640852,
+  "weeksActive": [
+    -88,
+    -86,
+    -84,
+    -83,
+    -70
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 457,
+      "ms": 3582613,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 337,
+      "ms": 2640852,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 345,
+      "ms": 2987581,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 315,
+      "ms": 3312717,
+      "dish": "Steak"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 167,
+      "ms": 3459111,
+      "dish": "Breakfast"
+    }
+  ]
+}

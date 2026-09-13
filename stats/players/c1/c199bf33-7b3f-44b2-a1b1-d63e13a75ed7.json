@@ -1,0 +1,50 @@
+{
+  "id": "c199bf33-7b3f-44b2-a1b1-d63e13a75ed7",
+  "persona": "KingOfBcG",
+  "names": [
+    "KingOfBcG"
+  ],
+  "runs": 4,
+  "bestRank": 149,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1799469,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 245,
+      "ms": 1799469,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 149,
+      "ms": 2369923,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 152,
+      "ms": 1805160,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 179,
+      "ms": 2125944,
+      "dish": "Pies"
+    }
+  ]
+}

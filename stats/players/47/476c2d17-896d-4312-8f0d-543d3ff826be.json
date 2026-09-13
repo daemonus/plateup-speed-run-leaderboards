@@ -1,0 +1,42 @@
+{
+  "id": "476c2d17-896d-4312-8f0d-543d3ff826be",
+  "persona": "SykesTheRat",
+  "names": [
+    "SykesTheRat"
+  ],
+  "runs": 3,
+  "bestRank": 191,
+  "worstRank": 877,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2787703,
+  "weeksActive": [
+    -91,
+    -83,
+    -70
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 877,
+      "ms": 2787703,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 232,
+      "ms": 2967250,
+      "dish": "Steak"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 191,
+      "ms": 3550799,
+      "dish": "Breakfast"
+    }
+  ]
+}

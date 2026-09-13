@@ -1,0 +1,42 @@
+{
+  "id": "93f58ec2-6dbf-464e-897b-83cefa2d0f6f",
+  "persona": "ManBoyMale",
+  "names": [
+    "ManBoyMale"
+  ],
+  "runs": 3,
+  "bestRank": 864,
+  "worstRank": 954,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2874848,
+  "weeksActive": [
+    -94,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 954,
+      "ms": 3374152,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 945,
+      "ms": 2874848,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 864,
+      "ms": 3393168,
+      "dish": "Fish"
+    }
+  ]
+}

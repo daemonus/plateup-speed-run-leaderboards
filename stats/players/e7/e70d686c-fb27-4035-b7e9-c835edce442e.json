@@ -1,0 +1,58 @@
+{
+  "id": "e70d686c-fb27-4035-b7e9-c835edce442e",
+  "persona": "Gorek",
+  "names": [
+    "Gorek"
+  ],
+  "runs": 5,
+  "bestRank": 96,
+  "worstRank": 557,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3044339,
+  "weeksActive": [
+    -87,
+    -56,
+    -55,
+    -54,
+    -47
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 557,
+      "ms": 4938210,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 397,
+      "ms": 3866625,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 154,
+      "ms": 3044339,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 96,
+      "ms": 3645931,
+      "dish": "Salad"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 121,
+      "ms": 3103248,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

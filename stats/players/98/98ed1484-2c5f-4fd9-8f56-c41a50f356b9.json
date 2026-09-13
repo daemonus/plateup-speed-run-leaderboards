@@ -1,0 +1,66 @@
+{
+  "id": "98ed1484-2c5f-4fd9-8f56-c41a50f356b9",
+  "persona": "souvlaki41",
+  "names": [
+    "souvlaki41"
+  ],
+  "runs": 6,
+  "bestRank": 142,
+  "worstRank": 457,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3043569,
+  "weeksActive": [
+    -48,
+    -47,
+    -46,
+    -45,
+    -44,
+    -39
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 142,
+      "ms": 6142538,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 457,
+      "ms": 5532247,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 246,
+      "ms": 3752108,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 347,
+      "ms": 3722645,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 253,
+      "ms": 3043569,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 403,
+      "ms": 3386039,
+      "dish": "Pizza"
+    }
+  ]
+}

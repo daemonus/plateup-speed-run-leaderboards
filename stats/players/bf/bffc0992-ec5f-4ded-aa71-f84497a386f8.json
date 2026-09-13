@@ -1,0 +1,74 @@
+{
+  "id": "bffc0992-ec5f-4ded-aa71-f84497a386f8",
+  "persona": "springqueen",
+  "names": [
+    "springqueen"
+  ],
+  "runs": 7,
+  "bestRank": 228,
+  "worstRank": 345,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2258106,
+  "weeksActive": [
+    -44,
+    24,
+    28,
+    43,
+    44,
+    46,
+    84
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 324,
+      "ms": 3323295,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 345,
+      "ms": 3869203,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 309,
+      "ms": 3511088,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 253,
+      "ms": 2613359,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 284,
+      "ms": 3421350,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 228,
+      "ms": 3119897,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 281,
+      "ms": 2258106,
+      "dish": "Sundaes"
+    }
+  ]
+}

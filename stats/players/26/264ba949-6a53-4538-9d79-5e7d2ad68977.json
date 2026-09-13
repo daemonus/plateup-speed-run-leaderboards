@@ -1,0 +1,50 @@
+{
+  "id": "264ba949-6a53-4538-9d79-5e7d2ad68977",
+  "persona": "D3fault Us3r",
+  "names": [
+    "D3fault Us3r"
+  ],
+  "runs": 4,
+  "bestRank": 300,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3349155,
+  "weeksActive": [
+    34,
+    36,
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 432,
+      "ms": 5385068,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 419,
+      "ms": 4305569,
+      "dish": "Fish"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 300,
+      "ms": 6019261,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 581,
+      "ms": 3349155,
+      "dish": "Turkey"
+    }
+  ]
+}

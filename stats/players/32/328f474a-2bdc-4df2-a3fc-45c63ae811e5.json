@@ -1,0 +1,74 @@
+{
+  "id": "328f474a-2bdc-4df2-a3fc-45c63ae811e5",
+  "persona": "2014 Ford Fiesta SE Hatchback",
+  "names": [
+    "2014 Ford Fiesta SE Hatchback"
+  ],
+  "runs": 7,
+  "bestRank": 11,
+  "worstRank": 168,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1499705,
+  "weeksActive": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 168,
+      "ms": 3299267,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 49,
+      "ms": 2587627,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 14,
+      "ms": 2064015,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 41,
+      "ms": 1499705,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 27,
+      "ms": 1873660,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 66,
+      "ms": 1852810,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 11,
+      "ms": 1818577,
+      "dish": "Pies"
+    }
+  ]
+}

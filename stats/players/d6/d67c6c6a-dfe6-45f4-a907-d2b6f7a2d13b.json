@@ -1,0 +1,74 @@
+{
+  "id": "d67c6c6a-dfe6-45f4-a907-d2b6f7a2d13b",
+  "persona": "Kentarr",
+  "names": [
+    "Kentarr"
+  ],
+  "runs": 7,
+  "bestRank": 106,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2491326,
+  "weeksActive": [
+    -64,
+    -63,
+    7,
+    8,
+    9,
+    15,
+    17
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 188,
+      "ms": 3438851,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 573,
+      "ms": 5083305,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 249,
+      "ms": 3310381,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 315,
+      "ms": 2825473,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 239,
+      "ms": 3222248,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 221,
+      "ms": 2491326,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 106,
+      "ms": 2822248,
+      "dish": "Pizza"
+    }
+  ]
+}

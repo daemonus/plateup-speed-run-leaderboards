@@ -1,0 +1,42 @@
+{
+  "id": "cdf82675-f67e-4d6b-a20b-327ad3acef2d",
+  "persona": "starfirex",
+  "names": [
+    "starfirex"
+  ],
+  "runs": 3,
+  "bestRank": 367,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4340418,
+  "weeksActive": [
+    31,
+    36,
+    39
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 516,
+      "ms": 4340418,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 455,
+      "ms": 5483563,
+      "dish": "Fish"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 367,
+      "ms": 6970730,
+      "dish": "Stir Fry"
+    }
+  ]
+}

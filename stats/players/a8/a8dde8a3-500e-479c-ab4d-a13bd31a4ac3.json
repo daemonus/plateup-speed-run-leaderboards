@@ -1,0 +1,34 @@
+{
+  "id": "a8dde8a3-500e-479c-ab4d-a13bd31a4ac3",
+  "persona": "MANA",
+  "names": [
+    "MANA"
+  ],
+  "runs": 2,
+  "bestRank": 73,
+  "worstRank": 165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3232044,
+  "weeksActive": [
+    -7,
+    -6
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 73,
+      "ms": 3232044,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 165,
+      "ms": 3351290,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "a84c3944-6906-4cd3-8005-8df4a018ace5",
+  "persona": "McGee",
+  "names": [
+    "McGee"
+  ],
+  "runs": 5,
+  "bestRank": 211,
+  "worstRank": 498,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3167799,
+  "weeksActive": [
+    3,
+    8,
+    11,
+    15,
+    32
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 322,
+      "ms": 3337020,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 498,
+      "ms": 3274964,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 211,
+      "ms": 3941228,
+      "dish": "Salad"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 397,
+      "ms": 3167799,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 279,
+      "ms": 3913010,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b126aa8a-e39c-4caa-8fac-7326d4a47c3f",
+  "persona": "margaux",
+  "names": [
+    "margaux"
+  ],
+  "runs": 3,
+  "bestRank": 445,
+  "worstRank": 629,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2800140,
+  "weeksActive": [
+    15,
+    41,
+    43
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 482,
+      "ms": 3542935,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 445,
+      "ms": 2800140,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 629,
+      "ms": 3983731,
+      "dish": "Fish"
+    }
+  ]
+}

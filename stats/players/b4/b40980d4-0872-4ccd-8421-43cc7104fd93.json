@@ -1,0 +1,34 @@
+{
+  "id": "b40980d4-0872-4ccd-8421-43cc7104fd93",
+  "persona": "Albatross",
+  "names": [
+    "Albatross"
+  ],
+  "runs": 2,
+  "bestRank": 244,
+  "worstRank": 590,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4471402,
+  "weeksActive": [
+    -22,
+    -18
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 244,
+      "ms": 5161550,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 590,
+      "ms": 4471402,
+      "dish": "Fish"
+    }
+  ]
+}

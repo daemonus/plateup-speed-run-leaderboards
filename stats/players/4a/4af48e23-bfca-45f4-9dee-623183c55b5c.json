@@ -1,0 +1,34 @@
+{
+  "id": "4af48e23-bfca-45f4-9dee-623183c55b5c",
+  "persona": "Thick and Creamy",
+  "names": [
+    "Thick and Creamy"
+  ],
+  "runs": 2,
+  "bestRank": 202,
+  "worstRank": 625,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2569776,
+  "weeksActive": [
+    -92,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 202,
+      "ms": 2569776,
+      "dish": "Steak"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 625,
+      "ms": 4232458,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "9a0d4d69-9ac9-478e-b263-2123d437dbd9",
+  "persona": "BNanz",
+  "names": [
+    "BNanz"
+  ],
+  "runs": 3,
+  "bestRank": 194,
+  "worstRank": 703,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3090102,
+  "weeksActive": [
+    -92,
+    -61,
+    78
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 703,
+      "ms": 4292441,
+      "dish": "Steak"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 194,
+      "ms": 3090102,
+      "dish": "Fish"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 211,
+      "ms": 3232473,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

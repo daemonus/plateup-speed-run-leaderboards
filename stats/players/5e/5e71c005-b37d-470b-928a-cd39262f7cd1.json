@@ -1,0 +1,42 @@
+{
+  "id": "5e71c005-b37d-470b-928a-cd39262f7cd1",
+  "persona": "SEKOM94",
+  "names": [
+    "SEKOM94"
+  ],
+  "runs": 3,
+  "bestRank": 195,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3558335,
+  "weeksActive": [
+    -57,
+    -53,
+    19
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 204,
+      "ms": 3965729,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 222,
+      "ms": 3983603,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 195,
+      "ms": 3558335,
+      "dish": "Pizza"
+    }
+  ]
+}

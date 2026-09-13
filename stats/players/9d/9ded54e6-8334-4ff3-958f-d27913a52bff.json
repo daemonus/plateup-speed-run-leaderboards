@@ -1,0 +1,42 @@
+{
+  "id": "9ded54e6-8334-4ff3-958f-d27913a52bff",
+  "persona": "\u30C8\u30F3\u30C8\u30F3\u304A\u3058\u3055\u3093",
+  "names": [
+    "\u30C8\u30F3\u30C8\u30F3\u304A\u3058\u3055\u3093"
+  ],
+  "runs": 3,
+  "bestRank": 211,
+  "worstRank": 433,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3693305,
+  "weeksActive": [
+    -62,
+    -61,
+    -58
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 433,
+      "ms": 3973706,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 350,
+      "ms": 3693305,
+      "dish": "Fish"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 211,
+      "ms": 4417296,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

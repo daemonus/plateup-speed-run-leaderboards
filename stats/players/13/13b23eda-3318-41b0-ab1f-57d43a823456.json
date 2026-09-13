@@ -1,0 +1,42 @@
+{
+  "id": "13b23eda-3318-41b0-ab1f-57d43a823456",
+  "persona": "LegionMetal20",
+  "names": [
+    "LegionMetal20"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1695749,
+  "weeksActive": [
+    64,
+    65,
+    67
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 118,
+      "ms": 1695749,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 179,
+      "ms": 3236336,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 136,
+      "ms": 2838793,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

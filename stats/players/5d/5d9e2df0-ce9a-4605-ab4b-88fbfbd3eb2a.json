@@ -1,0 +1,90 @@
+{
+  "id": "5d9e2df0-ce9a-4605-ab4b-88fbfbd3eb2a",
+  "persona": "Wolfhound",
+  "names": [
+    "Wolfhound"
+  ],
+  "runs": 9,
+  "bestRank": 137,
+  "worstRank": 759,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2008339,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90,
+    -87,
+    -31,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 438,
+      "ms": 2762027,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 759,
+      "ms": 2295957,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 269,
+      "ms": 2789483,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 263,
+      "ms": 2008339,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 402,
+      "ms": 2469843,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 248,
+      "ms": 3143477,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 309,
+      "ms": 3330454,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 137,
+      "ms": 2214156,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 159,
+      "ms": 3793654,
+      "dish": "Burgers"
+    }
+  ]
+}

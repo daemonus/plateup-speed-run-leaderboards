@@ -1,0 +1,34 @@
+{
+  "id": "ea233df4-8670-431e-b599-745113bb88c0",
+  "persona": "Microsoft Word",
+  "names": [
+    "Microsoft Word"
+  ],
+  "runs": 2,
+  "bestRank": 212,
+  "worstRank": 358,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3316858,
+  "weeksActive": [
+    68,
+    72
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 358,
+      "ms": 3316858,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 212,
+      "ms": 3468105,
+      "dish": "Breakfast"
+    }
+  ]
+}

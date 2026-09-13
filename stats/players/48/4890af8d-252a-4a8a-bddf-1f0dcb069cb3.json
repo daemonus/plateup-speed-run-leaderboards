@@ -1,0 +1,34 @@
+{
+  "id": "4890af8d-252a-4a8a-bddf-1f0dcb069cb3",
+  "persona": "Optimus Pax",
+  "names": [
+    "Optimus Pax"
+  ],
+  "runs": 2,
+  "bestRank": 437,
+  "worstRank": 693,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5167260,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 437,
+      "ms": 5167260,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 693,
+      "ms": 5379186,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

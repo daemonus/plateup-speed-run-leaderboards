@@ -1,0 +1,66 @@
+{
+  "id": "8c74a1a2-4efa-408a-bf76-46c4a2cb490f",
+  "persona": "kamemame999",
+  "names": [
+    "kamemame999"
+  ],
+  "runs": 6,
+  "bestRank": 1,
+  "worstRank": 44,
+  "firstPlaces": 2,
+  "top3": 4,
+  "top10": 5,
+  "bestMs": 835702,
+  "weeksActive": [
+    -53,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 5,
+      "ms": 1636771,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 44,
+      "ms": 2525351,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 1,
+      "ms": 1437370,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 1,
+      "ms": 835702,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 2,
+      "ms": 1343667,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 2,
+      "ms": 1570967,
+      "dish": "Breakfast"
+    }
+  ]
+}

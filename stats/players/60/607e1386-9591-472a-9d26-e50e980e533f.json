@@ -1,0 +1,50 @@
+{
+  "id": "607e1386-9591-472a-9d26-e50e980e533f",
+  "persona": "morimina",
+  "names": [
+    "morimina"
+  ],
+  "runs": 4,
+  "bestRank": 198,
+  "worstRank": 675,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4174547,
+  "weeksActive": [
+    -25,
+    -23,
+    -22,
+    -11
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 675,
+      "ms": 6125740,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 200,
+      "ms": 4174547,
+      "dish": "Pizza"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 240,
+      "ms": 5108703,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 198,
+      "ms": 6029858,
+      "dish": "Burgers"
+    }
+  ]
+}

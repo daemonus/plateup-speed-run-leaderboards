@@ -1,0 +1,42 @@
+{
+  "id": "eaa1379b-d9ba-4c52-9724-b958e05f4c57",
+  "persona": "PurpLexed",
+  "names": [
+    "PurpLexed"
+  ],
+  "runs": 3,
+  "bestRank": 120,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1706639,
+  "weeksActive": [
+    57,
+    60,
+    83
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 202,
+      "ms": 3132487,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 336,
+      "ms": 4436812,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 120,
+      "ms": 1706639,
+      "dish": "Sundaes"
+    }
+  ]
+}

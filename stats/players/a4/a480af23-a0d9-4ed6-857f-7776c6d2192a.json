@@ -1,0 +1,58 @@
+{
+  "id": "a480af23-a0d9-4ed6-857f-7776c6d2192a",
+  "persona": "epettys",
+  "names": [
+    "epettys"
+  ],
+  "runs": 5,
+  "bestRank": 501,
+  "worstRank": 1582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3203883,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1582,
+      "ms": 4174895,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 784,
+      "ms": 3203883,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 770,
+      "ms": 3798961,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 560,
+      "ms": 3984062,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 501,
+      "ms": 4347224,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "d3c17215-99ae-4c98-a3dc-668d95be74eb",
+  "persona": "Luumi",
+  "names": [
+    "Luumi"
+  ],
+  "runs": 4,
+  "bestRank": 270,
+  "worstRank": 873,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2697903,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -87
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 873,
+      "ms": 2784232,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 534,
+      "ms": 2723915,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 391,
+      "ms": 2697903,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 270,
+      "ms": 3211245,
+      "dish": "Stir Fry"
+    }
+  ]
+}

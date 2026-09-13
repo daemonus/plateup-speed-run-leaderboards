@@ -1,0 +1,42 @@
+{
+  "id": "193deecf-6c63-4824-8b03-959be6a8c06d",
+  "persona": "Vika",
+  "names": [
+    "Vika"
+  ],
+  "runs": 3,
+  "bestRank": 366,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3065536,
+  "weeksActive": [
+    15,
+    16,
+    20
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 366,
+      "ms": 3065536,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 470,
+      "ms": 5578649,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 449,
+      "ms": 3092666,
+      "dish": "Turkey"
+    }
+  ]
+}

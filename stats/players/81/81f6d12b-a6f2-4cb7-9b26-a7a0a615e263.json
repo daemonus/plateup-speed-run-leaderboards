@@ -1,0 +1,42 @@
+{
+  "id": "81f6d12b-a6f2-4cb7-9b26-a7a0a615e263",
+  "persona": "mayo",
+  "names": [
+    "mayo"
+  ],
+  "runs": 3,
+  "bestRank": 76,
+  "worstRank": 457,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2361848,
+  "weeksActive": [
+    -67,
+    -59,
+    71
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 457,
+      "ms": 4582217,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 76,
+      "ms": 2361848,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 99,
+      "ms": 2614418,
+      "dish": "Pizza"
+    }
+  ]
+}

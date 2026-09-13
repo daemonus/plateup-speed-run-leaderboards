@@ -1,0 +1,58 @@
+{
+  "id": "def78166-756b-43fd-a6e0-0e27b7afda59",
+  "persona": "DBird",
+  "names": [
+    "DBird"
+  ],
+  "runs": 5,
+  "bestRank": 115,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2998046,
+  "weeksActive": [
+    2,
+    4,
+    39,
+    43,
+    70
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 194,
+      "ms": 3448749,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 304,
+      "ms": 4079088,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 115,
+      "ms": 3255634,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 373,
+      "ms": 2998046,
+      "dish": "Fish"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 346,
+      "ms": 5740220,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

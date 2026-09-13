@@ -1,0 +1,66 @@
+{
+  "id": "e1021804-528c-450a-8749-41d6fd4e49dd",
+  "persona": "alksernto",
+  "names": [
+    "alksernto"
+  ],
+  "runs": 6,
+  "bestRank": 118,
+  "worstRank": 592,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2888163,
+  "weeksActive": [
+    -63,
+    -62,
+    -61,
+    -53,
+    -51,
+    -20
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 592,
+      "ms": 5195353,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 419,
+      "ms": 3940062,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 322,
+      "ms": 3542139,
+      "dish": "Fish"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 118,
+      "ms": 3366530,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 256,
+      "ms": 2888163,
+      "dish": "Turkey"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 442,
+      "ms": 4445121,
+      "dish": "Burgers"
+    }
+  ]
+}

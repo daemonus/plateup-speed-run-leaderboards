@@ -1,0 +1,42 @@
+{
+  "id": "3e78a7ca-592d-492c-abf1-7cf1d69012a1",
+  "persona": "Cherry Popper",
+  "names": [
+    "Cherry Popper"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4467180,
+  "weeksActive": [
+    76,
+    78,
+    83
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 212,
+      "ms": 7657159,
+      "dish": "Salad"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 332,
+      "ms": 4467180,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 769,
+      "ms": 4601012,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7b864e94-f46d-497f-aeaa-6de9dba935dc",
+  "persona": "\u9732\u9732\u9732\u9732",
+  "names": [
+    "\u9732\u9732\u9732\u9732"
+  ],
+  "runs": 3,
+  "bestRank": 659,
+  "worstRank": 2102,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3219536,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1576,
+      "ms": 4461656,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2102,
+      "ms": 3219536,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 659,
+      "ms": 4055794,
+      "dish": "Steak"
+    }
+  ]
+}

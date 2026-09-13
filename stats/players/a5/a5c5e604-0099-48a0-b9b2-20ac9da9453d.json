@@ -1,0 +1,34 @@
+{
+  "id": "a5c5e604-0099-48a0-b9b2-20ac9da9453d",
+  "persona": "Bahati",
+  "names": [
+    "Bahati"
+  ],
+  "runs": 2,
+  "bestRank": 164,
+  "worstRank": 267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3216476,
+  "weeksActive": [
+    -56,
+    -42
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 267,
+      "ms": 3216476,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 164,
+      "ms": 4032662,
+      "dish": "Burgers"
+    }
+  ]
+}

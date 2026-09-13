@@ -1,0 +1,34 @@
+{
+  "id": "cd591f3c-4e70-42a5-bdc2-f6444adb848f",
+  "persona": "Zagbarer",
+  "names": [
+    "Zagbarer"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 656,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4760225,
+  "weeksActive": [
+    -18,
+    -10
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 656,
+      "ms": 4760225,
+      "dish": "Fish"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 285,
+      "ms": 6539283,
+      "dish": "Stir Fry"
+    }
+  ]
+}

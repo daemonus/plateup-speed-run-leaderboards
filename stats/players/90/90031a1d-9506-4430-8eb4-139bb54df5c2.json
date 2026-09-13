@@ -1,0 +1,34 @@
+{
+  "id": "90031a1d-9506-4430-8eb4-139bb54df5c2",
+  "persona": "bean",
+  "names": [
+    "bean"
+  ],
+  "runs": 2,
+  "bestRank": 380,
+  "worstRank": 422,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2034238,
+  "weeksActive": [
+    -93,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 422,
+      "ms": 2034238,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 380,
+      "ms": 2415709,
+      "dish": "Fish"
+    }
+  ]
+}

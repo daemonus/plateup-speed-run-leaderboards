@@ -1,0 +1,34 @@
+{
+  "id": "49ee5909-ee9b-45dd-99c3-cb43734a73fa",
+  "persona": "taboo",
+  "names": [
+    "taboo"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 111,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1941985,
+  "weeksActive": [
+    10,
+    13
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 111,
+      "ms": 3384633,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 81,
+      "ms": 1941985,
+      "dish": "Turkey"
+    }
+  ]
+}

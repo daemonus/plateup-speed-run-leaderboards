@@ -1,0 +1,34 @@
+{
+  "id": "4490d390-e33c-42f7-ac83-57eef22b2e50",
+  "persona": "Liska",
+  "names": [
+    "Liska"
+  ],
+  "runs": 2,
+  "bestRank": 181,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5079119,
+  "weeksActive": [
+    -54,
+    75
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 181,
+      "ms": 5079119,
+      "dish": "Salad"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 374,
+      "ms": 7757621,
+      "dish": "Pies"
+    }
+  ]
+}

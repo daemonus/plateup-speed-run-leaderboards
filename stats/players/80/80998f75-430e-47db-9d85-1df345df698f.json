@@ -1,0 +1,42 @@
+{
+  "id": "80998f75-430e-47db-9d85-1df345df698f",
+  "persona": "milly",
+  "names": [
+    "milly"
+  ],
+  "runs": 3,
+  "bestRank": 195,
+  "worstRank": 357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2354589,
+  "weeksActive": [
+    20,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 245,
+      "ms": 2354589,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 357,
+      "ms": 4014992,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 195,
+      "ms": 3489577,
+      "dish": "Breakfast"
+    }
+  ]
+}

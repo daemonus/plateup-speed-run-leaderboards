@@ -1,0 +1,50 @@
+{
+  "id": "22724033-bfe8-4d19-9587-e2796380c02a",
+  "persona": "Bombadil",
+  "names": [
+    "Bombadil"
+  ],
+  "runs": 4,
+  "bestRank": 296,
+  "worstRank": 874,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2360488,
+  "weeksActive": [
+    -94,
+    -93,
+    -89,
+    -84
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 685,
+      "ms": 3073416,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 874,
+      "ms": 2360488,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 448,
+      "ms": 2825649,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 296,
+      "ms": 2851550,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "b7cc0915-d2a2-417a-88e2-67a59114598f",
+  "persona": "ULS",
+  "names": [
+    "ULS"
+  ],
+  "runs": 2,
+  "bestRank": 349,
+  "worstRank": 366,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3533172,
+  "weeksActive": [
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 366,
+      "ms": 4059506,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 349,
+      "ms": 3533172,
+      "dish": "Fish"
+    }
+  ]
+}

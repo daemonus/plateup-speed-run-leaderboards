@@ -1,0 +1,42 @@
+{
+  "id": "f607646e-093a-4ca0-9803-d3d11e2d872f",
+  "persona": "Mr Socks",
+  "names": [
+    "Mr Socks"
+  ],
+  "runs": 3,
+  "bestRank": 184,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2036071,
+  "weeksActive": [
+    -94,
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 248,
+      "ms": 2448208,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 424,
+      "ms": 2036071,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 184,
+      "ms": 2500961,
+      "dish": "Steak"
+    }
+  ]
+}

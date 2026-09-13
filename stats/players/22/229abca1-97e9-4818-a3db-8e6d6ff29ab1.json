@@ -1,0 +1,42 @@
+{
+  "id": "229abca1-97e9-4818-a3db-8e6d6ff29ab1",
+  "persona": "Goot",
+  "names": [
+    "Goot"
+  ],
+  "runs": 3,
+  "bestRank": 381,
+  "worstRank": 626,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3724394,
+  "weeksActive": [
+    58,
+    59,
+    63
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 430,
+      "ms": 3724394,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 381,
+      "ms": 4615408,
+      "dish": "Salad"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 626,
+      "ms": 4389940,
+      "dish": "Pizza"
+    }
+  ]
+}

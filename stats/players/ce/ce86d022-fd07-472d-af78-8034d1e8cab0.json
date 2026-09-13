@@ -1,0 +1,50 @@
+{
+  "id": "ce86d022-fd07-472d-af78-8034d1e8cab0",
+  "persona": "Aninha",
+  "names": [
+    "Aninha"
+  ],
+  "runs": 4,
+  "bestRank": 266,
+  "worstRank": 669,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4306445,
+  "weeksActive": [
+    -59,
+    -46,
+    -43,
+    -19
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 669,
+      "ms": 5136875,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 517,
+      "ms": 5501149,
+      "dish": "Salad"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 266,
+      "ms": 4393667,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 276,
+      "ms": 4306445,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

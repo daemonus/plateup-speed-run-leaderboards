@@ -1,0 +1,58 @@
+{
+  "id": "2cdb059f-f811-4e07-b815-d31126dc4ad1",
+  "persona": "Sin",
+  "names": [
+    "Sin"
+  ],
+  "runs": 5,
+  "bestRank": 228,
+  "worstRank": 1002,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2792480,
+  "weeksActive": [
+    -32,
+    -31,
+    -30,
+    -26,
+    77
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1002,
+      "ms": 4729214,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 397,
+      "ms": 3539883,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 438,
+      "ms": 3054105,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 351,
+      "ms": 4688853,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 228,
+      "ms": 2792480,
+      "dish": "Sundaes"
+    }
+  ]
+}

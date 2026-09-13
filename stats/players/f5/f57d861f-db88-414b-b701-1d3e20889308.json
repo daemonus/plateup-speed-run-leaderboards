@@ -1,0 +1,50 @@
+{
+  "id": "f57d861f-db88-414b-b701-1d3e20889308",
+  "persona": "NUGUL",
+  "names": [
+    "NUGUL"
+  ],
+  "runs": 4,
+  "bestRank": 357,
+  "worstRank": 498,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4173167,
+  "weeksActive": [
+    -62,
+    -61,
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 492,
+      "ms": 4173167,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 470,
+      "ms": 4471449,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 357,
+      "ms": 4419386,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 498,
+      "ms": 4218896,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

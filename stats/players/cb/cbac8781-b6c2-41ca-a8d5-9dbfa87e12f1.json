@@ -1,0 +1,66 @@
+{
+  "id": "cbac8781-b6c2-41ca-a8d5-9dbfa87e12f1",
+  "persona": "peanutbutter3",
+  "names": [
+    "peanutbutter3"
+  ],
+  "runs": 6,
+  "bestRank": 15,
+  "worstRank": 57,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1751991,
+  "weeksActive": [
+    -3,
+    -1,
+    21,
+    25,
+    27,
+    78
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 35,
+      "ms": 1751991,
+      "dish": "Turkey"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 26,
+      "ms": 2530104,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 25,
+      "ms": 1847657,
+      "dish": "Burgers"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 16,
+      "ms": 2279529,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 15,
+      "ms": 1770771,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 57,
+      "ms": 2214533,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

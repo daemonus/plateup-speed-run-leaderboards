@@ -1,0 +1,42 @@
+{
+  "id": "597e432c-3733-44d1-997e-64d1243a19d6",
+  "persona": "McHaggis",
+  "names": [
+    "McHaggis"
+  ],
+  "runs": 3,
+  "bestRank": 154,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2319906,
+  "weeksActive": [
+    -76,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 222,
+      "ms": 2521312,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 154,
+      "ms": 2319906,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 194,
+      "ms": 3033684,
+      "dish": "Pies"
+    }
+  ]
+}

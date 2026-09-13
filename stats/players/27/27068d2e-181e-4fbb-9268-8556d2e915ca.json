@@ -1,0 +1,42 @@
+{
+  "id": "27068d2e-181e-4fbb-9268-8556d2e915ca",
+  "persona": "Goblin",
+  "names": [
+    "Goblin"
+  ],
+  "runs": 3,
+  "bestRank": 111,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2708906,
+  "weeksActive": [
+    43,
+    50,
+    53
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 281,
+      "ms": 2708906,
+      "dish": "Fish"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 111,
+      "ms": 3677307,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 114,
+      "ms": 2732994,
+      "dish": "Pies"
+    }
+  ]
+}

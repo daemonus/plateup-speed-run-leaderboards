@@ -1,0 +1,50 @@
+{
+  "id": "eab16612-f8b2-4121-947a-5aee6623a9e2",
+  "persona": "Giuly",
+  "names": [
+    "Giuly"
+  ],
+  "runs": 4,
+  "bestRank": 366,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2972369,
+  "weeksActive": [
+    -33,
+    -32,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 366,
+      "ms": 4507173,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 562,
+      "ms": 3624499,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 472,
+      "ms": 3731179,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 404,
+      "ms": 2972369,
+      "dish": "Turkey"
+    }
+  ]
+}

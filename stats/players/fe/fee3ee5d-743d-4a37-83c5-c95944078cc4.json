@@ -1,0 +1,42 @@
+{
+  "id": "fee3ee5d-743d-4a37-83c5-c95944078cc4",
+  "persona": "\u7070\u732Bmieo",
+  "names": [
+    "\u7070\u732Bmieo"
+  ],
+  "runs": 3,
+  "bestRank": 172,
+  "worstRank": 494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3691565,
+  "weeksActive": [
+    29,
+    32,
+    52
+  ],
+  "history": [
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 172,
+      "ms": 4503395,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 300,
+      "ms": 4040133,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 494,
+      "ms": 3691565,
+      "dish": "Fish"
+    }
+  ]
+}

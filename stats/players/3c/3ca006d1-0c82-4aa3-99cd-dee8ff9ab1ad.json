@@ -1,0 +1,42 @@
+{
+  "id": "3ca006d1-0c82-4aa3-99cd-dee8ff9ab1ad",
+  "persona": "\u51B7\u9177\u65E0\u60C5\u8537\u8587\u9171",
+  "names": [
+    "\u51B7\u9177\u65E0\u60C5\u8537\u8587\u9171"
+  ],
+  "runs": 3,
+  "bestRank": 181,
+  "worstRank": 338,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4031097,
+  "weeksActive": [
+    -28,
+    -25,
+    -24
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 181,
+      "ms": 4586060,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 338,
+      "ms": 4031097,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 312,
+      "ms": 10752698,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "edcf3f36-9279-4ae6-8b64-3eae51339cae",
+  "persona": "Sekai",
+  "names": [
+    "Sekai"
+  ],
+  "runs": 3,
+  "bestRank": 221,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3524910,
+  "weeksActive": [
+    -68,
+    -67,
+    -66
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 257,
+      "ms": 4489448,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 221,
+      "ms": 3524910,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 238,
+      "ms": 3814027,
+      "dish": "Turkey"
+    }
+  ]
+}

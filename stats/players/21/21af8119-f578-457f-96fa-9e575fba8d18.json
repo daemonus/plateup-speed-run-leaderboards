@@ -1,0 +1,42 @@
+{
+  "id": "21af8119-f578-457f-96fa-9e575fba8d18",
+  "persona": "ladee",
+  "names": [
+    "ladee"
+  ],
+  "runs": 3,
+  "bestRank": 295,
+  "worstRank": 1791,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3383291,
+  "weeksActive": [
+    -94,
+    -82,
+    -80
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1791,
+      "ms": 7765340,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 479,
+      "ms": 3383291,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 295,
+      "ms": 6311224,
+      "dish": "Stir Fry"
+    }
+  ]
+}

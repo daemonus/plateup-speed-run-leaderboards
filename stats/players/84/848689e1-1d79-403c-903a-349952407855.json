@@ -1,0 +1,66 @@
+{
+  "id": "848689e1-1d79-403c-903a-349952407855",
+  "persona": "Solevuk",
+  "names": [
+    "Solevuk"
+  ],
+  "runs": 6,
+  "bestRank": 275,
+  "worstRank": 965,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2308604,
+  "weeksActive": [
+    -94,
+    -93,
+    -84,
+    -75,
+    69,
+    70
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 965,
+      "ms": 3383811,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 783,
+      "ms": 2308604,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 507,
+      "ms": 3599380,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 757,
+      "ms": 3694967,
+      "dish": "Fish"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 275,
+      "ms": 4719268,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 294,
+      "ms": 4427355,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

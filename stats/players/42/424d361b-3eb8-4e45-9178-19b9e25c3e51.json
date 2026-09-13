@@ -1,0 +1,66 @@
+{
+  "id": "424d361b-3eb8-4e45-9178-19b9e25c3e51",
+  "persona": "V\u00E9ro",
+  "names": [
+    "V\u00E9ro"
+  ],
+  "runs": 6,
+  "bestRank": 93,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2626552,
+  "weeksActive": [
+    -39,
+    -37,
+    -36,
+    -34,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 353,
+      "ms": 3233356,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 476,
+      "ms": 3433990,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 93,
+      "ms": 4067106,
+      "dish": "Burgers"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 119,
+      "ms": 2626552,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 153,
+      "ms": 3149536,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 149,
+      "ms": 2642030,
+      "dish": "Breakfast"
+    }
+  ]
+}

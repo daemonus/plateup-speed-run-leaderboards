@@ -1,0 +1,34 @@
+{
+  "id": "d9356798-4148-471a-99ca-68f5bff6c0c1",
+  "persona": "Parker",
+  "names": [
+    "Parker"
+  ],
+  "runs": 2,
+  "bestRank": 319,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3543605,
+  "weeksActive": [
+    54,
+    63
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 319,
+      "ms": 5534610,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 406,
+      "ms": 3543605,
+      "dish": "Pizza"
+    }
+  ]
+}

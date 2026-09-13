@@ -1,0 +1,42 @@
+{
+  "id": "587afced-67fa-4c7d-8670-a9b316837c1a",
+  "persona": "Queralt",
+  "names": [
+    "Queralt"
+  ],
+  "runs": 3,
+  "bestRank": 163,
+  "worstRank": 261,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1835918,
+  "weeksActive": [
+    64,
+    70,
+    78
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 163,
+      "ms": 1835918,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 261,
+      "ms": 4127806,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 249,
+      "ms": 3505209,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

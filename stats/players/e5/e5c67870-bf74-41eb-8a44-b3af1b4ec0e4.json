@@ -1,0 +1,42 @@
+{
+  "id": "e5c67870-bf74-41eb-8a44-b3af1b4ec0e4",
+  "persona": "JawField",
+  "names": [
+    "JawField"
+  ],
+  "runs": 3,
+  "bestRank": 42,
+  "worstRank": 902,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1459238,
+  "weeksActive": [
+    -94,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 902,
+      "ms": 3313688,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 42,
+      "ms": 1459238,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 497,
+      "ms": 2663023,
+      "dish": "Fish"
+    }
+  ]
+}

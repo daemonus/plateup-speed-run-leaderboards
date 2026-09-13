@@ -1,0 +1,42 @@
+{
+  "id": "cf2a287a-7c7b-42fb-b139-635a78aae5b4",
+  "persona": "ruine",
+  "names": [
+    "ruine"
+  ],
+  "runs": 3,
+  "bestRank": 248,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3891973,
+  "weeksActive": [
+    -26,
+    -25,
+    -3
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 248,
+      "ms": 4070727,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 565,
+      "ms": 4912819,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 534,
+      "ms": 3891973,
+      "dish": "Turkey"
+    }
+  ]
+}

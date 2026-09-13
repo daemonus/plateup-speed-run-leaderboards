@@ -1,0 +1,50 @@
+{
+  "id": "c5f2122e-ea82-4ea3-91cf-980859aa69fb",
+  "persona": "GeneZa",
+  "names": [
+    "GeneZa"
+  ],
+  "runs": 4,
+  "bestRank": 83,
+  "worstRank": 339,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2667702,
+  "weeksActive": [
+    -47,
+    -41,
+    -37,
+    -36
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 332,
+      "ms": 4211443,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 339,
+      "ms": 5053174,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 206,
+      "ms": 2667702,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 83,
+      "ms": 3730734,
+      "dish": "Burgers"
+    }
+  ]
+}

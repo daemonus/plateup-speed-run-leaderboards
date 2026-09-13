@@ -1,0 +1,50 @@
+{
+  "id": "95c0190b-1819-4f30-914c-df8176e832be",
+  "persona": "Owl Whisper",
+  "names": [
+    "Owl Whisper"
+  ],
+  "runs": 4,
+  "bestRank": 60,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2617519,
+  "weeksActive": [
+    -92,
+    -80,
+    -71,
+    -29
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 373,
+      "ms": 3079805,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 60,
+      "ms": 2617519,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 309,
+      "ms": 2866234,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 111,
+      "ms": 3333330,
+      "dish": "Burgers"
+    }
+  ]
+}

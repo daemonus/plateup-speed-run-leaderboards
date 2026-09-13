@@ -1,0 +1,34 @@
+{
+  "id": "93d4a186-5db0-44d1-8b60-4d17f91191b7",
+  "persona": "Nyx",
+  "names": [
+    "Nyx"
+  ],
+  "runs": 2,
+  "bestRank": 443,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5660170,
+  "weeksActive": [
+    7,
+    24
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 443,
+      "ms": 5660170,
+      "dish": "Fish"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 553,
+      "ms": 5939378,
+      "dish": "Pies"
+    }
+  ]
+}

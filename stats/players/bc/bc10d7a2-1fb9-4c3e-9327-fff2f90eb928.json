@@ -1,0 +1,50 @@
+{
+  "id": "bc10d7a2-1fb9-4c3e-9327-fff2f90eb928",
+  "persona": "Alkin",
+  "names": [
+    "Alkin"
+  ],
+  "runs": 4,
+  "bestRank": 15,
+  "worstRank": 49,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1287640,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 34,
+      "ms": 1595855,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 25,
+      "ms": 1287640,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 15,
+      "ms": 1362843,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 49,
+      "ms": 1492392,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e52b5978-f8e2-4069-b82f-76c28f121b10",
+  "persona": "Cheredaru",
+  "names": [
+    "Cheredaru"
+  ],
+  "runs": 3,
+  "bestRank": 300,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2879133,
+  "weeksActive": [
+    36,
+    38,
+    64
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 300,
+      "ms": 3245756,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 349,
+      "ms": 3671873,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 533,
+      "ms": 2879133,
+      "dish": "Sundaes"
+    }
+  ]
+}

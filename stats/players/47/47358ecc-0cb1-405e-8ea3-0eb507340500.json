@@ -1,0 +1,50 @@
+{
+  "id": "47358ecc-0cb1-405e-8ea3-0eb507340500",
+  "persona": "Knutcased",
+  "names": [
+    "Knutcased"
+  ],
+  "runs": 4,
+  "bestRank": 34,
+  "worstRank": 149,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1085318,
+  "weeksActive": [
+    64,
+    78,
+    83,
+    86
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 58,
+      "ms": 1417047,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 149,
+      "ms": 2842353,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 38,
+      "ms": 1276073,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 34,
+      "ms": 1085318,
+      "dish": "Sundaes"
+    }
+  ]
+}

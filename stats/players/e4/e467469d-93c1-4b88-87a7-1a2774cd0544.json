@@ -1,0 +1,34 @@
+{
+  "id": "e467469d-93c1-4b88-87a7-1a2774cd0544",
+  "persona": "sayciao.o",
+  "names": [
+    "sayciao.o"
+  ],
+  "runs": 2,
+  "bestRank": 152,
+  "worstRank": 231,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2577842,
+  "weeksActive": [
+    8,
+    11
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 231,
+      "ms": 2577842,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 152,
+      "ms": 3321857,
+      "dish": "Salad"
+    }
+  ]
+}

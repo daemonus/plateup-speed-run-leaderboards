@@ -1,0 +1,42 @@
+{
+  "id": "09aa3c0b-b91a-4288-9944-76b41679695d",
+  "persona": "cowyun",
+  "names": [
+    "cowyun"
+  ],
+  "runs": 3,
+  "bestRank": 225,
+  "worstRank": 267,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3256046,
+  "weeksActive": [
+    -61,
+    -35,
+    -34
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 267,
+      "ms": 3343647,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 225,
+      "ms": 5505066,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 258,
+      "ms": 3256046,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "20d47f84-f207-458b-97ac-7b3938c48698",
+  "persona": "Lunukin",
+  "names": [
+    "Lunukin"
+  ],
+  "runs": 3,
+  "bestRank": 251,
+  "worstRank": 880,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3199096,
+  "weeksActive": [
+    64,
+    75,
+    86
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 880,
+      "ms": 4021083,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 251,
+      "ms": 3922640,
+      "dish": "Pies"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 376,
+      "ms": 3199096,
+      "dish": "Sundaes"
+    }
+  ]
+}

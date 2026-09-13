@@ -1,0 +1,42 @@
+{
+  "id": "242afda2-182d-4484-b3b2-1a3275a7ae41",
+  "persona": "SuperCif",
+  "names": [
+    "SuperCif"
+  ],
+  "runs": 3,
+  "bestRank": 64,
+  "worstRank": 192,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1917887,
+  "weeksActive": [
+    7,
+    8,
+    21
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 192,
+      "ms": 3049492,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 66,
+      "ms": 1917887,
+      "dish": "Fish"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 64,
+      "ms": 2271965,
+      "dish": "Burgers"
+    }
+  ]
+}

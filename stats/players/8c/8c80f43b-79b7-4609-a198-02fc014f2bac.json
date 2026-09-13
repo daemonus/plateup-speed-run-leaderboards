@@ -1,0 +1,42 @@
+{
+  "id": "8c80f43b-79b7-4609-a198-02fc014f2bac",
+  "persona": "Philanel",
+  "names": [
+    "Philanel"
+  ],
+  "runs": 3,
+  "bestRank": 267,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2776454,
+  "weeksActive": [
+    -2,
+    4,
+    8
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 267,
+      "ms": 3365463,
+      "dish": "Pizza"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 297,
+      "ms": 4022001,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 299,
+      "ms": 2776454,
+      "dish": "Fish"
+    }
+  ]
+}

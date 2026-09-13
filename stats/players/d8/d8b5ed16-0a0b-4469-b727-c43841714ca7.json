@@ -1,0 +1,50 @@
+{
+  "id": "d8b5ed16-0a0b-4469-b727-c43841714ca7",
+  "persona": "otsu",
+  "names": [
+    "otsu"
+  ],
+  "runs": 4,
+  "bestRank": 150,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3017635,
+  "weeksActive": [
+    -71,
+    -70,
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 407,
+      "ms": 3017635,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 203,
+      "ms": 3603372,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 150,
+      "ms": 3851585,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 262,
+      "ms": 3696784,
+      "dish": "Breakfast"
+    }
+  ]
+}

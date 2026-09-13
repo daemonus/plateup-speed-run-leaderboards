@@ -1,0 +1,42 @@
+{
+  "id": "dc8a2dfb-64a2-4149-9ebc-2a163dd0e033",
+  "persona": "Doug Dimmadome",
+  "names": [
+    "Doug Dimmadome"
+  ],
+  "runs": 3,
+  "bestRank": 217,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3090669,
+  "weeksActive": [
+    -72,
+    -44,
+    -4
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 443,
+      "ms": 3984306,
+      "dish": "Pies"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 511,
+      "ms": 4453219,
+      "dish": "Turkey"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 217,
+      "ms": 3090669,
+      "dish": "Pies"
+    }
+  ]
+}

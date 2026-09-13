@@ -1,0 +1,50 @@
+{
+  "id": "5c223c8e-cb0e-40ad-a6a3-0c2a1347a320",
+  "persona": "Snorlaxx",
+  "names": [
+    "Snorlaxx"
+  ],
+  "runs": 4,
+  "bestRank": 229,
+  "worstRank": 451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3202106,
+  "weeksActive": [
+    5,
+    7,
+    35,
+    43
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 384,
+      "ms": 4541020,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 266,
+      "ms": 3405235,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 229,
+      "ms": 3427930,
+      "dish": "Fish"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 451,
+      "ms": 3202106,
+      "dish": "Fish"
+    }
+  ]
+}

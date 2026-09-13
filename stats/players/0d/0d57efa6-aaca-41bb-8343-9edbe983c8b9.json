@@ -1,0 +1,50 @@
+{
+  "id": "0d57efa6-aaca-41bb-8343-9edbe983c8b9",
+  "persona": "Mrs. Drexl",
+  "names": [
+    "Mrs. Drexl"
+  ],
+  "runs": 4,
+  "bestRank": 323,
+  "worstRank": 694,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2798534,
+  "weeksActive": [
+    -78,
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 443,
+      "ms": 4119386,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 366,
+      "ms": 3249210,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 323,
+      "ms": 2798534,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 694,
+      "ms": 3516423,
+      "dish": "Fish"
+    }
+  ]
+}

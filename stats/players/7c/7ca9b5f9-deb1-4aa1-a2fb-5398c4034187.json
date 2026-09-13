@@ -1,0 +1,42 @@
+{
+  "id": "7ca9b5f9-deb1-4aa1-a2fb-5398c4034187",
+  "persona": "krievley",
+  "names": [
+    "krievley"
+  ],
+  "runs": 3,
+  "bestRank": 117,
+  "worstRank": 490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2376381,
+  "weeksActive": [
+    -51,
+    -46,
+    46
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 117,
+      "ms": 2376381,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 117,
+      "ms": 3176462,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 490,
+      "ms": 4500252,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "28bce784-0f63-4311-ac70-3bad994eba0b",
+  "persona": "Two Romas and an Avocado",
+  "names": [
+    "Two Romas and an Avocado"
+  ],
+  "runs": 2,
+  "bestRank": 156,
+  "worstRank": 435,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2360528,
+  "weeksActive": [
+    -82,
+    68
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 435,
+      "ms": 3283918,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 156,
+      "ms": 2360528,
+      "dish": "Turkey"
+    }
+  ]
+}

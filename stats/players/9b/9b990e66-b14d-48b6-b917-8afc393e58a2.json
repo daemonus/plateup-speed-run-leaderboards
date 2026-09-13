@@ -1,0 +1,82 @@
+{
+  "id": "9b990e66-b14d-48b6-b917-8afc393e58a2",
+  "persona": "Nicci",
+  "names": [
+    "Nicci"
+  ],
+  "runs": 8,
+  "bestRank": 150,
+  "worstRank": 371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3059394,
+  "weeksActive": [
+    -2,
+    0,
+    1,
+    4,
+    5,
+    6,
+    7,
+    9
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 371,
+      "ms": 4203780,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 238,
+      "ms": 4167831,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 158,
+      "ms": 3085002,
+      "dish": "Pies"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 323,
+      "ms": 4193659,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 213,
+      "ms": 3582526,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 150,
+      "ms": 3059394,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 353,
+      "ms": 3912657,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 253,
+      "ms": 3273636,
+      "dish": "Breakfast"
+    }
+  ]
+}

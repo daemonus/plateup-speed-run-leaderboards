@@ -1,0 +1,58 @@
+{
+  "id": "3e082692-f364-4609-a1ff-f0990c79d05b",
+  "persona": "BottledWishes",
+  "names": [
+    "BottledWishes"
+  ],
+  "runs": 5,
+  "bestRank": 232,
+  "worstRank": 807,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3445613,
+  "weeksActive": [
+    -69,
+    -62,
+    -15,
+    41,
+    42
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 450,
+      "ms": 5855398,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 807,
+      "ms": 6680652,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 607,
+      "ms": 7346181,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 596,
+      "ms": 3445613,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 232,
+      "ms": 4449969,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

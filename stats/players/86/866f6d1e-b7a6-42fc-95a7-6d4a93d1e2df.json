@@ -1,0 +1,50 @@
+{
+  "id": "866f6d1e-b7a6-42fc-95a7-6d4a93d1e2df",
+  "persona": "Serenifly",
+  "names": [
+    "Serenifly"
+  ],
+  "runs": 4,
+  "bestRank": 281,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3819376,
+  "weeksActive": [
+    55,
+    71,
+    73,
+    74
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 292,
+      "ms": 4731162,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 299,
+      "ms": 3819376,
+      "dish": "Pizza"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 285,
+      "ms": 5523666,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 281,
+      "ms": 4620498,
+      "dish": "Breakfast"
+    }
+  ]
+}

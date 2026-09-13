@@ -1,0 +1,58 @@
+{
+  "id": "93b8d7e8-1e36-4173-b2be-55a50977fcdf",
+  "persona": "AsherahBock",
+  "names": [
+    "AsherahBock"
+  ],
+  "runs": 5,
+  "bestRank": 215,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3632529,
+  "weeksActive": [
+    76,
+    77,
+    78,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 215,
+      "ms": 80274101,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 453,
+      "ms": 4534988,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 285,
+      "ms": 3809960,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 247,
+      "ms": 3632529,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 319,
+      "ms": 67959789,
+      "dish": "Pizza"
+    }
+  ]
+}

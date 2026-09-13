@@ -1,0 +1,66 @@
+{
+  "id": "7671d890-7f66-4d2b-b0c9-d81df4b84672",
+  "persona": "Guy",
+  "names": [
+    "Guy"
+  ],
+  "runs": 6,
+  "bestRank": 129,
+  "worstRank": 724,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2784710,
+  "weeksActive": [
+    -89,
+    -82,
+    -71,
+    -46,
+    -40,
+    -37
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 724,
+      "ms": 3610394,
+      "dish": "Pies"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 389,
+      "ms": 3169810,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 272,
+      "ms": 2784710,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 173,
+      "ms": 3462223,
+      "dish": "Salad"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 129,
+      "ms": 3618907,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 250,
+      "ms": 2816612,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ee4a5c18-70bd-4595-9755-3c1241bdf212",
+  "persona": "fatyeti",
+  "names": [
+    "fatyeti"
+  ],
+  "runs": 3,
+  "bestRank": 454,
+  "worstRank": 570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2101428,
+  "weeksActive": [
+    -93,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 500,
+      "ms": 2101428,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 570,
+      "ms": 2804208,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 454,
+      "ms": 2837136,
+      "dish": "Pies"
+    }
+  ]
+}

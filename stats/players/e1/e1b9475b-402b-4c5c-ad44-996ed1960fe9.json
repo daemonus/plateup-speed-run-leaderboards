@@ -1,0 +1,34 @@
+{
+  "id": "e1b9475b-402b-4c5c-ad44-996ed1960fe9",
+  "persona": "Megolas",
+  "names": [
+    "Megolas"
+  ],
+  "runs": 2,
+  "bestRank": 394,
+  "worstRank": 551,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3882509,
+  "weeksActive": [
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 551,
+      "ms": 5381297,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 394,
+      "ms": 3882509,
+      "dish": "Pies"
+    }
+  ]
+}

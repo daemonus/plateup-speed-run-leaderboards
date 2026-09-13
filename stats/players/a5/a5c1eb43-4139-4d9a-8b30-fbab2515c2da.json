@@ -1,0 +1,50 @@
+{
+  "id": "a5c1eb43-4139-4d9a-8b30-fbab2515c2da",
+  "persona": "ssctony",
+  "names": [
+    "ssctony"
+  ],
+  "runs": 4,
+  "bestRank": 243,
+  "worstRank": 599,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3345786,
+  "weeksActive": [
+    -86,
+    -85,
+    -84,
+    -49
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 599,
+      "ms": 3345786,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 243,
+      "ms": 4269852,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 533,
+      "ms": 3708802,
+      "dish": "Fish"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 263,
+      "ms": 7257866,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "44bbb2d6-457d-421c-abdd-ec685959b6ae",
+  "persona": "pankome",
+  "names": [
+    "pankome"
+  ],
+  "runs": 5,
+  "bestRank": 146,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3301855,
+  "weeksActive": [
+    -73,
+    15,
+    16,
+    17,
+    76
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 231,
+      "ms": 4818131,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 428,
+      "ms": 3301855,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 240,
+      "ms": 4098288,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 234,
+      "ms": 4118496,
+      "dish": "Pizza"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 146,
+      "ms": 3439852,
+      "dish": "Salad"
+    }
+  ]
+}

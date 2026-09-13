@@ -1,0 +1,74 @@
+{
+  "id": "4b6f7e11-5fe4-4dbf-a407-c26b69f48da0",
+  "persona": "The Original Gurt",
+  "names": [
+    "The Original Gurt"
+  ],
+  "runs": 7,
+  "bestRank": 102,
+  "worstRank": 1028,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2388661,
+  "weeksActive": [
+    -75,
+    -31,
+    -30,
+    -28,
+    -25,
+    -23,
+    -21
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1028,
+      "ms": 5468044,
+      "dish": "Fish"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 721,
+      "ms": 4488270,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 202,
+      "ms": 2388661,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 190,
+      "ms": 4662359,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 495,
+      "ms": 4561891,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 201,
+      "ms": 4176987,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 102,
+      "ms": 2622736,
+      "dish": "Pizza"
+    }
+  ]
+}

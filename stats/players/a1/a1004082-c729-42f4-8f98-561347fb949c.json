@@ -1,0 +1,58 @@
+{
+  "id": "a1004082-c729-42f4-8f98-561347fb949c",
+  "persona": "sid6_714",
+  "names": [
+    "sid6_714"
+  ],
+  "runs": 5,
+  "bestRank": 116,
+  "worstRank": 214,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2841871,
+  "weeksActive": [
+    70,
+    72,
+    73,
+    74,
+    75
+  ],
+  "history": [
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 209,
+      "ms": 3651827,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 214,
+      "ms": 3473283,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 172,
+      "ms": 3220326,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 208,
+      "ms": 3881177,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 116,
+      "ms": 2841871,
+      "dish": "Pies"
+    }
+  ]
+}

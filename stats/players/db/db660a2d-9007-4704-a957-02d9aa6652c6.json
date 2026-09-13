@@ -1,0 +1,66 @@
+{
+  "id": "db660a2d-9007-4704-a957-02d9aa6652c6",
+  "persona": "sleepygardeno",
+  "names": [
+    "sleepygardeno"
+  ],
+  "runs": 6,
+  "bestRank": 99,
+  "worstRank": 217,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1755714,
+  "weeksActive": [
+    -32,
+    -30,
+    -15,
+    77,
+    78,
+    84
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 217,
+      "ms": 2856022,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 140,
+      "ms": 2228048,
+      "dish": "Turkey"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 99,
+      "ms": 2236221,
+      "dish": "Fish"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 163,
+      "ms": 2401844,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 178,
+      "ms": 3054869,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 149,
+      "ms": 1755714,
+      "dish": "Sundaes"
+    }
+  ]
+}

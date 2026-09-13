@@ -1,0 +1,42 @@
+{
+  "id": "78cf6147-3bcd-4625-9076-4008a20d9874",
+  "persona": "ERB0817",
+  "names": [
+    "ERB0817"
+  ],
+  "runs": 3,
+  "bestRank": 244,
+  "worstRank": 273,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2841433,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 273,
+      "ms": 3311180,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 261,
+      "ms": 2841433,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 244,
+      "ms": 3248368,
+      "dish": "Pizza"
+    }
+  ]
+}

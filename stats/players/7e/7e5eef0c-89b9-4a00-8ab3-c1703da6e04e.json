@@ -1,0 +1,98 @@
+{
+  "id": "7e5eef0c-89b9-4a00-8ab3-c1703da6e04e",
+  "persona": "Cori",
+  "names": [
+    "Cori"
+  ],
+  "runs": 10,
+  "bestRank": 77,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2679164,
+  "weeksActive": [
+    16,
+    17,
+    19,
+    22,
+    23,
+    25,
+    26,
+    27,
+    44,
+    77
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 347,
+      "ms": 4716607,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 214,
+      "ms": 3751013,
+      "dish": "Pizza"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 242,
+      "ms": 3893315,
+      "dish": "Pizza"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 180,
+      "ms": 3369007,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 278,
+      "ms": 2981591,
+      "dish": "Turkey"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 77,
+      "ms": 3479762,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 128,
+      "ms": 2944120,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 137,
+      "ms": 2979681,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 123,
+      "ms": 2679164,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 238,
+      "ms": 2823230,
+      "dish": "Sundaes"
+    }
+  ]
+}

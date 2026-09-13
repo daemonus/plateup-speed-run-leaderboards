@@ -1,0 +1,34 @@
+{
+  "id": "be2af782-3970-401a-bf3f-41e2fc66dc5f",
+  "persona": "apex",
+  "names": [
+    "apex"
+  ],
+  "runs": 2,
+  "bestRank": 717,
+  "worstRank": 788,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3808574,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 788,
+      "ms": 4812963,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 717,
+      "ms": 3808574,
+      "dish": "Turkey"
+    }
+  ]
+}

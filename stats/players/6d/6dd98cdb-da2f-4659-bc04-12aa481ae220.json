@@ -1,0 +1,42 @@
+{
+  "id": "6dd98cdb-da2f-4659-bc04-12aa481ae220",
+  "persona": "\u963F\u6CF0",
+  "names": [
+    "\u963F\u6CF0"
+  ],
+  "runs": 3,
+  "bestRank": 378,
+  "worstRank": 668,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3177853,
+  "weeksActive": [
+    60,
+    62,
+    64
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 419,
+      "ms": 5818717,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 378,
+      "ms": 3828628,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 668,
+      "ms": 3177853,
+      "dish": "Sundaes"
+    }
+  ]
+}

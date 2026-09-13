@@ -1,0 +1,42 @@
+{
+  "id": "73b13eca-675f-4ee6-b559-cfff15b59f46",
+  "persona": "calltopower1",
+  "names": [
+    "calltopower1"
+  ],
+  "runs": 3,
+  "bestRank": 84,
+  "worstRank": 214,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2425976,
+  "weeksActive": [
+    -45,
+    -44,
+    75
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 84,
+      "ms": 2519930,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 107,
+      "ms": 2425976,
+      "dish": "Turkey"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 214,
+      "ms": 3704078,
+      "dish": "Pies"
+    }
+  ]
+}

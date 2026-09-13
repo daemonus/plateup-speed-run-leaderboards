@@ -1,0 +1,50 @@
+{
+  "id": "29bef13f-7667-46db-987d-fc753fa744d4",
+  "persona": "andyman1117",
+  "names": [
+    "andyman1117"
+  ],
+  "runs": 4,
+  "bestRank": 68,
+  "worstRank": 191,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2649146,
+  "weeksActive": [
+    -46,
+    -45,
+    -44,
+    -43
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 147,
+      "ms": 3383615,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 191,
+      "ms": 3032387,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 184,
+      "ms": 2782808,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 68,
+      "ms": 2649146,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

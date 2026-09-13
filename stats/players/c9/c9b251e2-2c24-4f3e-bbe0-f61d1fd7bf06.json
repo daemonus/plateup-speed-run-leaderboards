@@ -1,0 +1,34 @@
+{
+  "id": "c9b251e2-2c24-4f3e-bbe0-f61d1fd7bf06",
+  "persona": "HippoOnABus",
+  "names": [
+    "HippoOnABus"
+  ],
+  "runs": 2,
+  "bestRank": 709,
+  "worstRank": 2096,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3216374,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2096,
+      "ms": 3216374,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 709,
+      "ms": 4320054,
+      "dish": "Steak"
+    }
+  ]
+}

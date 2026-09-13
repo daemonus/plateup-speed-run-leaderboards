@@ -1,0 +1,50 @@
+{
+  "id": "53b44aac-5fde-4a0e-ba35-db70c9792790",
+  "persona": "Madwife",
+  "names": [
+    "Madwife"
+  ],
+  "runs": 4,
+  "bestRank": 75,
+  "worstRank": 261,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1964032,
+  "weeksActive": [
+    -94,
+    -90,
+    -76,
+    33
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 165,
+      "ms": 2303083,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 261,
+      "ms": 2186445,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 75,
+      "ms": 1964032,
+      "dish": "Turkey"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 178,
+      "ms": 3696518,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

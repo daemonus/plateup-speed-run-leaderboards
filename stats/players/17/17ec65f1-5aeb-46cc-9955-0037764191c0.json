@@ -1,0 +1,58 @@
+{
+  "id": "17ec65f1-5aeb-46cc-9955-0037764191c0",
+  "persona": "ecao",
+  "names": [
+    "ecao"
+  ],
+  "runs": 5,
+  "bestRank": 225,
+  "worstRank": 645,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4488565,
+  "weeksActive": [
+    -25,
+    -23,
+    -15,
+    -2,
+    12
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 645,
+      "ms": 5587466,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 225,
+      "ms": 4702365,
+      "dish": "Pizza"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 586,
+      "ms": 5396336,
+      "dish": "Fish"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 416,
+      "ms": 5037877,
+      "dish": "Pizza"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 519,
+      "ms": 4488565,
+      "dish": "Turkey"
+    }
+  ]
+}

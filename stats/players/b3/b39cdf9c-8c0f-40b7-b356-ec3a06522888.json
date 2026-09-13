@@ -1,0 +1,50 @@
+{
+  "id": "b39cdf9c-8c0f-40b7-b356-ec3a06522888",
+  "persona": "strawberru",
+  "names": [
+    "strawberru"
+  ],
+  "runs": 4,
+  "bestRank": 56,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1783840,
+  "weeksActive": [
+    60,
+    81,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 346,
+      "ms": 4545402,
+      "dish": "Burgers"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 130,
+      "ms": 3081553,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 144,
+      "ms": 1783840,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 56,
+      "ms": 2113445,
+      "dish": "Fish"
+    }
+  ]
+}

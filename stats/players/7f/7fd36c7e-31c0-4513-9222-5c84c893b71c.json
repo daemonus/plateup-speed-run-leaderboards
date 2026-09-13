@@ -1,0 +1,58 @@
+{
+  "id": "7fd36c7e-31c0-4513-9222-5c84c893b71c",
+  "persona": "Mavichama",
+  "names": [
+    "Mavichama"
+  ],
+  "runs": 5,
+  "bestRank": 300,
+  "worstRank": 647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3132614,
+  "weeksActive": [
+    26,
+    30,
+    39,
+    44,
+    64
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 374,
+      "ms": 5478229,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 414,
+      "ms": 4410572,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 300,
+      "ms": 5028805,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 382,
+      "ms": 3956892,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 647,
+      "ms": 3132614,
+      "dish": "Sundaes"
+    }
+  ]
+}

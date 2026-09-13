@@ -1,0 +1,58 @@
+{
+  "id": "feceb792-7531-42f3-b646-bd5e73c49623",
+  "persona": "_BurlyMan_",
+  "names": [
+    "_BurlyMan_"
+  ],
+  "runs": 5,
+  "bestRank": 9,
+  "worstRank": 523,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1850315,
+  "weeksActive": [
+    -84,
+    -83,
+    -82,
+    -81,
+    -80
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 523,
+      "ms": 3658281,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 70,
+      "ms": 2261724,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 191,
+      "ms": 2426530,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 9,
+      "ms": 1850315,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 22,
+      "ms": 2090356,
+      "dish": "Stir Fry"
+    }
+  ]
+}

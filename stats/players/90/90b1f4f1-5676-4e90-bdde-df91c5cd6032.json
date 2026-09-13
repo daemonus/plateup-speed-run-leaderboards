@@ -1,0 +1,42 @@
+{
+  "id": "90b1f4f1-5676-4e90-bdde-df91c5cd6032",
+  "persona": "DevoClub3",
+  "names": [
+    "DevoClub3"
+  ],
+  "runs": 3,
+  "bestRank": 128,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2469025,
+  "weeksActive": [
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 190,
+      "ms": 2469025,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 215,
+      "ms": 3095642,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 128,
+      "ms": 3620807,
+      "dish": "Salad"
+    }
+  ]
+}

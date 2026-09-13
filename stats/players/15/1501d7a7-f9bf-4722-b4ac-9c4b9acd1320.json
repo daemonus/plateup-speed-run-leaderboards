@@ -1,0 +1,34 @@
+{
+  "id": "1501d7a7-f9bf-4722-b4ac-9c4b9acd1320",
+  "persona": "RAR",
+  "names": [
+    "RAR"
+  ],
+  "runs": 2,
+  "bestRank": 163,
+  "worstRank": 454,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3537473,
+  "weeksActive": [
+    -26,
+    -25
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 163,
+      "ms": 3537473,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 454,
+      "ms": 4427459,
+      "dish": "Breakfast"
+    }
+  ]
+}

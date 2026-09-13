@@ -1,0 +1,34 @@
+{
+  "id": "e66e47b5-e55d-4711-8fef-5f394dd73575",
+  "persona": "Meeko",
+  "names": [
+    "Meeko"
+  ],
+  "runs": 2,
+  "bestRank": 337,
+  "worstRank": 405,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4148379,
+  "weeksActive": [
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 337,
+      "ms": 4148379,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 405,
+      "ms": 5318345,
+      "dish": "Stir Fry"
+    }
+  ]
+}

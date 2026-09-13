@@ -1,0 +1,42 @@
+{
+  "id": "85ebae7c-2191-45b9-aa65-18ee1e045ac8",
+  "persona": "Rancky",
+  "names": [
+    "Rancky"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 634,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3414212,
+  "weeksActive": [
+    15,
+    16,
+    41
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 457,
+      "ms": 3447896,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 118,
+      "ms": 3414212,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 634,
+      "ms": 3720041,
+      "dish": "Turkey"
+    }
+  ]
+}

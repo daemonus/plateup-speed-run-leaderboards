@@ -1,0 +1,34 @@
+{
+  "id": "1d0cc8dd-a34c-43b7-b5d2-84069123dd08",
+  "persona": "gabz",
+  "names": [
+    "gabz"
+  ],
+  "runs": 2,
+  "bestRank": 354,
+  "worstRank": 565,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4566329,
+  "weeksActive": [
+    -67,
+    -64
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 565,
+      "ms": 5388542,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 354,
+      "ms": 4566329,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e75ccaba-e3f7-402e-8735-a50dec15876c",
+  "persona": "chris04",
+  "names": [
+    "chris04"
+  ],
+  "runs": 3,
+  "bestRank": 141,
+  "worstRank": 177,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2935333,
+  "weeksActive": [
+    10,
+    24,
+    25
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 177,
+      "ms": 3998687,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 174,
+      "ms": 2935333,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 141,
+      "ms": 4340555,
+      "dish": "Stir Fry"
+    }
+  ]
+}

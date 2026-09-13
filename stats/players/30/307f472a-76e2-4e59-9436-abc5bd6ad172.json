@@ -1,0 +1,34 @@
+{
+  "id": "307f472a-76e2-4e59-9436-abc5bd6ad172",
+  "persona": "scary",
+  "names": [
+    "scary"
+  ],
+  "runs": 2,
+  "bestRank": 76,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3115831,
+  "weeksActive": [
+    -6,
+    45
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 517,
+      "ms": 4838019,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 76,
+      "ms": 3115831,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c1e6a079-e61b-4166-b7a1-01a68bff81b3",
+  "persona": "Rye",
+  "names": [
+    "Rye"
+  ],
+  "runs": 2,
+  "bestRank": 336,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3961583,
+  "weeksActive": [
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 336,
+      "ms": 3961583,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 483,
+      "ms": 4119523,
+      "dish": "Sundaes"
+    }
+  ]
+}

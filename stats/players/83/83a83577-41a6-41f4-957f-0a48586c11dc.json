@@ -1,0 +1,58 @@
+{
+  "id": "83a83577-41a6-41f4-957f-0a48586c11dc",
+  "persona": "ulol",
+  "names": [
+    "ulol"
+  ],
+  "runs": 5,
+  "bestRank": 104,
+  "worstRank": 237,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2574190,
+  "weeksActive": [
+    43,
+    44,
+    45,
+    46,
+    48
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 237,
+      "ms": 2574190,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 204,
+      "ms": 3035692,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 104,
+      "ms": 3363683,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 230,
+      "ms": 3125764,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 105,
+      "ms": 3720823,
+      "dish": "Pizza"
+    }
+  ]
+}

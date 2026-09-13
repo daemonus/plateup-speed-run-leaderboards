@@ -1,0 +1,42 @@
+{
+  "id": "6655edae-5bb7-4068-980b-18b07f5404bc",
+  "persona": "Tomoe",
+  "names": [
+    "Tomoe"
+  ],
+  "runs": 3,
+  "bestRank": 200,
+  "worstRank": 395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3351060,
+  "weeksActive": [
+    58,
+    68,
+    70
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 395,
+      "ms": 3562374,
+      "dish": "Turkey"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 365,
+      "ms": 3351060,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 200,
+      "ms": 3577348,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

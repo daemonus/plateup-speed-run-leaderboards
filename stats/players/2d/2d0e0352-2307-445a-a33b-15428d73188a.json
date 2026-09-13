@@ -1,0 +1,58 @@
+{
+  "id": "2d0e0352-2307-445a-a33b-15428d73188a",
+  "persona": "george29",
+  "names": [
+    "george29"
+  ],
+  "runs": 5,
+  "bestRank": 34,
+  "worstRank": 189,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2395533,
+  "weeksActive": [
+    -21,
+    -10,
+    -7,
+    -5,
+    32
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 189,
+      "ms": 3096479,
+      "dish": "Pizza"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 107,
+      "ms": 3505680,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 124,
+      "ms": 3679177,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 34,
+      "ms": 2395533,
+      "dish": "Pizza"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 103,
+      "ms": 2614183,
+      "dish": "Pies"
+    }
+  ]
+}

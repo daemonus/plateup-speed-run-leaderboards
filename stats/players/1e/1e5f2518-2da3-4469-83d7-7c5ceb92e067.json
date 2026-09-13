@@ -1,0 +1,42 @@
+{
+  "id": "1e5f2518-2da3-4469-83d7-7c5ceb92e067",
+  "persona": "Ailurus",
+  "names": [
+    "Ailurus"
+  ],
+  "runs": 3,
+  "bestRank": 93,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2687921,
+  "weeksActive": [
+    -68,
+    -32,
+    26
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 188,
+      "ms": 3896165,
+      "dish": "Salad"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 295,
+      "ms": 3059861,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 93,
+      "ms": 2687921,
+      "dish": "Pizza"
+    }
+  ]
+}

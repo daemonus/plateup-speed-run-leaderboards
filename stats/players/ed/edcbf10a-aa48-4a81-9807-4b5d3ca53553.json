@@ -1,0 +1,34 @@
+{
+  "id": "edcbf10a-aa48-4a81-9807-4b5d3ca53553",
+  "persona": "David",
+  "names": [
+    "David"
+  ],
+  "runs": 2,
+  "bestRank": 178,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2768281,
+  "weeksActive": [
+    -32,
+    61
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 187,
+      "ms": 2768281,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 178,
+      "ms": 3094041,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

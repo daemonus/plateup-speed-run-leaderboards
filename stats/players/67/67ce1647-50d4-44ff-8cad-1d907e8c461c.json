@@ -1,0 +1,82 @@
+{
+  "id": "67ce1647-50d4-44ff-8cad-1d907e8c461c",
+  "persona": "Cpt_minou",
+  "names": [
+    "Cpt_minou"
+  ],
+  "runs": 8,
+  "bestRank": 128,
+  "worstRank": 978,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2826655,
+  "weeksActive": [
+    -87,
+    -79,
+    -75,
+    -32,
+    -30,
+    27,
+    29,
+    30
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 409,
+      "ms": 3772863,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 243,
+      "ms": 3479811,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 406,
+      "ms": 2826655,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 978,
+      "ms": 4652159,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 414,
+      "ms": 3008194,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 237,
+      "ms": 3956726,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 128,
+      "ms": 3623568,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 209,
+      "ms": 3180617,
+      "dish": "Breakfast"
+    }
+  ]
+}

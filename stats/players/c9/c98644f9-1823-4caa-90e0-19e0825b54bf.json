@@ -1,0 +1,42 @@
+{
+  "id": "c98644f9-1823-4caa-90e0-19e0825b54bf",
+  "persona": "dj",
+  "names": [
+    "dj"
+  ],
+  "runs": 3,
+  "bestRank": 175,
+  "worstRank": 1569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2738684,
+  "weeksActive": [
+    -94,
+    -91,
+    -80
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1569,
+      "ms": 4441293,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 837,
+      "ms": 2738684,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 175,
+      "ms": 3808108,
+      "dish": "Stir Fry"
+    }
+  ]
+}

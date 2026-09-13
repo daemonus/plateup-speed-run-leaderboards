@@ -1,0 +1,58 @@
+{
+  "id": "1c0618fb-d818-487f-b1dd-ae2ac2881e11",
+  "persona": "Myschif",
+  "names": [
+    "Myschif"
+  ],
+  "runs": 5,
+  "bestRank": 101,
+  "worstRank": 1758,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2793632,
+  "weeksActive": [
+    -93,
+    -83,
+    -77,
+    -74,
+    -58
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1758,
+      "ms": 2975005,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 539,
+      "ms": 5050414,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 213,
+      "ms": 2793632,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 554,
+      "ms": 5128894,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 101,
+      "ms": 3407644,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0571a2da-f101-4ee8-840c-d06bfef50b81",
+  "persona": "Savvy",
+  "names": [
+    "Savvy"
+  ],
+  "runs": 3,
+  "bestRank": 156,
+  "worstRank": 221,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1877383,
+  "weeksActive": [
+    60,
+    63,
+    83
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 221,
+      "ms": 3498923,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 156,
+      "ms": 2686625,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 166,
+      "ms": 1877383,
+      "dish": "Sundaes"
+    }
+  ]
+}

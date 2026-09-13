@@ -1,0 +1,34 @@
+{
+  "id": "f9874716-1fd8-40fb-a2bb-74bd48f17eaa",
+  "persona": "\u5929\u4F7F\u7684\u60AA\u9B54\u30CE\u7737\u5C5E",
+  "names": [
+    "\u5929\u4F7F\u7684\u60AA\u9B54\u30CE\u7737\u5C5E"
+  ],
+  "runs": 2,
+  "bestRank": 12,
+  "worstRank": 83,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1822683,
+  "weeksActive": [
+    67,
+    68
+  ],
+  "history": [
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 12,
+      "ms": 1822683,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 83,
+      "ms": 2040647,
+      "dish": "Turkey"
+    }
+  ]
+}

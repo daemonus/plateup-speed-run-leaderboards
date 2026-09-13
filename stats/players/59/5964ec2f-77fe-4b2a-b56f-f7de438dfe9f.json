@@ -1,0 +1,42 @@
+{
+  "id": "5964ec2f-77fe-4b2a-b56f-f7de438dfe9f",
+  "persona": "drscher",
+  "names": [
+    "drscher"
+  ],
+  "runs": 3,
+  "bestRank": 184,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3492167,
+  "weeksActive": [
+    -55,
+    -49,
+    -43
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 460,
+      "ms": 4571886,
+      "dish": "Pizza"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 215,
+      "ms": 4486544,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 184,
+      "ms": 3492167,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

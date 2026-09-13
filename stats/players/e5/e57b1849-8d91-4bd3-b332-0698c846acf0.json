@@ -1,0 +1,34 @@
+{
+  "id": "e57b1849-8d91-4bd3-b332-0698c846acf0",
+  "persona": "\u53EF\u7231\u6B7B\u5BF9\u8EAB\u4F53\u5F71\u54CD",
+  "names": [
+    "\u53EF\u7231\u6B7B\u5BF9\u8EAB\u4F53\u5F71\u54CD"
+  ],
+  "runs": 2,
+  "bestRank": 256,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3413540,
+  "weeksActive": [
+    0,
+    84
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 256,
+      "ms": 4250571,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 496,
+      "ms": 3413540,
+      "dish": "Sundaes"
+    }
+  ]
+}

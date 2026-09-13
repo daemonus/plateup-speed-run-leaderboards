@@ -1,0 +1,50 @@
+{
+  "id": "318012e4-69a8-4bee-8700-a869fed9bc3c",
+  "persona": "Mrs.Nippers",
+  "names": [
+    "Mrs.Nippers"
+  ],
+  "runs": 4,
+  "bestRank": 182,
+  "worstRank": 915,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3828368,
+  "weeksActive": [
+    -72,
+    -46,
+    -23,
+    -6
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 915,
+      "ms": 5827851,
+      "dish": "Pies"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 499,
+      "ms": 5255840,
+      "dish": "Salad"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 182,
+      "ms": 3828368,
+      "dish": "Pizza"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 408,
+      "ms": 4390745,
+      "dish": "Breakfast"
+    }
+  ]
+}

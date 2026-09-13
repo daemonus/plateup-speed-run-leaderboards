@@ -1,0 +1,66 @@
+{
+  "id": "6618a8c1-d714-4b31-a1ce-def3268342cf",
+  "persona": "CrazyKuroSushi",
+  "names": [
+    "CrazyKuroSushi"
+  ],
+  "runs": 6,
+  "bestRank": 89,
+  "worstRank": 881,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2853256,
+  "weeksActive": [
+    -90,
+    -87,
+    -76,
+    -62,
+    -55,
+    -20
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 881,
+      "ms": 3430947,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 481,
+      "ms": 4191885,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 620,
+      "ms": 3511220,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 286,
+      "ms": 3423447,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 187,
+      "ms": 3162349,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 89,
+      "ms": 2853256,
+      "dish": "Burgers"
+    }
+  ]
+}

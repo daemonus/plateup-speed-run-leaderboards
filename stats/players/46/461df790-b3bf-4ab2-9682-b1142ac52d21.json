@@ -1,0 +1,34 @@
+{
+  "id": "461df790-b3bf-4ab2-9682-b1142ac52d21",
+  "persona": "Confessor",
+  "names": [
+    "Confessor"
+  ],
+  "runs": 2,
+  "bestRank": 425,
+  "worstRank": 717,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4105364,
+  "weeksActive": [
+    13,
+    62
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 717,
+      "ms": 4692615,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 425,
+      "ms": 4105364,
+      "dish": "Pies"
+    }
+  ]
+}

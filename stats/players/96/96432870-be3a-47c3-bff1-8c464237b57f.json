@@ -1,0 +1,34 @@
+{
+  "id": "96432870-be3a-47c3-bff1-8c464237b57f",
+  "persona": "Ambulanta",
+  "names": [
+    "Ambulanta"
+  ],
+  "runs": 2,
+  "bestRank": 654,
+  "worstRank": 2452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3559599,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2452,
+      "ms": 3559599,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 654,
+      "ms": 4026849,
+      "dish": "Steak"
+    }
+  ]
+}

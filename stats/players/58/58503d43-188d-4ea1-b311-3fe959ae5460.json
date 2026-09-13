@@ -1,0 +1,50 @@
+{
+  "id": "58503d43-188d-4ea1-b311-3fe959ae5460",
+  "persona": "PompiMan",
+  "names": [
+    "PompiMan"
+  ],
+  "runs": 4,
+  "bestRank": 175,
+  "worstRank": 328,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2654398,
+  "weeksActive": [
+    27,
+    28,
+    30,
+    31
+  ],
+  "history": [
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 204,
+      "ms": 3607362,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 175,
+      "ms": 2654398,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 224,
+      "ms": 3228206,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 328,
+      "ms": 3466246,
+      "dish": "Fish"
+    }
+  ]
+}

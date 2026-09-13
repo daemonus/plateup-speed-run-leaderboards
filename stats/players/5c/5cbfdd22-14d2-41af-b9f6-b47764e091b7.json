@@ -1,0 +1,42 @@
+{
+  "id": "5cbfdd22-14d2-41af-b9f6-b47764e091b7",
+  "persona": "ruby",
+  "names": [
+    "ruby"
+  ],
+  "runs": 3,
+  "bestRank": 223,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2897977,
+  "weeksActive": [
+    8,
+    10,
+    11
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 346,
+      "ms": 2897977,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 223,
+      "ms": 4424703,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 258,
+      "ms": 4554331,
+      "dish": "Salad"
+    }
+  ]
+}

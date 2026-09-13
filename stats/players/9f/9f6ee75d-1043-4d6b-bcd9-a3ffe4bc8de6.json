@@ -1,0 +1,42 @@
+{
+  "id": "9f6ee75d-1043-4d6b-bcd9-a3ffe4bc8de6",
+  "persona": "KingInChains",
+  "names": [
+    "KingInChains"
+  ],
+  "runs": 3,
+  "bestRank": 181,
+  "worstRank": 1895,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3063808,
+  "weeksActive": [
+    -93,
+    22,
+    32
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1895,
+      "ms": 3063808,
+      "dish": "Fish"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 181,
+      "ms": 3386100,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 228,
+      "ms": 3555699,
+      "dish": "Pies"
+    }
+  ]
+}

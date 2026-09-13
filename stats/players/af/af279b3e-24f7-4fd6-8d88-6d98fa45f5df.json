@@ -1,0 +1,42 @@
+{
+  "id": "af279b3e-24f7-4fd6-8d88-6d98fa45f5df",
+  "persona": "xKyraxo",
+  "names": [
+    "xKyraxo"
+  ],
+  "runs": 3,
+  "bestRank": 234,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3006541,
+  "weeksActive": [
+    -30,
+    -16,
+    52
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 491,
+      "ms": 3190748,
+      "dish": "Turkey"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 234,
+      "ms": 3006541,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 361,
+      "ms": 3231566,
+      "dish": "Fish"
+    }
+  ]
+}

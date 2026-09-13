@@ -1,0 +1,50 @@
+{
+  "id": "7ed1f35e-3b7e-44f2-b328-a2800bb971b6",
+  "persona": "MindForge",
+  "names": [
+    "MindForge"
+  ],
+  "runs": 4,
+  "bestRank": 330,
+  "worstRank": 707,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3980815,
+  "weeksActive": [
+    -82,
+    -81,
+    -77,
+    -67
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 707,
+      "ms": 4381459,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 340,
+      "ms": 4595306,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 651,
+      "ms": 4033770,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 330,
+      "ms": 3980815,
+      "dish": "Breakfast"
+    }
+  ]
+}

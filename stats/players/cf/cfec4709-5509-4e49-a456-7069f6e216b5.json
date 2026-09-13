@@ -1,0 +1,74 @@
+{
+  "id": "cfec4709-5509-4e49-a456-7069f6e216b5",
+  "persona": "MatrixMD",
+  "names": [
+    "MatrixMD"
+  ],
+  "runs": 7,
+  "bestRank": 188,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3020731,
+  "weeksActive": [
+    -68,
+    -63,
+    -56,
+    -51,
+    71,
+    73,
+    74
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 229,
+      "ms": 4205378,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 385,
+      "ms": 4088554,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 372,
+      "ms": 3747520,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 294,
+      "ms": 3020731,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 247,
+      "ms": 3491769,
+      "dish": "Pizza"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 188,
+      "ms": 3325177,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 264,
+      "ms": 4415959,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "82aec308-a177-47d5-894f-b52995ba3437",
+  "persona": "king1220",
+  "names": [
+    "king1220"
+  ],
+  "runs": 4,
+  "bestRank": 129,
+  "worstRank": 312,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1821847,
+  "weeksActive": [
+    -31,
+    -30,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 145,
+      "ms": 2778506,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 312,
+      "ms": 2699913,
+      "dish": "Turkey"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 157,
+      "ms": 2732211,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 129,
+      "ms": 1821847,
+      "dish": "Sundaes"
+    }
+  ]
+}

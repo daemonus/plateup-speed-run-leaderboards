@@ -1,0 +1,66 @@
+{
+  "id": "674c52c2-daad-435f-9f2c-cb4cb9171023",
+  "persona": "Vestele",
+  "names": [
+    "Vestele"
+  ],
+  "runs": 6,
+  "bestRank": 63,
+  "worstRank": 455,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2340811,
+  "weeksActive": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 455,
+      "ms": 7871856,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 251,
+      "ms": 4216183,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 228,
+      "ms": 4068399,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 63,
+      "ms": 2406159,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 157,
+      "ms": 3636432,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 151,
+      "ms": 2340811,
+      "dish": "Sundaes"
+    }
+  ]
+}

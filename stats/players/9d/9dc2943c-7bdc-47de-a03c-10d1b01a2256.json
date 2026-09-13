@@ -1,0 +1,42 @@
+{
+  "id": "9dc2943c-7bdc-47de-a03c-10d1b01a2256",
+  "persona": "REKI",
+  "names": [
+    "REKI"
+  ],
+  "runs": 3,
+  "bestRank": 968,
+  "worstRank": 1490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3658048,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1490,
+      "ms": 3801441,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 968,
+      "ms": 3658048,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 977,
+      "ms": 5079432,
+      "dish": "Pies"
+    }
+  ]
+}

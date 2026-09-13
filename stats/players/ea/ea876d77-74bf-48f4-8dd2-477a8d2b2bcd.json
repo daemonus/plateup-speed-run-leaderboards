@@ -1,0 +1,58 @@
+{
+  "id": "ea876d77-74bf-48f4-8dd2-477a8d2b2bcd",
+  "persona": "renesemme",
+  "names": [
+    "renesemme"
+  ],
+  "runs": 5,
+  "bestRank": 184,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2493850,
+  "weeksActive": [
+    -72,
+    -71,
+    -70,
+    -69,
+    41
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 536,
+      "ms": 4271041,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 184,
+      "ms": 2493850,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 424,
+      "ms": 4542794,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 334,
+      "ms": 4839481,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 562,
+      "ms": 3254856,
+      "dish": "Turkey"
+    }
+  ]
+}

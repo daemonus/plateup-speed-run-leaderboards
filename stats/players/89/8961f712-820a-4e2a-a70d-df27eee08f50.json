@@ -1,0 +1,42 @@
+{
+  "id": "8961f712-820a-4e2a-a70d-df27eee08f50",
+  "persona": "Katherine",
+  "names": [
+    "Katherine"
+  ],
+  "runs": 3,
+  "bestRank": 195,
+  "worstRank": 619,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3461857,
+  "weeksActive": [
+    41,
+    55,
+    71
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 619,
+      "ms": 3559969,
+      "dish": "Turkey"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 195,
+      "ms": 3791095,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 239,
+      "ms": 3461857,
+      "dish": "Pizza"
+    }
+  ]
+}

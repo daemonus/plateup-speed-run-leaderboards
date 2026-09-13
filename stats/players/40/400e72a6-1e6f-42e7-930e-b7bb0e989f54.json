@@ -1,0 +1,50 @@
+{
+  "id": "400e72a6-1e6f-42e7-930e-b7bb0e989f54",
+  "persona": "Minami",
+  "names": [
+    "Minami"
+  ],
+  "runs": 4,
+  "bestRank": 351,
+  "worstRank": 1337,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3154002,
+  "weeksActive": [
+    -91,
+    -90,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1337,
+      "ms": 3467253,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 925,
+      "ms": 3523286,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 351,
+      "ms": 3497529,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 536,
+      "ms": 3154002,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d3e34b6e-3541-45b8-a2ba-1f6a1702ed4e",
+  "persona": "asdeka",
+  "names": [
+    "asdeka"
+  ],
+  "runs": 2,
+  "bestRank": 414,
+  "worstRank": 475,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3605925,
+  "weeksActive": [
+    -53,
+    -51
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 414,
+      "ms": 5923640,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 475,
+      "ms": 3605925,
+      "dish": "Turkey"
+    }
+  ]
+}

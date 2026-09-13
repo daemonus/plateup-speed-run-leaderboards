@@ -1,0 +1,50 @@
+{
+  "id": "b14ff244-8e7a-43c8-9b68-91f8d9164057",
+  "persona": "Oern",
+  "names": [
+    "Oern"
+  ],
+  "runs": 4,
+  "bestRank": 65,
+  "worstRank": 296,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2452474,
+  "weeksActive": [
+    -23,
+    -18,
+    -17,
+    8
+  ],
+  "history": [
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 91,
+      "ms": 2955742,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 296,
+      "ms": 3477616,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 65,
+      "ms": 2452474,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 264,
+      "ms": 2675604,
+      "dish": "Fish"
+    }
+  ]
+}

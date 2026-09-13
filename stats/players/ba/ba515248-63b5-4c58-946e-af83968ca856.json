@@ -1,0 +1,50 @@
+{
+  "id": "ba515248-63b5-4c58-946e-af83968ca856",
+  "persona": "Don Galleta",
+  "names": [
+    "Don Galleta"
+  ],
+  "runs": 4,
+  "bestRank": 221,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3027435,
+  "weeksActive": [
+    -33,
+    -32,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 432,
+      "ms": 5444628,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 416,
+      "ms": 3358858,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 422,
+      "ms": 3027435,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 221,
+      "ms": 5505583,
+      "dish": "Burgers"
+    }
+  ]
+}

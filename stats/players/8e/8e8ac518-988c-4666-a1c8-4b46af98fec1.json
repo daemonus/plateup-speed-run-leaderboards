@@ -1,0 +1,82 @@
+{
+  "id": "8e8ac518-988c-4666-a1c8-4b46af98fec1",
+  "persona": "\u041F\u043E\u0434\u043E\u0440\u043E\u0436\u043D\u0438\u043A",
+  "names": [
+    "\u041F\u043E\u0434\u043E\u0440\u043E\u0436\u043D\u0438\u043A"
+  ],
+  "runs": 8,
+  "bestRank": 229,
+  "worstRank": 564,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2949573,
+  "weeksActive": [
+    -8,
+    37,
+    47,
+    60,
+    62,
+    64,
+    65,
+    66
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 229,
+      "ms": 4640475,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 233,
+      "ms": 5081789,
+      "dish": "Burgers"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 334,
+      "ms": 4791281,
+      "dish": "Pizza"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 418,
+      "ms": 5776893,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 474,
+      "ms": 4393371,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 564,
+      "ms": 2949573,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 327,
+      "ms": 4354714,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 327,
+      "ms": 3721112,
+      "dish": "Breakfast"
+    }
+  ]
+}

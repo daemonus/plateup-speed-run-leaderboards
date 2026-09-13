@@ -1,0 +1,42 @@
+{
+  "id": "a4f14928-5501-45dc-88d6-1aac2ebcf0e6",
+  "persona": "Copsicom",
+  "names": [
+    "Copsicom"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 252,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2550181,
+  "weeksActive": [
+    -38,
+    -37,
+    -34
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 252,
+      "ms": 2550181,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 203,
+      "ms": 2660007,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 245,
+      "ms": 3177926,
+      "dish": "Pies"
+    }
+  ]
+}

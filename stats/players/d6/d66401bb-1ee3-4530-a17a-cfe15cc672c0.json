@@ -1,0 +1,50 @@
+{
+  "id": "d66401bb-1ee3-4530-a17a-cfe15cc672c0",
+  "persona": "project arias",
+  "names": [
+    "project arias"
+  ],
+  "runs": 4,
+  "bestRank": 55,
+  "worstRank": 174,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2073130,
+  "weeksActive": [
+    -79,
+    -78,
+    -76,
+    -44
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 122,
+      "ms": 2814807,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 174,
+      "ms": 2887660,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 134,
+      "ms": 2238900,
+      "dish": "Turkey"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 55,
+      "ms": 2073130,
+      "dish": "Turkey"
+    }
+  ]
+}

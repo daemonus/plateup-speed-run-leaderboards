@@ -1,0 +1,50 @@
+{
+  "id": "1f5097c5-8688-4561-9d1d-00560581ca86",
+  "persona": "eliss",
+  "names": [
+    "eliss"
+  ],
+  "runs": 4,
+  "bestRank": 275,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2280622,
+  "weeksActive": [
+    -94,
+    -92,
+    -90,
+    -83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 621,
+      "ms": 2997803,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 396,
+      "ms": 3136710,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 316,
+      "ms": 2280622,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 275,
+      "ms": 3134540,
+      "dish": "Steak"
+    }
+  ]
+}

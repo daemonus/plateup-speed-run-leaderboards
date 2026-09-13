@@ -1,0 +1,50 @@
+{
+  "id": "3a891159-c9a3-4022-a2fb-a55dafc0e543",
+  "persona": "mayo",
+  "names": [
+    "mayo"
+  ],
+  "runs": 4,
+  "bestRank": 57,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1592399,
+  "weeksActive": [
+    81,
+    83,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 57,
+      "ms": 2491697,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 501,
+      "ms": 2977229,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 103,
+      "ms": 1592399,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 62,
+      "ms": 2195724,
+      "dish": "Fish"
+    }
+  ]
+}

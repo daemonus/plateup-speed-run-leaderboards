@@ -1,0 +1,50 @@
+{
+  "id": "a5ad9b07-839c-425c-b13b-73ecafc890bf",
+  "persona": "Nicolette",
+  "names": [
+    "Nicolette"
+  ],
+  "runs": 4,
+  "bestRank": 62,
+  "worstRank": 212,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1429740,
+  "weeksActive": [
+    -71,
+    -67,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 174,
+      "ms": 2469427,
+      "dish": "Turkey"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 85,
+      "ms": 2884054,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 212,
+      "ms": 2884335,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 62,
+      "ms": 1429740,
+      "dish": "Sundaes"
+    }
+  ]
+}

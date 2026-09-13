@@ -1,0 +1,34 @@
+{
+  "id": "6a2d1c04-16f4-4383-a443-60369a2cb137",
+  "persona": "Red_Parrot",
+  "names": [
+    "Red_Parrot"
+  ],
+  "runs": 2,
+  "bestRank": 89,
+  "worstRank": 148,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2799219,
+  "weeksActive": [
+    55,
+    70
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 148,
+      "ms": 3451906,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 89,
+      "ms": 2799219,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

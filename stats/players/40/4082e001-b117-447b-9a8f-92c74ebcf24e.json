@@ -1,0 +1,42 @@
+{
+  "id": "4082e001-b117-447b-9a8f-92c74ebcf24e",
+  "persona": "Flugan",
+  "names": [
+    "Flugan"
+  ],
+  "runs": 3,
+  "bestRank": 14,
+  "worstRank": 85,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1686049,
+  "weeksActive": [
+    -5,
+    -4,
+    62
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 66,
+      "ms": 2753920,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 85,
+      "ms": 2434694,
+      "dish": "Pies"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 14,
+      "ms": 1686049,
+      "dish": "Pies"
+    }
+  ]
+}

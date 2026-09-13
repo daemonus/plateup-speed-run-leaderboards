@@ -1,0 +1,42 @@
+{
+  "id": "9cefa714-881c-4a3c-8140-6ec17409704c",
+  "persona": "Elasto",
+  "names": [
+    "Elasto"
+  ],
+  "runs": 3,
+  "bestRank": 147,
+  "worstRank": 485,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1911380,
+  "weeksActive": [
+    -38,
+    41,
+    48
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 485,
+      "ms": 3159944,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 167,
+      "ms": 1911380,
+      "dish": "Turkey"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 147,
+      "ms": 4313402,
+      "dish": "Pizza"
+    }
+  ]
+}

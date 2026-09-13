@@ -1,0 +1,42 @@
+{
+  "id": "e82eeeda-968d-4277-8511-e87bee7f74c4",
+  "persona": "ms0462049",
+  "names": [
+    "ms0462049"
+  ],
+  "runs": 3,
+  "bestRank": 286,
+  "worstRank": 675,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4806156,
+  "weeksActive": [
+    -70,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 675,
+      "ms": 7325057,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 447,
+      "ms": 5764460,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 286,
+      "ms": 4806156,
+      "dish": "Salad"
+    }
+  ]
+}

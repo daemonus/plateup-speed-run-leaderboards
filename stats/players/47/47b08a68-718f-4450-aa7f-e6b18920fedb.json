@@ -1,0 +1,66 @@
+{
+  "id": "47b08a68-718f-4450-aa7f-e6b18920fedb",
+  "persona": "Misaki",
+  "names": [
+    "Misaki"
+  ],
+  "runs": 6,
+  "bestRank": 153,
+  "worstRank": 800,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3457768,
+  "weeksActive": [
+    -37,
+    -26,
+    -8,
+    -1,
+    0,
+    6
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 800,
+      "ms": 4228909,
+      "dish": "Fish"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 185,
+      "ms": 3704946,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 170,
+      "ms": 4103069,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 153,
+      "ms": 4508453,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 405,
+      "ms": 5060935,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 207,
+      "ms": 3457768,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d80934aa-d59e-4557-b65b-2f647a98c3ec",
+  "persona": "MITA",
+  "names": [
+    "MITA"
+  ],
+  "runs": 2,
+  "bestRank": 322,
+  "worstRank": 850,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3689540,
+  "weeksActive": [
+    56,
+    66
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 850,
+      "ms": 4166891,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 322,
+      "ms": 3689540,
+      "dish": "Breakfast"
+    }
+  ]
+}

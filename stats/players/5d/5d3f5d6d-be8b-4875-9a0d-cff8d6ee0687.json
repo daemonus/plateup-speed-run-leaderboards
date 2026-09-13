@@ -1,0 +1,42 @@
+{
+  "id": "5d3f5d6d-be8b-4875-9a0d-cff8d6ee0687",
+  "persona": "zzsssci",
+  "names": [
+    "zzsssci"
+  ],
+  "runs": 3,
+  "bestRank": 313,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4245366,
+  "weeksActive": [
+    -5,
+    0,
+    2
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 459,
+      "ms": 4780359,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 495,
+      "ms": 6501203,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 313,
+      "ms": 4245366,
+      "dish": "Breakfast"
+    }
+  ]
+}

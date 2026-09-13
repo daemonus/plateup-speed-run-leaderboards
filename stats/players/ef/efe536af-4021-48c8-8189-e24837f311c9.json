@@ -1,0 +1,34 @@
+{
+  "id": "efe536af-4021-48c8-8189-e24837f311c9",
+  "persona": "TcainTrain",
+  "names": [
+    "TcainTrain"
+  ],
+  "runs": 2,
+  "bestRank": 133,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2617088,
+  "weeksActive": [
+    -37,
+    50
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 187,
+      "ms": 2617088,
+      "dish": "Fish"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 133,
+      "ms": 3879849,
+      "dish": "Stir Fry"
+    }
+  ]
+}

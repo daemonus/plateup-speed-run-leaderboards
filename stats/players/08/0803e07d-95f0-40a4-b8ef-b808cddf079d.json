@@ -1,0 +1,42 @@
+{
+  "id": "0803e07d-95f0-40a4-b8ef-b808cddf079d",
+  "persona": "chanleen",
+  "names": [
+    "chanleen"
+  ],
+  "runs": 3,
+  "bestRank": 337,
+  "worstRank": 697,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4909210,
+  "weeksActive": [
+    -73,
+    -72,
+    -8
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 366,
+      "ms": 6305943,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 697,
+      "ms": 4909210,
+      "dish": "Pies"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 337,
+      "ms": 5442250,
+      "dish": "Stir Fry"
+    }
+  ]
+}

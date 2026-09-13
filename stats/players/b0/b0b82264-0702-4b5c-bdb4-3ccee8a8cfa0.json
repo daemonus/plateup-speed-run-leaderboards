@@ -1,0 +1,42 @@
+{
+  "id": "b0b82264-0702-4b5c-bdb4-3ccee8a8cfa0",
+  "persona": "sakuya",
+  "names": [
+    "sakuya"
+  ],
+  "runs": 3,
+  "bestRank": 127,
+  "worstRank": 1061,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2549351,
+  "weeksActive": [
+    -32,
+    59,
+    66
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1061,
+      "ms": 5014541,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 172,
+      "ms": 3137861,
+      "dish": "Salad"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 127,
+      "ms": 2549351,
+      "dish": "Breakfast"
+    }
+  ]
+}

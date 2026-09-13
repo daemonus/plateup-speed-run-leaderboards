@@ -1,0 +1,42 @@
+{
+  "id": "15556b46-f580-4c12-8d5f-c046df4a6aa0",
+  "persona": "vv",
+  "names": [
+    "vv"
+  ],
+  "runs": 3,
+  "bestRank": 303,
+  "worstRank": 675,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4355145,
+  "weeksActive": [
+    7,
+    13,
+    14
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 439,
+      "ms": 5400236,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 675,
+      "ms": 4355145,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 303,
+      "ms": 4405887,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

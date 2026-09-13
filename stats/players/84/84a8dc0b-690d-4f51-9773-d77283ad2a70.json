@@ -1,0 +1,50 @@
+{
+  "id": "84a8dc0b-690d-4f51-9773-d77283ad2a70",
+  "persona": "zero04220",
+  "names": [
+    "zero04220"
+  ],
+  "runs": 4,
+  "bestRank": 77,
+  "worstRank": 637,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3213261,
+  "weeksActive": [
+    -88,
+    -86,
+    -84,
+    -69
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 413,
+      "ms": 3387580,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 637,
+      "ms": 3442748,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 403,
+      "ms": 3213261,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 77,
+      "ms": 3253925,
+      "dish": "Stir Fry"
+    }
+  ]
+}

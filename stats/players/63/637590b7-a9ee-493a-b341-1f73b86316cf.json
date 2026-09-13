@@ -1,0 +1,42 @@
+{
+  "id": "637590b7-a9ee-493a-b341-1f73b86316cf",
+  "persona": "Gliver",
+  "names": [
+    "Gliver"
+  ],
+  "runs": 3,
+  "bestRank": 75,
+  "worstRank": 489,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3286930,
+  "weeksActive": [
+    -39,
+    -21,
+    -9
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 489,
+      "ms": 3626809,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 226,
+      "ms": 3286930,
+      "dish": "Pizza"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 75,
+      "ms": 3551275,
+      "dish": "Stir Fry"
+    }
+  ]
+}

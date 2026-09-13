@@ -1,0 +1,34 @@
+{
+  "id": "5648f439-3e27-49f3-813c-09b0e2c7da02",
+  "persona": "Emille",
+  "names": [
+    "Emille"
+  ],
+  "runs": 2,
+  "bestRank": 564,
+  "worstRank": 618,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3951120,
+  "weeksActive": [
+    -51,
+    -39
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 618,
+      "ms": 4217927,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 564,
+      "ms": 3951120,
+      "dish": "Pizza"
+    }
+  ]
+}

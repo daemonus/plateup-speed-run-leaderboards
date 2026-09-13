@@ -1,0 +1,34 @@
+{
+  "id": "8d59d186-f4dd-41f7-b535-61cfc9bac2b9",
+  "persona": "Walmart Germ",
+  "names": [
+    "Walmart Germ"
+  ],
+  "runs": 2,
+  "bestRank": 52,
+  "worstRank": 205,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2677500,
+  "weeksActive": [
+    50,
+    51
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 205,
+      "ms": 4673081,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 52,
+      "ms": 2677500,
+      "dish": "Salad"
+    }
+  ]
+}

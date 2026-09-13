@@ -1,0 +1,34 @@
+{
+  "id": "6c63f161-4734-4595-a172-5ada647e5e17",
+  "persona": "atreck",
+  "names": [
+    "atreck"
+  ],
+  "runs": 2,
+  "bestRank": 364,
+  "worstRank": 525,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2980104,
+  "weeksActive": [
+    -20,
+    43
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 525,
+      "ms": 5274449,
+      "dish": "Burgers"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 364,
+      "ms": 2980104,
+      "dish": "Fish"
+    }
+  ]
+}

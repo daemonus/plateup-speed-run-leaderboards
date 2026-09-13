@@ -1,0 +1,42 @@
+{
+  "id": "d42c6898-dbe3-4c0f-a1c8-a407babc1786",
+  "persona": "Tiffany\u003C3",
+  "names": [
+    "Tiffany\u003C3"
+  ],
+  "runs": 3,
+  "bestRank": 299,
+  "worstRank": 510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3258531,
+  "weeksActive": [
+    19,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 299,
+      "ms": 4248481,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 510,
+      "ms": 3258531,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 339,
+      "ms": 3880727,
+      "dish": "Burgers"
+    }
+  ]
+}

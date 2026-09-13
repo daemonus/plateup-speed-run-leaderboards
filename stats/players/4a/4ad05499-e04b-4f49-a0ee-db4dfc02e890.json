@@ -1,0 +1,42 @@
+{
+  "id": "4ad05499-e04b-4f49-a0ee-db4dfc02e890",
+  "persona": "TheNewBieIsHere",
+  "names": [
+    "TheNewBieIsHere"
+  ],
+  "runs": 3,
+  "bestRank": 199,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3517506,
+  "weeksActive": [
+    -26,
+    -24,
+    -21
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 399,
+      "ms": 5155199,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 199,
+      "ms": 4317262,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 268,
+      "ms": 3517506,
+      "dish": "Pizza"
+    }
+  ]
+}

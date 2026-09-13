@@ -1,0 +1,50 @@
+{
+  "id": "b5d698a3-513b-4760-b648-f9ccf5e26a02",
+  "persona": "Dandelion",
+  "names": [
+    "Dandelion"
+  ],
+  "runs": 4,
+  "bestRank": 249,
+  "worstRank": 531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3697308,
+  "weeksActive": [
+    -16,
+    0,
+    4,
+    21
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 531,
+      "ms": 4215843,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 249,
+      "ms": 4233418,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 352,
+      "ms": 4411209,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 313,
+      "ms": 3697308,
+      "dish": "Burgers"
+    }
+  ]
+}

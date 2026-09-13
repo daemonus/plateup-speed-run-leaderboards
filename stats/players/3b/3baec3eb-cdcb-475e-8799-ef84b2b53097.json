@@ -1,0 +1,50 @@
+{
+  "id": "3baec3eb-cdcb-475e-8799-ef84b2b53097",
+  "persona": "N4N4SE-",
+  "names": [
+    "N4N4SE-"
+  ],
+  "runs": 4,
+  "bestRank": 98,
+  "worstRank": 339,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2832796,
+  "weeksActive": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 179,
+      "ms": 3214073,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 98,
+      "ms": 2832796,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 339,
+      "ms": 3383118,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 164,
+      "ms": 3107088,
+      "dish": "Breakfast"
+    }
+  ]
+}

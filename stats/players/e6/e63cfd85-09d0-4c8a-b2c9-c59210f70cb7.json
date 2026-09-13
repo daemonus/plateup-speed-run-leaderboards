@@ -1,0 +1,90 @@
+{
+  "id": "e63cfd85-09d0-4c8a-b2c9-c59210f70cb7",
+  "persona": "Tan",
+  "names": [
+    "Tan"
+  ],
+  "runs": 9,
+  "bestRank": 79,
+  "worstRank": 378,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2719936,
+  "weeksActive": [
+    -84,
+    -82,
+    -72,
+    -37,
+    -36,
+    -31,
+    -30,
+    67,
+    68
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 378,
+      "ms": 3129254,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 364,
+      "ms": 3104176,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 360,
+      "ms": 3722512,
+      "dish": "Pies"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 237,
+      "ms": 2780239,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 79,
+      "ms": 3673588,
+      "dish": "Burgers"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 150,
+      "ms": 2789161,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 318,
+      "ms": 2719936,
+      "dish": "Turkey"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 239,
+      "ms": 3505181,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 273,
+      "ms": 2902299,
+      "dish": "Turkey"
+    }
+  ]
+}

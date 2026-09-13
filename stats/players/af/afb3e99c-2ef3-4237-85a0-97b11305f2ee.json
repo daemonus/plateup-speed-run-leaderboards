@@ -1,0 +1,42 @@
+{
+  "id": "afb3e99c-2ef3-4237-85a0-97b11305f2ee",
+  "persona": "kani",
+  "names": [
+    "kani"
+  ],
+  "runs": 3,
+  "bestRank": 112,
+  "worstRank": 225,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2792743,
+  "weeksActive": [
+    -43,
+    27,
+    31
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 225,
+      "ms": 3862304,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 112,
+      "ms": 2833795,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 180,
+      "ms": 2792743,
+      "dish": "Fish"
+    }
+  ]
+}

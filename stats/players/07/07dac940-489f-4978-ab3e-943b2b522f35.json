@@ -1,0 +1,42 @@
+{
+  "id": "07dac940-489f-4978-ab3e-943b2b522f35",
+  "persona": "sanmamuramo",
+  "names": [
+    "sanmamuramo"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 628,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3624967,
+  "weeksActive": [
+    -34,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 325,
+      "ms": 3624967,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 263,
+      "ms": 3834021,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 628,
+      "ms": 3782652,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0bcaf5ef-5b66-4687-9684-eed717c1d17c",
+  "persona": "Captain Palio",
+  "names": [
+    "Captain Palio"
+  ],
+  "runs": 3,
+  "bestRank": 274,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290408,
+  "weeksActive": [
+    -44,
+    -43,
+    -37
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 386,
+      "ms": 3604247,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 274,
+      "ms": 4450641,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 419,
+      "ms": 3290408,
+      "dish": "Fish"
+    }
+  ]
+}

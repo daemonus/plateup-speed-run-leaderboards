@@ -1,0 +1,82 @@
+{
+  "id": "f296442f-8bf5-4e63-b859-889cd7b2992d",
+  "persona": "HANG",
+  "names": [
+    "HANG"
+  ],
+  "runs": 8,
+  "bestRank": 218,
+  "worstRank": 969,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3137699,
+  "weeksActive": [
+    10,
+    12,
+    16,
+    18,
+    19,
+    20,
+    59,
+    62
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 304,
+      "ms": 6099544,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 366,
+      "ms": 3137699,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 503,
+      "ms": 6109311,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 218,
+      "ms": 4346937,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 248,
+      "ms": 3910414,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 969,
+      "ms": 6397687,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 287,
+      "ms": 3735173,
+      "dish": "Salad"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 391,
+      "ms": 3922794,
+      "dish": "Pies"
+    }
+  ]
+}

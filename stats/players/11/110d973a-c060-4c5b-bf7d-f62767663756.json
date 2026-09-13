@@ -1,0 +1,58 @@
+{
+  "id": "110d973a-c060-4c5b-bf7d-f62767663756",
+  "persona": "MsAnne",
+  "names": [
+    "MsAnne"
+  ],
+  "runs": 5,
+  "bestRank": 308,
+  "worstRank": 820,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4021756,
+  "weeksActive": [
+    -67,
+    -30,
+    -27,
+    -20,
+    16
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 341,
+      "ms": 4021756,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 820,
+      "ms": 4506805,
+      "dish": "Turkey"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 308,
+      "ms": 5947569,
+      "dish": "Salad"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 503,
+      "ms": 4983319,
+      "dish": "Burgers"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 398,
+      "ms": 4983463,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7949e086-ba12-4762-9f87-fc28953d44d7",
+  "persona": "Pim",
+  "names": [
+    "Pim"
+  ],
+  "runs": 3,
+  "bestRank": 322,
+  "worstRank": 949,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5010080,
+  "weeksActive": [
+    8,
+    18,
+    80
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 949,
+      "ms": 5469412,
+      "dish": "Fish"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 322,
+      "ms": 6758322,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 397,
+      "ms": 5010080,
+      "dish": "Pizza"
+    }
+  ]
+}

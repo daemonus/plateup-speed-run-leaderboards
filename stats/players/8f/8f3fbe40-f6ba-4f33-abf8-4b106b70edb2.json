@@ -1,0 +1,42 @@
+{
+  "id": "8f3fbe40-f6ba-4f33-abf8-4b106b70edb2",
+  "persona": "WinDen",
+  "names": [
+    "WinDen"
+  ],
+  "runs": 3,
+  "bestRank": 302,
+  "worstRank": 560,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3386985,
+  "weeksActive": [
+    -56,
+    20,
+    39
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 458,
+      "ms": 4623615,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 560,
+      "ms": 3386985,
+      "dish": "Turkey"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 302,
+      "ms": 5064442,
+      "dish": "Stir Fry"
+    }
+  ]
+}

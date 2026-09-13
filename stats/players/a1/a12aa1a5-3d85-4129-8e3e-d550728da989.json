@@ -1,0 +1,74 @@
+{
+  "id": "a12aa1a5-3d85-4129-8e3e-d550728da989",
+  "persona": "andretano11",
+  "names": [
+    "andretano11"
+  ],
+  "runs": 7,
+  "bestRank": 187,
+  "worstRank": 647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2655826,
+  "weeksActive": [
+    -18,
+    -17,
+    9,
+    13,
+    83,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 352,
+      "ms": 3711424,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 268,
+      "ms": 3762360,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 187,
+      "ms": 3004024,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 319,
+      "ms": 3053169,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 647,
+      "ms": 3594429,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 366,
+      "ms": 2655826,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 280,
+      "ms": 3553902,
+      "dish": "Fish"
+    }
+  ]
+}

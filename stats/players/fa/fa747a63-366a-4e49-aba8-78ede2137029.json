@@ -1,0 +1,58 @@
+{
+  "id": "fa747a63-366a-4e49-aba8-78ede2137029",
+  "persona": "GemsyGiraffe",
+  "names": [
+    "GemsyGiraffe"
+  ],
+  "runs": 5,
+  "bestRank": 144,
+  "worstRank": 2212,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3302032,
+  "weeksActive": [
+    -93,
+    -89,
+    49,
+    50,
+    51
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2212,
+      "ms": 3302032,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 818,
+      "ms": 4024453,
+      "dish": "Pies"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 144,
+      "ms": 4302799,
+      "dish": "Burgers"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 183,
+      "ms": 4437926,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 325,
+      "ms": 5108566,
+      "dish": "Salad"
+    }
+  ]
+}

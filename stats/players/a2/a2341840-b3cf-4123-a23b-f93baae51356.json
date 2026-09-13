@@ -1,0 +1,42 @@
+{
+  "id": "a2341840-b3cf-4123-a23b-f93baae51356",
+  "persona": "Loquendo",
+  "names": [
+    "Loquendo"
+  ],
+  "runs": 3,
+  "bestRank": 250,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2771802,
+  "weeksActive": [
+    -44,
+    -43,
+    -38
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 438,
+      "ms": 3897066,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 250,
+      "ms": 4206102,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 339,
+      "ms": 2771802,
+      "dish": "Turkey"
+    }
+  ]
+}

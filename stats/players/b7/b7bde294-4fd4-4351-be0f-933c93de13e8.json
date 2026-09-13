@@ -1,0 +1,50 @@
+{
+  "id": "b7bde294-4fd4-4351-be0f-933c93de13e8",
+  "persona": "Megan",
+  "names": [
+    "Megan"
+  ],
+  "runs": 4,
+  "bestRank": 24,
+  "worstRank": 103,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1527869,
+  "weeksActive": [
+    -39,
+    -38,
+    -35,
+    -34
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 24,
+      "ms": 1881144,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 31,
+      "ms": 1527869,
+      "dish": "Turkey"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 103,
+      "ms": 3200613,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 69,
+      "ms": 2342195,
+      "dish": "Pies"
+    }
+  ]
+}

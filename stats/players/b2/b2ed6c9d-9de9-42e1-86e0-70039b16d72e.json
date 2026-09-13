@@ -1,0 +1,42 @@
+{
+  "id": "b2ed6c9d-9de9-42e1-86e0-70039b16d72e",
+  "persona": "Ti Gryphon",
+  "names": [
+    "Ti Gryphon"
+  ],
+  "runs": 3,
+  "bestRank": 481,
+  "worstRank": 2755,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4137114,
+  "weeksActive": [
+    -93,
+    -47,
+    -46
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2755,
+      "ms": 4137114,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 495,
+      "ms": 10153207,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 481,
+      "ms": 5068468,
+      "dish": "Salad"
+    }
+  ]
+}

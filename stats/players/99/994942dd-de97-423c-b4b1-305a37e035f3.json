@@ -1,0 +1,66 @@
+{
+  "id": "994942dd-de97-423c-b4b1-305a37e035f3",
+  "persona": "qeddar",
+  "names": [
+    "qeddar"
+  ],
+  "runs": 6,
+  "bestRank": 309,
+  "worstRank": 632,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2973197,
+  "weeksActive": [
+    52,
+    53,
+    54,
+    56,
+    57,
+    86
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 442,
+      "ms": 3497179,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 451,
+      "ms": 5153857,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 309,
+      "ms": 5300119,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 632,
+      "ms": 3185583,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 460,
+      "ms": 4662808,
+      "dish": "Salad"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 335,
+      "ms": 2973197,
+      "dish": "Sundaes"
+    }
+  ]
+}

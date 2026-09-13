@@ -1,0 +1,82 @@
+{
+  "id": "56d005d6-719f-4017-9e68-0f535f2df161",
+  "persona": "\u9BD6\u30AF\u30B8\u30E9",
+  "names": [
+    "\u9BD6\u30AF\u30B8\u30E9"
+  ],
+  "runs": 8,
+  "bestRank": 153,
+  "worstRank": 601,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2236037,
+  "weeksActive": [
+    43,
+    53,
+    59,
+    64,
+    80,
+    81,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 483,
+      "ms": 3326706,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 306,
+      "ms": 3774697,
+      "dish": "Pies"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 153,
+      "ms": 3028595,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 601,
+      "ms": 3020075,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 221,
+      "ms": 3430389,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 207,
+      "ms": 3707110,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 157,
+      "ms": 2762424,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 275,
+      "ms": 2236037,
+      "dish": "Sundaes"
+    }
+  ]
+}

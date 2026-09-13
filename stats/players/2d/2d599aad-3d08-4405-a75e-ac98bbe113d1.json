@@ -1,0 +1,58 @@
+{
+  "id": "2d599aad-3d08-4405-a75e-ac98bbe113d1",
+  "persona": "meowchaw",
+  "names": [
+    "meowchaw"
+  ],
+  "runs": 5,
+  "bestRank": 342,
+  "worstRank": 757,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2498041,
+  "weeksActive": [
+    -25,
+    -18,
+    -15,
+    38,
+    41
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 446,
+      "ms": 4401871,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 757,
+      "ms": 5465275,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 373,
+      "ms": 3445217,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 342,
+      "ms": 3643612,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 350,
+      "ms": 2498041,
+      "dish": "Turkey"
+    }
+  ]
+}

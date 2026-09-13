@@ -1,0 +1,50 @@
+{
+  "id": "399cbe5c-cab2-4c99-9a2a-9d44da41f0f8",
+  "persona": "Hekxsler",
+  "names": [
+    "Hekxsler"
+  ],
+  "runs": 4,
+  "bestRank": 181,
+  "worstRank": 585,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3359916,
+  "weeksActive": [
+    31,
+    38,
+    43,
+    45
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 301,
+      "ms": 3359916,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 465,
+      "ms": 4462945,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 585,
+      "ms": 3777165,
+      "dish": "Fish"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 181,
+      "ms": 4361388,
+      "dish": "Salad"
+    }
+  ]
+}

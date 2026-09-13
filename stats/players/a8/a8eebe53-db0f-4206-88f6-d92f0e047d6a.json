@@ -1,0 +1,34 @@
+{
+  "id": "a8eebe53-db0f-4206-88f6-d92f0e047d6a",
+  "persona": "ExperienceM3",
+  "names": [
+    "ExperienceM3"
+  ],
+  "runs": 2,
+  "bestRank": 364,
+  "worstRank": 481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3984663,
+  "weeksActive": [
+    5,
+    7
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 481,
+      "ms": 5219786,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 364,
+      "ms": 3984663,
+      "dish": "Fish"
+    }
+  ]
+}

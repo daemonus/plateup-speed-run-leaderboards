@@ -1,0 +1,50 @@
+{
+  "id": "cda099b7-9982-4f7f-a959-63c689c78924",
+  "persona": "altero",
+  "names": [
+    "altero"
+  ],
+  "runs": 4,
+  "bestRank": 106,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2868341,
+  "weeksActive": [
+    23,
+    24,
+    25,
+    53
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 294,
+      "ms": 3068563,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 158,
+      "ms": 2868341,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 106,
+      "ms": 3844879,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 139,
+      "ms": 2898273,
+      "dish": "Pies"
+    }
+  ]
+}

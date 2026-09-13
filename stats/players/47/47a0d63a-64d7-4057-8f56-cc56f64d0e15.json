@@ -1,0 +1,82 @@
+{
+  "id": "47a0d63a-64d7-4057-8f56-cc56f64d0e15",
+  "persona": "prtin",
+  "names": [
+    "prtin"
+  ],
+  "runs": 8,
+  "bestRank": 238,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3116585,
+  "weeksActive": [
+    -18,
+    -17,
+    2,
+    3,
+    6,
+    8,
+    34,
+    36
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 545,
+      "ms": 4334285,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 285,
+      "ms": 3911099,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 343,
+      "ms": 4485278,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 247,
+      "ms": 3116585,
+      "dish": "Fish"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 292,
+      "ms": 4003354,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 465,
+      "ms": 3205989,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 238,
+      "ms": 3996015,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 306,
+      "ms": 3262680,
+      "dish": "Fish"
+    }
+  ]
+}

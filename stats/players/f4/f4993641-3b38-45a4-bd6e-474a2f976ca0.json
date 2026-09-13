@@ -1,0 +1,50 @@
+{
+  "id": "f4993641-3b38-45a4-bd6e-474a2f976ca0",
+  "persona": "delphinee",
+  "names": [
+    "delphinee"
+  ],
+  "runs": 4,
+  "bestRank": 17,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1785806,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -22
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 97,
+      "ms": 2155727,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 224,
+      "ms": 1945379,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 107,
+      "ms": 1785806,
+      "dish": "Fish"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 17,
+      "ms": 2161139,
+      "dish": "Stir Fry"
+    }
+  ]
+}

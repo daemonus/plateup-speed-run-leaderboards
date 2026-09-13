@@ -1,0 +1,34 @@
+{
+  "id": "7eedbacd-4907-4ffe-9df2-32250d9087fd",
+  "persona": "\u7C73\u82CF\u5B9D",
+  "names": [
+    "\u7C73\u82CF\u5B9D"
+  ],
+  "runs": 2,
+  "bestRank": 600,
+  "worstRank": 679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5380686,
+  "weeksActive": [
+    -20,
+    -16
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 600,
+      "ms": 8596554,
+      "dish": "Burgers"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 679,
+      "ms": 5380686,
+      "dish": "Pies"
+    }
+  ]
+}

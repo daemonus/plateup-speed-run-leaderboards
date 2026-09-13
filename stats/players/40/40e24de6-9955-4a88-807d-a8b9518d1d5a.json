@@ -1,0 +1,58 @@
+{
+  "id": "40e24de6-9955-4a88-807d-a8b9518d1d5a",
+  "persona": "Minora Parva",
+  "names": [
+    "Minora Parva"
+  ],
+  "runs": 5,
+  "bestRank": 424,
+  "worstRank": 644,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3461779,
+  "weeksActive": [
+    -39,
+    -30,
+    -25,
+    -6,
+    -5
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 424,
+      "ms": 3461779,
+      "dish": "Pizza"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 625,
+      "ms": 3548054,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 644,
+      "ms": 5555886,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 453,
+      "ms": 4562065,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 517,
+      "ms": 5106514,
+      "dish": "Pizza"
+    }
+  ]
+}

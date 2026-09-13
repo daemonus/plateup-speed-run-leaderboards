@@ -1,0 +1,74 @@
+{
+  "id": "6b03e154-e9a6-43ff-bcaa-8ac05bb068bb",
+  "persona": "Darth Rivet",
+  "names": [
+    "Darth Rivet"
+  ],
+  "runs": 7,
+  "bestRank": 134,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2873490,
+  "weeksActive": [
+    -22,
+    -21,
+    -20,
+    -19,
+    -18,
+    -17,
+    -16
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 276,
+      "ms": 5983846,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 190,
+      "ms": 3097763,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 134,
+      "ms": 3059930,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 272,
+      "ms": 4269743,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 147,
+      "ms": 2923786,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 151,
+      "ms": 2873490,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 476,
+      "ms": 3924940,
+      "dish": "Pies"
+    }
+  ]
+}

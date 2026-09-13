@@ -1,0 +1,34 @@
+{
+  "id": "768ce7e0-a708-4a1d-95ec-8c3fba4b0f87",
+  "persona": "Howie",
+  "names": [
+    "Howie"
+  ],
+  "runs": 2,
+  "bestRank": 64,
+  "worstRank": 92,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2501467,
+  "weeksActive": [
+    -13,
+    -9
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 64,
+      "ms": 2501467,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 92,
+      "ms": 3791549,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "af72c989-c88e-4541-990e-27b98873f116",
+  "persona": "Seacat",
+  "names": [
+    "Seacat"
+  ],
+  "runs": 3,
+  "bestRank": 126,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3429077,
+  "weeksActive": [
+    -42,
+    -25,
+    -24
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 176,
+      "ms": 4150981,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 245,
+      "ms": 3671544,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 126,
+      "ms": 3429077,
+      "dish": "Breakfast"
+    }
+  ]
+}

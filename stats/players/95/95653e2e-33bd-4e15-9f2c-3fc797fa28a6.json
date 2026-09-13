@@ -1,0 +1,50 @@
+{
+  "id": "95653e2e-33bd-4e15-9f2c-3fc797fa28a6",
+  "persona": "allie.commons",
+  "names": [
+    "allie.commons"
+  ],
+  "runs": 4,
+  "bestRank": 197,
+  "worstRank": 437,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3221888,
+  "weeksActive": [
+    52,
+    53,
+    57,
+    70
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 367,
+      "ms": 3252374,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 197,
+      "ms": 3221888,
+      "dish": "Pies"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 437,
+      "ms": 4419584,
+      "dish": "Salad"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 251,
+      "ms": 4029671,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

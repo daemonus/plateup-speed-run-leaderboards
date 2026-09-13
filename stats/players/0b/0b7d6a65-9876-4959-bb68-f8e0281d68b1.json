@@ -1,0 +1,66 @@
+{
+  "id": "0b7d6a65-9876-4959-bb68-f8e0281d68b1",
+  "persona": "Jolly",
+  "names": [
+    "Jolly"
+  ],
+  "runs": 6,
+  "bestRank": 193,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3081273,
+  "weeksActive": [
+    -62,
+    -61,
+    -57,
+    -56,
+    -55,
+    22
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 321,
+      "ms": 3574719,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 193,
+      "ms": 3081273,
+      "dish": "Fish"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 236,
+      "ms": 4176408,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 398,
+      "ms": 3869219,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 373,
+      "ms": 4004294,
+      "dish": "Pizza"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 227,
+      "ms": 3797451,
+      "dish": "Breakfast"
+    }
+  ]
+}

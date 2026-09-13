@@ -1,0 +1,66 @@
+{
+  "id": "8f7134c3-c3ac-435a-b9d7-720098566d17",
+  "persona": "\u3058\u3085\u308A",
+  "names": [
+    "\u3058\u3085\u308A"
+  ],
+  "runs": 6,
+  "bestRank": 293,
+  "worstRank": 532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3947341,
+  "weeksActive": [
+    -64,
+    -63,
+    -60,
+    -59,
+    -58,
+    -57
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 453,
+      "ms": 6483088,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 354,
+      "ms": 3947341,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 367,
+      "ms": 4499552,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 532,
+      "ms": 4360659,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 293,
+      "ms": 9348679,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 315,
+      "ms": 5381178,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5c386033-7e08-4994-98c4-ae78fe2d97b1",
+  "persona": "bunnyd",
+  "names": [
+    "bunnyd"
+  ],
+  "runs": 3,
+  "bestRank": 270,
+  "worstRank": 576,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3815722,
+  "weeksActive": [
+    -7,
+    -6,
+    -5
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 270,
+      "ms": 4794841,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 271,
+      "ms": 3815722,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 576,
+      "ms": 5736006,
+      "dish": "Pizza"
+    }
+  ]
+}

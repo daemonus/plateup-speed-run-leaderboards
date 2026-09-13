@@ -1,0 +1,50 @@
+{
+  "id": "46a35680-df34-4077-839f-31ac94c6e12d",
+  "persona": "Katana17",
+  "names": [
+    "Katana17"
+  ],
+  "runs": 4,
+  "bestRank": 449,
+  "worstRank": 1782,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4554931,
+  "weeksActive": [
+    -94,
+    -83,
+    -81,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1782,
+      "ms": 6485784,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 522,
+      "ms": 4554931,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 449,
+      "ms": 7891124,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1050,
+      "ms": 6151200,
+      "dish": "Fish"
+    }
+  ]
+}

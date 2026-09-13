@@ -1,0 +1,66 @@
+{
+  "id": "86c797dd-ac1f-461c-a9b2-8cd4251a6b7a",
+  "persona": "LouemiDia",
+  "names": [
+    "LouemiDia"
+  ],
+  "runs": 6,
+  "bestRank": 434,
+  "worstRank": 954,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3194169,
+  "weeksActive": [
+    -77,
+    -76,
+    -74,
+    -72,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 913,
+      "ms": 5762447,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 954,
+      "ms": 5591911,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 600,
+      "ms": 5605319,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 528,
+      "ms": 4249546,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 497,
+      "ms": 3194169,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 434,
+      "ms": 4573274,
+      "dish": "Breakfast"
+    }
+  ]
+}

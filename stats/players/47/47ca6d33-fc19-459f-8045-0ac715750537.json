@@ -1,0 +1,34 @@
+{
+  "id": "47ca6d33-fc19-459f-8045-0ac715750537",
+  "persona": "Whisper",
+  "names": [
+    "Whisper"
+  ],
+  "runs": 2,
+  "bestRank": 70,
+  "worstRank": 293,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1974766,
+  "weeksActive": [
+    68,
+    70
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 70,
+      "ms": 1974766,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 293,
+      "ms": 4413967,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

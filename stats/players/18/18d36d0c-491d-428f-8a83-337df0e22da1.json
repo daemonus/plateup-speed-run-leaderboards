@@ -1,0 +1,34 @@
+{
+  "id": "18d36d0c-491d-428f-8a83-337df0e22da1",
+  "persona": "inui",
+  "names": [
+    "inui"
+  ],
+  "runs": 2,
+  "bestRank": 156,
+  "worstRank": 242,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2899818,
+  "weeksActive": [
+    36,
+    37
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 242,
+      "ms": 2899818,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 156,
+      "ms": 3828766,
+      "dish": "Burgers"
+    }
+  ]
+}

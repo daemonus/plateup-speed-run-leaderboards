@@ -1,0 +1,90 @@
+{
+  "id": "c2c5d66e-0656-4800-b7df-76bab143dd28",
+  "persona": "ChickenLittler",
+  "names": [
+    "ChickenLittler"
+  ],
+  "runs": 9,
+  "bestRank": 49,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2773973,
+  "weeksActive": [
+    -80,
+    -67,
+    -63,
+    -50,
+    -42,
+    -41,
+    50,
+    51,
+    57
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 201,
+      "ms": 4086874,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 155,
+      "ms": 3285184,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 346,
+      "ms": 3922184,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 168,
+      "ms": 3970208,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 105,
+      "ms": 3388018,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 49,
+      "ms": 2773973,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 106,
+      "ms": 3557541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 225,
+      "ms": 4055748,
+      "dish": "Salad"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 198,
+      "ms": 3108387,
+      "dish": "Salad"
+    }
+  ]
+}

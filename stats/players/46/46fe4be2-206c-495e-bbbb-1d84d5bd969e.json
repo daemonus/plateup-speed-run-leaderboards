@@ -1,0 +1,42 @@
+{
+  "id": "46fe4be2-206c-495e-bbbb-1d84d5bd969e",
+  "persona": "DeadlyiCoN",
+  "names": [
+    "DeadlyiCoN"
+  ],
+  "runs": 3,
+  "bestRank": 117,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3123946,
+  "weeksActive": [
+    -81,
+    -80,
+    -79
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 359,
+      "ms": 4780341,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 117,
+      "ms": 3123946,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 195,
+      "ms": 3179082,
+      "dish": "Pies"
+    }
+  ]
+}

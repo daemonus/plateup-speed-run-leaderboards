@@ -1,0 +1,34 @@
+{
+  "id": "08414132-f773-47f3-9e87-51497fea5eac",
+  "persona": "repete",
+  "names": [
+    "repete"
+  ],
+  "runs": 2,
+  "bestRank": 774,
+  "worstRank": 841,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5011785,
+  "weeksActive": [
+    -30,
+    -18
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 841,
+      "ms": 5011785,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 774,
+      "ms": 5780230,
+      "dish": "Fish"
+    }
+  ]
+}

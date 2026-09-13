@@ -1,0 +1,50 @@
+{
+  "id": "03d956b8-839e-48a3-addf-7b2464423c61",
+  "persona": "612only",
+  "names": [
+    "612only"
+  ],
+  "runs": 4,
+  "bestRank": 96,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2465658,
+  "weeksActive": [
+    -78,
+    -77,
+    -75,
+    -21
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 302,
+      "ms": 3347296,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 121,
+      "ms": 2465658,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 331,
+      "ms": 2624839,
+      "dish": "Fish"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 96,
+      "ms": 2586559,
+      "dish": "Pizza"
+    }
+  ]
+}

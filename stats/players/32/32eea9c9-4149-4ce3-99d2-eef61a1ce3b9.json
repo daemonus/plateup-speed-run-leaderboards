@@ -1,0 +1,50 @@
+{
+  "id": "32eea9c9-4149-4ce3-99d2-eef61a1ce3b9",
+  "persona": "miratsku",
+  "names": [
+    "miratsku"
+  ],
+  "runs": 4,
+  "bestRank": 77,
+  "worstRank": 1185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2583319,
+  "weeksActive": [
+    -94,
+    -91,
+    -77,
+    -11
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1185,
+      "ms": 3669319,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 705,
+      "ms": 2583319,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 221,
+      "ms": 2844492,
+      "dish": "Pies"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 77,
+      "ms": 3110649,
+      "dish": "Burgers"
+    }
+  ]
+}

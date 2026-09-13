@@ -1,0 +1,34 @@
+{
+  "id": "f0b7b259-b665-47bd-98cd-8a2ebfa5f381",
+  "persona": "Harry Beaver",
+  "names": [
+    "Harry Beaver"
+  ],
+  "runs": 2,
+  "bestRank": 275,
+  "worstRank": 452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3128711,
+  "weeksActive": [
+    63,
+    68
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 275,
+      "ms": 3128711,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 452,
+      "ms": 3897697,
+      "dish": "Turkey"
+    }
+  ]
+}

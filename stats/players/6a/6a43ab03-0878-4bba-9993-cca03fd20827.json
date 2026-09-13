@@ -1,0 +1,42 @@
+{
+  "id": "6a43ab03-0878-4bba-9993-cca03fd20827",
+  "persona": "AnyaToxx",
+  "names": [
+    "AnyaToxx"
+  ],
+  "runs": 3,
+  "bestRank": 196,
+  "worstRank": 229,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2921324,
+  "weeksActive": [
+    21,
+    28,
+    29
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 229,
+      "ms": 3183570,
+      "dish": "Burgers"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 220,
+      "ms": 2921324,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 196,
+      "ms": 5460973,
+      "dish": "Breakfast"
+    }
+  ]
+}

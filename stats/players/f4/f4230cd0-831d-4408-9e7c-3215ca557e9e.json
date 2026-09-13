@@ -1,0 +1,34 @@
+{
+  "id": "f4230cd0-831d-4408-9e7c-3215ca557e9e",
+  "persona": "Hado",
+  "names": [
+    "Hado"
+  ],
+  "runs": 2,
+  "bestRank": 516,
+  "worstRank": 585,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3832653,
+  "weeksActive": [
+    -39,
+    -31
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 585,
+      "ms": 4053300,
+      "dish": "Pizza"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 516,
+      "ms": 3832653,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5c19c533-392d-4537-9c09-d10e15de983c",
+  "persona": "sin",
+  "names": [
+    "sin"
+  ],
+  "runs": 4,
+  "bestRank": 187,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2983553,
+  "weeksActive": [
+    -40,
+    -11,
+    0,
+    8
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 267,
+      "ms": 6031195,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 187,
+      "ms": 5267362,
+      "dish": "Burgers"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 273,
+      "ms": 4354975,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 369,
+      "ms": 2983553,
+      "dish": "Fish"
+    }
+  ]
+}

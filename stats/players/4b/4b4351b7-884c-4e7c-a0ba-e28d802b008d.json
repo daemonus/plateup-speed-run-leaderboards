@@ -1,0 +1,66 @@
+{
+  "id": "4b4351b7-884c-4e7c-a0ba-e28d802b008d",
+  "persona": "schweinika",
+  "names": [
+    "schweinika"
+  ],
+  "runs": 6,
+  "bestRank": 572,
+  "worstRank": 2456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3307141,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90,
+    -84
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1051,
+      "ms": 3509029,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2456,
+      "ms": 3564312,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 572,
+      "ms": 3677319,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1442,
+      "ms": 3654552,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 830,
+      "ms": 3307141,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 604,
+      "ms": 4056812,
+      "dish": "Fish"
+    }
+  ]
+}

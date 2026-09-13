@@ -1,0 +1,34 @@
+{
+  "id": "9698e456-d403-40dd-a4bf-f739ac2681d6",
+  "persona": "\u4E0D\u8981\u6253\u4E86\u5207\u62DC",
+  "names": [
+    "\u4E0D\u8981\u6253\u4E86\u5207\u62DC"
+  ],
+  "runs": 2,
+  "bestRank": 383,
+  "worstRank": 2901,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3103656,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2901,
+      "ms": 5163458,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 383,
+      "ms": 3103656,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f90e61d6-2554-4cb5-9929-f5f06c1718fe",
+  "persona": "bbjudy",
+  "names": [
+    "bbjudy"
+  ],
+  "runs": 3,
+  "bestRank": 176,
+  "worstRank": 380,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2830692,
+  "weeksActive": [
+    -78,
+    -32,
+    30
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 380,
+      "ms": 3725853,
+      "dish": "Burgers"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 208,
+      "ms": 2830692,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 176,
+      "ms": 2993644,
+      "dish": "Breakfast"
+    }
+  ]
+}

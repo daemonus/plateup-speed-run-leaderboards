@@ -1,0 +1,34 @@
+{
+  "id": "cfbe0244-283d-42d9-960e-92a6b45de729",
+  "persona": "dana_may",
+  "names": [
+    "dana_may"
+  ],
+  "runs": 2,
+  "bestRank": 337,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3465937,
+  "weeksActive": [
+    66,
+    84
+  ],
+  "history": [
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 337,
+      "ms": 3811990,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 509,
+      "ms": 3465937,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "728b17ba-5644-49b6-8347-8f17decf965e",
+  "persona": "Ranger Rick",
+  "names": [
+    "Ranger Rick"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2551891,
+  "weeksActive": [
+    3,
+    8
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 666,
+      "ms": 4393663,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 225,
+      "ms": 2551891,
+      "dish": "Fish"
+    }
+  ]
+}

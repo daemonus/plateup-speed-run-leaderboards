@@ -1,0 +1,42 @@
+{
+  "id": "d32b6e3a-2c21-4699-8608-e0a9bac8d604",
+  "persona": "\u7A7A\u767D",
+  "names": [
+    "\u7A7A\u767D"
+  ],
+  "runs": 3,
+  "bestRank": 60,
+  "worstRank": 389,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2741576,
+  "weeksActive": [
+    63,
+    67,
+    69
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 389,
+      "ms": 3492981,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 208,
+      "ms": 3300759,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 60,
+      "ms": 2741576,
+      "dish": "Burgers"
+    }
+  ]
+}

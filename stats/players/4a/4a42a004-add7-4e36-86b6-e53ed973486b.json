@@ -1,0 +1,34 @@
+{
+  "id": "4a42a004-add7-4e36-86b6-e53ed973486b",
+  "persona": "HydraTempest",
+  "names": [
+    "HydraTempest"
+  ],
+  "runs": 2,
+  "bestRank": 137,
+  "worstRank": 203,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2604098,
+  "weeksActive": [
+    62,
+    63
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 203,
+      "ms": 3025235,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 137,
+      "ms": 2604098,
+      "dish": "Pizza"
+    }
+  ]
+}

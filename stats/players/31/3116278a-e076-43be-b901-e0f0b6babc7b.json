@@ -1,0 +1,66 @@
+{
+  "id": "3116278a-e076-43be-b901-e0f0b6babc7b",
+  "persona": "Green Arrow",
+  "names": [
+    "Green Arrow"
+  ],
+  "runs": 6,
+  "bestRank": 349,
+  "worstRank": 991,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3431709,
+  "weeksActive": [
+    -77,
+    -75,
+    -74,
+    -72,
+    -71,
+    -64
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 575,
+      "ms": 3800899,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 665,
+      "ms": 3431709,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 349,
+      "ms": 3872984,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 670,
+      "ms": 4736418,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 991,
+      "ms": 4278494,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 377,
+      "ms": 4778667,
+      "dish": "Salad"
+    }
+  ]
+}

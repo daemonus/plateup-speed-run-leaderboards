@@ -1,0 +1,66 @@
+{
+  "id": "21d921be-090e-48b3-b94c-554dd9752aa8",
+  "persona": "Sabok",
+  "names": [
+    "Sabok"
+  ],
+  "runs": 6,
+  "bestRank": 187,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3432023,
+  "weeksActive": [
+    -92,
+    -61,
+    -56,
+    50,
+    51,
+    53
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 555,
+      "ms": 3614887,
+      "dish": "Steak"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 293,
+      "ms": 3432023,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 423,
+      "ms": 4165790,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 227,
+      "ms": 5079215,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 187,
+      "ms": 3786525,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 274,
+      "ms": 3595851,
+      "dish": "Pies"
+    }
+  ]
+}

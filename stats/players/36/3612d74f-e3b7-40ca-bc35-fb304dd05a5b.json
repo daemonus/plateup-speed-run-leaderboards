@@ -1,0 +1,42 @@
+{
+  "id": "3612d74f-e3b7-40ca-bc35-fb304dd05a5b",
+  "persona": "Cessy:P",
+  "names": [
+    "Cessy:P"
+  ],
+  "runs": 3,
+  "bestRank": 42,
+  "worstRank": 571,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2161485,
+  "weeksActive": [
+    -92,
+    -76,
+    -59
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 571,
+      "ms": 3677227,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 471,
+      "ms": 3198167,
+      "dish": "Turkey"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 42,
+      "ms": 2161485,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

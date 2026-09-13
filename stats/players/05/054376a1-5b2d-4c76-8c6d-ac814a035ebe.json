@@ -1,0 +1,50 @@
+{
+  "id": "054376a1-5b2d-4c76-8c6d-ac814a035ebe",
+  "persona": "Ozza",
+  "names": [
+    "Ozza"
+  ],
+  "runs": 4,
+  "bestRank": 408,
+  "worstRank": 980,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3631786,
+  "weeksActive": [
+    -76,
+    -75,
+    -62,
+    -15
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 657,
+      "ms": 3631786,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 980,
+      "ms": 4658816,
+      "dish": "Fish"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 408,
+      "ms": 3913702,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 602,
+      "ms": 6627074,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ce0170ef-f640-483e-84b5-fb34ceea5708",
+  "persona": "Jalimey",
+  "names": [
+    "Jalimey"
+  ],
+  "runs": 4,
+  "bestRank": 268,
+  "worstRank": 855,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3099419,
+  "weeksActive": [
+    -37,
+    -33,
+    -32,
+    58
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 855,
+      "ms": 4502126,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 268,
+      "ms": 3846020,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 308,
+      "ms": 3099419,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 468,
+      "ms": 3879772,
+      "dish": "Turkey"
+    }
+  ]
+}

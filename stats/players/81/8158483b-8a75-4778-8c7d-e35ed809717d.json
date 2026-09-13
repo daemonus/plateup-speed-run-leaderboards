@@ -1,0 +1,50 @@
+{
+  "id": "8158483b-8a75-4778-8c7d-e35ed809717d",
+  "persona": "Koala",
+  "names": [
+    "Koala"
+  ],
+  "runs": 4,
+  "bestRank": 83,
+  "worstRank": 574,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2210770,
+  "weeksActive": [
+    -90,
+    -89,
+    -51,
+    -46
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 514,
+      "ms": 2690501,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 574,
+      "ms": 3124074,
+      "dish": "Pies"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 83,
+      "ms": 2210770,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 128,
+      "ms": 3232396,
+      "dish": "Salad"
+    }
+  ]
+}

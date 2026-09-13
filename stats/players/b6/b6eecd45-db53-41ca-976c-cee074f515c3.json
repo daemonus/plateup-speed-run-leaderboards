@@ -1,0 +1,74 @@
+{
+  "id": "b6eecd45-db53-41ca-976c-cee074f515c3",
+  "persona": "ehjenjen",
+  "names": [
+    "ehjenjen"
+  ],
+  "runs": 7,
+  "bestRank": 166,
+  "worstRank": 753,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3975187,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    6,
+    29,
+    30,
+    32
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 753,
+      "ms": 5031906,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 427,
+      "ms": 5396249,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 274,
+      "ms": 3975187,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 382,
+      "ms": 4840486,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 166,
+      "ms": 4381784,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 468,
+      "ms": 5100368,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 355,
+      "ms": 4715380,
+      "dish": "Pies"
+    }
+  ]
+}

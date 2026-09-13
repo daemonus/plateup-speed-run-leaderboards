@@ -1,0 +1,82 @@
+{
+  "id": "5fc6a499-2b6f-4726-8917-ce1739344b98",
+  "persona": "slasher-master",
+  "names": [
+    "slasher-master"
+  ],
+  "runs": 8,
+  "bestRank": 171,
+  "worstRank": 490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3361826,
+  "weeksActive": [
+    -12,
+    -10,
+    -3,
+    -2,
+    7,
+    23,
+    24,
+    25
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 264,
+      "ms": 4550404,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 229,
+      "ms": 4743590,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 403,
+      "ms": 3361826,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 384,
+      "ms": 4396587,
+      "dish": "Pizza"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 308,
+      "ms": 3635602,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 490,
+      "ms": 4088326,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 298,
+      "ms": 3633370,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 171,
+      "ms": 4778897,
+      "dish": "Stir Fry"
+    }
+  ]
+}

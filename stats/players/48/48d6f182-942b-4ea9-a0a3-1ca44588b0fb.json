@@ -1,0 +1,34 @@
+{
+  "id": "48d6f182-942b-4ea9-a0a3-1ca44588b0fb",
+  "persona": "back",
+  "names": [
+    "back"
+  ],
+  "runs": 2,
+  "bestRank": 443,
+  "worstRank": 980,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5881822,
+  "weeksActive": [
+    -37,
+    -26
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 980,
+      "ms": 6085145,
+      "dish": "Fish"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 443,
+      "ms": 5881822,
+      "dish": "Breakfast"
+    }
+  ]
+}

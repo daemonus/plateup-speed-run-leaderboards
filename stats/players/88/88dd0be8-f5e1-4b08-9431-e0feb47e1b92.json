@@ -1,0 +1,50 @@
+{
+  "id": "88dd0be8-f5e1-4b08-9431-e0feb47e1b92",
+  "persona": "cdctrumpet",
+  "names": [
+    "cdctrumpet"
+  ],
+  "runs": 4,
+  "bestRank": 64,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1886663,
+  "weeksActive": [
+    -94,
+    -4,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 349,
+      "ms": 2632643,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 64,
+      "ms": 2217325,
+      "dish": "Pies"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 116,
+      "ms": 1886663,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 141,
+      "ms": 2731525,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d4d093d9-6eaf-434b-b850-336abff95ffe",
+  "persona": "Vierbeurre",
+  "names": [
+    "Vierbeurre"
+  ],
+  "runs": 3,
+  "bestRank": 311,
+  "worstRank": 593,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3276345,
+  "weeksActive": [
+    -75,
+    -63,
+    -61
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 593,
+      "ms": 3276345,
+      "dish": "Fish"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 338,
+      "ms": 3888500,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 311,
+      "ms": 3487935,
+      "dish": "Fish"
+    }
+  ]
+}

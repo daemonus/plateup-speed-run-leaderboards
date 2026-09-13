@@ -1,0 +1,50 @@
+{
+  "id": "77554393-e4b1-4697-b650-f3cb6f5b90d2",
+  "persona": "Chloe",
+  "names": [
+    "Chloe"
+  ],
+  "runs": 4,
+  "bestRank": 325,
+  "worstRank": 443,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4757360,
+  "weeksActive": [
+    18,
+    19,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 325,
+      "ms": 6884607,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 360,
+      "ms": 4775128,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 443,
+      "ms": 4757360,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 327,
+      "ms": 6476418,
+      "dish": "Breakfast"
+    }
+  ]
+}

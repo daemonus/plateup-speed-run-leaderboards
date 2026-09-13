@@ -1,0 +1,58 @@
+{
+  "id": "0b11530f-20c7-4fcd-a9ab-068193c79ea4",
+  "persona": "MissMonica",
+  "names": [
+    "MissMonica"
+  ],
+  "runs": 5,
+  "bestRank": 3,
+  "worstRank": 199,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1864549,
+  "weeksActive": [
+    -82,
+    -40,
+    -39,
+    -8,
+    -7
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 199,
+      "ms": 2453324,
+      "dish": "Fish"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 17,
+      "ms": 2328938,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 21,
+      "ms": 1864549,
+      "dish": "Pizza"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 39,
+      "ms": 2681742,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 3,
+      "ms": 1936584,
+      "dish": "Breakfast"
+    }
+  ]
+}

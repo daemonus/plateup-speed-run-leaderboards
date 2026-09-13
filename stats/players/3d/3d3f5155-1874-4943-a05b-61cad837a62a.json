@@ -1,0 +1,50 @@
+{
+  "id": "3d3f5155-1874-4943-a05b-61cad837a62a",
+  "persona": "NURI",
+  "names": [
+    "NURI"
+  ],
+  "runs": 4,
+  "bestRank": 39,
+  "worstRank": 234,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2749672,
+  "weeksActive": [
+    16,
+    18,
+    19,
+    24
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 39,
+      "ms": 2749672,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 135,
+      "ms": 3379108,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 234,
+      "ms": 3838233,
+      "dish": "Pizza"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 165,
+      "ms": 2910906,
+      "dish": "Pies"
+    }
+  ]
+}

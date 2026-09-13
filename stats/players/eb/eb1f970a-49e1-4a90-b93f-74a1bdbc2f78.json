@@ -1,0 +1,34 @@
+{
+  "id": "eb1f970a-49e1-4a90-b93f-74a1bdbc2f78",
+  "persona": "Cambroth",
+  "names": [
+    "Cambroth"
+  ],
+  "runs": 2,
+  "bestRank": 236,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3351358,
+  "weeksActive": [
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 236,
+      "ms": 3351358,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 417,
+      "ms": 4256735,
+      "dish": "Burgers"
+    }
+  ]
+}

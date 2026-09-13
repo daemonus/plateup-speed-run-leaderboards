@@ -1,0 +1,42 @@
+{
+  "id": "5b249a8f-4585-45df-af75-1185d59c80d3",
+  "persona": "stangun.1024",
+  "names": [
+    "stangun.1024"
+  ],
+  "runs": 3,
+  "bestRank": 133,
+  "worstRank": 392,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3304395,
+  "weeksActive": [
+    -6,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 184,
+      "ms": 3455385,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 133,
+      "ms": 3304395,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 392,
+      "ms": 3880724,
+      "dish": "Pies"
+    }
+  ]
+}

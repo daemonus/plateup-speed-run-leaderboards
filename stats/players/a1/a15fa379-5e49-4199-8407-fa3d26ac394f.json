@@ -1,0 +1,66 @@
+{
+  "id": "a15fa379-5e49-4199-8407-fa3d26ac394f",
+  "persona": "\u5C0F\u9547\u6D12\u6C34\u8F66",
+  "names": [
+    "\u5C0F\u9547\u6D12\u6C34\u8F66"
+  ],
+  "runs": 6,
+  "bestRank": 167,
+  "worstRank": 381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3280547,
+  "weeksActive": [
+    -57,
+    -56,
+    -55,
+    -53,
+    -35,
+    -34
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 279,
+      "ms": 4597476,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 381,
+      "ms": 3804605,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 213,
+      "ms": 3280547,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 240,
+      "ms": 4051002,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 167,
+      "ms": 3967815,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 286,
+      "ms": 3389533,
+      "dish": "Pies"
+    }
+  ]
+}

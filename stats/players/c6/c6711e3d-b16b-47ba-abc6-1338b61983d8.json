@@ -1,0 +1,42 @@
+{
+  "id": "c6711e3d-b16b-47ba-abc6-1338b61983d8",
+  "persona": "Baarlian",
+  "names": [
+    "Baarlian"
+  ],
+  "runs": 3,
+  "bestRank": 285,
+  "worstRank": 644,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3949577,
+  "weeksActive": [
+    63,
+    65,
+    81
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 644,
+      "ms": 4542974,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 289,
+      "ms": 3949577,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 285,
+      "ms": 4785232,
+      "dish": "Pizza"
+    }
+  ]
+}

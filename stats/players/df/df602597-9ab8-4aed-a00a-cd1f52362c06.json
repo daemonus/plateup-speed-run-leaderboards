@@ -1,0 +1,50 @@
+{
+  "id": "df602597-9ab8-4aed-a00a-cd1f52362c06",
+  "persona": "shin",
+  "names": [
+    "shin"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2718620,
+  "weeksActive": [
+    -2,
+    42,
+    44,
+    50
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 291,
+      "ms": 3473123,
+      "dish": "Pizza"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 227,
+      "ms": 4385003,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 130,
+      "ms": 2718620,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 177,
+      "ms": 4357357,
+      "dish": "Stir Fry"
+    }
+  ]
+}

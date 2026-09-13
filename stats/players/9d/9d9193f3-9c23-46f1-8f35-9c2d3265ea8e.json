@@ -1,0 +1,74 @@
+{
+  "id": "9d9193f3-9c23-46f1-8f35-9c2d3265ea8e",
+  "persona": "KAIKAI_UWU",
+  "names": [
+    "KAIKAI_UWU"
+  ],
+  "runs": 7,
+  "bestRank": 215,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3204179,
+  "weeksActive": [
+    -4,
+    12,
+    15,
+    33,
+    34,
+    36,
+    37
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 465,
+      "ms": 4453388,
+      "dish": "Pies"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 384,
+      "ms": 3204179,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 477,
+      "ms": 3529875,
+      "dish": "Turkey"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 255,
+      "ms": 4706165,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 430,
+      "ms": 5333810,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 345,
+      "ms": 3488593,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 215,
+      "ms": 4706687,
+      "dish": "Burgers"
+    }
+  ]
+}

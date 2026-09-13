@@ -1,0 +1,58 @@
+{
+  "id": "47414773-df1b-4952-940f-fae0aa879e73",
+  "persona": "msbr",
+  "names": [
+    "msbr"
+  ],
+  "runs": 5,
+  "bestRank": 33,
+  "worstRank": 153,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1154423,
+  "weeksActive": [
+    51,
+    52,
+    54,
+    56,
+    59
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 141,
+      "ms": 3438817,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 153,
+      "ms": 2481874,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 99,
+      "ms": 3193052,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 33,
+      "ms": 1154423,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 104,
+      "ms": 2798595,
+      "dish": "Salad"
+    }
+  ]
+}

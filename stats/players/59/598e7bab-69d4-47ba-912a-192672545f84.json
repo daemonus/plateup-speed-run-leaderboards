@@ -1,0 +1,82 @@
+{
+  "id": "598e7bab-69d4-47ba-912a-192672545f84",
+  "persona": "mei",
+  "names": [
+    "mei"
+  ],
+  "runs": 8,
+  "bestRank": 43,
+  "worstRank": 329,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1383435,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -89,
+    -88,
+    -67,
+    -53
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 43,
+      "ms": 1383435,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 329,
+      "ms": 2964131,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 74,
+      "ms": 1613108,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 324,
+      "ms": 2287690,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 300,
+      "ms": 2456783,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 53,
+      "ms": 2025296,
+      "dish": "Pies"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 284,
+      "ms": 3779663,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 157,
+      "ms": 3652245,
+      "dish": "Breakfast"
+    }
+  ]
+}

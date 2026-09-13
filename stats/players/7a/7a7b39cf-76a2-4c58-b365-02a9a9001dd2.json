@@ -1,0 +1,74 @@
+{
+  "id": "7a7b39cf-76a2-4c58-b365-02a9a9001dd2",
+  "persona": "BeFries",
+  "names": [
+    "BeFries"
+  ],
+  "runs": 7,
+  "bestRank": 81,
+  "worstRank": 401,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2778033,
+  "weeksActive": [
+    -39,
+    -10,
+    -7,
+    4,
+    5,
+    10,
+    31
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 401,
+      "ms": 3379502,
+      "dish": "Pizza"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 132,
+      "ms": 3713849,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 81,
+      "ms": 3308864,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 112,
+      "ms": 2778033,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 205,
+      "ms": 3537274,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 166,
+      "ms": 3932462,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 205,
+      "ms": 2877614,
+      "dish": "Fish"
+    }
+  ]
+}

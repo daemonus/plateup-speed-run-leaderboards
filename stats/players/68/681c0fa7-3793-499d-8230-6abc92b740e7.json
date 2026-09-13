@@ -1,0 +1,34 @@
+{
+  "id": "681c0fa7-3793-499d-8230-6abc92b740e7",
+  "persona": "Dr L337",
+  "names": [
+    "Dr L337"
+  ],
+  "runs": 2,
+  "bestRank": 542,
+  "worstRank": 893,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4323366,
+  "weeksActive": [
+    -18,
+    20
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 542,
+      "ms": 4323366,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 893,
+      "ms": 4708359,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7f50de39-6f9c-4abd-920d-1aada1b6af84",
+  "persona": "Cobaya",
+  "names": [
+    "Cobaya"
+  ],
+  "runs": 4,
+  "bestRank": 290,
+  "worstRank": 701,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5190899,
+  "weeksActive": [
+    15,
+    16,
+    17,
+    23
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 701,
+      "ms": 6227941,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 572,
+      "ms": 11289281,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 290,
+      "ms": 7149168,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 570,
+      "ms": 5190899,
+      "dish": "Turkey"
+    }
+  ]
+}

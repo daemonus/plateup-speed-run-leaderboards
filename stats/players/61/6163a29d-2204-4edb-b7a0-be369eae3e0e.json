@@ -1,0 +1,50 @@
+{
+  "id": "6163a29d-2204-4edb-b7a0-be369eae3e0e",
+  "persona": "Cynnamoon",
+  "names": [
+    "Cynnamoon"
+  ],
+  "runs": 4,
+  "bestRank": 203,
+  "worstRank": 445,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2416410,
+  "weeksActive": [
+    7,
+    8,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 320,
+      "ms": 3717254,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 445,
+      "ms": 3160673,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 203,
+      "ms": 2416410,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 252,
+      "ms": 2773986,
+      "dish": "Turkey"
+    }
+  ]
+}

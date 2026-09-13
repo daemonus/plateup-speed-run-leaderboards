@@ -1,0 +1,66 @@
+{
+  "id": "25a62b73-394a-4816-b98c-70395bfca24d",
+  "persona": "penguinroll",
+  "names": [
+    "penguinroll"
+  ],
+  "runs": 6,
+  "bestRank": 81,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2272600,
+  "weeksActive": [
+    -80,
+    -79,
+    -77,
+    -76,
+    -75,
+    -41
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 81,
+      "ms": 2836010,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 295,
+      "ms": 3754503,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 456,
+      "ms": 3488793,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 139,
+      "ms": 2272600,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 276,
+      "ms": 2468984,
+      "dish": "Fish"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 97,
+      "ms": 3400733,
+      "dish": "Stir Fry"
+    }
+  ]
+}

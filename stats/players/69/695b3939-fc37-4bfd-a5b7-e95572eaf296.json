@@ -1,0 +1,74 @@
+{
+  "id": "695b3939-fc37-4bfd-a5b7-e95572eaf296",
+  "persona": "epicness001",
+  "names": [
+    "epicness001"
+  ],
+  "runs": 7,
+  "bestRank": 12,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1350645,
+  "weeksActive": [
+    -86,
+    -84,
+    -51,
+    -50,
+    -49,
+    -44,
+    84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 414,
+      "ms": 2833539,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 254,
+      "ms": 2699002,
+      "dish": "Fish"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 19,
+      "ms": 1687011,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 39,
+      "ms": 2764447,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 12,
+      "ms": 2250890,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 43,
+      "ms": 1998828,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 64,
+      "ms": 1350645,
+      "dish": "Sundaes"
+    }
+  ]
+}

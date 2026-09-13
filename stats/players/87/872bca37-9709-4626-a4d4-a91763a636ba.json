@@ -1,0 +1,42 @@
+{
+  "id": "872bca37-9709-4626-a4d4-a91763a636ba",
+  "persona": "snowball",
+  "names": [
+    "snowball"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 556,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5146715,
+  "weeksActive": [
+    -69,
+    -68,
+    -67
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 382,
+      "ms": 5146715,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 360,
+      "ms": 7076523,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 556,
+      "ms": 5281534,
+      "dish": "Breakfast"
+    }
+  ]
+}

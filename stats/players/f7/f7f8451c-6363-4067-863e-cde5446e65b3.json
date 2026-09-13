@@ -1,0 +1,34 @@
+{
+  "id": "f7f8451c-6363-4067-863e-cde5446e65b3",
+  "persona": "blep_bleppy",
+  "names": [
+    "blep_bleppy"
+  ],
+  "runs": 2,
+  "bestRank": 532,
+  "worstRank": 1313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2671026,
+  "weeksActive": [
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1313,
+      "ms": 2671026,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 532,
+      "ms": 3053359,
+      "dish": "Pies"
+    }
+  ]
+}

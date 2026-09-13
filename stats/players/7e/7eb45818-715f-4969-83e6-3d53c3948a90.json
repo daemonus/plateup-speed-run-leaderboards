@@ -1,0 +1,42 @@
+{
+  "id": "7eb45818-715f-4969-83e6-3d53c3948a90",
+  "persona": "BlackBlizzard",
+  "names": [
+    "BlackBlizzard"
+  ],
+  "runs": 3,
+  "bestRank": 172,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2221246,
+  "weeksActive": [
+    -5,
+    -3,
+    12
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 220,
+      "ms": 3689958,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 272,
+      "ms": 2863968,
+      "dish": "Turkey"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 172,
+      "ms": 2221246,
+      "dish": "Turkey"
+    }
+  ]
+}

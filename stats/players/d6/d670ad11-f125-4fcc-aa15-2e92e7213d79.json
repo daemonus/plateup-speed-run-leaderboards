@@ -1,0 +1,58 @@
+{
+  "id": "d670ad11-f125-4fcc-aa15-2e92e7213d79",
+  "persona": "Renne1301",
+  "names": [
+    "Renne1301"
+  ],
+  "runs": 5,
+  "bestRank": 193,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2784963,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    57,
+    73
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 461,
+      "ms": 4788795,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 193,
+      "ms": 3002907,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 244,
+      "ms": 2784963,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 301,
+      "ms": 3570362,
+      "dish": "Salad"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 206,
+      "ms": 3532066,
+      "dish": "Burgers"
+    }
+  ]
+}

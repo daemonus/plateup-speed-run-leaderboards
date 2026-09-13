@@ -1,0 +1,58 @@
+{
+  "id": "4fea87f6-dde0-48b1-a7bb-1832c0931627",
+  "persona": "OrthodoxWaffle",
+  "names": [
+    "OrthodoxWaffle"
+  ],
+  "runs": 5,
+  "bestRank": 306,
+  "worstRank": 744,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3480650,
+  "weeksActive": [
+    -18,
+    -16,
+    16,
+    18,
+    20
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 744,
+      "ms": 5323945,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 676,
+      "ms": 5354772,
+      "dish": "Pies"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 397,
+      "ms": 4975116,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 306,
+      "ms": 5774294,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 593,
+      "ms": 3480650,
+      "dish": "Turkey"
+    }
+  ]
+}

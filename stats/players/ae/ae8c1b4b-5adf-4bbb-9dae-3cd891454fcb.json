@@ -1,0 +1,58 @@
+{
+  "id": "ae8c1b4b-5adf-4bbb-9dae-3cd891454fcb",
+  "persona": "gerynmg",
+  "names": [
+    "gerynmg"
+  ],
+  "runs": 5,
+  "bestRank": 81,
+  "worstRank": 223,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2227369,
+  "weeksActive": [
+    32,
+    34,
+    35,
+    36,
+    44
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 144,
+      "ms": 2973331,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 81,
+      "ms": 3008356,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 108,
+      "ms": 2642577,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 100,
+      "ms": 2227369,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 223,
+      "ms": 3125812,
+      "dish": "Breakfast"
+    }
+  ]
+}

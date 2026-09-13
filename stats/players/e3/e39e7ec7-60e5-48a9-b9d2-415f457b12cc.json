@@ -1,0 +1,82 @@
+{
+  "id": "e39e7ec7-60e5-48a9-b9d2-415f457b12cc",
+  "persona": "Small_Yang",
+  "names": [
+    "Small_Yang"
+  ],
+  "runs": 8,
+  "bestRank": 233,
+  "worstRank": 656,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2672133,
+  "weeksActive": [
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 301,
+      "ms": 4125384,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 656,
+      "ms": 3653072,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 337,
+      "ms": 3657391,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 281,
+      "ms": 5413723,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 248,
+      "ms": 4416615,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 263,
+      "ms": 2672133,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 233,
+      "ms": 2693378,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 255,
+      "ms": 3750195,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

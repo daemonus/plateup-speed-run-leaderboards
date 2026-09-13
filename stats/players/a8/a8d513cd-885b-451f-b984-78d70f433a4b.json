@@ -1,0 +1,66 @@
+{
+  "id": "a8d513cd-885b-451f-b984-78d70f433a4b",
+  "persona": "SILVERAIN",
+  "names": [
+    "SILVERAIN"
+  ],
+  "runs": 6,
+  "bestRank": 149,
+  "worstRank": 551,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2127003,
+  "weeksActive": [
+    -3,
+    2,
+    3,
+    4,
+    9,
+    12
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 422,
+      "ms": 3416535,
+      "dish": "Turkey"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 233,
+      "ms": 3673081,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 551,
+      "ms": 3933387,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 334,
+      "ms": 4305428,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 168,
+      "ms": 2928531,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 149,
+      "ms": 2127003,
+      "dish": "Turkey"
+    }
+  ]
+}

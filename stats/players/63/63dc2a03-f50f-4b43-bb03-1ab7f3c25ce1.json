@@ -1,0 +1,50 @@
+{
+  "id": "63dc2a03-f50f-4b43-bb03-1ab7f3c25ce1",
+  "persona": "cheetomonster",
+  "names": [
+    "cheetomonster"
+  ],
+  "runs": 4,
+  "bestRank": 270,
+  "worstRank": 784,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3892666,
+  "weeksActive": [
+    3,
+    10,
+    13,
+    15
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 784,
+      "ms": 5575760,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 270,
+      "ms": 5157002,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 594,
+      "ms": 3970105,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 560,
+      "ms": 3892666,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "776d1efe-c425-4780-ad11-161eff35e10f",
+  "persona": "MrStrange",
+  "names": [
+    "MrStrange"
+  ],
+  "runs": 4,
+  "bestRank": 368,
+  "worstRank": 474,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3454553,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    7
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 368,
+      "ms": 3454553,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 460,
+      "ms": 6254123,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 474,
+      "ms": 5169552,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 423,
+      "ms": 4832064,
+      "dish": "Fish"
+    }
+  ]
+}

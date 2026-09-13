@@ -1,0 +1,50 @@
+{
+  "id": "65a98a27-81d6-4ced-9dea-47d9c5537eb6",
+  "persona": "Pooof",
+  "names": [
+    "Pooof"
+  ],
+  "runs": 4,
+  "bestRank": 361,
+  "worstRank": 2502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3499453,
+  "weeksActive": [
+    -94,
+    -93,
+    -70,
+    -55
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1043,
+      "ms": 3499453,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2502,
+      "ms": 3633815,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 494,
+      "ms": 4865774,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 361,
+      "ms": 3976564,
+      "dish": "Pizza"
+    }
+  ]
+}

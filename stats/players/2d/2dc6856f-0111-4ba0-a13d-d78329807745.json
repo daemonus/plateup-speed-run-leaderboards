@@ -1,0 +1,34 @@
+{
+  "id": "2dc6856f-0111-4ba0-a13d-d78329807745",
+  "persona": "Tina_chan",
+  "names": [
+    "Tina_chan"
+  ],
+  "runs": 2,
+  "bestRank": 333,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3595749,
+  "weeksActive": [
+    -75,
+    -70
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 722,
+      "ms": 3595749,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 333,
+      "ms": 4127982,
+      "dish": "Breakfast"
+    }
+  ]
+}

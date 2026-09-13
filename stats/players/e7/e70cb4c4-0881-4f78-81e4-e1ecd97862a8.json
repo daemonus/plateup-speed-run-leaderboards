@@ -1,0 +1,50 @@
+{
+  "id": "e70cb4c4-0881-4f78-81e4-e1ecd97862a8",
+  "persona": "Risitka",
+  "names": [
+    "Risitka"
+  ],
+  "runs": 4,
+  "bestRank": 404,
+  "worstRank": 997,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3599067,
+  "weeksActive": [
+    -75,
+    -71,
+    -30,
+    -15
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 997,
+      "ms": 4887966,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 918,
+      "ms": 4076947,
+      "dish": "Turkey"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 719,
+      "ms": 3822571,
+      "dish": "Turkey"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 404,
+      "ms": 3599067,
+      "dish": "Fish"
+    }
+  ]
+}

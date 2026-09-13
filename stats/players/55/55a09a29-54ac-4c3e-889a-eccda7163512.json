@@ -1,0 +1,34 @@
+{
+  "id": "55a09a29-54ac-4c3e-889a-eccda7163512",
+  "persona": "cathy",
+  "names": [
+    "cathy"
+  ],
+  "runs": 2,
+  "bestRank": 99,
+  "worstRank": 177,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2055097,
+  "weeksActive": [
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 177,
+      "ms": 2055097,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 99,
+      "ms": 3431525,
+      "dish": "Fajitas"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "5e492327-8bcb-455b-bd07-24e669009d0c",
+  "persona": "SherlockTuring",
+  "names": [
+    "SherlockTuring"
+  ],
+  "runs": 3,
+  "bestRank": 532,
+  "worstRank": 1701,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2937248,
+  "weeksActive": [
+    -93,
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1701,
+      "ms": 2937248,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1159,
+      "ms": 3178783,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 532,
+      "ms": 3145808,
+      "dish": "Fish"
+    }
+  ]
+}

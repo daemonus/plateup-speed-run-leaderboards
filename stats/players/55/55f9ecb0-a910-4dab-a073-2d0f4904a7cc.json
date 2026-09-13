@@ -1,0 +1,42 @@
+{
+  "id": "55f9ecb0-a910-4dab-a073-2d0f4904a7cc",
+  "persona": "Ujif",
+  "names": [
+    "Ujif"
+  ],
+  "runs": 3,
+  "bestRank": 185,
+  "worstRank": 335,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2947483,
+  "weeksActive": [
+    22,
+    23,
+    52
+  ],
+  "history": [
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 185,
+      "ms": 3412869,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 271,
+      "ms": 2947483,
+      "dish": "Turkey"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 335,
+      "ms": 3146174,
+      "dish": "Fish"
+    }
+  ]
+}

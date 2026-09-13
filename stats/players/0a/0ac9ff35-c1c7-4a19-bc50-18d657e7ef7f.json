@@ -1,0 +1,58 @@
+{
+  "id": "0ac9ff35-c1c7-4a19-bc50-18d657e7ef7f",
+  "persona": "Unslim shady",
+  "names": [
+    "Unslim shady"
+  ],
+  "runs": 5,
+  "bestRank": 185,
+  "worstRank": 489,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4130287,
+  "weeksActive": [
+    -15,
+    -14,
+    -13,
+    -10,
+    44
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 482,
+      "ms": 4130287,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 185,
+      "ms": 4424979,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 317,
+      "ms": 4731825,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 227,
+      "ms": 4720682,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 489,
+      "ms": 5768334,
+      "dish": "Breakfast"
+    }
+  ]
+}

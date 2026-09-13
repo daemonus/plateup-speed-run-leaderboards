@@ -1,0 +1,50 @@
+{
+  "id": "173e1bc6-0cc3-469b-b4c3-93e96eb95787",
+  "persona": "Era",
+  "names": [
+    "Era"
+  ],
+  "runs": 4,
+  "bestRank": 112,
+  "worstRank": 322,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3141086,
+  "weeksActive": [
+    -52,
+    -51,
+    -50,
+    -49
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 112,
+      "ms": 3597364,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 322,
+      "ms": 3141086,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 218,
+      "ms": 4445012,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 145,
+      "ms": 3755324,
+      "dish": "Breakfast"
+    }
+  ]
+}

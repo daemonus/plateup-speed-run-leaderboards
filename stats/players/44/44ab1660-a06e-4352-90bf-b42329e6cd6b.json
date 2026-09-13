@@ -1,0 +1,50 @@
+{
+  "id": "44ab1660-a06e-4352-90bf-b42329e6cd6b",
+  "persona": "Chema",
+  "names": [
+    "Chema"
+  ],
+  "runs": 4,
+  "bestRank": 54,
+  "worstRank": 299,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2640949,
+  "weeksActive": [
+    38,
+    39,
+    40,
+    85
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 299,
+      "ms": 3444301,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 54,
+      "ms": 2640949,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 181,
+      "ms": 3531938,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 209,
+      "ms": 3064362,
+      "dish": "Fish"
+    }
+  ]
+}

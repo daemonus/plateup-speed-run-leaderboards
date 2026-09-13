@@ -1,0 +1,50 @@
+{
+  "id": "ddb70c97-f403-42be-9098-676d321a0b60",
+  "persona": "PenguinCute",
+  "names": [
+    "PenguinCute"
+  ],
+  "runs": 4,
+  "bestRank": 273,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3121396,
+  "weeksActive": [
+    43,
+    44,
+    46,
+    47
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 408,
+      "ms": 3121396,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 476,
+      "ms": 5390221,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 354,
+      "ms": 3708242,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 273,
+      "ms": 4287325,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "936605d7-8c95-481a-b47e-d5b50c81f996",
+  "persona": "Klentxa",
+  "names": [
+    "Klentxa"
+  ],
+  "runs": 4,
+  "bestRank": 235,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4118701,
+  "weeksActive": [
+    6,
+    7,
+    10,
+    26
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 424,
+      "ms": 6794189,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 456,
+      "ms": 15095379,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 235,
+      "ms": 4575017,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 288,
+      "ms": 4118701,
+      "dish": "Pizza"
+    }
+  ]
+}

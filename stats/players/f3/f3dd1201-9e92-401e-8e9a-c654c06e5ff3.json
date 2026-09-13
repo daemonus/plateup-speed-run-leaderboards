@@ -1,0 +1,58 @@
+{
+  "id": "f3dd1201-9e92-401e-8e9a-c654c06e5ff3",
+  "persona": "Lucina",
+  "names": [
+    "Lucina"
+  ],
+  "runs": 5,
+  "bestRank": 223,
+  "worstRank": 571,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3120799,
+  "weeksActive": [
+    -72,
+    -71,
+    -60,
+    -59,
+    -43
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 421,
+      "ms": 3914047,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 571,
+      "ms": 3364900,
+      "dish": "Turkey"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 310,
+      "ms": 4098196,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 223,
+      "ms": 3120799,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 249,
+      "ms": 4189369,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

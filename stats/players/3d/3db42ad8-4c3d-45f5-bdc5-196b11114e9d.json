@@ -1,0 +1,42 @@
+{
+  "id": "3db42ad8-4c3d-45f5-bdc5-196b11114e9d",
+  "persona": "Theik",
+  "names": [
+    "Theik"
+  ],
+  "runs": 3,
+  "bestRank": 382,
+  "worstRank": 1233,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2462421,
+  "weeksActive": [
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1233,
+      "ms": 2616962,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 611,
+      "ms": 2462421,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 382,
+      "ms": 2677020,
+      "dish": "Pies"
+    }
+  ]
+}

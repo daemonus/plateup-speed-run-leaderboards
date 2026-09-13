@@ -1,0 +1,42 @@
+{
+  "id": "f693050e-b85b-45ef-b1e8-fd71c23280f5",
+  "persona": "metanacab",
+  "names": [
+    "metanacab"
+  ],
+  "runs": 3,
+  "bestRank": 315,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3671638,
+  "weeksActive": [
+    -6,
+    -5,
+    -2
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 476,
+      "ms": 4625765,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 380,
+      "ms": 4365956,
+      "dish": "Pizza"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 315,
+      "ms": 3671638,
+      "dish": "Pizza"
+    }
+  ]
+}

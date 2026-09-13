@@ -1,0 +1,50 @@
+{
+  "id": "abdae7a7-7ca6-46c2-b5d2-72f8ca7281c4",
+  "persona": "Iron Churry",
+  "names": [
+    "Iron Churry"
+  ],
+  "runs": 4,
+  "bestRank": 195,
+  "worstRank": 486,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4360333,
+  "weeksActive": [
+    -53,
+    -50,
+    -45,
+    -42
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 388,
+      "ms": 5410234,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 208,
+      "ms": 4360333,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 486,
+      "ms": 4587302,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 195,
+      "ms": 4437994,
+      "dish": "Burgers"
+    }
+  ]
+}

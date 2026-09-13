@@ -1,0 +1,42 @@
+{
+  "id": "dc51018d-4065-4a97-ba64-4e3888aa132f",
+  "persona": "Barbabulle",
+  "names": [
+    "Barbabulle"
+  ],
+  "runs": 3,
+  "bestRank": 224,
+  "worstRank": 264,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3202562,
+  "weeksActive": [
+    -58,
+    -57,
+    -56
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 248,
+      "ms": 5086004,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 224,
+      "ms": 4105051,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 264,
+      "ms": 3202562,
+      "dish": "Breakfast"
+    }
+  ]
+}

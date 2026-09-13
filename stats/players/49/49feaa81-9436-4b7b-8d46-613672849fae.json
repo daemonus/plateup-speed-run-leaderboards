@@ -1,0 +1,42 @@
+{
+  "id": "49feaa81-9436-4b7b-8d46-613672849fae",
+  "persona": "kyo-ka",
+  "names": [
+    "kyo-ka"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2434246,
+  "weeksActive": [
+    15,
+    16,
+    30
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 205,
+      "ms": 2434246,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 309,
+      "ms": 4481174,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 440,
+      "ms": 4718396,
+      "dish": "Breakfast"
+    }
+  ]
+}

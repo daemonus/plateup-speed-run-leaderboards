@@ -1,0 +1,50 @@
+{
+  "id": "971dfbd1-008a-451b-be6b-0667495585db",
+  "persona": "KaisKlobigeKeule",
+  "names": [
+    "KaisKlobigeKeule"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2722269,
+  "weeksActive": [
+    -71,
+    -61,
+    -47,
+    -25
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 383,
+      "ms": 2980139,
+      "dish": "Turkey"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 134,
+      "ms": 2722269,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 415,
+      "ms": 4793154,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 417,
+      "ms": 4303274,
+      "dish": "Breakfast"
+    }
+  ]
+}

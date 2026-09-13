@@ -1,0 +1,66 @@
+{
+  "id": "20b76261-f887-45e1-aca4-17e8305333f8",
+  "persona": "Seny",
+  "names": [
+    "Seny"
+  ],
+  "runs": 6,
+  "bestRank": 126,
+  "worstRank": 997,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2252816,
+  "weeksActive": [
+    -91,
+    -90,
+    -88,
+    -84,
+    -83,
+    -79
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 841,
+      "ms": 2743844,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 997,
+      "ms": 3732589,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 393,
+      "ms": 3316837,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 126,
+      "ms": 2252816,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 200,
+      "ms": 2827555,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 264,
+      "ms": 3602328,
+      "dish": "Pies"
+    }
+  ]
+}

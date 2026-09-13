@@ -1,0 +1,50 @@
+{
+  "id": "f4b1d244-2a02-462e-a9a5-4518c5429150",
+  "persona": "kileedo",
+  "names": [
+    "kileedo"
+  ],
+  "runs": 4,
+  "bestRank": 266,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3253338,
+  "weeksActive": [
+    26,
+    27,
+    28,
+    30
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 408,
+      "ms": 6414435,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 314,
+      "ms": 7628271,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 266,
+      "ms": 3253338,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 516,
+      "ms": 6293230,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a815cb23-79a3-4332-ab85-250016d0f23a",
+  "persona": "Gggrrr_argh",
+  "names": [
+    "Gggrrr_argh"
+  ],
+  "runs": 3,
+  "bestRank": 33,
+  "worstRank": 42,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2080414,
+  "weeksActive": [
+    -10,
+    1,
+    5
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 35,
+      "ms": 2621306,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 42,
+      "ms": 2080414,
+      "dish": "Pies"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 33,
+      "ms": 2121315,
+      "dish": "Breakfast"
+    }
+  ]
+}

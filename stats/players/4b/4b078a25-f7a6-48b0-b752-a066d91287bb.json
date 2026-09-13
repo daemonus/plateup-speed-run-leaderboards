@@ -1,0 +1,50 @@
+{
+  "id": "4b078a25-f7a6-48b0-b752-a066d91287bb",
+  "persona": "wrnsvv",
+  "names": [
+    "wrnsvv"
+  ],
+  "runs": 4,
+  "bestRank": 300,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3302882,
+  "weeksActive": [
+    33,
+    34,
+    36,
+    54
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 302,
+      "ms": 6315723,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 302,
+      "ms": 4328957,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 313,
+      "ms": 3302882,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 300,
+      "ms": 4997868,
+      "dish": "Burgers"
+    }
+  ]
+}

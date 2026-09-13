@@ -1,0 +1,90 @@
+{
+  "id": "09c931e5-563d-47f8-93b6-8ab73fe89994",
+  "persona": "jolajna",
+  "names": [
+    "jolajna"
+  ],
+  "runs": 9,
+  "bestRank": 83,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3208423,
+  "weeksActive": [
+    -20,
+    -16,
+    -10,
+    -7,
+    -6,
+    21,
+    22,
+    25,
+    33
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 536,
+      "ms": 5394233,
+      "dish": "Burgers"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 345,
+      "ms": 3444724,
+      "dish": "Pies"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 83,
+      "ms": 3262099,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 168,
+      "ms": 3944944,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 146,
+      "ms": 3208423,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 495,
+      "ms": 6164910,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 231,
+      "ms": 3840181,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 111,
+      "ms": 3915749,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 123,
+      "ms": 3261770,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

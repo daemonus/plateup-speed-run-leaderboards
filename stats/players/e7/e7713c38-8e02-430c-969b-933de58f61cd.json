@@ -1,0 +1,42 @@
+{
+  "id": "e7713c38-8e02-430c-969b-933de58f61cd",
+  "persona": "Dizzar",
+  "names": [
+    "Dizzar"
+  ],
+  "runs": 3,
+  "bestRank": 105,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3455346,
+  "weeksActive": [
+    -56,
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 349,
+      "ms": 3588537,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 255,
+      "ms": 3455346,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 105,
+      "ms": 3779509,
+      "dish": "Salad"
+    }
+  ]
+}

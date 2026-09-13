@@ -1,0 +1,34 @@
+{
+  "id": "aadb599d-67ba-4740-87e2-582553c1f5e2",
+  "persona": "Jefkis",
+  "names": [
+    "Jefkis"
+  ],
+  "runs": 2,
+  "bestRank": 260,
+  "worstRank": 908,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4573478,
+  "weeksActive": [
+    -88,
+    40
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 908,
+      "ms": 6761189,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 260,
+      "ms": 4573478,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

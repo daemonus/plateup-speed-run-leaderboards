@@ -1,0 +1,74 @@
+{
+  "id": "5720009e-3d74-4414-8a7f-339ad4a0a734",
+  "persona": "vortex",
+  "names": [
+    "vortex"
+  ],
+  "runs": 7,
+  "bestRank": 76,
+  "worstRank": 281,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1837864,
+  "weeksActive": [
+    54,
+    55,
+    56,
+    59,
+    60,
+    61,
+    71
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 273,
+      "ms": 4594276,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 92,
+      "ms": 3062788,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 186,
+      "ms": 1837864,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 281,
+      "ms": 3713352,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 145,
+      "ms": 3047722,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 76,
+      "ms": 2408040,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 121,
+      "ms": 2730402,
+      "dish": "Pizza"
+    }
+  ]
+}

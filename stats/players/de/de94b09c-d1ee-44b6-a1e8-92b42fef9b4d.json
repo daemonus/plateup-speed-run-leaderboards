@@ -1,0 +1,34 @@
+{
+  "id": "de94b09c-d1ee-44b6-a1e8-92b42fef9b4d",
+  "persona": "cookedover",
+  "names": [
+    "cookedover"
+  ],
+  "runs": 2,
+  "bestRank": 209,
+  "worstRank": 558,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3222578,
+  "weeksActive": [
+    -86,
+    71
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 558,
+      "ms": 3222578,
+      "dish": "Fish"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 209,
+      "ms": 3234400,
+      "dish": "Pizza"
+    }
+  ]
+}

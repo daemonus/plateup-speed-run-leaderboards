@@ -1,0 +1,42 @@
+{
+  "id": "275ffb81-225d-4fb8-88a8-85cb9f332f4f",
+  "persona": "\u3044\u306C",
+  "names": [
+    "\u3044\u306C"
+  ],
+  "runs": 3,
+  "bestRank": 229,
+  "worstRank": 570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3488718,
+  "weeksActive": [
+    -51,
+    -2,
+    0
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 570,
+      "ms": 4013007,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 292,
+      "ms": 3488718,
+      "dish": "Pizza"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 229,
+      "ms": 4124573,
+      "dish": "Stir Fry"
+    }
+  ]
+}

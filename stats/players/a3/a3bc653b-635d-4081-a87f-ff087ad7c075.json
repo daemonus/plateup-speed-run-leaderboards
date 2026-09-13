@@ -1,0 +1,34 @@
+{
+  "id": "a3bc653b-635d-4081-a87f-ff087ad7c075",
+  "persona": "Miaster",
+  "names": [
+    "Miaster"
+  ],
+  "runs": 2,
+  "bestRank": 44,
+  "worstRank": 139,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2237721,
+  "weeksActive": [
+    75,
+    76
+  ],
+  "history": [
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 44,
+      "ms": 2237721,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 139,
+      "ms": 3371284,
+      "dish": "Salad"
+    }
+  ]
+}

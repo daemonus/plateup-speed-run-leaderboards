@@ -1,0 +1,58 @@
+{
+  "id": "8b24552e-976a-4182-b2dc-ea767dfd621c",
+  "persona": "BU4KS",
+  "names": [
+    "BU4KS"
+  ],
+  "runs": 5,
+  "bestRank": 39,
+  "worstRank": 370,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2025745,
+  "weeksActive": [
+    -61,
+    -60,
+    -55,
+    -46,
+    -16
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 39,
+      "ms": 2025745,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 125,
+      "ms": 3180847,
+      "dish": "Burgers"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 160,
+      "ms": 3068563,
+      "dish": "Pizza"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 370,
+      "ms": 4407711,
+      "dish": "Salad"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 299,
+      "ms": 3275491,
+      "dish": "Pies"
+    }
+  ]
+}

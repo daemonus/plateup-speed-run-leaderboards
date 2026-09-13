@@ -1,0 +1,50 @@
+{
+  "id": "b5a787d7-4a3d-4e9c-93c3-43e6e5aab76b",
+  "persona": "PhoenixPhonetics",
+  "names": [
+    "PhoenixPhonetics"
+  ],
+  "runs": 4,
+  "bestRank": 182,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2466626,
+  "weeksActive": [
+    5,
+    12,
+    13,
+    41
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 269,
+      "ms": 3936392,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 274,
+      "ms": 2736309,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 182,
+      "ms": 2466626,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 491,
+      "ms": 2968515,
+      "dish": "Turkey"
+    }
+  ]
+}

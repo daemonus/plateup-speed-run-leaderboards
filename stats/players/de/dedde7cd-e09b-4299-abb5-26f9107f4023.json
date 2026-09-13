@@ -1,0 +1,66 @@
+{
+  "id": "dedde7cd-e09b-4299-abb5-26f9107f4023",
+  "persona": "Scyphoza",
+  "names": [
+    "Scyphoza"
+  ],
+  "runs": 6,
+  "bestRank": 278,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3122237,
+  "weeksActive": [
+    -76,
+    -74,
+    -73,
+    52,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 722,
+      "ms": 3823717,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 449,
+      "ms": 4386306,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 278,
+      "ms": 5121215,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 705,
+      "ms": 10047737,
+      "dish": "Fish"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 404,
+      "ms": 4782953,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 358,
+      "ms": 3122237,
+      "dish": "Sundaes"
+    }
+  ]
+}

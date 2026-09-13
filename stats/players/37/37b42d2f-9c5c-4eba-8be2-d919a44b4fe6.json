@@ -1,0 +1,42 @@
+{
+  "id": "37b42d2f-9c5c-4eba-8be2-d919a44b4fe6",
+  "persona": "peanutfolk",
+  "names": [
+    "peanutfolk"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 518,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2942606,
+  "weeksActive": [
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 360,
+      "ms": 3228815,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 377,
+      "ms": 2942606,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 518,
+      "ms": 3096553,
+      "dish": "Fish"
+    }
+  ]
+}

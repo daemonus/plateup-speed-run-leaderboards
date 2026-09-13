@@ -1,0 +1,34 @@
+{
+  "id": "b8ae140e-099a-4ba5-913c-3c767648a195",
+  "persona": "FourBees",
+  "names": [
+    "FourBees"
+  ],
+  "runs": 2,
+  "bestRank": 513,
+  "worstRank": 1080,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4640303,
+  "weeksActive": [
+    -71,
+    16
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1080,
+      "ms": 4640303,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 513,
+      "ms": 6339687,
+      "dish": "Stir Fry"
+    }
+  ]
+}

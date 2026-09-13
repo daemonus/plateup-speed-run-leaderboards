@@ -1,0 +1,42 @@
+{
+  "id": "e965860d-27cd-4e86-9550-dc4446d84477",
+  "persona": "0x2A",
+  "names": [
+    "0x2A"
+  ],
+  "runs": 3,
+  "bestRank": 38,
+  "worstRank": 184,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2015482,
+  "weeksActive": [
+    -12,
+    -2,
+    26
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 184,
+      "ms": 3442405,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 38,
+      "ms": 2015482,
+      "dish": "Pizza"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 77,
+      "ms": 2567194,
+      "dish": "Pizza"
+    }
+  ]
+}

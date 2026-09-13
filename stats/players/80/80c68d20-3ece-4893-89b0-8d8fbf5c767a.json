@@ -1,0 +1,50 @@
+{
+  "id": "80c68d20-3ece-4893-89b0-8d8fbf5c767a",
+  "persona": "EL",
+  "names": [
+    "EL"
+  ],
+  "runs": 4,
+  "bestRank": 142,
+  "worstRank": 302,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3691486,
+  "weeksActive": [
+    35,
+    37,
+    39,
+    67
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 274,
+      "ms": 3736732,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 142,
+      "ms": 3691486,
+      "dish": "Burgers"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 207,
+      "ms": 3986387,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 302,
+      "ms": 4125730,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

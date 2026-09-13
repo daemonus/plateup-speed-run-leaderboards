@@ -1,0 +1,42 @@
+{
+  "id": "7dbf9b70-ba37-403e-b796-f25f1f239b13",
+  "persona": "Tallonis",
+  "names": [
+    "Tallonis"
+  ],
+  "runs": 3,
+  "bestRank": 515,
+  "worstRank": 938,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5223917,
+  "weeksActive": [
+    8,
+    9,
+    16
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 938,
+      "ms": 5223917,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 515,
+      "ms": 5903587,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 559,
+      "ms": 8585636,
+      "dish": "Stir Fry"
+    }
+  ]
+}

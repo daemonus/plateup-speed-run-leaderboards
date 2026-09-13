@@ -1,0 +1,58 @@
+{
+  "id": "116d03df-d8a6-4761-b9be-15eee1419cd4",
+  "persona": "INSHIMAJIRI",
+  "names": [
+    "INSHIMAJIRI"
+  ],
+  "runs": 5,
+  "bestRank": 113,
+  "worstRank": 242,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2301388,
+  "weeksActive": [
+    14,
+    15,
+    16,
+    17,
+    63
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 242,
+      "ms": 3629737,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 173,
+      "ms": 2301388,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 113,
+      "ms": 3373401,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 136,
+      "ms": 3110817,
+      "dish": "Pizza"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 205,
+      "ms": 2868637,
+      "dish": "Pizza"
+    }
+  ]
+}

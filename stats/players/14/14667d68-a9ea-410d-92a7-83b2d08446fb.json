@@ -1,0 +1,58 @@
+{
+  "id": "14667d68-a9ea-410d-92a7-83b2d08446fb",
+  "persona": "ness",
+  "names": [
+    "ness"
+  ],
+  "runs": 5,
+  "bestRank": 73,
+  "worstRank": 247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2520245,
+  "weeksActive": [
+    7,
+    9,
+    12,
+    29,
+    31
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 122,
+      "ms": 2787332,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 130,
+      "ms": 2771528,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 247,
+      "ms": 2617700,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 73,
+      "ms": 2889588,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 127,
+      "ms": 2520245,
+      "dish": "Fish"
+    }
+  ]
+}

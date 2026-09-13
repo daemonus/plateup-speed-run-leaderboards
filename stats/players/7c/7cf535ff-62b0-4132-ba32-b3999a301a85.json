@@ -1,0 +1,58 @@
+{
+  "id": "7cf535ff-62b0-4132-ba32-b3999a301a85",
+  "persona": "zirigor",
+  "names": [
+    "zirigor"
+  ],
+  "runs": 5,
+  "bestRank": 191,
+  "worstRank": 633,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2179508,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -88,
+    -85
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 418,
+      "ms": 2736075,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 597,
+      "ms": 2179508,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 633,
+      "ms": 2491091,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 191,
+      "ms": 2650246,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 231,
+      "ms": 4136427,
+      "dish": "Stir Fry"
+    }
+  ]
+}

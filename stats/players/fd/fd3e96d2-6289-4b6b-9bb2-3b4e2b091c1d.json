@@ -1,0 +1,58 @@
+{
+  "id": "fd3e96d2-6289-4b6b-9bb2-3b4e2b091c1d",
+  "persona": "AXL",
+  "names": [
+    "AXL"
+  ],
+  "runs": 5,
+  "bestRank": 224,
+  "worstRank": 524,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2456258,
+  "weeksActive": [
+    62,
+    63,
+    64,
+    66,
+    68
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 524,
+      "ms": 4713367,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 249,
+      "ms": 3044290,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 379,
+      "ms": 2456258,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 224,
+      "ms": 3025132,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 240,
+      "ms": 2773659,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "413825c0-3f30-42b4-9b8d-142f26ee1daf",
+  "persona": "michael.hodgins7",
+  "names": [
+    "michael.hodgins7"
+  ],
+  "runs": 4,
+  "bestRank": 72,
+  "worstRank": 1391,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2414125,
+  "weeksActive": [
+    -91,
+    -47,
+    -46,
+    -39
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1391,
+      "ms": 3562335,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 72,
+      "ms": 2809318,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 165,
+      "ms": 3436436,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 93,
+      "ms": 2414125,
+      "dish": "Pizza"
+    }
+  ]
+}

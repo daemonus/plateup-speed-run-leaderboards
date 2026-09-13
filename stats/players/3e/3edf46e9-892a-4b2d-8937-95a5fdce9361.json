@@ -1,0 +1,34 @@
+{
+  "id": "3edf46e9-892a-4b2d-8937-95a5fdce9361",
+  "persona": "xen",
+  "names": [
+    "xen"
+  ],
+  "runs": 2,
+  "bestRank": 383,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3516015,
+  "weeksActive": [
+    -33,
+    -31
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 383,
+      "ms": 4684493,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 387,
+      "ms": 3516015,
+      "dish": "Pies"
+    }
+  ]
+}

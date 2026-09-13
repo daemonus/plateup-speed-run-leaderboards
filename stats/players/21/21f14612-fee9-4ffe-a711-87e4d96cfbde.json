@@ -1,0 +1,42 @@
+{
+  "id": "21f14612-fee9-4ffe-a711-87e4d96cfbde",
+  "persona": "Aerilion",
+  "names": [
+    "Aerilion"
+  ],
+  "runs": 3,
+  "bestRank": 308,
+  "worstRank": 1117,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3113402,
+  "weeksActive": [
+    -91,
+    -64,
+    -62
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1117,
+      "ms": 3113402,
+      "dish": "Fish"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 308,
+      "ms": 4179382,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 438,
+      "ms": 3997993,
+      "dish": "Breakfast"
+    }
+  ]
+}

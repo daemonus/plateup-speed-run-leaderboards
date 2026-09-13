@@ -1,0 +1,58 @@
+{
+  "id": "e5bf3f19-d1e8-4cba-ab2d-07f3bce213ce",
+  "persona": "Cflow",
+  "names": [
+    "Cflow"
+  ],
+  "runs": 5,
+  "bestRank": 115,
+  "worstRank": 301,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2694812,
+  "weeksActive": [
+    33,
+    65,
+    66,
+    67,
+    70
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 143,
+      "ms": 3384906,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 301,
+      "ms": 4036605,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 250,
+      "ms": 3180807,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 115,
+      "ms": 2694812,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 191,
+      "ms": 3511934,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

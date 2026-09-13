@@ -1,0 +1,34 @@
+{
+  "id": "581f6210-79e0-4761-a5f3-0c85920cfa8b",
+  "persona": "Roger",
+  "names": [
+    "Roger"
+  ],
+  "runs": 2,
+  "bestRank": 497,
+  "worstRank": 949,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3207541,
+  "weeksActive": [
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 497,
+      "ms": 3207541,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 949,
+      "ms": 5321861,
+      "dish": "Fish"
+    }
+  ]
+}

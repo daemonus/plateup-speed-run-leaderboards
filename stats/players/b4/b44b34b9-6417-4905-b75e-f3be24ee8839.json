@@ -1,0 +1,42 @@
+{
+  "id": "b44b34b9-6417-4905-b75e-f3be24ee8839",
+  "persona": "Dean Winchester",
+  "names": [
+    "Dean Winchester"
+  ],
+  "runs": 3,
+  "bestRank": 220,
+  "worstRank": 350,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2466976,
+  "weeksActive": [
+    17,
+    41,
+    43
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 220,
+      "ms": 3907253,
+      "dish": "Pizza"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 341,
+      "ms": 2466976,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 350,
+      "ms": 2935896,
+      "dish": "Fish"
+    }
+  ]
+}

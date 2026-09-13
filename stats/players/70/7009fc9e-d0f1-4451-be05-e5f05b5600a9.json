@@ -1,0 +1,42 @@
+{
+  "id": "7009fc9e-d0f1-4451-be05-e5f05b5600a9",
+  "persona": "CZ",
+  "names": [
+    "CZ"
+  ],
+  "runs": 3,
+  "bestRank": 312,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4483396,
+  "weeksActive": [
+    -18,
+    -13,
+    9
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 594,
+      "ms": 4483396,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 312,
+      "ms": 4650505,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 489,
+      "ms": 5055210,
+      "dish": "Breakfast"
+    }
+  ]
+}

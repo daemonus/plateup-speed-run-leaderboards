@@ -1,0 +1,66 @@
+{
+  "id": "e96562d1-ca86-43e2-9fa7-d65b43ec797d",
+  "persona": "SaltLine",
+  "names": [
+    "SaltLine"
+  ],
+  "runs": 6,
+  "bestRank": 143,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2827666,
+  "weeksActive": [
+    25,
+    28,
+    33,
+    35,
+    56,
+    86
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 211,
+      "ms": 5803030,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 377,
+      "ms": 4386431,
+      "dish": "Turkey"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 173,
+      "ms": 3647508,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 143,
+      "ms": 2876982,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 582,
+      "ms": 3021246,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 310,
+      "ms": 2827666,
+      "dish": "Sundaes"
+    }
+  ]
+}

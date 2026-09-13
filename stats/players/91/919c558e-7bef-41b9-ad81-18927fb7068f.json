@@ -1,0 +1,50 @@
+{
+  "id": "919c558e-7bef-41b9-ad81-18927fb7068f",
+  "persona": "Coliro",
+  "names": [
+    "Coliro"
+  ],
+  "runs": 4,
+  "bestRank": 142,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2638510,
+  "weeksActive": [
+    -77,
+    -75,
+    -71,
+    -59
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 167,
+      "ms": 2638510,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 497,
+      "ms": 3038331,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 499,
+      "ms": 3197868,
+      "dish": "Turkey"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 142,
+      "ms": 2746966,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

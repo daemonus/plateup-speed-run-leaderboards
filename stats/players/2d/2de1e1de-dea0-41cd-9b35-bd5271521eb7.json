@@ -1,0 +1,74 @@
+{
+  "id": "2de1e1de-dea0-41cd-9b35-bd5271521eb7",
+  "persona": "Revlak",
+  "names": [
+    "Revlak"
+  ],
+  "runs": 7,
+  "bestRank": 212,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3141808,
+  "weeksActive": [
+    32,
+    35,
+    71,
+    72,
+    74,
+    75,
+    77
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 239,
+      "ms": 3618373,
+      "dish": "Pies"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 244,
+      "ms": 3546705,
+      "dish": "Fish"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 216,
+      "ms": 3286776,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 247,
+      "ms": 3693508,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 212,
+      "ms": 3909266,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 249,
+      "ms": 3909247,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 291,
+      "ms": 3141808,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a1fd9ecc-f616-4874-83e7-640c77b67fa1",
+  "persona": "Isto Arisa",
+  "names": [
+    "Isto Arisa"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2370742,
+  "weeksActive": [
+    47,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 203,
+      "ms": 3663197,
+      "dish": "Pizza"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 306,
+      "ms": 3235701,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 352,
+      "ms": 2370742,
+      "dish": "Sundaes"
+    }
+  ]
+}

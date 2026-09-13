@@ -1,0 +1,58 @@
+{
+  "id": "0801109f-681c-4914-a4f7-618fe1cc7925",
+  "persona": "MsYuki",
+  "names": [
+    "MsYuki"
+  ],
+  "runs": 5,
+  "bestRank": 113,
+  "worstRank": 743,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2468248,
+  "weeksActive": [
+    -91,
+    -90,
+    -47,
+    -19,
+    -4
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 618,
+      "ms": 2468248,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 743,
+      "ms": 3124561,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 113,
+      "ms": 3071060,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 172,
+      "ms": 3139275,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 226,
+      "ms": 3125931,
+      "dish": "Pies"
+    }
+  ]
+}

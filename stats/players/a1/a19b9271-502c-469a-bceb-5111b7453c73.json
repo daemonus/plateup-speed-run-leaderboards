@@ -1,0 +1,66 @@
+{
+  "id": "a19b9271-502c-469a-bceb-5111b7453c73",
+  "persona": "Ph\u00E4era",
+  "names": [
+    "Ph\u00E4era"
+  ],
+  "runs": 6,
+  "bestRank": 218,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2583997,
+  "weeksActive": [
+    17,
+    31,
+    33,
+    38,
+    43,
+    64
+  ],
+  "history": [
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 218,
+      "ms": 3854313,
+      "dish": "Pizza"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 561,
+      "ms": 4698854,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 241,
+      "ms": 4555241,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 479,
+      "ms": 4667616,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 445,
+      "ms": 3186518,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 438,
+      "ms": 2583997,
+      "dish": "Sundaes"
+    }
+  ]
+}

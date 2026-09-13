@@ -1,0 +1,90 @@
+{
+  "id": "e7545639-142c-4322-b621-3b32b4ff6bdf",
+  "persona": "sorilian",
+  "names": [
+    "sorilian"
+  ],
+  "runs": 9,
+  "bestRank": 180,
+  "worstRank": 875,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2972766,
+  "weeksActive": [
+    -37,
+    -30,
+    -26,
+    -25,
+    -18,
+    -12,
+    -11,
+    -8,
+    -3
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 875,
+      "ms": 4612726,
+      "dish": "Fish"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 416,
+      "ms": 3009696,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 278,
+      "ms": 4270629,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 601,
+      "ms": 5177004,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 637,
+      "ms": 4669271,
+      "dish": "Fish"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 254,
+      "ms": 4281807,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 180,
+      "ms": 4985078,
+      "dish": "Burgers"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 274,
+      "ms": 4942586,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 303,
+      "ms": 2972766,
+      "dish": "Turkey"
+    }
+  ]
+}

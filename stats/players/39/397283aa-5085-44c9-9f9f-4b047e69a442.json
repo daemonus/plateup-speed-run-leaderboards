@@ -1,0 +1,34 @@
+{
+  "id": "397283aa-5085-44c9-9f9f-4b047e69a442",
+  "persona": "huefoo",
+  "names": [
+    "huefoo"
+  ],
+  "runs": 2,
+  "bestRank": 664,
+  "worstRank": 777,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3756180,
+  "weeksActive": [
+    -77,
+    -75
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 664,
+      "ms": 4092807,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 777,
+      "ms": 3756180,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "08f9085b-78a0-4457-9ad5-476f42b3ead9",
+  "persona": "Lexington Streakless",
+  "names": [
+    "Lexington Streakless"
+  ],
+  "runs": 4,
+  "bestRank": 119,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3425693,
+  "weeksActive": [
+    -52,
+    21,
+    29,
+    62
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 119,
+      "ms": 3632327,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 266,
+      "ms": 3425693,
+      "dish": "Burgers"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 131,
+      "ms": 3661166,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 364,
+      "ms": 3741009,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d3754a52-3596-4dca-87f3-da250c6da956",
+  "persona": "Watson_IMW",
+  "names": [
+    "Watson_IMW"
+  ],
+  "runs": 2,
+  "bestRank": 271,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3206146,
+  "weeksActive": [
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 271,
+      "ms": 3206146,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 468,
+      "ms": 7146647,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8e46b080-aa8a-448d-9fa0-855d21ada764",
+  "persona": "Chave007",
+  "names": [
+    "Chave007"
+  ],
+  "runs": 3,
+  "bestRank": 242,
+  "worstRank": 630,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3698364,
+  "weeksActive": [
+    31,
+    41,
+    42
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 506,
+      "ms": 4294078,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 630,
+      "ms": 3698364,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 242,
+      "ms": 4990828,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

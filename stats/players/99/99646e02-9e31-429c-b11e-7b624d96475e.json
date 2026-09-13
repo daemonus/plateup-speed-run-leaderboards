@@ -1,0 +1,34 @@
+{
+  "id": "99646e02-9e31-429c-b11e-7b624d96475e",
+  "persona": "Michael Scarn",
+  "names": [
+    "Michael Scarn"
+  ],
+  "runs": 2,
+  "bestRank": 253,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5313472,
+  "weeksActive": [
+    -10,
+    2
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 253,
+      "ms": 5388921,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 429,
+      "ms": 5313472,
+      "dish": "Breakfast"
+    }
+  ]
+}

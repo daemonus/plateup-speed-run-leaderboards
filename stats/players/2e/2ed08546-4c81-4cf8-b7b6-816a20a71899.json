@@ -1,0 +1,58 @@
+{
+  "id": "2ed08546-4c81-4cf8-b7b6-816a20a71899",
+  "persona": "Federweiser",
+  "names": [
+    "Federweiser"
+  ],
+  "runs": 5,
+  "bestRank": 176,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3506423,
+  "weeksActive": [
+    37,
+    38,
+    39,
+    40,
+    43
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 253,
+      "ms": 5709554,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 402,
+      "ms": 3971682,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 191,
+      "ms": 3842271,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 176,
+      "ms": 3508590,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 536,
+      "ms": 3506423,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "086e3fbb-ad82-432a-85c9-123a9683c5bf",
+  "persona": "FrunBun",
+  "names": [
+    "FrunBun"
+  ],
+  "runs": 6,
+  "bestRank": 233,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2467537,
+  "weeksActive": [
+    -89,
+    -88,
+    -47,
+    2,
+    3,
+    7
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 306,
+      "ms": 2467537,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 578,
+      "ms": 4034053,
+      "dish": "Pies"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 233,
+      "ms": 3636133,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 282,
+      "ms": 4061697,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 449,
+      "ms": 3688680,
+      "dish": "Fish"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 243,
+      "ms": 3277192,
+      "dish": "Fish"
+    }
+  ]
+}

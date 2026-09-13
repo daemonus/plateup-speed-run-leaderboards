@@ -1,0 +1,34 @@
+{
+  "id": "321cbae4-b39b-4632-8d64-1a3d357b43ce",
+  "persona": "Meh",
+  "names": [
+    "Meh"
+  ],
+  "runs": 2,
+  "bestRank": 129,
+  "worstRank": 133,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3072535,
+  "weeksActive": [
+    -26,
+    -25
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 129,
+      "ms": 3350966,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 133,
+      "ms": 3072535,
+      "dish": "Breakfast"
+    }
+  ]
+}

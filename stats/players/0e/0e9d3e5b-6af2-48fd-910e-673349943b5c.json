@@ -1,0 +1,58 @@
+{
+  "id": "0e9d3e5b-6af2-48fd-910e-673349943b5c",
+  "persona": "Sir Prised",
+  "names": [
+    "Sir Prised"
+  ],
+  "runs": 5,
+  "bestRank": 73,
+  "worstRank": 238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1553386,
+  "weeksActive": [
+    -59,
+    -57,
+    -21,
+    83,
+    84
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 238,
+      "ms": 3190956,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 187,
+      "ms": 3835680,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 73,
+      "ms": 2397476,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 85,
+      "ms": 1553386,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 99,
+      "ms": 1570716,
+      "dish": "Sundaes"
+    }
+  ]
+}

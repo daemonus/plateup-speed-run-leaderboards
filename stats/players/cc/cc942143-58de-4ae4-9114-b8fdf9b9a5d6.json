@@ -1,0 +1,74 @@
+{
+  "id": "cc942143-58de-4ae4-9114-b8fdf9b9a5d6",
+  "persona": "Rella",
+  "names": [
+    "Rella"
+  ],
+  "runs": 7,
+  "bestRank": 252,
+  "worstRank": 1310,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2436214,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -86,
+    -81,
+    -67
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 492,
+      "ms": 2836881,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 977,
+      "ms": 2436214,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1310,
+      "ms": 3423448,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 542,
+      "ms": 2746839,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 455,
+      "ms": 2951671,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 252,
+      "ms": 3990466,
+      "dish": "Steak"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 518,
+      "ms": 4993400,
+      "dish": "Breakfast"
+    }
+  ]
+}

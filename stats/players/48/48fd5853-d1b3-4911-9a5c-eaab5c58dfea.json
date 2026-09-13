@@ -1,0 +1,34 @@
+{
+  "id": "48fd5853-d1b3-4911-9a5c-eaab5c58dfea",
+  "persona": "Kash",
+  "names": [
+    "Kash"
+  ],
+  "runs": 2,
+  "bestRank": 505,
+  "worstRank": 1363,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2708212,
+  "weeksActive": [
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1363,
+      "ms": 2708212,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 505,
+      "ms": 2993655,
+      "dish": "Pies"
+    }
+  ]
+}

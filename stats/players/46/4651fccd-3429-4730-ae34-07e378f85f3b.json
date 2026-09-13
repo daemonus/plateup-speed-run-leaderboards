@@ -1,0 +1,50 @@
+{
+  "id": "4651fccd-3429-4730-ae34-07e378f85f3b",
+  "persona": "s0w",
+  "names": [
+    "s0w"
+  ],
+  "runs": 4,
+  "bestRank": 107,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2928661,
+  "weeksActive": [
+    -18,
+    -15,
+    -14,
+    -13
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 376,
+      "ms": 3778001,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 242,
+      "ms": 2928661,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 107,
+      "ms": 3572290,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 181,
+      "ms": 3304576,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

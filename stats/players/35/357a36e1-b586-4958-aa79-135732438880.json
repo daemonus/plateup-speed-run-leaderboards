@@ -1,0 +1,34 @@
+{
+  "id": "357a36e1-b586-4958-aa79-135732438880",
+  "persona": "mo",
+  "names": [
+    "mo"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 149,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2855988,
+  "weeksActive": [
+    4,
+    6
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 149,
+      "ms": 3014658,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 110,
+      "ms": 2855988,
+      "dish": "Breakfast"
+    }
+  ]
+}

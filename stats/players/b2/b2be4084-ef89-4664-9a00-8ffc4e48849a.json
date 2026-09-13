@@ -1,0 +1,34 @@
+{
+  "id": "b2be4084-ef89-4664-9a00-8ffc4e48849a",
+  "persona": "Mastok",
+  "names": [
+    "Mastok"
+  ],
+  "runs": 2,
+  "bestRank": 458,
+  "worstRank": 1134,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5598585,
+  "weeksActive": [
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 458,
+      "ms": 6541472,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1134,
+      "ms": 5598585,
+      "dish": "Breakfast"
+    }
+  ]
+}

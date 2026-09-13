@@ -1,0 +1,34 @@
+{
+  "id": "03a6673a-e434-44de-be05-308897d0e408",
+  "persona": "G25",
+  "names": [
+    "G25"
+  ],
+  "runs": 2,
+  "bestRank": 264,
+  "worstRank": 850,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3913408,
+  "weeksActive": [
+    -73,
+    -71
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 264,
+      "ms": 4976690,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 850,
+      "ms": 3913408,
+      "dish": "Turkey"
+    }
+  ]
+}

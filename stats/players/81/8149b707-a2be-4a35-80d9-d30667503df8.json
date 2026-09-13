@@ -1,0 +1,50 @@
+{
+  "id": "8149b707-a2be-4a35-80d9-d30667503df8",
+  "persona": "Snow",
+  "names": [
+    "Snow"
+  ],
+  "runs": 4,
+  "bestRank": 295,
+  "worstRank": 653,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2437864,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -75
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 595,
+      "ms": 2437864,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 653,
+      "ms": 2981659,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 535,
+      "ms": 3056251,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 295,
+      "ms": 2518374,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "a002a70b-9c79-4601-866e-82c9acfcc1de",
+  "persona": "Jaw.R",
+  "names": [
+    "Jaw.R"
+  ],
+  "runs": 6,
+  "bestRank": 25,
+  "worstRank": 421,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1834352,
+  "weeksActive": [
+    -92,
+    -90,
+    -87,
+    -85,
+    4,
+    6
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 172,
+      "ms": 2452007,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 421,
+      "ms": 2503400,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 52,
+      "ms": 2221880,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 70,
+      "ms": 2588689,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 25,
+      "ms": 1834352,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 104,
+      "ms": 2812624,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b2b0e457-9182-419e-878a-15e12acc32de",
+  "persona": "Kira",
+  "names": [
+    "Kira"
+  ],
+  "runs": 4,
+  "bestRank": 356,
+  "worstRank": 537,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4135656,
+  "weeksActive": [
+    -70,
+    -64,
+    -25,
+    -20
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 537,
+      "ms": 5045006,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 356,
+      "ms": 4575308,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 367,
+      "ms": 4135656,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 471,
+      "ms": 4691781,
+      "dish": "Burgers"
+    }
+  ]
+}

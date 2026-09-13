@@ -1,0 +1,42 @@
+{
+  "id": "d4c05e6b-0a1c-4e17-8805-e07be8a15e19",
+  "persona": "HappyDio",
+  "names": [
+    "HappyDio"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3010992,
+  "weeksActive": [
+    -81,
+    -77,
+    -72
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 436,
+      "ms": 6114754,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 275,
+      "ms": 3010992,
+      "dish": "Pies"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 359,
+      "ms": 3717635,
+      "dish": "Pies"
+    }
+  ]
+}

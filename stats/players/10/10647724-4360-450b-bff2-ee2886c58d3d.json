@@ -1,0 +1,58 @@
+{
+  "id": "10647724-4360-450b-bff2-ee2886c58d3d",
+  "persona": "iit___",
+  "names": [
+    "iit___"
+  ],
+  "runs": 5,
+  "bestRank": 365,
+  "worstRank": 2275,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2806824,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2275,
+      "ms": 3368606,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 680,
+      "ms": 4158090,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 895,
+      "ms": 2806824,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 555,
+      "ms": 3083626,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 365,
+      "ms": 3208134,
+      "dish": "Pies"
+    }
+  ]
+}

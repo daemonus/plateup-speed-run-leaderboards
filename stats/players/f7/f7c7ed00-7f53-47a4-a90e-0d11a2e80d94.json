@@ -1,0 +1,58 @@
+{
+  "id": "f7c7ed00-7f53-47a4-a90e-0d11a2e80d94",
+  "persona": "Olle",
+  "names": [
+    "Olle"
+  ],
+  "runs": 5,
+  "bestRank": 202,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4145385,
+  "weeksActive": [
+    75,
+    77,
+    79,
+    85,
+    87
+  ],
+  "history": [
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 267,
+      "ms": 4145385,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 464,
+      "ms": 4692440,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 253,
+      "ms": 5718258,
+      "dish": "Salad"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 382,
+      "ms": 4345870,
+      "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 202,
+      "ms": 5918793,
+      "dish": "Fajitas"
+    }
+  ]
+}

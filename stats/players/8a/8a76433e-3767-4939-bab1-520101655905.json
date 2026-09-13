@@ -1,0 +1,50 @@
+{
+  "id": "8a76433e-3767-4939-bab1-520101655905",
+  "persona": "\u307F\u3061\u3072\u308D",
+  "names": [
+    "\u307F\u3061\u3072\u308D"
+  ],
+  "runs": 4,
+  "bestRank": 74,
+  "worstRank": 139,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1674377,
+  "weeksActive": [
+    76,
+    81,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 74,
+      "ms": 2692819,
+      "dish": "Salad"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 94,
+      "ms": 2855885,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 123,
+      "ms": 1674377,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 139,
+      "ms": 2623700,
+      "dish": "Fish"
+    }
+  ]
+}

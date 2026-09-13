@@ -1,0 +1,50 @@
+{
+  "id": "36e8a50f-3ca4-493d-9aff-61b5ede325c7",
+  "persona": "aa5917598",
+  "names": [
+    "aa5917598"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2314233,
+  "weeksActive": [
+    -25,
+    13,
+    22,
+    74
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 154,
+      "ms": 3216436,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 145,
+      "ms": 2314233,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 165,
+      "ms": 3274374,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 130,
+      "ms": 3265884,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c8fa0e14-06e1-4f85-ac4f-364a10f64470",
+  "persona": "Water House",
+  "names": [
+    "Water House"
+  ],
+  "runs": 2,
+  "bestRank": 168,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2790166,
+  "weeksActive": [
+    -90,
+    -20
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 562,
+      "ms": 2790166,
+      "dish": "Fish"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 168,
+      "ms": 3179605,
+      "dish": "Burgers"
+    }
+  ]
+}

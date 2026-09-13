@@ -1,0 +1,74 @@
+{
+  "id": "bfc56533-eed3-4ada-90f9-fd30dfa39801",
+  "persona": "lotterza",
+  "names": [
+    "lotterza"
+  ],
+  "runs": 7,
+  "bestRank": 270,
+  "worstRank": 1285,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2959502,
+  "weeksActive": [
+    -94,
+    -91,
+    -89,
+    -86,
+    -84,
+    -83,
+    65
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1285,
+      "ms": 3798241,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1077,
+      "ms": 3058856,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 565,
+      "ms": 3103815,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 457,
+      "ms": 2959502,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 363,
+      "ms": 3076699,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 270,
+      "ms": 3099598,
+      "dish": "Steak"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 302,
+      "ms": 4045456,
+      "dish": "Pizza"
+    }
+  ]
+}

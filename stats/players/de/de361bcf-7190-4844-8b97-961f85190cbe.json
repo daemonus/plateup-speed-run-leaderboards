@@ -1,0 +1,34 @@
+{
+  "id": "de361bcf-7190-4844-8b97-961f85190cbe",
+  "persona": "Kat",
+  "names": [
+    "Kat"
+  ],
+  "runs": 2,
+  "bestRank": 112,
+  "worstRank": 145,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2948856,
+  "weeksActive": [
+    40,
+    45
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 112,
+      "ms": 2948856,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 145,
+      "ms": 3823476,
+      "dish": "Salad"
+    }
+  ]
+}

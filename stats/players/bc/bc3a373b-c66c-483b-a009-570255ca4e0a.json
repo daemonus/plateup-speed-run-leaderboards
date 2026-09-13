@@ -1,0 +1,34 @@
+{
+  "id": "bc3a373b-c66c-483b-a009-570255ca4e0a",
+  "persona": "Full Sned",
+  "names": [
+    "Full Sned"
+  ],
+  "runs": 2,
+  "bestRank": 213,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3746742,
+  "weeksActive": [
+    -14,
+    -12
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 284,
+      "ms": 5494901,
+      "dish": "Salad"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 213,
+      "ms": 3746742,
+      "dish": "Breakfast"
+    }
+  ]
+}

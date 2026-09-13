@@ -1,0 +1,50 @@
+{
+  "id": "f4385895-0cc0-4612-8e55-03081ce2ea28",
+  "persona": "leilei",
+  "names": [
+    "leilei"
+  ],
+  "runs": 4,
+  "bestRank": 74,
+  "worstRank": 497,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1551243,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    35
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 497,
+      "ms": 2848184,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 97,
+      "ms": 1551243,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 463,
+      "ms": 2267038,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 74,
+      "ms": 2384751,
+      "dish": "Fish"
+    }
+  ]
+}

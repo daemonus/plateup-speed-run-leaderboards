@@ -1,0 +1,42 @@
+{
+  "id": "cbd84edb-d47d-45b1-a070-120655090dcb",
+  "persona": "asteraion",
+  "names": [
+    "asteraion"
+  ],
+  "runs": 3,
+  "bestRank": 305,
+  "worstRank": 580,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4105405,
+  "weeksActive": [
+    -7,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 305,
+      "ms": 5460294,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 580,
+      "ms": 5787751,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 429,
+      "ms": 4105405,
+      "dish": "Pies"
+    }
+  ]
+}

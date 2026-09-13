@@ -1,0 +1,50 @@
+{
+  "id": "b03a011d-5931-4463-a1e5-fa21173102e8",
+  "persona": "Arisu",
+  "names": [
+    "Arisu"
+  ],
+  "runs": 4,
+  "bestRank": 186,
+  "worstRank": 410,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3031721,
+  "weeksActive": [
+    6,
+    7,
+    9,
+    50
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 347,
+      "ms": 4399982,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 186,
+      "ms": 3031721,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 410,
+      "ms": 4184778,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 218,
+      "ms": 4950769,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c7d309ed-2c8f-4cdf-946e-0c1d42f15465",
+  "persona": "PROTIENSHAKELAKE",
+  "names": [
+    "PROTIENSHAKELAKE"
+  ],
+  "runs": 3,
+  "bestRank": 234,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3462886,
+  "weeksActive": [
+    51,
+    52,
+    54
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 234,
+      "ms": 4105284,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 429,
+      "ms": 3462886,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 276,
+      "ms": 4624718,
+      "dish": "Burgers"
+    }
+  ]
+}

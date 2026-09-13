@@ -1,0 +1,58 @@
+{
+  "id": "d4ab1328-16ae-48dc-bfa5-eea9618dbe02",
+  "persona": "Daeg_K",
+  "names": [
+    "Daeg_K"
+  ],
+  "runs": 5,
+  "bestRank": 94,
+  "worstRank": 527,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1830238,
+  "weeksActive": [
+    -93,
+    -76,
+    -75,
+    -74,
+    -16
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 527,
+      "ms": 2125708,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 110,
+      "ms": 2107054,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 94,
+      "ms": 1830238,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 134,
+      "ms": 2787089,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 235,
+      "ms": 3012895,
+      "dish": "Pies"
+    }
+  ]
+}

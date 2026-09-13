@@ -1,0 +1,42 @@
+{
+  "id": "01252b2c-cbcb-4661-b8a8-645e1555343a",
+  "persona": "R4don",
+  "names": [
+    "R4don"
+  ],
+  "runs": 3,
+  "bestRank": 154,
+  "worstRank": 592,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3448818,
+  "weeksActive": [
+    -30,
+    -28,
+    -27
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 592,
+      "ms": 3448818,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 154,
+      "ms": 4291928,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 158,
+      "ms": 3952407,
+      "dish": "Salad"
+    }
+  ]
+}

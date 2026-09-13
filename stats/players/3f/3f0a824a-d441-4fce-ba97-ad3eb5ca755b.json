@@ -1,0 +1,34 @@
+{
+  "id": "3f0a824a-d441-4fce-ba97-ad3eb5ca755b",
+  "persona": "Pasch",
+  "names": [
+    "Pasch"
+  ],
+  "runs": 2,
+  "bestRank": 367,
+  "worstRank": 567,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3357646,
+  "weeksActive": [
+    -71,
+    -62
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 567,
+      "ms": 3357646,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 367,
+      "ms": 3757393,
+      "dish": "Breakfast"
+    }
+  ]
+}

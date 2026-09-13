@@ -1,0 +1,66 @@
+{
+  "id": "e7751558-bae0-4242-a4cc-fa6776f00cf2",
+  "persona": "Mozo",
+  "names": [
+    "Mozo"
+  ],
+  "runs": 6,
+  "bestRank": 22,
+  "worstRank": 221,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1566380,
+  "weeksActive": [
+    -3,
+    -2,
+    9,
+    11,
+    12,
+    15
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 39,
+      "ms": 1783961,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 221,
+      "ms": 3108822,
+      "dish": "Pizza"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 91,
+      "ms": 2532212,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 22,
+      "ms": 2231468,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 37,
+      "ms": 1566380,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 81,
+      "ms": 1867412,
+      "dish": "Turkey"
+    }
+  ]
+}

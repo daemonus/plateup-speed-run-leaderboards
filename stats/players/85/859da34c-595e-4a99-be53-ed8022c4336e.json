@@ -1,0 +1,50 @@
+{
+  "id": "859da34c-595e-4a99-be53-ed8022c4336e",
+  "persona": "raY",
+  "names": [
+    "raY"
+  ],
+  "runs": 4,
+  "bestRank": 220,
+  "worstRank": 514,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3427542,
+  "weeksActive": [
+    14,
+    15,
+    16,
+    82
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 344,
+      "ms": 5542292,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 449,
+      "ms": 3427542,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 220,
+      "ms": 4003571,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 514,
+      "ms": 4551261,
+      "dish": "Pizza"
+    }
+  ]
+}

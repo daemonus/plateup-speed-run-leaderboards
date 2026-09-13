@@ -1,0 +1,34 @@
+{
+  "id": "093b16c4-727b-417b-81bc-73a502f2aff3",
+  "persona": "Karty",
+  "names": [
+    "Karty"
+  ],
+  "runs": 2,
+  "bestRank": 49,
+  "worstRank": 82,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1788550,
+  "weeksActive": [
+    13,
+    30
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 49,
+      "ms": 1788550,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 82,
+      "ms": 2481077,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2910f5c7-e697-47cd-bada-bec6e269ee30",
+  "persona": "Fain",
+  "names": [
+    "Fain"
+  ],
+  "runs": 2,
+  "bestRank": 300,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4860166,
+  "weeksActive": [
+    68,
+    74
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 561,
+      "ms": 8218921,
+      "dish": "Turkey"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 300,
+      "ms": 4860166,
+      "dish": "Breakfast"
+    }
+  ]
+}

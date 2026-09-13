@@ -1,0 +1,50 @@
+{
+  "id": "1f226c6e-3d88-4f44-a1ba-35918ad2e531",
+  "persona": "kardynal",
+  "names": [
+    "kardynal"
+  ],
+  "runs": 4,
+  "bestRank": 426,
+  "worstRank": 805,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3856584,
+  "weeksActive": [
+    52,
+    56,
+    58,
+    60
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 545,
+      "ms": 3934854,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 805,
+      "ms": 3856584,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 629,
+      "ms": 5017627,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 426,
+      "ms": 6353499,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f0f25b62-dafc-4229-9c44-c7085c0c0524",
+  "persona": "beanie",
+  "names": [
+    "beanie"
+  ],
+  "runs": 2,
+  "bestRank": 424,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2998504,
+  "weeksActive": [
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 566,
+      "ms": 3953069,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 424,
+      "ms": 2998504,
+      "dish": "Turkey"
+    }
+  ]
+}

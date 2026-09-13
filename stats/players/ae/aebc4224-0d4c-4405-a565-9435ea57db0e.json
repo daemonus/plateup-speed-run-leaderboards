@@ -1,0 +1,42 @@
+{
+  "id": "aebc4224-0d4c-4405-a565-9435ea57db0e",
+  "persona": "Tofu",
+  "names": [
+    "Tofu"
+  ],
+  "runs": 3,
+  "bestRank": 251,
+  "worstRank": 2469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2668505,
+  "weeksActive": [
+    -93,
+    -82,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2469,
+      "ms": 3581210,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 251,
+      "ms": 2668505,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 355,
+      "ms": 2939364,
+      "dish": "Turkey"
+    }
+  ]
+}

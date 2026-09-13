@@ -1,0 +1,42 @@
+{
+  "id": "465627f7-7ef8-476a-8e46-24c2e74afc4a",
+  "persona": "Queen Amoeba",
+  "names": [
+    "Queen Amoeba"
+  ],
+  "runs": 3,
+  "bestRank": 104,
+  "worstRank": 150,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3451089,
+  "weeksActive": [
+    -10,
+    -9,
+    79
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 104,
+      "ms": 3451089,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 133,
+      "ms": 4523196,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 150,
+      "ms": 3618590,
+      "dish": "Salad"
+    }
+  ]
+}

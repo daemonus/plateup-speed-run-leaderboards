@@ -1,0 +1,42 @@
+{
+  "id": "6011d62a-db83-4a17-a5ee-d9746e638bd4",
+  "persona": "O.",
+  "names": [
+    "O."
+  ],
+  "runs": 3,
+  "bestRank": 55,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2050642,
+  "weeksActive": [
+    -91,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 562,
+      "ms": 2396840,
+      "dish": "Fish"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 210,
+      "ms": 2391190,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 55,
+      "ms": 2050642,
+      "dish": "Fish"
+    }
+  ]
+}

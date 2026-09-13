@@ -1,0 +1,34 @@
+{
+  "id": "3b0025f4-2b7a-44d8-99aa-bfb533380d7e",
+  "persona": "Keanu",
+  "names": [
+    "Keanu"
+  ],
+  "runs": 2,
+  "bestRank": 165,
+  "worstRank": 287,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3585020,
+  "weeksActive": [
+    54,
+    55
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 287,
+      "ms": 4728093,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 165,
+      "ms": 3585020,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "259f60bb-d0a9-4550-872a-36ccfacfafa0",
+  "persona": "Logison",
+  "names": [
+    "Logison"
+  ],
+  "runs": 6,
+  "bestRank": 110,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1952672,
+  "weeksActive": [
+    -75,
+    12,
+    13,
+    14,
+    18,
+    20
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 438,
+      "ms": 2881849,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 184,
+      "ms": 2316659,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 110,
+      "ms": 2121981,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 211,
+      "ms": 3416836,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 131,
+      "ms": 3353368,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 131,
+      "ms": 1952672,
+      "dish": "Turkey"
+    }
+  ]
+}

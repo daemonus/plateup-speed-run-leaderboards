@@ -1,0 +1,50 @@
+{
+  "id": "6e14688f-2e1b-47ae-926a-1ef601d288fd",
+  "persona": "jmkraemer",
+  "names": [
+    "jmkraemer"
+  ],
+  "runs": 4,
+  "bestRank": 330,
+  "worstRank": 769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3540653,
+  "weeksActive": [
+    -34,
+    -32,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 414,
+      "ms": 4181977,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 515,
+      "ms": 3540653,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 769,
+      "ms": 4019579,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 330,
+      "ms": 3840734,
+      "dish": "Burgers"
+    }
+  ]
+}

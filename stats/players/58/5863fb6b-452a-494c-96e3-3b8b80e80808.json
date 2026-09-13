@@ -1,0 +1,34 @@
+{
+  "id": "5863fb6b-452a-494c-96e3-3b8b80e80808",
+  "persona": "Illegal",
+  "names": [
+    "Illegal"
+  ],
+  "runs": 2,
+  "bestRank": 119,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3636500,
+  "weeksActive": [
+    -70,
+    -69
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 308,
+      "ms": 4034226,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 119,
+      "ms": 3636500,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b10ae981-4903-45f9-b363-54b78be3c060",
+  "persona": "sy",
+  "names": [
+    "sy"
+  ],
+  "runs": 3,
+  "bestRank": 468,
+  "worstRank": 691,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4545709,
+  "weeksActive": [
+    0,
+    1,
+    3
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 500,
+      "ms": 6590233,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 468,
+      "ms": 6349262,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 691,
+      "ms": 4545709,
+      "dish": "Fish"
+    }
+  ]
+}

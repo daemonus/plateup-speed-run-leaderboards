@@ -1,0 +1,34 @@
+{
+  "id": "4553bf14-34c6-4e9f-a3fe-c6599c4fc277",
+  "persona": "po-te",
+  "names": [
+    "po-te"
+  ],
+  "runs": 2,
+  "bestRank": 140,
+  "worstRank": 162,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2826105,
+  "weeksActive": [
+    30,
+    59
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 140,
+      "ms": 2826105,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 162,
+      "ms": 3075920,
+      "dish": "Salad"
+    }
+  ]
+}

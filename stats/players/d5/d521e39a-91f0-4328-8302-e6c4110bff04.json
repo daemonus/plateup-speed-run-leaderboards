@@ -1,0 +1,34 @@
+{
+  "id": "d521e39a-91f0-4328-8302-e6c4110bff04",
+  "persona": "Mork10",
+  "names": [
+    "Mork10"
+  ],
+  "runs": 2,
+  "bestRank": 202,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3586730,
+  "weeksActive": [
+    -50,
+    75
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 260,
+      "ms": 5216190,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 202,
+      "ms": 3586730,
+      "dish": "Pies"
+    }
+  ]
+}

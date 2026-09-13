@@ -1,0 +1,58 @@
+{
+  "id": "44fb8c64-ed20-4d57-b984-bc88ce7eeed4",
+  "persona": "AncientLink",
+  "names": [
+    "AncientLink"
+  ],
+  "runs": 5,
+  "bestRank": 57,
+  "worstRank": 319,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1742520,
+  "weeksActive": [
+    68,
+    84,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 108,
+      "ms": 2145249,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 319,
+      "ms": 2418822,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 116,
+      "ms": 2496535,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 120,
+      "ms": 1742520,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 57,
+      "ms": 3018790,
+      "dish": "Fajitas"
+    }
+  ]
+}

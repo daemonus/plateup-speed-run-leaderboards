@@ -1,0 +1,82 @@
+{
+  "id": "01f3bfaf-84cd-40fd-81dd-3e8211706306",
+  "persona": "KennyFig",
+  "names": [
+    "KennyFig"
+  ],
+  "runs": 8,
+  "bestRank": 30,
+  "worstRank": 123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1583543,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -88,
+    -87,
+    -84,
+    -83,
+    -75
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 112,
+      "ms": 1583543,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 75,
+      "ms": 1615940,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 123,
+      "ms": 1824575,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 119,
+      "ms": 2403600,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 112,
+      "ms": 2547038,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 57,
+      "ms": 1868608,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 30,
+      "ms": 1961801,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 89,
+      "ms": 1813124,
+      "dish": "Fish"
+    }
+  ]
+}

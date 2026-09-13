@@ -1,0 +1,50 @@
+{
+  "id": "6887cd7f-7bc5-43ba-bfce-aa8e9626eefb",
+  "persona": "\u6700\u7231\u5730\u4E09\u9C9C",
+  "names": [
+    "\u6700\u7231\u5730\u4E09\u9C9C"
+  ],
+  "runs": 4,
+  "bestRank": 104,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2728578,
+  "weeksActive": [
+    83,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 419,
+      "ms": 2728578,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 222,
+      "ms": 3148289,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 405,
+      "ms": 3397804,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 104,
+      "ms": 3472684,
+      "dish": "Fajitas"
+    }
+  ]
+}

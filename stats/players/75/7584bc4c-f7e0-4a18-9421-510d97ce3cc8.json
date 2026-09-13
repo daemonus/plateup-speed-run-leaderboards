@@ -1,0 +1,42 @@
+{
+  "id": "7584bc4c-f7e0-4a18-9421-510d97ce3cc8",
+  "persona": "CocoaSurprize",
+  "names": [
+    "CocoaSurprize"
+  ],
+  "runs": 3,
+  "bestRank": 1111,
+  "worstRank": 2938,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3108345,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1620,
+      "ms": 4607621,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2938,
+      "ms": 9420680,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1111,
+      "ms": 3108345,
+      "dish": "Fish"
+    }
+  ]
+}

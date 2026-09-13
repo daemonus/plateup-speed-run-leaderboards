@@ -1,0 +1,42 @@
+{
+  "id": "d0ab73cb-e4e9-48e6-a7f8-aa48d8eb1510",
+  "persona": "ploof",
+  "names": [
+    "ploof"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 69,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1940893,
+  "weeksActive": [
+    -22,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 69,
+      "ms": 2962664,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 44,
+      "ms": 2433355,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 29,
+      "ms": 1940893,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

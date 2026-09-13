@@ -1,0 +1,58 @@
+{
+  "id": "5648054b-4b88-42c3-a470-9bb1d6168fc2",
+  "persona": "kanjukuraimu",
+  "names": [
+    "kanjukuraimu"
+  ],
+  "runs": 5,
+  "bestRank": 36,
+  "worstRank": 190,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1738278,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 190,
+      "ms": 2749980,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 62,
+      "ms": 1738278,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 145,
+      "ms": 2475829,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 36,
+      "ms": 2179995,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 101,
+      "ms": 2570425,
+      "dish": "Pies"
+    }
+  ]
+}

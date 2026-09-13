@@ -1,0 +1,50 @@
+{
+  "id": "99c733e4-43bc-4c61-acba-26491857b6eb",
+  "persona": "Shaelynn",
+  "names": [
+    "Shaelynn"
+  ],
+  "runs": 4,
+  "bestRank": 304,
+  "worstRank": 1423,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2583125,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1423,
+      "ms": 3628301,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 518,
+      "ms": 2695658,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 351,
+      "ms": 2583125,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 304,
+      "ms": 3038150,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "54da02e1-fb61-4ecb-985a-66c77a523c39",
+  "persona": "Got_Chau",
+  "names": [
+    "Got_Chau"
+  ],
+  "runs": 3,
+  "bestRank": 476,
+  "worstRank": 670,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3520856,
+  "weeksActive": [
+    -16,
+    43,
+    46
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 670,
+      "ms": 5258769,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 540,
+      "ms": 3520856,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 476,
+      "ms": 4435151,
+      "dish": "Pizza"
+    }
+  ]
+}

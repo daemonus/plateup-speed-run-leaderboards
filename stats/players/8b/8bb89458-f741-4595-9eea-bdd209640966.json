@@ -1,0 +1,58 @@
+{
+  "id": "8bb89458-f741-4595-9eea-bdd209640966",
+  "persona": "Rtlyeh",
+  "names": [
+    "Rtlyeh"
+  ],
+  "runs": 5,
+  "bestRank": 52,
+  "worstRank": 145,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2675103,
+  "weeksActive": [
+    40,
+    42,
+    44,
+    45,
+    46
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 113,
+      "ms": 2952224,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 87,
+      "ms": 2721268,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 145,
+      "ms": 2794256,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 52,
+      "ms": 2836327,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 128,
+      "ms": 2675103,
+      "dish": "Pizza"
+    }
+  ]
+}

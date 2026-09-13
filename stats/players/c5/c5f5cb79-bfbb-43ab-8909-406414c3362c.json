@@ -1,0 +1,34 @@
+{
+  "id": "c5f5cb79-bfbb-43ab-8909-406414c3362c",
+  "persona": "peripher_sorglos",
+  "names": [
+    "peripher_sorglos"
+  ],
+  "runs": 2,
+  "bestRank": 946,
+  "worstRank": 2586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2878093,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2586,
+      "ms": 3737333,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 946,
+      "ms": 2878093,
+      "dish": "Fish"
+    }
+  ]
+}

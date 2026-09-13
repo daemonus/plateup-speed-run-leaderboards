@@ -1,0 +1,42 @@
+{
+  "id": "5a11dd1c-79f1-4554-8ea7-950c2203ecf9",
+  "persona": "toothpick",
+  "names": [
+    "toothpick"
+  ],
+  "runs": 3,
+  "bestRank": 217,
+  "worstRank": 633,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4355209,
+  "weeksActive": [
+    -51,
+    -49,
+    -43
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 633,
+      "ms": 4355209,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 217,
+      "ms": 4497837,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 298,
+      "ms": 5014482,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7a592978-baba-4d4e-8f91-1aacab8ac62c",
+  "persona": "Pineco",
+  "names": [
+    "Pineco"
+  ],
+  "runs": 4,
+  "bestRank": 267,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3556781,
+  "weeksActive": [
+    27,
+    35,
+    36,
+    63
+  ],
+  "history": [
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 267,
+      "ms": 4487347,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 334,
+      "ms": 4204297,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 464,
+      "ms": 6554460,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 410,
+      "ms": 3556781,
+      "dish": "Pizza"
+    }
+  ]
+}

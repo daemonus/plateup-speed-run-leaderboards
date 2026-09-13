@@ -1,0 +1,50 @@
+{
+  "id": "778f5765-e282-49f3-b5e0-c275582ba519",
+  "persona": "sfilu",
+  "names": [
+    "sfilu"
+  ],
+  "runs": 4,
+  "bestRank": 166,
+  "worstRank": 2451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2738572,
+  "weeksActive": [
+    -93,
+    -73,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2451,
+      "ms": 3559323,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 166,
+      "ms": 4135889,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 215,
+      "ms": 3160706,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 259,
+      "ms": 2738572,
+      "dish": "Turkey"
+    }
+  ]
+}

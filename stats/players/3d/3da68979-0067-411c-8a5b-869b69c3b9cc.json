@@ -1,0 +1,58 @@
+{
+  "id": "3da68979-0067-411c-8a5b-869b69c3b9cc",
+  "persona": "thisislydias18",
+  "names": [
+    "thisislydias18"
+  ],
+  "runs": 5,
+  "bestRank": 283,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3073601,
+  "weeksActive": [
+    63,
+    64,
+    68,
+    71,
+    77
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 596,
+      "ms": 4271519,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 700,
+      "ms": 3249945,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 476,
+      "ms": 4112843,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 403,
+      "ms": 4646922,
+      "dish": "Pizza"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 283,
+      "ms": 3073601,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d3faaffa-c4bc-4aff-b9d5-8e5d310f55a0",
+  "persona": "bbc",
+  "names": [
+    "bbc"
+  ],
+  "runs": 2,
+  "bestRank": 246,
+  "worstRank": 664,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3460083,
+  "weeksActive": [
+    43,
+    53
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 664,
+      "ms": 4174956,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 246,
+      "ms": 3460083,
+      "dish": "Pies"
+    }
+  ]
+}

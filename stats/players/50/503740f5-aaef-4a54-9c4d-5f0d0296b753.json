@@ -1,0 +1,50 @@
+{
+  "id": "503740f5-aaef-4a54-9c4d-5f0d0296b753",
+  "persona": "ilethj",
+  "names": [
+    "ilethj"
+  ],
+  "runs": 4,
+  "bestRank": 217,
+  "worstRank": 765,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3719921,
+  "weeksActive": [
+    -74,
+    -71,
+    53,
+    54
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 593,
+      "ms": 5497277,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 765,
+      "ms": 3719921,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 406,
+      "ms": 4486510,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 217,
+      "ms": 4018953,
+      "dish": "Burgers"
+    }
+  ]
+}

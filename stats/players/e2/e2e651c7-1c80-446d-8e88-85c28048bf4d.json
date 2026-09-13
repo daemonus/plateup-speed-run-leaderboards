@@ -1,0 +1,34 @@
+{
+  "id": "e2e651c7-1c80-446d-8e88-85c28048bf4d",
+  "persona": "Dan",
+  "names": [
+    "Dan"
+  ],
+  "runs": 2,
+  "bestRank": 349,
+  "worstRank": 564,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3627166,
+  "weeksActive": [
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 349,
+      "ms": 4356910,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 564,
+      "ms": 3627166,
+      "dish": "Breakfast"
+    }
+  ]
+}

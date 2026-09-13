@@ -1,0 +1,50 @@
+{
+  "id": "cc40bcb9-279f-4c9b-bb66-b0b778633f9e",
+  "persona": "Mia \u003C3",
+  "names": [
+    "Mia \u003C3"
+  ],
+  "runs": 4,
+  "bestRank": 7,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1450773,
+  "weeksActive": [
+    -66,
+    -64,
+    -63,
+    -62
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 245,
+      "ms": 3886831,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 7,
+      "ms": 1450773,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 162,
+      "ms": 3152492,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 137,
+      "ms": 2881383,
+      "dish": "Breakfast"
+    }
+  ]
+}

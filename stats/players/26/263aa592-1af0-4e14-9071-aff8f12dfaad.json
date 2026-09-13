@@ -1,0 +1,42 @@
+{
+  "id": "263aa592-1af0-4e14-9071-aff8f12dfaad",
+  "persona": "MsTriggaWho",
+  "names": [
+    "MsTriggaWho"
+  ],
+  "runs": 3,
+  "bestRank": 24,
+  "worstRank": 111,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2137030,
+  "weeksActive": [
+    -6,
+    -5,
+    -3
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 24,
+      "ms": 2137030,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 26,
+      "ms": 2225885,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 111,
+      "ms": 2244284,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "3ad5e5e1-2142-4f02-981e-c287be7425e8",
+  "persona": "Hoagie",
+  "names": [
+    "Hoagie"
+  ],
+  "runs": 2,
+  "bestRank": 220,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2914472,
+  "weeksActive": [
+    -67,
+    -44
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 383,
+      "ms": 4212803,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 220,
+      "ms": 2914472,
+      "dish": "Turkey"
+    }
+  ]
+}

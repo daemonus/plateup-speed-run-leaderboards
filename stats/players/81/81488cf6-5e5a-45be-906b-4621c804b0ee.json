@@ -1,0 +1,58 @@
+{
+  "id": "81488cf6-5e5a-45be-906b-4621c804b0ee",
+  "persona": "Marco Del Mondo",
+  "names": [
+    "Marco Del Mondo"
+  ],
+  "runs": 5,
+  "bestRank": 181,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2319123,
+  "weeksActive": [
+    -33,
+    -32,
+    -31,
+    -30,
+    64
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 181,
+      "ms": 3323485,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 516,
+      "ms": 3544727,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 300,
+      "ms": 3292132,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 352,
+      "ms": 2808572,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 327,
+      "ms": 2319123,
+      "dish": "Sundaes"
+    }
+  ]
+}

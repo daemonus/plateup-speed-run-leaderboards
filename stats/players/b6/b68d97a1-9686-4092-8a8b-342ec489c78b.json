@@ -1,0 +1,42 @@
+{
+  "id": "b68d97a1-9686-4092-8a8b-342ec489c78b",
+  "persona": "Arinko",
+  "names": [
+    "Arinko"
+  ],
+  "runs": 3,
+  "bestRank": 144,
+  "worstRank": 263,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2517856,
+  "weeksActive": [
+    1,
+    7,
+    13
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 144,
+      "ms": 3003282,
+      "dish": "Pies"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 263,
+      "ms": 3369535,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 196,
+      "ms": 2517856,
+      "dish": "Turkey"
+    }
+  ]
+}

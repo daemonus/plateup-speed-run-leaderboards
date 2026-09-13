@@ -1,0 +1,146 @@
+{
+  "id": "76e86e1b-1512-4628-8483-2069fc75191d",
+  "persona": "lexecutioner",
+  "names": [
+    "lexecutioner"
+  ],
+  "runs": 16,
+  "bestRank": 67,
+  "worstRank": 543,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2649810,
+  "weeksActive": [
+    -84,
+    -83,
+    -81,
+    -77,
+    -47,
+    -46,
+    -44,
+    -43,
+    -31,
+    -29,
+    -13,
+    -12,
+    -10,
+    -9,
+    4,
+    7
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 543,
+      "ms": 3735371,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 302,
+      "ms": 3281664,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 275,
+      "ms": 4120211,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 394,
+      "ms": 3333421,
+      "dish": "Pies"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 103,
+      "ms": 3030397,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 122,
+      "ms": 3200344,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 182,
+      "ms": 2772189,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 69,
+      "ms": 2649810,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 122,
+      "ms": 2682488,
+      "dish": "Pies"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 86,
+      "ms": 3059941,
+      "dish": "Burgers"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 114,
+      "ms": 2952026,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 84,
+      "ms": 2828146,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 88,
+      "ms": 3322548,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 67,
+      "ms": 3456789,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 124,
+      "ms": 2863100,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 235,
+      "ms": 3242378,
+      "dish": "Fish"
+    }
+  ]
+}

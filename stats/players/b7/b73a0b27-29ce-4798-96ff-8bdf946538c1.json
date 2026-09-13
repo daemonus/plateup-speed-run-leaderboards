@@ -1,0 +1,58 @@
+{
+  "id": "b73a0b27-29ce-4798-96ff-8bdf946538c1",
+  "persona": "RedSlave",
+  "names": [
+    "RedSlave"
+  ],
+  "runs": 5,
+  "bestRank": 98,
+  "worstRank": 558,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3045321,
+  "weeksActive": [
+    -29,
+    -27,
+    -26,
+    -25,
+    -23
+  ],
+  "history": [
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 107,
+      "ms": 3294709,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 104,
+      "ms": 3492620,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 207,
+      "ms": 3820390,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 558,
+      "ms": 4865943,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 98,
+      "ms": 3045321,
+      "dish": "Pizza"
+    }
+  ]
+}

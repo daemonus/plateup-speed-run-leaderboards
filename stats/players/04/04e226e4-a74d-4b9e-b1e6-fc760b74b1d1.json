@@ -1,0 +1,34 @@
+{
+  "id": "04e226e4-a74d-4b9e-b1e6-fc760b74b1d1",
+  "persona": "GUNU",
+  "names": [
+    "GUNU"
+  ],
+  "runs": 2,
+  "bestRank": 158,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2922732,
+  "weeksActive": [
+    7,
+    9
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 158,
+      "ms": 2922732,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 398,
+      "ms": 4054110,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "4aa54f5b-924d-48dd-8d63-092fd5221ee9",
+  "persona": "eda",
+  "names": [
+    "eda"
+  ],
+  "runs": 5,
+  "bestRank": 181,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1943820,
+  "weeksActive": [
+    41,
+    54,
+    58,
+    62,
+    63
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 181,
+      "ms": 1943820,
+      "dish": "Turkey"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 250,
+      "ms": 4324230,
+      "dish": "Burgers"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 264,
+      "ms": 2966020,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 503,
+      "ms": 4599024,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 468,
+      "ms": 3758539,
+      "dish": "Pizza"
+    }
+  ]
+}

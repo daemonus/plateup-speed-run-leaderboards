@@ -1,0 +1,42 @@
+{
+  "id": "6a1c7927-929a-404d-b51a-fb406b248f1b",
+  "persona": "RadHysteric",
+  "names": [
+    "RadHysteric"
+  ],
+  "runs": 3,
+  "bestRank": 783,
+  "worstRank": 1248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2624422,
+  "weeksActive": [
+    -93,
+    -92,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1248,
+      "ms": 2624422,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 783,
+      "ms": 5099075,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 824,
+      "ms": 4059876,
+      "dish": "Pies"
+    }
+  ]
+}

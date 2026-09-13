@@ -1,0 +1,34 @@
+{
+  "id": "213a42ad-71c2-4442-af29-f882db9f4571",
+  "persona": "Seastar",
+  "names": [
+    "Seastar"
+  ],
+  "runs": 2,
+  "bestRank": 440,
+  "worstRank": 583,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4017409,
+  "weeksActive": [
+    -31,
+    82
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 583,
+      "ms": 4017409,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 440,
+      "ms": 4191713,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6c1fe07e-59a1-4c6a-aac2-50107cef9dbf",
+  "persona": "Lost",
+  "names": [
+    "Lost"
+  ],
+  "runs": 2,
+  "bestRank": 723,
+  "worstRank": 766,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3959210,
+  "weeksActive": [
+    -38,
+    -31
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 723,
+      "ms": 3959210,
+      "dish": "Turkey"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 766,
+      "ms": 4703782,
+      "dish": "Pies"
+    }
+  ]
+}

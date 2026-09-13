@@ -1,0 +1,42 @@
+{
+  "id": "211b1b98-a919-48e2-a926-e6b5b6e54fb1",
+  "persona": "shortmatt",
+  "names": [
+    "shortmatt"
+  ],
+  "runs": 3,
+  "bestRank": 249,
+  "worstRank": 1065,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2321644,
+  "weeksActive": [
+    -93,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1065,
+      "ms": 2504043,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 647,
+      "ms": 2966980,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 249,
+      "ms": 2321644,
+      "dish": "Pies"
+    }
+  ]
+}

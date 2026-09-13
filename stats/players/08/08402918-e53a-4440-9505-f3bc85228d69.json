@@ -1,0 +1,50 @@
+{
+  "id": "08402918-e53a-4440-9505-f3bc85228d69",
+  "persona": "sipulisose",
+  "names": [
+    "sipulisose"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2593317,
+  "weeksActive": [
+    8,
+    9,
+    10,
+    12
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 621,
+      "ms": 3550541,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 358,
+      "ms": 3787176,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 164,
+      "ms": 3902444,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 243,
+      "ms": 2593317,
+      "dish": "Turkey"
+    }
+  ]
+}

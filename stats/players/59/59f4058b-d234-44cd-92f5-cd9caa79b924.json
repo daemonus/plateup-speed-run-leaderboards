@@ -1,0 +1,42 @@
+{
+  "id": "59f4058b-d234-44cd-92f5-cd9caa79b924",
+  "persona": "Tygerfyre",
+  "names": [
+    "Tygerfyre"
+  ],
+  "runs": 3,
+  "bestRank": 296,
+  "worstRank": 1096,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2462669,
+  "weeksActive": [
+    -94,
+    -93,
+    -87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1096,
+      "ms": 3558869,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1012,
+      "ms": 2462669,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 296,
+      "ms": 3323528,
+      "dish": "Stir Fry"
+    }
+  ]
+}

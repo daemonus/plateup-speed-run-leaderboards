@@ -1,0 +1,58 @@
+{
+  "id": "96de2c34-5f02-4c52-9e7d-e9658fb736d8",
+  "persona": "Charmed Sapphire",
+  "names": [
+    "Charmed Sapphire"
+  ],
+  "runs": 5,
+  "bestRank": 37,
+  "worstRank": 124,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1735600,
+  "weeksActive": [
+    -91,
+    -87,
+    -85,
+    -73,
+    25
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 124,
+      "ms": 1735600,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 124,
+      "ms": 2593101,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 42,
+      "ms": 2325379,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 64,
+      "ms": 3165401,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 37,
+      "ms": 2800461,
+      "dish": "Stir Fry"
+    }
+  ]
+}

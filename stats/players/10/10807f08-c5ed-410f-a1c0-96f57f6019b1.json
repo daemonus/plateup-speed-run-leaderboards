@@ -1,0 +1,42 @@
+{
+  "id": "10807f08-c5ed-410f-a1c0-96f57f6019b1",
+  "persona": "Myrgthe",
+  "names": [
+    "Myrgthe"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 1613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3311562,
+  "weeksActive": [
+    -91,
+    -90,
+    -87
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1613,
+      "ms": 4461567,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 835,
+      "ms": 3311562,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 360,
+      "ms": 3520990,
+      "dish": "Stir Fry"
+    }
+  ]
+}

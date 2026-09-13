@@ -1,0 +1,34 @@
+{
+  "id": "3b4d9b68-49e8-4ab5-8216-89add8c41c6b",
+  "persona": "Prometheus",
+  "names": [
+    "Prometheus"
+  ],
+  "runs": 2,
+  "bestRank": 41,
+  "worstRank": 91,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2259916,
+  "weeksActive": [
+    -66,
+    -55
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 91,
+      "ms": 2658645,
+      "dish": "Turkey"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 41,
+      "ms": 2259916,
+      "dish": "Pizza"
+    }
+  ]
+}

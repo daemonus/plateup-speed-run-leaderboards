@@ -1,0 +1,66 @@
+{
+  "id": "b4d0fb33-a2fc-4126-a37c-c6c0f1adbe2f",
+  "persona": "\u30EA\u30A8\u30EB (winter)",
+  "names": [
+    "\u30EA\u30A8\u30EB (winter)"
+  ],
+  "runs": 6,
+  "bestRank": 156,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2826988,
+  "weeksActive": [
+    9,
+    11,
+    30,
+    52,
+    54,
+    78
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 412,
+      "ms": 4188225,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 190,
+      "ms": 3669600,
+      "dish": "Salad"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 213,
+      "ms": 3194564,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 244,
+      "ms": 2826988,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 156,
+      "ms": 3547666,
+      "dish": "Burgers"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 160,
+      "ms": 2925694,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

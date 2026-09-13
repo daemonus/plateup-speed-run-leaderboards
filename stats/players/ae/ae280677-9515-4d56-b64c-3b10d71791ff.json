@@ -1,0 +1,74 @@
+{
+  "id": "ae280677-9515-4d56-b64c-3b10d71791ff",
+  "persona": "Shannon",
+  "names": [
+    "Shannon"
+  ],
+  "runs": 7,
+  "bestRank": 33,
+  "worstRank": 903,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1539445,
+  "weeksActive": [
+    -91,
+    -85,
+    -84,
+    -83,
+    -79,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 903,
+      "ms": 2816468,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 86,
+      "ms": 2790050,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 91,
+      "ms": 2093501,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 93,
+      "ms": 2404087,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 41,
+      "ms": 2102201,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 56,
+      "ms": 2149681,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 33,
+      "ms": 1539445,
+      "dish": "Turkey"
+    }
+  ]
+}

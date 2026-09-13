@@ -1,0 +1,34 @@
+{
+  "id": "042a4db2-99bc-4142-a264-606633a757f3",
+  "persona": "\u8D85\u5389\u5BB3\u7684\u5927\u738B",
+  "names": [
+    "\u8D85\u5389\u5BB3\u7684\u5927\u738B"
+  ],
+  "runs": 2,
+  "bestRank": 294,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6571997,
+  "weeksActive": [
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 442,
+      "ms": 6571997,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 294,
+      "ms": 8285606,
+      "dish": "Burgers"
+    }
+  ]
+}

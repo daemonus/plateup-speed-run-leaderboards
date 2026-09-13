@@ -1,0 +1,34 @@
+{
+  "id": "190f42ca-4265-4164-a2b6-53f902216974",
+  "persona": "cat",
+  "names": [
+    "cat"
+  ],
+  "runs": 2,
+  "bestRank": 338,
+  "worstRank": 571,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2771722,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 571,
+      "ms": 3970990,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 338,
+      "ms": 2771722,
+      "dish": "Turkey"
+    }
+  ]
+}

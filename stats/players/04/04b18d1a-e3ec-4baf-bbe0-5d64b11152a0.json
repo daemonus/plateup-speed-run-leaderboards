@@ -1,0 +1,98 @@
+{
+  "id": "04b18d1a-e3ec-4baf-bbe0-5d64b11152a0",
+  "persona": "GenderNotFound",
+  "names": [
+    "GenderNotFound"
+  ],
+  "runs": 10,
+  "bestRank": 7,
+  "worstRank": 136,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1295861,
+  "weeksActive": [
+    -89,
+    -46,
+    -45,
+    -44,
+    -43,
+    -42,
+    -39,
+    -38,
+    -32,
+    84
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 136,
+      "ms": 1974010,
+      "dish": "Pies"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 43,
+      "ms": 2644021,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 22,
+      "ms": 2036166,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 56,
+      "ms": 2079263,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 21,
+      "ms": 2122717,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 7,
+      "ms": 2219779,
+      "dish": "Burgers"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 13,
+      "ms": 1727833,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 100,
+      "ms": 1962590,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 103,
+      "ms": 2480358,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 58,
+      "ms": 1295861,
+      "dish": "Sundaes"
+    }
+  ]
+}

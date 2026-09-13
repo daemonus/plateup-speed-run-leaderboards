@@ -1,0 +1,58 @@
+{
+  "id": "4dd6fb7c-82f4-4115-89f8-8eb192988e24",
+  "persona": "orange push-up popsicle",
+  "names": [
+    "orange push-up popsicle"
+  ],
+  "runs": 5,
+  "bestRank": 19,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1343497,
+  "weeksActive": [
+    -91,
+    -89,
+    -88,
+    -87,
+    -82
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 156,
+      "ms": 1810512,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 26,
+      "ms": 1343497,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 19,
+      "ms": 1638972,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 71,
+      "ms": 2333348,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 46,
+      "ms": 1831587,
+      "dish": "Fish"
+    }
+  ]
+}

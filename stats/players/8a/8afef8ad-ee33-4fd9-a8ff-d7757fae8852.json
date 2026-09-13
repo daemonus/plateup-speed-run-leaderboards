@@ -1,0 +1,42 @@
+{
+  "id": "8afef8ad-ee33-4fd9-a8ff-d7757fae8852",
+  "persona": "skrocket24",
+  "names": [
+    "skrocket24"
+  ],
+  "runs": 3,
+  "bestRank": 219,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3053458,
+  "weeksActive": [
+    -88,
+    -85,
+    -82
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 309,
+      "ms": 3053458,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 219,
+      "ms": 4009947,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 365,
+      "ms": 3111519,
+      "dish": "Fish"
+    }
+  ]
+}

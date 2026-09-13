@@ -1,0 +1,42 @@
+{
+  "id": "c9177d1c-c8a4-4f4a-8386-622e83939f4d",
+  "persona": "ecila4500",
+  "names": [
+    "ecila4500"
+  ],
+  "runs": 3,
+  "bestRank": 303,
+  "worstRank": 1021,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4308870,
+  "weeksActive": [
+    -43,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 303,
+      "ms": 5245495,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1021,
+      "ms": 4839714,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 673,
+      "ms": 4308870,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "9391e98e-b74b-4a5d-9228-b9e27b6107e1",
+  "persona": "GLHF",
+  "names": [
+    "GLHF"
+  ],
+  "runs": 2,
+  "bestRank": 160,
+  "worstRank": 243,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1827096,
+  "weeksActive": [
+    64,
+    65
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 160,
+      "ms": 1827096,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 243,
+      "ms": 3570095,
+      "dish": "Pizza"
+    }
+  ]
+}

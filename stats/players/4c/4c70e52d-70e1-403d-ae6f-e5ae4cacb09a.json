@@ -1,0 +1,50 @@
+{
+  "id": "4c70e52d-70e1-403d-ae6f-e5ae4cacb09a",
+  "persona": "Vebren",
+  "names": [
+    "Vebren"
+  ],
+  "runs": 4,
+  "bestRank": 91,
+  "worstRank": 173,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1631562,
+  "weeksActive": [
+    -28,
+    41,
+    43,
+    46
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 173,
+      "ms": 4495005,
+      "dish": "Burgers"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 105,
+      "ms": 1631562,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 91,
+      "ms": 2094562,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 124,
+      "ms": 2647774,
+      "dish": "Pizza"
+    }
+  ]
+}

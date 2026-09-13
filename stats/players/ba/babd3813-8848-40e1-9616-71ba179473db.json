@@ -1,0 +1,66 @@
+{
+  "id": "babd3813-8848-40e1-9616-71ba179473db",
+  "persona": "ehhmaji",
+  "names": [
+    "ehhmaji"
+  ],
+  "runs": 6,
+  "bestRank": 114,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1727006,
+  "weeksActive": [
+    -82,
+    -77,
+    83,
+    84,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 443,
+      "ms": 3292093,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 547,
+      "ms": 3727721,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 298,
+      "ms": 2302798,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 338,
+      "ms": 2503473,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 192,
+      "ms": 2943818,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 114,
+      "ms": 1727006,
+      "dish": "Sundaes"
+    }
+  ]
+}

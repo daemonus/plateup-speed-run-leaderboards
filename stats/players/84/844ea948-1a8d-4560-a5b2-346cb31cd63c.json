@@ -1,0 +1,74 @@
+{
+  "id": "844ea948-1a8d-4560-a5b2-346cb31cd63c",
+  "persona": "C_Lee_2.0",
+  "names": [
+    "C_Lee_2.0"
+  ],
+  "runs": 7,
+  "bestRank": 171,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3378679,
+  "weeksActive": [
+    24,
+    27,
+    28,
+    29,
+    30,
+    34,
+    66
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 406,
+      "ms": 4371048,
+      "dish": "Pies"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 187,
+      "ms": 3491530,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 294,
+      "ms": 3378679,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 171,
+      "ms": 4482215,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 477,
+      "ms": 5179570,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 373,
+      "ms": 4765305,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 412,
+      "ms": 4851857,
+      "dish": "Breakfast"
+    }
+  ]
+}

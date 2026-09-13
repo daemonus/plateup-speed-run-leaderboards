@@ -1,0 +1,66 @@
+{
+  "id": "a0c3cf04-50eb-4de1-81b3-30bcff08bf1c",
+  "persona": "wasabae",
+  "names": [
+    "wasabae"
+  ],
+  "runs": 6,
+  "bestRank": 43,
+  "worstRank": 145,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2038786,
+  "weeksActive": [
+    -52,
+    -51,
+    -50,
+    -48,
+    -47,
+    -46
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 116,
+      "ms": 3613095,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 52,
+      "ms": 2038786,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 43,
+      "ms": 2811080,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 59,
+      "ms": 3233870,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 145,
+      "ms": 3265143,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 130,
+      "ms": 3238447,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c51893bb-e252-4e13-8a36-093e6c16d469",
+  "persona": "\u6BCF\u5929\u90FD\u7761\u4E0D\u9192",
+  "names": [
+    "\u6BCF\u5929\u90FD\u7761\u4E0D\u9192"
+  ],
+  "runs": 2,
+  "bestRank": 179,
+  "worstRank": 239,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3392295,
+  "weeksActive": [
+    5,
+    42
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 179,
+      "ms": 3392295,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 239,
+      "ms": 4671468,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

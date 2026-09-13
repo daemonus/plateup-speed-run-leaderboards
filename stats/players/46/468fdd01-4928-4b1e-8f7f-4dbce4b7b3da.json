@@ -1,0 +1,66 @@
+{
+  "id": "468fdd01-4928-4b1e-8f7f-4dbce4b7b3da",
+  "persona": "Ajko",
+  "names": [
+    "Ajko"
+  ],
+  "runs": 6,
+  "bestRank": 445,
+  "worstRank": 1646,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2895481,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1646,
+      "ms": 2895481,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1057,
+      "ms": 3028869,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1088,
+      "ms": 4119815,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 814,
+      "ms": 4005970,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 445,
+      "ms": 3530479,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 449,
+      "ms": 3985626,
+      "dish": "Stir Fry"
+    }
+  ]
+}

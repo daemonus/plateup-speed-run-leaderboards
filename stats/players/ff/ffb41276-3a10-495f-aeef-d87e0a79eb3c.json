@@ -1,0 +1,42 @@
+{
+  "id": "ffb41276-3a10-495f-aeef-d87e0a79eb3c",
+  "persona": "[PBS] Elasaid",
+  "names": [
+    "[PBS] Elasaid"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3865642,
+  "weeksActive": [
+    37,
+    38,
+    40
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 205,
+      "ms": 4511463,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 499,
+      "ms": 5071189,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 214,
+      "ms": 3865642,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

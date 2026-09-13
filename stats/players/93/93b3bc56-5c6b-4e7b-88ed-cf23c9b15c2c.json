@@ -1,0 +1,74 @@
+{
+  "id": "93b3bc56-5c6b-4e7b-88ed-cf23c9b15c2c",
+  "persona": "twLsh",
+  "names": [
+    "twLsh"
+  ],
+  "runs": 7,
+  "bestRank": 156,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2238087,
+  "weeksActive": [
+    -41,
+    -39,
+    -14,
+    -13,
+    15,
+    24,
+    63
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 175,
+      "ms": 4032255,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 304,
+      "ms": 3067437,
+      "dish": "Pizza"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 264,
+      "ms": 5260193,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 292,
+      "ms": 4339198,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 156,
+      "ms": 2238087,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 336,
+      "ms": 3797134,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 326,
+      "ms": 3303653,
+      "dish": "Pizza"
+    }
+  ]
+}

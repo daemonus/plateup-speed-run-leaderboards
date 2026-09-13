@@ -1,0 +1,42 @@
+{
+  "id": "ea5115bb-7853-482a-9c7f-515b50c41800",
+  "persona": "91 Mr hu",
+  "names": [
+    "91 Mr hu"
+  ],
+  "runs": 3,
+  "bestRank": 98,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3297451,
+  "weeksActive": [
+    -43,
+    -42,
+    -40
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 185,
+      "ms": 3492804,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 134,
+      "ms": 3627959,
+      "dish": "Burgers"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 98,
+      "ms": 3297451,
+      "dish": "Stir Fry"
+    }
+  ]
+}

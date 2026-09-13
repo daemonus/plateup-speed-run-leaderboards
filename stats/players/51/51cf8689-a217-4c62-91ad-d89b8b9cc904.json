@@ -1,0 +1,50 @@
+{
+  "id": "51cf8689-a217-4c62-91ad-d89b8b9cc904",
+  "persona": "Mewlyar",
+  "names": [
+    "Mewlyar"
+  ],
+  "runs": 4,
+  "bestRank": 607,
+  "worstRank": 1981,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3118980,
+  "weeksActive": [
+    -94,
+    -93,
+    -86,
+    -82
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 798,
+      "ms": 3193306,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1981,
+      "ms": 3118980,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 744,
+      "ms": 3878214,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 607,
+      "ms": 3880110,
+      "dish": "Fish"
+    }
+  ]
+}

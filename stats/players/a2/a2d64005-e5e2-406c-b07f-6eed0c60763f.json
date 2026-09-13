@@ -1,0 +1,34 @@
+{
+  "id": "a2d64005-e5e2-406c-b07f-6eed0c60763f",
+  "persona": "Igris",
+  "names": [
+    "Igris"
+  ],
+  "runs": 2,
+  "bestRank": 101,
+  "worstRank": 114,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2206373,
+  "weeksActive": [
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 101,
+      "ms": 2206373,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 114,
+      "ms": 2656261,
+      "dish": "Pizza"
+    }
+  ]
+}

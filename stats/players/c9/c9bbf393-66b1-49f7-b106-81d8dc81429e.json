@@ -1,0 +1,90 @@
+{
+  "id": "c9bbf393-66b1-49f7-b106-81d8dc81429e",
+  "persona": "brain_fried_42",
+  "names": [
+    "brain_fried_42"
+  ],
+  "runs": 9,
+  "bestRank": 232,
+  "worstRank": 726,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3565253,
+  "weeksActive": [
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    16,
+    17,
+    26
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 340,
+      "ms": 3849853,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 726,
+      "ms": 3832087,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 406,
+      "ms": 4133948,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 298,
+      "ms": 5948306,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 444,
+      "ms": 3565253,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 477,
+      "ms": 3565319,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 437,
+      "ms": 5302696,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 232,
+      "ms": 4052441,
+      "dish": "Pizza"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 301,
+      "ms": 4230456,
+      "dish": "Pizza"
+    }
+  ]
+}

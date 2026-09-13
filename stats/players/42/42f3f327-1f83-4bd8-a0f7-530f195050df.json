@@ -1,0 +1,34 @@
+{
+  "id": "42f3f327-1f83-4bd8-a0f7-530f195050df",
+  "persona": "Zhora",
+  "names": [
+    "Zhora"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 857,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4378467,
+  "weeksActive": [
+    -80,
+    -76
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 285,
+      "ms": 5707175,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 857,
+      "ms": 4378467,
+      "dish": "Turkey"
+    }
+  ]
+}

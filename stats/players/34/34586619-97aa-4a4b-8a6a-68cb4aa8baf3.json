@@ -1,0 +1,42 @@
+{
+  "id": "34586619-97aa-4a4b-8a6a-68cb4aa8baf3",
+  "persona": "Chen",
+  "names": [
+    "Chen"
+  ],
+  "runs": 3,
+  "bestRank": 489,
+  "worstRank": 846,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3905407,
+  "weeksActive": [
+    -72,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 727,
+      "ms": 5072664,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 846,
+      "ms": 3905407,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 489,
+      "ms": 4851728,
+      "dish": "Breakfast"
+    }
+  ]
+}

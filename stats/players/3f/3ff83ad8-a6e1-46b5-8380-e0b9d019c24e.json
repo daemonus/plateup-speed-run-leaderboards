@@ -1,0 +1,42 @@
+{
+  "id": "3ff83ad8-a6e1-46b5-8380-e0b9d019c24e",
+  "persona": "Enzhyme",
+  "names": [
+    "Enzhyme"
+  ],
+  "runs": 3,
+  "bestRank": 265,
+  "worstRank": 2202,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3191203,
+  "weeksActive": [
+    -93,
+    -90,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2202,
+      "ms": 3296908,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 890,
+      "ms": 3449685,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 265,
+      "ms": 3191203,
+      "dish": "Stir Fry"
+    }
+  ]
+}

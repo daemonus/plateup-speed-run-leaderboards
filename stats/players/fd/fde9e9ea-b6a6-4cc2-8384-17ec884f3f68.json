@@ -1,0 +1,50 @@
+{
+  "id": "fde9e9ea-b6a6-4cc2-8384-17ec884f3f68",
+  "persona": "Casusboydus",
+  "names": [
+    "Casusboydus"
+  ],
+  "runs": 4,
+  "bestRank": 296,
+  "worstRank": 860,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3480353,
+  "weeksActive": [
+    -32,
+    -31,
+    -27,
+    -21
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 482,
+      "ms": 3480353,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 860,
+      "ms": 5592486,
+      "dish": "Pies"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 296,
+      "ms": 5560840,
+      "dish": "Salad"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 567,
+      "ms": 6122549,
+      "dish": "Pizza"
+    }
+  ]
+}

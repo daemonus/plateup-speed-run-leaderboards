@@ -1,0 +1,58 @@
+{
+  "id": "b7f977af-6485-4bb3-adc3-aa3ad52464fc",
+  "persona": "alacrin1",
+  "names": [
+    "alacrin1"
+  ],
+  "runs": 5,
+  "bestRank": 204,
+  "worstRank": 628,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2486472,
+  "weeksActive": [
+    -91,
+    12,
+    13,
+    32,
+    33
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 628,
+      "ms": 2486472,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 325,
+      "ms": 2943440,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 267,
+      "ms": 2821990,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 204,
+      "ms": 3413044,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 285,
+      "ms": 5491587,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

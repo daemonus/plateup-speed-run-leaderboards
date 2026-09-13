@@ -1,0 +1,50 @@
+{
+  "id": "4404baa9-03bc-4da0-bce6-ca3d82191f84",
+  "persona": "AnnaDei",
+  "names": [
+    "AnnaDei"
+  ],
+  "runs": 4,
+  "bestRank": 267,
+  "worstRank": 549,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1984648,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 549,
+      "ms": 2901524,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 374,
+      "ms": 1984648,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 321,
+      "ms": 2092799,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 267,
+      "ms": 2194055,
+      "dish": "Fish"
+    }
+  ]
+}

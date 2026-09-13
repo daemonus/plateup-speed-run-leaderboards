@@ -1,0 +1,34 @@
+{
+  "id": "acc702d8-4e5a-49c9-b3e8-e9b49203aa3a",
+  "persona": "Encounter",
+  "names": [
+    "Encounter"
+  ],
+  "runs": 2,
+  "bestRank": 237,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4522100,
+  "weeksActive": [
+    -26,
+    -24
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 323,
+      "ms": 4522100,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 237,
+      "ms": 4717490,
+      "dish": "Breakfast"
+    }
+  ]
+}

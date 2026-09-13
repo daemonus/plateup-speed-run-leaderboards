@@ -1,0 +1,34 @@
+{
+  "id": "ce82c7f8-614f-49bc-879f-4f48e8e0e228",
+  "persona": "Mort",
+  "names": [
+    "Mort"
+  ],
+  "runs": 2,
+  "bestRank": 281,
+  "worstRank": 451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3528556,
+  "weeksActive": [
+    -7,
+    -3
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 281,
+      "ms": 5001502,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 451,
+      "ms": 3528556,
+      "dish": "Turkey"
+    }
+  ]
+}

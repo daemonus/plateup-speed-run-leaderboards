@@ -1,0 +1,82 @@
+{
+  "id": "2dd05928-4124-4970-9b47-e45869b128a2",
+  "persona": "yomowo",
+  "names": [
+    "yomowo"
+  ],
+  "runs": 8,
+  "bestRank": 14,
+  "worstRank": 229,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1733920,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    25,
+    42
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 229,
+      "ms": 3053987,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 132,
+      "ms": 2928118,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 14,
+      "ms": 1733920,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 77,
+      "ms": 2613653,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 66,
+      "ms": 2435100,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 45,
+      "ms": 2278107,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 61,
+      "ms": 3266172,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 43,
+      "ms": 2278343,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

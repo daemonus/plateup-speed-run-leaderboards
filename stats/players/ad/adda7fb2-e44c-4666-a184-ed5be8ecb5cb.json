@@ -1,0 +1,42 @@
+{
+  "id": "adda7fb2-e44c-4666-a184-ed5be8ecb5cb",
+  "persona": "Pollux",
+  "names": [
+    "Pollux"
+  ],
+  "runs": 3,
+  "bestRank": 208,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2881799,
+  "weeksActive": [
+    -62,
+    -32,
+    68
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 208,
+      "ms": 3151464,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 436,
+      "ms": 3406509,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 267,
+      "ms": 2881799,
+      "dish": "Turkey"
+    }
+  ]
+}

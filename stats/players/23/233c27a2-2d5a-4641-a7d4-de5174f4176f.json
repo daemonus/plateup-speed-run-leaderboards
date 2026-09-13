@@ -1,0 +1,42 @@
+{
+  "id": "233c27a2-2d5a-4641-a7d4-de5174f4176f",
+  "persona": "triki",
+  "names": [
+    "triki"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 745,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3736418,
+  "weeksActive": [
+    3,
+    34,
+    47
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 745,
+      "ms": 4949341,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 335,
+      "ms": 4490958,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 212,
+      "ms": 3736418,
+      "dish": "Pizza"
+    }
+  ]
+}

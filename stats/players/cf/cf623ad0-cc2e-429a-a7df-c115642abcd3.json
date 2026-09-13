@@ -1,0 +1,58 @@
+{
+  "id": "cf623ad0-cc2e-429a-a7df-c115642abcd3",
+  "persona": "Kris_140",
+  "names": [
+    "Kris_140"
+  ],
+  "runs": 5,
+  "bestRank": 207,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2419340,
+  "weeksActive": [
+    31,
+    32,
+    33,
+    41,
+    83
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 252,
+      "ms": 3144582,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 345,
+      "ms": 4538710,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 207,
+      "ms": 4083296,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 438,
+      "ms": 2789107,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 343,
+      "ms": 2419340,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "de02abdb-5502-4d5b-91de-7f477cefc6cd",
+  "persona": "Nenkalina",
+  "names": [
+    "Nenkalina"
+  ],
+  "runs": 3,
+  "bestRank": 102,
+  "worstRank": 507,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2662033,
+  "weeksActive": [
+    -20,
+    -19,
+    -18
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 402,
+      "ms": 4185367,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 102,
+      "ms": 2662033,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 507,
+      "ms": 4202158,
+      "dish": "Fish"
+    }
+  ]
+}

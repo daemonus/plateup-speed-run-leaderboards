@@ -1,0 +1,74 @@
+{
+  "id": "f20063e4-0b09-4295-8170-d465072900d2",
+  "persona": "Karny",
+  "names": [
+    "Karny"
+  ],
+  "runs": 7,
+  "bestRank": 132,
+  "worstRank": 520,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2495395,
+  "weeksActive": [
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 430,
+      "ms": 4594983,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 520,
+      "ms": 4322833,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 291,
+      "ms": 3588867,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 185,
+      "ms": 5049523,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 271,
+      "ms": 3955136,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 132,
+      "ms": 2948661,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 142,
+      "ms": 2495395,
+      "dish": "Turkey"
+    }
+  ]
+}

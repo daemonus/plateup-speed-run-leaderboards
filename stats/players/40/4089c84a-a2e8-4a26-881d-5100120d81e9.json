@@ -1,0 +1,42 @@
+{
+  "id": "4089c84a-a2e8-4a26-881d-5100120d81e9",
+  "persona": "Tuppeny",
+  "names": [
+    "Tuppeny"
+  ],
+  "runs": 3,
+  "bestRank": 188,
+  "worstRank": 290,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2181715,
+  "weeksActive": [
+    -82,
+    -81,
+    -75
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 290,
+      "ms": 2813099,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 188,
+      "ms": 3516033,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 188,
+      "ms": 2181715,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "53d3eca8-0b83-4103-ae8c-75ffc6410475",
+  "persona": "Astrax",
+  "names": [
+    "Astrax"
+  ],
+  "runs": 9,
+  "bestRank": 110,
+  "worstRank": 951,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1865624,
+  "weeksActive": [
+    -93,
+    -83,
+    -82,
+    -20,
+    17,
+    19,
+    20,
+    21,
+    83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 951,
+      "ms": 2412543,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 292,
+      "ms": 3219738,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 313,
+      "ms": 2917792,
+      "dish": "Fish"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 325,
+      "ms": 3842637,
+      "dish": "Burgers"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 113,
+      "ms": 2882848,
+      "dish": "Pizza"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 222,
+      "ms": 3768883,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 110,
+      "ms": 1865624,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 291,
+      "ms": 3556318,
+      "dish": "Burgers"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 203,
+      "ms": 2030414,
+      "dish": "Sundaes"
+    }
+  ]
+}

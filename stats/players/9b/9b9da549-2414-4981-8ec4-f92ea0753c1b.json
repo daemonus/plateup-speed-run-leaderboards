@@ -1,0 +1,42 @@
+{
+  "id": "9b9da549-2414-4981-8ec4-f92ea0753c1b",
+  "persona": "envystrm",
+  "names": [
+    "envystrm"
+  ],
+  "runs": 3,
+  "bestRank": 367,
+  "worstRank": 760,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2920354,
+  "weeksActive": [
+    -76,
+    -74,
+    -72
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 367,
+      "ms": 2920354,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 641,
+      "ms": 6683908,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 760,
+      "ms": 5305420,
+      "dish": "Pies"
+    }
+  ]
+}

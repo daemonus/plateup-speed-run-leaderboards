@@ -1,0 +1,42 @@
+{
+  "id": "1209f44d-6b7d-4643-90d5-de862f0b8597",
+  "persona": "\u304F\u307E\u306E\u30D7\u30FC\u3055\u3093",
+  "names": [
+    "\u304F\u307E\u306E\u30D7\u30FC\u3055\u3093"
+  ],
+  "runs": 3,
+  "bestRank": 290,
+  "worstRank": 642,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1862275,
+  "weeksActive": [
+    -93,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 290,
+      "ms": 1862275,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 642,
+      "ms": 3325035,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 452,
+      "ms": 3566118,
+      "dish": "Pies"
+    }
+  ]
+}

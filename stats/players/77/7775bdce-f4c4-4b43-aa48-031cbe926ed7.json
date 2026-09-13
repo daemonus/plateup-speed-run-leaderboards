@@ -1,0 +1,66 @@
+{
+  "id": "7775bdce-f4c4-4b43-aa48-031cbe926ed7",
+  "persona": "peppermintlady",
+  "names": [
+    "peppermintlady"
+  ],
+  "runs": 6,
+  "bestRank": 115,
+  "worstRank": 1012,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2656538,
+  "weeksActive": [
+    -94,
+    -86,
+    -46,
+    -2,
+    82,
+    86
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1012,
+      "ms": 3451898,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 557,
+      "ms": 3222136,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 126,
+      "ms": 3219738,
+      "dish": "Salad"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 115,
+      "ms": 2656538,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 265,
+      "ms": 3300952,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 332,
+      "ms": 2948990,
+      "dish": "Sundaes"
+    }
+  ]
+}

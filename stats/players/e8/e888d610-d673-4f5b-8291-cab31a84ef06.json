@@ -1,0 +1,50 @@
+{
+  "id": "e888d610-d673-4f5b-8291-cab31a84ef06",
+  "persona": "MeB",
+  "names": [
+    "MeB"
+  ],
+  "runs": 4,
+  "bestRank": 241,
+  "worstRank": 659,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3687867,
+  "weeksActive": [
+    19,
+    20,
+    24,
+    57
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 241,
+      "ms": 3887042,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 659,
+      "ms": 3687867,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 384,
+      "ms": 4175410,
+      "dish": "Pies"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 412,
+      "ms": 4246396,
+      "dish": "Salad"
+    }
+  ]
+}

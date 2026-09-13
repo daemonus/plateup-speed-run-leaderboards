@@ -1,0 +1,42 @@
+{
+  "id": "af843d55-fd76-4d9f-9c97-64164cda3075",
+  "persona": "Beaver von H\u00FCpfburg",
+  "names": [
+    "Beaver von H\u00FCpfburg"
+  ],
+  "runs": 3,
+  "bestRank": 134,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3097936,
+  "weeksActive": [
+    -5,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 376,
+      "ms": 4350104,
+      "dish": "Pizza"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 134,
+      "ms": 3097936,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 249,
+      "ms": 4679381,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

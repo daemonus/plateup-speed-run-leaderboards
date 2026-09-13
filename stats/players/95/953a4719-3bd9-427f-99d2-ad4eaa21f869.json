@@ -1,0 +1,66 @@
+{
+  "id": "953a4719-3bd9-427f-99d2-ad4eaa21f869",
+  "persona": "bulltp",
+  "names": [
+    "bulltp"
+  ],
+  "runs": 6,
+  "bestRank": 8,
+  "worstRank": 78,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1112946,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    38,
+    39,
+    41
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 78,
+      "ms": 1995650,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 17,
+      "ms": 1229160,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 31,
+      "ms": 1596488,
+      "dish": "Steak"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 8,
+      "ms": 1625480,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 20,
+      "ms": 2080988,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 21,
+      "ms": 1112946,
+      "dish": "Turkey"
+    }
+  ]
+}

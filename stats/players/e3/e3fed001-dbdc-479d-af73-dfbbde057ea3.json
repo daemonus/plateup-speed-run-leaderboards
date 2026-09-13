@@ -1,0 +1,42 @@
+{
+  "id": "e3fed001-dbdc-479d-af73-dfbbde057ea3",
+  "persona": "INTEROS",
+  "names": [
+    "INTEROS"
+  ],
+  "runs": 3,
+  "bestRank": 129,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2682931,
+  "weeksActive": [
+    41,
+    47,
+    48
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 403,
+      "ms": 2682931,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 156,
+      "ms": 3291962,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 129,
+      "ms": 4020345,
+      "dish": "Pizza"
+    }
+  ]
+}

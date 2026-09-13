@@ -1,0 +1,42 @@
+{
+  "id": "7de9e266-1e91-4b0c-88f2-b2427a094a86",
+  "persona": "bytheway.naomi",
+  "names": [
+    "bytheway.naomi"
+  ],
+  "runs": 3,
+  "bestRank": 277,
+  "worstRank": 367,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2870714,
+  "weeksActive": [
+    7,
+    12,
+    34
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 277,
+      "ms": 3450830,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 304,
+      "ms": 2870714,
+      "dish": "Turkey"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 367,
+      "ms": 4728930,
+      "dish": "Stir Fry"
+    }
+  ]
+}

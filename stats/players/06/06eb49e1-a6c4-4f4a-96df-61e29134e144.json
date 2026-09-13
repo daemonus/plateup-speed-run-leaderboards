@@ -1,0 +1,66 @@
+{
+  "id": "06eb49e1-a6c4-4f4a-96df-61e29134e144",
+  "persona": "EEF \u30C4",
+  "names": [
+    "EEF \u30C4"
+  ],
+  "runs": 6,
+  "bestRank": 220,
+  "worstRank": 526,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3027902,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    0,
+    3,
+    30
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 307,
+      "ms": 4036519,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 439,
+      "ms": 4212057,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 526,
+      "ms": 3816484,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 372,
+      "ms": 4870307,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 220,
+      "ms": 3027902,
+      "dish": "Fish"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 311,
+      "ms": 3761020,
+      "dish": "Breakfast"
+    }
+  ]
+}

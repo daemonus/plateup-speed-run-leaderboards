@@ -1,0 +1,58 @@
+{
+  "id": "7764d7c9-4c64-490d-8f1e-bdce6056eb52",
+  "persona": "superpandap",
+  "names": [
+    "superpandap"
+  ],
+  "runs": 5,
+  "bestRank": 139,
+  "worstRank": 1089,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2520743,
+  "weeksActive": [
+    -93,
+    -77,
+    -75,
+    -55,
+    40
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1089,
+      "ms": 2520743,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 290,
+      "ms": 3053068,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 314,
+      "ms": 2584415,
+      "dish": "Fish"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 204,
+      "ms": 3242080,
+      "dish": "Pizza"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 139,
+      "ms": 3190374,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

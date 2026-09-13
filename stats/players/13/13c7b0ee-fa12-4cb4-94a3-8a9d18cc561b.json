@@ -1,0 +1,34 @@
+{
+  "id": "13c7b0ee-fa12-4cb4-94a3-8a9d18cc561b",
+  "persona": "\u7B71\u79E7",
+  "names": [
+    "\u7B71\u79E7"
+  ],
+  "runs": 2,
+  "bestRank": 405,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4436202,
+  "weeksActive": [
+    7,
+    9
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 405,
+      "ms": 4436202,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 512,
+      "ms": 5843523,
+      "dish": "Breakfast"
+    }
+  ]
+}

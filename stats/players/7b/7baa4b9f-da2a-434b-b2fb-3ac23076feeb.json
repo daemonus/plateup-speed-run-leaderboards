@@ -1,0 +1,34 @@
+{
+  "id": "7baa4b9f-da2a-434b-b2fb-3ac23076feeb",
+  "persona": "Dibs",
+  "names": [
+    "Dibs"
+  ],
+  "runs": 2,
+  "bestRank": 203,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3176495,
+  "weeksActive": [
+    52,
+    54
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 347,
+      "ms": 3176495,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 203,
+      "ms": 3877790,
+      "dish": "Burgers"
+    }
+  ]
+}

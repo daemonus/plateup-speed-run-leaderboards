@@ -1,0 +1,585 @@
+{
+  "fastest": [
+    {
+      "id": "85c491a1-6644-4050-9c82-ee194a8994bb",
+      "persona": "it\u0027s happening",
+      "ms": 123,
+      "week": 21,
+      "rank": 1,
+      "dish": "Burgers"
+    },
+    {
+      "id": "d59f6098-8013-4e7f-9213-f12c123d6e7a",
+      "persona": "Holy roll-me-over-in-the-clover",
+      "ms": 10000,
+      "week": -95,
+      "rank": 1,
+      "dish": "Pies"
+    },
+    {
+      "id": "f35b6e33-ae1d-4fa6-9a91-38972a089f8a",
+      "persona": "SamiQuick",
+      "ms": 47263,
+      "week": -79,
+      "rank": 1,
+      "dish": "Pies"
+    },
+    {
+      "id": "f8ae67fc-d2bb-4e35-8716-dbbbf6179f74",
+      "persona": "niumikus",
+      "ms": 128080,
+      "week": 8,
+      "rank": 1,
+      "dish": "Fish"
+    },
+    {
+      "id": "e5d205c6-d579-4e64-ab34-8bc91f57c776",
+      "persona": "KVT",
+      "ms": 449682,
+      "week": 86,
+      "rank": 1,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
+      "persona": "spuff",
+      "ms": 471310,
+      "week": 86,
+      "rank": 2,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "e5c02f61-4d29-4de0-8a8f-7668c4397d22",
+      "persona": "[rpx]candy",
+      "ms": 522066,
+      "week": 86,
+      "rank": 3,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "69d68c40-d1d6-49b4-9cc5-8025d941ae25",
+      "persona": "onom_nom",
+      "ms": 548696,
+      "week": 86,
+      "rank": 4,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "7b119ad6-3737-4b5a-bc29-730fc8c959c8",
+      "persona": "Fangz_88",
+      "ms": 589532,
+      "week": 83,
+      "rank": 4,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "1edf06da-59b6-4d69-b0e6-58bb7bf27b4f",
+      "persona": "beccaaaaaa",
+      "ms": 654911,
+      "week": 86,
+      "rank": 5,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "a599aa83-0787-4090-b21c-21a3c201c5cb",
+      "persona": "jinx",
+      "ms": 687293,
+      "week": 86,
+      "rank": 6,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "df215190-19c6-4226-a615-889e03eb9f5a",
+      "persona": "ellentee",
+      "ms": 786956,
+      "week": 84,
+      "rank": 5,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "6defde64-ea0e-4769-82bb-87830fb0ef5b",
+      "persona": "MISOIRAN",
+      "ms": 793368,
+      "week": 86,
+      "rank": 7,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "02f3933c-10ef-483d-89f6-ffa625d9423e",
+      "persona": "Stefan",
+      "ms": 794980,
+      "week": 77,
+      "rank": 1,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "6b175cbc-3db9-4e12-9ba5-1dbb90eb0b5d",
+      "persona": "\u3054\u3093\u3061\u3083\u3093",
+      "ms": 809243,
+      "week": 86,
+      "rank": 9,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "75d78ad3-da0d-4b4b-a569-4e24f19a6266",
+      "persona": "hipposnavos",
+      "ms": 816679,
+      "week": 86,
+      "rank": 10,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "975569c3-efca-4302-9c86-ef2cfd1fb501",
+      "persona": "BriarShade",
+      "ms": 831503,
+      "week": 84,
+      "rank": 6,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "bf6b1e04-2f44-4db1-b6f6-f40658452684",
+      "persona": "Choidobby",
+      "ms": 832247,
+      "week": 64,
+      "rank": 1,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "8c74a1a2-4efa-408a-bf76-46c4a2cb490f",
+      "persona": "kamemame999",
+      "ms": 835702,
+      "week": 20,
+      "rank": 1,
+      "dish": "Turkey"
+    },
+    {
+      "id": "d4106bae-6f22-4d5b-9273-22e471978a49",
+      "persona": "kerenm77",
+      "ms": 841744,
+      "week": 84,
+      "rank": 7,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "dab9c81a-5d32-4880-996d-46a9fd7311ef",
+      "persona": "flipped bits",
+      "ms": 843176,
+      "week": 56,
+      "rank": 2,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "bba7964c-ac90-4cde-be6b-11ce78164821",
+      "persona": "Kulutues TTV",
+      "ms": 846542,
+      "week": 41,
+      "rank": 2,
+      "dish": "Turkey"
+    },
+    {
+      "id": "956449c2-eb6f-47c7-9bca-02b52257ca03",
+      "persona": "handles",
+      "ms": 850010,
+      "week": 86,
+      "rank": 11,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "f8c49c82-b075-47ca-87f0-131c5891d60a",
+      "persona": "ojisan2023",
+      "ms": 851264,
+      "week": 84,
+      "rank": 8,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "bc7464d1-878d-46e2-b7b4-cbd1da601020",
+      "persona": "sunlighticegirl",
+      "ms": 852107,
+      "week": 84,
+      "rank": 9,
+      "dish": "Sundaes"
+    }
+  ],
+  "mostFirstPlaces": [
+    {
+      "id": "431328b9-6b8b-4f49-9a0f-0414c5ebe498",
+      "persona": "Shroomgirl81",
+      "count": 24
+    },
+    {
+      "id": "84a140cb-5cac-4072-908f-4b0f369fafa9",
+      "persona": "shin.eisenhart",
+      "count": 21
+    },
+    {
+      "id": "67491073-cb51-4d50-a8ea-67cab90425d9",
+      "persona": "Alireza_Play",
+      "count": 12
+    },
+    {
+      "id": "7b119ad6-3737-4b5a-bc29-730fc8c959c8",
+      "persona": "Fangz_88",
+      "count": 12
+    },
+    {
+      "id": "cabbd285-80e5-4080-9a04-8ce99106df0e",
+      "persona": "JazzBomb",
+      "count": 11
+    },
+    {
+      "id": "5d651655-a1dd-47c9-a7ac-403ddae32230",
+      "persona": "Ameliapricot",
+      "count": 10
+    },
+    {
+      "id": "bf6b1e04-2f44-4db1-b6f6-f40658452684",
+      "persona": "Choidobby",
+      "count": 10
+    },
+    {
+      "id": "16383eec-aa4b-4338-8a29-a60f2c4a4537",
+      "persona": "bunniesaurusss",
+      "count": 9
+    },
+    {
+      "id": "e5d205c6-d579-4e64-ab34-8bc91f57c776",
+      "persona": "KVT",
+      "count": 8
+    },
+    {
+      "id": "a12e7b45-d4cf-4183-9cf4-2060c6450d32",
+      "persona": "Runrun",
+      "count": 6
+    },
+    {
+      "id": "b05879f0-eb9a-4854-bebf-d9d6edc3fac4",
+      "persona": "christinee",
+      "count": 6
+    },
+    {
+      "id": "02f3933c-10ef-483d-89f6-ffa625d9423e",
+      "persona": "Stefan",
+      "count": 5
+    },
+    {
+      "id": "979d2567-06ea-48df-a00b-1dfe865145f0",
+      "persona": "Lock",
+      "count": 5
+    },
+    {
+      "id": "d6783041-2334-4597-94cc-28ae1c0c4c5a",
+      "persona": "LucilleTea",
+      "count": 5
+    },
+    {
+      "id": "e5c02f61-4d29-4de0-8a8f-7668c4397d22",
+      "persona": "[rpx]candy",
+      "count": 5
+    },
+    {
+      "id": "0c9b9aee-6743-4785-9027-77886033e24a",
+      "persona": "ClariS",
+      "count": 4
+    },
+    {
+      "id": "6c9c09b7-e6f8-4508-93c1-d3ba87c89baf",
+      "persona": "crispy",
+      "count": 4
+    },
+    {
+      "id": "a29e33c0-2793-44fb-a022-606c9ddbd9fe",
+      "persona": "\uB098\uB1FD\uC774",
+      "count": 4
+    },
+    {
+      "id": "85c491a1-6644-4050-9c82-ee194a8994bb",
+      "persona": "it\u0027s happening",
+      "count": 3
+    },
+    {
+      "id": "726f087a-88a2-439c-8de2-7934aa186a4f",
+      "persona": "HydraBurrito",
+      "count": 2
+    },
+    {
+      "id": "8c74a1a2-4efa-408a-bf76-46c4a2cb490f",
+      "persona": "kamemame999",
+      "count": 2
+    },
+    {
+      "id": "bd607634-dc45-4149-82ef-992c92a188e3",
+      "persona": "hacksaway",
+      "count": 2
+    },
+    {
+      "id": "10c8ef99-997c-4b5e-9548-867f97217839",
+      "persona": "smolminy",
+      "count": 1
+    },
+    {
+      "id": "14df162c-e080-403d-b4d7-93b9ac94cafb",
+      "persona": "Alex",
+      "count": 1
+    },
+    {
+      "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
+      "persona": "spuff",
+      "count": 1
+    }
+  ],
+  "mostTop10": [
+    {
+      "id": "84a140cb-5cac-4072-908f-4b0f369fafa9",
+      "persona": "shin.eisenhart",
+      "count": 85
+    },
+    {
+      "id": "cabbd285-80e5-4080-9a04-8ce99106df0e",
+      "persona": "JazzBomb",
+      "count": 79
+    },
+    {
+      "id": "67491073-cb51-4d50-a8ea-67cab90425d9",
+      "persona": "Alireza_Play",
+      "count": 60
+    },
+    {
+      "id": "431328b9-6b8b-4f49-9a0f-0414c5ebe498",
+      "persona": "Shroomgirl81",
+      "count": 58
+    },
+    {
+      "id": "02f3933c-10ef-483d-89f6-ffa625d9423e",
+      "persona": "Stefan",
+      "count": 53
+    },
+    {
+      "id": "19c8dc09-5360-4cf2-8f9d-c121eab54fcc",
+      "persona": "Quail Checkers",
+      "count": 50
+    },
+    {
+      "id": "16383eec-aa4b-4338-8a29-a60f2c4a4537",
+      "persona": "bunniesaurusss",
+      "count": 45
+    },
+    {
+      "id": "d3322f10-2cfe-43cb-b26a-7dcdddef9665",
+      "persona": "Safan",
+      "count": 40
+    },
+    {
+      "id": "a599aa83-0787-4090-b21c-21a3c201c5cb",
+      "persona": "jinx",
+      "count": 38
+    },
+    {
+      "id": "6d94d760-6bd3-4a7f-b9b9-69c5d8842817",
+      "persona": "Scotty2Hotty17",
+      "count": 37
+    },
+    {
+      "id": "bf6b1e04-2f44-4db1-b6f6-f40658452684",
+      "persona": "Choidobby",
+      "count": 36
+    },
+    {
+      "id": "bd607634-dc45-4149-82ef-992c92a188e3",
+      "persona": "hacksaway",
+      "count": 35
+    },
+    {
+      "id": "df215190-19c6-4226-a615-889e03eb9f5a",
+      "persona": "ellentee",
+      "count": 31
+    },
+    {
+      "id": "638a336f-25a2-4f42-87c4-6b7026e535f4",
+      "persona": "Moncoft",
+      "count": 30
+    },
+    {
+      "id": "e20c6314-3062-4ce6-a07c-8fd1f6c257a0",
+      "persona": "\u0022saber\u0022 tooth duck",
+      "count": 30
+    },
+    {
+      "id": "b05879f0-eb9a-4854-bebf-d9d6edc3fac4",
+      "persona": "christinee",
+      "count": 28
+    },
+    {
+      "id": "e5c02f61-4d29-4de0-8a8f-7668c4397d22",
+      "persona": "[rpx]candy",
+      "count": 25
+    },
+    {
+      "id": "5d651655-a1dd-47c9-a7ac-403ddae32230",
+      "persona": "Ameliapricot",
+      "count": 24
+    },
+    {
+      "id": "766e5178-f667-47d9-a020-43d48394d6b4",
+      "persona": "Micki",
+      "count": 24
+    },
+    {
+      "id": "0da996ed-9a1f-48c0-bb0a-feb98e2942d1",
+      "persona": "muugan99",
+      "count": 23
+    },
+    {
+      "id": "4dbc6697-ab64-4e78-910c-81b74abcaf8f",
+      "persona": "Selene_Russell",
+      "count": 23
+    },
+    {
+      "id": "01311f25-54f7-4bc5-88ba-23d3826f1c3d",
+      "persona": "Robin",
+      "count": 21
+    },
+    {
+      "id": "7b119ad6-3737-4b5a-bc29-730fc8c959c8",
+      "persona": "Fangz_88",
+      "count": 21
+    },
+    {
+      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
+      "persona": "ducttapegirl369",
+      "count": 19
+    },
+    {
+      "id": "6c9c09b7-e6f8-4508-93c1-d3ba87c89baf",
+      "persona": "crispy",
+      "count": 19
+    }
+  ],
+  "mostAppearances": [
+    {
+      "id": "e9125af9-3730-49c7-9924-3dc447c3fa23",
+      "persona": "Jimbos Monkey",
+      "count": 178
+    },
+    {
+      "id": "6d94d760-6bd3-4a7f-b9b9-69c5d8842817",
+      "persona": "Scotty2Hotty17",
+      "count": 169
+    },
+    {
+      "id": "49818613-a53f-45a2-91cc-8c4f0b140aa3",
+      "persona": "Flat",
+      "count": 160
+    },
+    {
+      "id": "96c8b025-360a-47e9-b5cc-38c8981528e9",
+      "persona": "frizzkitty",
+      "count": 160
+    },
+    {
+      "id": "8729af9d-adaf-41ef-b7ce-0e08cbd6b75e",
+      "persona": "adamdrinkslots",
+      "count": 158
+    },
+    {
+      "id": "af468622-e51d-4e48-bcdc-d393b6c0070a",
+      "persona": "Ladybird06",
+      "count": 158
+    },
+    {
+      "id": "e20c6314-3062-4ce6-a07c-8fd1f6c257a0",
+      "persona": "\u0022saber\u0022 tooth duck",
+      "count": 157
+    },
+    {
+      "id": "c632cc07-6199-4f72-bc8c-1197f7814526",
+      "persona": "Petalcaster",
+      "count": 154
+    },
+    {
+      "id": "0da996ed-9a1f-48c0-bb0a-feb98e2942d1",
+      "persona": "muugan99",
+      "count": 129
+    },
+    {
+      "id": "6706fd58-4f62-4fef-a221-89b011afdc24",
+      "persona": "bicky-_-",
+      "count": 128
+    },
+    {
+      "id": "c733c603-38bb-41ae-824d-81df4b4291f4",
+      "persona": "kousaka_rico",
+      "count": 126
+    },
+    {
+      "id": "d3bfbfd6-72e7-48d5-bfc9-e229ce909c48",
+      "persona": "EllaOFrail",
+      "count": 126
+    },
+    {
+      "id": "b07114ff-be0d-4232-86b5-b10a4df249b5",
+      "persona": "Keiruha",
+      "count": 125
+    },
+    {
+      "id": "326d3537-bb92-40b8-8248-34e71a5ad106",
+      "persona": "Shaini",
+      "count": 124
+    },
+    {
+      "id": "b18c8bfe-705d-4d63-9e60-d317fd08ced8",
+      "persona": "chabel",
+      "count": 120
+    },
+    {
+      "id": "03c4d724-0704-4dc3-92a2-2e1c8ac94546",
+      "persona": "TroubledPhoenix",
+      "count": 114
+    },
+    {
+      "id": "ee60fb2d-1529-46be-b97a-68734beeadbf",
+      "persona": "Xitllali",
+      "count": 114
+    },
+    {
+      "id": "638a336f-25a2-4f42-87c4-6b7026e535f4",
+      "persona": "Moncoft",
+      "count": 113
+    },
+    {
+      "id": "01311f25-54f7-4bc5-88ba-23d3826f1c3d",
+      "persona": "Robin",
+      "count": 112
+    },
+    {
+      "id": "400c39d5-b42c-4ee6-92c8-f7c678cf882b",
+      "persona": "I.T Guy",
+      "count": 111
+    },
+    {
+      "id": "9841048d-dba3-4837-963c-a8260d121909",
+      "persona": "keiko202",
+      "count": 111
+    },
+    {
+      "id": "14a56b85-e4b9-4638-9d22-76abe9431087",
+      "persona": "suzhwei",
+      "count": 106
+    },
+    {
+      "id": "84a140cb-5cac-4072-908f-4b0f369fafa9",
+      "persona": "shin.eisenhart",
+      "count": 106
+    },
+    {
+      "id": "a599aa83-0787-4090-b21c-21a3c201c5cb",
+      "persona": "jinx",
+      "count": 105
+    },
+    {
+      "id": "9ec243cd-81b0-446d-8ff0-63f06b3b7ecd",
+      "persona": "Majestic Sea Flap Flap",
+      "count": 104
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ddc2946c-332d-46c9-b587-bb743ac0cb84",
+  "persona": "HdkNorman",
+  "names": [
+    "HdkNorman"
+  ],
+  "runs": 3,
+  "bestRank": 369,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2016485,
+  "weeksActive": [
+    -94,
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 503,
+      "ms": 2851453,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 405,
+      "ms": 2016485,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 369,
+      "ms": 2631824,
+      "dish": "Pies"
+    }
+  ]
+}

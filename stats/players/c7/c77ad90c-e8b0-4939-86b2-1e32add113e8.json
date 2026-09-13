@@ -1,0 +1,58 @@
+{
+  "id": "c77ad90c-e8b0-4939-86b2-1e32add113e8",
+  "persona": "Papapallers",
+  "names": [
+    "Papapallers"
+  ],
+  "runs": 5,
+  "bestRank": 133,
+  "worstRank": 1008,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2476546,
+  "weeksActive": [
+    -94,
+    -78,
+    -77,
+    -76,
+    -74
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1008,
+      "ms": 3444929,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 159,
+      "ms": 2835798,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 209,
+      "ms": 2790722,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 206,
+      "ms": 2476546,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 133,
+      "ms": 2777026,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

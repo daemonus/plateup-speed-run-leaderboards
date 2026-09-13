@@ -1,0 +1,42 @@
+{
+  "id": "983aecd4-3263-424e-8800-09ba07bc8b9c",
+  "persona": "=7Cav=SPC.Lafayette.T",
+  "names": [
+    "=7Cav=SPC.Lafayette.T"
+  ],
+  "runs": 3,
+  "bestRank": 119,
+  "worstRank": 236,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2878543,
+  "weeksActive": [
+    72,
+    75,
+    76
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 236,
+      "ms": 3621910,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 119,
+      "ms": 2878543,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 126,
+      "ms": 3142929,
+      "dish": "Salad"
+    }
+  ]
+}

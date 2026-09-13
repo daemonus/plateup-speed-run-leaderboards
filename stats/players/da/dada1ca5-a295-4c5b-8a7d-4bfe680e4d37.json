@@ -1,0 +1,42 @@
+{
+  "id": "dada1ca5-a295-4c5b-8a7d-4bfe680e4d37",
+  "persona": "unfolded",
+  "names": [
+    "unfolded"
+  ],
+  "runs": 3,
+  "bestRank": 298,
+  "worstRank": 497,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3460882,
+  "weeksActive": [
+    -63,
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 336,
+      "ms": 3886633,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 497,
+      "ms": 4181274,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 298,
+      "ms": 3460882,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c6c19520-420a-4701-96dd-c23341de7ec1",
+  "persona": "ZAI",
+  "names": [
+    "ZAI"
+  ],
+  "runs": 2,
+  "bestRank": 273,
+  "worstRank": 665,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3331635,
+  "weeksActive": [
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 665,
+      "ms": 4880781,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 273,
+      "ms": 3331635,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

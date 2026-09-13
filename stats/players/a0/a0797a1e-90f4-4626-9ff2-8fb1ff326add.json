@@ -1,0 +1,98 @@
+{
+  "id": "a0797a1e-90f4-4626-9ff2-8fb1ff326add",
+  "persona": "HK",
+  "names": [
+    "HK"
+  ],
+  "runs": 10,
+  "bestRank": 48,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2572602,
+  "weeksActive": [
+    -32,
+    -31,
+    -30,
+    -29,
+    -28,
+    -27,
+    -26,
+    -20,
+    -13,
+    -12
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 320,
+      "ms": 3131240,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 226,
+      "ms": 3078012,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 263,
+      "ms": 2572602,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 62,
+      "ms": 2946155,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 128,
+      "ms": 4022733,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 84,
+      "ms": 3287708,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 110,
+      "ms": 3227631,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 48,
+      "ms": 2621356,
+      "dish": "Burgers"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 90,
+      "ms": 2715756,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 61,
+      "ms": 2595115,
+      "dish": "Breakfast"
+    }
+  ]
+}

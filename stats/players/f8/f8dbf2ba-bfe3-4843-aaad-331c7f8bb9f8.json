@@ -1,0 +1,34 @@
+{
+  "id": "f8dbf2ba-bfe3-4843-aaad-331c7f8bb9f8",
+  "persona": "Suko",
+  "names": [
+    "Suko"
+  ],
+  "runs": 2,
+  "bestRank": 119,
+  "worstRank": 276,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3134520,
+  "weeksActive": [
+    -57,
+    -56
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 119,
+      "ms": 3134520,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 276,
+      "ms": 3253313,
+      "dish": "Breakfast"
+    }
+  ]
+}

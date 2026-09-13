@@ -1,0 +1,42 @@
+{
+  "id": "409bca32-55aa-45c1-b68a-ab882b14f233",
+  "persona": "luis2191alg",
+  "names": [
+    "luis2191alg"
+  ],
+  "runs": 3,
+  "bestRank": 391,
+  "worstRank": 637,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3447600,
+  "weeksActive": [
+    -6,
+    0,
+    8
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 637,
+      "ms": 5551297,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 391,
+      "ms": 4966409,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 582,
+      "ms": 3447600,
+      "dish": "Fish"
+    }
+  ]
+}

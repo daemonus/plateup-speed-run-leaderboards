@@ -1,0 +1,50 @@
+{
+  "id": "19751f86-4cb9-456b-8a13-e16ceb7da89e",
+  "persona": "\u963F\u7D2B",
+  "names": [
+    "\u963F\u7D2B"
+  ],
+  "runs": 4,
+  "bestRank": 97,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4211222,
+  "weeksActive": [
+    -60,
+    -36,
+    -14,
+    87
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 385,
+      "ms": 4638480,
+      "dish": "Burgers"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 97,
+      "ms": 4211222,
+      "dish": "Burgers"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 232,
+      "ms": 4902922,
+      "dish": "Salad"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 200,
+      "ms": 5801088,
+      "dish": "Fajitas"
+    }
+  ]
+}

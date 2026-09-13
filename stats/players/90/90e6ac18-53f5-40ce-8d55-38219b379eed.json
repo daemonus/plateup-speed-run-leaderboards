@@ -1,0 +1,42 @@
+{
+  "id": "90e6ac18-53f5-40ce-8d55-38219b379eed",
+  "persona": "Cx330",
+  "names": [
+    "Cx330"
+  ],
+  "runs": 3,
+  "bestRank": 304,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4023552,
+  "weeksActive": [
+    -70,
+    -69,
+    -47
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 304,
+      "ms": 4023552,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 399,
+      "ms": 5265687,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 483,
+      "ms": 6467638,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

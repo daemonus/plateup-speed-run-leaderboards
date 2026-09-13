@@ -1,0 +1,42 @@
+{
+  "id": "ef601153-72e9-4b5b-a9c2-dc3d533dd9fd",
+  "persona": "HC",
+  "names": [
+    "HC"
+  ],
+  "runs": 3,
+  "bestRank": 34,
+  "worstRank": 70,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1925942,
+  "weeksActive": [
+    -59,
+    -58,
+    -56
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 70,
+      "ms": 2327091,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 70,
+      "ms": 3001014,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 34,
+      "ms": 1925942,
+      "dish": "Breakfast"
+    }
+  ]
+}

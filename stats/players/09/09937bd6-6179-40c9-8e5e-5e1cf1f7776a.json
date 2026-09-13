@@ -1,0 +1,42 @@
+{
+  "id": "09937bd6-6179-40c9-8e5e-5e1cf1f7776a",
+  "persona": "Lich",
+  "names": [
+    "Lich"
+  ],
+  "runs": 3,
+  "bestRank": 265,
+  "worstRank": 423,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2205242,
+  "weeksActive": [
+    41,
+    43,
+    83
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 338,
+      "ms": 2463918,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 423,
+      "ms": 3148694,
+      "dish": "Fish"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 265,
+      "ms": 2205242,
+      "dish": "Sundaes"
+    }
+  ]
+}

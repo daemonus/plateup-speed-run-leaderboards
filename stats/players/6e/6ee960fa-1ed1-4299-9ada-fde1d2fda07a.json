@@ -1,0 +1,42 @@
+{
+  "id": "6ee960fa-1ed1-4299-9ada-fde1d2fda07a",
+  "persona": "Revelendous",
+  "names": [
+    "Revelendous"
+  ],
+  "runs": 3,
+  "bestRank": 611,
+  "worstRank": 786,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3780793,
+  "weeksActive": [
+    -77,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 752,
+      "ms": 4344358,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 786,
+      "ms": 3780793,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 611,
+      "ms": 5812914,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

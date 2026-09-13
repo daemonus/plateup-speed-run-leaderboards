@@ -1,0 +1,50 @@
+{
+  "id": "f01aa171-0bda-41b2-9f13-f7b4a5f364dd",
+  "persona": "Y",
+  "names": [
+    "Y"
+  ],
+  "runs": 4,
+  "bestRank": 326,
+  "worstRank": 708,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4349423,
+  "weeksActive": [
+    -26,
+    -17,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 394,
+      "ms": 5113920,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 326,
+      "ms": 4349423,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 708,
+      "ms": 6193552,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 515,
+      "ms": 4408506,
+      "dish": "Fish"
+    }
+  ]
+}

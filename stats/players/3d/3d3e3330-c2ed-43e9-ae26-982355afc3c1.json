@@ -1,0 +1,42 @@
+{
+  "id": "3d3e3330-c2ed-43e9-ae26-982355afc3c1",
+  "persona": "CHIRO-P",
+  "names": [
+    "CHIRO-P"
+  ],
+  "runs": 3,
+  "bestRank": 344,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3474203,
+  "weeksActive": [
+    82,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 472,
+      "ms": 4327118,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 512,
+      "ms": 3474203,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 344,
+      "ms": 4011739,
+      "dish": "Fish"
+    }
+  ]
+}

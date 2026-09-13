@@ -1,0 +1,34 @@
+{
+  "id": "0df7720c-3127-47b1-8e8c-15757ff33bab",
+  "persona": "m_i1sub",
+  "names": [
+    "m_i1sub"
+  ],
+  "runs": 2,
+  "bestRank": 130,
+  "worstRank": 774,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2657260,
+  "weeksActive": [
+    -91,
+    -64
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 774,
+      "ms": 2657260,
+      "dish": "Fish"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 130,
+      "ms": 3072421,
+      "dish": "Salad"
+    }
+  ]
+}

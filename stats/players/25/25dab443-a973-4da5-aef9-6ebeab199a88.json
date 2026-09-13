@@ -1,0 +1,90 @@
+{
+  "id": "25dab443-a973-4da5-aef9-6ebeab199a88",
+  "persona": "SuperCat",
+  "names": [
+    "SuperCat"
+  ],
+  "runs": 9,
+  "bestRank": 179,
+  "worstRank": 670,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2472003,
+  "weeksActive": [
+    15,
+    16,
+    18,
+    19,
+    20,
+    30,
+    32,
+    56,
+    58
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 540,
+      "ms": 3807499,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 265,
+      "ms": 4248573,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 250,
+      "ms": 4690219,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 250,
+      "ms": 3939090,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 670,
+      "ms": 3718841,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 179,
+      "ms": 3007961,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 202,
+      "ms": 3398218,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 407,
+      "ms": 2472003,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 189,
+      "ms": 2682251,
+      "dish": "Turkey"
+    }
+  ]
+}

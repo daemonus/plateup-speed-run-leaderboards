@@ -1,0 +1,34 @@
+{
+  "id": "d766e6c5-5ebc-452d-8b07-e7741ae712aa",
+  "persona": "cheesystave",
+  "names": [
+    "cheesystave"
+  ],
+  "runs": 2,
+  "bestRank": 408,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4230592,
+  "weeksActive": [
+    53,
+    57
+  ],
+  "history": [
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 504,
+      "ms": 7730614,
+      "dish": "Pies"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 408,
+      "ms": 4230592,
+      "dish": "Salad"
+    }
+  ]
+}

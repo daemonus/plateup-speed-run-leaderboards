@@ -1,0 +1,66 @@
+{
+  "id": "d7f8ccc9-176c-4484-9533-385e07a49e94",
+  "persona": "MyLittleYOLO",
+  "names": [
+    "MyLittleYOLO"
+  ],
+  "runs": 6,
+  "bestRank": 162,
+  "worstRank": 1004,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3424159,
+  "weeksActive": [
+    -32,
+    -28,
+    -21,
+    -20,
+    -2,
+    58
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1004,
+      "ms": 4751500,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 162,
+      "ms": 4404488,
+      "dish": "Burgers"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 249,
+      "ms": 3424159,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 426,
+      "ms": 4299753,
+      "dish": "Burgers"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 420,
+      "ms": 5129864,
+      "dish": "Pizza"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 451,
+      "ms": 3807892,
+      "dish": "Turkey"
+    }
+  ]
+}

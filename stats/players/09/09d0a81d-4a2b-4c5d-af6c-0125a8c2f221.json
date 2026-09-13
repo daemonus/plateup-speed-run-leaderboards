@@ -1,0 +1,58 @@
+{
+  "id": "09d0a81d-4a2b-4c5d-af6c-0125a8c2f221",
+  "persona": "aequello",
+  "names": [
+    "aequello"
+  ],
+  "runs": 5,
+  "bestRank": 130,
+  "worstRank": 497,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2529491,
+  "weeksActive": [
+    -76,
+    -75,
+    -74,
+    -59,
+    66
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 497,
+      "ms": 3242555,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 300,
+      "ms": 2529491,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 227,
+      "ms": 3304816,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 413,
+      "ms": 3883194,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 130,
+      "ms": 2557461,
+      "dish": "Breakfast"
+    }
+  ]
+}

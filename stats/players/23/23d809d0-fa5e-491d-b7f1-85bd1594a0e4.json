@@ -1,0 +1,34 @@
+{
+  "id": "23d809d0-fa5e-491d-b7f1-85bd1594a0e4",
+  "persona": "goldfish.1203",
+  "names": [
+    "goldfish.1203"
+  ],
+  "runs": 2,
+  "bestRank": 381,
+  "worstRank": 556,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3337983,
+  "weeksActive": [
+    -71,
+    78
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 556,
+      "ms": 3337983,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 381,
+      "ms": 6398135,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

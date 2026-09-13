@@ -1,0 +1,50 @@
+{
+  "id": "90b599e5-4438-4c5b-86d9-6a6d9803def4",
+  "persona": "boki",
+  "names": [
+    "boki"
+  ],
+  "runs": 4,
+  "bestRank": 22,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2107810,
+  "weeksActive": [
+    47,
+    53,
+    82,
+    86
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 22,
+      "ms": 2107810,
+      "dish": "Pizza"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 51,
+      "ms": 2268745,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 248,
+      "ms": 3205520,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 193,
+      "ms": 2122623,
+      "dish": "Sundaes"
+    }
+  ]
+}

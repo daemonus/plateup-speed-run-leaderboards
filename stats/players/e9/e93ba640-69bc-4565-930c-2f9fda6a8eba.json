@@ -1,0 +1,50 @@
+{
+  "id": "e93ba640-69bc-4565-930c-2f9fda6a8eba",
+  "persona": "Samuel",
+  "names": [
+    "Samuel"
+  ],
+  "runs": 4,
+  "bestRank": 240,
+  "worstRank": 1431,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2747707,
+  "weeksActive": [
+    -93,
+    -35,
+    -25,
+    -15
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1431,
+      "ms": 2747707,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 240,
+      "ms": 7691604,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 483,
+      "ms": 4522053,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 407,
+      "ms": 3621558,
+      "dish": "Fish"
+    }
+  ]
+}

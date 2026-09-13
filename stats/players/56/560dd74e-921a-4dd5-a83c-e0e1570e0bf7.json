@@ -1,0 +1,42 @@
+{
+  "id": "560dd74e-921a-4dd5-a83c-e0e1570e0bf7",
+  "persona": "LonesomeGiraffe",
+  "names": [
+    "LonesomeGiraffe"
+  ],
+  "runs": 3,
+  "bestRank": 25,
+  "worstRank": 643,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1848027,
+  "weeksActive": [
+    -75,
+    -74,
+    1
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 643,
+      "ms": 3367812,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 138,
+      "ms": 2818157,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 25,
+      "ms": 1848027,
+      "dish": "Pies"
+    }
+  ]
+}

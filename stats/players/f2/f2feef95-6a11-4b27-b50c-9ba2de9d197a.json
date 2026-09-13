@@ -1,0 +1,34 @@
+{
+  "id": "f2feef95-6a11-4b27-b50c-9ba2de9d197a",
+  "persona": "nemu114",
+  "names": [
+    "nemu114"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 150,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2886324,
+  "weeksActive": [
+    -42,
+    -23
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 150,
+      "ms": 3824579,
+      "dish": "Burgers"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 81,
+      "ms": 2886324,
+      "dish": "Pizza"
+    }
+  ]
+}

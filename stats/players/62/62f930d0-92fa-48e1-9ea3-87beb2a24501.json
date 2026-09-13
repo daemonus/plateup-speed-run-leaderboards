@@ -1,0 +1,74 @@
+{
+  "id": "62f930d0-92fa-48e1-9ea3-87beb2a24501",
+  "persona": "Iloria",
+  "names": [
+    "Iloria"
+  ],
+  "runs": 7,
+  "bestRank": 124,
+  "worstRank": 1286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2647994,
+  "weeksActive": [
+    -94,
+    -93,
+    -46,
+    -45,
+    -44,
+    -42,
+    8
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 656,
+      "ms": 3034199,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1286,
+      "ms": 2647994,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 298,
+      "ms": 4089503,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 285,
+      "ms": 3427706,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 276,
+      "ms": 3144362,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 124,
+      "ms": 3567271,
+      "dish": "Burgers"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 893,
+      "ms": 4743502,
+      "dish": "Fish"
+    }
+  ]
+}

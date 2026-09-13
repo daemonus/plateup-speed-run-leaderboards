@@ -1,0 +1,50 @@
+{
+  "id": "574fd615-a949-49e9-9f12-a398c8584d26",
+  "persona": "jojo",
+  "names": [
+    "jojo"
+  ],
+  "runs": 4,
+  "bestRank": 235,
+  "worstRank": 930,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3641467,
+  "weeksActive": [
+    -68,
+    -26,
+    -25,
+    64
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 347,
+      "ms": 6346791,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 352,
+      "ms": 4700382,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 235,
+      "ms": 3641467,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 930,
+      "ms": 4547732,
+      "dish": "Sundaes"
+    }
+  ]
+}

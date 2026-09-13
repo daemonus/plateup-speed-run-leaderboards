@@ -1,0 +1,34 @@
+{
+  "id": "c3705c88-7afc-4c0d-a22f-8f992e63d8f4",
+  "persona": "Jgray",
+  "names": [
+    "Jgray"
+  ],
+  "runs": 2,
+  "bestRank": 371,
+  "worstRank": 824,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3690544,
+  "weeksActive": [
+    -82,
+    -78
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 824,
+      "ms": 6835243,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 371,
+      "ms": 3690544,
+      "dish": "Burgers"
+    }
+  ]
+}

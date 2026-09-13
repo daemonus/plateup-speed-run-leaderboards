@@ -1,0 +1,42 @@
+{
+  "id": "3997e072-527e-44d6-8486-c5efc2371a76",
+  "persona": "karkhu 02",
+  "names": [
+    "karkhu 02"
+  ],
+  "runs": 3,
+  "bestRank": 309,
+  "worstRank": 593,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3255648,
+  "weeksActive": [
+    52,
+    63,
+    66
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 593,
+      "ms": 4260155,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 309,
+      "ms": 3255648,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 344,
+      "ms": 3883181,
+      "dish": "Breakfast"
+    }
+  ]
+}

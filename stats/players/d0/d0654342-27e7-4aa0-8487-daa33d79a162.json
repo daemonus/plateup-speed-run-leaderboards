@@ -1,0 +1,42 @@
+{
+  "id": "d0654342-27e7-4aa0-8487-daa33d79a162",
+  "persona": "appellation",
+  "names": [
+    "appellation"
+  ],
+  "runs": 3,
+  "bestRank": 124,
+  "worstRank": 154,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2040387,
+  "weeksActive": [
+    3,
+    20,
+    26
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 124,
+      "ms": 2636407,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 154,
+      "ms": 2040387,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 125,
+      "ms": 2903474,
+      "dish": "Pizza"
+    }
+  ]
+}

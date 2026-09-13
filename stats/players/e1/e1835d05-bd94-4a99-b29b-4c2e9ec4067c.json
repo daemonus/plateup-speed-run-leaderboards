@@ -1,0 +1,58 @@
+{
+  "id": "e1835d05-bd94-4a99-b29b-4c2e9ec4067c",
+  "persona": "Minyi",
+  "names": [
+    "Minyi"
+  ],
+  "runs": 5,
+  "bestRank": 74,
+  "worstRank": 394,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2626071,
+  "weeksActive": [
+    -27,
+    -26,
+    -25,
+    -23,
+    83
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 87,
+      "ms": 3307516,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 229,
+      "ms": 3954016,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 89,
+      "ms": 2745485,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 74,
+      "ms": 2808204,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 394,
+      "ms": 2626071,
+      "dish": "Sundaes"
+    }
+  ]
+}

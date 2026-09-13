@@ -1,0 +1,66 @@
+{
+  "id": "9d21784c-e3f5-43cd-93fc-711567519ffe",
+  "persona": "Bearacowa",
+  "names": [
+    "Bearacowa"
+  ],
+  "runs": 6,
+  "bestRank": 258,
+  "worstRank": 605,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2058143,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 301,
+      "ms": 2563235,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 448,
+      "ms": 2058143,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 599,
+      "ms": 2446184,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 258,
+      "ms": 2170024,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 605,
+      "ms": 3193114,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 583,
+      "ms": 4054014,
+      "dish": "Pies"
+    }
+  ]
+}

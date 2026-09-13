@@ -1,0 +1,34 @@
+{
+  "id": "1bd10c62-a8b6-45b8-98da-cef32732528f",
+  "persona": "Vayle",
+  "names": [
+    "Vayle"
+  ],
+  "runs": 2,
+  "bestRank": 294,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3233965,
+  "weeksActive": [
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 362,
+      "ms": 3233965,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 294,
+      "ms": 3731348,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "90189665-f7c6-4e41-bad8-1fccf24178b4",
+  "persona": "Morlok",
+  "names": [
+    "Morlok"
+  ],
+  "runs": 2,
+  "bestRank": 233,
+  "worstRank": 421,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6205530,
+  "weeksActive": [
+    -28,
+    26
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 233,
+      "ms": 6205530,
+      "dish": "Burgers"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 421,
+      "ms": 8935379,
+      "dish": "Pizza"
+    }
+  ]
+}

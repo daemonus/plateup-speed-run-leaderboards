@@ -1,0 +1,42 @@
+{
+  "id": "199ed71c-e4e0-4970-a136-b8a13ce69fbf",
+  "persona": "Doktor Vic Tim",
+  "names": [
+    "Doktor Vic Tim"
+  ],
+  "runs": 3,
+  "bestRank": 122,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1817969,
+  "weeksActive": [
+    -94,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 463,
+      "ms": 2797380,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 122,
+      "ms": 1817969,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 533,
+      "ms": 3054272,
+      "dish": "Pies"
+    }
+  ]
+}

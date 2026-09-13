@@ -1,0 +1,42 @@
+{
+  "id": "0f78dc8a-b3f5-495d-aa13-0e31cbe93f95",
+  "persona": "Kylie",
+  "names": [
+    "Kylie"
+  ],
+  "runs": 3,
+  "bestRank": 573,
+  "worstRank": 760,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4300394,
+  "weeksActive": [
+    -20,
+    -18,
+    -3
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 573,
+      "ms": 6116991,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 760,
+      "ms": 5526937,
+      "dish": "Fish"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 587,
+      "ms": 4300394,
+      "dish": "Turkey"
+    }
+  ]
+}

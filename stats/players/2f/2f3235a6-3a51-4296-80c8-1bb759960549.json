@@ -1,0 +1,50 @@
+{
+  "id": "2f3235a6-3a51-4296-80c8-1bb759960549",
+  "persona": "AmoraOficial",
+  "names": [
+    "AmoraOficial"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2262613,
+  "weeksActive": [
+    60,
+    63,
+    68,
+    75
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 357,
+      "ms": 4616170,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 294,
+      "ms": 3198601,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 134,
+      "ms": 2262613,
+      "dish": "Turkey"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 247,
+      "ms": 3900427,
+      "dish": "Pies"
+    }
+  ]
+}

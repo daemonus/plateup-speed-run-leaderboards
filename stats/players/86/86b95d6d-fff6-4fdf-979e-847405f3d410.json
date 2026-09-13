@@ -1,0 +1,34 @@
+{
+  "id": "86b95d6d-fff6-4fdf-979e-847405f3d410",
+  "persona": "BlackWell",
+  "names": [
+    "BlackWell"
+  ],
+  "runs": 2,
+  "bestRank": 229,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3310278,
+  "weeksActive": [
+    -74,
+    3
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 229,
+      "ms": 3310278,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 470,
+      "ms": 3735971,
+      "dish": "Fish"
+    }
+  ]
+}

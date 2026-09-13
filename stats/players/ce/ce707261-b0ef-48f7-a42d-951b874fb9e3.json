@@ -1,0 +1,34 @@
+{
+  "id": "ce707261-b0ef-48f7-a42d-951b874fb9e3",
+  "persona": "Foerill",
+  "names": [
+    "Foerill"
+  ],
+  "runs": 2,
+  "bestRank": 86,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2154933,
+  "weeksActive": [
+    -86,
+    52
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 399,
+      "ms": 2797849,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 86,
+      "ms": 2154933,
+      "dish": "Fish"
+    }
+  ]
+}

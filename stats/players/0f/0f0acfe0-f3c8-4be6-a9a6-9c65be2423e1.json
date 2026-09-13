@@ -1,0 +1,34 @@
+{
+  "id": "0f0acfe0-f3c8-4be6-a9a6-9c65be2423e1",
+  "persona": "Noir",
+  "names": [
+    "Noir"
+  ],
+  "runs": 2,
+  "bestRank": 422,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6082849,
+  "weeksActive": [
+    -45,
+    -41
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 547,
+      "ms": 6082849,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 422,
+      "ms": 6331026,
+      "dish": "Stir Fry"
+    }
+  ]
+}

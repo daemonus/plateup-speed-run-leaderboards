@@ -1,0 +1,42 @@
+{
+  "id": "3db1f9fd-7b62-486f-97b0-2ca74936f864",
+  "persona": "Kicky",
+  "names": [
+    "Kicky"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2175816,
+  "weeksActive": [
+    -82,
+    -80,
+    -79
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 356,
+      "ms": 3073597,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 29,
+      "ms": 2175816,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 82,
+      "ms": 2562126,
+      "dish": "Pies"
+    }
+  ]
+}

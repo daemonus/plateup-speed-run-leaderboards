@@ -1,0 +1,58 @@
+{
+  "id": "ecc73a1b-3a53-44c6-b549-4228549ee5cc",
+  "persona": "Yellow tang",
+  "names": [
+    "Yellow tang"
+  ],
+  "runs": 5,
+  "bestRank": 84,
+  "worstRank": 542,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2257172,
+  "weeksActive": [
+    -59,
+    -57,
+    -56,
+    -55,
+    -44
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 542,
+      "ms": 4389767,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 278,
+      "ms": 4595668,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 340,
+      "ms": 3557184,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 208,
+      "ms": 3266423,
+      "dish": "Pizza"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 84,
+      "ms": 2257172,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "8081dbec-de9f-44c3-8238-11b74b342861",
+  "persona": "Vettucine",
+  "names": [
+    "Vettucine"
+  ],
+  "runs": 2,
+  "bestRank": 458,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4061825,
+  "weeksActive": [
+    -62,
+    -59
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 594,
+      "ms": 4547993,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 458,
+      "ms": 4061825,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0afee8f8-f0e5-44d6-bbd7-345753dfd17c",
+  "persona": "Unlucky",
+  "names": [
+    "Unlucky"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 221,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3227022,
+  "weeksActive": [
+    -70,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 122,
+      "ms": 3227022,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 221,
+      "ms": 4294091,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 118,
+      "ms": 3265405,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "779446dd-87c5-44d0-9586-cfe6522de994",
+  "persona": "Tsuki23",
+  "names": [
+    "Tsuki23"
+  ],
+  "runs": 4,
+  "bestRank": 359,
+  "worstRank": 668,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4244527,
+  "weeksActive": [
+    0,
+    1,
+    6,
+    58
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 432,
+      "ms": 5369747,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 359,
+      "ms": 4244527,
+      "dish": "Pies"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 413,
+      "ms": 5477603,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 668,
+      "ms": 6176245,
+      "dish": "Turkey"
+    }
+  ]
+}

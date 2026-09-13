@@ -1,0 +1,58 @@
+{
+  "id": "f9520891-17d5-4ece-8ea2-86aed2451c10",
+  "persona": "emilylovesplants",
+  "names": [
+    "emilylovesplants"
+  ],
+  "runs": 5,
+  "bestRank": 283,
+  "worstRank": 726,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3437801,
+  "weeksActive": [
+    -32,
+    -20,
+    -18,
+    -17,
+    -2
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 502,
+      "ms": 3520513,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 448,
+      "ms": 4492888,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 726,
+      "ms": 5172458,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 304,
+      "ms": 4046426,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 283,
+      "ms": 3437801,
+      "dish": "Pizza"
+    }
+  ]
+}

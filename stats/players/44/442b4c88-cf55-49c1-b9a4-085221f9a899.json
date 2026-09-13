@@ -1,0 +1,42 @@
+{
+  "id": "442b4c88-cf55-49c1-b9a4-085221f9a899",
+  "persona": "TengU",
+  "names": [
+    "TengU"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3843907,
+  "weeksActive": [
+    -8,
+    -7,
+    50
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 215,
+      "ms": 4502191,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 152,
+      "ms": 3843907,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 182,
+      "ms": 4433706,
+      "dish": "Stir Fry"
+    }
+  ]
+}

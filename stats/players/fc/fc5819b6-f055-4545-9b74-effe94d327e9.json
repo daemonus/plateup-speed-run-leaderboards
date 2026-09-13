@@ -1,0 +1,50 @@
+{
+  "id": "fc5819b6-f055-4545-9b74-effe94d327e9",
+  "persona": "\u6CE0\u97F3",
+  "names": [
+    "\u6CE0\u97F3"
+  ],
+  "runs": 4,
+  "bestRank": 379,
+  "worstRank": 616,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3581642,
+  "weeksActive": [
+    57,
+    58,
+    63,
+    78
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 395,
+      "ms": 4130685,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 398,
+      "ms": 3581642,
+      "dish": "Turkey"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 616,
+      "ms": 4349398,
+      "dish": "Pizza"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 379,
+      "ms": 6248631,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

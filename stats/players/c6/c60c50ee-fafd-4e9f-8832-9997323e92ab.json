@@ -1,0 +1,34 @@
+{
+  "id": "c60c50ee-fafd-4e9f-8832-9997323e92ab",
+  "persona": "Laucher",
+  "names": [
+    "Laucher"
+  ],
+  "runs": 2,
+  "bestRank": 135,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3403717,
+  "weeksActive": [
+    51,
+    53
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 135,
+      "ms": 3403717,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 499,
+      "ms": 7004401,
+      "dish": "Pies"
+    }
+  ]
+}

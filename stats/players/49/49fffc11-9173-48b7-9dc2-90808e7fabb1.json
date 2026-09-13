@@ -1,0 +1,50 @@
+{
+  "id": "49fffc11-9173-48b7-9dc2-90808e7fabb1",
+  "persona": "Technomancer",
+  "names": [
+    "Technomancer"
+  ],
+  "runs": 4,
+  "bestRank": 347,
+  "worstRank": 650,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2131616,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 650,
+      "ms": 2225844,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 347,
+      "ms": 2131616,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 410,
+      "ms": 2732424,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 368,
+      "ms": 3222056,
+      "dish": "Pies"
+    }
+  ]
+}

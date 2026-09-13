@@ -1,0 +1,50 @@
+{
+  "id": "246f45bf-c707-44f4-aee1-5abb7da46a7c",
+  "persona": "Anoxia",
+  "names": [
+    "Anoxia"
+  ],
+  "runs": 4,
+  "bestRank": 258,
+  "worstRank": 905,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2755237,
+  "weeksActive": [
+    -91,
+    -90,
+    -47,
+    33
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 905,
+      "ms": 2817033,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 545,
+      "ms": 2755237,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 360,
+      "ms": 4385665,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 258,
+      "ms": 4781870,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

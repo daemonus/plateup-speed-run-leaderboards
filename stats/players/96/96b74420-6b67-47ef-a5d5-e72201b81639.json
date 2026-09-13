@@ -1,0 +1,34 @@
+{
+  "id": "96b74420-6b67-47ef-a5d5-e72201b81639",
+  "persona": "Leo",
+  "names": [
+    "Leo"
+  ],
+  "runs": 2,
+  "bestRank": 157,
+  "worstRank": 173,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2957401,
+  "weeksActive": [
+    -25,
+    -18
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 173,
+      "ms": 3325319,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 157,
+      "ms": 2957401,
+      "dish": "Fish"
+    }
+  ]
+}

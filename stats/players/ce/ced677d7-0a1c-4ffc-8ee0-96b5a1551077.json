@@ -1,0 +1,42 @@
+{
+  "id": "ced677d7-0a1c-4ffc-8ee0-96b5a1551077",
+  "persona": "DigBicksby",
+  "names": [
+    "DigBicksby"
+  ],
+  "runs": 3,
+  "bestRank": 92,
+  "worstRank": 154,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2628481,
+  "weeksActive": [
+    -21,
+    -20,
+    -19
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 118,
+      "ms": 2736431,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 154,
+      "ms": 3149735,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 92,
+      "ms": 2628481,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

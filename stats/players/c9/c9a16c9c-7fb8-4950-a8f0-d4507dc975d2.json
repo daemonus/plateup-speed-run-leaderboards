@@ -1,0 +1,42 @@
+{
+  "id": "c9a16c9c-7fb8-4950-a8f0-d4507dc975d2",
+  "persona": "\u55B5\u547C\u547C",
+  "names": [
+    "\u55B5\u547C\u547C"
+  ],
+  "runs": 3,
+  "bestRank": 202,
+  "worstRank": 307,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2611995,
+  "weeksActive": [
+    8,
+    9,
+    10
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 240,
+      "ms": 2611995,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 307,
+      "ms": 3517146,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 202,
+      "ms": 4234951,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

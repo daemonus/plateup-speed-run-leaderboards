@@ -1,0 +1,82 @@
+{
+  "id": "7cc7956e-9c81-4ef2-a2a7-fe5395686604",
+  "persona": "maegwebster",
+  "names": [
+    "maegwebster"
+  ],
+  "runs": 8,
+  "bestRank": 127,
+  "worstRank": 1440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2850431,
+  "weeksActive": [
+    -91,
+    -77,
+    -75,
+    -72,
+    -71,
+    -70,
+    -66,
+    -16
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1440,
+      "ms": 3653587,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 636,
+      "ms": 3982596,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 418,
+      "ms": 2850431,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 695,
+      "ms": 4896942,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 940,
+      "ms": 4130959,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 568,
+      "ms": 5312601,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 127,
+      "ms": 2878601,
+      "dish": "Turkey"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 480,
+      "ms": 3946075,
+      "dish": "Pies"
+    }
+  ]
+}

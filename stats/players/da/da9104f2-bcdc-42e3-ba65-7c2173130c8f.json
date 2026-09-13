@@ -1,0 +1,58 @@
+{
+  "id": "da9104f2-bcdc-42e3-ba65-7c2173130c8f",
+  "persona": "Eva",
+  "names": [
+    "Eva"
+  ],
+  "runs": 5,
+  "bestRank": 222,
+  "worstRank": 747,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3111908,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -14,
+    23
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 747,
+      "ms": 5911613,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 474,
+      "ms": 3111908,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 386,
+      "ms": 3225495,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 222,
+      "ms": 4769084,
+      "dish": "Salad"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 543,
+      "ms": 4543418,
+      "dish": "Turkey"
+    }
+  ]
+}

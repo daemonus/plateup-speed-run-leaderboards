@@ -1,0 +1,42 @@
+{
+  "id": "cc7698de-0f3b-48e3-8f27-8893bb27b388",
+  "persona": "Gamer-man",
+  "names": [
+    "Gamer-man"
+  ],
+  "runs": 3,
+  "bestRank": 35,
+  "worstRank": 73,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1933064,
+  "weeksActive": [
+    -60,
+    -56,
+    -21
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 73,
+      "ms": 2910047,
+      "dish": "Burgers"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 35,
+      "ms": 1933064,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 44,
+      "ms": 2195270,
+      "dish": "Pizza"
+    }
+  ]
+}

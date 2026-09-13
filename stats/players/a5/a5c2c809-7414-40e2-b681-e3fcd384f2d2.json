@@ -1,0 +1,42 @@
+{
+  "id": "a5c2c809-7414-40e2-b681-e3fcd384f2d2",
+  "persona": "\u5C0F\u7F57\u9A6C\u5B50",
+  "names": [
+    "\u5C0F\u7F57\u9A6C\u5B50"
+  ],
+  "runs": 3,
+  "bestRank": 269,
+  "worstRank": 853,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6511865,
+  "weeksActive": [
+    -86,
+    1,
+    37
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 853,
+      "ms": 6511865,
+      "dish": "Fish"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 474,
+      "ms": 7063355,
+      "dish": "Pies"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 269,
+      "ms": 8384602,
+      "dish": "Burgers"
+    }
+  ]
+}

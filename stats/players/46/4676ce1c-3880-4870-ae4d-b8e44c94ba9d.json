@@ -1,0 +1,50 @@
+{
+  "id": "4676ce1c-3880-4870-ae4d-b8e44c94ba9d",
+  "persona": "eraubound2016",
+  "names": [
+    "eraubound2016"
+  ],
+  "runs": 4,
+  "bestRank": 173,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3116046,
+  "weeksActive": [
+    -53,
+    -45,
+    25,
+    46
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 245,
+      "ms": 4091096,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 210,
+      "ms": 3116046,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 173,
+      "ms": 4818428,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 359,
+      "ms": 3721831,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5f4472ca-8df6-40b9-9759-5a1b9afe253c",
+  "persona": "Pugu",
+  "names": [
+    "Pugu"
+  ],
+  "runs": 4,
+  "bestRank": 221,
+  "worstRank": 600,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2083840,
+  "weeksActive": [
+    -38,
+    -37,
+    41,
+    46
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 600,
+      "ms": 3478444,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 291,
+      "ms": 2967530,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 221,
+      "ms": 2083840,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 252,
+      "ms": 3219565,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5dec965b-0f22-4dd4-a527-ca0ad5e6db87",
+  "persona": "Shalona",
+  "names": [
+    "Shalona"
+  ],
+  "runs": 5,
+  "bestRank": 296,
+  "worstRank": 1430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2747635,
+  "weeksActive": [
+    -93,
+    -91,
+    -84,
+    -81,
+    -17
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1430,
+      "ms": 2747635,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1200,
+      "ms": 3252986,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 698,
+      "ms": 6510679,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 379,
+      "ms": 5013924,
+      "dish": "Steak"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 296,
+      "ms": 3962981,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "332b5eee-1c90-4f61-969c-ec91bf36d40d",
+  "persona": "Tutak Tutak Tutiya",
+  "names": [
+    "Tutak Tutak Tutiya"
+  ],
+  "runs": 4,
+  "bestRank": 214,
+  "worstRank": 526,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3499227,
+  "weeksActive": [
+    74,
+    75,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 214,
+      "ms": 3927018,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 225,
+      "ms": 3767518,
+      "dish": "Pies"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 526,
+      "ms": 3587427,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 270,
+      "ms": 3499227,
+      "dish": "Fish"
+    }
+  ]
+}

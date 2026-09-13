@@ -1,0 +1,82 @@
+{
+  "id": "c91dfcda-9c23-4bb2-bc2f-bebff55425a6",
+  "persona": "Mouse",
+  "names": [
+    "Mouse"
+  ],
+  "runs": 8,
+  "bestRank": 148,
+  "worstRank": 382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2283973,
+  "weeksActive": [
+    53,
+    54,
+    56,
+    57,
+    61,
+    78,
+    79,
+    80
+  ],
+  "history": [
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 148,
+      "ms": 2924868,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 223,
+      "ms": 4081460,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 345,
+      "ms": 2283973,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 382,
+      "ms": 4048411,
+      "dish": "Salad"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 186,
+      "ms": 3189516,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 191,
+      "ms": 3111936,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 158,
+      "ms": 3694081,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 266,
+      "ms": 3746789,
+      "dish": "Pizza"
+    }
+  ]
+}

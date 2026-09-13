@@ -1,0 +1,42 @@
+{
+  "id": "8e8bf1ee-dd2e-4ca1-835f-544546ae0f79",
+  "persona": "kiko",
+  "names": [
+    "kiko"
+  ],
+  "runs": 3,
+  "bestRank": 34,
+  "worstRank": 124,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1644375,
+  "weeksActive": [
+    -38,
+    -37,
+    -18
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 44,
+      "ms": 1644375,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 34,
+      "ms": 1896631,
+      "dish": "Fish"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 124,
+      "ms": 2830669,
+      "dish": "Fish"
+    }
+  ]
+}

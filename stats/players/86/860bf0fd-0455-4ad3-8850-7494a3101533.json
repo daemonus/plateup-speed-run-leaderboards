@@ -1,0 +1,58 @@
+{
+  "id": "860bf0fd-0455-4ad3-8850-7494a3101533",
+  "persona": "ToasterDruedle",
+  "names": [
+    "ToasterDruedle"
+  ],
+  "runs": 5,
+  "bestRank": 485,
+  "worstRank": 924,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3672341,
+  "weeksActive": [
+    -4,
+    -3,
+    56,
+    57,
+    58
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 535,
+      "ms": 6835205,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 485,
+      "ms": 3672341,
+      "dish": "Turkey"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 924,
+      "ms": 5498207,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 510,
+      "ms": 5208083,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 548,
+      "ms": 4391202,
+      "dish": "Turkey"
+    }
+  ]
+}

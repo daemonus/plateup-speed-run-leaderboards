@@ -1,0 +1,50 @@
+{
+  "id": "016dc37e-7b37-4e94-a508-be797678a54f",
+  "persona": "The Red Fox",
+  "names": [
+    "The Red Fox"
+  ],
+  "runs": 4,
+  "bestRank": 59,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2137136,
+  "weeksActive": [
+    21,
+    31,
+    32,
+    37
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 127,
+      "ms": 2672743,
+      "dish": "Burgers"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 59,
+      "ms": 2137136,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 75,
+      "ms": 2412267,
+      "dish": "Pies"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 70,
+      "ms": 3131150,
+      "dish": "Burgers"
+    }
+  ]
+}

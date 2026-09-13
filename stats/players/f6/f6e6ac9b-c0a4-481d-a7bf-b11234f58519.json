@@ -1,0 +1,50 @@
+{
+  "id": "f6e6ac9b-c0a4-481d-a7bf-b11234f58519",
+  "persona": "Meowwapk",
+  "names": [
+    "Meowwapk"
+  ],
+  "runs": 4,
+  "bestRank": 85,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2643583,
+  "weeksActive": [
+    -46,
+    -39,
+    -38,
+    -36
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 362,
+      "ms": 4374332,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 235,
+      "ms": 2860148,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 295,
+      "ms": 2643583,
+      "dish": "Turkey"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 85,
+      "ms": 3773017,
+      "dish": "Burgers"
+    }
+  ]
+}

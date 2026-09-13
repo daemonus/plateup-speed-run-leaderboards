@@ -1,0 +1,34 @@
+{
+  "id": "13d21b59-b2ee-4e2b-98ed-3d158e2a707e",
+  "persona": "Hale",
+  "names": [
+    "Hale"
+  ],
+  "runs": 2,
+  "bestRank": 74,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2886757,
+  "weeksActive": [
+    -84,
+    -26
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 442,
+      "ms": 3339266,
+      "dish": "Fish"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 74,
+      "ms": 2886757,
+      "dish": "Breakfast"
+    }
+  ]
+}

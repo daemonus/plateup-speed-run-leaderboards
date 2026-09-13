@@ -1,0 +1,58 @@
+{
+  "id": "1e5bf8c8-bb76-420d-b312-bd4d557b34a4",
+  "persona": "Yorito",
+  "names": [
+    "Yorito"
+  ],
+  "runs": 5,
+  "bestRank": 94,
+  "worstRank": 462,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2824041,
+  "weeksActive": [
+    -51,
+    -49,
+    -48,
+    -41,
+    -30
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 239,
+      "ms": 2824041,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 94,
+      "ms": 3339038,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 116,
+      "ms": 4135547,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 237,
+      "ms": 4364126,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 462,
+      "ms": 3107766,
+      "dish": "Turkey"
+    }
+  ]
+}

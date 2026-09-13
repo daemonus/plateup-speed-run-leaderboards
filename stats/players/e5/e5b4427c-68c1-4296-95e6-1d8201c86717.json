@@ -1,0 +1,50 @@
+{
+  "id": "e5b4427c-68c1-4296-95e6-1d8201c86717",
+  "persona": "LeaMonster",
+  "names": [
+    "LeaMonster"
+  ],
+  "runs": 4,
+  "bestRank": 216,
+  "worstRank": 843,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4586541,
+  "weeksActive": [
+    -86,
+    -20,
+    27,
+    50
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 843,
+      "ms": 5536288,
+      "dish": "Fish"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 584,
+      "ms": 6543885,
+      "dish": "Burgers"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 276,
+      "ms": 4586541,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 216,
+      "ms": 4899232,
+      "dish": "Stir Fry"
+    }
+  ]
+}

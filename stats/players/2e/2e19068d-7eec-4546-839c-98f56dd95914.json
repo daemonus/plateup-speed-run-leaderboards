@@ -1,0 +1,50 @@
+{
+  "id": "2e19068d-7eec-4546-839c-98f56dd95914",
+  "persona": "jt5764",
+  "names": [
+    "jt5764"
+  ],
+  "runs": 4,
+  "bestRank": 161,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3071708,
+  "weeksActive": [
+    -21,
+    -19,
+    -16,
+    16
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 387,
+      "ms": 4078527,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 161,
+      "ms": 3071708,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 252,
+      "ms": 3107849,
+      "dish": "Pies"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 356,
+      "ms": 4755092,
+      "dish": "Stir Fry"
+    }
+  ]
+}

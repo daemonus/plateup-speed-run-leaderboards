@@ -1,0 +1,106 @@
+{
+  "id": "a12e7b45-d4cf-4183-9cf4-2060c6450d32",
+  "persona": "Runrun",
+  "names": [
+    "Runrun"
+  ],
+  "runs": 11,
+  "bestRank": 1,
+  "worstRank": 16,
+  "firstPlaces": 6,
+  "top3": 8,
+  "top10": 9,
+  "bestMs": 1043072,
+  "weeksActive": [
+    -70,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    13,
+    16,
+    20,
+    58
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 3,
+      "ms": 1521028,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 9,
+      "ms": 1444199,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 1,
+      "ms": 1288267,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 1,
+      "ms": 1531137,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 1,
+      "ms": 1137027,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 1,
+      "ms": 1359047,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 1,
+      "ms": 1678173,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 1,
+      "ms": 1043072,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 2,
+      "ms": 1670268,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 16,
+      "ms": 1290293,
+      "dish": "Turkey"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 15,
+      "ms": 1691688,
+      "dish": "Turkey"
+    }
+  ]
+}

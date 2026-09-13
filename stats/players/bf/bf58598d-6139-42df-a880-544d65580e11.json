@@ -1,0 +1,42 @@
+{
+  "id": "bf58598d-6139-42df-a880-544d65580e11",
+  "persona": "nasu",
+  "names": [
+    "nasu"
+  ],
+  "runs": 3,
+  "bestRank": 65,
+  "worstRank": 115,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2028232,
+  "weeksActive": [
+    -59,
+    -40,
+    -38
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 96,
+      "ms": 2475509,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 65,
+      "ms": 3045427,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 115,
+      "ms": 2028232,
+      "dish": "Turkey"
+    }
+  ]
+}

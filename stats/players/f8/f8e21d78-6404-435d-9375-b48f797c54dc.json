@@ -1,0 +1,50 @@
+{
+  "id": "f8e21d78-6404-435d-9375-b48f797c54dc",
+  "persona": "JusstBeachy",
+  "names": [
+    "JusstBeachy"
+  ],
+  "runs": 4,
+  "bestRank": 332,
+  "worstRank": 678,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2489868,
+  "weeksActive": [
+    -90,
+    -89,
+    -87,
+    -74
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 415,
+      "ms": 2489868,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 678,
+      "ms": 3441772,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 332,
+      "ms": 3418988,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 470,
+      "ms": 4474921,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

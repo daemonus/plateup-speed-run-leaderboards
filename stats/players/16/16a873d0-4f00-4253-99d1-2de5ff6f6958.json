@@ -1,0 +1,42 @@
+{
+  "id": "16a873d0-4f00-4253-99d1-2de5ff6f6958",
+  "persona": "Roosterman",
+  "names": [
+    "Roosterman"
+  ],
+  "runs": 3,
+  "bestRank": 150,
+  "worstRank": 540,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4475120,
+  "weeksActive": [
+    -48,
+    -33,
+    -21
+  ],
+  "history": [
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 150,
+      "ms": 9411053,
+      "dish": "Burgers"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 363,
+      "ms": 4475120,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 540,
+      "ms": 5536454,
+      "dish": "Pizza"
+    }
+  ]
+}

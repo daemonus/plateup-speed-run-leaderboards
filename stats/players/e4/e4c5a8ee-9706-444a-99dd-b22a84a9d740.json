@@ -1,0 +1,58 @@
+{
+  "id": "e4c5a8ee-9706-444a-99dd-b22a84a9d740",
+  "persona": "Danka",
+  "names": [
+    "Danka"
+  ],
+  "runs": 5,
+  "bestRank": 184,
+  "worstRank": 671,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3427664,
+  "weeksActive": [
+    -6,
+    16,
+    19,
+    39,
+    57
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 671,
+      "ms": 6015681,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 184,
+      "ms": 3832839,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 316,
+      "ms": 4390591,
+      "dish": "Pizza"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 229,
+      "ms": 4193619,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 270,
+      "ms": 3427664,
+      "dish": "Salad"
+    }
+  ]
+}

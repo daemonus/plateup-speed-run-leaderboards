@@ -1,0 +1,42 @@
+{
+  "id": "f7ba2e12-df1b-424d-bf19-988a2ec26e7c",
+  "persona": "McFartypants",
+  "names": [
+    "McFartypants"
+  ],
+  "runs": 3,
+  "bestRank": 127,
+  "worstRank": 198,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2043350,
+  "weeksActive": [
+    -94,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 127,
+      "ms": 2210984,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 198,
+      "ms": 2062429,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 153,
+      "ms": 2043350,
+      "dish": "Pies"
+    }
+  ]
+}

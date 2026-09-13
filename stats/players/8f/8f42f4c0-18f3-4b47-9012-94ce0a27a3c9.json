@@ -1,0 +1,82 @@
+{
+  "id": "8f42f4c0-18f3-4b47-9012-94ce0a27a3c9",
+  "persona": "Yami",
+  "names": [
+    "Yami"
+  ],
+  "runs": 8,
+  "bestRank": 199,
+  "worstRank": 802,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2720313,
+  "weeksActive": [
+    50,
+    51,
+    52,
+    53,
+    56,
+    61,
+    64,
+    83
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 199,
+      "ms": 4628704,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 343,
+      "ms": 5461683,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 510,
+      "ms": 3758019,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 403,
+      "ms": 4438276,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 515,
+      "ms": 2812963,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 280,
+      "ms": 4044159,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 802,
+      "ms": 3676699,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 417,
+      "ms": 2720313,
+      "dish": "Sundaes"
+    }
+  ]
+}

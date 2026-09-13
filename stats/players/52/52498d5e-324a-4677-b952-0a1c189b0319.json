@@ -1,0 +1,66 @@
+{
+  "id": "52498d5e-324a-4677-b952-0a1c189b0319",
+  "persona": "Esca",
+  "names": [
+    "Esca"
+  ],
+  "runs": 6,
+  "bestRank": 43,
+  "worstRank": 991,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2636521,
+  "weeksActive": [
+    -89,
+    -87,
+    -84,
+    -77,
+    -76,
+    -70
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 991,
+      "ms": 5296913,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 551,
+      "ms": 4899233,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 515,
+      "ms": 3637290,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 500,
+      "ms": 3594244,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 312,
+      "ms": 2774956,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 43,
+      "ms": 2636521,
+      "dish": "Breakfast"
+    }
+  ]
+}

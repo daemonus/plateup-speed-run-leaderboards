@@ -1,0 +1,66 @@
+{
+  "id": "eb6c87cc-29b8-47f8-be08-94d234881280",
+  "persona": "aeglir",
+  "names": [
+    "aeglir"
+  ],
+  "runs": 6,
+  "bestRank": 60,
+  "worstRank": 719,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2131830,
+  "weeksActive": [
+    -6,
+    -4,
+    2,
+    8,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 719,
+      "ms": 7500377,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 284,
+      "ms": 3362456,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 60,
+      "ms": 2504932,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 216,
+      "ms": 2526791,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 298,
+      "ms": 2843036,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 113,
+      "ms": 2131830,
+      "dish": "Turkey"
+    }
+  ]
+}

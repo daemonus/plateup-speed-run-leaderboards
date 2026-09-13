@@ -1,0 +1,42 @@
+{
+  "id": "966cb412-db5c-4786-b0cb-0ddf62776fd7",
+  "persona": "William",
+  "names": [
+    "William"
+  ],
+  "runs": 3,
+  "bestRank": 138,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2129198,
+  "weeksActive": [
+    39,
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 257,
+      "ms": 4418259,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 138,
+      "ms": 3182375,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 238,
+      "ms": 2129198,
+      "dish": "Turkey"
+    }
+  ]
+}

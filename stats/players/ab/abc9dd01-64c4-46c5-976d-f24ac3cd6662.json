@@ -1,0 +1,42 @@
+{
+  "id": "abc9dd01-64c4-46c5-976d-f24ac3cd6662",
+  "persona": "Isperia",
+  "names": [
+    "Isperia"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 462,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3428311,
+  "weeksActive": [
+    -7,
+    -6,
+    -3
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 275,
+      "ms": 4872910,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 462,
+      "ms": 4591977,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 424,
+      "ms": 3428311,
+      "dish": "Turkey"
+    }
+  ]
+}

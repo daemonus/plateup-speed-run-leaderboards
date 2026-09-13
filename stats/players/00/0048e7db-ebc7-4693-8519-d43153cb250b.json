@@ -1,0 +1,42 @@
+{
+  "id": "0048e7db-ebc7-4693-8519-d43153cb250b",
+  "persona": "Lynn",
+  "names": [
+    "Lynn"
+  ],
+  "runs": 3,
+  "bestRank": 154,
+  "worstRank": 408,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3019570,
+  "weeksActive": [
+    -71,
+    -68,
+    -67
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 408,
+      "ms": 3019570,
+      "dish": "Turkey"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 154,
+      "ms": 3581517,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 230,
+      "ms": 3551258,
+      "dish": "Breakfast"
+    }
+  ]
+}

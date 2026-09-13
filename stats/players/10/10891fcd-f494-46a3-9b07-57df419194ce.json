@@ -1,0 +1,50 @@
+{
+  "id": "10891fcd-f494-46a3-9b07-57df419194ce",
+  "persona": "Starmacy",
+  "names": [
+    "Starmacy"
+  ],
+  "runs": 4,
+  "bestRank": 69,
+  "worstRank": 185,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1460399,
+  "weeksActive": [
+    39,
+    60,
+    61,
+    64
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 100,
+      "ms": 3162586,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 185,
+      "ms": 3303937,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 109,
+      "ms": 2678605,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 69,
+      "ms": 1460399,
+      "dish": "Sundaes"
+    }
+  ]
+}

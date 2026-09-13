@@ -1,0 +1,42 @@
+{
+  "id": "d451d9aa-b941-47bf-b92f-d5caf74c9842",
+  "persona": "Icraan",
+  "names": [
+    "Icraan"
+  ],
+  "runs": 3,
+  "bestRank": 80,
+  "worstRank": 463,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2282468,
+  "weeksActive": [
+    -89,
+    -39,
+    -37
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 463,
+      "ms": 2869326,
+      "dish": "Pies"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 80,
+      "ms": 2306168,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 91,
+      "ms": 2282468,
+      "dish": "Fish"
+    }
+  ]
+}

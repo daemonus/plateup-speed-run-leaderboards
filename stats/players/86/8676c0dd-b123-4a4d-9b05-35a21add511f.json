@@ -1,0 +1,42 @@
+{
+  "id": "8676c0dd-b123-4a4d-9b05-35a21add511f",
+  "persona": "KinSlayer",
+  "names": [
+    "KinSlayer"
+  ],
+  "runs": 3,
+  "bestRank": 144,
+  "worstRank": 422,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2855741,
+  "weeksActive": [
+    -77,
+    -75,
+    -73
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 393,
+      "ms": 3333131,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 422,
+      "ms": 2855741,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 144,
+      "ms": 3955830,
+      "dish": "Stir Fry"
+    }
+  ]
+}

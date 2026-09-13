@@ -1,0 +1,42 @@
+{
+  "id": "cc719034-6eec-4eda-9a4e-dde0bd226514",
+  "persona": "Koia",
+  "names": [
+    "Koia"
+  ],
+  "runs": 3,
+  "bestRank": 507,
+  "worstRank": 746,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4333921,
+  "weeksActive": [
+    -67,
+    31,
+    41
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 507,
+      "ms": 4888562,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 513,
+      "ms": 4333921,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 746,
+      "ms": 25641214,
+      "dish": "Turkey"
+    }
+  ]
+}

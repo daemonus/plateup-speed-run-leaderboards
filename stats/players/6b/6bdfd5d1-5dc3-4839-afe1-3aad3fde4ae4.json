@@ -1,0 +1,74 @@
+{
+  "id": "6bdfd5d1-5dc3-4839-afe1-3aad3fde4ae4",
+  "persona": "Unexciting",
+  "names": [
+    "Unexciting"
+  ],
+  "runs": 7,
+  "bestRank": 257,
+  "worstRank": 575,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3014599,
+  "weeksActive": [
+    -60,
+    -59,
+    -58,
+    -41,
+    -18,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 378,
+      "ms": 4613800,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 424,
+      "ms": 3924085,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 257,
+      "ms": 5288938,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 347,
+      "ms": 5112570,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 575,
+      "ms": 4434482,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 420,
+      "ms": 3704875,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 270,
+      "ms": 3014599,
+      "dish": "Fish"
+    }
+  ]
+}

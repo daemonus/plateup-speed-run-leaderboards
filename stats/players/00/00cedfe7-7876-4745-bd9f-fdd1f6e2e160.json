@@ -1,0 +1,34 @@
+{
+  "id": "00cedfe7-7876-4745-bd9f-fdd1f6e2e160",
+  "persona": "nan",
+  "names": [
+    "nan"
+  ],
+  "runs": 2,
+  "bestRank": 37,
+  "worstRank": 79,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2553306,
+  "weeksActive": [
+    -27,
+    -22
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 79,
+      "ms": 3252000,
+      "dish": "Salad"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 37,
+      "ms": 2553306,
+      "dish": "Stir Fry"
+    }
+  ]
+}

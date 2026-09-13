@@ -1,0 +1,34 @@
+{
+  "id": "7df60a45-b775-4f9d-87fd-3d7a388759ea",
+  "persona": "BalancedBreakfast",
+  "names": [
+    "BalancedBreakfast"
+  ],
+  "runs": 2,
+  "bestRank": 177,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4193391,
+  "weeksActive": [
+    -41,
+    -40
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 444,
+      "ms": 7085342,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 177,
+      "ms": 4193391,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1c184ec1-2d3c-4228-8a08-5b67df62a069",
+  "persona": "Chaseburger",
+  "names": [
+    "Chaseburger"
+  ],
+  "runs": 2,
+  "bestRank": 254,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2810386,
+  "weeksActive": [
+    -94,
+    58
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 473,
+      "ms": 2810386,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 254,
+      "ms": 2926917,
+      "dish": "Turkey"
+    }
+  ]
+}

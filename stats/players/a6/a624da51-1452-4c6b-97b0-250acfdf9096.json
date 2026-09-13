@@ -1,0 +1,42 @@
+{
+  "id": "a624da51-1452-4c6b-97b0-250acfdf9096",
+  "persona": "justasimplecarrot",
+  "names": [
+    "justasimplecarrot"
+  ],
+  "runs": 3,
+  "bestRank": 387,
+  "worstRank": 455,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3549401,
+  "weeksActive": [
+    -60,
+    -51,
+    -46
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 438,
+      "ms": 5169784,
+      "dish": "Burgers"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 455,
+      "ms": 3549401,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 387,
+      "ms": 4458717,
+      "dish": "Salad"
+    }
+  ]
+}

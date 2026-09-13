@@ -1,0 +1,42 @@
+{
+  "id": "09d5a619-7de2-4840-a87c-ad36cfcc209a",
+  "persona": "KartOMania",
+  "names": [
+    "KartOMania"
+  ],
+  "runs": 3,
+  "bestRank": 298,
+  "worstRank": 652,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4912416,
+  "weeksActive": [
+    -80,
+    -74,
+    -70
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 298,
+      "ms": 7427025,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 523,
+      "ms": 4912416,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 652,
+      "ms": 6279899,
+      "dish": "Breakfast"
+    }
+  ]
+}

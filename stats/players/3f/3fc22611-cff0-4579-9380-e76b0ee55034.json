@@ -1,0 +1,66 @@
+{
+  "id": "3fc22611-cff0-4579-9380-e76b0ee55034",
+  "persona": "trust_",
+  "names": [
+    "trust_"
+  ],
+  "runs": 6,
+  "bestRank": 95,
+  "worstRank": 678,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2801683,
+  "weeksActive": [
+    -32,
+    -31,
+    -29,
+    -28,
+    -27,
+    -25
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 678,
+      "ms": 3892310,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 451,
+      "ms": 3686610,
+      "dish": "Pies"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 106,
+      "ms": 3293004,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 136,
+      "ms": 4125724,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 138,
+      "ms": 3761454,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 95,
+      "ms": 2801683,
+      "dish": "Breakfast"
+    }
+  ]
+}

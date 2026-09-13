@@ -1,0 +1,58 @@
+{
+  "id": "de29ec60-f75b-41df-8f61-11d835722907",
+  "persona": "psabon215",
+  "names": [
+    "psabon215"
+  ],
+  "runs": 5,
+  "bestRank": 321,
+  "worstRank": 468,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3039513,
+  "weeksActive": [
+    -33,
+    -32,
+    -21,
+    -3,
+    21
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 468,
+      "ms": 8208807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 363,
+      "ms": 3222476,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 331,
+      "ms": 3808747,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 321,
+      "ms": 3039513,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 386,
+      "ms": 4195820,
+      "dish": "Burgers"
+    }
+  ]
+}

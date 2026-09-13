@@ -1,0 +1,42 @@
+{
+  "id": "acc36393-842b-43ba-ab2f-055fc895dda7",
+  "persona": "Peehs",
+  "names": [
+    "Peehs"
+  ],
+  "runs": 3,
+  "bestRank": 142,
+  "worstRank": 413,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1833026,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 264,
+      "ms": 1833026,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 142,
+      "ms": 2342067,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 413,
+      "ms": 2209060,
+      "dish": "Fish"
+    }
+  ]
+}

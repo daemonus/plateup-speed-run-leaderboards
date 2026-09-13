@@ -1,0 +1,42 @@
+{
+  "id": "a677ad8a-1676-404b-b2f4-6fd0a8cfd0a7",
+  "persona": "jottin",
+  "names": [
+    "jottin"
+  ],
+  "runs": 3,
+  "bestRank": 139,
+  "worstRank": 236,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2876930,
+  "weeksActive": [
+    47,
+    51,
+    58
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 139,
+      "ms": 3145873,
+      "dish": "Pizza"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 176,
+      "ms": 3709659,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 236,
+      "ms": 2876930,
+      "dish": "Turkey"
+    }
+  ]
+}

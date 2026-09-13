@@ -1,0 +1,50 @@
+{
+  "id": "97d6b8e7-10bb-4e5c-8058-600d48d52a4d",
+  "persona": "Salt",
+  "names": [
+    "Salt"
+  ],
+  "runs": 4,
+  "bestRank": 422,
+  "worstRank": 1438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2504459,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1036,
+      "ms": 3493612,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1438,
+      "ms": 2751357,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 581,
+      "ms": 3702833,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 422,
+      "ms": 2504459,
+      "dish": "Fish"
+    }
+  ]
+}

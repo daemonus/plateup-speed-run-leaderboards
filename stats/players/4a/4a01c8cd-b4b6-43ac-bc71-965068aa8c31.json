@@ -1,0 +1,42 @@
+{
+  "id": "4a01c8cd-b4b6-43ac-bc71-965068aa8c31",
+  "persona": "LimpBichon",
+  "names": [
+    "LimpBichon"
+  ],
+  "runs": 3,
+  "bestRank": 318,
+  "worstRank": 408,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3577896,
+  "weeksActive": [
+    -41,
+    -20,
+    -18
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 408,
+      "ms": 5968890,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 399,
+      "ms": 4183063,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 318,
+      "ms": 3577896,
+      "dish": "Fish"
+    }
+  ]
+}

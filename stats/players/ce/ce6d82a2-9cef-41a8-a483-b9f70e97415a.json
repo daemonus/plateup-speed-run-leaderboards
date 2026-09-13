@@ -1,0 +1,42 @@
+{
+  "id": "ce6d82a2-9cef-41a8-a483-b9f70e97415a",
+  "persona": "taiping12",
+  "names": [
+    "taiping12"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 700,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3031058,
+  "weeksActive": [
+    -41,
+    -37,
+    -32
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 275,
+      "ms": 4600479,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 315,
+      "ms": 3031058,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 700,
+      "ms": 3922541,
+      "dish": "Breakfast"
+    }
+  ]
+}

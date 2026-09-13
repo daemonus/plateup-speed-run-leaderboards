@@ -1,0 +1,42 @@
+{
+  "id": "bf49c5c6-e0ab-46a3-9688-8004921386c4",
+  "persona": "kazooandfriends",
+  "names": [
+    "kazooandfriends"
+  ],
+  "runs": 3,
+  "bestRank": 15,
+  "worstRank": 64,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2012391,
+  "weeksActive": [
+    -64,
+    -57,
+    -55
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 64,
+      "ms": 2471152,
+      "dish": "Salad"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 15,
+      "ms": 2094040,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 16,
+      "ms": 2012391,
+      "dish": "Pizza"
+    }
+  ]
+}

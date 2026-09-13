@@ -1,0 +1,34 @@
+{
+  "id": "e5458734-d4e4-4138-a222-cc5c98f9065f",
+  "persona": "Adapa",
+  "names": [
+    "Adapa"
+  ],
+  "runs": 2,
+  "bestRank": 1465,
+  "worstRank": 1576,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2842939,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1576,
+      "ms": 2842939,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1465,
+      "ms": 3723713,
+      "dish": "Fish"
+    }
+  ]
+}

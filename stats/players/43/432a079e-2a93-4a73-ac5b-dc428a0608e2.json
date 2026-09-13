@@ -1,0 +1,58 @@
+{
+  "id": "432a079e-2a93-4a73-ac5b-dc428a0608e2",
+  "persona": "FragileBalance",
+  "names": [
+    "FragileBalance"
+  ],
+  "runs": 5,
+  "bestRank": 29,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1020166,
+  "weeksActive": [
+    81,
+    82,
+    83,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 309,
+      "ms": 6366819,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 517,
+      "ms": 4565834,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 243,
+      "ms": 2145137,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 29,
+      "ms": 1020166,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 53,
+      "ms": 1310638,
+      "dish": "Sundaes"
+    }
+  ]
+}

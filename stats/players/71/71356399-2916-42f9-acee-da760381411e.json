@@ -1,0 +1,50 @@
+{
+  "id": "71356399-2916-42f9-acee-da760381411e",
+  "persona": "sass",
+  "names": [
+    "sass"
+  ],
+  "runs": 4,
+  "bestRank": 746,
+  "worstRank": 2661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3894129,
+  "weeksActive": [
+    -94,
+    -93,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1577,
+      "ms": 4463938,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2661,
+      "ms": 3894129,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1158,
+      "ms": 4630138,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 746,
+      "ms": 4760626,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cda78e65-b154-456d-b037-ce321d200b1e",
+  "persona": "Bluesy",
+  "names": [
+    "Bluesy"
+  ],
+  "runs": 2,
+  "bestRank": 417,
+  "worstRank": 1351,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2840821,
+  "weeksActive": [
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1351,
+      "ms": 3492794,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 417,
+      "ms": 2840821,
+      "dish": "Fish"
+    }
+  ]
+}

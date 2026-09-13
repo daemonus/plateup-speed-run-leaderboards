@@ -1,0 +1,42 @@
+{
+  "id": "1e346057-5b9b-41f5-9d1d-ef76ca6aad53",
+  "persona": "archiecrausus123",
+  "names": [
+    "archiecrausus123"
+  ],
+  "runs": 3,
+  "bestRank": 182,
+  "worstRank": 1117,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3843006,
+  "weeksActive": [
+    -32,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1117,
+      "ms": 5448555,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 727,
+      "ms": 3843006,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 182,
+      "ms": 4239042,
+      "dish": "Burgers"
+    }
+  ]
+}

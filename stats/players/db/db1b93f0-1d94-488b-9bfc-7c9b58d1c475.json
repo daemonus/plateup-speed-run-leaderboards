@@ -1,0 +1,42 @@
+{
+  "id": "db1b93f0-1d94-488b-9bfc-7c9b58d1c475",
+  "persona": "Vanka",
+  "names": [
+    "Vanka"
+  ],
+  "runs": 3,
+  "bestRank": 188,
+  "worstRank": 405,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3268424,
+  "weeksActive": [
+    -62,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 405,
+      "ms": 3905428,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 296,
+      "ms": 3268424,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 188,
+      "ms": 3318764,
+      "dish": "Breakfast"
+    }
+  ]
+}

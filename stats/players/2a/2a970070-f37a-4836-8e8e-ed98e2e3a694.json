@@ -1,0 +1,50 @@
+{
+  "id": "2a970070-f37a-4836-8e8e-ed98e2e3a694",
+  "persona": "Weichfleisch",
+  "names": [
+    "Weichfleisch"
+  ],
+  "runs": 4,
+  "bestRank": 115,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2273779,
+  "weeksActive": [
+    -7,
+    -3,
+    13,
+    15
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 164,
+      "ms": 3921350,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 115,
+      "ms": 2273779,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 184,
+      "ms": 2470725,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 355,
+      "ms": 3017806,
+      "dish": "Turkey"
+    }
+  ]
+}

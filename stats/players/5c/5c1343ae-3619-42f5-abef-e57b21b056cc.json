@@ -1,0 +1,50 @@
+{
+  "id": "5c1343ae-3619-42f5-abef-e57b21b056cc",
+  "persona": "ZQERRR",
+  "names": [
+    "ZQERRR"
+  ],
+  "runs": 4,
+  "bestRank": 150,
+  "worstRank": 446,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3205502,
+  "weeksActive": [
+    15,
+    17,
+    18,
+    26
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 446,
+      "ms": 3400478,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 150,
+      "ms": 3208078,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 199,
+      "ms": 4143710,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 166,
+      "ms": 3205502,
+      "dish": "Pizza"
+    }
+  ]
+}

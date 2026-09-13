@@ -1,0 +1,42 @@
+{
+  "id": "7180dfc0-aa99-4c83-95eb-0e5d684db52b",
+  "persona": "elavanilla",
+  "names": [
+    "elavanilla"
+  ],
+  "runs": 3,
+  "bestRank": 260,
+  "worstRank": 813,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4296274,
+  "weeksActive": [
+    -44,
+    -41,
+    -37
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 533,
+      "ms": 4813662,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 260,
+      "ms": 4529801,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 813,
+      "ms": 4296274,
+      "dish": "Fish"
+    }
+  ]
+}

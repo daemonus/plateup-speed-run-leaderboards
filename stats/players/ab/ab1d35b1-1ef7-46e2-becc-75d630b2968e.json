@@ -1,0 +1,42 @@
+{
+  "id": "ab1d35b1-1ef7-46e2-becc-75d630b2968e",
+  "persona": "PRDM432",
+  "names": [
+    "PRDM432"
+  ],
+  "runs": 3,
+  "bestRank": 234,
+  "worstRank": 1008,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2637910,
+  "weeksActive": [
+    -90,
+    -89,
+    -84
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1008,
+      "ms": 3777292,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 567,
+      "ms": 3105510,
+      "dish": "Pies"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 234,
+      "ms": 2637910,
+      "dish": "Fish"
+    }
+  ]
+}

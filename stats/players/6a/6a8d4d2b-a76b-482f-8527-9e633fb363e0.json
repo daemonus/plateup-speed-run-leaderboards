@@ -1,0 +1,58 @@
+{
+  "id": "6a8d4d2b-a76b-482f-8527-9e633fb363e0",
+  "persona": "hellocc",
+  "names": [
+    "hellocc"
+  ],
+  "runs": 5,
+  "bestRank": 96,
+  "worstRank": 648,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3930196,
+  "weeksActive": [
+    -70,
+    -69,
+    -68,
+    -67,
+    -65
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 573,
+      "ms": 5348336,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 339,
+      "ms": 4873953,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 276,
+      "ms": 4639774,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 648,
+      "ms": 9021214,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 96,
+      "ms": 3930196,
+      "dish": "Burgers"
+    }
+  ]
+}

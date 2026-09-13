@@ -1,0 +1,50 @@
+{
+  "id": "f85a6a6d-4a7f-4181-8d1c-abb996dc5f81",
+  "persona": "VanillaThunder",
+  "names": [
+    "VanillaThunder"
+  ],
+  "runs": 4,
+  "bestRank": 456,
+  "worstRank": 866,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4428999,
+  "weeksActive": [
+    -45,
+    -39,
+    -31,
+    16
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 456,
+      "ms": 4428999,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 679,
+      "ms": 4604810,
+      "dish": "Pizza"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 866,
+      "ms": 5677113,
+      "dish": "Pies"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 518,
+      "ms": 6467630,
+      "dish": "Stir Fry"
+    }
+  ]
+}

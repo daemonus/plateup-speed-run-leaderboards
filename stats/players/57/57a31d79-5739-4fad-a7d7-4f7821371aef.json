@@ -1,0 +1,42 @@
+{
+  "id": "57a31d79-5739-4fad-a7d7-4f7821371aef",
+  "persona": "Annimus",
+  "names": [
+    "Annimus"
+  ],
+  "runs": 3,
+  "bestRank": 134,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2582003,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 297,
+      "ms": 3438250,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 187,
+      "ms": 2582003,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 134,
+      "ms": 2734023,
+      "dish": "Pizza"
+    }
+  ]
+}

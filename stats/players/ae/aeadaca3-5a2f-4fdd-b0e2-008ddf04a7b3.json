@@ -1,0 +1,34 @@
+{
+  "id": "aeadaca3-5a2f-4fdd-b0e2-008ddf04a7b3",
+  "persona": "MaxPackage",
+  "names": [
+    "MaxPackage"
+  ],
+  "runs": 2,
+  "bestRank": 112,
+  "worstRank": 118,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2181821,
+  "weeksActive": [
+    42,
+    43
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 118,
+      "ms": 2932838,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 112,
+      "ms": 2181821,
+      "dish": "Fish"
+    }
+  ]
+}

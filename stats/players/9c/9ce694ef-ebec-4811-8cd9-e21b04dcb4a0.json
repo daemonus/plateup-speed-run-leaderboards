@@ -1,0 +1,50 @@
+{
+  "id": "9ce694ef-ebec-4811-8cd9-e21b04dcb4a0",
+  "persona": "NintendoBoss",
+  "names": [
+    "NintendoBoss"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4074130,
+  "weeksActive": [
+    -5,
+    21,
+    48,
+    82
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 483,
+      "ms": 4930949,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 445,
+      "ms": 4779802,
+      "dish": "Burgers"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 134,
+      "ms": 4074130,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 421,
+      "ms": 4087297,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "d7aaf820-08ed-4a0e-af92-3bb8fb17392d",
+  "persona": "zfasel",
+  "names": [
+    "zfasel"
+  ],
+  "runs": 3,
+  "bestRank": 102,
+  "worstRank": 309,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3477522,
+  "weeksActive": [
+    -27,
+    45,
+    46
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 102,
+      "ms": 3477522,
+      "dish": "Salad"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 141,
+      "ms": 3785303,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 309,
+      "ms": 3499569,
+      "dish": "Pizza"
+    }
+  ]
+}

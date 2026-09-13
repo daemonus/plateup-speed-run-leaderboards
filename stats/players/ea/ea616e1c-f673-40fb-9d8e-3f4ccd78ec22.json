@@ -1,0 +1,58 @@
+{
+  "id": "ea616e1c-f673-40fb-9d8e-3f4ccd78ec22",
+  "persona": "\u9B5A\u9B5A\u51FA\u52D5",
+  "names": [
+    "\u9B5A\u9B5A\u51FA\u52D5"
+  ],
+  "runs": 5,
+  "bestRank": 222,
+  "worstRank": 1446,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2757628,
+  "weeksActive": [
+    -93,
+    -89,
+    23,
+    64,
+    67
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1446,
+      "ms": 2757628,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 652,
+      "ms": 3345928,
+      "dish": "Pies"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 329,
+      "ms": 3295236,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 811,
+      "ms": 3720680,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 222,
+      "ms": 3390058,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

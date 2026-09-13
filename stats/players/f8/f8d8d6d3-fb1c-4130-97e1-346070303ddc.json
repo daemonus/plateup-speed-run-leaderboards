@@ -1,0 +1,42 @@
+{
+  "id": "f8d8d6d3-fb1c-4130-97e1-346070303ddc",
+  "persona": "kinoko",
+  "names": [
+    "kinoko"
+  ],
+  "runs": 3,
+  "bestRank": 354,
+  "worstRank": 545,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3691894,
+  "weeksActive": [
+    46,
+    78,
+    84
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 494,
+      "ms": 4529762,
+      "dish": "Pizza"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 354,
+      "ms": 5126619,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 545,
+      "ms": 3691894,
+      "dish": "Sundaes"
+    }
+  ]
+}

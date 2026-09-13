@@ -1,0 +1,66 @@
+{
+  "id": "32fb5892-b294-49a5-ace6-72ebd6573853",
+  "persona": "[CPC] jb.granier",
+  "names": [
+    "[CPC] jb.granier"
+  ],
+  "runs": 6,
+  "bestRank": 105,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2533304,
+  "weeksActive": [
+    -64,
+    -58,
+    -37,
+    -34,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 251,
+      "ms": 3778938,
+      "dish": "Salad"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 105,
+      "ms": 3426327,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 270,
+      "ms": 2885456,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 159,
+      "ms": 2782596,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 176,
+      "ms": 2904585,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 250,
+      "ms": 2533304,
+      "dish": "Turkey"
+    }
+  ]
+}

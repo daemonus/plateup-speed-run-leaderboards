@@ -1,0 +1,50 @@
+{
+  "id": "5c10c0d2-ebeb-4acf-b2f3-f939c50979bb",
+  "persona": "cunninghamp3",
+  "names": [
+    "cunninghamp3"
+  ],
+  "runs": 4,
+  "bestRank": 171,
+  "worstRank": 620,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4149610,
+  "weeksActive": [
+    -68,
+    -65,
+    -34,
+    -31
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 326,
+      "ms": 5613467,
+      "dish": "Salad"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 171,
+      "ms": 6495922,
+      "dish": "Burgers"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 418,
+      "ms": 4205433,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 620,
+      "ms": 4149610,
+      "dish": "Pies"
+    }
+  ]
+}

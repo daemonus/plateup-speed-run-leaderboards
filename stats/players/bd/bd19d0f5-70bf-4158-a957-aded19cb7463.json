@@ -1,0 +1,42 @@
+{
+  "id": "bd19d0f5-70bf-4158-a957-aded19cb7463",
+  "persona": "nstung84",
+  "names": [
+    "nstung84"
+  ],
+  "runs": 3,
+  "bestRank": 230,
+  "worstRank": 605,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3379104,
+  "weeksActive": [
+    -63,
+    -57,
+    -56
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 605,
+      "ms": 5346155,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 230,
+      "ms": 4134678,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 299,
+      "ms": 3379104,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cc8f7642-8737-401a-b765-4794af228149",
+  "persona": "Krumpchins",
+  "names": [
+    "Krumpchins"
+  ],
+  "runs": 5,
+  "bestRank": 132,
+  "worstRank": 539,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2133495,
+  "weeksActive": [
+    -93,
+    -89,
+    -86,
+    -83,
+    58
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 539,
+      "ms": 2133495,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 343,
+      "ms": 2566387,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 309,
+      "ms": 2553702,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 191,
+      "ms": 2803845,
+      "dish": "Steak"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 132,
+      "ms": 2479838,
+      "dish": "Turkey"
+    }
+  ]
+}

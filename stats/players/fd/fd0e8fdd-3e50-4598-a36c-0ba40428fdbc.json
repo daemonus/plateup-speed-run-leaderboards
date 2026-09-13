@@ -1,0 +1,50 @@
+{
+  "id": "fd0e8fdd-3e50-4598-a36c-0ba40428fdbc",
+  "persona": "The Jacob",
+  "names": [
+    "The Jacob"
+  ],
+  "runs": 4,
+  "bestRank": 298,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3879179,
+  "weeksActive": [
+    -27,
+    -25,
+    -21,
+    -17
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 298,
+      "ms": 5631457,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 589,
+      "ms": 5061573,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 353,
+      "ms": 3879179,
+      "dish": "Pizza"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 318,
+      "ms": 4238261,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

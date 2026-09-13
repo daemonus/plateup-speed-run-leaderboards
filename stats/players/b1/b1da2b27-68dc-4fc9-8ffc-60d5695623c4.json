@@ -1,0 +1,42 @@
+{
+  "id": "b1da2b27-68dc-4fc9-8ffc-60d5695623c4",
+  "persona": "Firefly",
+  "names": [
+    "Firefly"
+  ],
+  "runs": 3,
+  "bestRank": 198,
+  "worstRank": 624,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3006941,
+  "weeksActive": [
+    41,
+    55,
+    62
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 624,
+      "ms": 3640537,
+      "dish": "Turkey"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 203,
+      "ms": 3871377,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 198,
+      "ms": 3006941,
+      "dish": "Pies"
+    }
+  ]
+}

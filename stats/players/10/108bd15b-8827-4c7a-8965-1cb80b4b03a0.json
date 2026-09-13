@@ -1,0 +1,34 @@
+{
+  "id": "108bd15b-8827-4c7a-8965-1cb80b4b03a0",
+  "persona": "irene",
+  "names": [
+    "irene"
+  ],
+  "runs": 2,
+  "bestRank": 333,
+  "worstRank": 522,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1925813,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 522,
+      "ms": 2870988,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 333,
+      "ms": 1925813,
+      "dish": "Fish"
+    }
+  ]
+}

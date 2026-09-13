@@ -1,0 +1,42 @@
+{
+  "id": "8f8aa8c5-7b34-48e1-b061-4d8420f97411",
+  "persona": "PatoFlojo",
+  "names": [
+    "PatoFlojo"
+  ],
+  "runs": 3,
+  "bestRank": 1359,
+  "worstRank": 1769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2979133,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1372,
+      "ms": 3961790,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1769,
+      "ms": 2979133,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1359,
+      "ms": 3501895,
+      "dish": "Fish"
+    }
+  ]
+}

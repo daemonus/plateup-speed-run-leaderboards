@@ -1,0 +1,34 @@
+{
+  "id": "97262932-4dde-4ab9-91df-ab4214cdec03",
+  "persona": "Rock",
+  "names": [
+    "Rock"
+  ],
+  "runs": 2,
+  "bestRank": 456,
+  "worstRank": 617,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4372967,
+  "weeksActive": [
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 456,
+      "ms": 4372967,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 617,
+      "ms": 4762739,
+      "dish": "Turkey"
+    }
+  ]
+}

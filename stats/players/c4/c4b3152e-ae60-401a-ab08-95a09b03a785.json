@@ -1,0 +1,34 @@
+{
+  "id": "c4b3152e-ae60-401a-ab08-95a09b03a785",
+  "persona": "Xaplo",
+  "names": [
+    "Xaplo"
+  ],
+  "runs": 2,
+  "bestRank": 206,
+  "worstRank": 409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3384615,
+  "weeksActive": [
+    -83,
+    14
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 409,
+      "ms": 3684764,
+      "dish": "Steak"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 206,
+      "ms": 3384615,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3d6d7a92-75b1-4c50-950e-256421e3fb26",
+  "persona": "AC23",
+  "names": [
+    "AC23"
+  ],
+  "runs": 3,
+  "bestRank": 167,
+  "worstRank": 266,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2392766,
+  "weeksActive": [
+    7,
+    11,
+    13
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 242,
+      "ms": 3269104,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 266,
+      "ms": 4742687,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 167,
+      "ms": 2392766,
+      "dish": "Turkey"
+    }
+  ]
+}

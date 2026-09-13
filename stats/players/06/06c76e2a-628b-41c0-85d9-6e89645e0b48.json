@@ -1,0 +1,34 @@
+{
+  "id": "06c76e2a-628b-41c0-85d9-6e89645e0b48",
+  "persona": "Kiki",
+  "names": [
+    "Kiki"
+  ],
+  "runs": 2,
+  "bestRank": 527,
+  "worstRank": 784,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3270722,
+  "weeksActive": [
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 784,
+      "ms": 4788207,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 527,
+      "ms": 3270722,
+      "dish": "Turkey"
+    }
+  ]
+}

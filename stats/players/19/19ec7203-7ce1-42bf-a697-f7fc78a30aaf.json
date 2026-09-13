@@ -1,0 +1,42 @@
+{
+  "id": "19ec7203-7ce1-42bf-a697-f7fc78a30aaf",
+  "persona": "dexterousdex",
+  "names": [
+    "dexterousdex"
+  ],
+  "runs": 3,
+  "bestRank": 247,
+  "worstRank": 624,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3267456,
+  "weeksActive": [
+    -89,
+    -51,
+    -50
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 624,
+      "ms": 3267456,
+      "dish": "Pies"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 622,
+      "ms": 4244250,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 247,
+      "ms": 4888134,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

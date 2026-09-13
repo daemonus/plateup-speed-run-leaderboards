@@ -1,0 +1,42 @@
+{
+  "id": "3e69e5fa-0d3c-4a28-99b0-7f7d0fc61f8c",
+  "persona": "helpdesktechnician",
+  "names": [
+    "helpdesktechnician"
+  ],
+  "runs": 3,
+  "bestRank": 141,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2990745,
+  "weeksActive": [
+    1,
+    2,
+    85
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 141,
+      "ms": 2990745,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 141,
+      "ms": 3051158,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 277,
+      "ms": 3545434,
+      "dish": "Fish"
+    }
+  ]
+}

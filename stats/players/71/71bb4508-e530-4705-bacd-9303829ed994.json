@@ -1,0 +1,42 @@
+{
+  "id": "71bb4508-e530-4705-bacd-9303829ed994",
+  "persona": "Tulipan",
+  "names": [
+    "Tulipan"
+  ],
+  "runs": 3,
+  "bestRank": 331,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2947986,
+  "weeksActive": [
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 331,
+      "ms": 2947986,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 339,
+      "ms": 3393296,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 511,
+      "ms": 3486949,
+      "dish": "Fish"
+    }
+  ]
+}

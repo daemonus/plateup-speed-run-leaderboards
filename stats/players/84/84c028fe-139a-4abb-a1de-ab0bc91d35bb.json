@@ -1,0 +1,42 @@
+{
+  "id": "84c028fe-139a-4abb-a1de-ab0bc91d35bb",
+  "persona": "julien8867",
+  "names": [
+    "julien8867"
+  ],
+  "runs": 3,
+  "bestRank": 332,
+  "worstRank": 525,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4789651,
+  "weeksActive": [
+    -73,
+    -68,
+    -63
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 332,
+      "ms": 5758596,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 363,
+      "ms": 7249331,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 525,
+      "ms": 4789651,
+      "dish": "Stir Fry"
+    }
+  ]
+}

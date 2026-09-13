@@ -1,0 +1,34 @@
+{
+  "id": "cdcdfa5b-e819-453e-83d0-54444a279c9a",
+  "persona": "SeaMonkey",
+  "names": [
+    "SeaMonkey"
+  ],
+  "runs": 2,
+  "bestRank": 435,
+  "worstRank": 816,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4190619,
+  "weeksActive": [
+    -64,
+    20
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 435,
+      "ms": 5638327,
+      "dish": "Salad"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 816,
+      "ms": 4190619,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "995d9491-aa0e-44f1-8252-cfd658e12241",
+  "persona": "Akkcess \u265B",
+  "names": [
+    "Akkcess \u265B"
+  ],
+  "runs": 3,
+  "bestRank": 33,
+  "worstRank": 101,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1683796,
+  "weeksActive": [
+    -31,
+    -30,
+    7
+  ],
+  "history": [
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 33,
+      "ms": 2037649,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 35,
+      "ms": 1683796,
+      "dish": "Turkey"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 101,
+      "ms": 2662590,
+      "dish": "Fish"
+    }
+  ]
+}

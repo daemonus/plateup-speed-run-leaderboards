@@ -1,0 +1,50 @@
+{
+  "id": "1e1cce0d-3d09-4fd8-89c0-34302500aedf",
+  "persona": "micayla_covington",
+  "names": [
+    "micayla_covington"
+  ],
+  "runs": 4,
+  "bestRank": 237,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3546447,
+  "weeksActive": [
+    -34,
+    62,
+    63,
+    65
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 480,
+      "ms": 5135322,
+      "dish": "Pies"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 349,
+      "ms": 3641265,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 445,
+      "ms": 3689436,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 237,
+      "ms": 3546447,
+      "dish": "Pizza"
+    }
+  ]
+}

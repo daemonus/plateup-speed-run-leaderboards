@@ -1,0 +1,42 @@
+{
+  "id": "af5365fb-4f7a-4d63-8e85-ecda1adff186",
+  "persona": "Mango",
+  "names": [
+    "Mango"
+  ],
+  "runs": 3,
+  "bestRank": 307,
+  "worstRank": 572,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2402148,
+  "weeksActive": [
+    55,
+    56,
+    64
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 307,
+      "ms": 4887666,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 572,
+      "ms": 2999503,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 365,
+      "ms": 2402148,
+      "dish": "Sundaes"
+    }
+  ]
+}

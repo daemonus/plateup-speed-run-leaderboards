@@ -1,0 +1,42 @@
+{
+  "id": "a20aea41-b6e8-44f1-ac7b-d4bd616cb4d0",
+  "persona": "Avrileon",
+  "names": [
+    "Avrileon"
+  ],
+  "runs": 3,
+  "bestRank": 531,
+  "worstRank": 628,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2171278,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 588,
+      "ms": 2171278,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 628,
+      "ms": 3906462,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 531,
+      "ms": 2365047,
+      "dish": "Fish"
+    }
+  ]
+}

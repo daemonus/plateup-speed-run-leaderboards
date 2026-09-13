@@ -1,0 +1,50 @@
+{
+  "id": "0136d302-4407-4e75-95be-23806b86ae47",
+  "persona": "valisi",
+  "names": [
+    "valisi"
+  ],
+  "runs": 4,
+  "bestRank": 166,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2677491,
+  "weeksActive": [
+    9,
+    13,
+    24,
+    37
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 166,
+      "ms": 2914312,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 229,
+      "ms": 2677491,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 278,
+      "ms": 3508055,
+      "dish": "Pies"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 170,
+      "ms": 3963362,
+      "dish": "Burgers"
+    }
+  ]
+}

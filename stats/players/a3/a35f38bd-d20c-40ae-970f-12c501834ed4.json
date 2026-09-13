@@ -1,0 +1,50 @@
+{
+  "id": "a35f38bd-d20c-40ae-970f-12c501834ed4",
+  "persona": "LeeYongSe",
+  "names": [
+    "LeeYongSe"
+  ],
+  "runs": 4,
+  "bestRank": 333,
+  "worstRank": 901,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2914634,
+  "weeksActive": [
+    -89,
+    -88,
+    -86,
+    -67
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 901,
+      "ms": 4417358,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 846,
+      "ms": 5524395,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 441,
+      "ms": 2914634,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 333,
+      "ms": 3994302,
+      "dish": "Breakfast"
+    }
+  ]
+}

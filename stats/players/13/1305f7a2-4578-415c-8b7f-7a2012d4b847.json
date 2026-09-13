@@ -1,0 +1,42 @@
+{
+  "id": "1305f7a2-4578-415c-8b7f-7a2012d4b847",
+  "persona": "LoveSpoon",
+  "names": [
+    "LoveSpoon"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3612206,
+  "weeksActive": [
+    -32,
+    -28,
+    -21
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 553,
+      "ms": 3612206,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 143,
+      "ms": 4192213,
+      "dish": "Burgers"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 523,
+      "ms": 5306911,
+      "dish": "Pizza"
+    }
+  ]
+}

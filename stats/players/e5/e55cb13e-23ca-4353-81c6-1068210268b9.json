@@ -1,0 +1,42 @@
+{
+  "id": "e55cb13e-23ca-4353-81c6-1068210268b9",
+  "persona": "Reed",
+  "names": [
+    "Reed"
+  ],
+  "runs": 3,
+  "bestRank": 67,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2682360,
+  "weeksActive": [
+    -89,
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 385,
+      "ms": 2682360,
+      "dish": "Pies"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 67,
+      "ms": 2881866,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 207,
+      "ms": 3104683,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bb666b47-76bd-484d-994d-677cf004dd54",
+  "persona": "Max Verstappen",
+  "names": [
+    "Max Verstappen"
+  ],
+  "runs": 2,
+  "bestRank": 420,
+  "worstRank": 441,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4076611,
+  "weeksActive": [
+    44,
+    46
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 441,
+      "ms": 4605879,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 420,
+      "ms": 4076611,
+      "dish": "Pizza"
+    }
+  ]
+}

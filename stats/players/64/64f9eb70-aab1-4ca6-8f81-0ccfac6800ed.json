@@ -1,0 +1,50 @@
+{
+  "id": "64f9eb70-aab1-4ca6-8f81-0ccfac6800ed",
+  "persona": "spookypanda18",
+  "names": [
+    "spookypanda18"
+  ],
+  "runs": 4,
+  "bestRank": 109,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2402217,
+  "weeksActive": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 254,
+      "ms": 3952103,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 260,
+      "ms": 2402217,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 226,
+      "ms": 3171416,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 109,
+      "ms": 2844307,
+      "dish": "Breakfast"
+    }
+  ]
+}

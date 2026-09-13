@@ -1,0 +1,50 @@
+{
+  "id": "538cb9e6-1ec4-4dac-bd33-c09451e73323",
+  "persona": "Citizen",
+  "names": [
+    "Citizen"
+  ],
+  "runs": 4,
+  "bestRank": 145,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2771275,
+  "weeksActive": [
+    -7,
+    -5,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 196,
+      "ms": 4125352,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 195,
+      "ms": 3623741,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 145,
+      "ms": 2771275,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 365,
+      "ms": 3185254,
+      "dish": "Turkey"
+    }
+  ]
+}

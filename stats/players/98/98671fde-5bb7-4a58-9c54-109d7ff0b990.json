@@ -1,0 +1,42 @@
+{
+  "id": "98671fde-5bb7-4a58-9c54-109d7ff0b990",
+  "persona": "paRadigm",
+  "names": [
+    "paRadigm"
+  ],
+  "runs": 3,
+  "bestRank": 257,
+  "worstRank": 618,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3320459,
+  "weeksActive": [
+    -64,
+    -63,
+    -61
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 287,
+      "ms": 4014665,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 618,
+      "ms": 5499277,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 257,
+      "ms": 3320459,
+      "dish": "Fish"
+    }
+  ]
+}

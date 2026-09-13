@@ -1,0 +1,82 @@
+{
+  "id": "c2509cc3-d187-4d8b-9832-8deac0410e64",
+  "persona": "ctlu635",
+  "names": [
+    "ctlu635"
+  ],
+  "runs": 8,
+  "bestRank": 90,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2811698,
+  "weeksActive": [
+    34,
+    37,
+    38,
+    40,
+    42,
+    45,
+    52,
+    85
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 90,
+      "ms": 3093663,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 119,
+      "ms": 3521281,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 265,
+      "ms": 3261575,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 165,
+      "ms": 3422334,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 137,
+      "ms": 3100259,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 92,
+      "ms": 3261835,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 240,
+      "ms": 2811698,
+      "dish": "Fish"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 179,
+      "ms": 2866165,
+      "dish": "Fish"
+    }
+  ]
+}

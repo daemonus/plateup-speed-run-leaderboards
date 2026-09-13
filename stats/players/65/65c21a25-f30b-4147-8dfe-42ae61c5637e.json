@@ -1,0 +1,58 @@
+{
+  "id": "65c21a25-f30b-4147-8dfe-42ae61c5637e",
+  "persona": "taternugg01",
+  "names": [
+    "taternugg01"
+  ],
+  "runs": 5,
+  "bestRank": 40,
+  "worstRank": 253,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1279694,
+  "weeksActive": [
+    59,
+    60,
+    62,
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 253,
+      "ms": 3521206,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 211,
+      "ms": 3436211,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 100,
+      "ms": 2485289,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 107,
+      "ms": 2444044,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 40,
+      "ms": 1279694,
+      "dish": "Sundaes"
+    }
+  ]
+}

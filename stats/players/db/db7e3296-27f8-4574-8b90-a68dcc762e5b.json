@@ -1,0 +1,74 @@
+{
+  "id": "db7e3296-27f8-4574-8b90-a68dcc762e5b",
+  "persona": "\u30DE\u30E2\u5C06\u8ECD",
+  "names": [
+    "\u30DE\u30E2\u5C06\u8ECD"
+  ],
+  "runs": 7,
+  "bestRank": 123,
+  "worstRank": 461,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1939877,
+  "weeksActive": [
+    21,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 461,
+      "ms": 5006476,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 244,
+      "ms": 4216911,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 216,
+      "ms": 1939877,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 252,
+      "ms": 3372984,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 278,
+      "ms": 3053230,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 123,
+      "ms": 2853437,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 264,
+      "ms": 3806245,
+      "dish": "Burgers"
+    }
+  ]
+}

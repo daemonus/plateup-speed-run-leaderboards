@@ -1,0 +1,34 @@
+{
+  "id": "bba7964c-ac90-4cde-be6b-11ce78164821",
+  "persona": "Kulutues TTV",
+  "names": [
+    "Kulutues TTV"
+  ],
+  "runs": 2,
+  "bestRank": 2,
+  "worstRank": 23,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 846542,
+  "weeksActive": [
+    -93,
+    41
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 23,
+      "ms": 1278371,
+      "dish": "Fish"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 2,
+      "ms": 846542,
+      "dish": "Turkey"
+    }
+  ]
+}

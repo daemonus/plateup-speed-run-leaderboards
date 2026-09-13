@@ -1,0 +1,42 @@
+{
+  "id": "1b6bf626-a25b-4d34-b808-44936e9f3843",
+  "persona": "ward.farris",
+  "names": [
+    "ward.farris"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3028352,
+  "weeksActive": [
+    -39,
+    -38,
+    -35
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 503,
+      "ms": 3702017,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 436,
+      "ms": 3028352,
+      "dish": "Turkey"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 203,
+      "ms": 4554170,
+      "dish": "Breakfast"
+    }
+  ]
+}

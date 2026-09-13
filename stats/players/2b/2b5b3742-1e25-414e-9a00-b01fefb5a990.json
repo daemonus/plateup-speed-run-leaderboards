@@ -1,0 +1,42 @@
+{
+  "id": "2b5b3742-1e25-414e-9a00-b01fefb5a990",
+  "persona": "takaya",
+  "names": [
+    "takaya"
+  ],
+  "runs": 3,
+  "bestRank": 475,
+  "worstRank": 901,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4447989,
+  "weeksActive": [
+    -34,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 475,
+      "ms": 4973642,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 901,
+      "ms": 6690472,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 813,
+      "ms": 4447989,
+      "dish": "Turkey"
+    }
+  ]
+}

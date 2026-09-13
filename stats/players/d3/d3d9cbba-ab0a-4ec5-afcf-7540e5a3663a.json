@@ -1,0 +1,50 @@
+{
+  "id": "d3d9cbba-ab0a-4ec5-afcf-7540e5a3663a",
+  "persona": "Lisou",
+  "names": [
+    "Lisou"
+  ],
+  "runs": 4,
+  "bestRank": 294,
+  "worstRank": 583,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3982140,
+  "weeksActive": [
+    -61,
+    -59,
+    24,
+    34
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 403,
+      "ms": 3982140,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 583,
+      "ms": 4568270,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 420,
+      "ms": 4438991,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 294,
+      "ms": 4280087,
+      "dish": "Stir Fry"
+    }
+  ]
+}

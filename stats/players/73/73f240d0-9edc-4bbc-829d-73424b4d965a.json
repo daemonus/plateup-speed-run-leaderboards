@@ -1,0 +1,58 @@
+{
+  "id": "73f240d0-9edc-4bbc-829d-73424b4d965a",
+  "persona": "polly",
+  "names": [
+    "polly"
+  ],
+  "runs": 5,
+  "bestRank": 324,
+  "worstRank": 796,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3305721,
+  "weeksActive": [
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 796,
+      "ms": 4119049,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 397,
+      "ms": 4305976,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 324,
+      "ms": 5915908,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 332,
+      "ms": 3305721,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 327,
+      "ms": 3732008,
+      "dish": "Pies"
+    }
+  ]
+}

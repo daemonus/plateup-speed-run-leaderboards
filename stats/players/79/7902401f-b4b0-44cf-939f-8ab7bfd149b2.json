@@ -1,0 +1,50 @@
+{
+  "id": "7902401f-b4b0-44cf-939f-8ab7bfd149b2",
+  "persona": "Ivy",
+  "names": [
+    "Ivy"
+  ],
+  "runs": 4,
+  "bestRank": 145,
+  "worstRank": 2547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2476170,
+  "weeksActive": [
+    -93,
+    -18,
+    -17,
+    -15
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2547,
+      "ms": 3696634,
+      "dish": "Fish"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 380,
+      "ms": 3793543,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 369,
+      "ms": 5301263,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 145,
+      "ms": 2476170,
+      "dish": "Fish"
+    }
+  ]
+}

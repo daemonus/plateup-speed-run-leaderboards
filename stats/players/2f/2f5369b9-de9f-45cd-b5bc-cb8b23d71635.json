@@ -1,0 +1,34 @@
+{
+  "id": "2f5369b9-de9f-45cd-b5bc-cb8b23d71635",
+  "persona": "Rince",
+  "names": [
+    "Rince"
+  ],
+  "runs": 2,
+  "bestRank": 275,
+  "worstRank": 880,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3427812,
+  "weeksActive": [
+    -90,
+    -85
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 880,
+      "ms": 3427812,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 275,
+      "ms": 4888493,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "8ebc8cbc-a906-4183-b496-2baeccd3ecf8",
+  "persona": "Kittycow",
+  "names": [
+    "Kittycow"
+  ],
+  "runs": 9,
+  "bestRank": 48,
+  "worstRank": 255,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1815612,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -88,
+    -86,
+    -84,
+    -83,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 255,
+      "ms": 1815612,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 191,
+      "ms": 1886426,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 233,
+      "ms": 2128544,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 171,
+      "ms": 2564287,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 117,
+      "ms": 1921733,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 200,
+      "ms": 2489727,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 54,
+      "ms": 2162700,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 69,
+      "ms": 1946720,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 48,
+      "ms": 2524889,
+      "dish": "Steak"
+    }
+  ]
+}

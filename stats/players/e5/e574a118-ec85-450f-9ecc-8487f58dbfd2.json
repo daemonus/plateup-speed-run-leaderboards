@@ -1,0 +1,34 @@
+{
+  "id": "e574a118-ec85-450f-9ecc-8487f58dbfd2",
+  "persona": "Rotten",
+  "names": [
+    "Rotten"
+  ],
+  "runs": 2,
+  "bestRank": 984,
+  "worstRank": 1128,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3134457,
+  "weeksActive": [
+    -94,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 984,
+      "ms": 3410156,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1128,
+      "ms": 3134457,
+      "dish": "Fish"
+    }
+  ]
+}

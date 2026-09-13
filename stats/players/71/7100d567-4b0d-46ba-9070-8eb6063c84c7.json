@@ -1,0 +1,34 @@
+{
+  "id": "7100d567-4b0d-46ba-9070-8eb6063c84c7",
+  "persona": "anita",
+  "names": [
+    "anita"
+  ],
+  "runs": 2,
+  "bestRank": 190,
+  "worstRank": 543,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3527154,
+  "weeksActive": [
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 543,
+      "ms": 4310692,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 190,
+      "ms": 3527154,
+      "dish": "Burgers"
+    }
+  ]
+}

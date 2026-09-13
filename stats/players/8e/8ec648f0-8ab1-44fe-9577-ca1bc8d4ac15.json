@@ -1,0 +1,50 @@
+{
+  "id": "8ec648f0-8ab1-44fe-9577-ca1bc8d4ac15",
+  "persona": "DuoEr",
+  "names": [
+    "DuoEr"
+  ],
+  "runs": 4,
+  "bestRank": 337,
+  "worstRank": 1699,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2155939,
+  "weeksActive": [
+    -94,
+    -91,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1699,
+      "ms": 5089271,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 362,
+      "ms": 2155939,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 475,
+      "ms": 2622991,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 337,
+      "ms": 3130245,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bafa8c87-d5c2-423e-93f1-0315344f36d1",
+  "persona": "sydney_cyb",
+  "names": [
+    "sydney_cyb"
+  ],
+  "runs": 4,
+  "bestRank": 46,
+  "worstRank": 116,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1419765,
+  "weeksActive": [
+    57,
+    58,
+    79,
+    83
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 70,
+      "ms": 2478717,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 46,
+      "ms": 2020356,
+      "dish": "Turkey"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 116,
+      "ms": 3309759,
+      "dish": "Salad"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 63,
+      "ms": 1419765,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "d136d227-fd0e-43c4-adf6-879548114e46",
+  "persona": "chubbyboba",
+  "names": [
+    "chubbyboba"
+  ],
+  "runs": 4,
+  "bestRank": 202,
+  "worstRank": 409,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3282578,
+  "weeksActive": [
+    -6,
+    -5,
+    13,
+    44
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 409,
+      "ms": 4392384,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 202,
+      "ms": 3643264,
+      "dish": "Pizza"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 394,
+      "ms": 3282578,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 276,
+      "ms": 3370472,
+      "dish": "Breakfast"
+    }
+  ]
+}

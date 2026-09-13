@@ -1,0 +1,42 @@
+{
+  "id": "ca5ce7d5-a41b-4587-a0b2-48a22c63b772",
+  "persona": "Febue",
+  "names": [
+    "Febue"
+  ],
+  "runs": 3,
+  "bestRank": 154,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2847153,
+  "weeksActive": [
+    14,
+    23,
+    32
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 154,
+      "ms": 3061299,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 245,
+      "ms": 2847153,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 173,
+      "ms": 3129634,
+      "dish": "Pies"
+    }
+  ]
+}

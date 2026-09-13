@@ -1,0 +1,42 @@
+{
+  "id": "f585be9b-afd4-452a-b359-82f25caff8f3",
+  "persona": "Engvall",
+  "names": [
+    "Engvall"
+  ],
+  "runs": 3,
+  "bestRank": 202,
+  "worstRank": 448,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1911596,
+  "weeksActive": [
+    -93,
+    -92,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 318,
+      "ms": 1911596,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 448,
+      "ms": 3264492,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 202,
+      "ms": 2248361,
+      "dish": "Fish"
+    }
+  ]
+}

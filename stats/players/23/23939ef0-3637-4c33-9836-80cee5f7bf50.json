@@ -1,0 +1,50 @@
+{
+  "id": "23939ef0-3637-4c33-9836-80cee5f7bf50",
+  "persona": "bLackhawk",
+  "names": [
+    "bLackhawk"
+  ],
+  "runs": 4,
+  "bestRank": 288,
+  "worstRank": 806,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3791877,
+  "weeksActive": [
+    -30,
+    -18,
+    1,
+    3
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 806,
+      "ms": 4383646,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 516,
+      "ms": 4235500,
+      "dish": "Fish"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 288,
+      "ms": 3791877,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 581,
+      "ms": 4036710,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e67d3f3b-d788-4aa7-821d-437c4a4b142b",
+  "persona": "Conrad",
+  "names": [
+    "Conrad"
+  ],
+  "runs": 2,
+  "bestRank": 197,
+  "worstRank": 258,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2907204,
+  "weeksActive": [
+    76,
+    77
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 197,
+      "ms": 4977838,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 258,
+      "ms": 2907204,
+      "dish": "Sundaes"
+    }
+  ]
+}

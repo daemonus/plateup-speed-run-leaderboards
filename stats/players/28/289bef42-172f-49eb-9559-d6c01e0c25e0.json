@@ -1,0 +1,50 @@
+{
+  "id": "289bef42-172f-49eb-9559-d6c01e0c25e0",
+  "persona": "Tomathan",
+  "names": [
+    "Tomathan"
+  ],
+  "runs": 4,
+  "bestRank": 307,
+  "worstRank": 645,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3103958,
+  "weeksActive": [
+    3,
+    19,
+    20,
+    54
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 645,
+      "ms": 4301647,
+      "dish": "Fish"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 382,
+      "ms": 4981564,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 452,
+      "ms": 3103958,
+      "dish": "Turkey"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 307,
+      "ms": 5226879,
+      "dish": "Burgers"
+    }
+  ]
+}

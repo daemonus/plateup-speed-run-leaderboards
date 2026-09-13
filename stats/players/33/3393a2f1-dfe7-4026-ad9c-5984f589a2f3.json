@@ -1,0 +1,50 @@
+{
+  "id": "3393a2f1-dfe7-4026-ad9c-5984f589a2f3",
+  "persona": "XueSi",
+  "names": [
+    "XueSi"
+  ],
+  "runs": 4,
+  "bestRank": 309,
+  "worstRank": 846,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3589462,
+  "weeksActive": [
+    -86,
+    -83,
+    -81,
+    -33
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 846,
+      "ms": 5712223,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 390,
+      "ms": 3589462,
+      "dish": "Steak"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 428,
+      "ms": 5839196,
+      "dish": "Steak"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 309,
+      "ms": 4076608,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

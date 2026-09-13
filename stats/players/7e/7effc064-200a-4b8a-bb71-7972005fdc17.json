@@ -1,0 +1,42 @@
+{
+  "id": "7effc064-200a-4b8a-bb71-7972005fdc17",
+  "persona": "mapotz",
+  "names": [
+    "mapotz"
+  ],
+  "runs": 3,
+  "bestRank": 236,
+  "worstRank": 410,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3436500,
+  "weeksActive": [
+    68,
+    69,
+    71
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 410,
+      "ms": 3617811,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 272,
+      "ms": 4627089,
+      "dish": "Burgers"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 236,
+      "ms": 3436500,
+      "dish": "Pizza"
+    }
+  ]
+}

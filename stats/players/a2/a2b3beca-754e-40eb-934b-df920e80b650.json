@@ -1,0 +1,50 @@
+{
+  "id": "a2b3beca-754e-40eb-934b-df920e80b650",
+  "persona": "River",
+  "names": [
+    "River"
+  ],
+  "runs": 4,
+  "bestRank": 148,
+  "worstRank": 231,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1672584,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 148,
+      "ms": 1672584,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 159,
+      "ms": 1825041,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 231,
+      "ms": 2280928,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 205,
+      "ms": 2260222,
+      "dish": "Fish"
+    }
+  ]
+}

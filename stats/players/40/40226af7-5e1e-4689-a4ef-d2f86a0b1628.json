@@ -1,0 +1,34 @@
+{
+  "id": "40226af7-5e1e-4689-a4ef-d2f86a0b1628",
+  "persona": "shemdog1",
+  "names": [
+    "shemdog1"
+  ],
+  "runs": 2,
+  "bestRank": 202,
+  "worstRank": 480,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3617297,
+  "weeksActive": [
+    45,
+    52
+  ],
+  "history": [
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 202,
+      "ms": 4908366,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 480,
+      "ms": 3617297,
+      "dish": "Fish"
+    }
+  ]
+}

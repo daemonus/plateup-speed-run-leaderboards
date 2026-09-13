@@ -1,0 +1,42 @@
+{
+  "id": "bf6e1541-3d1f-4d42-a20d-aceb6b864d23",
+  "persona": "MK",
+  "names": [
+    "MK"
+  ],
+  "runs": 3,
+  "bestRank": 387,
+  "worstRank": 986,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4685173,
+  "weeksActive": [
+    -46,
+    -37,
+    59
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 583,
+      "ms": 6696643,
+      "dish": "Salad"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 986,
+      "ms": 6460039,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 387,
+      "ms": 4685173,
+      "dish": "Salad"
+    }
+  ]
+}

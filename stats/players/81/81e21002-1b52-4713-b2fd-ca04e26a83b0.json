@@ -1,0 +1,50 @@
+{
+  "id": "81e21002-1b52-4713-b2fd-ca04e26a83b0",
+  "persona": "Cliff0023",
+  "names": [
+    "Cliff0023"
+  ],
+  "runs": 4,
+  "bestRank": 220,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3657451,
+  "weeksActive": [
+    -50,
+    -49,
+    -47,
+    -46
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 279,
+      "ms": 5509602,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 235,
+      "ms": 5038347,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 444,
+      "ms": 5250208,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 220,
+      "ms": 3657451,
+      "dish": "Salad"
+    }
+  ]
+}

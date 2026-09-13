@@ -1,0 +1,50 @@
+{
+  "id": "c0f59f59-eeda-4a75-8778-cf5439c3bf5f",
+  "persona": "Regular Noob",
+  "names": [
+    "Regular Noob"
+  ],
+  "runs": 4,
+  "bestRank": 758,
+  "worstRank": 2772,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3639304,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1333,
+      "ms": 3882521,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2772,
+      "ms": 4191907,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1432,
+      "ms": 3639304,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 758,
+      "ms": 3754975,
+      "dish": "Pies"
+    }
+  ]
+}

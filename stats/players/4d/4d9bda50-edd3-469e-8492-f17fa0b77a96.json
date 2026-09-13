@@ -1,0 +1,74 @@
+{
+  "id": "4d9bda50-edd3-469e-8492-f17fa0b77a96",
+  "persona": "Terra",
+  "names": [
+    "Terra"
+  ],
+  "runs": 7,
+  "bestRank": 73,
+  "worstRank": 585,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2169956,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -88,
+    -87,
+    -83,
+    -43
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 585,
+      "ms": 2169956,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 253,
+      "ms": 2759156,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 384,
+      "ms": 2175272,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 318,
+      "ms": 3072833,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 228,
+      "ms": 3061743,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 73,
+      "ms": 2283716,
+      "dish": "Steak"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 142,
+      "ms": 3176532,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "857d243e-5a77-48ca-b6a8-89b552a55dba",
+  "persona": "spramgus",
+  "names": [
+    "spramgus"
+  ],
+  "runs": 3,
+  "bestRank": 254,
+  "worstRank": 1094,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3179831,
+  "weeksActive": [
+    -94,
+    -90,
+    -66
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 788,
+      "ms": 3179831,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1094,
+      "ms": 4145026,
+      "dish": "Fish"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 254,
+      "ms": 3943806,
+      "dish": "Turkey"
+    }
+  ]
+}

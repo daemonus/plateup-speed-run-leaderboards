@@ -1,0 +1,50 @@
+{
+  "id": "a7fdda3a-5cfe-4e88-bfbd-9c6ef79fedc9",
+  "persona": "potato",
+  "names": [
+    "potato"
+  ],
+  "runs": 4,
+  "bestRank": 223,
+  "worstRank": 770,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2016813,
+  "weeksActive": [
+    -86,
+    -80,
+    -60,
+    84
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 770,
+      "ms": 4065244,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 296,
+      "ms": 6507227,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 416,
+      "ms": 4952978,
+      "dish": "Burgers"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 223,
+      "ms": 2016813,
+      "dish": "Sundaes"
+    }
+  ]
+}

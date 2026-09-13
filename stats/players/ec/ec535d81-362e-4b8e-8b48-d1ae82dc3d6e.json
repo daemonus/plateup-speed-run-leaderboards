@@ -1,0 +1,34 @@
+{
+  "id": "ec535d81-362e-4b8e-8b48-d1ae82dc3d6e",
+  "persona": "Kris",
+  "names": [
+    "Kris"
+  ],
+  "runs": 2,
+  "bestRank": 194,
+  "worstRank": 1560,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2815015,
+  "weeksActive": [
+    -93,
+    -44
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1560,
+      "ms": 2834096,
+      "dish": "Fish"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 194,
+      "ms": 2815015,
+      "dish": "Turkey"
+    }
+  ]
+}

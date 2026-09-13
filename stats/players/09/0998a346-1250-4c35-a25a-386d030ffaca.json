@@ -1,0 +1,42 @@
+{
+  "id": "0998a346-1250-4c35-a25a-386d030ffaca",
+  "persona": "HuskyStrylight",
+  "names": [
+    "HuskyStrylight"
+  ],
+  "runs": 3,
+  "bestRank": 282,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2999074,
+  "weeksActive": [
+    -3,
+    26,
+    85
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 310,
+      "ms": 2999074,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 393,
+      "ms": 5781018,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 282,
+      "ms": 3564920,
+      "dish": "Fish"
+    }
+  ]
+}

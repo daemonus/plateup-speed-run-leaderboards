@@ -1,0 +1,42 @@
+{
+  "id": "ae0c7616-45f9-4682-9571-8efe685600b3",
+  "persona": "james.vondoom",
+  "names": [
+    "james.vondoom"
+  ],
+  "runs": 3,
+  "bestRank": 236,
+  "worstRank": 993,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4822282,
+  "weeksActive": [
+    -75,
+    -10,
+    30
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 993,
+      "ms": 4841219,
+      "dish": "Fish"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 236,
+      "ms": 4822282,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 490,
+      "ms": 5597265,
+      "dish": "Breakfast"
+    }
+  ]
+}

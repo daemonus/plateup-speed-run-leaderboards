@@ -1,0 +1,42 @@
+{
+  "id": "61e33e1c-d410-483c-9082-b4bc692c3716",
+  "persona": "Zaeske",
+  "names": [
+    "Zaeske"
+  ],
+  "runs": 3,
+  "bestRank": 367,
+  "worstRank": 769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3150881,
+  "weeksActive": [
+    41,
+    43,
+    86
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 623,
+      "ms": 3626948,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 769,
+      "ms": 5618053,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 367,
+      "ms": 3150881,
+      "dish": "Sundaes"
+    }
+  ]
+}

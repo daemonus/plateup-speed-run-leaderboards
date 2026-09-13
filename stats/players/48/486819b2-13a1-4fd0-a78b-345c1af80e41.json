@@ -1,0 +1,42 @@
+{
+  "id": "486819b2-13a1-4fd0-a78b-345c1af80e41",
+  "persona": "elle-chat",
+  "names": [
+    "elle-chat"
+  ],
+  "runs": 3,
+  "bestRank": 184,
+  "worstRank": 646,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4314033,
+  "weeksActive": [
+    -88,
+    45,
+    46
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 646,
+      "ms": 4314033,
+      "dish": "Pies"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 184,
+      "ms": 4398362,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 522,
+      "ms": 4805028,
+      "dish": "Pizza"
+    }
+  ]
+}

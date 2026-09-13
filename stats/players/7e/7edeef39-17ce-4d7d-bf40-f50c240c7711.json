@@ -1,0 +1,74 @@
+{
+  "id": "7edeef39-17ce-4d7d-bf40-f50c240c7711",
+  "persona": "Claude Debussy",
+  "names": [
+    "Claude Debussy"
+  ],
+  "runs": 7,
+  "bestRank": 135,
+  "worstRank": 957,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2842167,
+  "weeksActive": [
+    -75,
+    -74,
+    -45,
+    -44,
+    -43,
+    -41,
+    -30
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 957,
+      "ms": 4518214,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 345,
+      "ms": 3861713,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 137,
+      "ms": 2842167,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 206,
+      "ms": 2862551,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 135,
+      "ms": 3154001,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 148,
+      "ms": 3829541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 405,
+      "ms": 2972676,
+      "dish": "Turkey"
+    }
+  ]
+}

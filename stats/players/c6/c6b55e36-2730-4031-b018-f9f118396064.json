@@ -1,0 +1,74 @@
+{
+  "id": "c6b55e36-2730-4031-b018-f9f118396064",
+  "persona": "aqsqc009",
+  "names": [
+    "aqsqc009"
+  ],
+  "runs": 7,
+  "bestRank": 158,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2340000,
+  "weeksActive": [
+    66,
+    68,
+    71,
+    75,
+    76,
+    82,
+    86
+  ],
+  "history": [
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 218,
+      "ms": 2984439,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 297,
+      "ms": 3015572,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 219,
+      "ms": 3294596,
+      "dish": "Pizza"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 227,
+      "ms": 3791076,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 158,
+      "ms": 3673291,
+      "dish": "Salad"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 581,
+      "ms": 5205450,
+      "dish": "Pizza"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 232,
+      "ms": 2340000,
+      "dish": "Sundaes"
+    }
+  ]
+}

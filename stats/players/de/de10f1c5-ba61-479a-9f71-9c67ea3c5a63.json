@@ -1,0 +1,42 @@
+{
+  "id": "de10f1c5-ba61-479a-9f71-9c67ea3c5a63",
+  "persona": "HA-81",
+  "names": [
+    "HA-81"
+  ],
+  "runs": 3,
+  "bestRank": 177,
+  "worstRank": 654,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2900691,
+  "weeksActive": [
+    -38,
+    -30,
+    -2
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 433,
+      "ms": 3023796,
+      "dish": "Turkey"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 654,
+      "ms": 3610696,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 177,
+      "ms": 2900691,
+      "dish": "Pizza"
+    }
+  ]
+}

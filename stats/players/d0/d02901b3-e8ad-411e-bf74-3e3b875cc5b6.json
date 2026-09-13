@@ -1,0 +1,50 @@
+{
+  "id": "d02901b3-e8ad-411e-bf74-3e3b875cc5b6",
+  "persona": "kerbear9",
+  "names": [
+    "kerbear9"
+  ],
+  "runs": 4,
+  "bestRank": 234,
+  "worstRank": 810,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3407828,
+  "weeksActive": [
+    51,
+    52,
+    54,
+    56
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 293,
+      "ms": 4744689,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 408,
+      "ms": 3407828,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 234,
+      "ms": 4174382,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 810,
+      "ms": 3890685,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "0dbd6e81-f886-4f6e-b300-2335336c1b9a",
+  "persona": "[CHN]HITMAN",
+  "names": [
+    "[CHN]HITMAN"
+  ],
+  "runs": 4,
+  "bestRank": 219,
+  "worstRank": 841,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3305986,
+  "weeksActive": [
+    -62,
+    -61,
+    -59,
+    -55
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 841,
+      "ms": 14329251,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 326,
+      "ms": 3561546,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 408,
+      "ms": 3868858,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 219,
+      "ms": 3305986,
+      "dish": "Pizza"
+    }
+  ]
+}

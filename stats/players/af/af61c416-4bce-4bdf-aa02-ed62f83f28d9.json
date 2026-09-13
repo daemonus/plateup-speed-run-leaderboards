@@ -1,0 +1,74 @@
+{
+  "id": "af61c416-4bce-4bdf-aa02-ed62f83f28d9",
+  "persona": "NOtwist",
+  "names": [
+    "NOtwist"
+  ],
+  "runs": 7,
+  "bestRank": 238,
+  "worstRank": 636,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3695138,
+  "weeksActive": [
+    43,
+    44,
+    45,
+    66,
+    67,
+    70,
+    71
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 636,
+      "ms": 4003919,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 475,
+      "ms": 5371934,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 238,
+      "ms": 6976342,
+      "dish": "Salad"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 428,
+      "ms": 5588104,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 262,
+      "ms": 3695138,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 337,
+      "ms": 5460813,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 308,
+      "ms": 3883395,
+      "dish": "Pizza"
+    }
+  ]
+}

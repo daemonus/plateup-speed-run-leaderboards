@@ -1,0 +1,50 @@
+{
+  "id": "6a6c6f82-d873-44a6-8a8f-d6a158a96c28",
+  "persona": "Alchemy_Owl",
+  "names": [
+    "Alchemy_Owl"
+  ],
+  "runs": 4,
+  "bestRank": 186,
+  "worstRank": 838,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2537506,
+  "weeksActive": [
+    -91,
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 838,
+      "ms": 2738856,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 671,
+      "ms": 3575231,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 216,
+      "ms": 2537506,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 186,
+      "ms": 2793607,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8797ecfd-66b8-4209-a6f6-f7b884d18531",
+  "persona": "Roi",
+  "names": [
+    "Roi"
+  ],
+  "runs": 3,
+  "bestRank": 315,
+  "worstRank": 510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3038480,
+  "weeksActive": [
+    -33,
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 315,
+      "ms": 4119465,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 510,
+      "ms": 3536072,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 431,
+      "ms": 3038480,
+      "dish": "Turkey"
+    }
+  ]
+}

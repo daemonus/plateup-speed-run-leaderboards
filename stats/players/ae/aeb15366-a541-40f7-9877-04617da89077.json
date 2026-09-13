@@ -1,0 +1,34 @@
+{
+  "id": "aeb15366-a541-40f7-9877-04617da89077",
+  "persona": "el__jefe",
+  "names": [
+    "el__jefe"
+  ],
+  "runs": 2,
+  "bestRank": 224,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5739319,
+  "weeksActive": [
+    2,
+    25
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 447,
+      "ms": 5739319,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 224,
+      "ms": 6568915,
+      "dish": "Stir Fry"
+    }
+  ]
+}

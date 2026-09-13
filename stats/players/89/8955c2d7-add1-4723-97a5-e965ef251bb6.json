@@ -1,0 +1,74 @@
+{
+  "id": "8955c2d7-add1-4723-97a5-e965ef251bb6",
+  "persona": "rrrreicheru",
+  "names": [
+    "rrrreicheru"
+  ],
+  "runs": 7,
+  "bestRank": 196,
+  "worstRank": 499,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2554868,
+  "weeksActive": [
+    -18,
+    -16,
+    -15,
+    38,
+    52,
+    64,
+    82
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 499,
+      "ms": 4176033,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 471,
+      "ms": 3902713,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 196,
+      "ms": 2715019,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 382,
+      "ms": 3860180,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 271,
+      "ms": 2913313,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 421,
+      "ms": 2554868,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 427,
+      "ms": 4134081,
+      "dish": "Pizza"
+    }
+  ]
+}

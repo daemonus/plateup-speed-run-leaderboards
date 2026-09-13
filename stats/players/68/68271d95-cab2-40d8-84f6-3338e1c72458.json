@@ -1,0 +1,42 @@
+{
+  "id": "68271d95-cab2-40d8-84f6-3338e1c72458",
+  "persona": "\u8349\u8393\u725B\u5976\u4E0D\u8FC7\u671F",
+  "names": [
+    "\u8349\u8393\u725B\u5976\u4E0D\u8FC7\u671F"
+  ],
+  "runs": 3,
+  "bestRank": 128,
+  "worstRank": 494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3200679,
+  "weeksActive": [
+    -38,
+    -36,
+    -35
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 494,
+      "ms": 3200679,
+      "dish": "Turkey"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 128,
+      "ms": 5673295,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 192,
+      "ms": 4292000,
+      "dish": "Breakfast"
+    }
+  ]
+}

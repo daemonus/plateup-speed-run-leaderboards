@@ -1,0 +1,42 @@
+{
+  "id": "2bcb5d74-bff9-445d-bc48-04f20fc3b5ce",
+  "persona": "Tarleoff",
+  "names": [
+    "Tarleoff"
+  ],
+  "runs": 3,
+  "bestRank": 101,
+  "worstRank": 245,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3076942,
+  "weeksActive": [
+    28,
+    29,
+    33
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 245,
+      "ms": 3076942,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 101,
+      "ms": 3276172,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 199,
+      "ms": 4014008,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

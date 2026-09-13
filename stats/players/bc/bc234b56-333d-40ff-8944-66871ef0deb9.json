@@ -1,0 +1,42 @@
+{
+  "id": "bc234b56-333d-40ff-8944-66871ef0deb9",
+  "persona": "IzzyAvalon",
+  "names": [
+    "IzzyAvalon"
+  ],
+  "runs": 3,
+  "bestRank": 447,
+  "worstRank": 1056,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4539051,
+  "weeksActive": [
+    -33,
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 447,
+      "ms": 5853132,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1056,
+      "ms": 4996204,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 821,
+      "ms": 4539051,
+      "dish": "Turkey"
+    }
+  ]
+}

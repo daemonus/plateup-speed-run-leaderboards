@@ -1,0 +1,42 @@
+{
+  "id": "a402f23a-b926-4f4b-b8ba-f6b97a7e21dc",
+  "persona": "Para96",
+  "names": [
+    "Para96"
+  ],
+  "runs": 3,
+  "bestRank": 247,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2862265,
+  "weeksActive": [
+    -76,
+    -75,
+    -4
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 406,
+      "ms": 3025110,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 428,
+      "ms": 2862265,
+      "dish": "Fish"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 247,
+      "ms": 3193517,
+      "dish": "Pies"
+    }
+  ]
+}

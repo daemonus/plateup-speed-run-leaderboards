@@ -1,0 +1,58 @@
+{
+  "id": "4a6e46c8-d121-483d-8656-19d172696666",
+  "persona": "GreatOldScholarchsaur",
+  "names": [
+    "GreatOldScholarchsaur"
+  ],
+  "runs": 5,
+  "bestRank": 509,
+  "worstRank": 1504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3608401,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -89,
+    -87
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 713,
+      "ms": 4336917,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1504,
+      "ms": 3834946,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1100,
+      "ms": 4175585,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 722,
+      "ms": 3608401,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 509,
+      "ms": 4404386,
+      "dish": "Stir Fry"
+    }
+  ]
+}

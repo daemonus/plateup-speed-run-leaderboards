@@ -1,0 +1,50 @@
+{
+  "id": "fc15cfe4-bb0e-49d0-ad0e-58f7f3321e00",
+  "persona": "Toon",
+  "names": [
+    "Toon"
+  ],
+  "runs": 4,
+  "bestRank": 27,
+  "worstRank": 69,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1402720,
+  "weeksActive": [
+    -75,
+    -74,
+    -71,
+    -62
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 28,
+      "ms": 1402720,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 27,
+      "ms": 1961114,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 69,
+      "ms": 2006751,
+      "dish": "Turkey"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 60,
+      "ms": 2371875,
+      "dish": "Breakfast"
+    }
+  ]
+}

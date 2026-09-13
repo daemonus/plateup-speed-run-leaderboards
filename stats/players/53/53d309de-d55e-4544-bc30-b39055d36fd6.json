@@ -1,0 +1,58 @@
+{
+  "id": "53d309de-d55e-4544-bc30-b39055d36fd6",
+  "persona": "o621o",
+  "names": [
+    "o621o"
+  ],
+  "runs": 5,
+  "bestRank": 179,
+  "worstRank": 334,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3470820,
+  "weeksActive": [
+    34,
+    35,
+    66,
+    73,
+    74
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 179,
+      "ms": 3589909,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 233,
+      "ms": 3470820,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 334,
+      "ms": 3804004,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 263,
+      "ms": 4642453,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 285,
+      "ms": 4631384,
+      "dish": "Breakfast"
+    }
+  ]
+}

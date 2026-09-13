@@ -1,0 +1,50 @@
+{
+  "id": "e420bfe4-8db7-4c17-a4a5-23ab15a6b404",
+  "persona": "Dewi",
+  "names": [
+    "Dewi"
+  ],
+  "runs": 4,
+  "bestRank": 5,
+  "worstRank": 221,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1183973,
+  "weeksActive": [
+    12,
+    68,
+    70,
+    71
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 221,
+      "ms": 2481290,
+      "dish": "Turkey"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 5,
+      "ms": 1183973,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 12,
+      "ms": 1930373,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 8,
+      "ms": 1648362,
+      "dish": "Pizza"
+    }
+  ]
+}

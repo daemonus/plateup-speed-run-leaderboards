@@ -1,0 +1,58 @@
+{
+  "id": "a9059c8a-914a-48ff-b4d4-ced2c5413477",
+  "persona": "eletsia",
+  "names": [
+    "eletsia"
+  ],
+  "runs": 5,
+  "bestRank": 253,
+  "worstRank": 760,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3206811,
+  "weeksActive": [
+    56,
+    58,
+    66,
+    67,
+    86
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 760,
+      "ms": 3670469,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 394,
+      "ms": 3557456,
+      "dish": "Turkey"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 253,
+      "ms": 3206811,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 352,
+      "ms": 5271867,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 401,
+      "ms": 3386805,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cb63af38-ebc2-40b5-8baa-4b596f389279",
+  "persona": "niceDragon",
+  "names": [
+    "niceDragon"
+  ],
+  "runs": 5,
+  "bestRank": 33,
+  "worstRank": 353,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2027440,
+  "weeksActive": [
+    -77,
+    -72,
+    -71,
+    78,
+    80
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 218,
+      "ms": 2819489,
+      "dish": "Pies"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 272,
+      "ms": 3389819,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 353,
+      "ms": 2930575,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 33,
+      "ms": 2027440,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 314,
+      "ms": 4102524,
+      "dish": "Pizza"
+    }
+  ]
+}

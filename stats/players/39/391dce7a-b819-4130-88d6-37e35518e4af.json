@@ -1,0 +1,42 @@
+{
+  "id": "391dce7a-b819-4130-88d6-37e35518e4af",
+  "persona": "Komatsuna",
+  "names": [
+    "Komatsuna"
+  ],
+  "runs": 3,
+  "bestRank": 94,
+  "worstRank": 207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2990574,
+  "weeksActive": [
+    9,
+    44,
+    69
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 207,
+      "ms": 3056444,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 206,
+      "ms": 3038926,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 94,
+      "ms": 2990574,
+      "dish": "Burgers"
+    }
+  ]
+}

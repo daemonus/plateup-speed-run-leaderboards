@@ -1,0 +1,34 @@
+{
+  "id": "15a00ab8-6a7e-41eb-ac4b-aa97cfba0418",
+  "persona": "Ceremco",
+  "names": [
+    "Ceremco"
+  ],
+  "runs": 2,
+  "bestRank": 748,
+  "worstRank": 883,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4036534,
+  "weeksActive": [
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 748,
+      "ms": 5974704,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 883,
+      "ms": 4036534,
+      "dish": "Sundaes"
+    }
+  ]
+}

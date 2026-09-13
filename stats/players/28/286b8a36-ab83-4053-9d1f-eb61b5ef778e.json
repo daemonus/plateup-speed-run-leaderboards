@@ -1,0 +1,42 @@
+{
+  "id": "286b8a36-ab83-4053-9d1f-eb61b5ef778e",
+  "persona": "Bartok the Magnificent",
+  "names": [
+    "Bartok the Magnificent"
+  ],
+  "runs": 3,
+  "bestRank": 180,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2630064,
+  "weeksActive": [
+    -17,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 355,
+      "ms": 4758092,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 428,
+      "ms": 3733047,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 180,
+      "ms": 2630064,
+      "dish": "Fish"
+    }
+  ]
+}

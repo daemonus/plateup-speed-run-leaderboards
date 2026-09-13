@@ -1,0 +1,82 @@
+{
+  "id": "ec771f91-a82e-4f91-b9e6-d44ffdc723e1",
+  "persona": "xFresh",
+  "names": [
+    "xFresh"
+  ],
+  "runs": 8,
+  "bestRank": 14,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1525691,
+  "weeksActive": [
+    -59,
+    -52,
+    -47,
+    -45,
+    -41,
+    -40,
+    76,
+    77
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 270,
+      "ms": 3306593,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 123,
+      "ms": 3678187,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 14,
+      "ms": 2198478,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 55,
+      "ms": 2339770,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 105,
+      "ms": 3445024,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 63,
+      "ms": 3020198,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 48,
+      "ms": 2441511,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 42,
+      "ms": 1525691,
+      "dish": "Sundaes"
+    }
+  ]
+}

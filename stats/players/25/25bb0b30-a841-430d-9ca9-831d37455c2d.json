@@ -1,0 +1,42 @@
+{
+  "id": "25bb0b30-a841-430d-9ca9-831d37455c2d",
+  "persona": "monstreking",
+  "names": [
+    "monstreking"
+  ],
+  "runs": 3,
+  "bestRank": 56,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2824980,
+  "weeksActive": [
+    52,
+    53,
+    54
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 280,
+      "ms": 2945518,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 151,
+      "ms": 2959592,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 56,
+      "ms": 2824980,
+      "dish": "Burgers"
+    }
+  ]
+}

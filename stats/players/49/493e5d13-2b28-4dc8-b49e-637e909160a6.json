@@ -1,0 +1,42 @@
+{
+  "id": "493e5d13-2b28-4dc8-b49e-637e909160a6",
+  "persona": "Gladude",
+  "names": [
+    "Gladude"
+  ],
+  "runs": 3,
+  "bestRank": 252,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2696143,
+  "weeksActive": [
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 252,
+      "ms": 2696143,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 284,
+      "ms": 3176519,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 473,
+      "ms": 3355065,
+      "dish": "Fish"
+    }
+  ]
+}

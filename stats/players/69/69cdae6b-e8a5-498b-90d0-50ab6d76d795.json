@@ -1,0 +1,50 @@
+{
+  "id": "69cdae6b-e8a5-498b-90d0-50ab6d76d795",
+  "persona": "Gwin",
+  "names": [
+    "Gwin"
+  ],
+  "runs": 4,
+  "bestRank": 126,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2774637,
+  "weeksActive": [
+    1,
+    2,
+    3,
+    23
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 126,
+      "ms": 2888860,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 235,
+      "ms": 3698157,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 265,
+      "ms": 3179064,
+      "dish": "Fish"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 234,
+      "ms": 2774637,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "6c59c9b5-3536-4f6b-b727-311845cf10cb",
+  "persona": "evalundpedersen",
+  "names": [
+    "evalundpedersen"
+  ],
+  "runs": 6,
+  "bestRank": 159,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2951481,
+  "weeksActive": [
+    -64,
+    -63,
+    -22,
+    -21,
+    -16,
+    -14
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 217,
+      "ms": 3624959,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 213,
+      "ms": 3379043,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 169,
+      "ms": 4105849,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 159,
+      "ms": 2951481,
+      "dish": "Pizza"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 265,
+      "ms": 3165421,
+      "dish": "Pies"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 182,
+      "ms": 4390707,
+      "dish": "Salad"
+    }
+  ]
+}

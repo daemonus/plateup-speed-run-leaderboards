@@ -1,0 +1,50 @@
+{
+  "id": "ceea55cb-85cb-49c3-a1ba-c1aea1adf366",
+  "persona": "klp65870",
+  "names": [
+    "klp65870"
+  ],
+  "runs": 4,
+  "bestRank": 273,
+  "worstRank": 320,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2847063,
+  "weeksActive": [
+    9,
+    13,
+    15,
+    28
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 308,
+      "ms": 3518302,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 273,
+      "ms": 2847063,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 320,
+      "ms": 2889984,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 300,
+      "ms": 3422831,
+      "dish": "Turkey"
+    }
+  ]
+}

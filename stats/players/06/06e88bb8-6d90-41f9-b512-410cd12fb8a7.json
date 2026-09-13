@@ -1,0 +1,34 @@
+{
+  "id": "06e88bb8-6d90-41f9-b512-410cd12fb8a7",
+  "persona": "Fran",
+  "names": [
+    "Fran"
+  ],
+  "runs": 2,
+  "bestRank": 98,
+  "worstRank": 336,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2612126,
+  "weeksActive": [
+    -94,
+    50
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 336,
+      "ms": 2612126,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 98,
+      "ms": 3438166,
+      "dish": "Stir Fry"
+    }
+  ]
+}

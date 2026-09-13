@@ -1,0 +1,34 @@
+{
+  "id": "ea407202-8c64-4565-9c21-31cb37b494c2",
+  "persona": "allterraintrain",
+  "names": [
+    "allterraintrain"
+  ],
+  "runs": 2,
+  "bestRank": 180,
+  "worstRank": 677,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2543691,
+  "weeksActive": [
+    -91,
+    78
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 677,
+      "ms": 2543691,
+      "dish": "Fish"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 180,
+      "ms": 3055005,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

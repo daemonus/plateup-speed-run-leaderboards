@@ -1,0 +1,34 @@
+{
+  "id": "20cb8d18-0569-4b9f-95c0-c33cf8fccb6a",
+  "persona": "Jake",
+  "names": [
+    "Jake"
+  ],
+  "runs": 2,
+  "bestRank": 1750,
+  "worstRank": 1825,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3013651,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1750,
+      "ms": 5629288,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1825,
+      "ms": 3013651,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bbc5ea5e-ccb2-409e-98ee-642fad8bdc50",
+  "persona": "l0rd",
+  "names": [
+    "l0rd"
+  ],
+  "runs": 4,
+  "bestRank": 370,
+  "worstRank": 699,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5758479,
+  "weeksActive": [
+    52,
+    77,
+    78,
+    86
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 699,
+      "ms": 6825892,
+      "dish": "Fish"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 508,
+      "ms": 13109011,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 370,
+      "ms": 5758479,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 540,
+      "ms": 7279381,
+      "dish": "Sundaes"
+    }
+  ]
+}

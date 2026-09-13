@@ -1,0 +1,42 @@
+{
+  "id": "c4f19165-17aa-4817-b448-8ed71061ddf7",
+  "persona": "BucketBitch",
+  "names": [
+    "BucketBitch"
+  ],
+  "runs": 3,
+  "bestRank": 110,
+  "worstRank": 500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2701302,
+  "weeksActive": [
+    62,
+    67,
+    80
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 500,
+      "ms": 4594957,
+      "dish": "Pies"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 273,
+      "ms": 3758206,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 110,
+      "ms": 2701302,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "88175d55-4a34-49a7-aae2-d66d230af16b",
+  "persona": "Victor",
+  "names": [
+    "Victor"
+  ],
+  "runs": 5,
+  "bestRank": 137,
+  "worstRank": 400,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2454428,
+  "weeksActive": [
+    15,
+    16,
+    21,
+    24,
+    28
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 400,
+      "ms": 3177962,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 277,
+      "ms": 4306063,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 211,
+      "ms": 3111569,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 210,
+      "ms": 3111798,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 137,
+      "ms": 2454428,
+      "dish": "Turkey"
+    }
+  ]
+}

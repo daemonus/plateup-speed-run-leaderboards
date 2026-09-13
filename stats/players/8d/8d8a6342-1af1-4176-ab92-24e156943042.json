@@ -1,0 +1,58 @@
+{
+  "id": "8d8a6342-1af1-4176-ab92-24e156943042",
+  "persona": "ewab",
+  "names": [
+    "ewab"
+  ],
+  "runs": 5,
+  "bestRank": 275,
+  "worstRank": 562,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3119072,
+  "weeksActive": [
+    -5,
+    -3,
+    -2,
+    10,
+    13
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 384,
+      "ms": 4384382,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 347,
+      "ms": 3119072,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 329,
+      "ms": 3791206,
+      "dish": "Pizza"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 275,
+      "ms": 5206440,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 562,
+      "ms": 3856568,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "8ca31641-c5ac-4233-98ae-6176ab8595b2",
+  "persona": "Blergh",
+  "names": [
+    "Blergh"
+  ],
+  "runs": 2,
+  "bestRank": 162,
+  "worstRank": 1017,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2521468,
+  "weeksActive": [
+    -94,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1017,
+      "ms": 3457481,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 162,
+      "ms": 2521468,
+      "dish": "Pies"
+    }
+  ]
+}

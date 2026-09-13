@@ -1,0 +1,42 @@
+{
+  "id": "021f81de-31d5-4186-993e-e41eecdbe4c9",
+  "persona": "briony",
+  "names": [
+    "briony"
+  ],
+  "runs": 3,
+  "bestRank": 187,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2147519,
+  "weeksActive": [
+    -94,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 398,
+      "ms": 2700452,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 187,
+      "ms": 2147519,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 254,
+      "ms": 2911415,
+      "dish": "Pies"
+    }
+  ]
+}

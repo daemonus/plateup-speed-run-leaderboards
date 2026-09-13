@@ -1,0 +1,50 @@
+{
+  "id": "d14d62a9-417a-4b20-a45a-d6802f5c8654",
+  "persona": "Hunni-Bunni",
+  "names": [
+    "Hunni-Bunni"
+  ],
+  "runs": 4,
+  "bestRank": 317,
+  "worstRank": 875,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3107891,
+  "weeksActive": [
+    63,
+    64,
+    68,
+    77
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 383,
+      "ms": 3473396,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 875,
+      "ms": 4001014,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 317,
+      "ms": 3107891,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 363,
+      "ms": 3672100,
+      "dish": "Sundaes"
+    }
+  ]
+}

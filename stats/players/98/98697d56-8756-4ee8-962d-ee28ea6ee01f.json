@@ -1,0 +1,58 @@
+{
+  "id": "98697d56-8756-4ee8-962d-ee28ea6ee01f",
+  "persona": "KittyCass",
+  "names": [
+    "KittyCass"
+  ],
+  "runs": 5,
+  "bestRank": 287,
+  "worstRank": 730,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4062986,
+  "weeksActive": [
+    -44,
+    -39,
+    -19,
+    -18,
+    -17
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 460,
+      "ms": 4062986,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 730,
+      "ms": 5201273,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 287,
+      "ms": 4595081,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 720,
+      "ms": 5112816,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 392,
+      "ms": 6406543,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

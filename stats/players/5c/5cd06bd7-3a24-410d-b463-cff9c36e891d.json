@@ -1,0 +1,34 @@
+{
+  "id": "5cd06bd7-3a24-410d-b463-cff9c36e891d",
+  "persona": "YahMo",
+  "names": [
+    "YahMo"
+  ],
+  "runs": 2,
+  "bestRank": 101,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2236333,
+  "weeksActive": [
+    -19,
+    36
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 187,
+      "ms": 3289764,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 101,
+      "ms": 2236333,
+      "dish": "Fish"
+    }
+  ]
+}

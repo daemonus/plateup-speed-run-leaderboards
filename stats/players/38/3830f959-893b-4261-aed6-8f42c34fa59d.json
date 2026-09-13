@@ -1,0 +1,34 @@
+{
+  "id": "3830f959-893b-4261-aed6-8f42c34fa59d",
+  "persona": "MeGG",
+  "names": [
+    "MeGG"
+  ],
+  "runs": 2,
+  "bestRank": 514,
+  "worstRank": 598,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3006720,
+  "weeksActive": [
+    8,
+    64
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 514,
+      "ms": 3310799,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 598,
+      "ms": 3006720,
+      "dish": "Sundaes"
+    }
+  ]
+}

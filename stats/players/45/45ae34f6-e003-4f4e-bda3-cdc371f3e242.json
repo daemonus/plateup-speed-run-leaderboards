@@ -1,0 +1,34 @@
+{
+  "id": "45ae34f6-e003-4f4e-bda3-cdc371f3e242",
+  "persona": "hahager",
+  "names": [
+    "hahager"
+  ],
+  "runs": 2,
+  "bestRank": 388,
+  "worstRank": 411,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5114507,
+  "weeksActive": [
+    26,
+    34
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 388,
+      "ms": 5708212,
+      "dish": "Pizza"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 411,
+      "ms": 5114507,
+      "dish": "Stir Fry"
+    }
+  ]
+}

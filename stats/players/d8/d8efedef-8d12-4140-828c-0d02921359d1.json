@@ -1,0 +1,58 @@
+{
+  "id": "d8efedef-8d12-4140-828c-0d02921359d1",
+  "persona": "DizFoley",
+  "names": [
+    "DizFoley"
+  ],
+  "runs": 5,
+  "bestRank": 57,
+  "worstRank": 242,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2220533,
+  "weeksActive": [
+    -53,
+    -52,
+    -51,
+    -50,
+    77
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 58,
+      "ms": 2817364,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 63,
+      "ms": 3149256,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 86,
+      "ms": 2220533,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 57,
+      "ms": 2974337,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 242,
+      "ms": 2846714,
+      "dish": "Sundaes"
+    }
+  ]
+}

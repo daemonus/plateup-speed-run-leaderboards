@@ -1,0 +1,34 @@
+{
+  "id": "60ea15dc-7168-4b2c-8512-d8e851be966e",
+  "persona": "Nick",
+  "names": [
+    "Nick"
+  ],
+  "runs": 2,
+  "bestRank": 373,
+  "worstRank": 636,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2212537,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 373,
+      "ms": 2668731,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 636,
+      "ms": 2212537,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "a1404b5b-6a66-405a-8989-06d103ad9e29",
+  "persona": "Mike",
+  "names": [
+    "Mike"
+  ],
+  "runs": 2,
+  "bestRank": 224,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4202136,
+  "weeksActive": [
+    -44,
+    -42
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 491,
+      "ms": 4202136,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 224,
+      "ms": 5137131,
+      "dish": "Burgers"
+    }
+  ]
+}

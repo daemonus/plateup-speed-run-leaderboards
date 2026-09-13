@@ -1,0 +1,58 @@
+{
+  "id": "1d6aeeca-89dd-45d2-95d0-cf84aad7fb65",
+  "persona": "\u98DE\u5929\u626B\u5E1A\u662F\u6CA1\u6709\u540E\u89C6\u955C\u7684",
+  "names": [
+    "\u98DE\u5929\u626B\u5E1A\u662F\u6CA1\u6709\u540E\u89C6\u955C\u7684"
+  ],
+  "runs": 5,
+  "bestRank": 123,
+  "worstRank": 312,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2818812,
+  "weeksActive": [
+    -27,
+    -26,
+    -25,
+    -8,
+    8
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 123,
+      "ms": 3623750,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 166,
+      "ms": 3579422,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 161,
+      "ms": 3256363,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 185,
+      "ms": 4295154,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 312,
+      "ms": 2818812,
+      "dish": "Fish"
+    }
+  ]
+}

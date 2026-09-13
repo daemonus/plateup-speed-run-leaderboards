@@ -1,0 +1,42 @@
+{
+  "id": "d9c03f54-4f70-4d6e-bab0-0a7d2b199f0a",
+  "persona": "Nnudell",
+  "names": [
+    "Nnudell"
+  ],
+  "runs": 3,
+  "bestRank": 463,
+  "worstRank": 683,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3999821,
+  "weeksActive": [
+    21,
+    52,
+    68
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 469,
+      "ms": 5113080,
+      "dish": "Burgers"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 683,
+      "ms": 5489268,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 463,
+      "ms": 3999821,
+      "dish": "Turkey"
+    }
+  ]
+}

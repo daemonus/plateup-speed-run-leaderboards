@@ -1,0 +1,34 @@
+{
+  "id": "e223ef01-b48f-483a-a172-097c7ac79b06",
+  "persona": "lilty",
+  "names": [
+    "lilty"
+  ],
+  "runs": 2,
+  "bestRank": 425,
+  "worstRank": 691,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3718355,
+  "weeksActive": [
+    -30,
+    -25
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 691,
+      "ms": 3718355,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 425,
+      "ms": 4325337,
+      "dish": "Breakfast"
+    }
+  ]
+}

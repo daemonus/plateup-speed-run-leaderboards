@@ -1,0 +1,50 @@
+{
+  "id": "cf9ee5dc-55b7-444c-a576-1ab8e1aec0ef",
+  "persona": "Haramjoe",
+  "names": [
+    "Haramjoe"
+  ],
+  "runs": 4,
+  "bestRank": 277,
+  "worstRank": 1178,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2404727,
+  "weeksActive": [
+    -93,
+    -92,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1178,
+      "ms": 2579707,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 305,
+      "ms": 2893385,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 403,
+      "ms": 2470854,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 277,
+      "ms": 2404727,
+      "dish": "Pies"
+    }
+  ]
+}

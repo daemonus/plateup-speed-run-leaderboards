@@ -1,0 +1,146 @@
+{
+  "id": "dfeb8bae-8230-4a46-877e-721677048c7c",
+  "persona": "PcPrincipal",
+  "names": [
+    "PcPrincipal"
+  ],
+  "runs": 16,
+  "bestRank": 40,
+  "worstRank": 597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2027736,
+  "weeksActive": [
+    -55,
+    -16,
+    -15,
+    1,
+    19,
+    20,
+    21,
+    27,
+    28,
+    29,
+    31,
+    64,
+    65,
+    68,
+    70,
+    71
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 356,
+      "ms": 3959556,
+      "dish": "Pizza"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 344,
+      "ms": 3443415,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 351,
+      "ms": 3359204,
+      "dish": "Fish"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 206,
+      "ms": 3357570,
+      "dish": "Pies"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 202,
+      "ms": 3620482,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 169,
+      "ms": 2127634,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 174,
+      "ms": 2903410,
+      "dish": "Burgers"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 203,
+      "ms": 3605086,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 206,
+      "ms": 2858262,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 96,
+      "ms": 3225288,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 40,
+      "ms": 2027736,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 597,
+      "ms": 3006330,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 122,
+      "ms": 2826696,
+      "dish": "Pizza"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 162,
+      "ms": 2368972,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 131,
+      "ms": 3029141,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 142,
+      "ms": 2830461,
+      "dish": "Pizza"
+    }
+  ]
+}

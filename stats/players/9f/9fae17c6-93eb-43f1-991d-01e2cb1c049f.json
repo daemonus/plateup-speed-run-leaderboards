@@ -1,0 +1,50 @@
+{
+  "id": "9fae17c6-93eb-43f1-991d-01e2cb1c049f",
+  "persona": "WineDahlia",
+  "names": [
+    "WineDahlia"
+  ],
+  "runs": 4,
+  "bestRank": 201,
+  "worstRank": 423,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2632838,
+  "weeksActive": [
+    9,
+    10,
+    12,
+    15
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 401,
+      "ms": 4076690,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 201,
+      "ms": 4228502,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 252,
+      "ms": 2632838,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 423,
+      "ms": 3285298,
+      "dish": "Turkey"
+    }
+  ]
+}

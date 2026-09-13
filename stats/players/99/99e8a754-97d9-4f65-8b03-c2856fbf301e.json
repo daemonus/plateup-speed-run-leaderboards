@@ -1,0 +1,66 @@
+{
+  "id": "99e8a754-97d9-4f65-8b03-c2856fbf301e",
+  "persona": "Marninto",
+  "names": [
+    "Marninto"
+  ],
+  "runs": 6,
+  "bestRank": 104,
+  "worstRank": 603,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2064450,
+  "weeksActive": [
+    -94,
+    -89,
+    -88,
+    -20,
+    -19,
+    83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 202,
+      "ms": 2377648,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 603,
+      "ms": 3187094,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 142,
+      "ms": 2457387,
+      "dish": "Pies"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 288,
+      "ms": 3681515,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 104,
+      "ms": 2696899,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 218,
+      "ms": 2064450,
+      "dish": "Sundaes"
+    }
+  ]
+}

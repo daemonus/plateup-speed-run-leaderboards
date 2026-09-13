@@ -1,0 +1,42 @@
+{
+  "id": "41bfd9cb-ac10-462f-8164-151cff318328",
+  "persona": "Ara Ara",
+  "names": [
+    "Ara Ara"
+  ],
+  "runs": 3,
+  "bestRank": 159,
+  "worstRank": 415,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2538623,
+  "weeksActive": [
+    -8,
+    35,
+    36
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 415,
+      "ms": 6231814,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 159,
+      "ms": 3017089,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 162,
+      "ms": 2538623,
+      "dish": "Fish"
+    }
+  ]
+}

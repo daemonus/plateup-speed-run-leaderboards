@@ -1,0 +1,42 @@
+{
+  "id": "22e2f0a4-adf8-4351-8a9f-953b7f8399c8",
+  "persona": "Alphera",
+  "names": [
+    "Alphera"
+  ],
+  "runs": 3,
+  "bestRank": 116,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2253974,
+  "weeksActive": [
+    41,
+    43,
+    47
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 277,
+      "ms": 2253974,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 177,
+      "ms": 2409216,
+      "dish": "Fish"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 116,
+      "ms": 2961164,
+      "dish": "Pizza"
+    }
+  ]
+}

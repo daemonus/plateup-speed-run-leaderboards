@@ -1,0 +1,34 @@
+{
+  "id": "a1efd7b5-00fa-40c8-84e0-02fca7c7d38f",
+  "persona": "Lucifer",
+  "names": [
+    "Lucifer"
+  ],
+  "runs": 2,
+  "bestRank": 292,
+  "worstRank": 309,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3844714,
+  "weeksActive": [
+    -80,
+    -79
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 292,
+      "ms": 6049127,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 309,
+      "ms": 3844714,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "db521510-5034-4151-98cf-6a76035cb00b",
+  "persona": "Antigo",
+  "names": [
+    "Antigo"
+  ],
+  "runs": 5,
+  "bestRank": 194,
+  "worstRank": 1883,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3050681,
+  "weeksActive": [
+    -93,
+    -90,
+    -89,
+    -88,
+    -85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1883,
+      "ms": 3050681,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 760,
+      "ms": 3154397,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 616,
+      "ms": 3229831,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 469,
+      "ms": 3634153,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 194,
+      "ms": 3672201,
+      "dish": "Stir Fry"
+    }
+  ]
+}

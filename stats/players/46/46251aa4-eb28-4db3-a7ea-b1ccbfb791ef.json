@@ -1,0 +1,58 @@
+{
+  "id": "46251aa4-eb28-4db3-a7ea-b1ccbfb791ef",
+  "persona": "Phytor",
+  "names": [
+    "Phytor"
+  ],
+  "runs": 5,
+  "bestRank": 78,
+  "worstRank": 534,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3197054,
+  "weeksActive": [
+    20,
+    23,
+    25,
+    26,
+    50
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 502,
+      "ms": 3238814,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 534,
+      "ms": 4489177,
+      "dish": "Turkey"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 187,
+      "ms": 5074662,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 285,
+      "ms": 4095180,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 78,
+      "ms": 3197054,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "f532e3b5-6844-4254-b739-272bf814ae6c",
+  "persona": "GriegsGiraffe",
+  "names": [
+    "GriegsGiraffe"
+  ],
+  "runs": 3,
+  "bestRank": 284,
+  "worstRank": 392,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3272792,
+  "weeksActive": [
+    68,
+    69,
+    77
+  ],
+  "history": [
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 392,
+      "ms": 3477804,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 284,
+      "ms": 4957894,
+      "dish": "Burgers"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 312,
+      "ms": 3272792,
+      "dish": "Sundaes"
+    }
+  ]
+}

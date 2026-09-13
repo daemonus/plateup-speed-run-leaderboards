@@ -1,0 +1,74 @@
+{
+  "id": "a6344dad-43ee-4744-9376-874296346e3a",
+  "persona": "fozzie Bear",
+  "names": [
+    "fozzie Bear"
+  ],
+  "runs": 7,
+  "bestRank": 22,
+  "worstRank": 258,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1877539,
+  "weeksActive": [
+    -44,
+    -43,
+    -34,
+    -33,
+    -31,
+    -30,
+    -29
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 258,
+      "ms": 3063948,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 60,
+      "ms": 2570090,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 22,
+      "ms": 1877539,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 90,
+      "ms": 2744231,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 22,
+      "ms": 1964441,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 104,
+      "ms": 2058594,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 29,
+      "ms": 2517522,
+      "dish": "Burgers"
+    }
+  ]
+}

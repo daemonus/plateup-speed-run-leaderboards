@@ -1,0 +1,50 @@
+{
+  "id": "ede4bc7a-6b45-4ac7-b6d4-f8cde2f2132e",
+  "persona": "Pounding Fathers",
+  "names": [
+    "Pounding Fathers"
+  ],
+  "runs": 4,
+  "bestRank": 281,
+  "worstRank": 1035,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3696483,
+  "weeksActive": [
+    -90,
+    -87,
+    -85,
+    -18
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1035,
+      "ms": 3864871,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 395,
+      "ms": 3696483,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 281,
+      "ms": 5121600,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 452,
+      "ms": 4035694,
+      "dish": "Fish"
+    }
+  ]
+}

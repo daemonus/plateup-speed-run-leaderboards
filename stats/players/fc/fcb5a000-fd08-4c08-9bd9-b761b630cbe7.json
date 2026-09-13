@@ -1,0 +1,34 @@
+{
+  "id": "fcb5a000-fd08-4c08-9bd9-b761b630cbe7",
+  "persona": "zwei",
+  "names": [
+    "zwei"
+  ],
+  "runs": 2,
+  "bestRank": 270,
+  "worstRank": 278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2457647,
+  "weeksActive": [
+    13,
+    20
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 270,
+      "ms": 2836886,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 278,
+      "ms": 2457647,
+      "dish": "Turkey"
+    }
+  ]
+}

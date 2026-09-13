@@ -1,0 +1,42 @@
+{
+  "id": "40fa5791-6011-4b47-bd70-18d899c0edb2",
+  "persona": "GH8",
+  "names": [
+    "GH8"
+  ],
+  "runs": 3,
+  "bestRank": 208,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2873543,
+  "weeksActive": [
+    77,
+    78,
+    79
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 248,
+      "ms": 2873543,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 208,
+      "ms": 3209380,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 239,
+      "ms": 5092926,
+      "dish": "Salad"
+    }
+  ]
+}

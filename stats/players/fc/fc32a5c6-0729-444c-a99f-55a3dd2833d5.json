@@ -1,0 +1,58 @@
+{
+  "id": "fc32a5c6-0729-444c-a99f-55a3dd2833d5",
+  "persona": "andopants",
+  "names": [
+    "andopants"
+  ],
+  "runs": 5,
+  "bestRank": 96,
+  "worstRank": 1149,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2100964,
+  "weeksActive": [
+    -94,
+    -93,
+    -2,
+    43,
+    66
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1149,
+      "ms": 3618496,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 499,
+      "ms": 2100964,
+      "dish": "Fish"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 97,
+      "ms": 2535979,
+      "dish": "Pizza"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 96,
+      "ms": 2105905,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 220,
+      "ms": 3008066,
+      "dish": "Breakfast"
+    }
+  ]
+}

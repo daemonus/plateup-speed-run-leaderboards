@@ -1,0 +1,50 @@
+{
+  "id": "e8be2a4b-adcf-4dc2-8b81-189c1420e30c",
+  "persona": "MilkshakeMoo",
+  "names": [
+    "MilkshakeMoo"
+  ],
+  "runs": 4,
+  "bestRank": 165,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2375246,
+  "weeksActive": [
+    -85,
+    -84,
+    -76,
+    -33
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 285,
+      "ms": 5225762,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 165,
+      "ms": 2375246,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 274,
+      "ms": 2645165,
+      "dish": "Turkey"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 342,
+      "ms": 4292667,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

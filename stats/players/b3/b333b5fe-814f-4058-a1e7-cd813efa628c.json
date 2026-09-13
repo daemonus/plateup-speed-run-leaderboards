@@ -1,0 +1,34 @@
+{
+  "id": "b333b5fe-814f-4058-a1e7-cd813efa628c",
+  "persona": "Jagg",
+  "names": [
+    "Jagg"
+  ],
+  "runs": 2,
+  "bestRank": 156,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3191922,
+  "weeksActive": [
+    -44,
+    -42
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 291,
+      "ms": 3191922,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 156,
+      "ms": 3901055,
+      "dish": "Burgers"
+    }
+  ]
+}

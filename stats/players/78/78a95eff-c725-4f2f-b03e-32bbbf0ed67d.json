@@ -1,0 +1,34 @@
+{
+  "id": "78a95eff-c725-4f2f-b03e-32bbbf0ed67d",
+  "persona": "Frozt",
+  "names": [
+    "Frozt"
+  ],
+  "runs": 2,
+  "bestRank": 106,
+  "worstRank": 183,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3142543,
+  "weeksActive": [
+    -58,
+    -55
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 106,
+      "ms": 3436344,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 183,
+      "ms": 3142543,
+      "dish": "Pizza"
+    }
+  ]
+}

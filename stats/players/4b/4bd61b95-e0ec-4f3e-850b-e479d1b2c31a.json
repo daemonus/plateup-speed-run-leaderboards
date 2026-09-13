@@ -1,0 +1,42 @@
+{
+  "id": "4bd61b95-e0ec-4f3e-850b-e479d1b2c31a",
+  "persona": "rui-",
+  "names": [
+    "rui-"
+  ],
+  "runs": 3,
+  "bestRank": 90,
+  "worstRank": 138,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2751458,
+  "weeksActive": [
+    -5,
+    2,
+    5
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 119,
+      "ms": 3244170,
+      "dish": "Pizza"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 138,
+      "ms": 3018106,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 90,
+      "ms": 2751458,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b15c4807-4926-4f8c-9f95-e6ed68d6525a",
+  "persona": "whirlywind",
+  "names": [
+    "whirlywind"
+  ],
+  "runs": 4,
+  "bestRank": 129,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2231596,
+  "weeksActive": [
+    -82,
+    -79,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 129,
+      "ms": 2231596,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 267,
+      "ms": 3609971,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 159,
+      "ms": 2613010,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 280,
+      "ms": 2688461,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ea1143a6-8e79-4e5d-ad16-b306bf9575fe",
+  "persona": "funnydriver",
+  "names": [
+    "funnydriver"
+  ],
+  "runs": 3,
+  "bestRank": 360,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3004625,
+  "weeksActive": [
+    5,
+    8,
+    9
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 436,
+      "ms": 4859899,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 382,
+      "ms": 3004625,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 360,
+      "ms": 3795667,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fccb4bd7-ff94-4cdb-8b78-dbccf234cdca",
+  "persona": "Crimbo Mode",
+  "names": [
+    "Crimbo Mode"
+  ],
+  "runs": 4,
+  "bestRank": 111,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1994680,
+  "weeksActive": [
+    -59,
+    -56,
+    -55,
+    56
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 163,
+      "ms": 2828507,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 111,
+      "ms": 2475610,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 201,
+      "ms": 3235394,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 240,
+      "ms": 1994680,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d7837d9a-007c-48cb-b78d-2dd012c50765",
+  "persona": "\u677F\u6817\uFF08\u7535\u5B50\u9633\u75FF\u677F\uFF09",
+  "names": [
+    "\u677F\u6817\uFF08\u7535\u5B50\u9633\u75FF\u677F\uFF09"
+  ],
+  "runs": 2,
+  "bestRank": 49,
+  "worstRank": 117,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2288384,
+  "weeksActive": [
+    -81,
+    -79
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 117,
+      "ms": 3118378,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 49,
+      "ms": 2288384,
+      "dish": "Pies"
+    }
+  ]
+}

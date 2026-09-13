@@ -1,0 +1,34 @@
+{
+  "id": "544d4244-7ebe-46c0-bbf3-68677e9b97b5",
+  "persona": "404",
+  "names": [
+    "404"
+  ],
+  "runs": 2,
+  "bestRank": 719,
+  "worstRank": 1549,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2825895,
+  "weeksActive": [
+    -93,
+    -76
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1549,
+      "ms": 2825895,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 719,
+      "ms": 3817383,
+      "dish": "Turkey"
+    }
+  ]
+}

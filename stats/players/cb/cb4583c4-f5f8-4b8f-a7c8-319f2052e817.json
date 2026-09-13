@@ -1,0 +1,50 @@
+{
+  "id": "cb4583c4-f5f8-4b8f-a7c8-319f2052e817",
+  "persona": "Magillagorilla",
+  "names": [
+    "Magillagorilla"
+  ],
+  "runs": 4,
+  "bestRank": 199,
+  "worstRank": 378,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2665283,
+  "weeksActive": [
+    -30,
+    7,
+    8,
+    28
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 378,
+      "ms": 2901095,
+      "dish": "Turkey"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 359,
+      "ms": 3933291,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 261,
+      "ms": 2665283,
+      "dish": "Fish"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 199,
+      "ms": 2808602,
+      "dish": "Turkey"
+    }
+  ]
+}

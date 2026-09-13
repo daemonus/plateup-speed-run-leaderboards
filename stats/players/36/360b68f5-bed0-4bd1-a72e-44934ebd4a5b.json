@@ -1,0 +1,58 @@
+{
+  "id": "360b68f5-bed0-4bd1-a72e-44934ebd4a5b",
+  "persona": "naidamyst",
+  "names": [
+    "naidamyst"
+  ],
+  "runs": 5,
+  "bestRank": 151,
+  "worstRank": 559,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1779623,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -89,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 234,
+      "ms": 1779623,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 559,
+      "ms": 2395398,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 337,
+      "ms": 2311795,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 359,
+      "ms": 2604036,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 151,
+      "ms": 2103498,
+      "dish": "Fish"
+    }
+  ]
+}

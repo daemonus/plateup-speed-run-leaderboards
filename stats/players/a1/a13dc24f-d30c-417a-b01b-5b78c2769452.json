@@ -1,0 +1,42 @@
+{
+  "id": "a13dc24f-d30c-417a-b01b-5b78c2769452",
+  "persona": "Lathspell",
+  "names": [
+    "Lathspell"
+  ],
+  "runs": 3,
+  "bestRank": 189,
+  "worstRank": 334,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3243860,
+  "weeksActive": [
+    -17,
+    -13,
+    -4
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 334,
+      "ms": 4467509,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 189,
+      "ms": 3344450,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 260,
+      "ms": 3243860,
+      "dish": "Pies"
+    }
+  ]
+}

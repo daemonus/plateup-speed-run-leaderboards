@@ -1,0 +1,66 @@
+{
+  "id": "39b96886-a731-46e7-bd03-515e2f7942b5",
+  "persona": "skyline_e",
+  "names": [
+    "skyline_e"
+  ],
+  "runs": 6,
+  "bestRank": 127,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2950295,
+  "weeksActive": [
+    46,
+    47,
+    48,
+    61,
+    62,
+    68
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 438,
+      "ms": 4218206,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 301,
+      "ms": 4417848,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 127,
+      "ms": 4008047,
+      "dish": "Pizza"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 215,
+      "ms": 3450123,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 323,
+      "ms": 3532771,
+      "dish": "Pies"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 282,
+      "ms": 2950295,
+      "dish": "Turkey"
+    }
+  ]
+}

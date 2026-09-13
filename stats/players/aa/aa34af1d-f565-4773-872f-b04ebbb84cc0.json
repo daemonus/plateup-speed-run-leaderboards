@@ -1,0 +1,90 @@
+{
+  "id": "aa34af1d-f565-4773-872f-b04ebbb84cc0",
+  "persona": "Kayura",
+  "names": [
+    "Kayura"
+  ],
+  "runs": 9,
+  "bestRank": 59,
+  "worstRank": 263,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2180593,
+  "weeksActive": [
+    -21,
+    26,
+    28,
+    30,
+    34,
+    35,
+    38,
+    62,
+    65
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 263,
+      "ms": 3482825,
+      "dish": "Pizza"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 107,
+      "ms": 2779823,
+      "dish": "Pizza"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 121,
+      "ms": 2389070,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 85,
+      "ms": 2488053,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 61,
+      "ms": 2841277,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 59,
+      "ms": 2299516,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 62,
+      "ms": 2180593,
+      "dish": "Pies"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 83,
+      "ms": 2372851,
+      "dish": "Pies"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 88,
+      "ms": 2615970,
+      "dish": "Pizza"
+    }
+  ]
+}

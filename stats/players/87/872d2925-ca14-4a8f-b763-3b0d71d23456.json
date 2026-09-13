@@ -1,0 +1,42 @@
+{
+  "id": "872d2925-ca14-4a8f-b763-3b0d71d23456",
+  "persona": "Houjun_yau",
+  "names": [
+    "Houjun_yau"
+  ],
+  "runs": 3,
+  "bestRank": 303,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3393676,
+  "weeksActive": [
+    -30,
+    -27,
+    60
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 582,
+      "ms": 3393676,
+      "dish": "Turkey"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 303,
+      "ms": 5783815,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 372,
+      "ms": 4775726,
+      "dish": "Burgers"
+    }
+  ]
+}

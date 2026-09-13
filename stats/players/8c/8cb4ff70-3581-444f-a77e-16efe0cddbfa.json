@@ -1,0 +1,50 @@
+{
+  "id": "8cb4ff70-3581-444f-a77e-16efe0cddbfa",
+  "persona": "DrWit",
+  "names": [
+    "DrWit"
+  ],
+  "runs": 4,
+  "bestRank": 224,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3444203,
+  "weeksActive": [
+    80,
+    81,
+    82,
+    85
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 224,
+      "ms": 3444203,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 292,
+      "ms": 5100927,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 566,
+      "ms": 5034744,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 387,
+      "ms": 4458361,
+      "dish": "Fish"
+    }
+  ]
+}

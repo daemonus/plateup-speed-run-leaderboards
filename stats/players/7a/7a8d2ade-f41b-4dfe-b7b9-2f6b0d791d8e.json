@@ -1,0 +1,34 @@
+{
+  "id": "7a8d2ade-f41b-4dfe-b7b9-2f6b0d791d8e",
+  "persona": "lpl",
+  "names": [
+    "lpl"
+  ],
+  "runs": 2,
+  "bestRank": 243,
+  "worstRank": 641,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2790139,
+  "weeksActive": [
+    -59,
+    -37
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 641,
+      "ms": 4952058,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 243,
+      "ms": 2790139,
+      "dish": "Fish"
+    }
+  ]
+}

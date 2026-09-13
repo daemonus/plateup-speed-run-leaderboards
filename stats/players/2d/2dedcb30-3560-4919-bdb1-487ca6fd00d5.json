@@ -1,0 +1,34 @@
+{
+  "id": "2dedcb30-3560-4919-bdb1-487ca6fd00d5",
+  "persona": "kansai",
+  "names": [
+    "kansai"
+  ],
+  "runs": 2,
+  "bestRank": 290,
+  "worstRank": 466,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3140345,
+  "weeksActive": [
+    58,
+    77
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 466,
+      "ms": 3865993,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 290,
+      "ms": 3140345,
+      "dish": "Sundaes"
+    }
+  ]
+}

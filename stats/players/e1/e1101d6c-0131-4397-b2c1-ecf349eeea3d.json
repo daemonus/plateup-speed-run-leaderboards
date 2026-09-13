@@ -1,0 +1,74 @@
+{
+  "id": "e1101d6c-0131-4397-b2c1-ecf349eeea3d",
+  "persona": "\u827E\u65AF\u989D\u9EA6\u5229\u5361",
+  "names": [
+    "\u827E\u65AF\u989D\u9EA6\u5229\u5361"
+  ],
+  "runs": 7,
+  "bestRank": 71,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1497335,
+  "weeksActive": [
+    -79,
+    -76,
+    82,
+    83,
+    84,
+    85,
+    87
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 226,
+      "ms": 3402265,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 555,
+      "ms": 3355733,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 176,
+      "ms": 2840210,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 71,
+      "ms": 1497335,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 160,
+      "ms": 1804387,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 94,
+      "ms": 2358691,
+      "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 73,
+      "ms": 3178591,
+      "dish": "Fajitas"
+    }
+  ]
+}

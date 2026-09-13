@@ -1,0 +1,34 @@
+{
+  "id": "2b08d98c-2e10-4b14-b805-56f46f69460c",
+  "persona": "whitbird",
+  "names": [
+    "whitbird"
+  ],
+  "runs": 2,
+  "bestRank": 221,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4271987,
+  "weeksActive": [
+    50,
+    80
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 221,
+      "ms": 5014187,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 341,
+      "ms": 4271987,
+      "dish": "Pizza"
+    }
+  ]
+}

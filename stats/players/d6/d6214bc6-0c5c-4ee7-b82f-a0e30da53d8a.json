@@ -1,0 +1,50 @@
+{
+  "id": "d6214bc6-0c5c-4ee7-b82f-a0e30da53d8a",
+  "persona": "Abu",
+  "names": [
+    "Abu"
+  ],
+  "runs": 4,
+  "bestRank": 287,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3536813,
+  "weeksActive": [
+    4,
+    5,
+    7,
+    16
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 329,
+      "ms": 4245008,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 363,
+      "ms": 4427159,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 287,
+      "ms": 3536813,
+      "dish": "Fish"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 384,
+      "ms": 4907861,
+      "dish": "Stir Fry"
+    }
+  ]
+}

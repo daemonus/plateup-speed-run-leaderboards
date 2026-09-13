@@ -1,0 +1,58 @@
+{
+  "id": "a76e5d15-484b-4ad0-8ab1-a6037dbe56ad",
+  "persona": "tashagorath",
+  "names": [
+    "tashagorath"
+  ],
+  "runs": 5,
+  "bestRank": 256,
+  "worstRank": 508,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2600944,
+  "weeksActive": [
+    64,
+    66,
+    68,
+    84,
+    86
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 448,
+      "ms": 2600944,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 351,
+      "ms": 3944988,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 256,
+      "ms": 2854886,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 508,
+      "ms": 3463886,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 398,
+      "ms": 3375985,
+      "dish": "Sundaes"
+    }
+  ]
+}

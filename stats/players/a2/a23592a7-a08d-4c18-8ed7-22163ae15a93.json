@@ -1,0 +1,42 @@
+{
+  "id": "a23592a7-a08d-4c18-8ed7-22163ae15a93",
+  "persona": "Whyyouseeme",
+  "names": [
+    "Whyyouseeme"
+  ],
+  "runs": 3,
+  "bestRank": 35,
+  "worstRank": 710,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3039398,
+  "weeksActive": [
+    -77,
+    -68,
+    -65
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 710,
+      "ms": 4202221,
+      "dish": "Pies"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 96,
+      "ms": 3074819,
+      "dish": "Salad"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 35,
+      "ms": 3039398,
+      "dish": "Burgers"
+    }
+  ]
+}

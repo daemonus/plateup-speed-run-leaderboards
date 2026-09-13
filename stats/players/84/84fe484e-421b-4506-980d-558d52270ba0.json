@@ -1,0 +1,58 @@
+{
+  "id": "84fe484e-421b-4506-980d-558d52270ba0",
+  "persona": "neamar",
+  "names": [
+    "neamar"
+  ],
+  "runs": 5,
+  "bestRank": 69,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3004035,
+  "weeksActive": [
+    -37,
+    -32,
+    -16,
+    -6,
+    -1
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 439,
+      "ms": 3347202,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 545,
+      "ms": 3600245,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 233,
+      "ms": 3004035,
+      "dish": "Pies"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 555,
+      "ms": 4998391,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 69,
+      "ms": 3260455,
+      "dish": "Breakfast"
+    }
+  ]
+}

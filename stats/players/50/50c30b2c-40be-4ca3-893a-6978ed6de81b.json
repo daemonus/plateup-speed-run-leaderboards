@@ -1,0 +1,58 @@
+{
+  "id": "50c30b2c-40be-4ca3-893a-6978ed6de81b",
+  "persona": "akmonstro",
+  "names": [
+    "akmonstro"
+  ],
+  "runs": 5,
+  "bestRank": 276,
+  "worstRank": 1653,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2837324,
+  "weeksActive": [
+    -94,
+    -92,
+    -91,
+    -80,
+    -77
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1653,
+      "ms": 4785261,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 811,
+      "ms": 6159897,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 923,
+      "ms": 2837324,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 276,
+      "ms": 5383674,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 280,
+      "ms": 3021483,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "a028dd97-9592-4011-a4a8-9f2fd4168816",
+  "persona": "Flipflop",
+  "names": [
+    "Flipflop"
+  ],
+  "runs": 3,
+  "bestRank": 100,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2157368,
+  "weeksActive": [
+    64,
+    71,
+    80
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 270,
+      "ms": 2157368,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 251,
+      "ms": 3535210,
+      "dish": "Pizza"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 100,
+      "ms": 2650910,
+      "dish": "Pizza"
+    }
+  ]
+}

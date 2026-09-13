@@ -1,0 +1,34 @@
+{
+  "id": "f84f8e69-e410-4440-b7ac-3a32a96e05ae",
+  "persona": "SekC",
+  "names": [
+    "SekC"
+  ],
+  "runs": 2,
+  "bestRank": 172,
+  "worstRank": 262,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3153868,
+  "weeksActive": [
+    -78,
+    49
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 262,
+      "ms": 3153868,
+      "dish": "Burgers"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 172,
+      "ms": 5592400,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3bad70c0-5d9b-4af0-8645-63c0e8ae97a8",
+  "persona": "Alice\u640B\u640B",
+  "names": [
+    "Alice\u640B\u640B"
+  ],
+  "runs": 4,
+  "bestRank": 200,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3809856,
+  "weeksActive": [
+    39,
+    42,
+    44,
+    46
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 200,
+      "ms": 3940812,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 240,
+      "ms": 4762289,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 501,
+      "ms": 6424115,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 370,
+      "ms": 3809856,
+      "dish": "Pizza"
+    }
+  ]
+}

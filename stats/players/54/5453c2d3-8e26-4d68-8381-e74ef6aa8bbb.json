@@ -1,0 +1,50 @@
+{
+  "id": "5453c2d3-8e26-4d68-8381-e74ef6aa8bbb",
+  "persona": "lootsjitte",
+  "names": [
+    "lootsjitte"
+  ],
+  "runs": 4,
+  "bestRank": 143,
+  "worstRank": 324,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2980808,
+  "weeksActive": [
+    36,
+    37,
+    58,
+    79
+  ],
+  "history": [
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 257,
+      "ms": 2980808,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 171,
+      "ms": 3963661,
+      "dish": "Burgers"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 324,
+      "ms": 3254037,
+      "dish": "Turkey"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 143,
+      "ms": 3560976,
+      "dish": "Salad"
+    }
+  ]
+}

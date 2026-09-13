@@ -1,0 +1,50 @@
+{
+  "id": "d6ce6f19-b198-45f3-9430-8f8b4d25df41",
+  "persona": "KubelWagen",
+  "names": [
+    "KubelWagen"
+  ],
+  "runs": 4,
+  "bestRank": 151,
+  "worstRank": 528,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2874720,
+  "weeksActive": [
+    57,
+    60,
+    62,
+    64
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 369,
+      "ms": 3958217,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 151,
+      "ms": 3087766,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 208,
+      "ms": 3034530,
+      "dish": "Pies"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 528,
+      "ms": 2874720,
+      "dish": "Sundaes"
+    }
+  ]
+}

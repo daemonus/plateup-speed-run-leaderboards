@@ -1,0 +1,50 @@
+{
+  "id": "3232a42b-073a-4a98-9231-8153651e4268",
+  "persona": "Marabou",
+  "names": [
+    "Marabou"
+  ],
+  "runs": 4,
+  "bestRank": 313,
+  "worstRank": 431,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3564930,
+  "weeksActive": [
+    -68,
+    -64,
+    -62,
+    -44
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 351,
+      "ms": 6401655,
+      "dish": "Salad"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 313,
+      "ms": 4200135,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 431,
+      "ms": 3966519,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 375,
+      "ms": 3564930,
+      "dish": "Turkey"
+    }
+  ]
+}

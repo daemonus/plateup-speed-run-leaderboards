@@ -1,0 +1,42 @@
+{
+  "id": "a9825279-6672-46e5-bb32-49a3824abe5f",
+  "persona": "Ting",
+  "names": [
+    "Ting"
+  ],
+  "runs": 3,
+  "bestRank": 291,
+  "worstRank": 891,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5339511,
+  "weeksActive": [
+    -85,
+    -82,
+    -77
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 291,
+      "ms": 5353965,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 807,
+      "ms": 5881107,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 891,
+      "ms": 5339511,
+      "dish": "Pies"
+    }
+  ]
+}

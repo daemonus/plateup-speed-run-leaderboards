@@ -1,0 +1,66 @@
+{
+  "id": "a908c52e-4c4b-4e16-ab12-630f9a16a263",
+  "persona": "sabricorn",
+  "names": [
+    "sabricorn"
+  ],
+  "runs": 6,
+  "bestRank": 126,
+  "worstRank": 917,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1610461,
+  "weeksActive": [
+    -94,
+    -93,
+    31,
+    32,
+    41,
+    56
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 783,
+      "ms": 3175689,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 917,
+      "ms": 2385719,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 509,
+      "ms": 4310509,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 384,
+      "ms": 5367363,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 307,
+      "ms": 2349778,
+      "dish": "Turkey"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 126,
+      "ms": 1610461,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "78bc943c-b605-474e-ab0b-4d9846d7f2df",
+  "persona": "Zoe",
+  "names": [
+    "Zoe"
+  ],
+  "runs": 2,
+  "bestRank": 320,
+  "worstRank": 608,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2595275,
+  "weeksActive": [
+    -86,
+    -71
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 320,
+      "ms": 2595275,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 608,
+      "ms": 3434232,
+      "dish": "Turkey"
+    }
+  ]
+}

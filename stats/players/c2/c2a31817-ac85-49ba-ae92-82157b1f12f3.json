@@ -1,0 +1,34 @@
+{
+  "id": "c2a31817-ac85-49ba-ae92-82157b1f12f3",
+  "persona": "qi",
+  "names": [
+    "qi"
+  ],
+  "runs": 2,
+  "bestRank": 376,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5037203,
+  "weeksActive": [
+    -8,
+    -5
+  ],
+  "history": [
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 376,
+      "ms": 5868677,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 503,
+      "ms": 5037203,
+      "dish": "Pizza"
+    }
+  ]
+}

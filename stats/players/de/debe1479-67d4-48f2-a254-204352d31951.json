@@ -1,0 +1,50 @@
+{
+  "id": "debe1479-67d4-48f2-a254-204352d31951",
+  "persona": "TheJackalMan",
+  "names": [
+    "TheJackalMan"
+  ],
+  "runs": 4,
+  "bestRank": 25,
+  "worstRank": 842,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2862594,
+  "weeksActive": [
+    -76,
+    -75,
+    48,
+    49
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 842,
+      "ms": 4290940,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 429,
+      "ms": 2862594,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 25,
+      "ms": 2890046,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 69,
+      "ms": 3061796,
+      "dish": "Burgers"
+    }
+  ]
+}

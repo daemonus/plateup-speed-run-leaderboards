@@ -1,0 +1,42 @@
+{
+  "id": "f0def17c-74cb-495d-87b0-93c2b615c744",
+  "persona": "AestusEstus",
+  "names": [
+    "AestusEstus"
+  ],
+  "runs": 3,
+  "bestRank": 229,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3301877,
+  "weeksActive": [
+    -46,
+    -44,
+    -43
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 436,
+      "ms": 4689239,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 319,
+      "ms": 3301877,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 229,
+      "ms": 3915660,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

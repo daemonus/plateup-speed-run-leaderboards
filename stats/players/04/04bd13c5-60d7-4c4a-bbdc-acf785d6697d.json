@@ -1,0 +1,42 @@
+{
+  "id": "04bd13c5-60d7-4c4a-bbdc-acf785d6697d",
+  "persona": "Hessebub",
+  "names": [
+    "Hessebub"
+  ],
+  "runs": 3,
+  "bestRank": 311,
+  "worstRank": 488,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2258517,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 455,
+      "ms": 2258517,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 488,
+      "ms": 2650318,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 311,
+      "ms": 2471577,
+      "dish": "Pies"
+    }
+  ]
+}

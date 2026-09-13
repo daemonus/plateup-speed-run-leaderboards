@@ -1,0 +1,42 @@
+{
+  "id": "fc9b3120-61ed-4833-b13c-b63937ca7505",
+  "persona": "Maj.Failure",
+  "names": [
+    "Maj.Failure"
+  ],
+  "runs": 3,
+  "bestRank": 216,
+  "worstRank": 790,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5836241,
+  "weeksActive": [
+    -1,
+    0,
+    3
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 216,
+      "ms": 7295011,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 512,
+      "ms": 7073805,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 790,
+      "ms": 5836241,
+      "dish": "Fish"
+    }
+  ]
+}

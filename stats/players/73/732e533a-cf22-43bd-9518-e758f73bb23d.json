@@ -1,0 +1,42 @@
+{
+  "id": "732e533a-cf22-43bd-9518-e758f73bb23d",
+  "persona": "\u3068\u3042\uFF40\u30FB\u03C9\u30FB\u00B4)",
+  "names": [
+    "\u3068\u3042\uFF40\u30FB\u03C9\u30FB\u00B4)"
+  ],
+  "runs": 3,
+  "bestRank": 46,
+  "worstRank": 229,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1818715,
+  "weeksActive": [
+    41,
+    42,
+    43
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 229,
+      "ms": 2098003,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 136,
+      "ms": 3092199,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 46,
+      "ms": 1818715,
+      "dish": "Fish"
+    }
+  ]
+}

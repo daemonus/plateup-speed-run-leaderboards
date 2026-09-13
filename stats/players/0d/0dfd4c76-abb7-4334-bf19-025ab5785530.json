@@ -1,0 +1,50 @@
+{
+  "id": "0dfd4c76-abb7-4334-bf19-025ab5785530",
+  "persona": "General Chaos",
+  "names": [
+    "General Chaos"
+  ],
+  "runs": 4,
+  "bestRank": 89,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2684624,
+  "weeksActive": [
+    -15,
+    -14,
+    -13,
+    -1
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 190,
+      "ms": 2684624,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 89,
+      "ms": 3433408,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 314,
+      "ms": 4686795,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 102,
+      "ms": 3767129,
+      "dish": "Breakfast"
+    }
+  ]
+}

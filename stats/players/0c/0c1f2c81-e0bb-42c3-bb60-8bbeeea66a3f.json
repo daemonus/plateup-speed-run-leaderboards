@@ -1,0 +1,58 @@
+{
+  "id": "0c1f2c81-e0bb-42c3-bb60-8bbeeea66a3f",
+  "persona": "ParadoxGalaxy",
+  "names": [
+    "ParadoxGalaxy"
+  ],
+  "runs": 5,
+  "bestRank": 124,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2211483,
+  "weeksActive": [
+    -77,
+    -30,
+    20,
+    77,
+    79
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 322,
+      "ms": 3122782,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 436,
+      "ms": 3053233,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 192,
+      "ms": 2211483,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 129,
+      "ms": 2212525,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 124,
+      "ms": 3405400,
+      "dish": "Salad"
+    }
+  ]
+}

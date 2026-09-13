@@ -1,0 +1,50 @@
+{
+  "id": "515b2027-c040-476b-9abf-d45ca3a73d0c",
+  "persona": "aggered",
+  "names": [
+    "aggered"
+  ],
+  "runs": 4,
+  "bestRank": 39,
+  "worstRank": 364,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1183379,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    56
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 364,
+      "ms": 1974317,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 246,
+      "ms": 1977582,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 201,
+      "ms": 2073303,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 39,
+      "ms": 1183379,
+      "dish": "Sundaes"
+    }
+  ]
+}

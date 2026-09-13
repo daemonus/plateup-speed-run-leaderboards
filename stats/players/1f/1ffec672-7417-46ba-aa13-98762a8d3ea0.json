@@ -1,0 +1,34 @@
+{
+  "id": "1ffec672-7417-46ba-aa13-98762a8d3ea0",
+  "persona": "\u7DBE\u5730\u5BE7\u3005",
+  "names": [
+    "\u7DBE\u5730\u5BE7\u3005"
+  ],
+  "runs": 2,
+  "bestRank": 203,
+  "worstRank": 373,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3847935,
+  "weeksActive": [
+    79,
+    82
+  ],
+  "history": [
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 203,
+      "ms": 4263215,
+      "dish": "Salad"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 373,
+      "ms": 3847935,
+      "dish": "Pizza"
+    }
+  ]
+}

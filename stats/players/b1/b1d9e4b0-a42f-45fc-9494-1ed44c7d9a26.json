@@ -1,0 +1,42 @@
+{
+  "id": "b1d9e4b0-a42f-45fc-9494-1ed44c7d9a26",
+  "persona": "playfulblackberry",
+  "names": [
+    "playfulblackberry"
+  ],
+  "runs": 3,
+  "bestRank": 345,
+  "worstRank": 661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3036838,
+  "weeksActive": [
+    52,
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 661,
+      "ms": 5033811,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 345,
+      "ms": 5339435,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 590,
+      "ms": 3036838,
+      "dish": "Sundaes"
+    }
+  ]
+}

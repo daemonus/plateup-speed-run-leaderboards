@@ -1,0 +1,42 @@
+{
+  "id": "2a1d5cf3-14cb-4fa4-9a5d-9b04c367c268",
+  "persona": "Nova",
+  "names": [
+    "Nova"
+  ],
+  "runs": 3,
+  "bestRank": 124,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2919015,
+  "weeksActive": [
+    -81,
+    -80,
+    -77
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 341,
+      "ms": 4622411,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 124,
+      "ms": 3189152,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 251,
+      "ms": 2919015,
+      "dish": "Pies"
+    }
+  ]
+}

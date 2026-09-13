@@ -1,0 +1,66 @@
+{
+  "id": "3a60157a-b18d-41bb-a4db-4dd879dc4825",
+  "persona": "Rutra",
+  "names": [
+    "Rutra"
+  ],
+  "runs": 6,
+  "bestRank": 284,
+  "worstRank": 863,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4299002,
+  "weeksActive": [
+    -79,
+    -70,
+    -68,
+    -30,
+    -26,
+    -13
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 374,
+      "ms": 4299002,
+      "dish": "Pies"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 512,
+      "ms": 4970362,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 284,
+      "ms": 4771600,
+      "dish": "Salad"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 863,
+      "ms": 5964876,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 357,
+      "ms": 4747755,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 304,
+      "ms": 4466844,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1fdd46ff-9253-46dc-a434-f8e5902499bf",
+  "persona": "nxseron",
+  "names": [
+    "nxseron"
+  ],
+  "runs": 3,
+  "bestRank": 339,
+  "worstRank": 640,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4935518,
+  "weeksActive": [
+    51,
+    53,
+    82
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 339,
+      "ms": 5374345,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 440,
+      "ms": 4935518,
+      "dish": "Pies"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 640,
+      "ms": 6917334,
+      "dish": "Pizza"
+    }
+  ]
+}

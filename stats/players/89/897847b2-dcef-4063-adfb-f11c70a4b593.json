@@ -1,0 +1,42 @@
+{
+  "id": "897847b2-dcef-4063-adfb-f11c70a4b593",
+  "persona": "norflark",
+  "names": [
+    "norflark"
+  ],
+  "runs": 3,
+  "bestRank": 28,
+  "worstRank": 101,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2272363,
+  "weeksActive": [
+    -24,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 28,
+      "ms": 2272363,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 82,
+      "ms": 2458152,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 101,
+      "ms": 2896170,
+      "dish": "Burgers"
+    }
+  ]
+}

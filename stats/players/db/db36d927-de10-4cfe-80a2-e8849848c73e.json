@@ -1,0 +1,34 @@
+{
+  "id": "db36d927-de10-4cfe-80a2-e8849848c73e",
+  "persona": "Byron Zhang",
+  "names": [
+    "Byron Zhang"
+  ],
+  "runs": 2,
+  "bestRank": 302,
+  "worstRank": 699,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6921820,
+  "weeksActive": [
+    -25,
+    -24
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 699,
+      "ms": 7145057,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 302,
+      "ms": 6921820,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "845c7132-b668-4f1c-8e7b-08b47078f37c",
+  "persona": "Frank",
+  "names": [
+    "Frank"
+  ],
+  "runs": 3,
+  "bestRank": 482,
+  "worstRank": 745,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2628958,
+  "weeksActive": [
+    -91,
+    -72,
+    -32
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 745,
+      "ms": 2628958,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 482,
+      "ms": 4098291,
+      "dish": "Pies"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 736,
+      "ms": 3988047,
+      "dish": "Breakfast"
+    }
+  ]
+}

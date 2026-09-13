@@ -1,0 +1,42 @@
+{
+  "id": "b00db747-c6a4-4420-a3e5-a1af9d309f5d",
+  "persona": "alvaropachecog",
+  "names": [
+    "alvaropachecog"
+  ],
+  "runs": 3,
+  "bestRank": 352,
+  "worstRank": 635,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4002156,
+  "weeksActive": [
+    43,
+    51,
+    72
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 635,
+      "ms": 4002156,
+      "dish": "Fish"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 352,
+      "ms": 5663119,
+      "dish": "Salad"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 362,
+      "ms": 4919762,
+      "dish": "Breakfast"
+    }
+  ]
+}

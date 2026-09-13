@@ -1,0 +1,58 @@
+{
+  "id": "b3e99b7e-1161-4018-99eb-622c8e181e4c",
+  "persona": "JigglyLord",
+  "names": [
+    "JigglyLord"
+  ],
+  "runs": 5,
+  "bestRank": 64,
+  "worstRank": 429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2410880,
+  "weeksActive": [
+    9,
+    23,
+    32,
+    33,
+    64
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 64,
+      "ms": 2410880,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 306,
+      "ms": 3154412,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 151,
+      "ms": 3012961,
+      "dish": "Pies"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 219,
+      "ms": 4236547,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 429,
+      "ms": 2570642,
+      "dish": "Sundaes"
+    }
+  ]
+}

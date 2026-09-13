@@ -1,0 +1,66 @@
+{
+  "id": "d77453a9-5c10-4ca1-ba22-07880a26777a",
+  "persona": "AE",
+  "names": [
+    "AE"
+  ],
+  "runs": 6,
+  "bestRank": 14,
+  "worstRank": 140,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1427760,
+  "weeksActive": [
+    5,
+    6,
+    12,
+    13,
+    14,
+    15
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 138,
+      "ms": 3137201,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 76,
+      "ms": 2612518,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 140,
+      "ms": 2097834,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 14,
+      "ms": 1427760,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 47,
+      "ms": 2325718,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 18,
+      "ms": 1439204,
+      "dish": "Turkey"
+    }
+  ]
+}

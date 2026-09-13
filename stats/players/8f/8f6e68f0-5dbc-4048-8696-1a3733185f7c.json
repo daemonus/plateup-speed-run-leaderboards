@@ -1,0 +1,74 @@
+{
+  "id": "8f6e68f0-5dbc-4048-8696-1a3733185f7c",
+  "persona": "Cheri",
+  "names": [
+    "Cheri"
+  ],
+  "runs": 7,
+  "bestRank": 9,
+  "worstRank": 207,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1029701,
+  "weeksActive": [
+    -5,
+    20,
+    21,
+    22,
+    23,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 198,
+      "ms": 3629479,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 9,
+      "ms": 1209823,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 83,
+      "ms": 2379025,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 207,
+      "ms": 3594904,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 12,
+      "ms": 1358026,
+      "dish": "Turkey"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 14,
+      "ms": 1771939,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 12,
+      "ms": 1029701,
+      "dish": "Sundaes"
+    }
+  ]
+}

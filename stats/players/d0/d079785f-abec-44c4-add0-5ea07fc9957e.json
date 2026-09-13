@@ -1,0 +1,42 @@
+{
+  "id": "d079785f-abec-44c4-add0-5ea07fc9957e",
+  "persona": "whaleplacenta",
+  "names": [
+    "whaleplacenta"
+  ],
+  "runs": 3,
+  "bestRank": 396,
+  "worstRank": 661,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3987303,
+  "weeksActive": [
+    -82,
+    -69,
+    -15
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 661,
+      "ms": 4141367,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 396,
+      "ms": 5259710,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 464,
+      "ms": 3987303,
+      "dish": "Fish"
+    }
+  ]
+}

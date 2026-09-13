@@ -1,0 +1,50 @@
+{
+  "id": "ddeb1d1f-e479-4c72-b395-f9d84eeacac1",
+  "persona": "Tux",
+  "names": [
+    "Tux"
+  ],
+  "runs": 4,
+  "bestRank": 43,
+  "worstRank": 259,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1777033,
+  "weeksActive": [
+    -26,
+    53,
+    54,
+    56
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 259,
+      "ms": 4154774,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 43,
+      "ms": 2201052,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 73,
+      "ms": 2950119,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 165,
+      "ms": 1777033,
+      "dish": "Sundaes"
+    }
+  ]
+}

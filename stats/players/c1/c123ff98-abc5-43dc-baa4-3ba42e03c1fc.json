@@ -1,0 +1,42 @@
+{
+  "id": "c123ff98-abc5-43dc-baa4-3ba42e03c1fc",
+  "persona": "aari220",
+  "names": [
+    "aari220"
+  ],
+  "runs": 3,
+  "bestRank": 452,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4508023,
+  "weeksActive": [
+    9,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 452,
+      "ms": 4508023,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 536,
+      "ms": 5722278,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 706,
+      "ms": 4589551,
+      "dish": "Turkey"
+    }
+  ]
+}

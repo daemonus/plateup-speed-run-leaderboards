@@ -1,0 +1,42 @@
+{
+  "id": "ed93173d-14d7-427e-bb68-501c31f2a1d0",
+  "persona": "Sabriel",
+  "names": [
+    "Sabriel"
+  ],
+  "runs": 3,
+  "bestRank": 131,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3643729,
+  "weeksActive": [
+    -49,
+    -31,
+    -2
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 131,
+      "ms": 3643729,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 517,
+      "ms": 3833562,
+      "dish": "Pies"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 332,
+      "ms": 3825817,
+      "dish": "Pizza"
+    }
+  ]
+}

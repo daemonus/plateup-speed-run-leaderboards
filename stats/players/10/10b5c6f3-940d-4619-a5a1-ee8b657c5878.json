@@ -1,0 +1,50 @@
+{
+  "id": "10b5c6f3-940d-4619-a5a1-ee8b657c5878",
+  "persona": "mandananda",
+  "names": [
+    "mandananda"
+  ],
+  "runs": 4,
+  "bestRank": 74,
+  "worstRank": 298,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3105477,
+  "weeksActive": [
+    -50,
+    -49,
+    -48,
+    -47
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 298,
+      "ms": 6137217,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 74,
+      "ms": 3105477,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 124,
+      "ms": 4474874,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 126,
+      "ms": 3144822,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

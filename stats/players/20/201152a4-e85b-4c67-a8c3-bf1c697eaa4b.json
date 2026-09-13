@@ -1,0 +1,42 @@
+{
+  "id": "201152a4-e85b-4c67-a8c3-bf1c697eaa4b",
+  "persona": "violet_witcher",
+  "names": [
+    "violet_witcher"
+  ],
+  "runs": 3,
+  "bestRank": 204,
+  "worstRank": 316,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3529111,
+  "weeksActive": [
+    -60,
+    5,
+    16
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 316,
+      "ms": 4117235,
+      "dish": "Burgers"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 204,
+      "ms": 3529111,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 267,
+      "ms": 4251814,
+      "dish": "Stir Fry"
+    }
+  ]
+}

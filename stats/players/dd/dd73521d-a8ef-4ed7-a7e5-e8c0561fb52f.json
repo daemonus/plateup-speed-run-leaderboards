@@ -1,0 +1,58 @@
+{
+  "id": "dd73521d-a8ef-4ed7-a7e5-e8c0561fb52f",
+  "persona": "Scoff",
+  "names": [
+    "Scoff"
+  ],
+  "runs": 5,
+  "bestRank": 161,
+  "worstRank": 655,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2910738,
+  "weeksActive": [
+    -41,
+    -40,
+    -18,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 161,
+      "ms": 3905926,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 163,
+      "ms": 3963697,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 655,
+      "ms": 4757848,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 362,
+      "ms": 3498644,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 237,
+      "ms": 2910738,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "59ed4941-657d-4688-9f06-87be34f47e62",
+  "persona": "aliceinbits",
+  "names": [
+    "aliceinbits"
+  ],
+  "runs": 5,
+  "bestRank": 257,
+  "worstRank": 554,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2055936,
+  "weeksActive": [
+    -77,
+    -76,
+    -71,
+    -70,
+    56
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 363,
+      "ms": 3241679,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 445,
+      "ms": 3114533,
+      "dish": "Turkey"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 554,
+      "ms": 3327512,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 299,
+      "ms": 4002539,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 257,
+      "ms": 2055936,
+      "dish": "Sundaes"
+    }
+  ]
+}

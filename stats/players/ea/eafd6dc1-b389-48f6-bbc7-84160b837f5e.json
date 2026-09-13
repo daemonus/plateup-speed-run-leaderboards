@@ -1,0 +1,66 @@
+{
+  "id": "eafd6dc1-b389-48f6-bbc7-84160b837f5e",
+  "persona": "aisilkorkmazlar",
+  "names": [
+    "aisilkorkmazlar"
+  ],
+  "runs": 6,
+  "bestRank": 167,
+  "worstRank": 1416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2739783,
+  "weeksActive": [
+    -93,
+    -88,
+    -86,
+    -55,
+    -54,
+    59
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1416,
+      "ms": 2739783,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 651,
+      "ms": 4327972,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 518,
+      "ms": 3111769,
+      "dish": "Fish"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 467,
+      "ms": 4623241,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 167,
+      "ms": 4770668,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 198,
+      "ms": 3252694,
+      "dish": "Salad"
+    }
+  ]
+}

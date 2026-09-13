@@ -1,0 +1,34 @@
+{
+  "id": "72102744-ac1b-4bd2-bb0f-80923ba42841",
+  "persona": "Psytonic",
+  "names": [
+    "Psytonic"
+  ],
+  "runs": 2,
+  "bestRank": 200,
+  "worstRank": 287,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3446200,
+  "weeksActive": [
+    40,
+    44
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 200,
+      "ms": 3640873,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 287,
+      "ms": 3446200,
+      "dish": "Breakfast"
+    }
+  ]
+}

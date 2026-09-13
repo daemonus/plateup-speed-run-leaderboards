@@ -1,0 +1,34 @@
+{
+  "id": "efec0bd2-c1ca-400c-b643-53dddff4d2f6",
+  "persona": "https://zaebali",
+  "names": [
+    "https://zaebali"
+  ],
+  "runs": 2,
+  "bestRank": 408,
+  "worstRank": 766,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3968954,
+  "weeksActive": [
+    5,
+    8
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 408,
+      "ms": 4689262,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 766,
+      "ms": 3968954,
+      "dish": "Fish"
+    }
+  ]
+}

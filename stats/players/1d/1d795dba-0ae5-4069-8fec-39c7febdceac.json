@@ -1,0 +1,66 @@
+{
+  "id": "1d795dba-0ae5-4069-8fec-39c7febdceac",
+  "persona": "Wuzay",
+  "names": [
+    "Wuzay"
+  ],
+  "runs": 6,
+  "bestRank": 174,
+  "worstRank": 745,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3116352,
+  "weeksActive": [
+    8,
+    9,
+    12,
+    15,
+    27,
+    32
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 745,
+      "ms": 3903151,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 381,
+      "ms": 3947589,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 361,
+      "ms": 3116352,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 448,
+      "ms": 3410274,
+      "dish": "Turkey"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 174,
+      "ms": 3340995,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 298,
+      "ms": 4030001,
+      "dish": "Pies"
+    }
+  ]
+}

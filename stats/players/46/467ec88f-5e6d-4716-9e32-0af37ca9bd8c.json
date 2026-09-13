@@ -1,0 +1,34 @@
+{
+  "id": "467ec88f-5e6d-4716-9e32-0af37ca9bd8c",
+  "persona": "Light",
+  "names": [
+    "Light"
+  ],
+  "runs": 2,
+  "bestRank": 212,
+  "worstRank": 250,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4224465,
+  "weeksActive": [
+    -41,
+    55
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 212,
+      "ms": 4224465,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 250,
+      "ms": 4275140,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c76d027d-7699-47ba-8de0-2c435d66389a",
+  "persona": "Spooky Sam",
+  "names": [
+    "Spooky Sam"
+  ],
+  "runs": 4,
+  "bestRank": 198,
+  "worstRank": 393,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3308148,
+  "weeksActive": [
+    -5,
+    -3,
+    22,
+    74
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 393,
+      "ms": 4430681,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 392,
+      "ms": 3308148,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 198,
+      "ms": 3542653,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 313,
+      "ms": 5034232,
+      "dish": "Breakfast"
+    }
+  ]
+}

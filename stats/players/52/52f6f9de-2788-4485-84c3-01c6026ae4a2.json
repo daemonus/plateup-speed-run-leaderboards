@@ -1,0 +1,66 @@
+{
+  "id": "52f6f9de-2788-4485-84c3-01c6026ae4a2",
+  "persona": "Kodacus",
+  "names": [
+    "Kodacus"
+  ],
+  "runs": 6,
+  "bestRank": 51,
+  "worstRank": 269,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2049487,
+  "weeksActive": [
+    73,
+    74,
+    75,
+    76,
+    77,
+    82
+  ],
+  "history": [
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 183,
+      "ms": 3275366,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 56,
+      "ms": 2792739,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 51,
+      "ms": 2313042,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 138,
+      "ms": 3361721,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 101,
+      "ms": 2049487,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 269,
+      "ms": 3322705,
+      "dish": "Pizza"
+    }
+  ]
+}

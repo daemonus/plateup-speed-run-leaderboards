@@ -1,0 +1,42 @@
+{
+  "id": "a2ac1050-755a-40f9-b719-b252bfcc1eac",
+  "persona": "kimrrand",
+  "names": [
+    "kimrrand"
+  ],
+  "runs": 3,
+  "bestRank": 215,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2724774,
+  "weeksActive": [
+    4,
+    5,
+    8
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 215,
+      "ms": 3502044,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 294,
+      "ms": 4077471,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 279,
+      "ms": 2724774,
+      "dish": "Fish"
+    }
+  ]
+}

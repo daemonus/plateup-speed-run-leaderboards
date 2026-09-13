@@ -1,0 +1,74 @@
+{
+  "id": "da2ac768-43c7-4f62-b7d7-a7af7f07ccae",
+  "persona": "PaperKnave",
+  "names": [
+    "PaperKnave"
+  ],
+  "runs": 7,
+  "bestRank": 228,
+  "worstRank": 558,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2751440,
+  "weeksActive": [
+    57,
+    58,
+    78,
+    80,
+    81,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 494,
+      "ms": 5018037,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 558,
+      "ms": 4446460,
+      "dish": "Turkey"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 363,
+      "ms": 5384065,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 447,
+      "ms": 38104023,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 228,
+      "ms": 3904850,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 448,
+      "ms": 4225131,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 422,
+      "ms": 2751440,
+      "dish": "Sundaes"
+    }
+  ]
+}

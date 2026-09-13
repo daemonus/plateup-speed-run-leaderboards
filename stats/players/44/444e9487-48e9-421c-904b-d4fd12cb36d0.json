@@ -1,0 +1,42 @@
+{
+  "id": "444e9487-48e9-421c-904b-d4fd12cb36d0",
+  "persona": "Lorathor",
+  "names": [
+    "Lorathor"
+  ],
+  "runs": 3,
+  "bestRank": 261,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3348270,
+  "weeksActive": [
+    -2,
+    1,
+    3
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 261,
+      "ms": 3348270,
+      "dish": "Pizza"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 290,
+      "ms": 3805988,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 342,
+      "ms": 3387105,
+      "dish": "Fish"
+    }
+  ]
+}

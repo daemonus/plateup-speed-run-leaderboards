@@ -1,0 +1,42 @@
+{
+  "id": "dd50d911-3b7f-412f-afa4-ad14be04c37e",
+  "persona": "ToastToasties",
+  "names": [
+    "ToastToasties"
+  ],
+  "runs": 3,
+  "bestRank": 421,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3490733,
+  "weeksActive": [
+    -4,
+    0,
+    83
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 430,
+      "ms": 4118256,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 421,
+      "ms": 5247408,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 621,
+      "ms": 3490733,
+      "dish": "Sundaes"
+    }
+  ]
+}

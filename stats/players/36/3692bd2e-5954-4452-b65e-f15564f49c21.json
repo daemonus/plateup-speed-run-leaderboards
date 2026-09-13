@@ -1,0 +1,50 @@
+{
+  "id": "3692bd2e-5954-4452-b65e-f15564f49c21",
+  "persona": "Mad Scientist",
+  "names": [
+    "Mad Scientist"
+  ],
+  "runs": 4,
+  "bestRank": 289,
+  "worstRank": 2941,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4119309,
+  "weeksActive": [
+    -93,
+    60,
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2941,
+      "ms": 15751676,
+      "dish": "Fish"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 399,
+      "ms": 5192080,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 289,
+      "ms": 4119309,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 576,
+      "ms": 5156327,
+      "dish": "Pies"
+    }
+  ]
+}

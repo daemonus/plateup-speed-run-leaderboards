@@ -1,0 +1,50 @@
+{
+  "id": "60c3d0cb-495b-4d41-bba8-7a2c6be4f347",
+  "persona": "cwong.chris",
+  "names": [
+    "cwong.chris"
+  ],
+  "runs": 4,
+  "bestRank": 185,
+  "worstRank": 518,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3243723,
+  "weeksActive": [
+    -56,
+    -38,
+    -37,
+    -28
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 376,
+      "ms": 3773240,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 518,
+      "ms": 3245054,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 394,
+      "ms": 3243723,
+      "dish": "Fish"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 185,
+      "ms": 4619885,
+      "dish": "Burgers"
+    }
+  ]
+}

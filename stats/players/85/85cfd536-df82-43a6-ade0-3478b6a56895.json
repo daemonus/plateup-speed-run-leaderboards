@@ -1,0 +1,58 @@
+{
+  "id": "85cfd536-df82-43a6-ade0-3478b6a56895",
+  "persona": "Mrs. Feser",
+  "names": [
+    "Mrs. Feser"
+  ],
+  "runs": 5,
+  "bestRank": 197,
+  "worstRank": 1100,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2733321,
+  "weeksActive": [
+    -94,
+    -92,
+    -76,
+    -74,
+    -71
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1100,
+      "ms": 3564486,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 379,
+      "ms": 3095004,
+      "dish": "Steak"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 327,
+      "ms": 2811196,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 197,
+      "ms": 3131063,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 256,
+      "ms": 2733321,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "288650c1-a9c3-4ebe-a8a4-776c40d2acc8",
+  "persona": "fayatman",
+  "names": [
+    "fayatman"
+  ],
+  "runs": 3,
+  "bestRank": 147,
+  "worstRank": 341,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3656068,
+  "weeksActive": [
+    -55,
+    -53,
+    -24
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 341,
+      "ms": 3890035,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 298,
+      "ms": 4377012,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 147,
+      "ms": 3656068,
+      "dish": "Breakfast"
+    }
+  ]
+}

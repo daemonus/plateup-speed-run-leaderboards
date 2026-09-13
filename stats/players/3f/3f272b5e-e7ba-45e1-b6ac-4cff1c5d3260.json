@@ -1,0 +1,42 @@
+{
+  "id": "3f272b5e-e7ba-45e1-b6ac-4cff1c5d3260",
+  "persona": "Hlebusheks",
+  "names": [
+    "Hlebusheks"
+  ],
+  "runs": 3,
+  "bestRank": 418,
+  "worstRank": 665,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3709757,
+  "weeksActive": [
+    5,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 418,
+      "ms": 4742440,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 665,
+      "ms": 3709757,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 509,
+      "ms": 7304352,
+      "dish": "Burgers"
+    }
+  ]
+}

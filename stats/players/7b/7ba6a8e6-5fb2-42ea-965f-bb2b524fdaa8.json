@@ -1,0 +1,50 @@
+{
+  "id": "7ba6a8e6-5fb2-42ea-965f-bb2b524fdaa8",
+  "persona": "AaEDukes",
+  "names": [
+    "AaEDukes"
+  ],
+  "runs": 4,
+  "bestRank": 122,
+  "worstRank": 382,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3313507,
+  "weeksActive": [
+    51,
+    53,
+    54,
+    66
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 382,
+      "ms": 6479750,
+      "dish": "Salad"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 265,
+      "ms": 3559125,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 122,
+      "ms": 3338083,
+      "dish": "Burgers"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 269,
+      "ms": 3313507,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "e847f89f-e185-47ec-a15e-ed40967b0c9e",
+  "persona": "Ave",
+  "names": [
+    "Ave"
+  ],
+  "runs": 5,
+  "bestRank": 21,
+  "worstRank": 354,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2119525,
+  "weeksActive": [
+    0,
+    3,
+    6,
+    59,
+    85
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 150,
+      "ms": 3580660,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 354,
+      "ms": 3418691,
+      "dish": "Fish"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 62,
+      "ms": 2486568,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 21,
+      "ms": 2119525,
+      "dish": "Salad"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 109,
+      "ms": 2438336,
+      "dish": "Fish"
+    }
+  ]
+}

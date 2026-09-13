@@ -1,0 +1,50 @@
+{
+  "id": "53db0235-d54e-445b-9aae-31eed73ddf23",
+  "persona": "NameLess6288",
+  "names": [
+    "NameLess6288"
+  ],
+  "runs": 4,
+  "bestRank": 345,
+  "worstRank": 796,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3797967,
+  "weeksActive": [
+    -71,
+    -70,
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 796,
+      "ms": 3797967,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 436,
+      "ms": 4578644,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 345,
+      "ms": 4920683,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 417,
+      "ms": 4360143,
+      "dish": "Breakfast"
+    }
+  ]
+}

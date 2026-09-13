@@ -1,0 +1,106 @@
+{
+  "id": "567f59ee-5e94-4969-b69a-cefd2cb35c58",
+  "persona": "ringomachine",
+  "names": [
+    "ringomachine"
+  ],
+  "runs": 11,
+  "bestRank": 256,
+  "worstRank": 833,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2938431,
+  "weeksActive": [
+    -86,
+    -82,
+    -81,
+    -80,
+    -79,
+    -78,
+    -77,
+    -76,
+    -37,
+    -34,
+    -31
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 719,
+      "ms": 3784212,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 588,
+      "ms": 3805143,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 357,
+      "ms": 4753529,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 256,
+      "ms": 4848515,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 275,
+      "ms": 3644539,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 329,
+      "ms": 3497584,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 258,
+      "ms": 2938431,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 426,
+      "ms": 3067958,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 833,
+      "ms": 4383029,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 300,
+      "ms": 3476632,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 772,
+      "ms": 4725874,
+      "dish": "Pies"
+    }
+  ]
+}

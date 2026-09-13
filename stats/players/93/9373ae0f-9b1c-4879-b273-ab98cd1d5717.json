@@ -1,0 +1,34 @@
+{
+  "id": "9373ae0f-9b1c-4879-b273-ab98cd1d5717",
+  "persona": "papi",
+  "names": [
+    "papi"
+  ],
+  "runs": 2,
+  "bestRank": 663,
+  "worstRank": 1381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2716822,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 663,
+      "ms": 3042677,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1381,
+      "ms": 2716822,
+      "dish": "Fish"
+    }
+  ]
+}

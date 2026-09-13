@@ -1,0 +1,50 @@
+{
+  "id": "436220e3-c70d-46d0-9465-7282b3816e31",
+  "persona": "Dracartemis",
+  "names": [
+    "Dracartemis"
+  ],
+  "runs": 4,
+  "bestRank": 144,
+  "worstRank": 513,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2468717,
+  "weeksActive": [
+    -86,
+    -85,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 513,
+      "ms": 3105476,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 144,
+      "ms": 3190218,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 440,
+      "ms": 3835945,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 203,
+      "ms": 2468717,
+      "dish": "Fish"
+    }
+  ]
+}

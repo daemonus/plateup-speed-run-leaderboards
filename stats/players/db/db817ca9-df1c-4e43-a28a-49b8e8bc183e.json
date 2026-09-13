@@ -1,0 +1,50 @@
+{
+  "id": "db817ca9-df1c-4e43-a28a-49b8e8bc183e",
+  "persona": "Nazunyan",
+  "names": [
+    "Nazunyan"
+  ],
+  "runs": 4,
+  "bestRank": 305,
+  "worstRank": 716,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3027725,
+  "weeksActive": [
+    -45,
+    -39,
+    -38,
+    35
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 488,
+      "ms": 4592810,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 716,
+      "ms": 4967006,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 435,
+      "ms": 3027725,
+      "dish": "Turkey"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 305,
+      "ms": 3915917,
+      "dish": "Fish"
+    }
+  ]
+}

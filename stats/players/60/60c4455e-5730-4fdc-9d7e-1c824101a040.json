@@ -1,0 +1,42 @@
+{
+  "id": "60c4455e-5730-4fdc-9d7e-1c824101a040",
+  "persona": "monica",
+  "names": [
+    "monica"
+  ],
+  "runs": 3,
+  "bestRank": 284,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2698441,
+  "weeksActive": [
+    -78,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 285,
+      "ms": 3268660,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 284,
+      "ms": 2698441,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 384,
+      "ms": 2782862,
+      "dish": "Fish"
+    }
+  ]
+}

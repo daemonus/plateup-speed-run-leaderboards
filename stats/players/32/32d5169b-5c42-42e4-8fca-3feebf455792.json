@@ -1,0 +1,42 @@
+{
+  "id": "32d5169b-5c42-42e4-8fca-3feebf455792",
+  "persona": "Dove",
+  "names": [
+    "Dove"
+  ],
+  "runs": 3,
+  "bestRank": 165,
+  "worstRank": 647,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4044170,
+  "weeksActive": [
+    43,
+    47,
+    48
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 647,
+      "ms": 4044170,
+      "dish": "Fish"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 336,
+      "ms": 4861491,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 165,
+      "ms": 4513632,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "76d3aa6d-73f4-41dc-b397-5a2d355a2ddb",
+  "persona": "Autumnleaf",
+  "names": [
+    "Autumnleaf"
+  ],
+  "runs": 6,
+  "bestRank": 205,
+  "worstRank": 559,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3717701,
+  "weeksActive": [
+    -20,
+    19,
+    52,
+    54,
+    73,
+    84
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 294,
+      "ms": 3717701,
+      "dish": "Burgers"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 374,
+      "ms": 4935432,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 507,
+      "ms": 3741016,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 205,
+      "ms": 3889538,
+      "dish": "Burgers"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 264,
+      "ms": 4687293,
+      "dish": "Burgers"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 559,
+      "ms": 3819370,
+      "dish": "Sundaes"
+    }
+  ]
+}

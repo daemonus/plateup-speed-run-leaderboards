@@ -1,0 +1,58 @@
+{
+  "id": "7c5f6e81-0a97-44fc-a5c6-a7183226fc1f",
+  "persona": "zhuravlyov_sergey",
+  "names": [
+    "zhuravlyov_sergey"
+  ],
+  "runs": 5,
+  "bestRank": 216,
+  "worstRank": 865,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3957684,
+  "weeksActive": [
+    -71,
+    -30,
+    -26,
+    -24,
+    52
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 865,
+      "ms": 3957684,
+      "dish": "Turkey"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 772,
+      "ms": 4055185,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 427,
+      "ms": 5616677,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 216,
+      "ms": 4427378,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 626,
+      "ms": 4533362,
+      "dish": "Fish"
+    }
+  ]
+}

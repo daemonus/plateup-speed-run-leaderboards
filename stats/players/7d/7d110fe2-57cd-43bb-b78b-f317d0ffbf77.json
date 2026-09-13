@@ -1,0 +1,58 @@
+{
+  "id": "7d110fe2-57cd-43bb-b78b-f317d0ffbf77",
+  "persona": "guopy",
+  "names": [
+    "guopy"
+  ],
+  "runs": 5,
+  "bestRank": 187,
+  "worstRank": 546,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2431626,
+  "weeksActive": [
+    -83,
+    -82,
+    -80,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 484,
+      "ms": 4152431,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 546,
+      "ms": 3608421,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 188,
+      "ms": 3931116,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 403,
+      "ms": 3355475,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 187,
+      "ms": 2431626,
+      "dish": "Turkey"
+    }
+  ]
+}

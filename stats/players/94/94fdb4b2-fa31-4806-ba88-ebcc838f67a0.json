@@ -1,0 +1,74 @@
+{
+  "id": "94fdb4b2-fa31-4806-ba88-ebcc838f67a0",
+  "persona": "kirimisato",
+  "names": [
+    "kirimisato"
+  ],
+  "runs": 7,
+  "bestRank": 201,
+  "worstRank": 702,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2604838,
+  "weeksActive": [
+    12,
+    15,
+    19,
+    20,
+    23,
+    24,
+    83
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 542,
+      "ms": 8535335,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 615,
+      "ms": 4164042,
+      "dish": "Turkey"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 269,
+      "ms": 4037001,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 702,
+      "ms": 3784326,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 201,
+      "ms": 2604838,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 279,
+      "ms": 3508394,
+      "dish": "Pies"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 472,
+      "ms": 2874103,
+      "dish": "Sundaes"
+    }
+  ]
+}

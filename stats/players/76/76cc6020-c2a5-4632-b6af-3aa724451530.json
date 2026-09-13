@@ -1,0 +1,66 @@
+{
+  "id": "76cc6020-c2a5-4632-b6af-3aa724451530",
+  "persona": "\u7EF5\u7F8A\u8001\u516C\u7684\u513F\u5B50",
+  "names": [
+    "\u7EF5\u7F8A\u8001\u516C\u7684\u513F\u5B50"
+  ],
+  "runs": 6,
+  "bestRank": 169,
+  "worstRank": 648,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3463516,
+  "weeksActive": [
+    43,
+    44,
+    45,
+    46,
+    49,
+    52
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 522,
+      "ms": 3463516,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 353,
+      "ms": 3774441,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 196,
+      "ms": 4711831,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 587,
+      "ms": 5805687,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 169,
+      "ms": 5139084,
+      "dish": "Burgers"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 648,
+      "ms": 4790994,
+      "dish": "Fish"
+    }
+  ]
+}

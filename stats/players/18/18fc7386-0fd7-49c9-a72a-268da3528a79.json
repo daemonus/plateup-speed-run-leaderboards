@@ -1,0 +1,82 @@
+{
+  "id": "18fc7386-0fd7-49c9-a72a-268da3528a79",
+  "persona": "iperdurlam1",
+  "names": [
+    "iperdurlam1"
+  ],
+  "runs": 8,
+  "bestRank": 73,
+  "worstRank": 355,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2469712,
+  "weeksActive": [
+    -21,
+    -19,
+    -18,
+    -17,
+    -15,
+    -14,
+    -11,
+    -5
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 355,
+      "ms": 3885615,
+      "dish": "Pizza"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 181,
+      "ms": 3215715,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 304,
+      "ms": 3504536,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 170,
+      "ms": 3013237,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 143,
+      "ms": 2469712,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 73,
+      "ms": 3308115,
+      "dish": "Salad"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 86,
+      "ms": 3248614,
+      "dish": "Burgers"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 132,
+      "ms": 3302205,
+      "dish": "Pizza"
+    }
+  ]
+}

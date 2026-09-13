@@ -1,0 +1,42 @@
+{
+  "id": "c9da1dd4-5863-4282-98ab-cbdfda2d210a",
+  "persona": "sora_riin",
+  "names": [
+    "sora_riin"
+  ],
+  "runs": 3,
+  "bestRank": 71,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2116930,
+  "weeksActive": [
+    -93,
+    -79,
+    -39
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 516,
+      "ms": 2116930,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 96,
+      "ms": 2690458,
+      "dish": "Pies"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 71,
+      "ms": 2261531,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "89249b17-51df-42ce-affe-81d65da65675",
+  "persona": "creakalicious",
+  "names": [
+    "creakalicious"
+  ],
+  "runs": 4,
+  "bestRank": 182,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2833506,
+  "weeksActive": [
+    83,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 456,
+      "ms": 2833506,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 255,
+      "ms": 3421396,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 317,
+      "ms": 2853484,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 182,
+      "ms": 4829201,
+      "dish": "Fajitas"
+    }
+  ]
+}

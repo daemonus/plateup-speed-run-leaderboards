@@ -1,0 +1,50 @@
+{
+  "id": "b326b825-0c88-46ba-bd11-c6402b613966",
+  "persona": "Nurfina",
+  "names": [
+    "Nurfina"
+  ],
+  "runs": 4,
+  "bestRank": 43,
+  "worstRank": 301,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1569891,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 43,
+      "ms": 1697848,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 105,
+      "ms": 1569891,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 127,
+      "ms": 2290846,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 301,
+      "ms": 2061949,
+      "dish": "Fish"
+    }
+  ]
+}

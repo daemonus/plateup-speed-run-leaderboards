@@ -1,0 +1,42 @@
+{
+  "id": "f7e1f0c9-3a3e-4170-b811-622158ceb357",
+  "persona": "rhin",
+  "names": [
+    "rhin"
+  ],
+  "runs": 3,
+  "bestRank": 334,
+  "worstRank": 360,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3650406,
+  "weeksActive": [
+    77,
+    78,
+    80
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 360,
+      "ms": 3650406,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 345,
+      "ms": 4755131,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 334,
+      "ms": 4210293,
+      "dish": "Pizza"
+    }
+  ]
+}

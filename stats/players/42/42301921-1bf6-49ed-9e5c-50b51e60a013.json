@@ -1,0 +1,34 @@
+{
+  "id": "42301921-1bf6-49ed-9e5c-50b51e60a013",
+  "persona": "Mom",
+  "names": [
+    "Mom"
+  ],
+  "runs": 2,
+  "bestRank": 379,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2868607,
+  "weeksActive": [
+    19,
+    20
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 385,
+      "ms": 4991547,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 379,
+      "ms": 2868607,
+      "dish": "Turkey"
+    }
+  ]
+}

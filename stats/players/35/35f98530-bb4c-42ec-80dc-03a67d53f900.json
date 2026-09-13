@@ -1,0 +1,42 @@
+{
+  "id": "35f98530-bb4c-42ec-80dc-03a67d53f900",
+  "persona": "rui",
+  "names": [
+    "rui"
+  ],
+  "runs": 3,
+  "bestRank": 45,
+  "worstRank": 201,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1914779,
+  "weeksActive": [
+    35,
+    36,
+    62
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 201,
+      "ms": 3299770,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 50,
+      "ms": 1914779,
+      "dish": "Fish"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 45,
+      "ms": 2043550,
+      "dish": "Pies"
+    }
+  ]
+}

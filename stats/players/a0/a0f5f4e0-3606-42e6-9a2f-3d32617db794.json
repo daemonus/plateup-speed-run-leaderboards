@@ -1,0 +1,34 @@
+{
+  "id": "a0f5f4e0-3606-42e6-9a2f-3d32617db794",
+  "persona": "ducky",
+  "names": [
+    "ducky"
+  ],
+  "runs": 2,
+  "bestRank": 336,
+  "worstRank": 512,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5196054,
+  "weeksActive": [
+    55,
+    57
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 336,
+      "ms": 5196054,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 512,
+      "ms": 5229831,
+      "dish": "Salad"
+    }
+  ]
+}

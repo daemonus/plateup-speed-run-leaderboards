@@ -1,0 +1,34 @@
+{
+  "id": "d0279a26-b8c4-4c01-a551-5540925fc55f",
+  "persona": "Miso",
+  "names": [
+    "Miso"
+  ],
+  "runs": 2,
+  "bestRank": 338,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3086792,
+  "weeksActive": [
+    -71,
+    13
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 491,
+      "ms": 3184270,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 338,
+      "ms": 3086792,
+      "dish": "Turkey"
+    }
+  ]
+}

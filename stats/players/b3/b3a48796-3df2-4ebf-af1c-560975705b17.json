@@ -1,0 +1,50 @@
+{
+  "id": "b3a48796-3df2-4ebf-af1c-560975705b17",
+  "persona": "And make it McDouble",
+  "names": [
+    "And make it McDouble"
+  ],
+  "runs": 4,
+  "bestRank": 145,
+  "worstRank": 628,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3497566,
+  "weeksActive": [
+    -74,
+    -73,
+    -70,
+    -56
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 628,
+      "ms": 6124009,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 145,
+      "ms": 3957682,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 227,
+      "ms": 3715149,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 322,
+      "ms": 3497566,
+      "dish": "Breakfast"
+    }
+  ]
+}

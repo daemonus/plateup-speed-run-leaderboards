@@ -1,0 +1,42 @@
+{
+  "id": "32513776-e07d-486f-9296-8eef2ef2bce2",
+  "persona": "MassivePoutre",
+  "names": [
+    "MassivePoutre"
+  ],
+  "runs": 3,
+  "bestRank": 168,
+  "worstRank": 809,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3210114,
+  "weeksActive": [
+    -94,
+    -89,
+    -85
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 809,
+      "ms": 3210114,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 685,
+      "ms": 3459588,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 168,
+      "ms": 3432664,
+      "dish": "Stir Fry"
+    }
+  ]
+}

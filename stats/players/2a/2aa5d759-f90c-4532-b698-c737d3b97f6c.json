@@ -1,0 +1,34 @@
+{
+  "id": "2aa5d759-f90c-4532-b698-c737d3b97f6c",
+  "persona": "Tech Con Max",
+  "names": [
+    "Tech Con Max"
+  ],
+  "runs": 2,
+  "bestRank": 430,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3095633,
+  "weeksActive": [
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 430,
+      "ms": 3473826,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 470,
+      "ms": 3095633,
+      "dish": "Turkey"
+    }
+  ]
+}

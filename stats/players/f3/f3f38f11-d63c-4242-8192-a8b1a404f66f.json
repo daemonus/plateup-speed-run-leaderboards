@@ -1,0 +1,42 @@
+{
+  "id": "f3f38f11-d63c-4242-8192-a8b1a404f66f",
+  "persona": "cdrum61",
+  "names": [
+    "cdrum61"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3012228,
+  "weeksActive": [
+    -44,
+    -42,
+    -41
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 248,
+      "ms": 3012228,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 130,
+      "ms": 3604141,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 190,
+      "ms": 4116443,
+      "dish": "Stir Fry"
+    }
+  ]
+}

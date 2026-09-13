@@ -1,0 +1,42 @@
+{
+  "id": "f84d1930-60be-4eee-a3e1-eae85ccb1080",
+  "persona": "Kevin",
+  "names": [
+    "Kevin"
+  ],
+  "runs": 3,
+  "bestRank": 1024,
+  "worstRank": 1533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2816941,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1024,
+      "ms": 3471662,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1533,
+      "ms": 2816941,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1431,
+      "ms": 3637865,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1f308422-86e5-4450-8812-3bf04b13a997",
+  "persona": "Siren",
+  "names": [
+    "Siren"
+  ],
+  "runs": 6,
+  "bestRank": 61,
+  "worstRank": 244,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1644428,
+  "weeksActive": [
+    -93,
+    -92,
+    -90,
+    -89,
+    -85,
+    -24
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 244,
+      "ms": 1799401,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 61,
+      "ms": 1900151,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 73,
+      "ms": 1644428,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 93,
+      "ms": 1766750,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 119,
+      "ms": 3011960,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 65,
+      "ms": 2830253,
+      "dish": "Breakfast"
+    }
+  ]
+}

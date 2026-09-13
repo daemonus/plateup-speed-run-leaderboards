@@ -1,0 +1,42 @@
+{
+  "id": "98dd565f-0dd7-4682-870a-624e9537b407",
+  "persona": "\u5212\u6C34\u738B",
+  "names": [
+    "\u5212\u6C34\u738B"
+  ],
+  "runs": 3,
+  "bestRank": 247,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3392934,
+  "weeksActive": [
+    42,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 247,
+      "ms": 5448812,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 501,
+      "ms": 3392934,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 414,
+      "ms": 4253421,
+      "dish": "Breakfast"
+    }
+  ]
+}

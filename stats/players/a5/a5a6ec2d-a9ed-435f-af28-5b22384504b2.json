@@ -1,0 +1,42 @@
+{
+  "id": "a5a6ec2d-a9ed-435f-af28-5b22384504b2",
+  "persona": "Vodka was GONE!",
+  "names": [
+    "Vodka was GONE!"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 369,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3170463,
+  "weeksActive": [
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 236,
+      "ms": 3285631,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 369,
+      "ms": 3170463,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 203,
+      "ms": 6123986,
+      "dish": "Fajitas"
+    }
+  ]
+}

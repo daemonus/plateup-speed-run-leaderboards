@@ -1,0 +1,58 @@
+{
+  "id": "8cbf8a78-fae4-4e6c-a04c-feabc4f8e5da",
+  "persona": "Stephaba",
+  "names": [
+    "Stephaba"
+  ],
+  "runs": 5,
+  "bestRank": 608,
+  "worstRank": 1547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2825282,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1314,
+      "ms": 3845810,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1547,
+      "ms": 2825282,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 996,
+      "ms": 2936448,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 633,
+      "ms": 2940104,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 608,
+      "ms": 3198609,
+      "dish": "Pies"
+    }
+  ]
+}

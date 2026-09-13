@@ -1,0 +1,50 @@
+{
+  "id": "daaaae8c-1426-440c-9a9e-e392ceea8099",
+  "persona": "Sziszi98",
+  "names": [
+    "Sziszi98"
+  ],
+  "runs": 4,
+  "bestRank": 132,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2670130,
+  "weeksActive": [
+    -3,
+    -2,
+    5,
+    16
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 208,
+      "ms": 2670130,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 359,
+      "ms": 4085126,
+      "dish": "Pizza"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 330,
+      "ms": 4246700,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 132,
+      "ms": 3516000,
+      "dish": "Stir Fry"
+    }
+  ]
+}

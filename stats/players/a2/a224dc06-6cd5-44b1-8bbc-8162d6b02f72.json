@@ -1,0 +1,42 @@
+{
+  "id": "a224dc06-6cd5-44b1-8bbc-8162d6b02f72",
+  "persona": "LolaWelly",
+  "names": [
+    "LolaWelly"
+  ],
+  "runs": 3,
+  "bestRank": 226,
+  "worstRank": 487,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5360993,
+  "weeksActive": [
+    -1,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 226,
+      "ms": 30739816,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 431,
+      "ms": 5360993,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 487,
+      "ms": 18231781,
+      "dish": "Pies"
+    }
+  ]
+}

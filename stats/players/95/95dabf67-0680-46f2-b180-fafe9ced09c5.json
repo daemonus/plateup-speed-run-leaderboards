@@ -1,0 +1,50 @@
+{
+  "id": "95dabf67-0680-46f2-b180-fafe9ced09c5",
+  "persona": "MidgetMan",
+  "names": [
+    "MidgetMan"
+  ],
+  "runs": 4,
+  "bestRank": 85,
+  "worstRank": 234,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2969348,
+  "weeksActive": [
+    -50,
+    -48,
+    -44,
+    -43
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 114,
+      "ms": 3487691,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 85,
+      "ms": 3479871,
+      "dish": "Burgers"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 234,
+      "ms": 2969348,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 120,
+      "ms": 3052461,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

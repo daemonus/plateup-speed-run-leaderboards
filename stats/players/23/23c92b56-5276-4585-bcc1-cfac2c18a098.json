@@ -1,0 +1,66 @@
+{
+  "id": "23c92b56-5276-4585-bcc1-cfac2c18a098",
+  "persona": "SpaceJellyfish",
+  "names": [
+    "SpaceJellyfish"
+  ],
+  "runs": 6,
+  "bestRank": 45,
+  "worstRank": 290,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1788413,
+  "weeksActive": [
+    -6,
+    -5,
+    -3,
+    36,
+    37,
+    56
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 290,
+      "ms": 3905486,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 137,
+      "ms": 3342384,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 178,
+      "ms": 2533100,
+      "dish": "Turkey"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 45,
+      "ms": 1908180,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 80,
+      "ms": 3219450,
+      "dish": "Burgers"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 170,
+      "ms": 1788413,
+      "dish": "Sundaes"
+    }
+  ]
+}

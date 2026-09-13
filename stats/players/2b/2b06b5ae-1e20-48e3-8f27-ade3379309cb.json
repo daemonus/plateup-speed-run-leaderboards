@@ -1,0 +1,34 @@
+{
+  "id": "2b06b5ae-1e20-48e3-8f27-ade3379309cb",
+  "persona": "MyM",
+  "names": [
+    "MyM"
+  ],
+  "runs": 2,
+  "bestRank": 1275,
+  "worstRank": 2413,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3367707,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2413,
+      "ms": 3515779,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1275,
+      "ms": 3367707,
+      "dish": "Fish"
+    }
+  ]
+}

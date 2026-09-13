@@ -1,0 +1,58 @@
+{
+  "id": "5276467f-b3e0-4224-891a-ffcc48032ae1",
+  "persona": "l_shak",
+  "names": [
+    "l_shak"
+  ],
+  "runs": 5,
+  "bestRank": 189,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2489381,
+  "weeksActive": [
+    41,
+    44,
+    46,
+    53,
+    68
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 467,
+      "ms": 2886042,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 272,
+      "ms": 3354617,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 289,
+      "ms": 3391532,
+      "dish": "Pizza"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 291,
+      "ms": 3711298,
+      "dish": "Pies"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 189,
+      "ms": 2489381,
+      "dish": "Turkey"
+    }
+  ]
+}

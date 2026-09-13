@@ -1,0 +1,42 @@
+{
+  "id": "ee1caa24-90f9-487d-80a5-d625583b47d5",
+  "persona": "Emil",
+  "names": [
+    "Emil"
+  ],
+  "runs": 3,
+  "bestRank": 296,
+  "worstRank": 528,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2248815,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 338,
+      "ms": 2985818,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 528,
+      "ms": 2360799,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 296,
+      "ms": 2248815,
+      "dish": "Fish"
+    }
+  ]
+}

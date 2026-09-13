@@ -1,0 +1,58 @@
+{
+  "id": "b0a49906-18fa-4188-b719-6e6619819aca",
+  "persona": "Golden Squid",
+  "names": [
+    "Golden Squid"
+  ],
+  "runs": 5,
+  "bestRank": 42,
+  "worstRank": 220,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1297027,
+  "weeksActive": [
+    -74,
+    -50,
+    -4,
+    41,
+    72
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 220,
+      "ms": 3257365,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 113,
+      "ms": 3487034,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 107,
+      "ms": 2562733,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 42,
+      "ms": 1297027,
+      "dish": "Turkey"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 84,
+      "ms": 2629485,
+      "dish": "Breakfast"
+    }
+  ]
+}

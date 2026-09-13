@@ -1,0 +1,42 @@
+{
+  "id": "7ee25b72-a2b5-4df7-8e23-1a3af118c0b0",
+  "persona": "HOLD THE DOOR",
+  "names": [
+    "HOLD THE DOOR"
+  ],
+  "runs": 3,
+  "bestRank": 179,
+  "worstRank": 311,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3723507,
+  "weeksActive": [
+    -50,
+    -47,
+    -46
+  ],
+  "history": [
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 179,
+      "ms": 4055431,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 311,
+      "ms": 4067259,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 240,
+      "ms": 3723507,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "32a3a304-b1c3-4171-8c24-be57aaf051a6",
+  "persona": "GrailFate",
+  "names": [
+    "GrailFate"
+  ],
+  "runs": 4,
+  "bestRank": 17,
+  "worstRank": 146,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1628399,
+  "weeksActive": [
+    -19,
+    -17,
+    -16,
+    9
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 140,
+      "ms": 2928843,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 144,
+      "ms": 2859040,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 17,
+      "ms": 1628399,
+      "dish": "Pies"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 146,
+      "ms": 2841077,
+      "dish": "Breakfast"
+    }
+  ]
+}

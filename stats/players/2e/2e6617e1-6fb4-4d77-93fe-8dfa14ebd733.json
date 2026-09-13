@@ -1,0 +1,50 @@
+{
+  "id": "2e6617e1-6fb4-4d77-93fe-8dfa14ebd733",
+  "persona": "Domim",
+  "names": [
+    "Domim"
+  ],
+  "runs": 4,
+  "bestRank": 204,
+  "worstRank": 478,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3608182,
+  "weeksActive": [
+    33,
+    35,
+    37,
+    52
+  ],
+  "history": [
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 267,
+      "ms": 5010827,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 265,
+      "ms": 3691138,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 204,
+      "ms": 4495343,
+      "dish": "Burgers"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 478,
+      "ms": 3608182,
+      "dish": "Fish"
+    }
+  ]
+}

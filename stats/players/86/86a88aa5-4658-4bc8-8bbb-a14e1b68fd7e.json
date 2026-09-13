@@ -1,0 +1,42 @@
+{
+  "id": "86a88aa5-4658-4bc8-8bbb-a14e1b68fd7e",
+  "persona": "cingulate_gyrus",
+  "names": [
+    "cingulate_gyrus"
+  ],
+  "runs": 3,
+  "bestRank": 276,
+  "worstRank": 857,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4407920,
+  "weeksActive": [
+    18,
+    20,
+    24
+  ],
+  "history": [
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 276,
+      "ms": 5150286,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 857,
+      "ms": 4407920,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 558,
+      "ms": 6037002,
+      "dish": "Pies"
+    }
+  ]
+}

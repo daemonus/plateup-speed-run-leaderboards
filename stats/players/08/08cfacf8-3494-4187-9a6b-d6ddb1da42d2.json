@@ -1,0 +1,34 @@
+{
+  "id": "08cfacf8-3494-4187-9a6b-d6ddb1da42d2",
+  "persona": "Dr. Steffinski",
+  "names": [
+    "Dr. Steffinski"
+  ],
+  "runs": 2,
+  "bestRank": 142,
+  "worstRank": 286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2999740,
+  "weeksActive": [
+    -46,
+    1
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 286,
+      "ms": 4008476,
+      "dish": "Salad"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 142,
+      "ms": 2999740,
+      "dish": "Pies"
+    }
+  ]
+}

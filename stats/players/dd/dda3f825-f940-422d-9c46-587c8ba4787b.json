@@ -1,0 +1,34 @@
+{
+  "id": "dda3f825-f940-422d-9c46-587c8ba4787b",
+  "persona": "Lyra",
+  "names": [
+    "Lyra"
+  ],
+  "runs": 2,
+  "bestRank": 428,
+  "worstRank": 625,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4095365,
+  "weeksActive": [
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 428,
+      "ms": 4095365,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 625,
+      "ms": 4974190,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "05011026-76be-4be8-907e-cf526b0bb1aa",
+  "persona": "grapeross",
+  "names": [
+    "grapeross"
+  ],
+  "runs": 4,
+  "bestRank": 144,
+  "worstRank": 243,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2088213,
+  "weeksActive": [
+    41,
+    46,
+    57,
+    58
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 226,
+      "ms": 2088213,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 243,
+      "ms": 3189968,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 144,
+      "ms": 2855969,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 210,
+      "ms": 2793871,
+      "dish": "Turkey"
+    }
+  ]
+}

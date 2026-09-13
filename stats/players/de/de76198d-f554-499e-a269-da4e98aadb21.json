@@ -1,0 +1,50 @@
+{
+  "id": "de76198d-f554-499e-a269-da4e98aadb21",
+  "persona": "DR.Alsworth",
+  "names": [
+    "DR.Alsworth"
+  ],
+  "runs": 4,
+  "bestRank": 105,
+  "worstRank": 786,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2254435,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -85
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 687,
+      "ms": 2254435,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 264,
+      "ms": 2777739,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 786,
+      "ms": 2679518,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 105,
+      "ms": 2920099,
+      "dish": "Stir Fry"
+    }
+  ]
+}

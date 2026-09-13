@@ -1,0 +1,50 @@
+{
+  "id": "61755a06-e854-453c-a27d-f7813146dfe2",
+  "persona": "mau",
+  "names": [
+    "mau"
+  ],
+  "runs": 4,
+  "bestRank": 188,
+  "worstRank": 348,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2688011,
+  "weeksActive": [
+    13,
+    15,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 348,
+      "ms": 3109789,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 279,
+      "ms": 2688011,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 228,
+      "ms": 4005430,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 188,
+      "ms": 4001456,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

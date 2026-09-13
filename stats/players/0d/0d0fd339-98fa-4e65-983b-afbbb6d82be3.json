@@ -1,0 +1,42 @@
+{
+  "id": "0d0fd339-98fa-4e65-983b-afbbb6d82be3",
+  "persona": "moonly_lic",
+  "names": [
+    "moonly_lic"
+  ],
+  "runs": 3,
+  "bestRank": 120,
+  "worstRank": 419,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2974253,
+  "weeksActive": [
+    -20,
+    25,
+    42
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 419,
+      "ms": 4265500,
+      "dish": "Burgers"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 218,
+      "ms": 6101072,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 120,
+      "ms": 2974253,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "56aaf72d-f073-480e-8c45-3f85f0a3fa33",
+  "persona": "iips",
+  "names": [
+    "iips"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2179593,
+  "weeksActive": [
+    -91,
+    -14
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 388,
+      "ms": 2179593,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 81,
+      "ms": 3375372,
+      "dish": "Salad"
+    }
+  ]
+}

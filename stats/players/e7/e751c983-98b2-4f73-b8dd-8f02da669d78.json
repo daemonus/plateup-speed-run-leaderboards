@@ -1,0 +1,34 @@
+{
+  "id": "e751c983-98b2-4f73-b8dd-8f02da669d78",
+  "persona": "Coolda",
+  "names": [
+    "Coolda"
+  ],
+  "runs": 2,
+  "bestRank": 148,
+  "worstRank": 751,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3547839,
+  "weeksActive": [
+    -82,
+    -68
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 751,
+      "ms": 4774314,
+      "dish": "Fish"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 148,
+      "ms": 3547839,
+      "dish": "Salad"
+    }
+  ]
+}

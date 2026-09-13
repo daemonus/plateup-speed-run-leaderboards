@@ -1,0 +1,34 @@
+{
+  "id": "461d8be1-39a7-4e16-a35e-512c0755a506",
+  "persona": "kili",
+  "names": [
+    "kili"
+  ],
+  "runs": 2,
+  "bestRank": 236,
+  "worstRank": 610,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3769151,
+  "weeksActive": [
+    -6,
+    -5
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 610,
+      "ms": 5333296,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 236,
+      "ms": 3769151,
+      "dish": "Pizza"
+    }
+  ]
+}

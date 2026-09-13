@@ -1,0 +1,34 @@
+{
+  "id": "93f98282-29b3-48ce-9bf4-9007d8b89767",
+  "persona": "funnypersonperson",
+  "names": [
+    "funnypersonperson"
+  ],
+  "runs": 2,
+  "bestRank": 629,
+  "worstRank": 2686,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3942471,
+  "weeksActive": [
+    -93,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2686,
+      "ms": 3942471,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 629,
+      "ms": 4238610,
+      "dish": "Pies"
+    }
+  ]
+}

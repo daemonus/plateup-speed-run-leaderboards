@@ -1,0 +1,58 @@
+{
+  "id": "3422da89-2468-4461-8b2c-300accb3707b",
+  "persona": "Kierren",
+  "names": [
+    "Kierren"
+  ],
+  "runs": 5,
+  "bestRank": 171,
+  "worstRank": 520,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3264558,
+  "weeksActive": [
+    -51,
+    -50,
+    44,
+    48,
+    74
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 520,
+      "ms": 3804343,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 200,
+      "ms": 4280119,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 252,
+      "ms": 3264558,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 171,
+      "ms": 4585744,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 308,
+      "ms": 4978872,
+      "dish": "Breakfast"
+    }
+  ]
+}

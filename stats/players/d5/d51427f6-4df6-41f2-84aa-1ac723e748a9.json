@@ -1,0 +1,42 @@
+{
+  "id": "d51427f6-4df6-41f2-84aa-1ac723e748a9",
+  "persona": "Joclock",
+  "names": [
+    "Joclock"
+  ],
+  "runs": 3,
+  "bestRank": 333,
+  "worstRank": 653,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3151810,
+  "weeksActive": [
+    64,
+    71,
+    74
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 653,
+      "ms": 3151810,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 472,
+      "ms": 5789953,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 333,
+      "ms": 6071569,
+      "dish": "Breakfast"
+    }
+  ]
+}

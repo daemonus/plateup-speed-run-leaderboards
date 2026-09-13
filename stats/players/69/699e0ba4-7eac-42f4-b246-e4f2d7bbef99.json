@@ -1,0 +1,42 @@
+{
+  "id": "699e0ba4-7eac-42f4-b246-e4f2d7bbef99",
+  "persona": "Codeco",
+  "names": [
+    "Codeco"
+  ],
+  "runs": 3,
+  "bestRank": 308,
+  "worstRank": 504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4355467,
+  "weeksActive": [
+    -44,
+    -43,
+    -41
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 504,
+      "ms": 4355467,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 308,
+      "ms": 5474702,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 372,
+      "ms": 5499940,
+      "dish": "Stir Fry"
+    }
+  ]
+}

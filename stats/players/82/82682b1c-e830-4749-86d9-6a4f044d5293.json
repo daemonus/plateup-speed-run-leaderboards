@@ -1,0 +1,50 @@
+{
+  "id": "82682b1c-e830-4749-86d9-6a4f044d5293",
+  "persona": "Sylence",
+  "names": [
+    "Sylence"
+  ],
+  "runs": 4,
+  "bestRank": 184,
+  "worstRank": 458,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2625480,
+  "weeksActive": [
+    50,
+    56,
+    62,
+    68
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 184,
+      "ms": 4441261,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 458,
+      "ms": 2625480,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 199,
+      "ms": 3009457,
+      "dish": "Pies"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 270,
+      "ms": 2890175,
+      "dish": "Turkey"
+    }
+  ]
+}

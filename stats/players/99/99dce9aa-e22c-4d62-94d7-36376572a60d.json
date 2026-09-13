@@ -1,0 +1,50 @@
+{
+  "id": "99dce9aa-e22c-4d62-94d7-36376572a60d",
+  "persona": "ClarkJKent",
+  "names": [
+    "ClarkJKent"
+  ],
+  "runs": 4,
+  "bestRank": 470,
+  "worstRank": 1496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2579460,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1496,
+      "ms": 4201904,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1177,
+      "ms": 2579460,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 470,
+      "ms": 3361336,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 881,
+      "ms": 2793592,
+      "dish": "Fish"
+    }
+  ]
+}

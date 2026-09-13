@@ -1,0 +1,50 @@
+{
+  "id": "1e6cc23d-4e88-4011-948d-83fd851b0f20",
+  "persona": "kawaii_croissant",
+  "names": [
+    "kawaii_croissant"
+  ],
+  "runs": 4,
+  "bestRank": 372,
+  "worstRank": 1531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2398161,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1531,
+      "ms": 2814631,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 432,
+      "ms": 3228601,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 740,
+      "ms": 2624877,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 372,
+      "ms": 2398161,
+      "dish": "Fish"
+    }
+  ]
+}

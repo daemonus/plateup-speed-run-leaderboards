@@ -1,0 +1,34 @@
+{
+  "id": "30c1b6f9-c893-4484-aee9-2cee5b836fb9",
+  "persona": "Marsy",
+  "names": [
+    "Marsy"
+  ],
+  "runs": 2,
+  "bestRank": 99,
+  "worstRank": 271,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2507261,
+  "weeksActive": [
+    3,
+    13
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 99,
+      "ms": 2507261,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 271,
+      "ms": 2841875,
+      "dish": "Turkey"
+    }
+  ]
+}

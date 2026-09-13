@@ -1,0 +1,82 @@
+{
+  "id": "d2a7ca84-76d5-4aaa-9e3c-108df9e91df6",
+  "persona": "\u017Caba",
+  "names": [
+    "\u017Caba"
+  ],
+  "runs": 8,
+  "bestRank": 187,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2610196,
+  "weeksActive": [
+    -92,
+    -86,
+    -70,
+    -68,
+    -67,
+    -55,
+    -44,
+    -42
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 456,
+      "ms": 3294037,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 324,
+      "ms": 2610196,
+      "dish": "Fish"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 405,
+      "ms": 4459262,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 219,
+      "ms": 4137596,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 323,
+      "ms": 3952197,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 196,
+      "ms": 3199548,
+      "dish": "Pizza"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 196,
+      "ms": 2825122,
+      "dish": "Turkey"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 187,
+      "ms": 4241094,
+      "dish": "Burgers"
+    }
+  ]
+}

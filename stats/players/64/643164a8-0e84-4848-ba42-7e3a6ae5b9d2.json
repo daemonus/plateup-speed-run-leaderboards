@@ -1,0 +1,42 @@
+{
+  "id": "643164a8-0e84-4848-ba42-7e3a6ae5b9d2",
+  "persona": "FLiT",
+  "names": [
+    "FLiT"
+  ],
+  "runs": 3,
+  "bestRank": 280,
+  "worstRank": 459,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3358227,
+  "weeksActive": [
+    -68,
+    -67,
+    -44
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 280,
+      "ms": 4672084,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 459,
+      "ms": 4591384,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 331,
+      "ms": 3358227,
+      "dish": "Turkey"
+    }
+  ]
+}

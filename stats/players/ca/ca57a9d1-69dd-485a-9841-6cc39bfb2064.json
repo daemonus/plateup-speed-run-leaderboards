@@ -1,0 +1,42 @@
+{
+  "id": "ca57a9d1-69dd-485a-9841-6cc39bfb2064",
+  "persona": "Stormwillow",
+  "names": [
+    "Stormwillow"
+  ],
+  "runs": 3,
+  "bestRank": 211,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3781802,
+  "weeksActive": [
+    -21,
+    23,
+    45
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 536,
+      "ms": 5385275,
+      "dish": "Pizza"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 431,
+      "ms": 3781802,
+      "dish": "Turkey"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 211,
+      "ms": 5102135,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "03ef7590-7437-4d32-80e3-339c4de7ff0e",
+  "persona": "merzon",
+  "names": [
+    "merzon"
+  ],
+  "runs": 2,
+  "bestRank": 189,
+  "worstRank": 206,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2659651,
+  "weeksActive": [
+    -3,
+    45
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 206,
+      "ms": 2659651,
+      "dish": "Turkey"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 189,
+      "ms": 4517845,
+      "dish": "Salad"
+    }
+  ]
+}

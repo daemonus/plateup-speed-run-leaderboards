@@ -1,0 +1,42 @@
+{
+  "id": "3688d0b0-54a5-4c60-b5be-db1f0176e13d",
+  "persona": "Astron",
+  "names": [
+    "Astron"
+  ],
+  "runs": 3,
+  "bestRank": 91,
+  "worstRank": 166,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2239751,
+  "weeksActive": [
+    -41,
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 91,
+      "ms": 3319915,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 166,
+      "ms": 2239751,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 94,
+      "ms": 2290603,
+      "dish": "Fish"
+    }
+  ]
+}

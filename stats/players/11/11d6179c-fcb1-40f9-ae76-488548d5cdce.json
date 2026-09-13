@@ -1,0 +1,50 @@
+{
+  "id": "11d6179c-fcb1-40f9-ae76-488548d5cdce",
+  "persona": "Valturen",
+  "names": [
+    "Valturen"
+  ],
+  "runs": 4,
+  "bestRank": 225,
+  "worstRank": 867,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2571485,
+  "weeksActive": [
+    2,
+    8,
+    9,
+    12
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 225,
+      "ms": 3624687,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 867,
+      "ms": 4527869,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 343,
+      "ms": 3681186,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 238,
+      "ms": 2571485,
+      "dish": "Turkey"
+    }
+  ]
+}

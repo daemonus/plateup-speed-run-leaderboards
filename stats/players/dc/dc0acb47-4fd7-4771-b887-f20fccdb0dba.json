@@ -1,0 +1,50 @@
+{
+  "id": "dc0acb47-4fd7-4771-b887-f20fccdb0dba",
+  "persona": "ManicMissFit",
+  "names": [
+    "ManicMissFit"
+  ],
+  "runs": 4,
+  "bestRank": 52,
+  "worstRank": 128,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1891202,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -35
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 101,
+      "ms": 2450022,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 89,
+      "ms": 1891202,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 128,
+      "ms": 2437766,
+      "dish": "Fish"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 52,
+      "ms": 2783338,
+      "dish": "Breakfast"
+    }
+  ]
+}

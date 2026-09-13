@@ -1,0 +1,34 @@
+{
+  "id": "89485e71-3fbb-42ec-a5e6-697a3d19bcc8",
+  "persona": "Choco",
+  "names": [
+    "Choco"
+  ],
+  "runs": 2,
+  "bestRank": 304,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3708978,
+  "weeksActive": [
+    55,
+    58
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 304,
+      "ms": 4861847,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 425,
+      "ms": 3708978,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7ee439e3-efe4-4fb0-b8dd-8417a40aabe1",
+  "persona": "makianin",
+  "names": [
+    "makianin"
+  ],
+  "runs": 4,
+  "bestRank": 92,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1501966,
+  "weeksActive": [
+    23,
+    24,
+    53,
+    56
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 365,
+      "ms": 3485945,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 321,
+      "ms": 3713284,
+      "dish": "Pies"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 358,
+      "ms": 4087263,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 92,
+      "ms": 1501966,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "a13c6847-5fcc-4df9-af13-db4544fbd2b4",
+  "persona": "Memieko",
+  "names": [
+    "Memieko"
+  ],
+  "runs": 4,
+  "bestRank": 197,
+  "worstRank": 571,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3503393,
+  "weeksActive": [
+    -7,
+    -6,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 348,
+      "ms": 8859224,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 571,
+      "ms": 5059951,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 197,
+      "ms": 3629410,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 315,
+      "ms": 3503393,
+      "dish": "Pies"
+    }
+  ]
+}

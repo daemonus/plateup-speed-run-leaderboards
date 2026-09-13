@@ -1,0 +1,42 @@
+{
+  "id": "0d270375-2464-47a6-bb9c-0501e4bc3f43",
+  "persona": "Choopachoo",
+  "names": [
+    "Choopachoo"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3783997,
+  "weeksActive": [
+    -19,
+    -18,
+    -16
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 263,
+      "ms": 4101925,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 440,
+      "ms": 3998322,
+      "dish": "Fish"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 440,
+      "ms": 3783997,
+      "dish": "Pies"
+    }
+  ]
+}

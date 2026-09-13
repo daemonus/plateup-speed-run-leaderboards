@@ -1,0 +1,58 @@
+{
+  "id": "abeba5cf-a921-44d1-91b3-618b6738a2ef",
+  "persona": "Sairlee",
+  "names": [
+    "Sairlee"
+  ],
+  "runs": 5,
+  "bestRank": 205,
+  "worstRank": 688,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2900071,
+  "weeksActive": [
+    -49,
+    -41,
+    -30,
+    -4,
+    -3
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 205,
+      "ms": 4322507,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 384,
+      "ms": 5607639,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 688,
+      "ms": 3714355,
+      "dish": "Turkey"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 510,
+      "ms": 5277616,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 280,
+      "ms": 2900071,
+      "dish": "Turkey"
+    }
+  ]
+}

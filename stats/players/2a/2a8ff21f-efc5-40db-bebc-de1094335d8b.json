@@ -1,0 +1,34 @@
+{
+  "id": "2a8ff21f-efc5-40db-bebc-de1094335d8b",
+  "persona": "T A R N",
+  "names": [
+    "T A R N"
+  ],
+  "runs": 2,
+  "bestRank": 427,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4507416,
+  "weeksActive": [
+    58,
+    60
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 568,
+      "ms": 4507416,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 427,
+      "ms": 6398400,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "e6ab886d-1776-46cc-8a6a-75208f94fbb7",
+  "persona": "UnrulyDoll",
+  "names": [
+    "UnrulyDoll"
+  ],
+  "runs": 5,
+  "bestRank": 150,
+  "worstRank": 707,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2266865,
+  "weeksActive": [
+    -94,
+    -93,
+    -91,
+    -88,
+    -19
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 198,
+      "ms": 2372065,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 707,
+      "ms": 2266865,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 582,
+      "ms": 2420270,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 150,
+      "ms": 2486107,
+      "dish": "Pies"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 157,
+      "ms": 3041360,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

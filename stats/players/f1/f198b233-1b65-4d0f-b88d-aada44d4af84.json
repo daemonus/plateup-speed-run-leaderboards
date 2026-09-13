@@ -1,0 +1,42 @@
+{
+  "id": "f198b233-1b65-4d0f-b88d-aada44d4af84",
+  "persona": "starsearcher1414",
+  "names": [
+    "starsearcher1414"
+  ],
+  "runs": 3,
+  "bestRank": 10,
+  "worstRank": 953,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1304730,
+  "weeksActive": [
+    -76,
+    41,
+    44
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 953,
+      "ms": 5582495,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 44,
+      "ms": 1304730,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 10,
+      "ms": 1774094,
+      "dish": "Breakfast"
+    }
+  ]
+}

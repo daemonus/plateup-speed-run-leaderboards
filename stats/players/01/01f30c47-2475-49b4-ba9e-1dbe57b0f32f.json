@@ -1,0 +1,34 @@
+{
+  "id": "01f30c47-2475-49b4-ba9e-1dbe57b0f32f",
+  "persona": "Kholtrane",
+  "names": [
+    "Kholtrane"
+  ],
+  "runs": 2,
+  "bestRank": 142,
+  "worstRank": 553,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1867706,
+  "weeksActive": [
+    -30,
+    86
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 553,
+      "ms": 3326359,
+      "dish": "Turkey"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 142,
+      "ms": 1867706,
+      "dish": "Sundaes"
+    }
+  ]
+}

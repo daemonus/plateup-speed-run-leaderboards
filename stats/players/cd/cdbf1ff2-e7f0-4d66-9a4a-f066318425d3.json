@@ -1,0 +1,42 @@
+{
+  "id": "cdbf1ff2-e7f0-4d66-9a4a-f066318425d3",
+  "persona": "dktcrch",
+  "names": [
+    "dktcrch"
+  ],
+  "runs": 3,
+  "bestRank": 224,
+  "worstRank": 424,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4034195,
+  "weeksActive": [
+    54,
+    55,
+    62
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 305,
+      "ms": 5174563,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 224,
+      "ms": 4034195,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 424,
+      "ms": 4103335,
+      "dish": "Pies"
+    }
+  ]
+}

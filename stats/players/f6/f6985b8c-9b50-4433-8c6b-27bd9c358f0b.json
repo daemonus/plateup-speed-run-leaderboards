@@ -1,0 +1,50 @@
+{
+  "id": "f6985b8c-9b50-4433-8c6b-27bd9c358f0b",
+  "persona": "To_Hat",
+  "names": [
+    "To_Hat"
+  ],
+  "runs": 4,
+  "bestRank": 275,
+  "worstRank": 573,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2907294,
+  "weeksActive": [
+    57,
+    66,
+    68,
+    84
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 282,
+      "ms": 3502624,
+      "dish": "Salad"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 316,
+      "ms": 3657236,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 275,
+      "ms": 2907294,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 573,
+      "ms": 3940767,
+      "dish": "Sundaes"
+    }
+  ]
+}

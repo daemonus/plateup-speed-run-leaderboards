@@ -1,0 +1,50 @@
+{
+  "id": "286d5572-6e60-4ecb-be8a-ade9043575ea",
+  "persona": "Halapande",
+  "names": [
+    "Halapande"
+  ],
+  "runs": 4,
+  "bestRank": 257,
+  "worstRank": 392,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3393860,
+  "weeksActive": [
+    -80,
+    -79,
+    31,
+    63
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 257,
+      "ms": 4857542,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 392,
+      "ms": 4389564,
+      "dish": "Pies"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 319,
+      "ms": 3442871,
+      "dish": "Fish"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 352,
+      "ms": 3393860,
+      "dish": "Pizza"
+    }
+  ]
+}

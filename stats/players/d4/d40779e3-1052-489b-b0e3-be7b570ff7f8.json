@@ -1,0 +1,42 @@
+{
+  "id": "d40779e3-1052-489b-b0e3-be7b570ff7f8",
+  "persona": "UltimateBunny",
+  "names": [
+    "UltimateBunny"
+  ],
+  "runs": 3,
+  "bestRank": 214,
+  "worstRank": 515,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2854616,
+  "weeksActive": [
+    -78,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 214,
+      "ms": 2985880,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 226,
+      "ms": 2854616,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 515,
+      "ms": 3276259,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8ebf3560-5c5e-4725-9483-493129638d73",
+  "persona": "Rie",
+  "names": [
+    "Rie"
+  ],
+  "runs": 3,
+  "bestRank": 206,
+  "worstRank": 346,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2914932,
+  "weeksActive": [
+    -67,
+    34,
+    43
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 304,
+      "ms": 3883405,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 206,
+      "ms": 3772229,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 346,
+      "ms": 2914932,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "a56b8e5a-798b-46ed-b6b0-34c66dce02c7",
+  "persona": "mbc8688",
+  "names": [
+    "mbc8688"
+  ],
+  "runs": 5,
+  "bestRank": 65,
+  "worstRank": 209,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1584622,
+  "weeksActive": [
+    38,
+    73,
+    82,
+    83,
+    84
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 65,
+      "ms": 2197554,
+      "dish": "Pies"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 106,
+      "ms": 2762047,
+      "dish": "Burgers"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 209,
+      "ms": 2981864,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 92,
+      "ms": 1584622,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 106,
+      "ms": 1611076,
+      "dish": "Sundaes"
+    }
+  ]
+}

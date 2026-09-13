@@ -1,0 +1,42 @@
+{
+  "id": "bf7cf3ad-0465-4727-91d1-24998a75186d",
+  "persona": "Cai",
+  "names": [
+    "Cai"
+  ],
+  "runs": 3,
+  "bestRank": 123,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2944091,
+  "weeksActive": [
+    11,
+    13,
+    16
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 196,
+      "ms": 3716768,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 295,
+      "ms": 2944091,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 123,
+      "ms": 3445550,
+      "dish": "Stir Fry"
+    }
+  ]
+}

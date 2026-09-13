@@ -1,0 +1,58 @@
+{
+  "id": "7c9428a8-0ee2-4850-b85f-ffac98a60c24",
+  "persona": "QianYue",
+  "names": [
+    "QianYue"
+  ],
+  "runs": 5,
+  "bestRank": 97,
+  "worstRank": 621,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3285680,
+  "weeksActive": [
+    24,
+    40,
+    43,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 355,
+      "ms": 3948655,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 295,
+      "ms": 5620636,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 621,
+      "ms": 3948064,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 398,
+      "ms": 4083979,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 97,
+      "ms": 3285680,
+      "dish": "Salad"
+    }
+  ]
+}

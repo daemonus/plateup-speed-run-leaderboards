@@ -1,0 +1,34 @@
+{
+  "id": "f113c66f-ce26-4506-a642-0f8a6ba2777a",
+  "persona": "is there room for two?",
+  "names": [
+    "is there room for two?"
+  ],
+  "runs": 2,
+  "bestRank": 81,
+  "worstRank": 114,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1495715,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 81,
+      "ms": 1495715,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 114,
+      "ms": 1717110,
+      "dish": "Fish"
+    }
+  ]
+}

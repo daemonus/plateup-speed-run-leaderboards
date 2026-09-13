@@ -1,0 +1,34 @@
+{
+  "id": "1f7a002b-6830-4d9c-9320-efe9071fac99",
+  "persona": "Metatron",
+  "names": [
+    "Metatron"
+  ],
+  "runs": 2,
+  "bestRank": 334,
+  "worstRank": 441,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4198225,
+  "weeksActive": [
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 334,
+      "ms": 4609291,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 441,
+      "ms": 4198225,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cbd7bd68-ad6f-4823-9658-65228476ce66",
+  "persona": "Hira_Taira",
+  "names": [
+    "Hira_Taira"
+  ],
+  "runs": 4,
+  "bestRank": 121,
+  "worstRank": 285,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2746403,
+  "weeksActive": [
+    58,
+    60,
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 285,
+      "ms": 3090168,
+      "dish": "Turkey"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 194,
+      "ms": 3350341,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 121,
+      "ms": 2746403,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 182,
+      "ms": 2951719,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5619758b-2c46-4d4d-a9e5-ff0358175c49",
+  "persona": "Rekachi",
+  "names": [
+    "Rekachi"
+  ],
+  "runs": 5,
+  "bestRank": 78,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2403287,
+  "weeksActive": [
+    -51,
+    -50,
+    -46,
+    -45,
+    -44
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 211,
+      "ms": 2730169,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 91,
+      "ms": 3269861,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 78,
+      "ms": 2958590,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 277,
+      "ms": 3406332,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 103,
+      "ms": 2403287,
+      "dish": "Turkey"
+    }
+  ]
+}

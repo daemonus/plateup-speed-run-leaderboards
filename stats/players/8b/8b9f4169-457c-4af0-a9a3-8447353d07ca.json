@@ -1,0 +1,34 @@
+{
+  "id": "8b9f4169-457c-4af0-a9a3-8447353d07ca",
+  "persona": "radishtop",
+  "names": [
+    "radishtop"
+  ],
+  "runs": 2,
+  "bestRank": 460,
+  "worstRank": 853,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5345587,
+  "weeksActive": [
+    -72,
+    -60
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 853,
+      "ms": 6243682,
+      "dish": "Pies"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 460,
+      "ms": 5345587,
+      "dish": "Burgers"
+    }
+  ]
+}

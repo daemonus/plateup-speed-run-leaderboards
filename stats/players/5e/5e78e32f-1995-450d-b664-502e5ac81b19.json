@@ -1,0 +1,50 @@
+{
+  "id": "5e78e32f-1995-450d-b664-502e5ac81b19",
+  "persona": "Banana Milk",
+  "names": [
+    "Banana Milk"
+  ],
+  "runs": 4,
+  "bestRank": 110,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2458979,
+  "weeksActive": [
+    -87,
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 271,
+      "ms": 3214706,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 479,
+      "ms": 3018162,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 437,
+      "ms": 3320180,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 110,
+      "ms": 2458979,
+      "dish": "Steak"
+    }
+  ]
+}

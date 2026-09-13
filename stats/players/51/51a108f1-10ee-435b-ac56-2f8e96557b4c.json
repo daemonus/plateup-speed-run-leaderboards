@@ -1,0 +1,50 @@
+{
+  "id": "51a108f1-10ee-435b-ac56-2f8e96557b4c",
+  "persona": "El",
+  "names": [
+    "El"
+  ],
+  "runs": 4,
+  "bestRank": 75,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2573676,
+  "weeksActive": [
+    44,
+    45,
+    52,
+    66
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 109,
+      "ms": 2573676,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 75,
+      "ms": 3100057,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 295,
+      "ms": 3021502,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 247,
+      "ms": 3163072,
+      "dish": "Breakfast"
+    }
+  ]
+}

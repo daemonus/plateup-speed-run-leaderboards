@@ -1,0 +1,50 @@
+{
+  "id": "9dddbd7f-f247-4fde-b2ea-ce41e75d2e5b",
+  "persona": "VBlehp",
+  "names": [
+    "VBlehp"
+  ],
+  "runs": 4,
+  "bestRank": 288,
+  "worstRank": 1309,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2668310,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -84
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1309,
+      "ms": 2668310,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 559,
+      "ms": 3625129,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 939,
+      "ms": 2861694,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 288,
+      "ms": 2835847,
+      "dish": "Fish"
+    }
+  ]
+}

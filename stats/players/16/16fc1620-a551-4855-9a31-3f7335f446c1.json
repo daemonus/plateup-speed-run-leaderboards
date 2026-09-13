@@ -1,0 +1,42 @@
+{
+  "id": "16fc1620-a551-4855-9a31-3f7335f446c1",
+  "persona": "e_combined",
+  "names": [
+    "e_combined"
+  ],
+  "runs": 3,
+  "bestRank": 177,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2667745,
+  "weeksActive": [
+    -87,
+    -86,
+    -78
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 416,
+      "ms": 3808834,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 349,
+      "ms": 2667745,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 177,
+      "ms": 2891551,
+      "dish": "Burgers"
+    }
+  ]
+}

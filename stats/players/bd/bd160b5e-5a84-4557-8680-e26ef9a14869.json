@@ -1,0 +1,50 @@
+{
+  "id": "bd160b5e-5a84-4557-8680-e26ef9a14869",
+  "persona": "omega7296",
+  "names": [
+    "omega7296"
+  ],
+  "runs": 4,
+  "bestRank": 190,
+  "worstRank": 485,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2852115,
+  "weeksActive": [
+    20,
+    21,
+    28,
+    30
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 485,
+      "ms": 3196526,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 335,
+      "ms": 3870696,
+      "dish": "Burgers"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 204,
+      "ms": 2852115,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 190,
+      "ms": 3068601,
+      "dish": "Breakfast"
+    }
+  ]
+}

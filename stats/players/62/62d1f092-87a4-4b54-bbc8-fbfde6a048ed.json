@@ -1,0 +1,34 @@
+{
+  "id": "62d1f092-87a4-4b54-bbc8-fbfde6a048ed",
+  "persona": "Kv10",
+  "names": [
+    "Kv10"
+  ],
+  "runs": 2,
+  "bestRank": 568,
+  "worstRank": 867,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4369969,
+  "weeksActive": [
+    -76,
+    -72
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 867,
+      "ms": 4426616,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 568,
+      "ms": 4369969,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "310d8dd1-b308-4151-a9c7-1c19fe5776af",
+  "persona": "DunklerTee",
+  "names": [
+    "DunklerTee"
+  ],
+  "runs": 4,
+  "bestRank": 206,
+  "worstRank": 546,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2813891,
+  "weeksActive": [
+    62,
+    63,
+    67,
+    68
+  ],
+  "history": [
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 546,
+      "ms": 4864437,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 312,
+      "ms": 3263235,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 206,
+      "ms": 3291770,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 245,
+      "ms": 2813891,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1d8fa94c-35ae-423b-a540-4d463e8da5a9",
+  "persona": "Dude",
+  "names": [
+    "Dude"
+  ],
+  "runs": 2,
+  "bestRank": 208,
+  "worstRank": 423,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3001770,
+  "weeksActive": [
+    1,
+    3
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 423,
+      "ms": 4913342,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 208,
+      "ms": 3001770,
+      "dish": "Fish"
+    }
+  ]
+}

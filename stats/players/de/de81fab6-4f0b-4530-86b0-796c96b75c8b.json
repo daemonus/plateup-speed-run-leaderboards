@@ -1,0 +1,58 @@
+{
+  "id": "de81fab6-4f0b-4530-86b0-796c96b75c8b",
+  "persona": "Zaryg\u00FCella",
+  "names": [
+    "Zaryg\u00FCella"
+  ],
+  "runs": 5,
+  "bestRank": 411,
+  "worstRank": 722,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3793983,
+  "weeksActive": [
+    -5,
+    -3,
+    3,
+    34,
+    36
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 543,
+      "ms": 5319459,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 521,
+      "ms": 3793983,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 722,
+      "ms": 4791119,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 495,
+      "ms": 9364102,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 411,
+      "ms": 4181958,
+      "dish": "Fish"
+    }
+  ]
+}

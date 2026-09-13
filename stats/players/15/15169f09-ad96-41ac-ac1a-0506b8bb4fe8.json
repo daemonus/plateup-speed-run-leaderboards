@@ -1,0 +1,58 @@
+{
+  "id": "15169f09-ad96-41ac-ac1a-0506b8bb4fe8",
+  "persona": "Ming",
+  "names": [
+    "Ming"
+  ],
+  "runs": 5,
+  "bestRank": 161,
+  "worstRank": 238,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3080829,
+  "weeksActive": [
+    -1,
+    0,
+    7,
+    17,
+    40
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 161,
+      "ms": 4704430,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 230,
+      "ms": 4128710,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 201,
+      "ms": 3080829,
+      "dish": "Fish"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 238,
+      "ms": 4202784,
+      "dish": "Pizza"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 163,
+      "ms": 3381137,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

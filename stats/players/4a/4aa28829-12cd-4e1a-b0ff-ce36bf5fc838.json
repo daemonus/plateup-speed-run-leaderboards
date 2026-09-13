@@ -1,0 +1,50 @@
+{
+  "id": "4aa28829-12cd-4e1a-b0ff-ce36bf5fc838",
+  "persona": "Roma",
+  "names": [
+    "Roma"
+  ],
+  "runs": 4,
+  "bestRank": 153,
+  "worstRank": 365,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2434905,
+  "weeksActive": [
+    -82,
+    -78,
+    -45,
+    44
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 193,
+      "ms": 2434905,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 278,
+      "ms": 3231684,
+      "dish": "Burgers"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 153,
+      "ms": 2896062,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 365,
+      "ms": 3845690,
+      "dish": "Breakfast"
+    }
+  ]
+}

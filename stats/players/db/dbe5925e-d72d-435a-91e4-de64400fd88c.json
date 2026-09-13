@@ -1,0 +1,58 @@
+{
+  "id": "dbe5925e-d72d-435a-91e4-de64400fd88c",
+  "persona": "Trigget",
+  "names": [
+    "Trigget"
+  ],
+  "runs": 5,
+  "bestRank": 181,
+  "worstRank": 483,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3012475,
+  "weeksActive": [
+    -6,
+    -4,
+    -3,
+    0,
+    1
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 483,
+      "ms": 4662700,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 259,
+      "ms": 3240139,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 314,
+      "ms": 3012475,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 457,
+      "ms": 5645130,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 181,
+      "ms": 3220355,
+      "dish": "Pies"
+    }
+  ]
+}

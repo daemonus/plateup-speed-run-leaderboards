@@ -1,0 +1,50 @@
+{
+  "id": "4a33d832-97cd-4fc4-aca4-c9dc33924314",
+  "persona": "alleen.koenig",
+  "names": [
+    "alleen.koenig"
+  ],
+  "runs": 4,
+  "bestRank": 210,
+  "worstRank": 552,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2043801,
+  "weeksActive": [
+    30,
+    41,
+    43,
+    80
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 413,
+      "ms": 4409057,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 210,
+      "ms": 2043801,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 552,
+      "ms": 3586746,
+      "dish": "Fish"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 378,
+      "ms": 4624813,
+      "dish": "Pizza"
+    }
+  ]
+}

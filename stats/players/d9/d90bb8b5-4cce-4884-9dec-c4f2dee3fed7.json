@@ -1,0 +1,50 @@
+{
+  "id": "d90bb8b5-4cce-4884-9dec-c4f2dee3fed7",
+  "persona": "Vodkanada",
+  "names": [
+    "Vodkanada"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 254,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3127352,
+  "weeksActive": [
+    -14,
+    -13,
+    -12,
+    -11
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 204,
+      "ms": 4596376,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 254,
+      "ms": 3841886,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 134,
+      "ms": 3127352,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 143,
+      "ms": 4032577,
+      "dish": "Burgers"
+    }
+  ]
+}

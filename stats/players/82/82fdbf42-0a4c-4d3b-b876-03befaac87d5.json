@@ -1,0 +1,42 @@
+{
+  "id": "82fdbf42-0a4c-4d3b-b876-03befaac87d5",
+  "persona": "NotHappy",
+  "names": [
+    "NotHappy"
+  ],
+  "runs": 3,
+  "bestRank": 34,
+  "worstRank": 1076,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1973679,
+  "weeksActive": [
+    -93,
+    -92,
+    -77
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1076,
+      "ms": 2513625,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 208,
+      "ms": 2587686,
+      "dish": "Steak"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 34,
+      "ms": 1973679,
+      "dish": "Pies"
+    }
+  ]
+}

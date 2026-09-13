@@ -1,0 +1,42 @@
+{
+  "id": "126db565-1ed9-40e1-96ed-7f3a0e661026",
+  "persona": "shell_myshell",
+  "names": [
+    "shell_myshell"
+  ],
+  "runs": 3,
+  "bestRank": 344,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3753055,
+  "weeksActive": [
+    58,
+    59,
+    71
+  ],
+  "history": [
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 440,
+      "ms": 3753055,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 365,
+      "ms": 4403055,
+      "dish": "Salad"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 344,
+      "ms": 4072128,
+      "dish": "Pizza"
+    }
+  ]
+}

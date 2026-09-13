@@ -1,0 +1,34 @@
+{
+  "id": "c1f8b945-94bf-46d8-89ee-b2742abe8a40",
+  "persona": "Kron",
+  "names": [
+    "Kron"
+  ],
+  "runs": 2,
+  "bestRank": 429,
+  "worstRank": 1395,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3801092,
+  "weeksActive": [
+    -94,
+    -83
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1395,
+      "ms": 4005026,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 429,
+      "ms": 3801092,
+      "dish": "Steak"
+    }
+  ]
+}

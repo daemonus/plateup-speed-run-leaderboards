@@ -1,0 +1,58 @@
+{
+  "id": "1ded36ec-23e6-470e-a400-1f1bfe7463c2",
+  "persona": "The Free Elf",
+  "names": [
+    "The Free Elf"
+  ],
+  "runs": 5,
+  "bestRank": 119,
+  "worstRank": 351,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2725500,
+  "weeksActive": [
+    55,
+    59,
+    61,
+    65,
+    73
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 263,
+      "ms": 4401460,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 351,
+      "ms": 4218269,
+      "dish": "Salad"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 119,
+      "ms": 2725500,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 292,
+      "ms": 3971412,
+      "dish": "Pizza"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 123,
+      "ms": 2900009,
+      "dish": "Burgers"
+    }
+  ]
+}

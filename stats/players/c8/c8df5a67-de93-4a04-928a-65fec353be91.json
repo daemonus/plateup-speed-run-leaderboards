@@ -1,0 +1,42 @@
+{
+  "id": "c8df5a67-de93-4a04-928a-65fec353be91",
+  "persona": "Ike Lyley",
+  "names": [
+    "Ike Lyley"
+  ],
+  "runs": 3,
+  "bestRank": 273,
+  "worstRank": 731,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3752681,
+  "weeksActive": [
+    60,
+    63,
+    65
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 391,
+      "ms": 4989973,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 731,
+      "ms": 5498612,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 273,
+      "ms": 3752681,
+      "dish": "Pizza"
+    }
+  ]
+}

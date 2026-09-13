@@ -1,0 +1,42 @@
+{
+  "id": "ee501a8e-56d7-4f14-9ff1-a5c2572f3616",
+  "persona": "syakechi",
+  "names": [
+    "syakechi"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2974000,
+  "weeksActive": [
+    -66,
+    -65,
+    43
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 301,
+      "ms": 5625390,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 130,
+      "ms": 4424333,
+      "dish": "Burgers"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 362,
+      "ms": 2974000,
+      "dish": "Fish"
+    }
+  ]
+}

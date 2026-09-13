@@ -1,0 +1,42 @@
+{
+  "id": "dc85b630-d71d-4a50-9bc7-d3f3f9937ede",
+  "persona": "Dominius",
+  "names": [
+    "Dominius"
+  ],
+  "runs": 3,
+  "bestRank": 156,
+  "worstRank": 585,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3388803,
+  "weeksActive": [
+    41,
+    42,
+    45
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 585,
+      "ms": 3388803,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 243,
+      "ms": 4993345,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 156,
+      "ms": 3942983,
+      "dish": "Salad"
+    }
+  ]
+}

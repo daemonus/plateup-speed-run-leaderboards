@@ -1,0 +1,34 @@
+{
+  "id": "c779b859-1f44-4767-831d-2fc328b5c254",
+  "persona": "Dyl",
+  "names": [
+    "Dyl"
+  ],
+  "runs": 2,
+  "bestRank": 215,
+  "worstRank": 231,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3978494,
+  "weeksActive": [
+    16,
+    18
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 215,
+      "ms": 3978494,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 231,
+      "ms": 4434528,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

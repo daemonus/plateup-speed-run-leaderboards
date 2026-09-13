@@ -1,0 +1,50 @@
+{
+  "id": "20b45f50-a128-485f-91c8-448596dfece5",
+  "persona": "Maki Zenin \uD83D\uDDE1",
+  "names": [
+    "Maki Zenin \uD83D\uDDE1"
+  ],
+  "runs": 4,
+  "bestRank": 156,
+  "worstRank": 350,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3676616,
+  "weeksActive": [
+    -60,
+    -59,
+    -58,
+    -57
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 348,
+      "ms": 4320523,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 350,
+      "ms": 3676616,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 156,
+      "ms": 3912638,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 247,
+      "ms": 4281417,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

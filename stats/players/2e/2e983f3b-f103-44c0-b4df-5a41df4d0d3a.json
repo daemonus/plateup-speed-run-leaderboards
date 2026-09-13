@@ -1,0 +1,42 @@
+{
+  "id": "2e983f3b-f103-44c0-b4df-5a41df4d0d3a",
+  "persona": "Angus",
+  "names": [
+    "Angus"
+  ],
+  "runs": 3,
+  "bestRank": 305,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3352498,
+  "weeksActive": [
+    9,
+    38,
+    41
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 305,
+      "ms": 3516524,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 524,
+      "ms": 6290645,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 582,
+      "ms": 3352498,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "4859fcc7-e7a2-439e-9633-a3ec0d32ef81",
+  "persona": "the spirit",
+  "names": [
+    "the spirit"
+  ],
+  "runs": 3,
+  "bestRank": 345,
+  "worstRank": 363,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4139473,
+  "weeksActive": [
+    0,
+    1,
+    2
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 363,
+      "ms": 4802081,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 345,
+      "ms": 4139473,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 354,
+      "ms": 4587359,
+      "dish": "Breakfast"
+    }
+  ]
+}

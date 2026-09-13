@@ -1,0 +1,42 @@
+{
+  "id": "273fe386-f08b-4556-bab2-c42838a365e2",
+  "persona": "Serlixe",
+  "names": [
+    "Serlixe"
+  ],
+  "runs": 3,
+  "bestRank": 372,
+  "worstRank": 487,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4345205,
+  "weeksActive": [
+    -61,
+    -53,
+    1
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 487,
+      "ms": 4657518,
+      "dish": "Fish"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 442,
+      "ms": 7307144,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 372,
+      "ms": 4345205,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2e3cbac2-c7bc-4ed3-9fd2-707d866fea28",
+  "persona": "Bambi Bunny",
+  "names": [
+    "Bambi Bunny"
+  ],
+  "runs": 3,
+  "bestRank": 144,
+  "worstRank": 290,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2648090,
+  "weeksActive": [
+    -43,
+    -42,
+    -30
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 144,
+      "ms": 3196784,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 175,
+      "ms": 4148675,
+      "dish": "Burgers"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 290,
+      "ms": 2648090,
+      "dish": "Turkey"
+    }
+  ]
+}

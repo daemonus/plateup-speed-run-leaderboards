@@ -1,0 +1,50 @@
+{
+  "id": "d8395467-b462-4006-846a-e7954480bff0",
+  "persona": "Peanut",
+  "names": [
+    "Peanut"
+  ],
+  "runs": 4,
+  "bestRank": 436,
+  "worstRank": 813,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3871007,
+  "weeksActive": [
+    -63,
+    -62,
+    -55,
+    -51
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 620,
+      "ms": 5513465,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 813,
+      "ms": 6957133,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 436,
+      "ms": 4352593,
+      "dish": "Pizza"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 533,
+      "ms": 3871007,
+      "dish": "Turkey"
+    }
+  ]
+}

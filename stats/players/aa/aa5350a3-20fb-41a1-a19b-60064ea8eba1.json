@@ -1,0 +1,42 @@
+{
+  "id": "aa5350a3-20fb-41a1-a19b-60064ea8eba1",
+  "persona": "Toast\u2122\u00AE",
+  "names": [
+    "Toast\u2122\u00AE"
+  ],
+  "runs": 3,
+  "bestRank": 242,
+  "worstRank": 587,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3448303,
+  "weeksActive": [
+    -47,
+    -38,
+    -6
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 286,
+      "ms": 3908223,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 587,
+      "ms": 3448303,
+      "dish": "Turkey"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 242,
+      "ms": 3732504,
+      "dish": "Breakfast"
+    }
+  ]
+}

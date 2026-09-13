@@ -1,0 +1,50 @@
+{
+  "id": "4b2cddf8-18a2-489e-ac0e-e5d27e882a51",
+  "persona": "1634983046",
+  "names": [
+    "1634983046"
+  ],
+  "runs": 4,
+  "bestRank": 228,
+  "worstRank": 322,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3852198,
+  "weeksActive": [
+    67,
+    69,
+    70,
+    72
+  ],
+  "history": [
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 322,
+      "ms": 4426806,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 228,
+      "ms": 3852198,
+      "dish": "Burgers"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 299,
+      "ms": 4496831,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 292,
+      "ms": 4032946,
+      "dish": "Breakfast"
+    }
+  ]
+}

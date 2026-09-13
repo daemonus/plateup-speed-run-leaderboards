@@ -1,0 +1,90 @@
+{
+  "id": "47aefb07-f8ab-450c-8673-6fca80d7a32b",
+  "persona": "Oscar The Grouch",
+  "names": [
+    "Oscar The Grouch"
+  ],
+  "runs": 9,
+  "bestRank": 4,
+  "worstRank": 43,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 3,
+  "bestMs": 1542926,
+  "weeksActive": [
+    -21,
+    -20,
+    -19,
+    -18,
+    -17,
+    -16,
+    -15,
+    -13,
+    -12
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 34,
+      "ms": 2089272,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 43,
+      "ms": 2577463,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 13,
+      "ms": 1874021,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 4,
+      "ms": 1699996,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 11,
+      "ms": 1706363,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 8,
+      "ms": 1542926,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 16,
+      "ms": 1655164,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 11,
+      "ms": 1850548,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 7,
+      "ms": 1967394,
+      "dish": "Breakfast"
+    }
+  ]
+}

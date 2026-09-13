@@ -1,0 +1,34 @@
+{
+  "id": "e97cc8c6-14d0-41cd-91c0-88cb48c07df2",
+  "persona": "Need a Hug?",
+  "names": [
+    "Need a Hug?"
+  ],
+  "runs": 2,
+  "bestRank": 45,
+  "worstRank": 97,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1651916,
+  "weeksActive": [
+    -40,
+    -38
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 97,
+      "ms": 3295634,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 45,
+      "ms": 1651916,
+      "dish": "Turkey"
+    }
+  ]
+}

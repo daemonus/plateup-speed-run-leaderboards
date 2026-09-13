@@ -1,0 +1,42 @@
+{
+  "id": "629ff2ce-7713-4fa6-996b-ce273ee4f811",
+  "persona": "AtomicTheMonkey",
+  "names": [
+    "AtomicTheMonkey"
+  ],
+  "runs": 3,
+  "bestRank": 324,
+  "worstRank": 703,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2099526,
+  "weeksActive": [
+    -94,
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 501,
+      "ms": 2850854,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 703,
+      "ms": 2264979,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 324,
+      "ms": 2099526,
+      "dish": "Fish"
+    }
+  ]
+}

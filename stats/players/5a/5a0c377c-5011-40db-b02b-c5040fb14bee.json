@@ -1,0 +1,58 @@
+{
+  "id": "5a0c377c-5011-40db-b02b-c5040fb14bee",
+  "persona": "CREAM OF THE CROP",
+  "names": [
+    "CREAM OF THE CROP"
+  ],
+  "runs": 5,
+  "bestRank": 47,
+  "worstRank": 169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2515351,
+  "weeksActive": [
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 169,
+      "ms": 2891964,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 82,
+      "ms": 3153309,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 95,
+      "ms": 2515351,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 123,
+      "ms": 2985508,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 47,
+      "ms": 3070142,
+      "dish": "Pizza"
+    }
+  ]
+}

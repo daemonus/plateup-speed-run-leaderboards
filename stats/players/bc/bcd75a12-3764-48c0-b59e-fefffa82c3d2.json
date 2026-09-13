@@ -1,0 +1,34 @@
+{
+  "id": "bcd75a12-3764-48c0-b59e-fefffa82c3d2",
+  "persona": "xxx",
+  "names": [
+    "xxx"
+  ],
+  "runs": 2,
+  "bestRank": 286,
+  "worstRank": 653,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3646897,
+  "weeksActive": [
+    8,
+    10
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 653,
+      "ms": 3646897,
+      "dish": "Fish"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 286,
+      "ms": 5524612,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

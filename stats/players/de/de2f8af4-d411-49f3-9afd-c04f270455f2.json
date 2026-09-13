@@ -1,0 +1,34 @@
+{
+  "id": "de2f8af4-d411-49f3-9afd-c04f270455f2",
+  "persona": "Raptureman",
+  "names": [
+    "Raptureman"
+  ],
+  "runs": 2,
+  "bestRank": 770,
+  "worstRank": 980,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6444626,
+  "weeksActive": [
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 770,
+      "ms": 12255285,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 980,
+      "ms": 6444626,
+      "dish": "Sundaes"
+    }
+  ]
+}

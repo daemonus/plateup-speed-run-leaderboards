@@ -1,0 +1,74 @@
+{
+  "id": "7e082e02-7c40-4156-99e3-37f22f3cc749",
+  "persona": "C1235589447",
+  "names": [
+    "C1235589447"
+  ],
+  "runs": 7,
+  "bestRank": 222,
+  "worstRank": 726,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3786813,
+  "weeksActive": [
+    -87,
+    -84,
+    -82,
+    -80,
+    -63,
+    -41,
+    -30
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 594,
+      "ms": 7011050,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 680,
+      "ms": 5417915,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 726,
+      "ms": 4535902,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 222,
+      "ms": 4417005,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 462,
+      "ms": 4419341,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 387,
+      "ms": 5656350,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 708,
+      "ms": 3786813,
+      "dish": "Turkey"
+    }
+  ]
+}

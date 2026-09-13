@@ -1,0 +1,82 @@
+{
+  "id": "253dc4ea-d348-45de-a5c8-2e2b206e88ca",
+  "persona": "schmoo",
+  "names": [
+    "schmoo"
+  ],
+  "runs": 8,
+  "bestRank": 264,
+  "worstRank": 761,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2292133,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -83,
+    -41,
+    -38,
+    -37,
+    -34
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 755,
+      "ms": 2292133,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 761,
+      "ms": 2645221,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 690,
+      "ms": 3483295,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 280,
+      "ms": 3153321,
+      "dish": "Steak"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 356,
+      "ms": 5202993,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 382,
+      "ms": 2901041,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 317,
+      "ms": 3033465,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 264,
+      "ms": 3283032,
+      "dish": "Pies"
+    }
+  ]
+}

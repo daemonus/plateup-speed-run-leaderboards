@@ -1,0 +1,74 @@
+{
+  "id": "4d2de7a2-7307-417d-8583-a0bd9bb63738",
+  "persona": "sheety",
+  "names": [
+    "sheety"
+  ],
+  "runs": 7,
+  "bestRank": 133,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3270911,
+  "weeksActive": [
+    -43,
+    -42,
+    28,
+    29,
+    30,
+    31,
+    33
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 247,
+      "ms": 4084984,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 226,
+      "ms": 5179260,
+      "dish": "Burgers"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 318,
+      "ms": 3572138,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 133,
+      "ms": 3717492,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 232,
+      "ms": 3270911,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 352,
+      "ms": 3551302,
+      "dish": "Fish"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 150,
+      "ms": 3418125,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

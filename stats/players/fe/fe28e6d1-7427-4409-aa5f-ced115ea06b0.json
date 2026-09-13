@@ -1,0 +1,42 @@
+{
+  "id": "fe28e6d1-7427-4409-aa5f-ced115ea06b0",
+  "persona": "ameng0001",
+  "names": [
+    "ameng0001"
+  ],
+  "runs": 3,
+  "bestRank": 254,
+  "worstRank": 645,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2766072,
+  "weeksActive": [
+    -38,
+    -37,
+    11
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 336,
+      "ms": 2766072,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 645,
+      "ms": 3768078,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 254,
+      "ms": 4474590,
+      "dish": "Salad"
+    }
+  ]
+}

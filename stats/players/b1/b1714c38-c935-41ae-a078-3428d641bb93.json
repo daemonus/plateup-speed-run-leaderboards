@@ -1,0 +1,50 @@
+{
+  "id": "b1714c38-c935-41ae-a078-3428d641bb93",
+  "persona": "Elioclya",
+  "names": [
+    "Elioclya"
+  ],
+  "runs": 4,
+  "bestRank": 80,
+  "worstRank": 211,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2768328,
+  "weeksActive": [
+    -6,
+    -4,
+    0,
+    3
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 80,
+      "ms": 2768328,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 211,
+      "ms": 3070293,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 159,
+      "ms": 3651761,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 209,
+      "ms": 3003379,
+      "dish": "Fish"
+    }
+  ]
+}

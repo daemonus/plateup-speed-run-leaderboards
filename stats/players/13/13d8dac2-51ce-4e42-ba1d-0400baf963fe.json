@@ -1,0 +1,50 @@
+{
+  "id": "13d8dac2-51ce-4e42-ba1d-0400baf963fe",
+  "persona": "Triyfore",
+  "names": [
+    "Triyfore"
+  ],
+  "runs": 4,
+  "bestRank": 101,
+  "worstRank": 378,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2500322,
+  "weeksActive": [
+    -51,
+    -24,
+    -21,
+    -20
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 144,
+      "ms": 2500322,
+      "dish": "Turkey"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 101,
+      "ms": 3243574,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 185,
+      "ms": 3070795,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 378,
+      "ms": 4091153,
+      "dish": "Burgers"
+    }
+  ]
+}

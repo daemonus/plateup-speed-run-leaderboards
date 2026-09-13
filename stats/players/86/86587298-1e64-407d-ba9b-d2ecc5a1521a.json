@@ -1,0 +1,42 @@
+{
+  "id": "86587298-1e64-407d-ba9b-d2ecc5a1521a",
+  "persona": "Batsy",
+  "names": [
+    "Batsy"
+  ],
+  "runs": 3,
+  "bestRank": 720,
+  "worstRank": 1530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2814375,
+  "weeksActive": [
+    -93,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1530,
+      "ms": 2814375,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 720,
+      "ms": 3085642,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 790,
+      "ms": 5048320,
+      "dish": "Pies"
+    }
+  ]
+}

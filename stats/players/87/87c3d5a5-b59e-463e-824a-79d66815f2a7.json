@@ -1,0 +1,42 @@
+{
+  "id": "87c3d5a5-b59e-463e-824a-79d66815f2a7",
+  "persona": "mememe",
+  "names": [
+    "mememe"
+  ],
+  "runs": 3,
+  "bestRank": 123,
+  "worstRank": 620,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1709567,
+  "weeksActive": [
+    41,
+    43,
+    48
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 123,
+      "ms": 1709567,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 620,
+      "ms": 3947409,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 187,
+      "ms": 4809544,
+      "dish": "Pizza"
+    }
+  ]
+}

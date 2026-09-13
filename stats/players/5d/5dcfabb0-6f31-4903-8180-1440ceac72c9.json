@@ -1,0 +1,50 @@
+{
+  "id": "5dcfabb0-6f31-4903-8180-1440ceac72c9",
+  "persona": "Jeremy Chua",
+  "names": [
+    "Jeremy Chua"
+  ],
+  "runs": 4,
+  "bestRank": 63,
+  "worstRank": 237,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2508191,
+  "weeksActive": [
+    -3,
+    13,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 173,
+      "ms": 2508191,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 237,
+      "ms": 2709595,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 89,
+      "ms": 2713447,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 63,
+      "ms": 2688136,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

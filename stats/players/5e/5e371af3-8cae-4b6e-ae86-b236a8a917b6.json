@@ -1,0 +1,42 @@
+{
+  "id": "5e371af3-8cae-4b6e-ae86-b236a8a917b6",
+  "persona": "Deskomo",
+  "names": [
+    "Deskomo"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 375,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2959428,
+  "weeksActive": [
+    -21,
+    35,
+    53
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 354,
+      "ms": 3883979,
+      "dish": "Pizza"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 152,
+      "ms": 2959428,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 375,
+      "ms": 4181852,
+      "dish": "Pies"
+    }
+  ]
+}

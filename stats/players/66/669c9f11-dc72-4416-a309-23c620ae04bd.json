@@ -1,0 +1,42 @@
+{
+  "id": "669c9f11-dc72-4416-a309-23c620ae04bd",
+  "persona": "catherine_thorley",
+  "names": [
+    "catherine_thorley"
+  ],
+  "runs": 3,
+  "bestRank": 157,
+  "worstRank": 1503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3771470,
+  "weeksActive": [
+    -94,
+    -81,
+    -29
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1503,
+      "ms": 4220104,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 375,
+      "ms": 4989140,
+      "dish": "Steak"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 157,
+      "ms": 3771470,
+      "dish": "Burgers"
+    }
+  ]
+}

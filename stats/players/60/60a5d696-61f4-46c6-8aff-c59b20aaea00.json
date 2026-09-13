@@ -1,0 +1,50 @@
+{
+  "id": "60a5d696-61f4-46c6-8aff-c59b20aaea00",
+  "persona": "ItsMuffin",
+  "names": [
+    "ItsMuffin"
+  ],
+  "runs": 4,
+  "bestRank": 2,
+  "worstRank": 79,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1020819,
+  "weeksActive": [
+    55,
+    56,
+    57,
+    69
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 2,
+      "ms": 1113095,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 16,
+      "ms": 1020819,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 79,
+      "ms": 2547784,
+      "dish": "Salad"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 11,
+      "ms": 2096702,
+      "dish": "Burgers"
+    }
+  ]
+}

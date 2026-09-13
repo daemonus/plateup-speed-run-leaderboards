@@ -1,0 +1,106 @@
+{
+  "id": "67b824d0-a0ff-4793-9aea-3881d6ecd47a",
+  "persona": "nao_042824",
+  "names": [
+    "nao_042824"
+  ],
+  "runs": 11,
+  "bestRank": 87,
+  "worstRank": 348,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2475817,
+  "weeksActive": [
+    14,
+    41,
+    43,
+    44,
+    45,
+    46,
+    57,
+    69,
+    79,
+    80,
+    82
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 296,
+      "ms": 4248280,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 348,
+      "ms": 2496167,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 194,
+      "ms": 2475817,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 111,
+      "ms": 2584538,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 154,
+      "ms": 3940418,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 100,
+      "ms": 2530550,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 212,
+      "ms": 3190166,
+      "dish": "Salad"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 87,
+      "ms": 2945519,
+      "dish": "Burgers"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 166,
+      "ms": 3793399,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 130,
+      "ms": 2872321,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 145,
+      "ms": 2718942,
+      "dish": "Pizza"
+    }
+  ]
+}

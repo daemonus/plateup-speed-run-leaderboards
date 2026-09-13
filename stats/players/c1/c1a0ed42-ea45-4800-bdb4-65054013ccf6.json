@@ -1,0 +1,34 @@
+{
+  "id": "c1a0ed42-ea45-4800-bdb4-65054013ccf6",
+  "persona": "Jax",
+  "names": [
+    "Jax"
+  ],
+  "runs": 2,
+  "bestRank": 220,
+  "worstRank": 326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3097077,
+  "weeksActive": [
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 326,
+      "ms": 4114496,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 220,
+      "ms": 3097077,
+      "dish": "Pies"
+    }
+  ]
+}

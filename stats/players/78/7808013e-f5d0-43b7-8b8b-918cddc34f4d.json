@@ -1,0 +1,34 @@
+{
+  "id": "7808013e-f5d0-43b7-8b8b-918cddc34f4d",
+  "persona": "I.G. Farben AG",
+  "names": [
+    "I.G. Farben AG"
+  ],
+  "runs": 2,
+  "bestRank": 255,
+  "worstRank": 840,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2340886,
+  "weeksActive": [
+    -93,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 840,
+      "ms": 2340886,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 255,
+      "ms": 2349065,
+      "dish": "Pies"
+    }
+  ]
+}

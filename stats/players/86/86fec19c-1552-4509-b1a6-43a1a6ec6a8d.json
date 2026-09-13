@@ -1,0 +1,42 @@
+{
+  "id": "86fec19c-1552-4509-b1a6-43a1a6ec6a8d",
+  "persona": "mysterysquid_",
+  "names": [
+    "mysterysquid_"
+  ],
+  "runs": 3,
+  "bestRank": 382,
+  "worstRank": 761,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3949368,
+  "weeksActive": [
+    7,
+    8,
+    21
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 382,
+      "ms": 4167685,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 761,
+      "ms": 3949368,
+      "dish": "Fish"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 407,
+      "ms": 4413848,
+      "dish": "Burgers"
+    }
+  ]
+}

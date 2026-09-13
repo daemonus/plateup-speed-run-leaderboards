@@ -1,0 +1,42 @@
+{
+  "id": "40a252e5-cd39-418b-8d55-95e72b5ef5fc",
+  "persona": "Katarathenomad",
+  "names": [
+    "Katarathenomad"
+  ],
+  "runs": 3,
+  "bestRank": 363,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3833618,
+  "weeksActive": [
+    -47,
+    -46,
+    -45
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 398,
+      "ms": 4634600,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 453,
+      "ms": 4809181,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 363,
+      "ms": 3833618,
+      "dish": "Breakfast"
+    }
+  ]
+}

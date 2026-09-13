@@ -1,0 +1,34 @@
+{
+  "id": "a880a9cc-0eea-44a3-9467-cddbfd27d8e5",
+  "persona": "AverageOddity",
+  "names": [
+    "AverageOddity"
+  ],
+  "runs": 2,
+  "bestRank": 123,
+  "worstRank": 198,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2923160,
+  "weeksActive": [
+    4,
+    6
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 198,
+      "ms": 3396565,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 123,
+      "ms": 2923160,
+      "dish": "Breakfast"
+    }
+  ]
+}

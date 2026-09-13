@@ -1,0 +1,42 @@
+{
+  "id": "33e2fb7a-a401-48a2-96b5-781942ff62c4",
+  "persona": "lajtos.levente",
+  "names": [
+    "lajtos.levente"
+  ],
+  "runs": 3,
+  "bestRank": 423,
+  "worstRank": 531,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4309817,
+  "weeksActive": [
+    -67,
+    -64,
+    -63
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 531,
+      "ms": 5091730,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 423,
+      "ms": 5394650,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 437,
+      "ms": 4309817,
+      "dish": "Stir Fry"
+    }
+  ]
+}

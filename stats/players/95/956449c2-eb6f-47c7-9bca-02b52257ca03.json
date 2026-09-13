@@ -1,0 +1,98 @@
+{
+  "id": "956449c2-eb6f-47c7-9bca-02b52257ca03",
+  "persona": "handles",
+  "names": [
+    "handles"
+  ],
+  "runs": 10,
+  "bestRank": 11,
+  "worstRank": 351,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 850010,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -90,
+    -89,
+    56,
+    57,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 351,
+      "ms": 2637171,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 94,
+      "ms": 1540498,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 283,
+      "ms": 2818518,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 248,
+      "ms": 2153526,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 238,
+      "ms": 2294487,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 40,
+      "ms": 1190301,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 103,
+      "ms": 2696467,
+      "dish": "Salad"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 41,
+      "ms": 1962297,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 11,
+      "ms": 850010,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 64,
+      "ms": 3063123,
+      "dish": "Fajitas"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "e17f0ce4-fdb3-4491-8dc3-732e7d8db412",
+  "persona": "NoName",
+  "names": [
+    "NoName"
+  ],
+  "runs": 2,
+  "bestRank": 482,
+  "worstRank": 872,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4366697,
+  "weeksActive": [
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 872,
+      "ms": 4366697,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 482,
+      "ms": 4878485,
+      "dish": "Salad"
+    }
+  ]
+}

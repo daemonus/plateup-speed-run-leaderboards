@@ -1,0 +1,34 @@
+{
+  "id": "50c73981-c424-420f-8d39-1de494315dca",
+  "persona": "john poops 24/7",
+  "names": [
+    "john poops 24/7"
+  ],
+  "runs": 2,
+  "bestRank": 203,
+  "worstRank": 381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3004481,
+  "weeksActive": [
+    8,
+    61
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 381,
+      "ms": 3004481,
+      "dish": "Fish"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 203,
+      "ms": 3348032,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

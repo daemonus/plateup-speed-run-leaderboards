@@ -1,0 +1,58 @@
+{
+  "id": "5e3ef734-766b-4483-afcd-f1c84183b73c",
+  "persona": "Marissa",
+  "names": [
+    "Marissa"
+  ],
+  "runs": 5,
+  "bestRank": 83,
+  "worstRank": 244,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2624559,
+  "weeksActive": [
+    -19,
+    -18,
+    -15,
+    -14,
+    -9
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 244,
+      "ms": 3840807,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 215,
+      "ms": 3202202,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 178,
+      "ms": 2624559,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 83,
+      "ms": 3392034,
+      "dish": "Salad"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 150,
+      "ms": 4811229,
+      "dish": "Stir Fry"
+    }
+  ]
+}

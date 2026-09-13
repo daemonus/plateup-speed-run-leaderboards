@@ -1,0 +1,50 @@
+{
+  "id": "ea7cf279-df8b-4702-ae96-708fd9c80c57",
+  "persona": "rosyremi",
+  "names": [
+    "rosyremi"
+  ],
+  "runs": 4,
+  "bestRank": 143,
+  "worstRank": 475,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3652093,
+  "weeksActive": [
+    -56,
+    -55,
+    -42,
+    -41
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 361,
+      "ms": 3652093,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 475,
+      "ms": 4665563,
+      "dish": "Pizza"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 143,
+      "ms": 3733168,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 197,
+      "ms": 4153574,
+      "dish": "Stir Fry"
+    }
+  ]
+}

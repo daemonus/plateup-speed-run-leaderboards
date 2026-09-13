@@ -1,0 +1,34 @@
+{
+  "id": "e7492f26-12eb-40c1-91bc-5b2fbf859107",
+  "persona": "Erbu",
+  "names": [
+    "Erbu"
+  ],
+  "runs": 2,
+  "bestRank": 180,
+  "worstRank": 688,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3732173,
+  "weeksActive": [
+    -77,
+    54
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 688,
+      "ms": 4162454,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 180,
+      "ms": 3732173,
+      "dish": "Burgers"
+    }
+  ]
+}

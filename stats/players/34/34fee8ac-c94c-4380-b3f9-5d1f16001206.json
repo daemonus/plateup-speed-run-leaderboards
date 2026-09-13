@@ -1,0 +1,42 @@
+{
+  "id": "34fee8ac-c94c-4380-b3f9-5d1f16001206",
+  "persona": "Lani J",
+  "names": [
+    "Lani J"
+  ],
+  "runs": 3,
+  "bestRank": 268,
+  "worstRank": 705,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4371081,
+  "weeksActive": [
+    -82,
+    -80,
+    -74
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 705,
+      "ms": 4371081,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 268,
+      "ms": 5178273,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 609,
+      "ms": 5753966,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

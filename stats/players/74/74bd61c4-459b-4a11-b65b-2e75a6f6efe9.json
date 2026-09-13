@@ -1,0 +1,42 @@
+{
+  "id": "74bd61c4-459b-4a11-b65b-2e75a6f6efe9",
+  "persona": "soup",
+  "names": [
+    "soup"
+  ],
+  "runs": 3,
+  "bestRank": 332,
+  "worstRank": 670,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5860006,
+  "weeksActive": [
+    -73,
+    -70,
+    -68
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 350,
+      "ms": 6085525,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 670,
+      "ms": 7220706,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 332,
+      "ms": 5860006,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c4a522da-82cd-4020-a1c9-f9ae00347e90",
+  "persona": "bmdavis372",
+  "names": [
+    "bmdavis372"
+  ],
+  "runs": 4,
+  "bestRank": 266,
+  "worstRank": 743,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5531608,
+  "weeksActive": [
+    -67,
+    -63,
+    -62,
+    -49
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 660,
+      "ms": 13397807,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 658,
+      "ms": 6141137,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 743,
+      "ms": 5531608,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 266,
+      "ms": 10074182,
+      "dish": "Breakfast"
+    }
+  ]
+}

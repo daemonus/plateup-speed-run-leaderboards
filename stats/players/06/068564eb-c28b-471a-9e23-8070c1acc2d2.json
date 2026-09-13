@@ -1,0 +1,50 @@
+{
+  "id": "068564eb-c28b-471a-9e23-8070c1acc2d2",
+  "persona": "LV1_\u30B6\u30B3",
+  "names": [
+    "LV1_\u30B6\u30B3"
+  ],
+  "runs": 4,
+  "bestRank": 16,
+  "worstRank": 624,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1833342,
+  "weeksActive": [
+    -90,
+    5,
+    6,
+    7
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 624,
+      "ms": 2910605,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 19,
+      "ms": 1835911,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 16,
+      "ms": 1962296,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 19,
+      "ms": 1833342,
+      "dish": "Fish"
+    }
+  ]
+}

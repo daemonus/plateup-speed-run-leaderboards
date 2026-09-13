@@ -1,0 +1,42 @@
+{
+  "id": "7c8cb84a-1fb6-466c-8e69-7020531e02c6",
+  "persona": "m109e14",
+  "names": [
+    "m109e14"
+  ],
+  "runs": 3,
+  "bestRank": 268,
+  "worstRank": 502,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3219076,
+  "weeksActive": [
+    -41,
+    -40,
+    -38
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 327,
+      "ms": 4949590,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 268,
+      "ms": 6048116,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 502,
+      "ms": 3219076,
+      "dish": "Turkey"
+    }
+  ]
+}

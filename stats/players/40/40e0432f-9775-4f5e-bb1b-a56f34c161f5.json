@@ -1,0 +1,50 @@
+{
+  "id": "40e0432f-9775-4f5e-bb1b-a56f34c161f5",
+  "persona": "SRCisMe",
+  "names": [
+    "SRCisMe"
+  ],
+  "runs": 4,
+  "bestRank": 301,
+  "worstRank": 427,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3613493,
+  "weeksActive": [
+    21,
+    24,
+    44,
+    63
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 301,
+      "ms": 3613493,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 424,
+      "ms": 4452024,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 332,
+      "ms": 3649650,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 427,
+      "ms": 3620314,
+      "dish": "Pizza"
+    }
+  ]
+}

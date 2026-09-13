@@ -1,0 +1,50 @@
+{
+  "id": "68a42908-2af8-4d13-b91b-ccb0c6c3ea59",
+  "persona": "rebeccawilson100",
+  "names": [
+    "rebeccawilson100"
+  ],
+  "runs": 4,
+  "bestRank": 33,
+  "worstRank": 517,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2084898,
+  "weeksActive": [
+    -94,
+    -91,
+    54,
+    55
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 517,
+      "ms": 2865472,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 315,
+      "ms": 2084898,
+      "dish": "Fish"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 83,
+      "ms": 3087066,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 33,
+      "ms": 2370673,
+      "dish": "Stir Fry"
+    }
+  ]
+}

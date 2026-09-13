@@ -1,0 +1,50 @@
+{
+  "id": "91999623-8f52-43c2-b16e-3bd54c01946f",
+  "persona": "Jewel",
+  "names": [
+    "Jewel"
+  ],
+  "runs": 4,
+  "bestRank": 28,
+  "worstRank": 190,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1295557,
+  "weeksActive": [
+    -93,
+    37,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 190,
+      "ms": 1727379,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 44,
+      "ms": 2876593,
+      "dish": "Burgers"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 28,
+      "ms": 2025110,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 43,
+      "ms": 1295557,
+      "dish": "Sundaes"
+    }
+  ]
+}

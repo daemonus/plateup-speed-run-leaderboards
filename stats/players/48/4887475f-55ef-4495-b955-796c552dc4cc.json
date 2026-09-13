@@ -1,0 +1,58 @@
+{
+  "id": "4887475f-55ef-4495-b955-796c552dc4cc",
+  "persona": "DarkBlaze",
+  "names": [
+    "DarkBlaze"
+  ],
+  "runs": 5,
+  "bestRank": 80,
+  "worstRank": 187,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2005327,
+  "weeksActive": [
+    -38,
+    -37,
+    -21,
+    -15,
+    -12
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 108,
+      "ms": 2005327,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 186,
+      "ms": 2612638,
+      "dish": "Fish"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 187,
+      "ms": 3079941,
+      "dish": "Pizza"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 80,
+      "ms": 2121824,
+      "dish": "Fish"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 125,
+      "ms": 3069031,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5500bcc6-c3c7-49c5-b74f-98b9886699ab",
+  "persona": "Master Roshi",
+  "names": [
+    "Master Roshi"
+  ],
+  "runs": 2,
+  "bestRank": 180,
+  "worstRank": 309,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2695915,
+  "weeksActive": [
+    -30,
+    -25
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 309,
+      "ms": 2695915,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 180,
+      "ms": 3376819,
+      "dish": "Breakfast"
+    }
+  ]
+}

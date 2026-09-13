@@ -1,0 +1,58 @@
+{
+  "id": "d575c5e0-e42f-4e8b-90e8-8c79388f9bfd",
+  "persona": "Or",
+  "names": [
+    "Or"
+  ],
+  "runs": 5,
+  "bestRank": 98,
+  "worstRank": 208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2879747,
+  "weeksActive": [
+    -66,
+    -60,
+    -58,
+    -56,
+    -18
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 208,
+      "ms": 3500609,
+      "dish": "Turkey"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 108,
+      "ms": 3121462,
+      "dish": "Burgers"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 98,
+      "ms": 3381750,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 189,
+      "ms": 2879747,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 173,
+      "ms": 3034419,
+      "dish": "Fish"
+    }
+  ]
+}

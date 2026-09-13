@@ -1,0 +1,42 @@
+{
+  "id": "03795462-91bf-4e18-892a-80a222255182",
+  "persona": "poiuy",
+  "names": [
+    "poiuy"
+  ],
+  "runs": 3,
+  "bestRank": 99,
+  "worstRank": 569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2566827,
+  "weeksActive": [
+    16,
+    21,
+    35
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 569,
+      "ms": 9824925,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 413,
+      "ms": 4467968,
+      "dish": "Burgers"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 99,
+      "ms": 2566827,
+      "dish": "Fish"
+    }
+  ]
+}

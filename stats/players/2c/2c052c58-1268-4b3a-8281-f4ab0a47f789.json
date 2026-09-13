@@ -1,0 +1,42 @@
+{
+  "id": "2c052c58-1268-4b3a-8281-f4ab0a47f789",
+  "persona": "Admiral Sam",
+  "names": [
+    "Admiral Sam"
+  ],
+  "runs": 3,
+  "bestRank": 283,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3937526,
+  "weeksActive": [
+    30,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 403,
+      "ms": 4339819,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 533,
+      "ms": 4499743,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 283,
+      "ms": 3937526,
+      "dish": "Pies"
+    }
+  ]
+}

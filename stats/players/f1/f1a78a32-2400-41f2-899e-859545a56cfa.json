@@ -1,0 +1,50 @@
+{
+  "id": "f1a78a32-2400-41f2-899e-859545a56cfa",
+  "persona": "t33t",
+  "names": [
+    "t33t"
+  ],
+  "runs": 4,
+  "bestRank": 600,
+  "worstRank": 1044,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6170306,
+  "weeksActive": [
+    -89,
+    -87,
+    -63,
+    -62
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 1044,
+      "ms": 8515356,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 600,
+      "ms": 8846555,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 681,
+      "ms": 7028127,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 787,
+      "ms": 6170306,
+      "dish": "Breakfast"
+    }
+  ]
+}

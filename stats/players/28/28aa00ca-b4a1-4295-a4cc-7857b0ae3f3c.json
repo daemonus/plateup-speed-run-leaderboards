@@ -1,0 +1,42 @@
+{
+  "id": "28aa00ca-b4a1-4295-a4cc-7857b0ae3f3c",
+  "persona": "SHIYONG",
+  "names": [
+    "SHIYONG"
+  ],
+  "runs": 3,
+  "bestRank": 279,
+  "worstRank": 617,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3922497,
+  "weeksActive": [
+    24,
+    43,
+    73
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 511,
+      "ms": 5256651,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 617,
+      "ms": 3922497,
+      "dish": "Fish"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 279,
+      "ms": 5083991,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "30b6b986-bdf0-472a-a4fe-66bade315d59",
+  "persona": "mellennium",
+  "names": [
+    "mellennium"
+  ],
+  "runs": 4,
+  "bestRank": 204,
+  "worstRank": 1974,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3115811,
+  "weeksActive": [
+    -93,
+    -76,
+    -31,
+    65
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1974,
+      "ms": 3115811,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 514,
+      "ms": 3275729,
+      "dish": "Turkey"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 596,
+      "ms": 4069900,
+      "dish": "Pies"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 204,
+      "ms": 3380637,
+      "dish": "Pizza"
+    }
+  ]
+}

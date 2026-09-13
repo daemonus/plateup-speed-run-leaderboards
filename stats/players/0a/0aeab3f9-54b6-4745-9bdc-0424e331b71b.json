@@ -1,0 +1,58 @@
+{
+  "id": "0aeab3f9-54b6-4745-9bdc-0424e331b71b",
+  "persona": "Loplap",
+  "names": [
+    "Loplap"
+  ],
+  "runs": 5,
+  "bestRank": 40,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2155202,
+  "weeksActive": [
+    -93,
+    -88,
+    -45,
+    -26,
+    73
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 563,
+      "ms": 2155202,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 186,
+      "ms": 2641397,
+      "dish": "Pies"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 69,
+      "ms": 2438948,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 40,
+      "ms": 2578114,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 85,
+      "ms": 2623505,
+      "dish": "Burgers"
+    }
+  ]
+}

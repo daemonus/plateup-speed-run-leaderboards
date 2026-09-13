@@ -1,0 +1,42 @@
+{
+  "id": "4dee63ae-c680-455d-bd97-857744150be6",
+  "persona": "Konquer",
+  "names": [
+    "Konquer"
+  ],
+  "runs": 3,
+  "bestRank": 309,
+  "worstRank": 449,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3083713,
+  "weeksActive": [
+    47,
+    84,
+    85
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 309,
+      "ms": 4494638,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 449,
+      "ms": 3083713,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 352,
+      "ms": 4097971,
+      "dish": "Fish"
+    }
+  ]
+}

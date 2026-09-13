@@ -1,0 +1,50 @@
+{
+  "id": "11e354db-acd0-4314-86bb-c29123ee06ad",
+  "persona": "Doggo Lightning",
+  "names": [
+    "Doggo Lightning"
+  ],
+  "runs": 4,
+  "bestRank": 300,
+  "worstRank": 570,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3457662,
+  "weeksActive": [
+    -63,
+    -62,
+    -61,
+    -56
+  ],
+  "history": [
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 570,
+      "ms": 5032162,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 314,
+      "ms": 3548634,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 300,
+      "ms": 3457662,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 391,
+      "ms": 3844481,
+      "dish": "Breakfast"
+    }
+  ]
+}

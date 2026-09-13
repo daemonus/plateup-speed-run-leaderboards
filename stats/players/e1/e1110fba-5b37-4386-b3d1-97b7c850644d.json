@@ -1,0 +1,50 @@
+{
+  "id": "e1110fba-5b37-4386-b3d1-97b7c850644d",
+  "persona": "chill",
+  "names": [
+    "chill"
+  ],
+  "runs": 4,
+  "bestRank": 183,
+  "worstRank": 975,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4780844,
+  "weeksActive": [
+    13,
+    16,
+    20,
+    29
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 779,
+      "ms": 5585537,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 540,
+      "ms": 7090798,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 975,
+      "ms": 6787304,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 183,
+      "ms": 4780844,
+      "dish": "Breakfast"
+    }
+  ]
+}

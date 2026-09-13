@@ -1,0 +1,50 @@
+{
+  "id": "854a62f0-1502-4aa4-a859-2886598c301c",
+  "persona": "Awrene",
+  "names": [
+    "Awrene"
+  ],
+  "runs": 4,
+  "bestRank": 92,
+  "worstRank": 220,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2831391,
+  "weeksActive": [
+    -25,
+    -24,
+    -23,
+    -15
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 152,
+      "ms": 3214552,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 92,
+      "ms": 3134213,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 130,
+      "ms": 3322802,
+      "dish": "Pizza"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 220,
+      "ms": 2831391,
+      "dish": "Fish"
+    }
+  ]
+}

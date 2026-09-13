@@ -1,0 +1,34 @@
+{
+  "id": "b9d8600a-1d4c-45b5-b8f0-3bf414028607",
+  "persona": "enana",
+  "names": [
+    "enana"
+  ],
+  "runs": 2,
+  "bestRank": 151,
+  "worstRank": 172,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3290774,
+  "weeksActive": [
+    25,
+    27
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 151,
+      "ms": 4484256,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 172,
+      "ms": 3290774,
+      "dish": "Breakfast"
+    }
+  ]
+}

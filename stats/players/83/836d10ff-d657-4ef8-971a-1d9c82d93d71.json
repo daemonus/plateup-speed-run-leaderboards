@@ -1,0 +1,74 @@
+{
+  "id": "836d10ff-d657-4ef8-971a-1d9c82d93d71",
+  "persona": "Raita",
+  "names": [
+    "Raita"
+  ],
+  "runs": 7,
+  "bestRank": 110,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2296486,
+  "weeksActive": [
+    48,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 110,
+      "ms": 3775899,
+      "dish": "Pizza"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 188,
+      "ms": 3786774,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 276,
+      "ms": 2934017,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 188,
+      "ms": 3150339,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 197,
+      "ms": 3854632,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 142,
+      "ms": 3416519,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 349,
+      "ms": 2296486,
+      "dish": "Sundaes"
+    }
+  ]
+}

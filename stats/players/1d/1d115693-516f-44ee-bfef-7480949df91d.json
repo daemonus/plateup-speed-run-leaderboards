@@ -1,0 +1,50 @@
+{
+  "id": "1d115693-516f-44ee-bfef-7480949df91d",
+  "persona": "Unknown Mellie",
+  "names": [
+    "Unknown Mellie"
+  ],
+  "runs": 4,
+  "bestRank": 601,
+  "worstRank": 1398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2607520,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 715,
+      "ms": 3098931,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1398,
+      "ms": 2728545,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 601,
+      "ms": 3777405,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 728,
+      "ms": 2607520,
+      "dish": "Fish"
+    }
+  ]
+}

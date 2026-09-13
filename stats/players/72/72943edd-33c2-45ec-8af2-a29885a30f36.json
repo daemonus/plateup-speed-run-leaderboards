@@ -1,0 +1,42 @@
+{
+  "id": "72943edd-33c2-45ec-8af2-a29885a30f36",
+  "persona": "lou_2395",
+  "names": [
+    "lou_2395"
+  ],
+  "runs": 3,
+  "bestRank": 277,
+  "worstRank": 586,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3572516,
+  "weeksActive": [
+    -82,
+    -67,
+    -55
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 586,
+      "ms": 3801806,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 277,
+      "ms": 3743125,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 278,
+      "ms": 3572516,
+      "dish": "Pizza"
+    }
+  ]
+}

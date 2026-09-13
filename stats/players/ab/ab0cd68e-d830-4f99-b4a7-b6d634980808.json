@@ -1,0 +1,34 @@
+{
+  "id": "ab0cd68e-d830-4f99-b4a7-b6d634980808",
+  "persona": "bz",
+  "names": [
+    "bz"
+  ],
+  "runs": 2,
+  "bestRank": 488,
+  "worstRank": 668,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5158676,
+  "weeksActive": [
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 668,
+      "ms": 5158676,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 488,
+      "ms": 6278019,
+      "dish": "Pies"
+    }
+  ]
+}

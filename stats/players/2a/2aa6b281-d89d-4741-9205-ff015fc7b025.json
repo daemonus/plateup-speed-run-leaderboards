@@ -1,0 +1,42 @@
+{
+  "id": "2aa6b281-d89d-4741-9205-ff015fc7b025",
+  "persona": "kimchiparadise",
+  "names": [
+    "kimchiparadise"
+  ],
+  "runs": 3,
+  "bestRank": 202,
+  "worstRank": 262,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3285754,
+  "weeksActive": [
+    60,
+    61,
+    62
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 202,
+      "ms": 3392014,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 207,
+      "ms": 3397731,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 262,
+      "ms": 3285754,
+      "dish": "Pies"
+    }
+  ]
+}

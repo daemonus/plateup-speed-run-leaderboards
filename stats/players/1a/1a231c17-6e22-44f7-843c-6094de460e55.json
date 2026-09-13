@@ -1,0 +1,50 @@
+{
+  "id": "1a231c17-6e22-44f7-843c-6094de460e55",
+  "persona": "genie610",
+  "names": [
+    "genie610"
+  ],
+  "runs": 4,
+  "bestRank": 267,
+  "worstRank": 550,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4155462,
+  "weeksActive": [
+    12,
+    14,
+    16,
+    17
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 499,
+      "ms": 4155462,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 301,
+      "ms": 4356681,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 550,
+      "ms": 7395372,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 267,
+      "ms": 4928367,
+      "dish": "Pizza"
+    }
+  ]
+}

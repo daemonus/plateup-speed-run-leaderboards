@@ -1,0 +1,42 @@
+{
+  "id": "19b38404-0730-4b9e-bab3-f98d501cc080",
+  "persona": "cookie_tanu",
+  "names": [
+    "cookie_tanu"
+  ],
+  "runs": 3,
+  "bestRank": 75,
+  "worstRank": 301,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2250656,
+  "weeksActive": [
+    -1,
+    64,
+    82
+  ],
+  "history": [
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 75,
+      "ms": 3340324,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 301,
+      "ms": 2250656,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 203,
+      "ms": 2951932,
+      "dish": "Pizza"
+    }
+  ]
+}

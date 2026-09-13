@@ -1,0 +1,74 @@
+{
+  "id": "a7f8ef20-66e1-4fac-8280-62bfddaca36f",
+  "persona": "Mochi",
+  "names": [
+    "Mochi"
+  ],
+  "runs": 7,
+  "bestRank": 133,
+  "worstRank": 394,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2739530,
+  "weeksActive": [
+    8,
+    34,
+    46,
+    62,
+    63,
+    78,
+    84
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 327,
+      "ms": 2851544,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 231,
+      "ms": 3965814,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 346,
+      "ms": 3688242,
+      "dish": "Pizza"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 320,
+      "ms": 3520751,
+      "dish": "Pies"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 224,
+      "ms": 2940127,
+      "dish": "Pizza"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 133,
+      "ms": 2739530,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 394,
+      "ms": 2796766,
+      "dish": "Sundaes"
+    }
+  ]
+}

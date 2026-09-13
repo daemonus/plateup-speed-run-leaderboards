@@ -1,0 +1,82 @@
+{
+  "id": "3ac9f9aa-5544-4e48-b681-271bd8e72550",
+  "persona": "gazella",
+  "names": [
+    "gazella"
+  ],
+  "runs": 8,
+  "bestRank": 168,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785272,
+  "weeksActive": [
+    13,
+    14,
+    46,
+    56,
+    58,
+    65,
+    66,
+    70
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 255,
+      "ms": 2785272,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 227,
+      "ms": 3551596,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 512,
+      "ms": 4741555,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 548,
+      "ms": 2940847,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 685,
+      "ms": 7543064,
+      "dish": "Turkey"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 229,
+      "ms": 3517117,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 221,
+      "ms": 3015801,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 168,
+      "ms": 3325301,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

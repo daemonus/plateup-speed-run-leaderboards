@@ -1,0 +1,74 @@
+{
+  "id": "49cbc07f-8f7e-45a6-8957-815d027cc34e",
+  "persona": "\u7130",
+  "names": [
+    "\u7130"
+  ],
+  "runs": 7,
+  "bestRank": 131,
+  "worstRank": 844,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2383030,
+  "weeksActive": [
+    -94,
+    -91,
+    -90,
+    -88,
+    -85,
+    -81,
+    -79
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 844,
+      "ms": 3249415,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 549,
+      "ms": 2383030,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 594,
+      "ms": 2849927,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 414,
+      "ms": 3396195,
+      "dish": "Pies"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 160,
+      "ms": 3371278,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 180,
+      "ms": 3474177,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 131,
+      "ms": 2863582,
+      "dish": "Pies"
+    }
+  ]
+}

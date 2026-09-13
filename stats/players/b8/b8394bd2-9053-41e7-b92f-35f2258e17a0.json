@@ -1,0 +1,58 @@
+{
+  "id": "b8394bd2-9053-41e7-b92f-35f2258e17a0",
+  "persona": "Reddolotl",
+  "names": [
+    "Reddolotl"
+  ],
+  "runs": 5,
+  "bestRank": 232,
+  "worstRank": 450,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2617381,
+  "weeksActive": [
+    24,
+    26,
+    39,
+    41,
+    46
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 450,
+      "ms": 4568764,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 277,
+      "ms": 4016787,
+      "dish": "Pizza"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 298,
+      "ms": 5004735,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 386,
+      "ms": 2617381,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 232,
+      "ms": 3140434,
+      "dish": "Pizza"
+    }
+  ]
+}

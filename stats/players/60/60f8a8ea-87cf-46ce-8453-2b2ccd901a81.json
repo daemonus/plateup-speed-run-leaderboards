@@ -1,0 +1,34 @@
+{
+  "id": "60f8a8ea-87cf-46ce-8453-2b2ccd901a81",
+  "persona": "abstract",
+  "names": [
+    "abstract"
+  ],
+  "runs": 2,
+  "bestRank": 112,
+  "worstRank": 225,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3135349,
+  "weeksActive": [
+    -59,
+    -58
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 225,
+      "ms": 3135349,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 112,
+      "ms": 3515982,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

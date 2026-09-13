@@ -1,0 +1,58 @@
+{
+  "id": "305f9de6-0d73-4143-9ae3-458daff69da5",
+  "persona": "clgladybug",
+  "names": [
+    "clgladybug"
+  ],
+  "runs": 5,
+  "bestRank": 386,
+  "worstRank": 1313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2908819,
+  "weeksActive": [
+    -92,
+    -91,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 386,
+      "ms": 3109488,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1313,
+      "ms": 3427334,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 621,
+      "ms": 2908819,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 843,
+      "ms": 4134135,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 447,
+      "ms": 3548227,
+      "dish": "Pies"
+    }
+  ]
+}

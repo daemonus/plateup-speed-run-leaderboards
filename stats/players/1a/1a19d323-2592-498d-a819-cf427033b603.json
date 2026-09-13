@@ -1,0 +1,42 @@
+{
+  "id": "1a19d323-2592-498d-a819-cf427033b603",
+  "persona": "Rachel",
+  "names": [
+    "Rachel"
+  ],
+  "runs": 3,
+  "bestRank": 184,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2843917,
+  "weeksActive": [
+    -51,
+    -46,
+    38
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 306,
+      "ms": 3070168,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 254,
+      "ms": 3809318,
+      "dish": "Salad"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 184,
+      "ms": 2843917,
+      "dish": "Pies"
+    }
+  ]
+}

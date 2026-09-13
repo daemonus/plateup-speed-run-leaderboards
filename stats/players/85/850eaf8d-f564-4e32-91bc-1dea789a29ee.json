@@ -1,0 +1,42 @@
+{
+  "id": "850eaf8d-f564-4e32-91bc-1dea789a29ee",
+  "persona": "\uD584\uD584",
+  "names": [
+    "\uD584\uD584"
+  ],
+  "runs": 3,
+  "bestRank": 200,
+  "worstRank": 428,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3078153,
+  "weeksActive": [
+    -55,
+    24,
+    47
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 428,
+      "ms": 4293664,
+      "dish": "Pizza"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 200,
+      "ms": 3078153,
+      "dish": "Pies"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 245,
+      "ms": 3936176,
+      "dish": "Pizza"
+    }
+  ]
+}

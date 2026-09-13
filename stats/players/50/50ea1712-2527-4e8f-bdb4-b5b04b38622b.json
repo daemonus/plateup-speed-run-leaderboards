@@ -1,0 +1,34 @@
+{
+  "id": "50ea1712-2527-4e8f-bdb4-b5b04b38622b",
+  "persona": "Sam",
+  "names": [
+    "Sam"
+  ],
+  "runs": 2,
+  "bestRank": 412,
+  "worstRank": 441,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3998410,
+  "weeksActive": [
+    -59,
+    -56
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 441,
+      "ms": 3998410,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 412,
+      "ms": 4007097,
+      "dish": "Breakfast"
+    }
+  ]
+}

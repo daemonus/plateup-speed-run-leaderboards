@@ -1,0 +1,42 @@
+{
+  "id": "833a60b3-cf67-450a-9254-98d9e1955477",
+  "persona": "Piro",
+  "names": [
+    "Piro"
+  ],
+  "runs": 3,
+  "bestRank": 253,
+  "worstRank": 503,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3345477,
+  "weeksActive": [
+    1,
+    3,
+    5
+  ],
+  "history": [
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 253,
+      "ms": 3627933,
+      "dish": "Pies"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 325,
+      "ms": 3345477,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 503,
+      "ms": 5553146,
+      "dish": "Breakfast"
+    }
+  ]
+}

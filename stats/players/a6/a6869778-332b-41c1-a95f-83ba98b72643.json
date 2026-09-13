@@ -1,0 +1,50 @@
+{
+  "id": "a6869778-332b-41c1-a95f-83ba98b72643",
+  "persona": "Lyndis",
+  "names": [
+    "Lyndis"
+  ],
+  "runs": 4,
+  "bestRank": 246,
+  "worstRank": 430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3167665,
+  "weeksActive": [
+    43,
+    44,
+    46,
+    47
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 430,
+      "ms": 3167665,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 326,
+      "ms": 3623123,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 246,
+      "ms": 3204585,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 262,
+      "ms": 4118196,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "01f4a1f5-580b-43bd-993d-6a50346c2603",
+  "persona": "kwitht",
+  "names": [
+    "kwitht"
+  ],
+  "runs": 4,
+  "bestRank": 158,
+  "worstRank": 1352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2656195,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    82
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1352,
+      "ms": 2699878,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 484,
+      "ms": 3407948,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 773,
+      "ms": 2656195,
+      "dish": "Fish"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 158,
+      "ms": 2763346,
+      "dish": "Pizza"
+    }
+  ]
+}

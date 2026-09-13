@@ -1,0 +1,42 @@
+{
+  "id": "91e52c5b-8b27-4db2-99f1-f6d2996af1b1",
+  "persona": "yutsao",
+  "names": [
+    "yutsao"
+  ],
+  "runs": 3,
+  "bestRank": 487,
+  "worstRank": 998,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3413140,
+  "weeksActive": [
+    -92,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 487,
+      "ms": 3413140,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 998,
+      "ms": 3741762,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 775,
+      "ms": 3811819,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "11627dc1-d95d-488f-b8dd-1f234be34cea",
+  "persona": "Fox",
+  "names": [
+    "Fox"
+  ],
+  "runs": 4,
+  "bestRank": 397,
+  "worstRank": 2744,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3502447,
+  "weeksActive": [
+    -93,
+    -92,
+    -90,
+    -74
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2744,
+      "ms": 4090012,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 759,
+      "ms": 4708657,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 911,
+      "ms": 3502447,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 397,
+      "ms": 4132029,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

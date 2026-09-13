@@ -1,0 +1,82 @@
+{
+  "id": "27d20a79-5b3e-4722-9244-698ce15fb6af",
+  "persona": "VergelTV",
+  "names": [
+    "VergelTV"
+  ],
+  "runs": 8,
+  "bestRank": 222,
+  "worstRank": 735,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3757965,
+  "weeksActive": [
+    13,
+    20,
+    21,
+    23,
+    36,
+    51,
+    58,
+    62
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 532,
+      "ms": 3778965,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 735,
+      "ms": 3894452,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 320,
+      "ms": 3772166,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 469,
+      "ms": 3944455,
+      "dish": "Turkey"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 416,
+      "ms": 4271129,
+      "dish": "Fish"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 222,
+      "ms": 4034562,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 591,
+      "ms": 4643679,
+      "dish": "Turkey"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 369,
+      "ms": 3757965,
+      "dish": "Pies"
+    }
+  ]
+}

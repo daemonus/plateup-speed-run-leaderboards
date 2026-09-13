@@ -1,0 +1,82 @@
+{
+  "id": "e29d7b9b-3c89-4f74-8df4-8dba90ccfee4",
+  "persona": "Eamos",
+  "names": [
+    "Eamos"
+  ],
+  "runs": 8,
+  "bestRank": 30,
+  "worstRank": 622,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2108654,
+  "weeksActive": [
+    -72,
+    -71,
+    -64,
+    -62,
+    -57,
+    -56,
+    40,
+    84
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 622,
+      "ms": 4543916,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 212,
+      "ms": 2601557,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 30,
+      "ms": 2141094,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 144,
+      "ms": 2901136,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 40,
+      "ms": 2451507,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 73,
+      "ms": 2224155,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 42,
+      "ms": 2281331,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 252,
+      "ms": 2108654,
+      "dish": "Sundaes"
+    }
+  ]
+}

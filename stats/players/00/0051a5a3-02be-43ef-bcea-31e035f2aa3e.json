@@ -1,0 +1,42 @@
+{
+  "id": "0051a5a3-02be-43ef-bcea-31e035f2aa3e",
+  "persona": "Aby",
+  "names": [
+    "Aby"
+  ],
+  "runs": 3,
+  "bestRank": 113,
+  "worstRank": 228,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2837772,
+  "weeksActive": [
+    71,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 155,
+      "ms": 2896597,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 228,
+      "ms": 3576918,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 113,
+      "ms": 2837772,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "67795e47-d094-4b72-95db-9b60a191b959",
+  "persona": "vmath",
+  "names": [
+    "vmath"
+  ],
+  "runs": 13,
+  "bestRank": 184,
+  "worstRank": 598,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2740845,
+  "weeksActive": [
+    30,
+    31,
+    32,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    47,
+    50,
+    74
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 481,
+      "ms": 5227229,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 598,
+      "ms": 5375257,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 361,
+      "ms": 4843704,
+      "dish": "Pies"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 477,
+      "ms": 4636758,
+      "dish": "Pies"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 342,
+      "ms": 5790347,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 256,
+      "ms": 4509036,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 430,
+      "ms": 2740845,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 184,
+      "ms": 3600086,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 530,
+      "ms": 3487992,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 341,
+      "ms": 3682456,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 243,
+      "ms": 3920215,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 245,
+      "ms": 5444570,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 261,
+      "ms": 4373096,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "521b2cb3-0fcf-4d7c-82c2-d50b1a2ece90",
+  "persona": "Ardent",
+  "names": [
+    "Ardent"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 294,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2925115,
+  "weeksActive": [
+    71,
+    75,
+    77
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 294,
+      "ms": 3807794,
+      "dish": "Pizza"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 293,
+      "ms": 4320797,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 263,
+      "ms": 2925115,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1f7dada8-d2cf-4000-8db0-28d8ed66ee9f",
+  "persona": "Lrrr",
+  "names": [
+    "Lrrr"
+  ],
+  "runs": 2,
+  "bestRank": 344,
+  "worstRank": 600,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2350249,
+  "weeksActive": [
+    -5,
+    64
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 600,
+      "ms": 6300746,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 344,
+      "ms": 2350249,
+      "dish": "Sundaes"
+    }
+  ]
+}

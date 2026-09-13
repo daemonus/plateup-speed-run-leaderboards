@@ -1,0 +1,58 @@
+{
+  "id": "7ac546da-a113-46cd-85bf-4cec7891efa8",
+  "persona": "7_Ember",
+  "names": [
+    "7_Ember"
+  ],
+  "runs": 5,
+  "bestRank": 145,
+  "worstRank": 451,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2806778,
+  "weeksActive": [
+    -64,
+    -60,
+    -59,
+    -19,
+    41
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 273,
+      "ms": 3895363,
+      "dish": "Salad"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 195,
+      "ms": 3539654,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 281,
+      "ms": 3359464,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 145,
+      "ms": 2963011,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 451,
+      "ms": 2806778,
+      "dish": "Turkey"
+    }
+  ]
+}

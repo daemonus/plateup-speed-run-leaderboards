@@ -1,0 +1,42 @@
+{
+  "id": "57f3d866-e55c-4200-88ca-670cf1975801",
+  "persona": "soaperstar",
+  "names": [
+    "soaperstar"
+  ],
+  "runs": 3,
+  "bestRank": 400,
+  "worstRank": 2429,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2808341,
+  "weeksActive": [
+    -93,
+    -75,
+    -21
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2429,
+      "ms": 3535897,
+      "dish": "Fish"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 400,
+      "ms": 2808341,
+      "dish": "Fish"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 462,
+      "ms": 4585273,
+      "dish": "Pizza"
+    }
+  ]
+}

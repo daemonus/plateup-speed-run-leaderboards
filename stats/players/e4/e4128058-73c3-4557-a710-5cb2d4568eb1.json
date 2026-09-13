@@ -1,0 +1,50 @@
+{
+  "id": "e4128058-73c3-4557-a710-5cb2d4568eb1",
+  "persona": "7LeafClover",
+  "names": [
+    "7LeafClover"
+  ],
+  "runs": 4,
+  "bestRank": 256,
+  "worstRank": 286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3644698,
+  "weeksActive": [
+    70,
+    71,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 256,
+      "ms": 4082178,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 272,
+      "ms": 3644698,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 286,
+      "ms": 3964791,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 265,
+      "ms": 4688065,
+      "dish": "Burgers"
+    }
+  ]
+}

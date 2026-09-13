@@ -1,0 +1,50 @@
+{
+  "id": "48854917-c7b0-4f11-b39f-26692e32dbfe",
+  "persona": "Nostraa",
+  "names": [
+    "Nostraa"
+  ],
+  "runs": 4,
+  "bestRank": 227,
+  "worstRank": 371,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3811351,
+  "weeksActive": [
+    16,
+    28,
+    44,
+    47
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 227,
+      "ms": 4041380,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 346,
+      "ms": 3811351,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 371,
+      "ms": 3912990,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 307,
+      "ms": 4473099,
+      "dish": "Pizza"
+    }
+  ]
+}

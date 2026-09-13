@@ -1,0 +1,82 @@
+{
+  "id": "5e2949f8-66a2-4efe-bb1b-d6cf5e493217",
+  "persona": "Camino",
+  "names": [
+    "Camino"
+  ],
+  "runs": 8,
+  "bestRank": 74,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2434165,
+  "weeksActive": [
+    -6,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 173,
+      "ms": 3390061,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 168,
+      "ms": 3831448,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 288,
+      "ms": 3132200,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 209,
+      "ms": 3214731,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 74,
+      "ms": 2896178,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 137,
+      "ms": 2908793,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 83,
+      "ms": 2753302,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 83,
+      "ms": 2434165,
+      "dish": "Pizza"
+    }
+  ]
+}

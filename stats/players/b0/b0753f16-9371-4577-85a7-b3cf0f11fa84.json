@@ -1,0 +1,34 @@
+{
+  "id": "b0753f16-9371-4577-85a7-b3cf0f11fa84",
+  "persona": "Abel",
+  "names": [
+    "Abel"
+  ],
+  "runs": 2,
+  "bestRank": 217,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2942379,
+  "weeksActive": [
+    -15,
+    -13
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 248,
+      "ms": 2942379,
+      "dish": "Fish"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 217,
+      "ms": 3578083,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

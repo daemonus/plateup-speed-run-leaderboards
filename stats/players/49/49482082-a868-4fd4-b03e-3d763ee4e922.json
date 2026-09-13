@@ -1,0 +1,34 @@
+{
+  "id": "49482082-a868-4fd4-b03e-3d763ee4e922",
+  "persona": "RoC-Leader",
+  "names": [
+    "RoC-Leader"
+  ],
+  "runs": 2,
+  "bestRank": 86,
+  "worstRank": 532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2461018,
+  "weeksActive": [
+    -4,
+    46
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 532,
+      "ms": 6346311,
+      "dish": "Pies"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 86,
+      "ms": 2461018,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ef85ee3e-96a4-474c-b8b7-a4c020f86c51",
+  "persona": "nono",
+  "names": [
+    "nono"
+  ],
+  "runs": 3,
+  "bestRank": 120,
+  "worstRank": 726,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3621828,
+  "weeksActive": [
+    -32,
+    -28,
+    -27
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 726,
+      "ms": 3973232,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 146,
+      "ms": 4206029,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 120,
+      "ms": 3621828,
+      "dish": "Salad"
+    }
+  ]
+}

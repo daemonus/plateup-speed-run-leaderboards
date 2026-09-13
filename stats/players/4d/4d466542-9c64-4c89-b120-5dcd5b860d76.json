@@ -1,0 +1,50 @@
+{
+  "id": "4d466542-9c64-4c89-b120-5dcd5b860d76",
+  "persona": "ctaylan",
+  "names": [
+    "ctaylan"
+  ],
+  "runs": 4,
+  "bestRank": 366,
+  "worstRank": 754,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4685677,
+  "weeksActive": [
+    -64,
+    -63,
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 366,
+      "ms": 4685677,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 609,
+      "ms": 5389643,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 424,
+      "ms": 5084185,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 754,
+      "ms": 7035254,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

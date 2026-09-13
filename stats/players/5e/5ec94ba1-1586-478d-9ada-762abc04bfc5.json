@@ -1,0 +1,42 @@
+{
+  "id": "5ec94ba1-1586-478d-9ada-762abc04bfc5",
+  "persona": "aziazu",
+  "names": [
+    "aziazu"
+  ],
+  "runs": 3,
+  "bestRank": 641,
+  "worstRank": 1627,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2886141,
+  "weeksActive": [
+    -93,
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1627,
+      "ms": 2886141,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1381,
+      "ms": 3531342,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 641,
+      "ms": 3455674,
+      "dish": "Fish"
+    }
+  ]
+}

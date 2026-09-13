@@ -1,0 +1,34 @@
+{
+  "id": "a8d0e28b-4031-4537-b581-6da0522b99b4",
+  "persona": "Chexican",
+  "names": [
+    "Chexican"
+  ],
+  "runs": 2,
+  "bestRank": 109,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1786906,
+  "weeksActive": [
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 256,
+      "ms": 1990763,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 109,
+      "ms": 1786906,
+      "dish": "Fish"
+    }
+  ]
+}

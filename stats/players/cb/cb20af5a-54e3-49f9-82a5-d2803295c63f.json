@@ -1,0 +1,34 @@
+{
+  "id": "cb20af5a-54e3-49f9-82a5-d2803295c63f",
+  "persona": "hDanial",
+  "names": [
+    "hDanial"
+  ],
+  "runs": 2,
+  "bestRank": 347,
+  "worstRank": 519,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4342342,
+  "weeksActive": [
+    -21,
+    5
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 519,
+      "ms": 5259638,
+      "dish": "Pizza"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 347,
+      "ms": 4342342,
+      "dish": "Breakfast"
+    }
+  ]
+}

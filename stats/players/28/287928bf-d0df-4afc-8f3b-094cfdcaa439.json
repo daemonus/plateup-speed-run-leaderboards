@@ -1,0 +1,50 @@
+{
+  "id": "287928bf-d0df-4afc-8f3b-094cfdcaa439",
+  "persona": "jenniferr.ludwig",
+  "names": [
+    "jenniferr.ludwig"
+  ],
+  "runs": 4,
+  "bestRank": 56,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1595616,
+  "weeksActive": [
+    -78,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 270,
+      "ms": 3199707,
+      "dish": "Burgers"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 91,
+      "ms": 2346569,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 93,
+      "ms": 1595616,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 56,
+      "ms": 3014620,
+      "dish": "Fajitas"
+    }
+  ]
+}

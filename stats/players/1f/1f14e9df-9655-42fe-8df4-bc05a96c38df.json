@@ -1,0 +1,50 @@
+{
+  "id": "1f14e9df-9655-42fe-8df4-bc05a96c38df",
+  "persona": "gmkairi3",
+  "names": [
+    "gmkairi3"
+  ],
+  "runs": 4,
+  "bestRank": 145,
+  "worstRank": 271,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2723511,
+  "weeksActive": [
+    12,
+    24,
+    46,
+    47
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 271,
+      "ms": 2723511,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 216,
+      "ms": 3135695,
+      "dish": "Pies"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 265,
+      "ms": 3292664,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 145,
+      "ms": 3188872,
+      "dish": "Pizza"
+    }
+  ]
+}

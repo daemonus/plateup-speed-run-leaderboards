@@ -1,0 +1,42 @@
+{
+  "id": "6623c008-9f16-477f-89be-0ff4d0bf513e",
+  "persona": "Ybhptas",
+  "names": [
+    "Ybhptas"
+  ],
+  "runs": 3,
+  "bestRank": 45,
+  "worstRank": 122,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1717401,
+  "weeksActive": [
+    19,
+    20,
+    28
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 122,
+      "ms": 3171128,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 74,
+      "ms": 1717401,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 45,
+      "ms": 1943264,
+      "dish": "Turkey"
+    }
+  ]
+}

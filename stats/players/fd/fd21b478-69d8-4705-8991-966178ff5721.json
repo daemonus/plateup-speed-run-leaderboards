@@ -1,0 +1,50 @@
+{
+  "id": "fd21b478-69d8-4705-8991-966178ff5721",
+  "persona": "xierni_blk",
+  "names": [
+    "xierni_blk"
+  ],
+  "runs": 4,
+  "bestRank": 163,
+  "worstRank": 778,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3525102,
+  "weeksActive": [
+    -24,
+    -23,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 192,
+      "ms": 4210483,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 163,
+      "ms": 3665998,
+      "dish": "Pizza"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 778,
+      "ms": 5457064,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 217,
+      "ms": 3525102,
+      "dish": "Breakfast"
+    }
+  ]
+}

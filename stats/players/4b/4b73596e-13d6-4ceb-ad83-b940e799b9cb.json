@@ -1,0 +1,42 @@
+{
+  "id": "4b73596e-13d6-4ceb-ad83-b940e799b9cb",
+  "persona": "\u516B\u53EAjio",
+  "names": [
+    "\u516B\u53EAjio"
+  ],
+  "runs": 3,
+  "bestRank": 224,
+  "worstRank": 577,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3526211,
+  "weeksActive": [
+    -83,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 376,
+      "ms": 3526211,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 577,
+      "ms": 3730770,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 224,
+      "ms": 3775256,
+      "dish": "Steak"
+    }
+  ]
+}

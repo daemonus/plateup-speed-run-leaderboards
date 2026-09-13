@@ -1,0 +1,34 @@
+{
+  "id": "6bd1def4-726f-4834-af15-c6ac15186fca",
+  "persona": "Cosmic Pizza",
+  "names": [
+    "Cosmic Pizza"
+  ],
+  "runs": 2,
+  "bestRank": 134,
+  "worstRank": 418,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2763098,
+  "weeksActive": [
+    -84,
+    -78
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 418,
+      "ms": 3260910,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 134,
+      "ms": 2763098,
+      "dish": "Burgers"
+    }
+  ]
+}

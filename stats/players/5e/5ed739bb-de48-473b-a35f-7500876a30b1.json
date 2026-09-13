@@ -1,0 +1,42 @@
+{
+  "id": "5ed739bb-de48-473b-a35f-7500876a30b1",
+  "persona": "USAGI",
+  "names": [
+    "USAGI"
+  ],
+  "runs": 3,
+  "bestRank": 43,
+  "worstRank": 158,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2154934,
+  "weeksActive": [
+    42,
+    46,
+    59
+  ],
+  "history": [
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 73,
+      "ms": 2522658,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 43,
+      "ms": 2154934,
+      "dish": "Pizza"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 158,
+      "ms": 3049202,
+      "dish": "Salad"
+    }
+  ]
+}

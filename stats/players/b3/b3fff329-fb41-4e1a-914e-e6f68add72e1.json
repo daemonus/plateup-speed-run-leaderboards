@@ -1,0 +1,42 @@
+{
+  "id": "b3fff329-fb41-4e1a-914e-e6f68add72e1",
+  "persona": "yosivaru",
+  "names": [
+    "yosivaru"
+  ],
+  "runs": 3,
+  "bestRank": 150,
+  "worstRank": 186,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3266923,
+  "weeksActive": [
+    10,
+    72,
+    73
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 150,
+      "ms": 3743533,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 186,
+      "ms": 3294310,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 180,
+      "ms": 3266923,
+      "dish": "Burgers"
+    }
+  ]
+}

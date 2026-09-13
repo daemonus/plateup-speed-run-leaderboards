@@ -1,0 +1,58 @@
+{
+  "id": "20bd0313-5244-40b5-9c24-9d815f28d684",
+  "persona": "Cream Sandwich",
+  "names": [
+    "Cream Sandwich"
+  ],
+  "runs": 5,
+  "bestRank": 75,
+  "worstRank": 318,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2675124,
+  "weeksActive": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 174,
+      "ms": 3801043,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 115,
+      "ms": 2818375,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 75,
+      "ms": 2675124,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 318,
+      "ms": 3322056,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 233,
+      "ms": 3634858,
+      "dish": "Breakfast"
+    }
+  ]
+}

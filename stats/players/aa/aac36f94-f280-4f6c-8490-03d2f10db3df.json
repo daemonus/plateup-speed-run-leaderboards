@@ -1,0 +1,50 @@
+{
+  "id": "aac36f94-f280-4f6c-8490-03d2f10db3df",
+  "persona": "spurs",
+  "names": [
+    "spurs"
+  ],
+  "runs": 4,
+  "bestRank": 296,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4289148,
+  "weeksActive": [
+    10,
+    13,
+    24,
+    26
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 296,
+      "ms": 5855398,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 666,
+      "ms": 4289148,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 474,
+      "ms": 4771135,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 402,
+      "ms": 6153912,
+      "dish": "Pizza"
+    }
+  ]
+}

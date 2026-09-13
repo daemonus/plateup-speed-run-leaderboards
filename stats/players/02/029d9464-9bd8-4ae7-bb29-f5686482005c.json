@@ -1,0 +1,50 @@
+{
+  "id": "029d9464-9bd8-4ae7-bb29-f5686482005c",
+  "persona": "DrinkBeer",
+  "names": [
+    "DrinkBeer"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3428269,
+  "weeksActive": [
+    5,
+    6,
+    7,
+    16
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 255,
+      "ms": 3838865,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 233,
+      "ms": 3621517,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 272,
+      "ms": 3428269,
+      "dish": "Fish"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 130,
+      "ms": 3487802,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6f8ecdeb-ffbf-4978-b5a1-617cb7a89da6",
+  "persona": "kensei",
+  "names": [
+    "kensei"
+  ],
+  "runs": 4,
+  "bestRank": 93,
+  "worstRank": 769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1899515,
+  "weeksActive": [
+    -39,
+    -38,
+    -37,
+    -26
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 769,
+      "ms": 10495101,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 93,
+      "ms": 1899515,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 399,
+      "ms": 3251430,
+      "dish": "Fish"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 192,
+      "ms": 3749527,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "096a725d-c3ac-4b78-b475-1f622f1b1271",
+  "persona": "NinjaGnome",
+  "names": [
+    "NinjaGnome"
+  ],
+  "runs": 4,
+  "bestRank": 69,
+  "worstRank": 482,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2179277,
+  "weeksActive": [
+    -55,
+    -53,
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 482,
+      "ms": 4720387,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 69,
+      "ms": 2913968,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 126,
+      "ms": 3729231,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 73,
+      "ms": 2179277,
+      "dish": "Turkey"
+    }
+  ]
+}

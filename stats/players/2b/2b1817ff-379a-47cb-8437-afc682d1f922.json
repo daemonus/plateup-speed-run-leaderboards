@@ -1,0 +1,50 @@
+{
+  "id": "2b1817ff-379a-47cb-8437-afc682d1f922",
+  "persona": "Momo",
+  "names": [
+    "Momo"
+  ],
+  "runs": 4,
+  "bestRank": 120,
+  "worstRank": 188,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2539162,
+  "weeksActive": [
+    -61,
+    -58,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 188,
+      "ms": 3058029,
+      "dish": "Fish"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 134,
+      "ms": 3733886,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 120,
+      "ms": 2539162,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 165,
+      "ms": 3080520,
+      "dish": "Pizza"
+    }
+  ]
+}

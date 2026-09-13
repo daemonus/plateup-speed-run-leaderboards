@@ -1,0 +1,34 @@
+{
+  "id": "05861e75-6819-4fff-986f-5a3d03dd9757",
+  "persona": "Alfax",
+  "names": [
+    "Alfax"
+  ],
+  "runs": 2,
+  "bestRank": 652,
+  "worstRank": 1278,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3787112,
+  "weeksActive": [
+    -94,
+    -92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1278,
+      "ms": 3787112,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 652,
+      "ms": 4013831,
+      "dish": "Steak"
+    }
+  ]
+}

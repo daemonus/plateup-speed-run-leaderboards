@@ -1,0 +1,42 @@
+{
+  "id": "50ef4d5c-eb82-4d68-b1a6-cf328b3601a2",
+  "persona": "cuckadoodle",
+  "names": [
+    "cuckadoodle"
+  ],
+  "runs": 3,
+  "bestRank": 406,
+  "worstRank": 2510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2916292,
+  "weeksActive": [
+    -94,
+    -93,
+    -71
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 556,
+      "ms": 2916292,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2510,
+      "ms": 3644027,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 406,
+      "ms": 3017607,
+      "dish": "Turkey"
+    }
+  ]
+}

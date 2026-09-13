@@ -1,0 +1,34 @@
+{
+  "id": "fd593d50-3969-4f56-99d7-b2a365f3aa33",
+  "persona": "oats",
+  "names": [
+    "oats"
+  ],
+  "runs": 2,
+  "bestRank": 82,
+  "worstRank": 102,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3022040,
+  "weeksActive": [
+    -49,
+    -47
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 82,
+      "ms": 3172204,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 102,
+      "ms": 3022040,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8e1f9e04-1a7b-4cb0-9d70-4165f707bf9d",
+  "persona": "a\u00EDla c:",
+  "names": [
+    "a\u00EDla c:"
+  ],
+  "runs": 3,
+  "bestRank": 385,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4186803,
+  "weeksActive": [
+    19,
+    21,
+    32
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 425,
+      "ms": 6025799,
+      "dish": "Pizza"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 385,
+      "ms": 4186803,
+      "dish": "Burgers"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 399,
+      "ms": 5757674,
+      "dish": "Pies"
+    }
+  ]
+}

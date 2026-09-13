@@ -1,0 +1,42 @@
+{
+  "id": "27619793-d310-434d-ad21-bf0153462d94",
+  "persona": "Dorichu",
+  "names": [
+    "Dorichu"
+  ],
+  "runs": 3,
+  "bestRank": 390,
+  "worstRank": 1150,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4375869,
+  "weeksActive": [
+    -75,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 1012,
+      "ms": 5024143,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1150,
+      "ms": 5201888,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 390,
+      "ms": 4375869,
+      "dish": "Breakfast"
+    }
+  ]
+}

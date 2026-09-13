@@ -1,0 +1,42 @@
+{
+  "id": "c255a737-a37f-4496-a95f-b8a45e2caca7",
+  "persona": "StillOweMeCHIPS",
+  "names": [
+    "StillOweMeCHIPS"
+  ],
+  "runs": 3,
+  "bestRank": 205,
+  "worstRank": 526,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2785513,
+  "weeksActive": [
+    -77,
+    -76,
+    18
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 205,
+      "ms": 2785513,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 526,
+      "ms": 3296909,
+      "dish": "Turkey"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 277,
+      "ms": 5160659,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

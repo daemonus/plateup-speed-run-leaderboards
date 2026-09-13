@@ -1,0 +1,50 @@
+{
+  "id": "3cbb69e9-bcbb-4246-984b-9a9028683ccf",
+  "persona": "WhiSplash",
+  "names": [
+    "WhiSplash"
+  ],
+  "runs": 4,
+  "bestRank": 123,
+  "worstRank": 670,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1771921,
+  "weeksActive": [
+    82,
+    83,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 349,
+      "ms": 3763401,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 670,
+      "ms": 3711198,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 260,
+      "ms": 3430261,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 123,
+      "ms": 1771921,
+      "dish": "Sundaes"
+    }
+  ]
+}

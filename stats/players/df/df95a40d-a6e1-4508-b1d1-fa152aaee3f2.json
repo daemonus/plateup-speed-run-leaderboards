@@ -1,0 +1,42 @@
+{
+  "id": "df95a40d-a6e1-4508-b1d1-fa152aaee3f2",
+  "persona": "AKI",
+  "names": [
+    "AKI"
+  ],
+  "runs": 3,
+  "bestRank": 231,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3623323,
+  "weeksActive": [
+    -78,
+    -47,
+    -20
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 406,
+      "ms": 3915781,
+      "dish": "Burgers"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 231,
+      "ms": 3623323,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 316,
+      "ms": 3812344,
+      "dish": "Burgers"
+    }
+  ]
+}

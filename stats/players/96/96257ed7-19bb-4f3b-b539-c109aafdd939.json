@@ -1,0 +1,42 @@
+{
+  "id": "96257ed7-19bb-4f3b-b539-c109aafdd939",
+  "persona": "Pirkins",
+  "names": [
+    "Pirkins"
+  ],
+  "runs": 3,
+  "bestRank": 113,
+  "worstRank": 182,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2203030,
+  "weeksActive": [
+    -92,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 113,
+      "ms": 2252137,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 182,
+      "ms": 2203030,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 155,
+      "ms": 3327081,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "55719f78-40d2-4cae-ab0a-39bd1b03cef4",
+  "persona": "Curtismo",
+  "names": [
+    "Curtismo"
+  ],
+  "runs": 3,
+  "bestRank": 468,
+  "worstRank": 638,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3425998,
+  "weeksActive": [
+    -39,
+    -37,
+    -32
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 638,
+      "ms": 4287175,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 468,
+      "ms": 3425998,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 506,
+      "ms": 3527336,
+      "dish": "Breakfast"
+    }
+  ]
+}

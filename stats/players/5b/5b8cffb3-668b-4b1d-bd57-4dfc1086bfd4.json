@@ -1,0 +1,34 @@
+{
+  "id": "5b8cffb3-668b-4b1d-bd57-4dfc1086bfd4",
+  "persona": "Dinopony",
+  "names": [
+    "Dinopony"
+  ],
+  "runs": 2,
+  "bestRank": 355,
+  "worstRank": 582,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4037619,
+  "weeksActive": [
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 582,
+      "ms": 4037619,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 355,
+      "ms": 4419556,
+      "dish": "Breakfast"
+    }
+  ]
+}

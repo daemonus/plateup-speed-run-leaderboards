@@ -1,0 +1,34 @@
+{
+  "id": "decb181e-7dfd-4dbb-8e5c-729844d70d3c",
+  "persona": "Mugen",
+  "names": [
+    "Mugen"
+  ],
+  "runs": 2,
+  "bestRank": 255,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3851872,
+  "weeksActive": [
+    24,
+    26
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 425,
+      "ms": 4452419,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 255,
+      "ms": 3851872,
+      "dish": "Pizza"
+    }
+  ]
+}

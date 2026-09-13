@@ -1,0 +1,34 @@
+{
+  "id": "4119ca63-d11e-4ab4-9391-e96e44090a18",
+  "persona": "Truvenart",
+  "names": [
+    "Truvenart"
+  ],
+  "runs": 2,
+  "bestRank": 105,
+  "worstRank": 400,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3199332,
+  "weeksActive": [
+    -55,
+    39
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 400,
+      "ms": 4136993,
+      "dish": "Pizza"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 105,
+      "ms": 3199332,
+      "dish": "Stir Fry"
+    }
+  ]
+}

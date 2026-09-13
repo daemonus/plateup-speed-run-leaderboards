@@ -1,0 +1,74 @@
+{
+  "id": "a74c5211-a6d5-4fb5-b83a-caf35e8e74aa",
+  "persona": "YAMPY",
+  "names": [
+    "YAMPY"
+  ],
+  "runs": 7,
+  "bestRank": 5,
+  "worstRank": 61,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1249308,
+  "weeksActive": [
+    -89,
+    -88,
+    -87,
+    -86,
+    -85,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 29,
+      "ms": 1372854,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 11,
+      "ms": 1502447,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 16,
+      "ms": 1765506,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 28,
+      "ms": 1281694,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 11,
+      "ms": 1648234,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 5,
+      "ms": 1249308,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 61,
+      "ms": 2208701,
+      "dish": "Steak"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "34e7e606-b141-44fc-bd72-59e15c3bb35f",
+  "persona": "KRYONIC",
+  "names": [
+    "KRYONIC"
+  ],
+  "runs": 5,
+  "bestRank": 137,
+  "worstRank": 273,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2508623,
+  "weeksActive": [
+    -67,
+    -56,
+    -55,
+    8,
+    53
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 150,
+      "ms": 3252494,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 137,
+      "ms": 2652930,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 273,
+      "ms": 3549277,
+      "dish": "Pizza"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 212,
+      "ms": 2508623,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 137,
+      "ms": 2893451,
+      "dish": "Pies"
+    }
+  ]
+}

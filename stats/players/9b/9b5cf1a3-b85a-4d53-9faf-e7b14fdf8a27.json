@@ -1,0 +1,74 @@
+{
+  "id": "9b5cf1a3-b85a-4d53-9faf-e7b14fdf8a27",
+  "persona": "Nooni",
+  "names": [
+    "Nooni"
+  ],
+  "runs": 7,
+  "bestRank": 68,
+  "worstRank": 328,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1832149,
+  "weeksActive": [
+    5,
+    6,
+    7,
+    8,
+    19,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 328,
+      "ms": 4244219,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 133,
+      "ms": 2978453,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 68,
+      "ms": 2447090,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 105,
+      "ms": 2059723,
+      "dish": "Fish"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 244,
+      "ms": 3902651,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 100,
+      "ms": 1832149,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 91,
+      "ms": 2434151,
+      "dish": "Burgers"
+    }
+  ]
+}

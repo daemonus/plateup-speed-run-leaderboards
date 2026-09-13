@@ -1,0 +1,82 @@
+{
+  "id": "fa50aba1-ecb0-489f-a8b0-76e07466d436",
+  "persona": "Prime",
+  "names": [
+    "Prime"
+  ],
+  "runs": 8,
+  "bestRank": 108,
+  "worstRank": 296,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2656972,
+  "weeksActive": [
+    -68,
+    -40,
+    -33,
+    -32,
+    -31,
+    -17,
+    -16,
+    31
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 108,
+      "ms": 3201364,
+      "dish": "Salad"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 159,
+      "ms": 3917426,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 116,
+      "ms": 2941690,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 160,
+      "ms": 2691640,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 194,
+      "ms": 2975920,
+      "dish": "Pies"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 128,
+      "ms": 2764890,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 160,
+      "ms": 2656972,
+      "dish": "Pies"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 296,
+      "ms": 3345333,
+      "dish": "Fish"
+    }
+  ]
+}

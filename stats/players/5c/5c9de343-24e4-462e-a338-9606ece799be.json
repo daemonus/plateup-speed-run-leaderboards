@@ -1,0 +1,34 @@
+{
+  "id": "5c9de343-24e4-462e-a338-9606ece799be",
+  "persona": "DAC",
+  "names": [
+    "DAC"
+  ],
+  "runs": 2,
+  "bestRank": 150,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3377331,
+  "weeksActive": [
+    -27,
+    -5
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 222,
+      "ms": 4541601,
+      "dish": "Salad"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 150,
+      "ms": 3377331,
+      "dish": "Pizza"
+    }
+  ]
+}

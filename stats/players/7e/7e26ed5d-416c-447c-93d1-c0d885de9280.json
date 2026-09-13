@@ -1,0 +1,34 @@
+{
+  "id": "7e26ed5d-416c-447c-93d1-c0d885de9280",
+  "persona": "Jamie",
+  "names": [
+    "Jamie"
+  ],
+  "runs": 2,
+  "bestRank": 165,
+  "worstRank": 482,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1699029,
+  "weeksActive": [
+    -94,
+    -93
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 482,
+      "ms": 2821535,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 165,
+      "ms": 1699029,
+      "dish": "Fish"
+    }
+  ]
+}

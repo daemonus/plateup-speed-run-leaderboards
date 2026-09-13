@@ -1,0 +1,42 @@
+{
+  "id": "560d35e4-9c94-4d34-809c-f39fc071103f",
+  "persona": "Jens",
+  "names": [
+    "Jens"
+  ],
+  "runs": 3,
+  "bestRank": 286,
+  "worstRank": 749,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3584578,
+  "weeksActive": [
+    15,
+    63,
+    74
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 494,
+      "ms": 3584578,
+      "dish": "Turkey"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 749,
+      "ms": 6031924,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 286,
+      "ms": 4637112,
+      "dish": "Breakfast"
+    }
+  ]
+}

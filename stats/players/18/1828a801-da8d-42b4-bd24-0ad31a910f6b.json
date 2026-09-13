@@ -1,0 +1,66 @@
+{
+  "id": "1828a801-da8d-42b4-bd24-0ad31a910f6b",
+  "persona": "Deinart",
+  "names": [
+    "Deinart"
+  ],
+  "runs": 6,
+  "bestRank": 135,
+  "worstRank": 380,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2415070,
+  "weeksActive": [
+    13,
+    15,
+    32,
+    35,
+    50,
+    55
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 380,
+      "ms": 3237305,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 201,
+      "ms": 2415070,
+      "dish": "Turkey"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 136,
+      "ms": 2927674,
+      "dish": "Pies"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 170,
+      "ms": 3080705,
+      "dish": "Fish"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 135,
+      "ms": 3881659,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 141,
+      "ms": 3416222,
+      "dish": "Stir Fry"
+    }
+  ]
+}

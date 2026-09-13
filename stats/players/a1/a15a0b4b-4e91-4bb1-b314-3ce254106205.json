@@ -1,0 +1,34 @@
+{
+  "id": "a15a0b4b-4e91-4bb1-b314-3ce254106205",
+  "persona": "Manuel",
+  "names": [
+    "Manuel"
+  ],
+  "runs": 2,
+  "bestRank": 49,
+  "worstRank": 141,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2624936,
+  "weeksActive": [
+    -32,
+    -24
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 141,
+      "ms": 2624936,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 49,
+      "ms": 2635181,
+      "dish": "Breakfast"
+    }
+  ]
+}

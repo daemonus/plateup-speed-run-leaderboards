@@ -1,0 +1,50 @@
+{
+  "id": "665e56e0-a0cf-45ad-9692-f2c6822d4490",
+  "persona": "Bax_Bunny",
+  "names": [
+    "Bax_Bunny"
+  ],
+  "runs": 4,
+  "bestRank": 13,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1946081,
+  "weeksActive": [
+    -76,
+    -75,
+    -73,
+    -72
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 496,
+      "ms": 3230400,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 122,
+      "ms": 1946081,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 13,
+      "ms": 2478569,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 180,
+      "ms": 3029828,
+      "dish": "Pies"
+    }
+  ]
+}

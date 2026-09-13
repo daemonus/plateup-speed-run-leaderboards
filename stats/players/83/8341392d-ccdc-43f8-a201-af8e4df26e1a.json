@@ -1,0 +1,66 @@
+{
+  "id": "8341392d-ccdc-43f8-a201-af8e4df26e1a",
+  "persona": "\u5C31\u505A\u5C0F\u7B28\u86CB",
+  "names": [
+    "\u5C31\u505A\u5C0F\u7B28\u86CB"
+  ],
+  "runs": 6,
+  "bestRank": 375,
+  "worstRank": 626,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2883042,
+  "weeksActive": [
+    -55,
+    -39,
+    -38,
+    -34,
+    -30,
+    39
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 396,
+      "ms": 4100226,
+      "dish": "Pizza"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 375,
+      "ms": 3283867,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 377,
+      "ms": 2883042,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 455,
+      "ms": 4505930,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 626,
+      "ms": 3548443,
+      "dish": "Turkey"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 380,
+      "ms": 12093339,
+      "dish": "Stir Fry"
+    }
+  ]
+}

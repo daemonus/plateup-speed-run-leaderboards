@@ -1,0 +1,34 @@
+{
+  "id": "42746554-bbc9-47b6-8f38-b3f1bf38cb67",
+  "persona": "\uD835\uDCAF\uD835\uDC5C\uD835\uDCCD\uD835\uDCBE\uD835\uDCB8",
+  "names": [
+    "\uD835\uDCAF\uD835\uDC5C\uD835\uDCCD\uD835\uDCBE\uD835\uDCB8"
+  ],
+  "runs": 2,
+  "bestRank": 232,
+  "worstRank": 303,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3057225,
+  "weeksActive": [
+    -2,
+    3
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 303,
+      "ms": 3554815,
+      "dish": "Pizza"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 232,
+      "ms": 3057225,
+      "dish": "Fish"
+    }
+  ]
+}

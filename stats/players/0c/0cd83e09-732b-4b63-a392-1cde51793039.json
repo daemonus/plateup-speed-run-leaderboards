@@ -1,0 +1,42 @@
+{
+  "id": "0cd83e09-732b-4b63-a392-1cde51793039",
+  "persona": "\u8FD9\u662FPing\u7684\u5C0F\u53F7",
+  "names": [
+    "\u8FD9\u662FPing\u7684\u5C0F\u53F7"
+  ],
+  "runs": 3,
+  "bestRank": 237,
+  "worstRank": 489,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3051008,
+  "weeksActive": [
+    -87,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 337,
+      "ms": 3438531,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 489,
+      "ms": 3051008,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 237,
+      "ms": 4190018,
+      "dish": "Stir Fry"
+    }
+  ]
+}

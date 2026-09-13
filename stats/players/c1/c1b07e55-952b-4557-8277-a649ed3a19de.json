@@ -1,0 +1,34 @@
+{
+  "id": "c1b07e55-952b-4557-8277-a649ed3a19de",
+  "persona": "Cilly",
+  "names": [
+    "Cilly"
+  ],
+  "runs": 2,
+  "bestRank": 221,
+  "worstRank": 1427,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1939062,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1427,
+      "ms": 2746371,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 221,
+      "ms": 1939062,
+      "dish": "Fish"
+    }
+  ]
+}

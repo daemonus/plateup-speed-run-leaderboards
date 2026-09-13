@@ -1,0 +1,34 @@
+{
+  "id": "9d4173c4-c152-4cfd-869a-805a750f9500",
+  "persona": "Addiction",
+  "names": [
+    "Addiction"
+  ],
+  "runs": 2,
+  "bestRank": 198,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2772404,
+  "weeksActive": [
+    -52,
+    -51
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 198,
+      "ms": 5068559,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 222,
+      "ms": 2772404,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b4474147-a022-431a-aff8-b34fa27e3465",
+  "persona": "PhyllidaCrane",
+  "names": [
+    "PhyllidaCrane"
+  ],
+  "runs": 4,
+  "bestRank": 93,
+  "worstRank": 470,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2728947,
+  "weeksActive": [
+    -54,
+    -39,
+    -37,
+    -34
+  ],
+  "history": [
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 93,
+      "ms": 3609880,
+      "dish": "Salad"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 470,
+      "ms": 3586322,
+      "dish": "Pizza"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 224,
+      "ms": 2728947,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 357,
+      "ms": 3766463,
+      "dish": "Pies"
+    }
+  ]
+}

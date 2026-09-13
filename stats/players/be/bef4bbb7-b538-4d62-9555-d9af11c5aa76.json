@@ -1,0 +1,50 @@
+{
+  "id": "bef4bbb7-b538-4d62-9555-d9af11c5aa76",
+  "persona": "barrientos538",
+  "names": [
+    "barrientos538"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 366,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2244422,
+  "weeksActive": [
+    21,
+    22,
+    23,
+    65
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 191,
+      "ms": 2999406,
+      "dish": "Burgers"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 190,
+      "ms": 3455994,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 130,
+      "ms": 2244422,
+      "dish": "Turkey"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 366,
+      "ms": 4871301,
+      "dish": "Pizza"
+    }
+  ]
+}

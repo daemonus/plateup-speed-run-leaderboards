@@ -1,0 +1,82 @@
+{
+  "id": "559cbc82-163c-4ced-b2e1-cd33db905780",
+  "persona": "Swiftix",
+  "names": [
+    "Swiftix"
+  ],
+  "runs": 8,
+  "bestRank": 120,
+  "worstRank": 765,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2525155,
+  "weeksActive": [
+    -89,
+    -75,
+    -74,
+    7,
+    8,
+    11,
+    12,
+    69
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 765,
+      "ms": 3778866,
+      "dish": "Pies"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 296,
+      "ms": 2525155,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 120,
+      "ms": 2726530,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 298,
+      "ms": 3565312,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 271,
+      "ms": 2700220,
+      "dish": "Fish"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 237,
+      "ms": 4232991,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 354,
+      "ms": 3084662,
+      "dish": "Turkey"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 265,
+      "ms": 4509008,
+      "dish": "Burgers"
+    }
+  ]
+}

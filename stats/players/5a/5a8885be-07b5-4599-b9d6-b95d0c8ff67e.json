@@ -1,0 +1,42 @@
+{
+  "id": "5a8885be-07b5-4599-b9d6-b95d0c8ff67e",
+  "persona": "Ammi",
+  "names": [
+    "Ammi"
+  ],
+  "runs": 3,
+  "bestRank": 193,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2584598,
+  "weeksActive": [
+    -91,
+    -63,
+    -62
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 706,
+      "ms": 2584598,
+      "dish": "Fish"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 193,
+      "ms": 3287765,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 203,
+      "ms": 3139528,
+      "dish": "Breakfast"
+    }
+  ]
+}

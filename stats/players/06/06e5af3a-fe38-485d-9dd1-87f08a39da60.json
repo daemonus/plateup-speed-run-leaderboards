@@ -1,0 +1,42 @@
+{
+  "id": "06e5af3a-fe38-485d-9dd1-87f08a39da60",
+  "persona": "misako.todo",
+  "names": [
+    "misako.todo"
+  ],
+  "runs": 3,
+  "bestRank": 104,
+  "worstRank": 193,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2569820,
+  "weeksActive": [
+    24,
+    28,
+    31
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 104,
+      "ms": 2569820,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 193,
+      "ms": 2789208,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 153,
+      "ms": 2675881,
+      "dish": "Fish"
+    }
+  ]
+}

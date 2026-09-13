@@ -1,0 +1,34 @@
+{
+  "id": "2d8d9a27-2899-4826-bfa7-4c323e548cab",
+  "persona": "dr. Lepton",
+  "names": [
+    "dr. Lepton"
+  ],
+  "runs": 2,
+  "bestRank": 201,
+  "worstRank": 415,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3043627,
+  "weeksActive": [
+    8,
+    9
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 415,
+      "ms": 3080960,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 201,
+      "ms": 3043627,
+      "dish": "Breakfast"
+    }
+  ]
+}

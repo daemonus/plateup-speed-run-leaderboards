@@ -1,0 +1,138 @@
+{
+  "id": "4550eb7d-8804-4386-b2d9-9a79bf45b873",
+  "persona": "pallas",
+  "names": [
+    "pallas"
+  ],
+  "runs": 15,
+  "bestRank": 12,
+  "worstRank": 248,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1045790,
+  "weeksActive": [
+    28,
+    31,
+    32,
+    34,
+    35,
+    36,
+    38,
+    40,
+    41,
+    43,
+    44,
+    50,
+    52,
+    56,
+    64
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 248,
+      "ms": 3099736,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 113,
+      "ms": 2456696,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 60,
+      "ms": 2279111,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 21,
+      "ms": 2354197,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 41,
+      "ms": 2195824,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 32,
+      "ms": 1827632,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 21,
+      "ms": 1851765,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 76,
+      "ms": 2712631,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 22,
+      "ms": 1124257,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 12,
+      "ms": 1539350,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 57,
+      "ms": 2239249,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 19,
+      "ms": 2366721,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 14,
+      "ms": 1585961,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 35,
+      "ms": 1161014,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 17,
+      "ms": 1045790,
+      "dish": "Sundaes"
+    }
+  ]
+}

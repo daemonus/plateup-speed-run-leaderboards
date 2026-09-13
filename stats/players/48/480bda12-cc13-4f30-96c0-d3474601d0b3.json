@@ -1,0 +1,50 @@
+{
+  "id": "480bda12-cc13-4f30-96c0-d3474601d0b3",
+  "persona": "Pierre",
+  "names": [
+    "Pierre"
+  ],
+  "runs": 4,
+  "bestRank": 262,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2442864,
+  "weeksActive": [
+    15,
+    16,
+    17,
+    20
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 566,
+      "ms": 3923731,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 320,
+      "ms": 4544123,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 262,
+      "ms": 4732472,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 271,
+      "ms": 2442864,
+      "dish": "Turkey"
+    }
+  ]
+}

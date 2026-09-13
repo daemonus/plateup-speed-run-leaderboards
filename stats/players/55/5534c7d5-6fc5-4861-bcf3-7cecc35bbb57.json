@@ -1,0 +1,42 @@
+{
+  "id": "5534c7d5-6fc5-4861-bcf3-7cecc35bbb57",
+  "persona": "Sorry im drunk",
+  "names": [
+    "Sorry im drunk"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 360,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3422473,
+  "weeksActive": [
+    21,
+    25,
+    28
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 360,
+      "ms": 4033663,
+      "dish": "Burgers"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 125,
+      "ms": 4189701,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 299,
+      "ms": 3422473,
+      "dish": "Turkey"
+    }
+  ]
+}

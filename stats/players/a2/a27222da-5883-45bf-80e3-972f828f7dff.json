@@ -1,0 +1,42 @@
+{
+  "id": "a27222da-5883-45bf-80e3-972f828f7dff",
+  "persona": "scusi",
+  "names": [
+    "scusi"
+  ],
+  "runs": 3,
+  "bestRank": 338,
+  "worstRank": 452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3551087,
+  "weeksActive": [
+    -56,
+    -53,
+    -47
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 338,
+      "ms": 3551087,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 349,
+      "ms": 4887743,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 452,
+      "ms": 5462922,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2e40ca3e-faec-431b-9468-22d4024cf6b8",
+  "persona": "meowmeowmeowmeow",
+  "names": [
+    "meowmeowmeowmeow"
+  ],
+  "runs": 3,
+  "bestRank": 222,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4362219,
+  "weeksActive": [
+    16,
+    17,
+    18
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 536,
+      "ms": 6954910,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 276,
+      "ms": 5111898,
+      "dish": "Pizza"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 222,
+      "ms": 4362219,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

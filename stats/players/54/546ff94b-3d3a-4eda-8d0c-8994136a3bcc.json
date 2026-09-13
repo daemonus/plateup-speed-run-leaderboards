@@ -1,0 +1,42 @@
+{
+  "id": "546ff94b-3d3a-4eda-8d0c-8994136a3bcc",
+  "persona": "xx",
+  "names": [
+    "xx"
+  ],
+  "runs": 3,
+  "bestRank": 171,
+  "worstRank": 610,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3039286,
+  "weeksActive": [
+    47,
+    49,
+    64
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 180,
+      "ms": 3512300,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 171,
+      "ms": 5463693,
+      "dish": "Burgers"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 610,
+      "ms": 3039286,
+      "dish": "Sundaes"
+    }
+  ]
+}

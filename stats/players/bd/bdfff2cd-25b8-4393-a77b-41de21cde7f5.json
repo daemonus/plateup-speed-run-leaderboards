@@ -1,0 +1,50 @@
+{
+  "id": "bdfff2cd-25b8-4393-a77b-41de21cde7f5",
+  "persona": "Todorus",
+  "names": [
+    "Todorus"
+  ],
+  "runs": 4,
+  "bestRank": 158,
+  "worstRank": 832,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2322126,
+  "weeksActive": [
+    -30,
+    55,
+    56,
+    84
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 677,
+      "ms": 3677832,
+      "dish": "Turkey"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 158,
+      "ms": 3524732,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 832,
+      "ms": 4030866,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 294,
+      "ms": 2322126,
+      "dish": "Sundaes"
+    }
+  ]
+}

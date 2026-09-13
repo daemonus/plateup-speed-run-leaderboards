@@ -1,0 +1,42 @@
+{
+  "id": "19c0d14d-a9cf-43a8-b89c-390b16d3d10a",
+  "persona": "\u3147\u3148",
+  "names": [
+    "\u3147\u3148"
+  ],
+  "runs": 3,
+  "bestRank": 190,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2577884,
+  "weeksActive": [
+    8,
+    77,
+    78
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 432,
+      "ms": 3128029,
+      "dish": "Fish"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 190,
+      "ms": 2577884,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 236,
+      "ms": 3407632,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

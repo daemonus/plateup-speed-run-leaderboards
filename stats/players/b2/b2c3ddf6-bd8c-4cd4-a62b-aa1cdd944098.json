@@ -1,0 +1,34 @@
+{
+  "id": "b2c3ddf6-bd8c-4cd4-a62b-aa1cdd944098",
+  "persona": "gmes",
+  "names": [
+    "gmes"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 333,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1954592,
+  "weeksActive": [
+    9,
+    12
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 333,
+      "ms": 3640866,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 110,
+      "ms": 1954592,
+      "dish": "Turkey"
+    }
+  ]
+}

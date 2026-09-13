@@ -1,0 +1,42 @@
+{
+  "id": "f7289e4c-5770-4bee-a4f5-3eff664edd7f",
+  "persona": "gabe_37",
+  "names": [
+    "gabe_37"
+  ],
+  "runs": 3,
+  "bestRank": 384,
+  "worstRank": 548,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2877932,
+  "weeksActive": [
+    -59,
+    16,
+    20
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 548,
+      "ms": 4420164,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 392,
+      "ms": 4950742,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 384,
+      "ms": 2877932,
+      "dish": "Turkey"
+    }
+  ]
+}

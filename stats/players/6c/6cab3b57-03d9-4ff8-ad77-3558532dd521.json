@@ -1,0 +1,42 @@
+{
+  "id": "6cab3b57-03d9-4ff8-ad77-3558532dd521",
+  "persona": "mourners",
+  "names": [
+    "mourners"
+  ],
+  "runs": 3,
+  "bestRank": 49,
+  "worstRank": 142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2101661,
+  "weeksActive": [
+    40,
+    58,
+    63
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 142,
+      "ms": 3225919,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 76,
+      "ms": 2197737,
+      "dish": "Turkey"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 49,
+      "ms": 2101661,
+      "dish": "Pizza"
+    }
+  ]
+}

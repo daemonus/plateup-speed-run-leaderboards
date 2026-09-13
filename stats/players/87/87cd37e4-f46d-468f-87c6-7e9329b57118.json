@@ -1,0 +1,50 @@
+{
+  "id": "87cd37e4-f46d-468f-87c6-7e9329b57118",
+  "persona": "emfoppe",
+  "names": [
+    "emfoppe"
+  ],
+  "runs": 4,
+  "bestRank": 121,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2809001,
+  "weeksActive": [
+    -81,
+    -80,
+    -79,
+    -26
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 146,
+      "ms": 3288813,
+      "dish": "Steak"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 129,
+      "ms": 3213588,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 121,
+      "ms": 2809001,
+      "dish": "Pies"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 197,
+      "ms": 3777730,
+      "dish": "Breakfast"
+    }
+  ]
+}

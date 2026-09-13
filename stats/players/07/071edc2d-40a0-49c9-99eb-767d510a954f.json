@@ -1,0 +1,34 @@
+{
+  "id": "071edc2d-40a0-49c9-99eb-767d510a954f",
+  "persona": "Buffalo",
+  "names": [
+    "Buffalo"
+  ],
+  "runs": 2,
+  "bestRank": 478,
+  "worstRank": 763,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2696562,
+  "weeksActive": [
+    63,
+    64
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 763,
+      "ms": 6990666,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 478,
+      "ms": 2696562,
+      "dish": "Sundaes"
+    }
+  ]
+}

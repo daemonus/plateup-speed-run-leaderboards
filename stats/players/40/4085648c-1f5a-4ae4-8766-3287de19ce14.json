@@ -1,0 +1,50 @@
+{
+  "id": "4085648c-1f5a-4ae4-8766-3287de19ce14",
+  "persona": "David L.",
+  "names": [
+    "David L."
+  ],
+  "runs": 4,
+  "bestRank": 209,
+  "worstRank": 777,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2850500,
+  "weeksActive": [
+    8,
+    9,
+    10,
+    52
+  ],
+  "history": [
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 777,
+      "ms": 4002561,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 422,
+      "ms": 4248734,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 209,
+      "ms": 4317390,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 251,
+      "ms": 2850500,
+      "dish": "Fish"
+    }
+  ]
+}

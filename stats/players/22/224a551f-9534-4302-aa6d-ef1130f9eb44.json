@@ -1,0 +1,34 @@
+{
+  "id": "224a551f-9534-4302-aa6d-ef1130f9eb44",
+  "persona": "Mersury",
+  "names": [
+    "Mersury"
+  ],
+  "runs": 2,
+  "bestRank": 248,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3587924,
+  "weeksActive": [
+    10,
+    15
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 248,
+      "ms": 4766376,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 496,
+      "ms": 3587924,
+      "dish": "Turkey"
+    }
+  ]
+}

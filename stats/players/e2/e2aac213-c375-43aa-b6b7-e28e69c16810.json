@@ -1,0 +1,58 @@
+{
+  "id": "e2aac213-c375-43aa-b6b7-e28e69c16810",
+  "persona": "Monster7",
+  "names": [
+    "Monster7"
+  ],
+  "runs": 5,
+  "bestRank": 5,
+  "worstRank": 20,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 3,
+  "bestMs": 1050058,
+  "weeksActive": [
+    -94,
+    -91,
+    -90,
+    -89,
+    -76
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 5,
+      "ms": 1181113,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 8,
+      "ms": 1131363,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 19,
+      "ms": 1298649,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 20,
+      "ms": 1251677,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 6,
+      "ms": 1050058,
+      "dish": "Turkey"
+    }
+  ]
+}

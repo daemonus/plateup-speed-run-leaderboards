@@ -1,0 +1,34 @@
+{
+  "id": "8b93367b-1053-423b-b6f4-4831daa461a7",
+  "persona": "minmin",
+  "names": [
+    "minmin"
+  ],
+  "runs": 2,
+  "bestRank": 195,
+  "worstRank": 208,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3056479,
+  "weeksActive": [
+    81,
+    85
+  ],
+  "history": [
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 195,
+      "ms": 3625122,
+      "dish": "Pizza"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 208,
+      "ms": 3056479,
+      "dish": "Fish"
+    }
+  ]
+}

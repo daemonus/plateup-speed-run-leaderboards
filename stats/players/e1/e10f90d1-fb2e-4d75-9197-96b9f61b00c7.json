@@ -1,0 +1,50 @@
+{
+  "id": "e10f90d1-fb2e-4d75-9197-96b9f61b00c7",
+  "persona": "missilettee",
+  "names": [
+    "missilettee"
+  ],
+  "runs": 4,
+  "bestRank": 83,
+  "worstRank": 356,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2040401,
+  "weeksActive": [
+    -22,
+    -20,
+    8,
+    31
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 83,
+      "ms": 3210937,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 91,
+      "ms": 2855125,
+      "dish": "Burgers"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 98,
+      "ms": 2040401,
+      "dish": "Fish"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 356,
+      "ms": 3564538,
+      "dish": "Fish"
+    }
+  ]
+}

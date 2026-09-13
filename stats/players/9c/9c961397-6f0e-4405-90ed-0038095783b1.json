@@ -1,0 +1,42 @@
+{
+  "id": "9c961397-6f0e-4405-90ed-0038095783b1",
+  "persona": "nunuchi",
+  "names": [
+    "nunuchi"
+  ],
+  "runs": 3,
+  "bestRank": 208,
+  "worstRank": 917,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2947197,
+  "weeksActive": [
+    41,
+    42,
+    56
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 483,
+      "ms": 2947197,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 208,
+      "ms": 3888961,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 917,
+      "ms": 5165572,
+      "dish": "Sundaes"
+    }
+  ]
+}

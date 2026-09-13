@@ -1,0 +1,42 @@
+{
+  "id": "baac11e0-e21e-45ee-a612-5b623dbd3378",
+  "persona": "nehir",
+  "names": [
+    "nehir"
+  ],
+  "runs": 3,
+  "bestRank": 631,
+  "worstRank": 1374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3517361,
+  "weeksActive": [
+    -92,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 631,
+      "ms": 3926286,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1374,
+      "ms": 3517361,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1077,
+      "ms": 4057859,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0c81927c-e0eb-4549-b836-96363fd0b906",
+  "persona": "EnergyChao",
+  "names": [
+    "EnergyChao"
+  ],
+  "runs": 3,
+  "bestRank": 399,
+  "worstRank": 509,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5684398,
+  "weeksActive": [
+    5,
+    6,
+    26
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 509,
+      "ms": 5684398,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 418,
+      "ms": 5759103,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 399,
+      "ms": 6023288,
+      "dish": "Pizza"
+    }
+  ]
+}

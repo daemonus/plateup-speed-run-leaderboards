@@ -1,0 +1,50 @@
+{
+  "id": "f3cedff3-03b0-4740-8d4e-b14ea7e45acb",
+  "persona": "ZoomIsland",
+  "names": [
+    "ZoomIsland"
+  ],
+  "runs": 4,
+  "bestRank": 162,
+  "worstRank": 1953,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2540829,
+  "weeksActive": [
+    -93,
+    -92,
+    -86,
+    -19
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1953,
+      "ms": 3102232,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 449,
+      "ms": 3269930,
+      "dish": "Steak"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 305,
+      "ms": 2540829,
+      "dish": "Fish"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 162,
+      "ms": 3076780,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

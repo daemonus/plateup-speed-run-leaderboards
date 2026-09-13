@@ -1,0 +1,82 @@
+{
+  "id": "25c1b22f-ac75-48b1-9ca0-0ed199694140",
+  "persona": "newb3",
+  "names": [
+    "newb3"
+  ],
+  "runs": 8,
+  "bestRank": 110,
+  "worstRank": 370,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2597446,
+  "weeksActive": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    30,
+    38,
+    52
+  ],
+  "history": [
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 238,
+      "ms": 3888301,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 200,
+      "ms": 2597446,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 172,
+      "ms": 2931286,
+      "dish": "Pies"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 110,
+      "ms": 3914391,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 200,
+      "ms": 3472350,
+      "dish": "Pizza"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 370,
+      "ms": 4100694,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 300,
+      "ms": 3449465,
+      "dish": "Pies"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 349,
+      "ms": 3192665,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "9a711044-4a12-432b-9531-4e1257158d8b",
+  "persona": "Megatron09",
+  "names": [
+    "Megatron09"
+  ],
+  "runs": 8,
+  "bestRank": 55,
+  "worstRank": 287,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1285863,
+  "weeksActive": [
+    71,
+    72,
+    73,
+    76,
+    79,
+    80,
+    82,
+    84
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 132,
+      "ms": 2784512,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 198,
+      "ms": 3378392,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 220,
+      "ms": 3674465,
+      "dish": "Burgers"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 91,
+      "ms": 2871849,
+      "dish": "Salad"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 184,
+      "ms": 4009367,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 287,
+      "ms": 3886285,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 283,
+      "ms": 3389496,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 55,
+      "ms": 1285863,
+      "dish": "Sundaes"
+    }
+  ]
+}

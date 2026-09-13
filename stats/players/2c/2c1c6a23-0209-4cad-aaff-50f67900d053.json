@@ -1,0 +1,34 @@
+{
+  "id": "2c1c6a23-0209-4cad-aaff-50f67900d053",
+  "persona": "meme",
+  "names": [
+    "meme"
+  ],
+  "runs": 2,
+  "bestRank": 275,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2372984,
+  "weeksActive": [
+    55,
+    56
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 275,
+      "ms": 4502540,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 374,
+      "ms": 2372984,
+      "dish": "Sundaes"
+    }
+  ]
+}

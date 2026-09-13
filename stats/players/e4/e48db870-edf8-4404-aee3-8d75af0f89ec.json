@@ -1,0 +1,42 @@
+{
+  "id": "e48db870-edf8-4404-aee3-8d75af0f89ec",
+  "persona": "Pug",
+  "names": [
+    "Pug"
+  ],
+  "runs": 3,
+  "bestRank": 159,
+  "worstRank": 452,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3263257,
+  "weeksActive": [
+    -62,
+    -61,
+    -60
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 452,
+      "ms": 4039907,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 237,
+      "ms": 3263257,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 159,
+      "ms": 3381586,
+      "dish": "Burgers"
+    }
+  ]
+}

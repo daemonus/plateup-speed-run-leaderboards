@@ -1,0 +1,42 @@
+{
+  "id": "d8ce62be-8d26-44a0-a655-1946897c2509",
+  "persona": "Cuckoo\u73CA\u73CA",
+  "names": [
+    "Cuckoo\u73CA\u73CA"
+  ],
+  "runs": 3,
+  "bestRank": 288,
+  "worstRank": 484,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2894784,
+  "weeksActive": [
+    14,
+    15,
+    57
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 288,
+      "ms": 4128278,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 321,
+      "ms": 2894784,
+      "dish": "Turkey"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 484,
+      "ms": 4894321,
+      "dish": "Salad"
+    }
+  ]
+}

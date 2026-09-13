@@ -1,0 +1,34 @@
+{
+  "id": "4ad36176-646d-4baa-9fbb-5cab79ddb3f1",
+  "persona": "no_l",
+  "names": [
+    "no_l"
+  ],
+  "runs": 2,
+  "bestRank": 64,
+  "worstRank": 226,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2416311,
+  "weeksActive": [
+    -84,
+    -55
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 226,
+      "ms": 2589366,
+      "dish": "Fish"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 64,
+      "ms": 2416311,
+      "dish": "Pizza"
+    }
+  ]
+}

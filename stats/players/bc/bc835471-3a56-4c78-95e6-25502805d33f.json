@@ -1,0 +1,50 @@
+{
+  "id": "bc835471-3a56-4c78-95e6-25502805d33f",
+  "persona": "ThorGZY",
+  "names": [
+    "ThorGZY"
+  ],
+  "runs": 4,
+  "bestRank": 127,
+  "worstRank": 514,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3043274,
+  "weeksActive": [
+    -47,
+    -46,
+    -44,
+    5
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 361,
+      "ms": 4391684,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 514,
+      "ms": 5440655,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 418,
+      "ms": 3815900,
+      "dish": "Turkey"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 127,
+      "ms": 3043274,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "b3efb78a-2e0f-4749-878b-063fa7a054cf",
+  "persona": "zy",
+  "names": [
+    "zy"
+  ],
+  "runs": 4,
+  "bestRank": 535,
+  "worstRank": 1698,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3503878,
+  "weeksActive": [
+    -94,
+    -92,
+    -91,
+    -88
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1698,
+      "ms": 5088854,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 535,
+      "ms": 3544635,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1362,
+      "ms": 3503878,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 706,
+      "ms": 4574117,
+      "dish": "Pies"
+    }
+  ]
+}

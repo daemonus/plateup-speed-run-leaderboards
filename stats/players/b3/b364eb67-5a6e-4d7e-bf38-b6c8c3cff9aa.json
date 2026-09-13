@@ -1,0 +1,66 @@
+{
+  "id": "b364eb67-5a6e-4d7e-bf38-b6c8c3cff9aa",
+  "persona": "AdventurousEmu",
+  "names": [
+    "AdventurousEmu"
+  ],
+  "runs": 6,
+  "bestRank": 25,
+  "worstRank": 175,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1215133,
+  "weeksActive": [
+    77,
+    79,
+    80,
+    81,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 175,
+      "ms": 2454484,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 28,
+      "ms": 2316868,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 32,
+      "ms": 2122299,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 25,
+      "ms": 2075886,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 32,
+      "ms": 2061575,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 31,
+      "ms": 1215133,
+      "dish": "Sundaes"
+    }
+  ]
+}

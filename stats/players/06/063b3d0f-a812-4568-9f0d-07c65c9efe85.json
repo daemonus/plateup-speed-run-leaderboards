@@ -1,0 +1,98 @@
+{
+  "id": "063b3d0f-a812-4568-9f0d-07c65c9efe85",
+  "persona": "eem",
+  "names": [
+    "eem"
+  ],
+  "runs": 10,
+  "bestRank": 176,
+  "worstRank": 737,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2525990,
+  "weeksActive": [
+    -26,
+    -24,
+    19,
+    20,
+    36,
+    37,
+    38,
+    41,
+    42,
+    60
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 467,
+      "ms": 7588839,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 269,
+      "ms": 5247511,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 200,
+      "ms": 3594763,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 737,
+      "ms": 3906835,
+      "dish": "Turkey"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 437,
+      "ms": 4822877,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 254,
+      "ms": 5826335,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 309,
+      "ms": 3504816,
+      "dish": "Pies"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 360,
+      "ms": 2525990,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 176,
+      "ms": 3495165,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 283,
+      "ms": 3944311,
+      "dish": "Burgers"
+    }
+  ]
+}

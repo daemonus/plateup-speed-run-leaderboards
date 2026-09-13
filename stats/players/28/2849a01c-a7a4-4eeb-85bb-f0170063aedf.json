@@ -1,0 +1,50 @@
+{
+  "id": "2849a01c-a7a4-4eeb-85bb-f0170063aedf",
+  "persona": "(e36jose)",
+  "names": [
+    "(e36jose)"
+  ],
+  "runs": 4,
+  "bestRank": 100,
+  "worstRank": 411,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2539289,
+  "weeksActive": [
+    -4,
+    -3,
+    1,
+    5
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 100,
+      "ms": 2539289,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 411,
+      "ms": 3392918,
+      "dish": "Turkey"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 156,
+      "ms": 3070001,
+      "dish": "Pies"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 120,
+      "ms": 2990195,
+      "dish": "Breakfast"
+    }
+  ]
+}

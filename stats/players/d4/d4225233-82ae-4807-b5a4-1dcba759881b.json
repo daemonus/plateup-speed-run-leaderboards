@@ -1,0 +1,34 @@
+{
+  "id": "d4225233-82ae-4807-b5a4-1dcba759881b",
+  "persona": "Lisa",
+  "names": [
+    "Lisa"
+  ],
+  "runs": 2,
+  "bestRank": 556,
+  "worstRank": 597,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3858507,
+  "weeksActive": [
+    -77,
+    -39
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 597,
+      "ms": 3858507,
+      "dish": "Pies"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 556,
+      "ms": 3910414,
+      "dish": "Pizza"
+    }
+  ]
+}

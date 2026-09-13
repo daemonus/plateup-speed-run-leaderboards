@@ -1,0 +1,74 @@
+{
+  "id": "a2af5cb6-8516-49f6-8eb6-a2355542ddbe",
+  "persona": "\u98D2\u98D2\u5403\u4E0D\u9971",
+  "names": [
+    "\u98D2\u98D2\u5403\u4E0D\u9971"
+  ],
+  "runs": 7,
+  "bestRank": 266,
+  "worstRank": 968,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2893967,
+  "weeksActive": [
+    61,
+    64,
+    67,
+    69,
+    71,
+    79,
+    83
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 353,
+      "ms": 5257300,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 968,
+      "ms": 5470914,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 350,
+      "ms": 5240822,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 303,
+      "ms": 6974934,
+      "dish": "Burgers"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 396,
+      "ms": 4502410,
+      "dish": "Pizza"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 266,
+      "ms": 6623781,
+      "dish": "Salad"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 479,
+      "ms": 2893967,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c6b44e0b-ed06-42b8-b28b-4cfe348b554e",
+  "persona": "drawitenne",
+  "names": [
+    "drawitenne"
+  ],
+  "runs": 4,
+  "bestRank": 162,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2964231,
+  "weeksActive": [
+    -69,
+    1,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 333,
+      "ms": 4835432,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 479,
+      "ms": 7754679,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 162,
+      "ms": 3230486,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 195,
+      "ms": 2964231,
+      "dish": "Fish"
+    }
+  ]
+}

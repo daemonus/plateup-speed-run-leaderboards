@@ -1,0 +1,42 @@
+{
+  "id": "8d47dd8d-bf1f-4ddd-8b45-b37b1c8cb22f",
+  "persona": "SpentStarfish",
+  "names": [
+    "SpentStarfish"
+  ],
+  "runs": 3,
+  "bestRank": 335,
+  "worstRank": 511,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2962200,
+  "weeksActive": [
+    -86,
+    -84,
+    -83
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 511,
+      "ms": 3099679,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 335,
+      "ms": 2962200,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 338,
+      "ms": 3382781,
+      "dish": "Steak"
+    }
+  ]
+}

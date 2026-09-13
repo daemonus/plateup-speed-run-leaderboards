@@ -1,0 +1,42 @@
+{
+  "id": "144a5be3-4b50-46f1-89c2-55dd0feb78f0",
+  "persona": "valdez.amj",
+  "names": [
+    "valdez.amj"
+  ],
+  "runs": 3,
+  "bestRank": 237,
+  "worstRank": 696,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3470208,
+  "weeksActive": [
+    -82,
+    -80,
+    -74
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 696,
+      "ms": 4316439,
+      "dish": "Fish"
+    },
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 237,
+      "ms": 4595201,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 266,
+      "ms": 3470208,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

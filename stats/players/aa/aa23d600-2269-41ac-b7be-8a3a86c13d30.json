@@ -1,0 +1,42 @@
+{
+  "id": "aa23d600-2269-41ac-b7be-8a3a86c13d30",
+  "persona": "CH Phip",
+  "names": [
+    "CH Phip"
+  ],
+  "runs": 3,
+  "bestRank": 77,
+  "worstRank": 157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2243888,
+  "weeksActive": [
+    -78,
+    -77,
+    -76
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 133,
+      "ms": 2758757,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 77,
+      "ms": 2243888,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 157,
+      "ms": 2334958,
+      "dish": "Turkey"
+    }
+  ]
+}

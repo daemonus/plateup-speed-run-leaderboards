@@ -1,0 +1,42 @@
+{
+  "id": "e0c5621c-642c-4d1c-8e2e-9ce037ed18e5",
+  "persona": "Rhayu",
+  "names": [
+    "Rhayu"
+  ],
+  "runs": 3,
+  "bestRank": 85,
+  "worstRank": 171,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1873305,
+  "weeksActive": [
+    20,
+    47,
+    84
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 130,
+      "ms": 1952339,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 85,
+      "ms": 2648375,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 171,
+      "ms": 1873305,
+      "dish": "Sundaes"
+    }
+  ]
+}

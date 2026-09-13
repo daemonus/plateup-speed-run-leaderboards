@@ -1,0 +1,42 @@
+{
+  "id": "b8fafbea-4e08-4512-8daa-515e637b142a",
+  "persona": "garlicplayer",
+  "names": [
+    "garlicplayer"
+  ],
+  "runs": 3,
+  "bestRank": 358,
+  "worstRank": 479,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2700788,
+  "weeksActive": [
+    -79,
+    -78,
+    -75
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 424,
+      "ms": 4861928,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 479,
+      "ms": 4733520,
+      "dish": "Burgers"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 358,
+      "ms": 2700788,
+      "dish": "Fish"
+    }
+  ]
+}

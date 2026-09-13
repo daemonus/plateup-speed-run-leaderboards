@@ -1,0 +1,50 @@
+{
+  "id": "def06875-0c41-49b4-bd6c-e042511437e9",
+  "persona": "JJOLAWP",
+  "names": [
+    "JJOLAWP"
+  ],
+  "runs": 4,
+  "bestRank": 160,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3422576,
+  "weeksActive": [
+    25,
+    26,
+    27,
+    28
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 160,
+      "ms": 4600295,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 261,
+      "ms": 3876839,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 183,
+      "ms": 3422576,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 313,
+      "ms": 3543003,
+      "dish": "Turkey"
+    }
+  ]
+}

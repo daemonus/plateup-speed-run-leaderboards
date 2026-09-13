@@ -1,0 +1,42 @@
+{
+  "id": "b701297e-8675-4173-a334-b303e74853b4",
+  "persona": "Cheddar",
+  "names": [
+    "Cheddar"
+  ],
+  "runs": 3,
+  "bestRank": 32,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2188427,
+  "weeksActive": [
+    -55,
+    -30,
+    48
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 114,
+      "ms": 2809377,
+      "dish": "Pizza"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 127,
+      "ms": 2188427,
+      "dish": "Turkey"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 32,
+      "ms": 2936364,
+      "dish": "Pizza"
+    }
+  ]
+}

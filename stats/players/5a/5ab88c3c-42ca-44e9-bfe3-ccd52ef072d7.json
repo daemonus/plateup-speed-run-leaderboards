@@ -1,0 +1,34 @@
+{
+  "id": "5ab88c3c-42ca-44e9-bfe3-ccd52ef072d7",
+  "persona": "Melon_Man_Three",
+  "names": [
+    "Melon_Man_Three"
+  ],
+  "runs": 2,
+  "bestRank": 80,
+  "worstRank": 90,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1522949,
+  "weeksActive": [
+    72,
+    84
+  ],
+  "history": [
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 80,
+      "ms": 2598420,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 90,
+      "ms": 1522949,
+      "dish": "Sundaes"
+    }
+  ]
+}

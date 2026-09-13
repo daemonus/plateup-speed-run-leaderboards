@@ -1,0 +1,34 @@
+{
+  "id": "12cb8499-4a61-4b2c-b24d-cc4d17432b46",
+  "persona": "Herro",
+  "names": [
+    "Herro"
+  ],
+  "runs": 2,
+  "bestRank": 151,
+  "worstRank": 323,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2909550,
+  "weeksActive": [
+    -68,
+    7
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 323,
+      "ms": 5580209,
+      "dish": "Salad"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 151,
+      "ms": 2909550,
+      "dish": "Fish"
+    }
+  ]
+}

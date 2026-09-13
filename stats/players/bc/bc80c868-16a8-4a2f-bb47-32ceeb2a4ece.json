@@ -1,0 +1,34 @@
+{
+  "id": "bc80c868-16a8-4a2f-bb47-32ceeb2a4ece",
+  "persona": "Bing",
+  "names": [
+    "Bing"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 825,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4581659,
+  "weeksActive": [
+    -30,
+    -22
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 825,
+      "ms": 4581659,
+      "dish": "Turkey"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 285,
+      "ms": 6560520,
+      "dish": "Stir Fry"
+    }
+  ]
+}

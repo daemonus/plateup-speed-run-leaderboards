@@ -1,0 +1,34 @@
+{
+  "id": "80ef6f2b-9bb4-4886-af4b-29e137429a61",
+  "persona": "aranzirri",
+  "names": [
+    "aranzirri"
+  ],
+  "runs": 2,
+  "bestRank": 221,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5508251,
+  "weeksActive": [
+    -28,
+    24
+  ],
+  "history": [
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 221,
+      "ms": 5508251,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 566,
+      "ms": 6347736,
+      "dish": "Pies"
+    }
+  ]
+}

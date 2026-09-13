@@ -1,0 +1,34 @@
+{
+  "id": "db24c966-8bba-4080-afe3-24a499ba2938",
+  "persona": "el naver",
+  "names": [
+    "el naver"
+  ],
+  "runs": 2,
+  "bestRank": 83,
+  "worstRank": 178,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2291998,
+  "weeksActive": [
+    -57,
+    -56
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 178,
+      "ms": 3707591,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 83,
+      "ms": 2291998,
+      "dish": "Breakfast"
+    }
+  ]
+}

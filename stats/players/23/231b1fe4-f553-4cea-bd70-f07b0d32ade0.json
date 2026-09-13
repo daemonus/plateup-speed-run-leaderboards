@@ -1,0 +1,66 @@
+{
+  "id": "231b1fe4-f553-4cea-bd70-f07b0d32ade0",
+  "persona": "HeyKare",
+  "names": [
+    "HeyKare"
+  ],
+  "runs": 6,
+  "bestRank": 53,
+  "worstRank": 296,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2187651,
+  "weeksActive": [
+    -72,
+    -56,
+    -30,
+    -29,
+    -2,
+    59
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 296,
+      "ms": 3504278,
+      "dish": "Pies"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 107,
+      "ms": 2453666,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 265,
+      "ms": 2575545,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 94,
+      "ms": 3155650,
+      "dish": "Burgers"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 53,
+      "ms": 2187651,
+      "dish": "Pizza"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 293,
+      "ms": 3753852,
+      "dish": "Salad"
+    }
+  ]
+}

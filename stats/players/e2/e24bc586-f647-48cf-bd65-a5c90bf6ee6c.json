@@ -1,0 +1,66 @@
+{
+  "id": "e24bc586-f647-48cf-bd65-a5c90bf6ee6c",
+  "persona": "_cans_of_beans_",
+  "names": [
+    "_cans_of_beans_"
+  ],
+  "runs": 6,
+  "bestRank": 127,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1989653,
+  "weeksActive": [
+    -32,
+    1,
+    2,
+    3,
+    22,
+    64
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 362,
+      "ms": 3215173,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 127,
+      "ms": 2898542,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 198,
+      "ms": 3498800,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 142,
+      "ms": 2736276,
+      "dish": "Fish"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 187,
+      "ms": 3436376,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 211,
+      "ms": 1989653,
+      "dish": "Sundaes"
+    }
+  ]
+}

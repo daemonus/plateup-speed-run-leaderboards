@@ -1,0 +1,42 @@
+{
+  "id": "d4138818-33d6-44c3-b4fc-1ee5c57f03dc",
+  "persona": "Phillip Meowsburg",
+  "names": [
+    "Phillip Meowsburg"
+  ],
+  "runs": 3,
+  "bestRank": 399,
+  "worstRank": 786,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3011625,
+  "weeksActive": [
+    -94,
+    -92,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 786,
+      "ms": 3176998,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 399,
+      "ms": 3139963,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 513,
+      "ms": 3011625,
+      "dish": "Pies"
+    }
+  ]
+}

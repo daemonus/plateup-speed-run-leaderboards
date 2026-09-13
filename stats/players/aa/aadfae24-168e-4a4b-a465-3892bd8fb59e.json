@@ -1,0 +1,66 @@
+{
+  "id": "aadfae24-168e-4a4b-a465-3892bd8fb59e",
+  "persona": "harupi",
+  "names": [
+    "harupi"
+  ],
+  "runs": 6,
+  "bestRank": 203,
+  "worstRank": 933,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2928308,
+  "weeksActive": [
+    -88,
+    29,
+    31,
+    36,
+    56,
+    84
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 933,
+      "ms": 11433980,
+      "dish": "Pies"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 203,
+      "ms": 8727134,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 409,
+      "ms": 3794639,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 440,
+      "ms": 4857142,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 544,
+      "ms": 2928308,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 624,
+      "ms": 5263319,
+      "dish": "Sundaes"
+    }
+  ]
+}

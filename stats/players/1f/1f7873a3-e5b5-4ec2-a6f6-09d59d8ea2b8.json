@@ -1,0 +1,58 @@
+{
+  "id": "1f7873a3-e5b5-4ec2-a6f6-09d59d8ea2b8",
+  "persona": "warottop",
+  "names": [
+    "warottop"
+  ],
+  "runs": 5,
+  "bestRank": 256,
+  "worstRank": 960,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3350946,
+  "weeksActive": [
+    -76,
+    -75,
+    -71,
+    -25,
+    64
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 960,
+      "ms": 5787809,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 880,
+      "ms": 4066977,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 724,
+      "ms": 3658028,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 256,
+      "ms": 3703711,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 733,
+      "ms": 3350946,
+      "dish": "Sundaes"
+    }
+  ]
+}

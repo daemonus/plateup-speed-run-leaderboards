@@ -1,0 +1,50 @@
+{
+  "id": "c7a4dad1-b6c9-4211-ac8f-5cf2aa018c42",
+  "persona": "DarkDemiGod",
+  "names": [
+    "DarkDemiGod"
+  ],
+  "runs": 4,
+  "bestRank": 52,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2399722,
+  "weeksActive": [
+    -6,
+    -3,
+    47,
+    84
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 201,
+      "ms": 3532676,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 249,
+      "ms": 2801189,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 52,
+      "ms": 2399722,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 578,
+      "ms": 4008214,
+      "dish": "Sundaes"
+    }
+  ]
+}

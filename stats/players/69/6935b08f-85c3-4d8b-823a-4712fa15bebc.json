@@ -1,0 +1,42 @@
+{
+  "id": "6935b08f-85c3-4d8b-823a-4712fa15bebc",
+  "persona": "PikaPika",
+  "names": [
+    "PikaPika"
+  ],
+  "runs": 3,
+  "bestRank": 32,
+  "worstRank": 114,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2205163,
+  "weeksActive": [
+    -55,
+    -52,
+    -32
+  ],
+  "history": [
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 32,
+      "ms": 2205163,
+      "dish": "Pizza"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 114,
+      "ms": 3599994,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 86,
+      "ms": 2388088,
+      "dish": "Breakfast"
+    }
+  ]
+}

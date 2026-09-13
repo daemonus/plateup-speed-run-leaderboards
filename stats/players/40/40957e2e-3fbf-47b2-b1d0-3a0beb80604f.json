@@ -1,0 +1,42 @@
+{
+  "id": "40957e2e-3fbf-47b2-b1d0-3a0beb80604f",
+  "persona": "B-Button",
+  "names": [
+    "B-Button"
+  ],
+  "runs": 3,
+  "bestRank": 138,
+  "worstRank": 283,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2608792,
+  "weeksActive": [
+    54,
+    66,
+    71
+  ],
+  "history": [
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 283,
+      "ms": 4696612,
+      "dish": "Burgers"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 138,
+      "ms": 2608792,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 161,
+      "ms": 2910190,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8ea9f128-3b6a-4e66-9d1a-9003eb3fc3bf",
+  "persona": "lulu",
+  "names": [
+    "lulu"
+  ],
+  "runs": 3,
+  "bestRank": 291,
+  "worstRank": 425,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3767387,
+  "weeksActive": [
+    23,
+    24,
+    26
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 425,
+      "ms": 3767387,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 376,
+      "ms": 4103405,
+      "dish": "Pies"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 291,
+      "ms": 4126243,
+      "dish": "Pizza"
+    }
+  ]
+}

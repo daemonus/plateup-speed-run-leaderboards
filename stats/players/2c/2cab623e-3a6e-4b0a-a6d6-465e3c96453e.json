@@ -1,0 +1,42 @@
+{
+  "id": "2cab623e-3a6e-4b0a-a6d6-465e3c96453e",
+  "persona": "Appleple",
+  "names": [
+    "Appleple"
+  ],
+  "runs": 3,
+  "bestRank": 293,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3906794,
+  "weeksActive": [
+    39,
+    40,
+    41
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 358,
+      "ms": 6209415,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 293,
+      "ms": 5536055,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 666,
+      "ms": 3906794,
+      "dish": "Turkey"
+    }
+  ]
+}

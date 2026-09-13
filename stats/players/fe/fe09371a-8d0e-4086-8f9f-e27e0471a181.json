@@ -1,0 +1,42 @@
+{
+  "id": "fe09371a-8d0e-4086-8f9f-e27e0471a181",
+  "persona": "SamiMH",
+  "names": [
+    "SamiMH"
+  ],
+  "runs": 3,
+  "bestRank": 91,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1979806,
+  "weeksActive": [
+    21,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 306,
+      "ms": 3636699,
+      "dish": "Burgers"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 91,
+      "ms": 1979806,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 175,
+      "ms": 2936040,
+      "dish": "Pies"
+    }
+  ]
+}

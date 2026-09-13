@@ -1,0 +1,42 @@
+{
+  "id": "4170ef86-aa03-4f91-98fa-67dfb7bee185",
+  "persona": "Goblin Survival",
+  "names": [
+    "Goblin Survival"
+  ],
+  "runs": 3,
+  "bestRank": 384,
+  "worstRank": 1534,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2816979,
+  "weeksActive": [
+    -93,
+    -82,
+    -71
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1534,
+      "ms": 2816979,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 384,
+      "ms": 3158055,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 665,
+      "ms": 3544552,
+      "dish": "Turkey"
+    }
+  ]
+}

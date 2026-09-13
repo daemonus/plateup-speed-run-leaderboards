@@ -1,0 +1,34 @@
+{
+  "id": "01b72cc7-2160-40df-9723-21539660f4cc",
+  "persona": "meowpy",
+  "names": [
+    "meowpy"
+  ],
+  "runs": 2,
+  "bestRank": 394,
+  "worstRank": 637,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3357403,
+  "weeksActive": [
+    -87,
+    -75
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 394,
+      "ms": 3691351,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 637,
+      "ms": 3357403,
+      "dish": "Fish"
+    }
+  ]
+}

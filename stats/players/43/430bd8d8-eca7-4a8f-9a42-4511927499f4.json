@@ -1,0 +1,42 @@
+{
+  "id": "430bd8d8-eca7-4a8f-9a42-4511927499f4",
+  "persona": "leebeldicot",
+  "names": [
+    "leebeldicot"
+  ],
+  "runs": 3,
+  "bestRank": 115,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3403797,
+  "weeksActive": [
+    4,
+    10,
+    16
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 256,
+      "ms": 3834225,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 115,
+      "ms": 3403797,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 255,
+      "ms": 4205410,
+      "dish": "Stir Fry"
+    }
+  ]
+}

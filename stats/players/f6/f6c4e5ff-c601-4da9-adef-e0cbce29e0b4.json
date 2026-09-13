@@ -1,0 +1,42 @@
+{
+  "id": "f6c4e5ff-c601-4da9-adef-e0cbce29e0b4",
+  "persona": "Yogeshwar05",
+  "names": [
+    "Yogeshwar05"
+  ],
+  "runs": 3,
+  "bestRank": 206,
+  "worstRank": 516,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4105624,
+  "weeksActive": [
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 354,
+      "ms": 4105624,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 516,
+      "ms": 4737783,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 206,
+      "ms": 6488528,
+      "dish": "Fajitas"
+    }
+  ]
+}

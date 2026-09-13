@@ -1,0 +1,34 @@
+{
+  "id": "ec22de0e-7076-47b7-9608-3e0d89b58c03",
+  "persona": "lethiv",
+  "names": [
+    "lethiv"
+  ],
+  "runs": 2,
+  "bestRank": 527,
+  "worstRank": 896,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2811581,
+  "weeksActive": [
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 896,
+      "ms": 2811581,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 527,
+      "ms": 3040826,
+      "dish": "Pies"
+    }
+  ]
+}

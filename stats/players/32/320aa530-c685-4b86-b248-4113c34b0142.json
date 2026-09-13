@@ -1,0 +1,34 @@
+{
+  "id": "320aa530-c685-4b86-b248-4113c34b0142",
+  "persona": "Nina",
+  "names": [
+    "Nina"
+  ],
+  "runs": 2,
+  "bestRank": 294,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2929373,
+  "weeksActive": [
+    -62,
+    13
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 417,
+      "ms": 3933675,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 294,
+      "ms": 2929373,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "71d424cf-71bb-41ea-9f38-7aa6bcbd2a57",
+  "persona": "LAI",
+  "names": [
+    "LAI"
+  ],
+  "runs": 2,
+  "bestRank": 219,
+  "worstRank": 555,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3491799,
+  "weeksActive": [
+    14,
+    16
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 219,
+      "ms": 3491799,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 555,
+      "ms": 7989223,
+      "dish": "Stir Fry"
+    }
+  ]
+}

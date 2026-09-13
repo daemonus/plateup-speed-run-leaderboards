@@ -1,0 +1,42 @@
+{
+  "id": "872d147f-5a53-4dcd-8162-630eb854eb67",
+  "persona": "RYeah",
+  "names": [
+    "RYeah"
+  ],
+  "runs": 3,
+  "bestRank": 232,
+  "worstRank": 649,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2968490,
+  "weeksActive": [
+    -80,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 232,
+      "ms": 4529403,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 649,
+      "ms": 3615720,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 472,
+      "ms": 2968490,
+      "dish": "Fish"
+    }
+  ]
+}

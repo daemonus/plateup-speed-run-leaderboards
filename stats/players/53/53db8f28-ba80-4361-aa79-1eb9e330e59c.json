@@ -1,0 +1,66 @@
+{
+  "id": "53db8f28-ba80-4361-aa79-1eb9e330e59c",
+  "persona": "trainagon",
+  "names": [
+    "trainagon"
+  ],
+  "runs": 6,
+  "bestRank": 164,
+  "worstRank": 449,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2327411,
+  "weeksActive": [
+    -76,
+    -60,
+    -55,
+    81,
+    82,
+    83
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 449,
+      "ms": 3126464,
+      "dish": "Turkey"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 164,
+      "ms": 3403131,
+      "dish": "Burgers"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 258,
+      "ms": 3470775,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 197,
+      "ms": 3646627,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 268,
+      "ms": 3321728,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 309,
+      "ms": 2327411,
+      "dish": "Sundaes"
+    }
+  ]
+}

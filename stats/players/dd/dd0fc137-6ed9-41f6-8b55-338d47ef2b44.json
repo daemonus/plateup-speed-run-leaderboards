@@ -1,0 +1,34 @@
+{
+  "id": "dd0fc137-6ed9-41f6-8b55-338d47ef2b44",
+  "persona": "Fredmir",
+  "names": [
+    "Fredmir"
+  ],
+  "runs": 2,
+  "bestRank": 177,
+  "worstRank": 315,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3436093,
+  "weeksActive": [
+    -7,
+    31
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 177,
+      "ms": 4017461,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 315,
+      "ms": 3436093,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6e60beae-d722-4645-b422-07101a6c1967",
+  "persona": "~Renaeissance~",
+  "names": [
+    "~Renaeissance~"
+  ],
+  "runs": 4,
+  "bestRank": 160,
+  "worstRank": 624,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2927870,
+  "weeksActive": [
+    -88,
+    -86,
+    22,
+    31
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 624,
+      "ms": 4231400,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 447,
+      "ms": 2927870,
+      "dish": "Fish"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 160,
+      "ms": 3243564,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 302,
+      "ms": 3360875,
+      "dish": "Fish"
+    }
+  ]
+}

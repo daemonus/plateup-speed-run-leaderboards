@@ -1,0 +1,42 @@
+{
+  "id": "c638734a-6853-421c-aec6-9bb639ef9361",
+  "persona": "PilotMyPickle",
+  "names": [
+    "PilotMyPickle"
+  ],
+  "runs": 3,
+  "bestRank": 152,
+  "worstRank": 374,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2024951,
+  "weeksActive": [
+    19,
+    20,
+    84
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 152,
+      "ms": 3374252,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 374,
+      "ms": 2849413,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 226,
+      "ms": 2024951,
+      "dish": "Sundaes"
+    }
+  ]
+}

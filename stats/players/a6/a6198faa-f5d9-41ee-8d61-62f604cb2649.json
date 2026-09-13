@@ -1,0 +1,50 @@
+{
+  "id": "a6198faa-f5d9-41ee-8d61-62f604cb2649",
+  "persona": "getageta",
+  "names": [
+    "getageta"
+  ],
+  "runs": 4,
+  "bestRank": 282,
+  "worstRank": 967,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3085163,
+  "weeksActive": [
+    -76,
+    -73,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 967,
+      "ms": 6303616,
+      "dish": "Turkey"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 282,
+      "ms": 5181629,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 768,
+      "ms": 5357753,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 441,
+      "ms": 3085163,
+      "dish": "Turkey"
+    }
+  ]
+}

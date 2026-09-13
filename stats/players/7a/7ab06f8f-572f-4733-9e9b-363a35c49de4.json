@@ -1,0 +1,42 @@
+{
+  "id": "7ab06f8f-572f-4733-9e9b-363a35c49de4",
+  "persona": "arsonee",
+  "names": [
+    "arsonee"
+  ],
+  "runs": 3,
+  "bestRank": 262,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2873092,
+  "weeksActive": [
+    3,
+    68,
+    71
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 447,
+      "ms": 3687290,
+      "dish": "Fish"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 262,
+      "ms": 2873092,
+      "dish": "Turkey"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 277,
+      "ms": 3671161,
+      "dish": "Pizza"
+    }
+  ]
+}

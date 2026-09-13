@@ -1,0 +1,58 @@
+{
+  "id": "44a3efd5-1723-4bab-b81d-186fdb22ae7c",
+  "persona": "LaLa",
+  "names": [
+    "LaLa"
+  ],
+  "runs": 5,
+  "bestRank": 67,
+  "worstRank": 658,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3202140,
+  "weeksActive": [
+    -21,
+    -11,
+    -10,
+    -7,
+    41
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 393,
+      "ms": 4115916,
+      "dish": "Pizza"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 153,
+      "ms": 4231334,
+      "dish": "Burgers"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 234,
+      "ms": 4791024,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 67,
+      "ms": 3202140,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 658,
+      "ms": 3866022,
+      "dish": "Turkey"
+    }
+  ]
+}

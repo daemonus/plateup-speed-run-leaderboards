@@ -1,0 +1,34 @@
+{
+  "id": "a8a8619b-c8eb-4ea6-b865-425f1dadc9cd",
+  "persona": "CorinthCat",
+  "names": [
+    "CorinthCat"
+  ],
+  "runs": 2,
+  "bestRank": 437,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4552939,
+  "weeksActive": [
+    -15,
+    1
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 530,
+      "ms": 4552939,
+      "dish": "Fish"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 437,
+      "ms": 5151382,
+      "dish": "Pies"
+    }
+  ]
+}

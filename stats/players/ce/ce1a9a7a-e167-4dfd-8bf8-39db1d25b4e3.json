@@ -1,0 +1,42 @@
+{
+  "id": "ce1a9a7a-e167-4dfd-8bf8-39db1d25b4e3",
+  "persona": "Stanl1",
+  "names": [
+    "Stanl1"
+  ],
+  "runs": 3,
+  "bestRank": 53,
+  "worstRank": 132,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2051275,
+  "weeksActive": [
+    -51,
+    -46,
+    -44
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 53,
+      "ms": 2051275,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 112,
+      "ms": 3141519,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 132,
+      "ms": 2549319,
+      "dish": "Turkey"
+    }
+  ]
+}

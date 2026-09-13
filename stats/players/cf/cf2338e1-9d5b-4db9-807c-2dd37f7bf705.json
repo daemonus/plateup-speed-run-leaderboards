@@ -1,0 +1,34 @@
+{
+  "id": "cf2338e1-9d5b-4db9-807c-2dd37f7bf705",
+  "persona": "Cshell",
+  "names": [
+    "Cshell"
+  ],
+  "runs": 2,
+  "bestRank": 964,
+  "worstRank": 2260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2893054,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2260,
+      "ms": 3355547,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 964,
+      "ms": 2893054,
+      "dish": "Fish"
+    }
+  ]
+}

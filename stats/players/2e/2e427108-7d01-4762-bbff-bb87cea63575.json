@@ -1,0 +1,42 @@
+{
+  "id": "2e427108-7d01-4762-bbff-bb87cea63575",
+  "persona": "Paint",
+  "names": [
+    "Paint"
+  ],
+  "runs": 3,
+  "bestRank": 11,
+  "worstRank": 90,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1779857,
+  "weeksActive": [
+    -86,
+    -85,
+    -29
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 90,
+      "ms": 1779857,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 47,
+      "ms": 2390767,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 11,
+      "ms": 2162365,
+      "dish": "Burgers"
+    }
+  ]
+}

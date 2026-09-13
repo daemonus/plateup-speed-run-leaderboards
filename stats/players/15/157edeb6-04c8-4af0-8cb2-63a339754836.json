@@ -1,0 +1,34 @@
+{
+  "id": "157edeb6-04c8-4af0-8cb2-63a339754836",
+  "persona": "Jan",
+  "names": [
+    "Jan"
+  ],
+  "runs": 2,
+  "bestRank": 187,
+  "worstRank": 359,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2875001,
+  "weeksActive": [
+    -61,
+    -56
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 359,
+      "ms": 3741370,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 187,
+      "ms": 2875001,
+      "dish": "Breakfast"
+    }
+  ]
+}

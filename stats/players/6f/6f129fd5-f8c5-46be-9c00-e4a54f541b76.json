@@ -1,0 +1,34 @@
+{
+  "id": "6f129fd5-f8c5-46be-9c00-e4a54f541b76",
+  "persona": "Gurke",
+  "names": [
+    "Gurke"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 438,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3301325,
+  "weeksActive": [
+    3,
+    5
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 309,
+      "ms": 3301325,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 438,
+      "ms": 4869195,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2b9169f2-e1dd-49c7-b457-13bf23690f09",
+  "persona": "gamja",
+  "names": [
+    "gamja"
+  ],
+  "runs": 4,
+  "bestRank": 128,
+  "worstRank": 304,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2800843,
+  "weeksActive": [
+    30,
+    33,
+    78,
+    86
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 264,
+      "ms": 3458136,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 128,
+      "ms": 3306066,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 238,
+      "ms": 3425995,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 304,
+      "ms": 2800843,
+      "dish": "Sundaes"
+    }
+  ]
+}

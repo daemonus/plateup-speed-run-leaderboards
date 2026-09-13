@@ -1,0 +1,58 @@
+{
+  "id": "dde12a82-14be-48c9-97d7-c47ce820ed47",
+  "persona": "relixen",
+  "names": [
+    "relixen"
+  ],
+  "runs": 5,
+  "bestRank": 145,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1794387,
+  "weeksActive": [
+    -93,
+    -92,
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 547,
+      "ms": 2142122,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 145,
+      "ms": 2351220,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 146,
+      "ms": 1794387,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 274,
+      "ms": 2206552,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 241,
+      "ms": 2306493,
+      "dish": "Pies"
+    }
+  ]
+}

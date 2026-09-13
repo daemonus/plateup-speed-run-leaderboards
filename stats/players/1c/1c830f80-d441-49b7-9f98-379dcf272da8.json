@@ -1,0 +1,34 @@
+{
+  "id": "1c830f80-d441-49b7-9f98-379dcf272da8",
+  "persona": "domo",
+  "names": [
+    "domo"
+  ],
+  "runs": 2,
+  "bestRank": 183,
+  "worstRank": 260,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4376363,
+  "weeksActive": [
+    -12,
+    -11
+  ],
+  "history": [
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 260,
+      "ms": 4376363,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 183,
+      "ms": 5023183,
+      "dish": "Burgers"
+    }
+  ]
+}

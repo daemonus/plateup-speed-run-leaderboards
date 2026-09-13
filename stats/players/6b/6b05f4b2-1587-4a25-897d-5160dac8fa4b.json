@@ -1,0 +1,58 @@
+{
+  "id": "6b05f4b2-1587-4a25-897d-5160dac8fa4b",
+  "persona": "brucicus",
+  "names": [
+    "brucicus"
+  ],
+  "runs": 5,
+  "bestRank": 171,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4382388,
+  "weeksActive": [
+    -73,
+    -70,
+    -68,
+    -63,
+    -52
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 191,
+      "ms": 4421716,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 457,
+      "ms": 4691813,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 297,
+      "ms": 4897187,
+      "dish": "Salad"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 464,
+      "ms": 4427115,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 171,
+      "ms": 4382388,
+      "dish": "Stir Fry"
+    }
+  ]
+}

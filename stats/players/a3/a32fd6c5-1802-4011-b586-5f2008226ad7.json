@@ -1,0 +1,42 @@
+{
+  "id": "a32fd6c5-1802-4011-b586-5f2008226ad7",
+  "persona": "au.latte",
+  "names": [
+    "au.latte"
+  ],
+  "runs": 3,
+  "bestRank": 167,
+  "worstRank": 327,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2932251,
+  "weeksActive": [
+    -49,
+    -45,
+    -44
+  ],
+  "history": [
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 168,
+      "ms": 3998413,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 167,
+      "ms": 2932251,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 327,
+      "ms": 3338927,
+      "dish": "Turkey"
+    }
+  ]
+}

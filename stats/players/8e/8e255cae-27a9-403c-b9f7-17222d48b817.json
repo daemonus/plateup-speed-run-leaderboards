@@ -1,0 +1,42 @@
+{
+  "id": "8e255cae-27a9-403c-b9f7-17222d48b817",
+  "persona": "Kaitlin",
+  "names": [
+    "Kaitlin"
+  ],
+  "runs": 3,
+  "bestRank": 127,
+  "worstRank": 410,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2538558,
+  "weeksActive": [
+    -76,
+    -75,
+    -39
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 289,
+      "ms": 2716697,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 410,
+      "ms": 2833851,
+      "dish": "Fish"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 127,
+      "ms": 2538558,
+      "dish": "Pizza"
+    }
+  ]
+}

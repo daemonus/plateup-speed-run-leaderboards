@@ -1,0 +1,42 @@
+{
+  "id": "af2bd1fe-8325-4151-9403-fdeafdabdbc8",
+  "persona": "PeakAspect",
+  "names": [
+    "PeakAspect"
+  ],
+  "runs": 3,
+  "bestRank": 730,
+  "worstRank": 791,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4162336,
+  "weeksActive": [
+    -38,
+    -37,
+    83
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 780,
+      "ms": 4352974,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 791,
+      "ms": 4188317,
+      "dish": "Fish"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 730,
+      "ms": 4162336,
+      "dish": "Sundaes"
+    }
+  ]
+}

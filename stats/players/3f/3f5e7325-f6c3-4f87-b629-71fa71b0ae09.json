@@ -1,0 +1,34 @@
+{
+  "id": "3f5e7325-f6c3-4f87-b629-71fa71b0ae09",
+  "persona": "47",
+  "names": [
+    "47"
+  ],
+  "runs": 2,
+  "bestRank": 201,
+  "worstRank": 311,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3618365,
+  "weeksActive": [
+    2,
+    19
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 311,
+      "ms": 4230405,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 201,
+      "ms": 3618365,
+      "dish": "Pizza"
+    }
+  ]
+}

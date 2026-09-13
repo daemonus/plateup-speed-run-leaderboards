@@ -1,0 +1,74 @@
+{
+  "id": "27fb0688-2bdc-42f4-abd2-751fc9633c2c",
+  "persona": "AIKI",
+  "names": [
+    "AIKI"
+  ],
+  "runs": 7,
+  "bestRank": 312,
+  "worstRank": 1019,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2981130,
+  "weeksActive": [
+    -91,
+    -84,
+    -81,
+    -78,
+    -77,
+    -45,
+    -37
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1019,
+      "ms": 2981130,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 671,
+      "ms": 5018041,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 312,
+      "ms": 4364791,
+      "dish": "Steak"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 427,
+      "ms": 4012962,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 905,
+      "ms": 5598831,
+      "dish": "Pies"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 352,
+      "ms": 3754685,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 321,
+      "ms": 3042456,
+      "dish": "Fish"
+    }
+  ]
+}

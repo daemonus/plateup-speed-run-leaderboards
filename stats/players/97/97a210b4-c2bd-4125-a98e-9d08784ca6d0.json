@@ -1,0 +1,34 @@
+{
+  "id": "97a210b4-c2bd-4125-a98e-9d08784ca6d0",
+  "persona": "BoxCat",
+  "names": [
+    "BoxCat"
+  ],
+  "runs": 2,
+  "bestRank": 470,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2618200,
+  "weeksActive": [
+    -92,
+    -90
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 495,
+      "ms": 3426228,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 470,
+      "ms": 2618200,
+      "dish": "Fish"
+    }
+  ]
+}

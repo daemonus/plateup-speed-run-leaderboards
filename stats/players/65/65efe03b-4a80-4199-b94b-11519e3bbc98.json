@@ -1,0 +1,42 @@
+{
+  "id": "65efe03b-4a80-4199-b94b-11519e3bbc98",
+  "persona": "junkyrd",
+  "names": [
+    "junkyrd"
+  ],
+  "runs": 3,
+  "bestRank": 103,
+  "worstRank": 146,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1627204,
+  "weeksActive": [
+    41,
+    43,
+    47
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 103,
+      "ms": 1627204,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 146,
+      "ms": 2294023,
+      "dish": "Fish"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 136,
+      "ms": 3143012,
+      "dish": "Pizza"
+    }
+  ]
+}

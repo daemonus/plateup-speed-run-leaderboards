@@ -1,0 +1,42 @@
+{
+  "id": "e7e278ce-fbe4-4d63-aa9a-1d9a13c986f6",
+  "persona": "Trin",
+  "names": [
+    "Trin"
+  ],
+  "runs": 3,
+  "bestRank": 61,
+  "worstRank": 940,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1618383,
+  "weeksActive": [
+    -93,
+    -91,
+    -86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 940,
+      "ms": 2401841,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 453,
+      "ms": 2256013,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 61,
+      "ms": 1618383,
+      "dish": "Fish"
+    }
+  ]
+}

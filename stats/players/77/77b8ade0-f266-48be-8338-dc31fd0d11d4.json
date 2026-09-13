@@ -1,0 +1,58 @@
+{
+  "id": "77b8ade0-f266-48be-8338-dc31fd0d11d4",
+  "persona": "HoneyBee",
+  "names": [
+    "HoneyBee"
+  ],
+  "runs": 5,
+  "bestRank": 99,
+  "worstRank": 1326,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2546062,
+  "weeksActive": [
+    -91,
+    -86,
+    -81,
+    -34,
+    -1
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1326,
+      "ms": 3457747,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 482,
+      "ms": 3022040,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 267,
+      "ms": 4067621,
+      "dish": "Steak"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 99,
+      "ms": 2546062,
+      "dish": "Pies"
+    },
+    {
+      "week": -1,
+      "start": "2024-12-30",
+      "rank": 128,
+      "ms": 4103556,
+      "dish": "Breakfast"
+    }
+  ]
+}

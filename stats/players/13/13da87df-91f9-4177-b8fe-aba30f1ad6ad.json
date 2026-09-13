@@ -1,0 +1,50 @@
+{
+  "id": "13da87df-91f9-4177-b8fe-aba30f1ad6ad",
+  "persona": "Roven Hill",
+  "names": [
+    "Roven Hill"
+  ],
+  "runs": 4,
+  "bestRank": 153,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2911804,
+  "weeksActive": [
+    19,
+    20,
+    39,
+    42
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 412,
+      "ms": 5547965,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 398,
+      "ms": 2911804,
+      "dish": "Turkey"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 264,
+      "ms": 4487503,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 153,
+      "ms": 3300698,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "b3d17e30-6fee-4424-8d04-cca9a670991e",
+  "persona": "LoopedBird",
+  "names": [
+    "LoopedBird"
+  ],
+  "runs": 2,
+  "bestRank": 94,
+  "worstRank": 183,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2587038,
+  "weeksActive": [
+    51,
+    52
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 94,
+      "ms": 3073030,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 183,
+      "ms": 2587038,
+      "dish": "Fish"
+    }
+  ]
+}

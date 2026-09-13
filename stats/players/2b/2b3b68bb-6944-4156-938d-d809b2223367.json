@@ -1,0 +1,42 @@
+{
+  "id": "2b3b68bb-6944-4156-938d-d809b2223367",
+  "persona": "Bob_Joe1",
+  "names": [
+    "Bob_Joe1"
+  ],
+  "runs": 3,
+  "bestRank": 180,
+  "worstRank": 329,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2936676,
+  "weeksActive": [
+    18,
+    21,
+    39
+  ],
+  "history": [
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 329,
+      "ms": 8466088,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 180,
+      "ms": 2936676,
+      "dish": "Burgers"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 198,
+      "ms": 3916588,
+      "dish": "Stir Fry"
+    }
+  ]
+}

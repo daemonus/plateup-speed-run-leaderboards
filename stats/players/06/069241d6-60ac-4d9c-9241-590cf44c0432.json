@@ -1,0 +1,58 @@
+{
+  "id": "069241d6-60ac-4d9c-9241-590cf44c0432",
+  "persona": "MysticNarwhal",
+  "names": [
+    "MysticNarwhal"
+  ],
+  "runs": 5,
+  "bestRank": 88,
+  "worstRank": 330,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2201938,
+  "weeksActive": [
+    -82,
+    -53,
+    -52,
+    -47,
+    -38
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 330,
+      "ms": 2981609,
+      "dish": "Fish"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 111,
+      "ms": 3267289,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 121,
+      "ms": 3671367,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 88,
+      "ms": 2935091,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 158,
+      "ms": 2201938,
+      "dish": "Turkey"
+    }
+  ]
+}

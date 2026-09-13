@@ -1,0 +1,50 @@
+{
+  "id": "328a38b7-6ad4-4d8a-bb18-a92f5952f5cd",
+  "persona": "RatPrincess",
+  "names": [
+    "RatPrincess"
+  ],
+  "runs": 4,
+  "bestRank": 52,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2201539,
+  "weeksActive": [
+    -71,
+    -67,
+    -51,
+    -46
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 127,
+      "ms": 2278798,
+      "dish": "Turkey"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 52,
+      "ms": 2635480,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 80,
+      "ms": 2201539,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 106,
+      "ms": 3087266,
+      "dish": "Salad"
+    }
+  ]
+}

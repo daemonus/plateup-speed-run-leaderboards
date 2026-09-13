@@ -1,0 +1,42 @@
+{
+  "id": "0018b720-1c61-4746-b921-7e586c2d6767",
+  "persona": "barrel36",
+  "names": [
+    "barrel36"
+  ],
+  "runs": 3,
+  "bestRank": 158,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2963712,
+  "weeksActive": [
+    -51,
+    -50,
+    46
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 278,
+      "ms": 2963712,
+      "dish": "Turkey"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 158,
+      "ms": 3837325,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 407,
+      "ms": 4004275,
+      "dish": "Pizza"
+    }
+  ]
+}

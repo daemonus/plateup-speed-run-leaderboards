@@ -1,0 +1,50 @@
+{
+  "id": "cda3d216-c224-49c8-9d06-50a2dd4bac85",
+  "persona": "SparkFox28",
+  "names": [
+    "SparkFox28"
+  ],
+  "runs": 4,
+  "bestRank": 194,
+  "worstRank": 525,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5421565,
+  "weeksActive": [
+    -10,
+    -9,
+    -8,
+    -4
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 254,
+      "ms": 5421565,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 194,
+      "ms": 6383818,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 340,
+      "ms": 5480059,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 525,
+      "ms": 5698538,
+      "dish": "Pies"
+    }
+  ]
+}

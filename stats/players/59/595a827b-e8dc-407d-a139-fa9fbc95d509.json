@@ -1,0 +1,42 @@
+{
+  "id": "595a827b-e8dc-407d-a139-fa9fbc95d509",
+  "persona": "the_black_cat",
+  "names": [
+    "the_black_cat"
+  ],
+  "runs": 3,
+  "bestRank": 257,
+  "worstRank": 463,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3063866,
+  "weeksActive": [
+    -44,
+    -39,
+    -38
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 257,
+      "ms": 3063866,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 463,
+      "ms": 3565897,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 458,
+      "ms": 3078879,
+      "dish": "Turkey"
+    }
+  ]
+}

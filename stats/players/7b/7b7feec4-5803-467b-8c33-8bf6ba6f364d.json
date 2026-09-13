@@ -1,0 +1,42 @@
+{
+  "id": "7b7feec4-5803-467b-8c33-8bf6ba6f364d",
+  "persona": "AiRain",
+  "names": [
+    "AiRain"
+  ],
+  "runs": 3,
+  "bestRank": 52,
+  "worstRank": 142,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1944871,
+  "weeksActive": [
+    -15,
+    -14,
+    -13
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 52,
+      "ms": 1944871,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 120,
+      "ms": 3694403,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 142,
+      "ms": 3083712,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

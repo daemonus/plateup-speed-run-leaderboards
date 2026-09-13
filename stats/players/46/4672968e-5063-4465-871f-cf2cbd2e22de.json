@@ -1,0 +1,34 @@
+{
+  "id": "4672968e-5063-4465-871f-cf2cbd2e22de",
+  "persona": "waddle",
+  "names": [
+    "waddle"
+  ],
+  "runs": 2,
+  "bestRank": 11,
+  "worstRank": 21,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1186533,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 11,
+      "ms": 1186533,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 21,
+      "ms": 1238758,
+      "dish": "Fish"
+    }
+  ]
+}

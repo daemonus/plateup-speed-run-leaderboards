@@ -1,0 +1,58 @@
+{
+  "id": "04c037f1-bc1c-474e-9441-a43a9f0dd0e4",
+  "persona": "rhe",
+  "names": [
+    "rhe"
+  ],
+  "runs": 5,
+  "bestRank": 379,
+  "worstRank": 1209,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3325273,
+  "weeksActive": [
+    -51,
+    -32,
+    3,
+    5,
+    6
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 379,
+      "ms": 3325273,
+      "dish": "Turkey"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1209,
+      "ms": 8027529,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 637,
+      "ms": 4271826,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 501,
+      "ms": 5527895,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 403,
+      "ms": 5155949,
+      "dish": "Breakfast"
+    }
+  ]
+}

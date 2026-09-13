@@ -1,0 +1,34 @@
+{
+  "id": "d71af3a9-0695-41ea-b950-5f06b3c47ce0",
+  "persona": "BogDog",
+  "names": [
+    "BogDog"
+  ],
+  "runs": 2,
+  "bestRank": 427,
+  "worstRank": 592,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3689101,
+  "weeksActive": [
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 427,
+      "ms": 5332050,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 592,
+      "ms": 3689101,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "0a5e7104-904c-45f0-a0d4-8b0a42d8f3a3",
+  "persona": "josephine.h",
+  "names": [
+    "josephine.h"
+  ],
+  "runs": 2,
+  "bestRank": 127,
+  "worstRank": 166,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3600413,
+  "weeksActive": [
+    -42,
+    -40
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 166,
+      "ms": 4047518,
+      "dish": "Burgers"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 127,
+      "ms": 3600413,
+      "dish": "Stir Fry"
+    }
+  ]
+}

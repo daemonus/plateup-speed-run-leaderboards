@@ -1,0 +1,42 @@
+{
+  "id": "aa21d53f-c197-4a2e-9e02-ba5a71eaa3af",
+  "persona": "titakems",
+  "names": [
+    "titakems"
+  ],
+  "runs": 3,
+  "bestRank": 340,
+  "worstRank": 471,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4184972,
+  "weeksActive": [
+    -5,
+    -4,
+    0
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 340,
+      "ms": 4184972,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 471,
+      "ms": 4519027,
+      "dish": "Pies"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 460,
+      "ms": 5668107,
+      "dish": "Stir Fry"
+    }
+  ]
+}

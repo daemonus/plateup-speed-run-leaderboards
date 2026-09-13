@@ -1,0 +1,42 @@
+{
+  "id": "7a40e0e9-bf67-4c1b-af12-57db19294ac6",
+  "persona": "SpookuterieBoard",
+  "names": [
+    "SpookuterieBoard"
+  ],
+  "runs": 3,
+  "bestRank": 625,
+  "worstRank": 864,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3565790,
+  "weeksActive": [
+    -38,
+    -37,
+    56
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 625,
+      "ms": 3565790,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 864,
+      "ms": 4556389,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 836,
+      "ms": 4063109,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d02c0ce7-46b0-4f0e-9da7-b7363b0f736f",
+  "persona": "GHOST",
+  "names": [
+    "GHOST"
+  ],
+  "runs": 2,
+  "bestRank": 587,
+  "worstRank": 2223,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2427982,
+  "weeksActive": [
+    -93,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2223,
+      "ms": 3319113,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 587,
+      "ms": 2427982,
+      "dish": "Fish"
+    }
+  ]
+}

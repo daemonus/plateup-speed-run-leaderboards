@@ -1,0 +1,50 @@
+{
+  "id": "fae162e3-3da1-4743-9e08-97c2a1dcf17b",
+  "persona": "mit-jem",
+  "names": [
+    "mit-jem"
+  ],
+  "runs": 4,
+  "bestRank": 225,
+  "worstRank": 754,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2737972,
+  "weeksActive": [
+    -89,
+    -7,
+    12,
+    13
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 754,
+      "ms": 3739990,
+      "dish": "Pies"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 225,
+      "ms": 4354614,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 275,
+      "ms": 2737972,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 397,
+      "ms": 3289228,
+      "dish": "Turkey"
+    }
+  ]
+}

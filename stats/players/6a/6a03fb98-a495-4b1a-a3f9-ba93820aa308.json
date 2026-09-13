@@ -1,0 +1,90 @@
+{
+  "id": "6a03fb98-a495-4b1a-a3f9-ba93820aa308",
+  "persona": "Manda",
+  "names": [
+    "Manda"
+  ],
+  "runs": 9,
+  "bestRank": 42,
+  "worstRank": 683,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2046417,
+  "weeksActive": [
+    -90,
+    -89,
+    -88,
+    -87,
+    -86,
+    -79,
+    -48,
+    -7,
+    -3
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 683,
+      "ms": 3035071,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 472,
+      "ms": 2884127,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 338,
+      "ms": 3133562,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 198,
+      "ms": 2943236,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 144,
+      "ms": 2070676,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 77,
+      "ms": 2527553,
+      "dish": "Pies"
+    },
+    {
+      "week": -48,
+      "start": "2024-02-05",
+      "rank": 42,
+      "ms": 2979274,
+      "dish": "Burgers"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 241,
+      "ms": 4500003,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 71,
+      "ms": 2046417,
+      "dish": "Turkey"
+    }
+  ]
+}

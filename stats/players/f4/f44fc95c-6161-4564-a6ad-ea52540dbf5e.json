@@ -1,0 +1,74 @@
+{
+  "id": "f44fc95c-6161-4564-a6ad-ea52540dbf5e",
+  "persona": "\u3057\u308D\u306D\u3053",
+  "names": [
+    "\u3057\u308D\u306D\u3053"
+  ],
+  "runs": 7,
+  "bestRank": 121,
+  "worstRank": 258,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2172519,
+  "weeksActive": [
+    44,
+    47,
+    76,
+    77,
+    78,
+    81,
+    82
+  ],
+  "history": [
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 186,
+      "ms": 2967718,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 187,
+      "ms": 3573237,
+      "dish": "Pizza"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 129,
+      "ms": 3212850,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 121,
+      "ms": 2172519,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 156,
+      "ms": 2901893,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 173,
+      "ms": 3456684,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 258,
+      "ms": 3256311,
+      "dish": "Pizza"
+    }
+  ]
+}

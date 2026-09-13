@@ -1,0 +1,58 @@
+{
+  "id": "91bffb69-2b68-4719-853b-3d6f5dc21e30",
+  "persona": "Kirito",
+  "names": [
+    "Kirito"
+  ],
+  "runs": 5,
+  "bestRank": 168,
+  "worstRank": 833,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2740337,
+  "weeksActive": [
+    20,
+    23,
+    24,
+    28,
+    31
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 833,
+      "ms": 4251184,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 589,
+      "ms": 6329301,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 481,
+      "ms": 4840907,
+      "dish": "Pies"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 288,
+      "ms": 3355820,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 168,
+      "ms": 2740337,
+      "dish": "Fish"
+    }
+  ]
+}

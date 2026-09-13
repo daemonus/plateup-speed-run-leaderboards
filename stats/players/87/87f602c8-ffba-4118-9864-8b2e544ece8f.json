@@ -1,0 +1,58 @@
+{
+  "id": "87f602c8-ffba-4118-9864-8b2e544ece8f",
+  "persona": "_prplpups_",
+  "names": [
+    "_prplpups_"
+  ],
+  "runs": 5,
+  "bestRank": 142,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3010962,
+  "weeksActive": [
+    -30,
+    -28,
+    -25,
+    -20,
+    -18
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 417,
+      "ms": 3010962,
+      "dish": "Turkey"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 142,
+      "ms": 4189939,
+      "dish": "Burgers"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 440,
+      "ms": 4382716,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 464,
+      "ms": 4637275,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 343,
+      "ms": 3673791,
+      "dish": "Fish"
+    }
+  ]
+}

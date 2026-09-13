@@ -1,0 +1,34 @@
+{
+  "id": "f0758c24-a08a-41ee-b611-a77fe54e64ad",
+  "persona": "Cameromo",
+  "names": [
+    "Cameromo"
+  ],
+  "runs": 2,
+  "bestRank": 88,
+  "worstRank": 104,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2481538,
+  "weeksActive": [
+    40,
+    44
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 104,
+      "ms": 2903969,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 88,
+      "ms": 2481538,
+      "dish": "Breakfast"
+    }
+  ]
+}

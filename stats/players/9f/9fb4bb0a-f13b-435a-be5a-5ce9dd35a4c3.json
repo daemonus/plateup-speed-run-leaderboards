@@ -1,0 +1,42 @@
+{
+  "id": "9fb4bb0a-f13b-435a-be5a-5ce9dd35a4c3",
+  "persona": "Irradiated",
+  "names": [
+    "Irradiated"
+  ],
+  "runs": 3,
+  "bestRank": 44,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2616617,
+  "weeksActive": [
+    31,
+    32,
+    87
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 240,
+      "ms": 3079553,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 105,
+      "ms": 2616617,
+      "dish": "Pies"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 44,
+      "ms": 2890774,
+      "dish": "Fajitas"
+    }
+  ]
+}

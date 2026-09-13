@@ -1,0 +1,58 @@
+{
+  "id": "55416160-0f59-466b-b5c4-ce6c5aaabb76",
+  "persona": "wendi",
+  "names": [
+    "wendi"
+  ],
+  "runs": 5,
+  "bestRank": 202,
+  "worstRank": 406,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3248696,
+  "weeksActive": [
+    -53,
+    -51,
+    -47,
+    -46,
+    -24
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 406,
+      "ms": 5727163,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 356,
+      "ms": 3248696,
+      "dish": "Turkey"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 357,
+      "ms": 4373625,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 219,
+      "ms": 3652145,
+      "dish": "Salad"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 202,
+      "ms": 4324078,
+      "dish": "Breakfast"
+    }
+  ]
+}

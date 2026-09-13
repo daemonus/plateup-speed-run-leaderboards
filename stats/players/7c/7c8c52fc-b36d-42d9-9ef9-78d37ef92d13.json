@@ -1,0 +1,74 @@
+{
+  "id": "7c8c52fc-b36d-42d9-9ef9-78d37ef92d13",
+  "persona": "Milee",
+  "names": [
+    "Milee"
+  ],
+  "runs": 7,
+  "bestRank": 46,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1705678,
+  "weeksActive": [
+    12,
+    13,
+    14,
+    19,
+    20,
+    23,
+    38
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 240,
+      "ms": 2586981,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 288,
+      "ms": 2911686,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 149,
+      "ms": 3019293,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 108,
+      "ms": 3058903,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 228,
+      "ms": 2313989,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 46,
+      "ms": 1705678,
+      "dish": "Turkey"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 256,
+      "ms": 3236791,
+      "dish": "Pies"
+    }
+  ]
+}

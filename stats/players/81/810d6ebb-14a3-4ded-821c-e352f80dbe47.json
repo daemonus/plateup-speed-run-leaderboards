@@ -1,0 +1,50 @@
+{
+  "id": "810d6ebb-14a3-4ded-821c-e352f80dbe47",
+  "persona": "FlyingDog",
+  "names": [
+    "FlyingDog"
+  ],
+  "runs": 4,
+  "bestRank": 49,
+  "worstRank": 295,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2724652,
+  "weeksActive": [
+    -61,
+    -60,
+    -59,
+    -58
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 295,
+      "ms": 3439175,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 115,
+      "ms": 3151143,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 251,
+      "ms": 3230356,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 49,
+      "ms": 2724652,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

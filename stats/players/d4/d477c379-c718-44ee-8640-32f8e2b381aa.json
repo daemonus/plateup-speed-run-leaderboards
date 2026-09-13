@@ -1,0 +1,34 @@
+{
+  "id": "d477c379-c718-44ee-8640-32f8e2b381aa",
+  "persona": "Pasi",
+  "names": [
+    "Pasi"
+  ],
+  "runs": 2,
+  "bestRank": 394,
+  "worstRank": 687,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3626220,
+  "weeksActive": [
+    20,
+    23
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 687,
+      "ms": 3750718,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 394,
+      "ms": 3626220,
+      "dish": "Turkey"
+    }
+  ]
+}

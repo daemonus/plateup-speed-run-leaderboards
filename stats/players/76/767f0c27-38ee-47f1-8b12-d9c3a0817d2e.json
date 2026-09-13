@@ -1,0 +1,34 @@
+{
+  "id": "767f0c27-38ee-47f1-8b12-d9c3a0817d2e",
+  "persona": "halpo",
+  "names": [
+    "halpo"
+  ],
+  "runs": 2,
+  "bestRank": 304,
+  "worstRank": 464,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3733399,
+  "weeksActive": [
+    30,
+    44
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 304,
+      "ms": 3733399,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 464,
+      "ms": 5133661,
+      "dish": "Breakfast"
+    }
+  ]
+}

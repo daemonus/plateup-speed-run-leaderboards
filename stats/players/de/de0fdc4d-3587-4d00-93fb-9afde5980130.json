@@ -1,0 +1,42 @@
+{
+  "id": "de0fdc4d-3587-4d00-93fb-9afde5980130",
+  "persona": "Sean",
+  "names": [
+    "Sean"
+  ],
+  "runs": 3,
+  "bestRank": 292,
+  "worstRank": 954,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4167469,
+  "weeksActive": [
+    -73,
+    -71,
+    -27
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 353,
+      "ms": 6142690,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 954,
+      "ms": 4167469,
+      "dish": "Turkey"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 292,
+      "ms": 5457488,
+      "dish": "Salad"
+    }
+  ]
+}

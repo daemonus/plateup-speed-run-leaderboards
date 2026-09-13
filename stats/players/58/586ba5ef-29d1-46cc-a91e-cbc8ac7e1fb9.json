@@ -1,0 +1,42 @@
+{
+  "id": "586ba5ef-29d1-46cc-a91e-cbc8ac7e1fb9",
+  "persona": "kim",
+  "names": [
+    "kim"
+  ],
+  "runs": 3,
+  "bestRank": 203,
+  "worstRank": 437,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3237807,
+  "weeksActive": [
+    -61,
+    -56,
+    -55
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 397,
+      "ms": 3927543,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 437,
+      "ms": 4341428,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 203,
+      "ms": 3237807,
+      "dish": "Pizza"
+    }
+  ]
+}

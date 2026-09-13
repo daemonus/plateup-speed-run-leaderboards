@@ -1,0 +1,106 @@
+{
+  "id": "ef01d1f6-cc7e-4cde-bbbc-ca8400f9eaa2",
+  "persona": "wan",
+  "names": [
+    "wan"
+  ],
+  "runs": 11,
+  "bestRank": 88,
+  "worstRank": 542,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1660513,
+  "weeksActive": [
+    76,
+    77,
+    78,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 154,
+      "ms": 3624030,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 88,
+      "ms": 1975529,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 142,
+      "ms": 2819015,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 230,
+      "ms": 3484176,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 123,
+      "ms": 3042475,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 165,
+      "ms": 2790855,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 267,
+      "ms": 2208726,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 542,
+      "ms": 3677385,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 285,
+      "ms": 3577917,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 101,
+      "ms": 1660513,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 135,
+      "ms": 4007102,
+      "dish": "Fajitas"
+    }
+  ]
+}

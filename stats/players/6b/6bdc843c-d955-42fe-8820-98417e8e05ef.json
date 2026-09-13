@@ -1,0 +1,42 @@
+{
+  "id": "6bdc843c-d955-42fe-8820-98417e8e05ef",
+  "persona": "Gojo Satoru",
+  "names": [
+    "Gojo Satoru"
+  ],
+  "runs": 3,
+  "bestRank": 467,
+  "worstRank": 1026,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4861752,
+  "weeksActive": [
+    -88,
+    -33,
+    -32
+  ],
+  "history": [
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 845,
+      "ms": 5523186,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 467,
+      "ms": 7236196,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1026,
+      "ms": 4861752,
+      "dish": "Breakfast"
+    }
+  ]
+}

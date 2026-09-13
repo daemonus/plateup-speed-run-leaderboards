@@ -1,0 +1,50 @@
+{
+  "id": "d65199f3-fe7b-414c-89af-814be5d2382a",
+  "persona": "Fizban1970",
+  "names": [
+    "Fizban1970"
+  ],
+  "runs": 4,
+  "bestRank": 229,
+  "worstRank": 1197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2950538,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -83
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1197,
+      "ms": 3250737,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 813,
+      "ms": 3257879,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 675,
+      "ms": 3431339,
+      "dish": "Pies"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 229,
+      "ms": 2950538,
+      "dish": "Steak"
+    }
+  ]
+}

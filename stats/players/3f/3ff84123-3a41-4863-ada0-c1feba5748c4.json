@@ -1,0 +1,58 @@
+{
+  "id": "3ff84123-3a41-4863-ada0-c1feba5748c4",
+  "persona": "Peggy1106",
+  "names": [
+    "Peggy1106"
+  ],
+  "runs": 5,
+  "bestRank": 193,
+  "worstRank": 1034,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3613345,
+  "weeksActive": [
+    -33,
+    -32,
+    -18,
+    86,
+    87
+  ],
+  "history": [
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 242,
+      "ms": 3646454,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 1034,
+      "ms": 4893498,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 573,
+      "ms": 4430630,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 435,
+      "ms": 3613345,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 193,
+      "ms": 5294092,
+      "dish": "Fajitas"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "009f417e-b5ec-4e3f-89b5-3502c31e1d9b",
+  "persona": "nano",
+  "names": [
+    "nano"
+  ],
+  "runs": 2,
+  "bestRank": 163,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2383645,
+  "weeksActive": [
+    9,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 284,
+      "ms": 3437483,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 163,
+      "ms": 2383645,
+      "dish": "Turkey"
+    }
+  ]
+}

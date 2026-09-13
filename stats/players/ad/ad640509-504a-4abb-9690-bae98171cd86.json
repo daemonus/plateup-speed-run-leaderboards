@@ -1,0 +1,42 @@
+{
+  "id": "ad640509-504a-4abb-9690-bae98171cd86",
+  "persona": "seth.trangenstein",
+  "names": [
+    "seth.trangenstein"
+  ],
+  "runs": 3,
+  "bestRank": 186,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1877826,
+  "weeksActive": [
+    -94,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 314,
+      "ms": 2581348,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 195,
+      "ms": 2532251,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 186,
+      "ms": 1877826,
+      "dish": "Fish"
+    }
+  ]
+}

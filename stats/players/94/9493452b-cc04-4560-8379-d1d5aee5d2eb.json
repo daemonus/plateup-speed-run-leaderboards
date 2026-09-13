@@ -1,0 +1,58 @@
+{
+  "id": "9493452b-cc04-4560-8379-d1d5aee5d2eb",
+  "persona": "BadGalCece",
+  "names": [
+    "BadGalCece"
+  ],
+  "runs": 5,
+  "bestRank": 35,
+  "worstRank": 163,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1265550,
+  "weeksActive": [
+    63,
+    64,
+    72,
+    79,
+    80
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 62,
+      "ms": 2200347,
+      "dish": "Pizza"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 35,
+      "ms": 1265550,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 121,
+      "ms": 2872399,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 163,
+      "ms": 3760790,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 81,
+      "ms": 2516959,
+      "dish": "Pizza"
+    }
+  ]
+}

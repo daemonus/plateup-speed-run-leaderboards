@@ -1,0 +1,42 @@
+{
+  "id": "dff1f8a0-25d6-40ac-a1a5-78bc5cf1c9a7",
+  "persona": "flllyc",
+  "names": [
+    "flllyc"
+  ],
+  "runs": 3,
+  "bestRank": 250,
+  "worstRank": 671,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2243309,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 671,
+      "ms": 2243309,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 250,
+      "ms": 2741135,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 544,
+      "ms": 2376078,
+      "dish": "Fish"
+    }
+  ]
+}

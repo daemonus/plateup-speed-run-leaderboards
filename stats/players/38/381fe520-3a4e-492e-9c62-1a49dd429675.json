@@ -1,0 +1,34 @@
+{
+  "id": "381fe520-3a4e-492e-9c62-1a49dd429675",
+  "persona": "Ace Hood 007",
+  "names": [
+    "Ace Hood 007"
+  ],
+  "runs": 2,
+  "bestRank": 256,
+  "worstRank": 306,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3474831,
+  "weeksActive": [
+    -60,
+    -59
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 256,
+      "ms": 3769652,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 306,
+      "ms": 3474831,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

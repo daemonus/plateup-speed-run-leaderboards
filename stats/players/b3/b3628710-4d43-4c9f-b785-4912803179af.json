@@ -1,0 +1,42 @@
+{
+  "id": "b3628710-4d43-4c9f-b785-4912803179af",
+  "persona": "Acoopes",
+  "names": [
+    "Acoopes"
+  ],
+  "runs": 3,
+  "bestRank": 94,
+  "worstRank": 178,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2361862,
+  "weeksActive": [
+    -27,
+    8,
+    9
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 178,
+      "ms": 4111637,
+      "dish": "Salad"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 167,
+      "ms": 2361862,
+      "dish": "Fish"
+    },
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 94,
+      "ms": 2541478,
+      "dish": "Breakfast"
+    }
+  ]
+}

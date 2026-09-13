@@ -1,0 +1,42 @@
+{
+  "id": "8f45d959-585c-42c5-a51f-e825eb8e586f",
+  "persona": "Tea",
+  "names": [
+    "Tea"
+  ],
+  "runs": 3,
+  "bestRank": 439,
+  "worstRank": 1013,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3500726,
+  "weeksActive": [
+    -90,
+    -87,
+    -77
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1013,
+      "ms": 3782200,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 439,
+      "ms": 3939471,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 461,
+      "ms": 3500726,
+      "dish": "Pies"
+    }
+  ]
+}

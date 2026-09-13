@@ -1,0 +1,58 @@
+{
+  "id": "d8218d92-d510-4795-9ddb-933829d0359e",
+  "persona": "shygirltam",
+  "names": [
+    "shygirltam"
+  ],
+  "runs": 5,
+  "bestRank": 171,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2906118,
+  "weeksActive": [
+    -73,
+    -13,
+    84,
+    85,
+    87
+  ],
+  "history": [
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 237,
+      "ms": 4851273,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 291,
+      "ms": 4332163,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 416,
+      "ms": 2906118,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 303,
+      "ms": 3657765,
+      "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 171,
+      "ms": 4604625,
+      "dish": "Fajitas"
+    }
+  ]
+}

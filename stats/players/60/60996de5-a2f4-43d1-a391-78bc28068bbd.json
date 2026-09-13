@@ -1,0 +1,34 @@
+{
+  "id": "60996de5-a2f4-43d1-a391-78bc28068bbd",
+  "persona": "Pfeilblitz",
+  "names": [
+    "Pfeilblitz"
+  ],
+  "runs": 2,
+  "bestRank": 234,
+  "worstRank": 293,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3264356,
+  "weeksActive": [
+    21,
+    24
+  ],
+  "history": [
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 293,
+      "ms": 3580112,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 234,
+      "ms": 3264356,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ba62a623-05ee-4e35-bfd8-30b89fad9ac2",
+  "persona": "gumdrop button",
+  "names": [
+    "gumdrop button"
+  ],
+  "runs": 5,
+  "bestRank": 234,
+  "worstRank": 430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2543568,
+  "weeksActive": [
+    28,
+    31,
+    55,
+    56,
+    57
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 234,
+      "ms": 2996419,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 351,
+      "ms": 3543169,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 381,
+      "ms": 6738917,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 430,
+      "ms": 2543568,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 429,
+      "ms": 4345305,
+      "dish": "Salad"
+    }
+  ]
+}

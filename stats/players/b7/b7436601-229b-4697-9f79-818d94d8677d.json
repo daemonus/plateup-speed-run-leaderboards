@@ -1,0 +1,58 @@
+{
+  "id": "b7436601-229b-4697-9f79-818d94d8677d",
+  "persona": "Travia",
+  "names": [
+    "Travia"
+  ],
+  "runs": 5,
+  "bestRank": 17,
+  "worstRank": 68,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1478682,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -88,
+    -87
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 55,
+      "ms": 1540559,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 45,
+      "ms": 1478682,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 46,
+      "ms": 1505076,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 68,
+      "ms": 2135621,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 17,
+      "ms": 1792841,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "b3c11ae0-cde5-41d3-b311-fbdd7df28ff2",
+  "persona": "Bunny",
+  "names": [
+    "Bunny"
+  ],
+  "runs": 6,
+  "bestRank": 30,
+  "worstRank": 288,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1893822,
+  "weeksActive": [
+    -89,
+    -88,
+    -61,
+    -59,
+    -51,
+    17
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 230,
+      "ms": 2280557,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 209,
+      "ms": 2726923,
+      "dish": "Pies"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 30,
+      "ms": 1893822,
+      "dish": "Fish"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 87,
+      "ms": 2445180,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 109,
+      "ms": 2354985,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 288,
+      "ms": 6254507,
+      "dish": "Pizza"
+    }
+  ]
+}

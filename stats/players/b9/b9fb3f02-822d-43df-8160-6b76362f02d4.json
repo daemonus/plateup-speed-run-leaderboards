@@ -1,0 +1,42 @@
+{
+  "id": "b9fb3f02-822d-43df-8160-6b76362f02d4",
+  "persona": "Aidee",
+  "names": [
+    "Aidee"
+  ],
+  "runs": 3,
+  "bestRank": 148,
+  "worstRank": 454,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2256150,
+  "weeksActive": [
+    -91,
+    -50,
+    53
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 454,
+      "ms": 2256150,
+      "dish": "Fish"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 148,
+      "ms": 3736896,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 277,
+      "ms": 3608730,
+      "dish": "Pies"
+    }
+  ]
+}

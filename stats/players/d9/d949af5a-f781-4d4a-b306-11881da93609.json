@@ -1,0 +1,34 @@
+{
+  "id": "d949af5a-f781-4d4a-b306-11881da93609",
+  "persona": "Deasie",
+  "names": [
+    "Deasie"
+  ],
+  "runs": 2,
+  "bestRank": 364,
+  "worstRank": 1012,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3779168,
+  "weeksActive": [
+    -90,
+    -73
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1012,
+      "ms": 3779168,
+      "dish": "Fish"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 364,
+      "ms": 6283151,
+      "dish": "Stir Fry"
+    }
+  ]
+}

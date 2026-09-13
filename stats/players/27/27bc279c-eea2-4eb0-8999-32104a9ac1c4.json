@@ -1,0 +1,42 @@
+{
+  "id": "27bc279c-eea2-4eb0-8999-32104a9ac1c4",
+  "persona": "sin19682004",
+  "names": [
+    "sin19682004"
+  ],
+  "runs": 3,
+  "bestRank": 186,
+  "worstRank": 992,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3617819,
+  "weeksActive": [
+    -89,
+    -86,
+    -85
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 992,
+      "ms": 5301366,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 844,
+      "ms": 5593473,
+      "dish": "Fish"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 186,
+      "ms": 3617819,
+      "dish": "Stir Fry"
+    }
+  ]
+}

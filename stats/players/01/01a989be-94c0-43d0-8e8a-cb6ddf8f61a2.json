@@ -1,0 +1,42 @@
+{
+  "id": "01a989be-94c0-43d0-8e8a-cb6ddf8f61a2",
+  "persona": "Etorum",
+  "names": [
+    "Etorum"
+  ],
+  "runs": 3,
+  "bestRank": 101,
+  "worstRank": 632,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2206581,
+  "weeksActive": [
+    -93,
+    -47,
+    69
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 632,
+      "ms": 2206581,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 101,
+      "ms": 3010355,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 129,
+      "ms": 3187890,
+      "dish": "Burgers"
+    }
+  ]
+}

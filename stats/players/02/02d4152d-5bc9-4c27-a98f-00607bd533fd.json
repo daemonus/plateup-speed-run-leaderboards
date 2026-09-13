@@ -1,0 +1,42 @@
+{
+  "id": "02d4152d-5bc9-4c27-a98f-00607bd533fd",
+  "persona": "rokdetective",
+  "names": [
+    "rokdetective"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 734,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2173555,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 734,
+      "ms": 2618359,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 435,
+      "ms": 2539635,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 197,
+      "ms": 2173555,
+      "dish": "Pies"
+    }
+  ]
+}

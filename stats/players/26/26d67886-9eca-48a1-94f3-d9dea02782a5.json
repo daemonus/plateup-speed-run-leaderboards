@@ -1,0 +1,58 @@
+{
+  "id": "26d67886-9eca-48a1-94f3-d9dea02782a5",
+  "persona": "aclif",
+  "names": [
+    "aclif"
+  ],
+  "runs": 5,
+  "bestRank": 129,
+  "worstRank": 270,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2186375,
+  "weeksActive": [
+    -13,
+    -12,
+    7,
+    8,
+    19
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 244,
+      "ms": 3759629,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 190,
+      "ms": 3511012,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 270,
+      "ms": 3427521,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 129,
+      "ms": 2186375,
+      "dish": "Fish"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 262,
+      "ms": 4014388,
+      "dish": "Pizza"
+    }
+  ]
+}

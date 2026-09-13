@@ -1,0 +1,50 @@
+{
+  "id": "101be487-74fe-4daf-bd74-0cb04ff07b00",
+  "persona": "jeanne_charm",
+  "names": [
+    "jeanne_charm"
+  ],
+  "runs": 4,
+  "bestRank": 449,
+  "worstRank": 1631,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2888011,
+  "weeksActive": [
+    -93,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1631,
+      "ms": 2888011,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 699,
+      "ms": 3058256,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 719,
+      "ms": 3592882,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 449,
+      "ms": 3552197,
+      "dish": "Pies"
+    }
+  ]
+}

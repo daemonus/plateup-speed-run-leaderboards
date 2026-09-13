@@ -1,0 +1,82 @@
+{
+  "id": "715e29b4-07ab-4041-a692-b53b9ea72964",
+  "persona": "itumi",
+  "names": [
+    "itumi"
+  ],
+  "runs": 8,
+  "bestRank": 104,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2517003,
+  "weeksActive": [
+    -19,
+    -18,
+    0,
+    31,
+    36,
+    46,
+    47,
+    52
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 205,
+      "ms": 3458666,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 214,
+      "ms": 3198955,
+      "dish": "Fish"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 104,
+      "ms": 3293611,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 203,
+      "ms": 2866971,
+      "dish": "Fish"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 158,
+      "ms": 2517003,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 297,
+      "ms": 3448315,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 200,
+      "ms": 3620658,
+      "dish": "Pizza"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 169,
+      "ms": 2526963,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "c9733253-14fb-4b1f-8e33-6110173994c1",
+  "persona": "SILVERBULLET",
+  "names": [
+    "SILVERBULLET"
+  ],
+  "runs": 5,
+  "bestRank": 340,
+  "worstRank": 873,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3293609,
+  "weeksActive": [
+    -41,
+    -32,
+    -31,
+    -30,
+    -25
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 401,
+      "ms": 5906056,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 390,
+      "ms": 3293609,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 873,
+      "ms": 5821882,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 743,
+      "ms": 3894273,
+      "dish": "Turkey"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 340,
+      "ms": 4036336,
+      "dish": "Breakfast"
+    }
+  ]
+}

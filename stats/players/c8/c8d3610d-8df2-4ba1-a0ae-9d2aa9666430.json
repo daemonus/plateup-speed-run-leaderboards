@@ -1,0 +1,34 @@
+{
+  "id": "c8d3610d-8df2-4ba1-a0ae-9d2aa9666430",
+  "persona": "lisa",
+  "names": [
+    "lisa"
+  ],
+  "runs": 2,
+  "bestRank": 311,
+  "worstRank": 466,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4082921,
+  "weeksActive": [
+    -44,
+    -41
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 466,
+      "ms": 4082921,
+      "dish": "Turkey"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 311,
+      "ms": 4848096,
+      "dish": "Stir Fry"
+    }
+  ]
+}

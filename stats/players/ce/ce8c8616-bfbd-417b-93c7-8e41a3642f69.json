@@ -1,0 +1,34 @@
+{
+  "id": "ce8c8616-bfbd-417b-93c7-8e41a3642f69",
+  "persona": "mochi",
+  "names": [
+    "mochi"
+  ],
+  "runs": 2,
+  "bestRank": 497,
+  "worstRank": 711,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2321062,
+  "weeksActive": [
+    -91,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 497,
+      "ms": 2321062,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 711,
+      "ms": 3798226,
+      "dish": "Turkey"
+    }
+  ]
+}

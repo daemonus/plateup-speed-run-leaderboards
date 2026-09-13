@@ -1,0 +1,42 @@
+{
+  "id": "7cbf2be6-3a53-446e-9883-850c26b9a1e8",
+  "persona": "huan",
+  "names": [
+    "huan"
+  ],
+  "runs": 3,
+  "bestRank": 197,
+  "worstRank": 335,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2918933,
+  "weeksActive": [
+    38,
+    44,
+    46
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 197,
+      "ms": 2918933,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 245,
+      "ms": 3239738,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 335,
+      "ms": 3635555,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cf00d388-8f73-4d46-9fe0-12215d027c2c",
+  "persona": "hellenonearth",
+  "names": [
+    "hellenonearth"
+  ],
+  "runs": 3,
+  "bestRank": 213,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2878909,
+  "weeksActive": [
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 510,
+      "ms": 3614054,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 213,
+      "ms": 2878909,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 581,
+      "ms": 3761621,
+      "dish": "Fish"
+    }
+  ]
+}

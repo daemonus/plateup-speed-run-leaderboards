@@ -1,0 +1,42 @@
+{
+  "id": "df789f81-ce36-4a3e-b0ea-e4a60544c3c1",
+  "persona": "ssssssui",
+  "names": [
+    "ssssssui"
+  ],
+  "runs": 3,
+  "bestRank": 240,
+  "worstRank": 358,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2134308,
+  "weeksActive": [
+    26,
+    41,
+    84
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 253,
+      "ms": 3836829,
+      "dish": "Pizza"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 240,
+      "ms": 2134308,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 358,
+      "ms": 2628848,
+      "dish": "Sundaes"
+    }
+  ]
+}

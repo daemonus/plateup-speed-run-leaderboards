@@ -1,0 +1,34 @@
+{
+  "id": "645659cb-3fb1-4757-b459-37cecc84e133",
+  "persona": "Paradise",
+  "names": [
+    "Paradise"
+  ],
+  "runs": 2,
+  "bestRank": 326,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3375899,
+  "weeksActive": [
+    -51,
+    -45
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 398,
+      "ms": 3375899,
+      "dish": "Turkey"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 326,
+      "ms": 3611353,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cf7d2d6b-1249-4842-813e-cea323511589",
+  "persona": "Jatisso",
+  "names": [
+    "Jatisso"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 1051,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2491472,
+  "weeksActive": [
+    -94,
+    -93,
+    -53
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 917,
+      "ms": 3333945,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1051,
+      "ms": 2491472,
+      "dish": "Fish"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 125,
+      "ms": 3401907,
+      "dish": "Breakfast"
+    }
+  ]
+}

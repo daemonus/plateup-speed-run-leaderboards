@@ -1,0 +1,34 @@
+{
+  "id": "4c75bfd0-109f-4a5f-a8ff-06bc237df23f",
+  "persona": "Avicularia",
+  "names": [
+    "Avicularia"
+  ],
+  "runs": 2,
+  "bestRank": 214,
+  "worstRank": 246,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4133548,
+  "weeksActive": [
+    25,
+    27
+  ],
+  "history": [
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 214,
+      "ms": 5878905,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 246,
+      "ms": 4133548,
+      "dish": "Breakfast"
+    }
+  ]
+}

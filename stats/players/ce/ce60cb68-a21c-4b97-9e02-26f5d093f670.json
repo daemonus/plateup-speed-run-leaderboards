@@ -1,0 +1,66 @@
+{
+  "id": "ce60cb68-a21c-4b97-9e02-26f5d093f670",
+  "persona": "ao1017saki",
+  "names": [
+    "ao1017saki"
+  ],
+  "runs": 6,
+  "bestRank": 149,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2350812,
+  "weeksActive": [
+    20,
+    22,
+    28,
+    29,
+    30,
+    39
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 243,
+      "ms": 2350812,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 279,
+      "ms": 4360467,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 149,
+      "ms": 2522941,
+      "dish": "Turkey"
+    },
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 163,
+      "ms": 4318681,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 313,
+      "ms": 3767870,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 274,
+      "ms": 4642687,
+      "dish": "Stir Fry"
+    }
+  ]
+}

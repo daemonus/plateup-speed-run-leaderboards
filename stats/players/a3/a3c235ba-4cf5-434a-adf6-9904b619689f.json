@@ -1,0 +1,58 @@
+{
+  "id": "a3c235ba-4cf5-434a-adf6-9904b619689f",
+  "persona": "somipo",
+  "names": [
+    "somipo"
+  ],
+  "runs": 5,
+  "bestRank": 384,
+  "worstRank": 1688,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3081663,
+  "weeksActive": [
+    -94,
+    -76,
+    -75,
+    -74,
+    -72
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1688,
+      "ms": 5025859,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 590,
+      "ms": 3450652,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 515,
+      "ms": 3081663,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 384,
+      "ms": 4060360,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 676,
+      "ms": 4748356,
+      "dish": "Pies"
+    }
+  ]
+}

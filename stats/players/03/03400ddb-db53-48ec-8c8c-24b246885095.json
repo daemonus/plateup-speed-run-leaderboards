@@ -1,0 +1,50 @@
+{
+  "id": "03400ddb-db53-48ec-8c8c-24b246885095",
+  "persona": "PKMN",
+  "names": [
+    "PKMN"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1772494,
+  "weeksActive": [
+    55,
+    56,
+    60,
+    61
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 215,
+      "ms": 3986434,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 164,
+      "ms": 1772494,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 181,
+      "ms": 3266594,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 189,
+      "ms": 3217857,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

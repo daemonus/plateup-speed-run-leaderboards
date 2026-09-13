@@ -1,0 +1,42 @@
+{
+  "id": "a711a224-537a-438a-90e1-e68a89e9a8b8",
+  "persona": "Shrimp Shark",
+  "names": [
+    "Shrimp Shark"
+  ],
+  "runs": 3,
+  "bestRank": 214,
+  "worstRank": 435,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4172777,
+  "weeksActive": [
+    -58,
+    -35,
+    -4
+  ],
+  "history": [
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 241,
+      "ms": 4903292,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 214,
+      "ms": 4973467,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 435,
+      "ms": 4172777,
+      "dish": "Pies"
+    }
+  ]
+}

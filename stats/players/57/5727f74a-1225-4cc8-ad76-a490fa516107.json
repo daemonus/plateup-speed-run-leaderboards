@@ -1,0 +1,50 @@
+{
+  "id": "5727f74a-1225-4cc8-ad76-a490fa516107",
+  "persona": "\u732Bbot",
+  "names": [
+    "\u732Bbot"
+  ],
+  "runs": 4,
+  "bestRank": 304,
+  "worstRank": 383,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3580953,
+  "weeksActive": [
+    35,
+    38,
+    46,
+    47
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 363,
+      "ms": 4514387,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 383,
+      "ms": 3861004,
+      "dish": "Pies"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 324,
+      "ms": 3580953,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 304,
+      "ms": 4440608,
+      "dish": "Pizza"
+    }
+  ]
+}

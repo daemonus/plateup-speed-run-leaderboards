@@ -1,0 +1,58 @@
+{
+  "id": "2c3f357d-7a5e-42da-9530-d64617168733",
+  "persona": "Coco Cat",
+  "names": [
+    "Coco Cat"
+  ],
+  "runs": 5,
+  "bestRank": 275,
+  "worstRank": 388,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4293104,
+  "weeksActive": [
+    47,
+    74,
+    75,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 277,
+      "ms": 4293104,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 279,
+      "ms": 4593786,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 318,
+      "ms": 4695819,
+      "dish": "Pies"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 388,
+      "ms": 4789987,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 275,
+      "ms": 4563541,
+      "dish": "Pizza"
+    }
+  ]
+}

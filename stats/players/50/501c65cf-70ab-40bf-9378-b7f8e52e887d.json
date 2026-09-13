@@ -1,0 +1,50 @@
+{
+  "id": "501c65cf-70ab-40bf-9378-b7f8e52e887d",
+  "persona": "jordan",
+  "names": [
+    "jordan"
+  ],
+  "runs": 4,
+  "bestRank": 56,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2015706,
+  "weeksActive": [
+    -93,
+    -46,
+    31,
+    66
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 403,
+      "ms": 2015706,
+      "dish": "Fish"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 94,
+      "ms": 3054844,
+      "dish": "Salad"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 94,
+      "ms": 2376656,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 56,
+      "ms": 2140615,
+      "dish": "Breakfast"
+    }
+  ]
+}

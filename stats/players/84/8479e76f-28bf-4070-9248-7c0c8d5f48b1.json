@@ -1,0 +1,42 @@
+{
+  "id": "8479e76f-28bf-4070-9248-7c0c8d5f48b1",
+  "persona": "roserunner",
+  "names": [
+    "roserunner"
+  ],
+  "runs": 3,
+  "bestRank": 118,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3138323,
+  "weeksActive": [
+    -78,
+    33,
+    34
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 258,
+      "ms": 3138323,
+      "dish": "Burgers"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 118,
+      "ms": 3208663,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 349,
+      "ms": 4592606,
+      "dish": "Stir Fry"
+    }
+  ]
+}

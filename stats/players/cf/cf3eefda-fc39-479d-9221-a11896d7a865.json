@@ -1,0 +1,58 @@
+{
+  "id": "cf3eefda-fc39-479d-9221-a11896d7a865",
+  "persona": "Cangreburguito",
+  "names": [
+    "Cangreburguito"
+  ],
+  "runs": 5,
+  "bestRank": 229,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4387428,
+  "weeksActive": [
+    35,
+    37,
+    38,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 349,
+      "ms": 4387428,
+      "dish": "Fish"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 263,
+      "ms": 7065233,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 530,
+      "ms": 6857666,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 459,
+      "ms": 5006077,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 229,
+      "ms": 6112590,
+      "dish": "Salad"
+    }
+  ]
+}

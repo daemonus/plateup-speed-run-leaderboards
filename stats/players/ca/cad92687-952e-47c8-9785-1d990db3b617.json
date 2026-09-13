@@ -1,0 +1,42 @@
+{
+  "id": "cad92687-952e-47c8-9785-1d990db3b617",
+  "persona": "Esteri",
+  "names": [
+    "Esteri"
+  ],
+  "runs": 3,
+  "bestRank": 403,
+  "worstRank": 787,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4870354,
+  "weeksActive": [
+    -83,
+    -82,
+    -81
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 533,
+      "ms": 4870354,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 787,
+      "ms": 5434106,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 403,
+      "ms": 5315503,
+      "dish": "Steak"
+    }
+  ]
+}

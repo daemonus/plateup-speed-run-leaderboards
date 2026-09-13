@@ -1,0 +1,34 @@
+{
+  "id": "6901f41d-412e-4bfe-9bc9-10ac7bbe7d25",
+  "persona": "KirasNote",
+  "names": [
+    "KirasNote"
+  ],
+  "runs": 2,
+  "bestRank": 391,
+  "worstRank": 664,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 9983958,
+  "weeksActive": [
+    -74,
+    -73
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 664,
+      "ms": 9983958,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -73,
+      "start": "2023-08-14",
+      "rank": 391,
+      "ms": 10118075,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "f438843a-7d21-4d79-b378-a4e8d753855c",
+  "persona": "Jester",
+  "names": [
+    "Jester"
+  ],
+  "runs": 2,
+  "bestRank": 415,
+  "worstRank": 909,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2820487,
+  "weeksActive": [
+    -91,
+    -76
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 909,
+      "ms": 2820487,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 415,
+      "ms": 3047057,
+      "dish": "Turkey"
+    }
+  ]
+}

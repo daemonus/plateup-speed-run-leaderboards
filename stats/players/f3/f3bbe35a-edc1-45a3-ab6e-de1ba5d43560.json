@@ -1,0 +1,50 @@
+{
+  "id": "f3bbe35a-edc1-45a3-ab6e-de1ba5d43560",
+  "persona": "Emakp",
+  "names": [
+    "Emakp"
+  ],
+  "runs": 4,
+  "bestRank": 409,
+  "worstRank": 798,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2294669,
+  "weeksActive": [
+    -93,
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 757,
+      "ms": 2294669,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 798,
+      "ms": 3230321,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 409,
+      "ms": 2731444,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 492,
+      "ms": 3746635,
+      "dish": "Pies"
+    }
+  ]
+}

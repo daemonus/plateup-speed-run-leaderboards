@@ -1,0 +1,50 @@
+{
+  "id": "bb1c24df-4b8e-4027-b92c-9fbe1247582b",
+  "persona": "kit",
+  "names": [
+    "kit"
+  ],
+  "runs": 4,
+  "bestRank": 89,
+  "worstRank": 261,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3283646,
+  "weeksActive": [
+    -14,
+    -13,
+    -12,
+    -11
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 151,
+      "ms": 4116718,
+      "dish": "Salad"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 261,
+      "ms": 3913982,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 180,
+      "ms": 3424624,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 89,
+      "ms": 3283646,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b8535b6f-889f-4560-8606-70ac54bc473b",
+  "persona": "Wrinkle",
+  "names": [
+    "Wrinkle"
+  ],
+  "runs": 3,
+  "bestRank": 265,
+  "worstRank": 532,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2367764,
+  "weeksActive": [
+    -92,
+    -91,
+    -88
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 265,
+      "ms": 2777993,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 532,
+      "ms": 2367764,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 345,
+      "ms": 3163262,
+      "dish": "Pies"
+    }
+  ]
+}

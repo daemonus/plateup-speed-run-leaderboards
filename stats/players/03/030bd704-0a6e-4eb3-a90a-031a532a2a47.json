@@ -1,0 +1,58 @@
+{
+  "id": "030bd704-0a6e-4eb3-a90a-031a532a2a47",
+  "persona": "FeelsBatman",
+  "names": [
+    "FeelsBatman"
+  ],
+  "runs": 5,
+  "bestRank": 53,
+  "worstRank": 491,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2094560,
+  "weeksActive": [
+    -93,
+    71,
+    74,
+    80,
+    81
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 491,
+      "ms": 2094560,
+      "dish": "Fish"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 53,
+      "ms": 2293374,
+      "dish": "Pizza"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 117,
+      "ms": 3209539,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 87,
+      "ms": 2562211,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 95,
+      "ms": 2866516,
+      "dish": "Pizza"
+    }
+  ]
+}

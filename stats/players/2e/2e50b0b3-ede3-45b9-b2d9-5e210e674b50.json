@@ -1,0 +1,42 @@
+{
+  "id": "2e50b0b3-ede3-45b9-b2d9-5e210e674b50",
+  "persona": "Bibblio6",
+  "names": [
+    "Bibblio6"
+  ],
+  "runs": 3,
+  "bestRank": 120,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2926507,
+  "weeksActive": [
+    -46,
+    -26,
+    -19
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 416,
+      "ms": 4606566,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 120,
+      "ms": 3276321,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 139,
+      "ms": 2926507,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

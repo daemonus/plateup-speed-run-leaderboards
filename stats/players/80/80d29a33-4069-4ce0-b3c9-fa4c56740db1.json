@@ -1,0 +1,50 @@
+{
+  "id": "80d29a33-4069-4ce0-b3c9-fa4c56740db1",
+  "persona": "Styxa",
+  "names": [
+    "Styxa"
+  ],
+  "runs": 4,
+  "bestRank": 51,
+  "worstRank": 176,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1778528,
+  "weeksActive": [
+    -68,
+    -67,
+    -17,
+    84
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 51,
+      "ms": 2771793,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 131,
+      "ms": 3163082,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 176,
+      "ms": 3049217,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 154,
+      "ms": 1778528,
+      "dish": "Sundaes"
+    }
+  ]
+}

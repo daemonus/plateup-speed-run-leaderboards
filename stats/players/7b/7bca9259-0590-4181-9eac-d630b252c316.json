@@ -1,0 +1,90 @@
+{
+  "id": "7bca9259-0590-4181-9eac-d630b252c316",
+  "persona": "Esquilo de Chapeu",
+  "names": [
+    "Esquilo de Chapeu"
+  ],
+  "runs": 9,
+  "bestRank": 103,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2110639,
+  "weeksActive": [
+    46,
+    48,
+    50,
+    51,
+    77,
+    78,
+    80,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 447,
+      "ms": 4273844,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 153,
+      "ms": 4440523,
+      "dish": "Pizza"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 103,
+      "ms": 3487870,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 220,
+      "ms": 3996905,
+      "dish": "Salad"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 393,
+      "ms": 3823786,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 274,
+      "ms": 3702418,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 208,
+      "ms": 3330091,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 230,
+      "ms": 2110639,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 290,
+      "ms": 3606796,
+      "dish": "Fish"
+    }
+  ]
+}

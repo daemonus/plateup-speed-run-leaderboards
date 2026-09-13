@@ -1,0 +1,50 @@
+{
+  "id": "1ab3db0a-0da3-4fb4-bee2-b34ebe69c149",
+  "persona": "rocky",
+  "names": [
+    "rocky"
+  ],
+  "runs": 4,
+  "bestRank": 205,
+  "worstRank": 2688,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3467325,
+  "weeksActive": [
+    -93,
+    -63,
+    -61,
+    -25
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2688,
+      "ms": 3943035,
+      "dish": "Fish"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 621,
+      "ms": 5518180,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 303,
+      "ms": 3467325,
+      "dish": "Fish"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 205,
+      "ms": 3526925,
+      "dish": "Breakfast"
+    }
+  ]
+}

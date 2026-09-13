@@ -1,0 +1,42 @@
+{
+  "id": "4a9f298b-b165-4150-9f4d-b706c5ecc9de",
+  "persona": "Castor",
+  "names": [
+    "Castor"
+  ],
+  "runs": 3,
+  "bestRank": 211,
+  "worstRank": 826,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2095760,
+  "weeksActive": [
+    -91,
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 826,
+      "ms": 2731890,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 211,
+      "ms": 2095760,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 307,
+      "ms": 2468048,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "63622ead-eb5b-4b62-927b-02e40f5ed272",
+  "persona": "mediocre player",
+  "names": [
+    "mediocre player"
+  ],
+  "runs": 2,
+  "bestRank": 69,
+  "worstRank": 247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3251689,
+  "weeksActive": [
+    -20,
+    -14
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 247,
+      "ms": 3519070,
+      "dish": "Burgers"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 69,
+      "ms": 3251689,
+      "dish": "Salad"
+    }
+  ]
+}

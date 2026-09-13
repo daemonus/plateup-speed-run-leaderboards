@@ -1,0 +1,42 @@
+{
+  "id": "1f4faead-ff27-4b14-a378-870013c3d38f",
+  "persona": "setton",
+  "names": [
+    "setton"
+  ],
+  "runs": 3,
+  "bestRank": 365,
+  "worstRank": 596,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3867414,
+  "weeksActive": [
+    -62,
+    -61,
+    -60
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 596,
+      "ms": 4553581,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 386,
+      "ms": 3867414,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 365,
+      "ms": 4498671,
+      "dish": "Burgers"
+    }
+  ]
+}

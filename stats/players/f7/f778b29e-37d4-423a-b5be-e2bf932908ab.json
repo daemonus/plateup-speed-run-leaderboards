@@ -1,0 +1,34 @@
+{
+  "id": "f778b29e-37d4-423a-b5be-e2bf932908ab",
+  "persona": "Paruma",
+  "names": [
+    "Paruma"
+  ],
+  "runs": 2,
+  "bestRank": 176,
+  "worstRank": 530,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3715259,
+  "weeksActive": [
+    15,
+    16
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 530,
+      "ms": 3715259,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 176,
+      "ms": 3794205,
+      "dish": "Stir Fry"
+    }
+  ]
+}

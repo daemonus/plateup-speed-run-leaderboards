@@ -1,0 +1,42 @@
+{
+  "id": "33ccf3bf-08a2-416a-bc48-7b5a8e06514a",
+  "persona": "astryr",
+  "names": [
+    "astryr"
+  ],
+  "runs": 3,
+  "bestRank": 44,
+  "worstRank": 226,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1800949,
+  "weeksActive": [
+    19,
+    20,
+    30
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 226,
+      "ms": 3792831,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 92,
+      "ms": 1800949,
+      "dish": "Turkey"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 44,
+      "ms": 2148649,
+      "dish": "Breakfast"
+    }
+  ]
+}

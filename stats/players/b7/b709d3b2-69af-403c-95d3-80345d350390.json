@@ -1,0 +1,42 @@
+{
+  "id": "b709d3b2-69af-403c-95d3-80345d350390",
+  "persona": "CLEAN",
+  "names": [
+    "CLEAN"
+  ],
+  "runs": 3,
+  "bestRank": 300,
+  "worstRank": 748,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4996142,
+  "weeksActive": [
+    9,
+    11,
+    13
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 516,
+      "ms": 5932128,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 300,
+      "ms": 7812790,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 748,
+      "ms": 4996142,
+      "dish": "Turkey"
+    }
+  ]
+}

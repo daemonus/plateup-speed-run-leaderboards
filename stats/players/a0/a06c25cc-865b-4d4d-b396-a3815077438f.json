@@ -1,0 +1,42 @@
+{
+  "id": "a06c25cc-865b-4d4d-b396-a3815077438f",
+  "persona": "MJasmine",
+  "names": [
+    "MJasmine"
+  ],
+  "runs": 3,
+  "bestRank": 130,
+  "worstRank": 327,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2861038,
+  "weeksActive": [
+    -20,
+    -19,
+    -18
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 327,
+      "ms": 3847758,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 130,
+      "ms": 2861038,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 241,
+      "ms": 3288129,
+      "dish": "Fish"
+    }
+  ]
+}

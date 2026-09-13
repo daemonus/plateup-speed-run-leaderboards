@@ -1,0 +1,34 @@
+{
+  "id": "f21175e5-afce-4125-bcf8-854fc1883fb7",
+  "persona": "Star",
+  "names": [
+    "Star"
+  ],
+  "runs": 2,
+  "bestRank": 153,
+  "worstRank": 494,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3895770,
+  "weeksActive": [
+    -27,
+    -25
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 153,
+      "ms": 3895770,
+      "dish": "Salad"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 494,
+      "ms": 4561137,
+      "dish": "Breakfast"
+    }
+  ]
+}

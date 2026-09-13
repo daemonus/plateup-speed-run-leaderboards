@@ -1,0 +1,42 @@
+{
+  "id": "d909e3dd-d81e-45a6-ab58-4039ac310d81",
+  "persona": "hyacinthus0.0",
+  "names": [
+    "hyacinthus0.0"
+  ],
+  "runs": 3,
+  "bestRank": 175,
+  "worstRank": 418,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3091449,
+  "weeksActive": [
+    6,
+    8,
+    26
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 175,
+      "ms": 3264037,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 418,
+      "ms": 3091449,
+      "dish": "Fish"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 410,
+      "ms": 6604394,
+      "dish": "Pizza"
+    }
+  ]
+}

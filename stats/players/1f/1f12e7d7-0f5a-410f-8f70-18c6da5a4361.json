@@ -1,0 +1,82 @@
+{
+  "id": "1f12e7d7-0f5a-410f-8f70-18c6da5a4361",
+  "persona": "Popcorn",
+  "names": [
+    "Popcorn"
+  ],
+  "runs": 8,
+  "bestRank": 171,
+  "worstRank": 469,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2506163,
+  "weeksActive": [
+    -22,
+    -21,
+    -20,
+    -19,
+    -18,
+    -17,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 186,
+      "ms": 4256563,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 292,
+      "ms": 3615095,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 469,
+      "ms": 4682850,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 171,
+      "ms": 3133655,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 257,
+      "ms": 3343078,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 251,
+      "ms": 3600996,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 210,
+      "ms": 2506163,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 310,
+      "ms": 3515253,
+      "dish": "Breakfast"
+    }
+  ]
+}

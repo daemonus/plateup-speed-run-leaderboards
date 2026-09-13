@@ -1,0 +1,34 @@
+{
+  "id": "8939fb26-39a4-4351-9e48-3e1d696d5249",
+  "persona": "ana",
+  "names": [
+    "ana"
+  ],
+  "runs": 2,
+  "bestRank": 214,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2470523,
+  "weeksActive": [
+    -81,
+    -75
+  ],
+  "history": [
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 214,
+      "ms": 3706555,
+      "dish": "Steak"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 277,
+      "ms": 2470523,
+      "dish": "Fish"
+    }
+  ]
+}

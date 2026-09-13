@@ -1,0 +1,42 @@
+{
+  "id": "f4a587e8-1549-4e24-827f-45ce5b3975c7",
+  "persona": "\u0027sauleji",
+  "names": [
+    "\u0027sauleji"
+  ],
+  "runs": 3,
+  "bestRank": 277,
+  "worstRank": 486,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2725423,
+  "weeksActive": [
+    52,
+    58,
+    64
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 277,
+      "ms": 2938683,
+      "dish": "Fish"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 375,
+      "ms": 3485522,
+      "dish": "Turkey"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 486,
+      "ms": 2725423,
+      "dish": "Sundaes"
+    }
+  ]
+}

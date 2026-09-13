@@ -1,0 +1,58 @@
+{
+  "id": "f5caca24-7b04-419f-8ef1-6d9fe09d51e2",
+  "persona": "spot_the_emu",
+  "names": [
+    "spot_the_emu"
+  ],
+  "runs": 5,
+  "bestRank": 48,
+  "worstRank": 268,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2314772,
+  "weeksActive": [
+    -84,
+    -82,
+    -47,
+    -46,
+    0
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 268,
+      "ms": 2763233,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 155,
+      "ms": 2314772,
+      "dish": "Fish"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 159,
+      "ms": 3312844,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 53,
+      "ms": 2778259,
+      "dish": "Salad"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 48,
+      "ms": 2746437,
+      "dish": "Stir Fry"
+    }
+  ]
+}

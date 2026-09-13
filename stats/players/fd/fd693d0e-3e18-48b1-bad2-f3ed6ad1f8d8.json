@@ -1,0 +1,42 @@
+{
+  "id": "fd693d0e-3e18-48b1-bad2-f3ed6ad1f8d8",
+  "persona": "guvencem86",
+  "names": [
+    "guvencem86"
+  ],
+  "runs": 3,
+  "bestRank": 275,
+  "worstRank": 822,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3658578,
+  "weeksActive": [
+    -75,
+    -71,
+    -64
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 742,
+      "ms": 3658578,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 822,
+      "ms": 3860092,
+      "dish": "Turkey"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 275,
+      "ms": 3906014,
+      "dish": "Salad"
+    }
+  ]
+}

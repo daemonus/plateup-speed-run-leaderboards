@@ -1,0 +1,42 @@
+{
+  "id": "3e0fc0af-72a1-466c-8a75-1a4a7e1472db",
+  "persona": "moonstrider",
+  "names": [
+    "moonstrider"
+  ],
+  "runs": 3,
+  "bestRank": 305,
+  "worstRank": 589,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3592836,
+  "weeksActive": [
+    -57,
+    -56,
+    -20
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 305,
+      "ms": 5076899,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 350,
+      "ms": 3592836,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 589,
+      "ms": 6850489,
+      "dish": "Burgers"
+    }
+  ]
+}

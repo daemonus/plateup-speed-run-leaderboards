@@ -1,0 +1,58 @@
+{
+  "id": "c7e22b4c-dc1f-43ef-bfac-e700454fa574",
+  "persona": "sunshinelewis",
+  "names": [
+    "sunshinelewis"
+  ],
+  "runs": 5,
+  "bestRank": 73,
+  "worstRank": 432,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2382834,
+  "weeksActive": [
+    -3,
+    14,
+    31,
+    34,
+    35
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 432,
+      "ms": 3460059,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 168,
+      "ms": 3123842,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 273,
+      "ms": 3223974,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 233,
+      "ms": 3978540,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 73,
+      "ms": 2382834,
+      "dish": "Fish"
+    }
+  ]
+}

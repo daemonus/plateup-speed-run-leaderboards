@@ -1,0 +1,66 @@
+{
+  "id": "04ae3253-edca-4501-bb1c-2d2293a9d13a",
+  "persona": "hayley",
+  "names": [
+    "hayley"
+  ],
+  "runs": 6,
+  "bestRank": 196,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2746585,
+  "weeksActive": [
+    -19,
+    2,
+    5,
+    12,
+    13,
+    47
+  ],
+  "history": [
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 214,
+      "ms": 3537419,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 196,
+      "ms": 3462329,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 298,
+      "ms": 4100906,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 442,
+      "ms": 3545375,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 245,
+      "ms": 2746585,
+      "dish": "Turkey"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 281,
+      "ms": 4311662,
+      "dish": "Pizza"
+    }
+  ]
+}

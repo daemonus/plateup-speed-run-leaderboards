@@ -1,0 +1,50 @@
+{
+  "id": "4d03d0aa-3baf-48b8-85dc-de4b03bf412d",
+  "persona": "Knightmare",
+  "names": [
+    "Knightmare"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 222,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2717198,
+  "weeksActive": [
+    -47,
+    -46,
+    -37,
+    48
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 203,
+      "ms": 3504312,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 157,
+      "ms": 3421334,
+      "dish": "Salad"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 222,
+      "ms": 2717198,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 179,
+      "ms": 4672970,
+      "dish": "Pizza"
+    }
+  ]
+}

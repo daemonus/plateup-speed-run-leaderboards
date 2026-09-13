@@ -1,0 +1,42 @@
+{
+  "id": "f21eb6ab-7879-4d90-818f-62d370c89dbc",
+  "persona": "julsia",
+  "names": [
+    "julsia"
+  ],
+  "runs": 3,
+  "bestRank": 241,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2644218,
+  "weeksActive": [
+    59,
+    64,
+    70
+  ],
+  "history": [
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 379,
+      "ms": 4574824,
+      "dish": "Salad"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 460,
+      "ms": 2644218,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 241,
+      "ms": 3926958,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "7d9316d3-0577-4b0b-81b3-74658450365b",
+  "persona": "Remy",
+  "names": [
+    "Remy"
+  ],
+  "runs": 2,
+  "bestRank": 421,
+  "worstRank": 744,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3599492,
+  "weeksActive": [
+    56,
+    58
+  ],
+  "history": [
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 744,
+      "ms": 3599492,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 421,
+      "ms": 3680504,
+      "dish": "Turkey"
+    }
+  ]
+}

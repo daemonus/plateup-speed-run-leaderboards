@@ -1,0 +1,58 @@
+{
+  "id": "3cc24224-cd40-4c6c-8e31-889eb867679f",
+  "persona": "flarn",
+  "names": [
+    "flarn"
+  ],
+  "runs": 5,
+  "bestRank": 349,
+  "worstRank": 664,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5379385,
+  "weeksActive": [
+    -74,
+    -70,
+    -69,
+    -68,
+    -67
+  ],
+  "history": [
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 637,
+      "ms": 6487785,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 664,
+      "ms": 6611931,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 495,
+      "ms": 7472424,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 349,
+      "ms": 6354370,
+      "dish": "Salad"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 563,
+      "ms": 5379385,
+      "dish": "Breakfast"
+    }
+  ]
+}

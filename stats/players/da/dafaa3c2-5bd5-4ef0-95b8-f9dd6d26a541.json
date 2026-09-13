@@ -1,0 +1,50 @@
+{
+  "id": "dafaa3c2-5bd5-4ef0-95b8-f9dd6d26a541",
+  "persona": "Gooseberry",
+  "names": [
+    "Gooseberry"
+  ],
+  "runs": 4,
+  "bestRank": 408,
+  "worstRank": 604,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3800153,
+  "weeksActive": [
+    -26,
+    -25,
+    -20,
+    3
+  ],
+  "history": [
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 441,
+      "ms": 5837393,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 604,
+      "ms": 5194775,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 408,
+      "ms": 4197963,
+      "dish": "Burgers"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 498,
+      "ms": 3800153,
+      "dish": "Fish"
+    }
+  ]
+}

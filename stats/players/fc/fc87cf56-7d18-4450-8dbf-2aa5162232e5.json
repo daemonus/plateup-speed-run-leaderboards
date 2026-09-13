@@ -1,0 +1,34 @@
+{
+  "id": "fc87cf56-7d18-4450-8dbf-2aa5162232e5",
+  "persona": "Chongo",
+  "names": [
+    "Chongo"
+  ],
+  "runs": 2,
+  "bestRank": 189,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3677714,
+  "weeksActive": [
+    -59,
+    -42
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 352,
+      "ms": 3677714,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 189,
+      "ms": 4297239,
+      "dish": "Burgers"
+    }
+  ]
+}

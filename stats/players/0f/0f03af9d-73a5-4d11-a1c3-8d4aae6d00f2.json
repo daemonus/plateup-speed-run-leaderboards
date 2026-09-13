@@ -1,0 +1,42 @@
+{
+  "id": "0f03af9d-73a5-4d11-a1c3-8d4aae6d00f2",
+  "persona": "gengzhi",
+  "names": [
+    "gengzhi"
+  ],
+  "runs": 3,
+  "bestRank": 288,
+  "worstRank": 366,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3408254,
+  "weeksActive": [
+    61,
+    62,
+    70
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 366,
+      "ms": 6142760,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 294,
+      "ms": 3408254,
+      "dish": "Pies"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 288,
+      "ms": 4309088,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

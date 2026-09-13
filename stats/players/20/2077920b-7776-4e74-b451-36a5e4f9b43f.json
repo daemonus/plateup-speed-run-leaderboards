@@ -1,0 +1,50 @@
+{
+  "id": "2077920b-7776-4e74-b451-36a5e4f9b43f",
+  "persona": "littlemouse",
+  "names": [
+    "littlemouse"
+  ],
+  "runs": 4,
+  "bestRank": 67,
+  "worstRank": 243,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2205288,
+  "weeksActive": [
+    43,
+    44,
+    53,
+    54
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 120,
+      "ms": 2205288,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 243,
+      "ms": 3229971,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 129,
+      "ms": 2831903,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 67,
+      "ms": 2913597,
+      "dish": "Burgers"
+    }
+  ]
+}

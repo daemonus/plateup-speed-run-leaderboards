@@ -1,0 +1,34 @@
+{
+  "id": "2c1c117a-0a7b-450b-a871-ddcb729b53b5",
+  "persona": "Keks",
+  "names": [
+    "Keks"
+  ],
+  "runs": 2,
+  "bestRank": 255,
+  "worstRank": 602,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3518410,
+  "weeksActive": [
+    20,
+    22
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 602,
+      "ms": 3518410,
+      "dish": "Turkey"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 255,
+      "ms": 4030843,
+      "dish": "Breakfast"
+    }
+  ]
+}

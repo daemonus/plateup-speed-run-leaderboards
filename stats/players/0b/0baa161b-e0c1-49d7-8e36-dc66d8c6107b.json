@@ -1,0 +1,42 @@
+{
+  "id": "0baa161b-e0c1-49d7-8e36-dc66d8c6107b",
+  "persona": "Tony",
+  "names": [
+    "Tony"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 331,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2966673,
+  "weeksActive": [
+    10,
+    11,
+    12
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 247,
+      "ms": 4749514,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 212,
+      "ms": 3954115,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 331,
+      "ms": 2966673,
+      "dish": "Turkey"
+    }
+  ]
+}

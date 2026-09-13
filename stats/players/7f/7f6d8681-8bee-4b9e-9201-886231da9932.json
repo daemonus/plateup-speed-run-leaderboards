@@ -1,0 +1,74 @@
+{
+  "id": "7f6d8681-8bee-4b9e-9201-886231da9932",
+  "persona": "kot",
+  "names": [
+    "kot"
+  ],
+  "runs": 7,
+  "bestRank": 108,
+  "worstRank": 1005,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2356363,
+  "weeksActive": [
+    -37,
+    -33,
+    -9,
+    54,
+    58,
+    77,
+    78
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 1005,
+      "ms": 13103038,
+      "dish": "Fish"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 462,
+      "ms": 6884270,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 108,
+      "ms": 4016879,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 152,
+      "ms": 3515509,
+      "dish": "Burgers"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 418,
+      "ms": 3663101,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 156,
+      "ms": 2356363,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 234,
+      "ms": 3395143,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

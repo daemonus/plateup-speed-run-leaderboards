@@ -1,0 +1,42 @@
+{
+  "id": "d6492390-de41-48a7-a3df-f002524083e5",
+  "persona": "galactical",
+  "names": [
+    "galactical"
+  ],
+  "runs": 3,
+  "bestRank": 72,
+  "worstRank": 196,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2439441,
+  "weeksActive": [
+    -82,
+    -32,
+    -8
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 196,
+      "ms": 2439441,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 117,
+      "ms": 2535087,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 72,
+      "ms": 3128952,
+      "dish": "Stir Fry"
+    }
+  ]
+}

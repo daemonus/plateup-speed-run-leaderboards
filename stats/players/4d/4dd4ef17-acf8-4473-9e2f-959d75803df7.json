@@ -1,0 +1,58 @@
+{
+  "id": "4dd4ef17-acf8-4473-9e2f-959d75803df7",
+  "persona": "amninz98",
+  "names": [
+    "amninz98"
+  ],
+  "runs": 5,
+  "bestRank": 293,
+  "worstRank": 842,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2640409,
+  "weeksActive": [
+    -84,
+    -83,
+    -51,
+    -38,
+    -31
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 530,
+      "ms": 3696298,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 391,
+      "ms": 3590648,
+      "dish": "Steak"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 374,
+      "ms": 3309794,
+      "dish": "Turkey"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 293,
+      "ms": 2640409,
+      "dish": "Turkey"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 842,
+      "ms": 5369648,
+      "dish": "Pies"
+    }
+  ]
+}

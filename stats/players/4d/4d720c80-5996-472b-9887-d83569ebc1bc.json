@@ -1,0 +1,34 @@
+{
+  "id": "4d720c80-5996-472b-9887-d83569ebc1bc",
+  "persona": "tree",
+  "names": [
+    "tree"
+  ],
+  "runs": 2,
+  "bestRank": 395,
+  "worstRank": 693,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3233163,
+  "weeksActive": [
+    64,
+    66
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 693,
+      "ms": 3233163,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 395,
+      "ms": 4424081,
+      "dish": "Breakfast"
+    }
+  ]
+}

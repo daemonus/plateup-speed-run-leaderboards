@@ -1,0 +1,66 @@
+{
+  "id": "6816adc9-5a9f-473c-985a-9ff4faa96257",
+  "persona": "Leigriette",
+  "names": [
+    "Leigriette"
+  ],
+  "runs": 6,
+  "bestRank": 232,
+  "worstRank": 859,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3235047,
+  "weeksActive": [
+    -89,
+    -88,
+    -87,
+    -85,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 620,
+      "ms": 3235047,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 859,
+      "ms": 5662049,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 477,
+      "ms": 4158276,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 232,
+      "ms": 4144669,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 416,
+      "ms": 3422914,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 281,
+      "ms": 3647899,
+      "dish": "Pies"
+    }
+  ]
+}

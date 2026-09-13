@@ -1,0 +1,34 @@
+{
+  "id": "5277ce11-62ec-4e4d-a631-3230f35c1e81",
+  "persona": "blue",
+  "names": [
+    "blue"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 481,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3625623,
+  "weeksActive": [
+    52,
+    59
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 481,
+      "ms": 3625623,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 285,
+      "ms": 3723386,
+      "dish": "Salad"
+    }
+  ]
+}

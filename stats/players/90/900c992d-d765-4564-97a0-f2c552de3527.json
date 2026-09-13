@@ -1,0 +1,34 @@
+{
+  "id": "900c992d-d765-4564-97a0-f2c552de3527",
+  "persona": "Dino",
+  "names": [
+    "Dino"
+  ],
+  "runs": 2,
+  "bestRank": 467,
+  "worstRank": 1569,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2838139,
+  "weeksActive": [
+    -93,
+    -92
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1569,
+      "ms": 2838139,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 467,
+      "ms": 3349790,
+      "dish": "Steak"
+    }
+  ]
+}

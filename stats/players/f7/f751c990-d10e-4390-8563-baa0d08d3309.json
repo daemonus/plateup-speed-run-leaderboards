@@ -1,0 +1,58 @@
+{
+  "id": "f751c990-d10e-4390-8563-baa0d08d3309",
+  "persona": "ruokari",
+  "names": [
+    "ruokari"
+  ],
+  "runs": 5,
+  "bestRank": 61,
+  "worstRank": 258,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1761619,
+  "weeksActive": [
+    10,
+    11,
+    12,
+    14,
+    15
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 189,
+      "ms": 4061461,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 238,
+      "ms": 4240817,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 258,
+      "ms": 2655190,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 196,
+      "ms": 3338985,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 61,
+      "ms": 1761619,
+      "dish": "Turkey"
+    }
+  ]
+}

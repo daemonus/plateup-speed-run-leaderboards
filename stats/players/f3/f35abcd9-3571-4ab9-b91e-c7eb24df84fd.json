@@ -1,0 +1,34 @@
+{
+  "id": "f35abcd9-3571-4ab9-b91e-c7eb24df84fd",
+  "persona": "risuku",
+  "names": [
+    "risuku"
+  ],
+  "runs": 2,
+  "bestRank": 520,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4591670,
+  "weeksActive": [
+    -20,
+    41
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 520,
+      "ms": 5222820,
+      "dish": "Burgers"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 712,
+      "ms": 4591670,
+      "dish": "Turkey"
+    }
+  ]
+}

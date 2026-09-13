@@ -1,0 +1,42 @@
+{
+  "id": "b43febe6-fc80-4bf8-81df-3c4f2e468553",
+  "persona": "Slurmp",
+  "names": [
+    "Slurmp"
+  ],
+  "runs": 3,
+  "bestRank": 254,
+  "worstRank": 673,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4282253,
+  "weeksActive": [
+    51,
+    52,
+    55
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 320,
+      "ms": 5054647,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 673,
+      "ms": 5206346,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 254,
+      "ms": 4282253,
+      "dish": "Stir Fry"
+    }
+  ]
+}

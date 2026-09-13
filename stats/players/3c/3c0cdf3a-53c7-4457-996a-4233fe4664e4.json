@@ -1,0 +1,82 @@
+{
+  "id": "3c0cdf3a-53c7-4457-996a-4233fe4664e4",
+  "persona": "fizker",
+  "names": [
+    "fizker"
+  ],
+  "runs": 8,
+  "bestRank": 30,
+  "worstRank": 215,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1820832,
+  "weeksActive": [
+    -89,
+    -78,
+    -75,
+    -74,
+    -72,
+    -71,
+    79,
+    80
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 190,
+      "ms": 2154070,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 89,
+      "ms": 2574020,
+      "dish": "Burgers"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 93,
+      "ms": 1820832,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 51,
+      "ms": 2195849,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 87,
+      "ms": 2450309,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 67,
+      "ms": 1994771,
+      "dish": "Turkey"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 30,
+      "ms": 2338980,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 215,
+      "ms": 3373078,
+      "dish": "Pizza"
+    }
+  ]
+}

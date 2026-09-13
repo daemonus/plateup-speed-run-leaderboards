@@ -1,0 +1,42 @@
+{
+  "id": "6e78996d-1219-4d42-b28b-1ca8990266dc",
+  "persona": "Inkd",
+  "names": [
+    "Inkd"
+  ],
+  "runs": 3,
+  "bestRank": 160,
+  "worstRank": 580,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2966105,
+  "weeksActive": [
+    -76,
+    -18,
+    13
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 580,
+      "ms": 3421291,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 160,
+      "ms": 2966105,
+      "dish": "Fish"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 343,
+      "ms": 3096905,
+      "dish": "Turkey"
+    }
+  ]
+}

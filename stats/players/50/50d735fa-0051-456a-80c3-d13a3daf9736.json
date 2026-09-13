@@ -1,0 +1,34 @@
+{
+  "id": "50d735fa-0051-456a-80c3-d13a3daf9736",
+  "persona": "TTL3",
+  "names": [
+    "TTL3"
+  ],
+  "runs": 2,
+  "bestRank": 351,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3564217,
+  "weeksActive": [
+    -84,
+    -69
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 495,
+      "ms": 3564217,
+      "dish": "Fish"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 351,
+      "ms": 4967540,
+      "dish": "Stir Fry"
+    }
+  ]
+}

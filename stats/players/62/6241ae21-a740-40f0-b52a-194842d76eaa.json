@@ -1,0 +1,42 @@
+{
+  "id": "6241ae21-a740-40f0-b52a-194842d76eaa",
+  "persona": "bapy",
+  "names": [
+    "bapy"
+  ],
+  "runs": 3,
+  "bestRank": 382,
+  "worstRank": 662,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2784944,
+  "weeksActive": [
+    -89,
+    -87,
+    -86
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 662,
+      "ms": 3371287,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 382,
+      "ms": 3645077,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 392,
+      "ms": 2784944,
+      "dish": "Fish"
+    }
+  ]
+}

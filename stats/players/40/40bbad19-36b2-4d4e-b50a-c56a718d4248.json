@@ -1,0 +1,42 @@
+{
+  "id": "40bbad19-36b2-4d4e-b50a-c56a718d4248",
+  "persona": "\u4F59\u751F",
+  "names": [
+    "\u4F59\u751F"
+  ],
+  "runs": 3,
+  "bestRank": 93,
+  "worstRank": 387,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2989602,
+  "weeksActive": [
+    76,
+    78,
+    79
+  ],
+  "history": [
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 102,
+      "ms": 2989602,
+      "dish": "Salad"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 387,
+      "ms": 7341785,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 93,
+      "ms": 3074439,
+      "dish": "Salad"
+    }
+  ]
+}

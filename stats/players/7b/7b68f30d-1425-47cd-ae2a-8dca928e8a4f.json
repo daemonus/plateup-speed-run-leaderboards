@@ -1,0 +1,42 @@
+{
+  "id": "7b68f30d-1425-47cd-ae2a-8dca928e8a4f",
+  "persona": "kitten_com",
+  "names": [
+    "kitten_com"
+  ],
+  "runs": 3,
+  "bestRank": 267,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2635219,
+  "weeksActive": [
+    -84,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 286,
+      "ms": 2829374,
+      "dish": "Fish"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 267,
+      "ms": 2635219,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 386,
+      "ms": 2785998,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4ae5df88-c4df-4275-939c-1c30d59807f6",
+  "persona": "User",
+  "names": [
+    "User"
+  ],
+  "runs": 2,
+  "bestRank": 50,
+  "worstRank": 277,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2598896,
+  "weeksActive": [
+    -40,
+    -38
+  ],
+  "history": [
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 50,
+      "ms": 2862876,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 277,
+      "ms": 2598896,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "abdf678c-ec5d-4508-bd99-b75712d29ba2",
+  "persona": "\u837C\u9761OvO",
+  "names": [
+    "\u837C\u9761OvO"
+  ],
+  "runs": 3,
+  "bestRank": 248,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3754185,
+  "weeksActive": [
+    -64,
+    -62,
+    -60
+  ],
+  "history": [
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 407,
+      "ms": 5104835,
+      "dish": "Salad"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 568,
+      "ms": 4459786,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 248,
+      "ms": 3754185,
+      "dish": "Burgers"
+    }
+  ]
+}

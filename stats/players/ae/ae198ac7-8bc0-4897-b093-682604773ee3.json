@@ -1,0 +1,34 @@
+{
+  "id": "ae198ac7-8bc0-4897-b093-682604773ee3",
+  "persona": "Maya",
+  "names": [
+    "Maya"
+  ],
+  "runs": 2,
+  "bestRank": 272,
+  "worstRank": 352,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2596005,
+  "weeksActive": [
+    -32,
+    -30
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 352,
+      "ms": 3198527,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 272,
+      "ms": 2596005,
+      "dish": "Turkey"
+    }
+  ]
+}

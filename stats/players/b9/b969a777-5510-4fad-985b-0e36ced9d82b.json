@@ -1,0 +1,42 @@
+{
+  "id": "b969a777-5510-4fad-985b-0e36ced9d82b",
+  "persona": "empromani",
+  "names": [
+    "empromani"
+  ],
+  "runs": 3,
+  "bestRank": 90,
+  "worstRank": 335,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2195505,
+  "weeksActive": [
+    -61,
+    -56,
+    -15
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 304,
+      "ms": 3469809,
+      "dish": "Fish"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 335,
+      "ms": 3545770,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 90,
+      "ms": 2195505,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "13bd6225-3a2b-4dfb-8ecf-8a69a220d845",
+  "persona": "King",
+  "names": [
+    "King"
+  ],
+  "runs": 3,
+  "bestRank": 98,
+  "worstRank": 321,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2158146,
+  "weeksActive": [
+    46,
+    48,
+    56
+  ],
+  "history": [
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 321,
+      "ms": 3562896,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 98,
+      "ms": 3641840,
+      "dish": "Pizza"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 300,
+      "ms": 2158146,
+      "dish": "Sundaes"
+    }
+  ]
+}

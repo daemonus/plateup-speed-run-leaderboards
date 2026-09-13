@@ -1,0 +1,58 @@
+{
+  "id": "6eaac9f5-260f-45bf-a28f-94aeff61dbc0",
+  "persona": "sad.b",
+  "names": [
+    "sad.b"
+  ],
+  "runs": 5,
+  "bestRank": 191,
+  "worstRank": 446,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3173682,
+  "weeksActive": [
+    11,
+    12,
+    13,
+    14,
+    16
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 191,
+      "ms": 3678997,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 376,
+      "ms": 3173682,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 446,
+      "ms": 3463718,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 243,
+      "ms": 3629963,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 411,
+      "ms": 5083326,
+      "dish": "Stir Fry"
+    }
+  ]
+}

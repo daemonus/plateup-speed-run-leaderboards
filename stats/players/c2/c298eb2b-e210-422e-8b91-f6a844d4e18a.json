@@ -1,0 +1,98 @@
+{
+  "id": "c298eb2b-e210-422e-8b91-f6a844d4e18a",
+  "persona": "spnats",
+  "names": [
+    "spnats"
+  ],
+  "runs": 10,
+  "bestRank": 75,
+  "worstRank": 202,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1872026,
+  "weeksActive": [
+    -84,
+    -83,
+    -79,
+    -22,
+    -21,
+    -20,
+    -19,
+    7,
+    8,
+    12
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 202,
+      "ms": 2498726,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 126,
+      "ms": 2530981,
+      "dish": "Steak"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 84,
+      "ms": 2576140,
+      "dish": "Pies"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 75,
+      "ms": 3067677,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 156,
+      "ms": 2941035,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 194,
+      "ms": 3283552,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 95,
+      "ms": 2637806,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 150,
+      "ms": 2904360,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 145,
+      "ms": 2245666,
+      "dish": "Fish"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 88,
+      "ms": 1872026,
+      "dish": "Turkey"
+    }
+  ]
+}

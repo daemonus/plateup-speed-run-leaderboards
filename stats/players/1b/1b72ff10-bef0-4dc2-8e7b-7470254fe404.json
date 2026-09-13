@@ -1,0 +1,34 @@
+{
+  "id": "1b72ff10-bef0-4dc2-8e7b-7470254fe404",
+  "persona": "XISA",
+  "names": [
+    "XISA"
+  ],
+  "runs": 2,
+  "bestRank": 227,
+  "worstRank": 490,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4193615,
+  "weeksActive": [
+    -15,
+    -14
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 490,
+      "ms": 4193615,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 227,
+      "ms": 4845725,
+      "dish": "Salad"
+    }
+  ]
+}

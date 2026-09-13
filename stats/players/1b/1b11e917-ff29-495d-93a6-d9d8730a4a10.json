@@ -1,0 +1,50 @@
+{
+  "id": "1b11e917-ff29-495d-93a6-d9d8730a4a10",
+  "persona": "VulpisRoom",
+  "names": [
+    "VulpisRoom"
+  ],
+  "runs": 4,
+  "bestRank": 198,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2589146,
+  "weeksActive": [
+    3,
+    7,
+    15,
+    43
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 436,
+      "ms": 3661836,
+      "dish": "Fish"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 198,
+      "ms": 3068598,
+      "dish": "Fish"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 248,
+      "ms": 2589146,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 290,
+      "ms": 2739927,
+      "dish": "Fish"
+    }
+  ]
+}

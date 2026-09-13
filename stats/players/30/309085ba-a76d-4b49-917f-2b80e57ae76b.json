@@ -1,0 +1,34 @@
+{
+  "id": "309085ba-a76d-4b49-917f-2b80e57ae76b",
+  "persona": "gabe newell",
+  "names": [
+    "gabe newell"
+  ],
+  "runs": 2,
+  "bestRank": 462,
+  "worstRank": 529,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5893149,
+  "weeksActive": [
+    -61,
+    34
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 529,
+      "ms": 5893149,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 462,
+      "ms": 5990224,
+      "dish": "Stir Fry"
+    }
+  ]
+}

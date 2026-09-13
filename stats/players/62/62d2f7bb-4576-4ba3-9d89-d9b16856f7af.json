@@ -1,0 +1,50 @@
+{
+  "id": "62d2f7bb-4576-4ba3-9d89-d9b16856f7af",
+  "persona": "PACKY",
+  "names": [
+    "PACKY"
+  ],
+  "runs": 4,
+  "bestRank": 60,
+  "worstRank": 135,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1640734,
+  "weeksActive": [
+    14,
+    15,
+    17,
+    20
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 71,
+      "ms": 2471404,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 70,
+      "ms": 1816678,
+      "dish": "Turkey"
+    },
+    {
+      "week": 17,
+      "start": "2025-05-05",
+      "rank": 135,
+      "ms": 3105460,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 60,
+      "ms": 1640734,
+      "dish": "Turkey"
+    }
+  ]
+}

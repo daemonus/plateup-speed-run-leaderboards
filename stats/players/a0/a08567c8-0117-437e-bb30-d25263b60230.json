@@ -1,0 +1,34 @@
+{
+  "id": "a08567c8-0117-437e-bb30-d25263b60230",
+  "persona": "Sad.Laundry",
+  "names": [
+    "Sad.Laundry"
+  ],
+  "runs": 2,
+  "bestRank": 391,
+  "worstRank": 410,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4584374,
+  "weeksActive": [
+    -46,
+    5
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 410,
+      "ms": 4584374,
+      "dish": "Salad"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 391,
+      "ms": 4596986,
+      "dish": "Breakfast"
+    }
+  ]
+}

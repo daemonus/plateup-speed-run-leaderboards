@@ -1,0 +1,82 @@
+{
+  "id": "928ec767-43e6-4409-b3d7-cb58c65e7916",
+  "persona": "Alexus",
+  "names": [
+    "Alexus"
+  ],
+  "runs": 8,
+  "bestRank": 11,
+  "worstRank": 157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1074243,
+  "weeksActive": [
+    70,
+    71,
+    72,
+    74,
+    75,
+    77,
+    78,
+    80
+  ],
+  "history": [
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 157,
+      "ms": 3255020,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 101,
+      "ms": 2635715,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 131,
+      "ms": 2943608,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 49,
+      "ms": 2729023,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 126,
+      "ms": 2926255,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 11,
+      "ms": 1074243,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 58,
+      "ms": 2215389,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 142,
+      "ms": 2945762,
+      "dish": "Pizza"
+    }
+  ]
+}

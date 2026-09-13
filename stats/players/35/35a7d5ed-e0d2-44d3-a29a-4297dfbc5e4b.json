@@ -1,0 +1,42 @@
+{
+  "id": "35a7d5ed-e0d2-44d3-a29a-4297dfbc5e4b",
+  "persona": "Vyrisus",
+  "names": [
+    "Vyrisus"
+  ],
+  "runs": 3,
+  "bestRank": 88,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2990792,
+  "weeksActive": [
+    32,
+    34,
+    35
+  ],
+  "history": [
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 197,
+      "ms": 3355192,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 88,
+      "ms": 3068518,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 157,
+      "ms": 2990792,
+      "dish": "Fish"
+    }
+  ]
+}

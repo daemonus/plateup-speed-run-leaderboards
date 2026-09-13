@@ -1,0 +1,42 @@
+{
+  "id": "92271b8e-25ad-4a1a-8ad2-79b67ff9f78e",
+  "persona": "Kazima",
+  "names": [
+    "Kazima"
+  ],
+  "runs": 3,
+  "bestRank": 31,
+  "worstRank": 127,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2292503,
+  "weeksActive": [
+    38,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 127,
+      "ms": 2579235,
+      "dish": "Pies"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 67,
+      "ms": 2504584,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 31,
+      "ms": 2292503,
+      "dish": "Burgers"
+    }
+  ]
+}

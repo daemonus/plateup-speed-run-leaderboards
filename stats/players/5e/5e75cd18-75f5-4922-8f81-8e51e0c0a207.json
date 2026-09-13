@@ -1,0 +1,34 @@
+{
+  "id": "5e75cd18-75f5-4922-8f81-8e51e0c0a207",
+  "persona": "mads",
+  "names": [
+    "mads"
+  ],
+  "runs": 2,
+  "bestRank": 242,
+  "worstRank": 453,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2408617,
+  "weeksActive": [
+    -90,
+    -86
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 453,
+      "ms": 2582441,
+      "dish": "Fish"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 242,
+      "ms": 2408617,
+      "dish": "Fish"
+    }
+  ]
+}

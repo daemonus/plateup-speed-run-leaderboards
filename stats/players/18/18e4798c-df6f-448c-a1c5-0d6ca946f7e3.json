@@ -1,0 +1,42 @@
+{
+  "id": "18e4798c-df6f-448c-a1c5-0d6ca946f7e3",
+  "persona": "FlyingHippo",
+  "names": [
+    "FlyingHippo"
+  ],
+  "runs": 3,
+  "bestRank": 29,
+  "worstRank": 116,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1872416,
+  "weeksActive": [
+    -89,
+    -77,
+    -7
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 116,
+      "ms": 1872416,
+      "dish": "Pies"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 36,
+      "ms": 2016520,
+      "dish": "Pies"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 29,
+      "ms": 2635213,
+      "dish": "Breakfast"
+    }
+  ]
+}

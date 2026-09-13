@@ -1,0 +1,58 @@
+{
+  "id": "4bf5c9a3-79e6-4bd8-b7e4-4298e346f9d6",
+  "persona": "starlly",
+  "names": [
+    "starlly"
+  ],
+  "runs": 5,
+  "bestRank": 96,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1903717,
+  "weeksActive": [
+    -76,
+    -74,
+    -38,
+    14,
+    15
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 240,
+      "ms": 2578636,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 362,
+      "ms": 3929665,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 96,
+      "ms": 1903717,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 158,
+      "ms": 3078733,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 171,
+      "ms": 2299255,
+      "dish": "Turkey"
+    }
+  ]
+}

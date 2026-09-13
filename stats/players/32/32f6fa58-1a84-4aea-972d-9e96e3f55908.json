@@ -1,0 +1,50 @@
+{
+  "id": "32f6fa58-1a84-4aea-972d-9e96e3f55908",
+  "persona": "Stooodle",
+  "names": [
+    "Stooodle"
+  ],
+  "runs": 4,
+  "bestRank": 157,
+  "worstRank": 347,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2663850,
+  "weeksActive": [
+    -46,
+    -44,
+    -34,
+    -33
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 347,
+      "ms": 4291717,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 157,
+      "ms": 2663850,
+      "dish": "Turkey"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 170,
+      "ms": 2818522,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 327,
+      "ms": 4206784,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

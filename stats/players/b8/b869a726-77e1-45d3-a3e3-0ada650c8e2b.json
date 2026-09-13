@@ -1,0 +1,34 @@
+{
+  "id": "b869a726-77e1-45d3-a3e3-0ada650c8e2b",
+  "persona": "Penril",
+  "names": [
+    "Penril"
+  ],
+  "runs": 2,
+  "bestRank": 207,
+  "worstRank": 275,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2992531,
+  "weeksActive": [
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 207,
+      "ms": 2992531,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 275,
+      "ms": 3928545,
+      "dish": "Breakfast"
+    }
+  ]
+}

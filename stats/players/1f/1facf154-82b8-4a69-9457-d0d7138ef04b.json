@@ -1,0 +1,50 @@
+{
+  "id": "1facf154-82b8-4a69-9457-d0d7138ef04b",
+  "persona": "Arashi",
+  "names": [
+    "Arashi"
+  ],
+  "runs": 4,
+  "bestRank": 167,
+  "worstRank": 444,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3178254,
+  "weeksActive": [
+    71,
+    72,
+    73,
+    74
+  ],
+  "history": [
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 444,
+      "ms": 5084127,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 167,
+      "ms": 3178254,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 217,
+      "ms": 3628105,
+      "dish": "Burgers"
+    },
+    {
+      "week": 74,
+      "start": "2026-06-08",
+      "rank": 218,
+      "ms": 3961966,
+      "dish": "Breakfast"
+    }
+  ]
+}

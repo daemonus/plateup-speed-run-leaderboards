@@ -1,0 +1,42 @@
+{
+  "id": "3d600bcc-7afd-42e9-97a1-bf85df36678f",
+  "persona": "YuQ1069",
+  "names": [
+    "YuQ1069"
+  ],
+  "runs": 3,
+  "bestRank": 259,
+  "worstRank": 376,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2398336,
+  "weeksActive": [
+    19,
+    20,
+    21
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 376,
+      "ms": 4949808,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 259,
+      "ms": 2398336,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 264,
+      "ms": 3422082,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fa57d13b-1a1d-4395-ad3c-c96af67bf1b5",
+  "persona": "Dragon",
+  "names": [
+    "Dragon"
+  ],
+  "runs": 2,
+  "bestRank": 326,
+  "worstRank": 790,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2964403,
+  "weeksActive": [
+    -90,
+    -82
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 790,
+      "ms": 3217653,
+      "dish": "Fish"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 326,
+      "ms": 2964403,
+      "dish": "Fish"
+    }
+  ]
+}

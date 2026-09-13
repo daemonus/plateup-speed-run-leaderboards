@@ -1,0 +1,58 @@
+{
+  "id": "1a54a0d8-f62f-4da3-b73c-ece1afa8310c",
+  "persona": "\u654F\u5A1C",
+  "names": [
+    "\u654F\u5A1C"
+  ],
+  "runs": 5,
+  "bestRank": 216,
+  "worstRank": 905,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3549636,
+  "weeksActive": [
+    -32,
+    -31,
+    -30,
+    -26,
+    -25
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 905,
+      "ms": 4383906,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 589,
+      "ms": 4035449,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 642,
+      "ms": 3584337,
+      "dish": "Turkey"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 220,
+      "ms": 3891623,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 216,
+      "ms": 3549636,
+      "dish": "Breakfast"
+    }
+  ]
+}

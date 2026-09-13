@@ -1,0 +1,42 @@
+{
+  "id": "caf98f4d-d6e3-4f6c-897e-e5a9c16f86ce",
+  "persona": "naomi.quartsin",
+  "names": [
+    "naomi.quartsin"
+  ],
+  "runs": 3,
+  "bestRank": 307,
+  "worstRank": 609,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2710632,
+  "weeksActive": [
+    41,
+    53,
+    56
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 415,
+      "ms": 2710632,
+      "dish": "Turkey"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 307,
+      "ms": 3775284,
+      "dish": "Pies"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 609,
+      "ms": 3117274,
+      "dish": "Sundaes"
+    }
+  ]
+}

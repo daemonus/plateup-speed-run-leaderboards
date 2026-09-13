@@ -1,0 +1,74 @@
+{
+  "id": "6de9e101-2a27-479e-86fc-b323e6ebda8d",
+  "persona": "Julius Caesar",
+  "names": [
+    "Julius Caesar"
+  ],
+  "runs": 7,
+  "bestRank": 35,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2478470,
+  "weeksActive": [
+    34,
+    36,
+    38,
+    44,
+    51,
+    52,
+    53
+  ],
+  "history": [
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 74,
+      "ms": 2936330,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 227,
+      "ms": 2838394,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 158,
+      "ms": 2742431,
+      "dish": "Pies"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 142,
+      "ms": 2770367,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 35,
+      "ms": 2478470,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 168,
+      "ms": 2525835,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 78,
+      "ms": 2486194,
+      "dish": "Pies"
+    }
+  ]
+}

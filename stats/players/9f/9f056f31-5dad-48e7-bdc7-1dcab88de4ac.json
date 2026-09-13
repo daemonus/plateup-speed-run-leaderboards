@@ -1,0 +1,42 @@
+{
+  "id": "9f056f31-5dad-48e7-bdc7-1dcab88de4ac",
+  "persona": "Roye",
+  "names": [
+    "Roye"
+  ],
+  "runs": 3,
+  "bestRank": 328,
+  "worstRank": 430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4718182,
+  "weeksActive": [
+    6,
+    7,
+    55
+  ],
+  "history": [
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 430,
+      "ms": 7972164,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 419,
+      "ms": 4718182,
+      "dish": "Fish"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 328,
+      "ms": 5111305,
+      "dish": "Stir Fry"
+    }
+  ]
+}

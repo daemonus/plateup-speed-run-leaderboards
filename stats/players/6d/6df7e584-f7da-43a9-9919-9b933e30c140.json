@@ -1,0 +1,58 @@
+{
+  "id": "6df7e584-f7da-43a9-9919-9b933e30c140",
+  "persona": "0oBosso0",
+  "names": [
+    "0oBosso0"
+  ],
+  "runs": 5,
+  "bestRank": 169,
+  "worstRank": 487,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2903829,
+  "weeksActive": [
+    -6,
+    -5,
+    14,
+    15,
+    48
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 487,
+      "ms": 4702017,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 398,
+      "ms": 4457096,
+      "dish": "Pizza"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 169,
+      "ms": 3124090,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 324,
+      "ms": 2903829,
+      "dish": "Turkey"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 173,
+      "ms": 4613395,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "5924816a-b122-4b6a-926e-cfb5279ded2d",
+  "persona": "MUCH",
+  "names": [
+    "MUCH"
+  ],
+  "runs": 6,
+  "bestRank": 114,
+  "worstRank": 465,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2891351,
+  "weeksActive": [
+    -5,
+    -4,
+    -3,
+    0,
+    2,
+    47
+  ],
+  "history": [
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 465,
+      "ms": 4808005,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 444,
+      "ms": 4254434,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 378,
+      "ms": 3250994,
+      "dish": "Turkey"
+    },
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 250,
+      "ms": 4239048,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 114,
+      "ms": 2891351,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 263,
+      "ms": 4127626,
+      "dish": "Pizza"
+    }
+  ]
+}

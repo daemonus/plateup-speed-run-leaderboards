@@ -1,0 +1,66 @@
+{
+  "id": "90f355b8-e4f9-4cb4-84a4-f047e2cf371e",
+  "persona": "Badgerstaff",
+  "names": [
+    "Badgerstaff"
+  ],
+  "runs": 6,
+  "bestRank": 253,
+  "worstRank": 876,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2672725,
+  "weeksActive": [
+    -72,
+    -68,
+    -66,
+    83,
+    85,
+    86
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 876,
+      "ms": 6868590,
+      "dish": "Pies"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 342,
+      "ms": 6279799,
+      "dish": "Salad"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 253,
+      "ms": 3943056,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 404,
+      "ms": 2672725,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 365,
+      "ms": 4179349,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 370,
+      "ms": 3171912,
+      "dish": "Sundaes"
+    }
+  ]
+}

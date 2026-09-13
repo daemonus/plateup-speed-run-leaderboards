@@ -1,0 +1,42 @@
+{
+  "id": "6739e80c-97cf-460a-997d-e131176dade9",
+  "persona": "sofagame",
+  "names": [
+    "sofagame"
+  ],
+  "runs": 3,
+  "bestRank": 60,
+  "worstRank": 342,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2376878,
+  "weeksActive": [
+    -25,
+    -20,
+    -19
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 301,
+      "ms": 3906931,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 342,
+      "ms": 3941176,
+      "dish": "Burgers"
+    },
+    {
+      "week": -19,
+      "start": "2024-08-26",
+      "rank": 60,
+      "ms": 2376878,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4090e988-3cbb-4db0-b04c-3207711c1c19",
+  "persona": "gulu",
+  "names": [
+    "gulu"
+  ],
+  "runs": 2,
+  "bestRank": 223,
+  "worstRank": 580,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3930470,
+  "weeksActive": [
+    13,
+    16
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 580,
+      "ms": 3930470,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 223,
+      "ms": 4027105,
+      "dish": "Stir Fry"
+    }
+  ]
+}

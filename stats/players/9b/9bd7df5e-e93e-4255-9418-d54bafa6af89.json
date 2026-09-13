@@ -1,0 +1,58 @@
+{
+  "id": "9bd7df5e-e93e-4255-9418-d54bafa6af89",
+  "persona": "\u83DC\u8001\u5927",
+  "names": [
+    "\u83DC\u8001\u5927"
+  ],
+  "runs": 5,
+  "bestRank": 49,
+  "worstRank": 518,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2293925,
+  "weeksActive": [
+    12,
+    54,
+    55,
+    56,
+    85
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 518,
+      "ms": 4466342,
+      "dish": "Turkey"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 49,
+      "ms": 2767039,
+      "dish": "Burgers"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 156,
+      "ms": 3499574,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 348,
+      "ms": 2293925,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 136,
+      "ms": 2609221,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1b01b1e9-0270-4474-b48c-730369dc5121",
+  "persona": "Luna",
+  "names": [
+    "Luna"
+  ],
+  "runs": 2,
+  "bestRank": 22,
+  "worstRank": 272,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1747000,
+  "weeksActive": [
+    -60,
+    -4
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 272,
+      "ms": 3840653,
+      "dish": "Burgers"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 22,
+      "ms": 1747000,
+      "dish": "Pies"
+    }
+  ]
+}

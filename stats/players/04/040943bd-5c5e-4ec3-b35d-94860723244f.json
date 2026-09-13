@@ -1,0 +1,50 @@
+{
+  "id": "040943bd-5c5e-4ec3-b35d-94860723244f",
+  "persona": "teikawa",
+  "names": [
+    "teikawa"
+  ],
+  "runs": 4,
+  "bestRank": 107,
+  "worstRank": 330,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2420673,
+  "weeksActive": [
+    7,
+    30,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 330,
+      "ms": 3787417,
+      "dish": "Fish"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 265,
+      "ms": 3485700,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 107,
+      "ms": 2420673,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 183,
+      "ms": 3223755,
+      "dish": "Pies"
+    }
+  ]
+}

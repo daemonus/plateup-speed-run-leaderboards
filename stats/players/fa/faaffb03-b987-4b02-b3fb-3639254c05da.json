@@ -1,0 +1,66 @@
+{
+  "id": "faaffb03-b987-4b02-b3fb-3639254c05da",
+  "persona": "Ambreezy",
+  "names": [
+    "Ambreezy"
+  ],
+  "runs": 6,
+  "bestRank": 7,
+  "worstRank": 50,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1070579,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -87,
+    -78,
+    -76
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 22,
+      "ms": 1254268,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 24,
+      "ms": 1298665,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 50,
+      "ms": 1530740,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 12,
+      "ms": 1735619,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 18,
+      "ms": 2082976,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 7,
+      "ms": 1070579,
+      "dish": "Turkey"
+    }
+  ]
+}

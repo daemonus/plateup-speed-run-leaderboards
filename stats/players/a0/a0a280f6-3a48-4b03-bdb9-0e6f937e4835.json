@@ -1,0 +1,42 @@
+{
+  "id": "a0a280f6-3a48-4b03-bdb9-0e6f937e4835",
+  "persona": "Katja",
+  "names": [
+    "Katja"
+  ],
+  "runs": 3,
+  "bestRank": 401,
+  "worstRank": 1145,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3143884,
+  "weeksActive": [
+    -92,
+    -91,
+    -67
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 401,
+      "ms": 3143884,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1145,
+      "ms": 3158403,
+      "dish": "Fish"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 402,
+      "ms": 4299873,
+      "dish": "Breakfast"
+    }
+  ]
+}

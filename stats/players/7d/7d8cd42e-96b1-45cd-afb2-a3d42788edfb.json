@@ -1,0 +1,42 @@
+{
+  "id": "7d8cd42e-96b1-45cd-afb2-a3d42788edfb",
+  "persona": "LivTPC",
+  "names": [
+    "LivTPC"
+  ],
+  "runs": 3,
+  "bestRank": 266,
+  "worstRank": 370,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3269014,
+  "weeksActive": [
+    57,
+    58,
+    65
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 266,
+      "ms": 3410286,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 327,
+      "ms": 3269014,
+      "dish": "Turkey"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 370,
+      "ms": 4926653,
+      "dish": "Pizza"
+    }
+  ]
+}

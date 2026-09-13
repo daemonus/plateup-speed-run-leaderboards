@@ -1,0 +1,42 @@
+{
+  "id": "9fccde65-7b4a-4b01-b99d-ae27b1259160",
+  "persona": "emh24",
+  "names": [
+    "emh24"
+  ],
+  "runs": 3,
+  "bestRank": 317,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3929335,
+  "weeksActive": [
+    -79,
+    -70,
+    -67
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 379,
+      "ms": 4321755,
+      "dish": "Pies"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 536,
+      "ms": 5039698,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 317,
+      "ms": 3929335,
+      "dish": "Breakfast"
+    }
+  ]
+}

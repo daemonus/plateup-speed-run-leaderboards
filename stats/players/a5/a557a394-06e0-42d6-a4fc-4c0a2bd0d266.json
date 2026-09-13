@@ -1,0 +1,58 @@
+{
+  "id": "a557a394-06e0-42d6-a4fc-4c0a2bd0d266",
+  "persona": "Justice will be down",
+  "names": [
+    "Justice will be down"
+  ],
+  "runs": 5,
+  "bestRank": 178,
+  "worstRank": 568,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3932617,
+  "weeksActive": [
+    31,
+    32,
+    34,
+    38,
+    79
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 568,
+      "ms": 4727983,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 402,
+      "ms": 5937835,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 279,
+      "ms": 4220041,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 405,
+      "ms": 3996759,
+      "dish": "Pies"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 178,
+      "ms": 3932617,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "3ca082e6-81b5-4525-98b4-1f496accc697",
+  "persona": "KingNarwhals",
+  "names": [
+    "KingNarwhals"
+  ],
+  "runs": 6,
+  "bestRank": 153,
+  "worstRank": 839,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1932176,
+  "weeksActive": [
+    -93,
+    -91,
+    -90,
+    -60,
+    -59,
+    83
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 839,
+      "ms": 2339888,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 271,
+      "ms": 2019312,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 153,
+      "ms": 1932176,
+      "dish": "Fish"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 296,
+      "ms": 3995277,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 314,
+      "ms": 3529483,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 483,
+      "ms": 2911623,
+      "dish": "Sundaes"
+    }
+  ]
+}

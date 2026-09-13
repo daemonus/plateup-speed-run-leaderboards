@@ -1,0 +1,50 @@
+{
+  "id": "f6b00cf2-1571-4012-9151-e0c164ffa46b",
+  "persona": "Astral Mallard",
+  "names": [
+    "Astral Mallard"
+  ],
+  "runs": 4,
+  "bestRank": 274,
+  "worstRank": 399,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2725665,
+  "weeksActive": [
+    13,
+    14,
+    15,
+    20
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 314,
+      "ms": 3037393,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 274,
+      "ms": 3977816,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 283,
+      "ms": 2725665,
+      "dish": "Turkey"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 399,
+      "ms": 2917556,
+      "dish": "Turkey"
+    }
+  ]
+}

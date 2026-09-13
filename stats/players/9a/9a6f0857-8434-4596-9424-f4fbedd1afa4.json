@@ -1,0 +1,50 @@
+{
+  "id": "9a6f0857-8434-4596-9424-f4fbedd1afa4",
+  "persona": "REVERiE",
+  "names": [
+    "REVERiE"
+  ],
+  "runs": 4,
+  "bestRank": 174,
+  "worstRank": 669,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4895533,
+  "weeksActive": [
+    -68,
+    -65,
+    -63,
+    -62
+  ],
+  "history": [
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 362,
+      "ms": 7231085,
+      "dish": "Salad"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 174,
+      "ms": 6730691,
+      "dish": "Burgers"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 624,
+      "ms": 5580018,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 669,
+      "ms": 4895533,
+      "dish": "Breakfast"
+    }
+  ]
+}

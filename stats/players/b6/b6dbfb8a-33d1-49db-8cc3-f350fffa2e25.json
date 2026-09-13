@@ -1,0 +1,42 @@
+{
+  "id": "b6dbfb8a-33d1-49db-8cc3-f350fffa2e25",
+  "persona": "Renee",
+  "names": [
+    "Renee"
+  ],
+  "runs": 3,
+  "bestRank": 507,
+  "worstRank": 778,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3767216,
+  "weeksActive": [
+    -87,
+    -86,
+    -84
+  ],
+  "history": [
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 507,
+      "ms": 4367193,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 778,
+      "ms": 4138483,
+      "dish": "Fish"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 551,
+      "ms": 3767216,
+      "dish": "Fish"
+    }
+  ]
+}

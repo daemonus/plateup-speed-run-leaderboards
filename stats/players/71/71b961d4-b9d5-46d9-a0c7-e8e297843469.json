@@ -1,0 +1,50 @@
+{
+  "id": "71b961d4-b9d5-46d9-a0c7-e8e297843469",
+  "persona": "adri",
+  "names": [
+    "adri"
+  ],
+  "runs": 4,
+  "bestRank": 164,
+  "worstRank": 546,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2821021,
+  "weeksActive": [
+    -32,
+    -23,
+    -20,
+    -15
+  ],
+  "history": [
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 546,
+      "ms": 3606442,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 164,
+      "ms": 3668030,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 221,
+      "ms": 3412535,
+      "dish": "Burgers"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 218,
+      "ms": 2821021,
+      "dish": "Fish"
+    }
+  ]
+}

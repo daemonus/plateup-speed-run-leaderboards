@@ -1,0 +1,34 @@
+{
+  "id": "b78e31f9-6838-43b2-9d7f-957f4b7ce8a9",
+  "persona": "Nanna",
+  "names": [
+    "Nanna"
+  ],
+  "runs": 2,
+  "bestRank": 305,
+  "worstRank": 460,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4073785,
+  "weeksActive": [
+    -59,
+    -53
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 460,
+      "ms": 4073785,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 305,
+      "ms": 4427279,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7ac45141-e43e-443f-b1c7-151731a7e3d5",
+  "persona": "Franfy",
+  "names": [
+    "Franfy"
+  ],
+  "runs": 4,
+  "bestRank": 234,
+  "worstRank": 956,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3551424,
+  "weeksActive": [
+    -37,
+    22,
+    23,
+    24
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 956,
+      "ms": 5386579,
+      "dish": "Fish"
+    },
+    {
+      "week": 22,
+      "start": "2025-06-09",
+      "rank": 234,
+      "ms": 3853125,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 379,
+      "ms": 3551424,
+      "dish": "Turkey"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 304,
+      "ms": 3651596,
+      "dish": "Pies"
+    }
+  ]
+}

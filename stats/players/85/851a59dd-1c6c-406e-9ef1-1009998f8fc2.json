@@ -1,0 +1,42 @@
+{
+  "id": "851a59dd-1c6c-406e-9ef1-1009998f8fc2",
+  "persona": "GingerKim",
+  "names": [
+    "GingerKim"
+  ],
+  "runs": 3,
+  "bestRank": 380,
+  "worstRank": 764,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3552360,
+  "weeksActive": [
+    60,
+    63,
+    83
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 380,
+      "ms": 4829094,
+      "dish": "Burgers"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 408,
+      "ms": 3552360,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 764,
+      "ms": 4568848,
+      "dish": "Sundaes"
+    }
+  ]
+}

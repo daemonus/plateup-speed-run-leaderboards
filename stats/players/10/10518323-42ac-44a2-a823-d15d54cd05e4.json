@@ -1,0 +1,42 @@
+{
+  "id": "10518323-42ac-44a2-a823-d15d54cd05e4",
+  "persona": "damek",
+  "names": [
+    "damek"
+  ],
+  "runs": 3,
+  "bestRank": 60,
+  "worstRank": 155,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2737847,
+  "weeksActive": [
+    -56,
+    -55,
+    -54
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 155,
+      "ms": 2737847,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 109,
+      "ms": 2778023,
+      "dish": "Pizza"
+    },
+    {
+      "week": -54,
+      "start": "2023-12-25",
+      "rank": 60,
+      "ms": 3199828,
+      "dish": "Salad"
+    }
+  ]
+}

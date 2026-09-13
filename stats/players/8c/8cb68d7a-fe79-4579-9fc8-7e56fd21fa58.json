@@ -1,0 +1,42 @@
+{
+  "id": "8cb68d7a-fe79-4579-9fc8-7e56fd21fa58",
+  "persona": "F4nt0M",
+  "names": [
+    "F4nt0M"
+  ],
+  "runs": 3,
+  "bestRank": 220,
+  "worstRank": 510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2863583,
+  "weeksActive": [
+    -44,
+    -37,
+    -32
+  ],
+  "history": [
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 510,
+      "ms": 4437444,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 346,
+      "ms": 3116172,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 220,
+      "ms": 2863583,
+      "dish": "Breakfast"
+    }
+  ]
+}

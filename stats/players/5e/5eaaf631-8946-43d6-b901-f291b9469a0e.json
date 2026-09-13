@@ -1,0 +1,50 @@
+{
+  "id": "5eaaf631-8946-43d6-b901-f291b9469a0e",
+  "persona": "Tutuu",
+  "names": [
+    "Tutuu"
+  ],
+  "runs": 4,
+  "bestRank": 274,
+  "worstRank": 392,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2957647,
+  "weeksActive": [
+    -85,
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 274,
+      "ms": 4886251,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 392,
+      "ms": 3179215,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 317,
+      "ms": 3315156,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 325,
+      "ms": 2957647,
+      "dish": "Fish"
+    }
+  ]
+}

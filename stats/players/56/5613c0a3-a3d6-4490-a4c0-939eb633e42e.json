@@ -1,0 +1,50 @@
+{
+  "id": "5613c0a3-a3d6-4490-a4c0-939eb633e42e",
+  "persona": "nomatoni",
+  "names": [
+    "nomatoni"
+  ],
+  "runs": 4,
+  "bestRank": 147,
+  "worstRank": 297,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2993882,
+  "weeksActive": [
+    30,
+    31,
+    32,
+    59
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 212,
+      "ms": 3190282,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 297,
+      "ms": 3348438,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 147,
+      "ms": 2993882,
+      "dish": "Pies"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 211,
+      "ms": 3293546,
+      "dish": "Salad"
+    }
+  ]
+}

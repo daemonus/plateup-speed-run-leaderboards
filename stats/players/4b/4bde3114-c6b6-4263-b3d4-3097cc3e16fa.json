@@ -1,0 +1,82 @@
+{
+  "id": "4bde3114-c6b6-4263-b3d4-3097cc3e16fa",
+  "persona": "\u9E21\u86CB\u7CD5",
+  "names": [
+    "\u9E21\u86CB\u7CD5"
+  ],
+  "runs": 8,
+  "bestRank": 55,
+  "worstRank": 224,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2245344,
+  "weeksActive": [
+    -59,
+    -55,
+    -52,
+    -51,
+    -37,
+    42,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 55,
+      "ms": 2245344,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 152,
+      "ms": 3033725,
+      "dish": "Pizza"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 97,
+      "ms": 3473443,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 224,
+      "ms": 2774013,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 132,
+      "ms": 2447300,
+      "dish": "Fish"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 151,
+      "ms": 3259346,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 160,
+      "ms": 2350930,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 144,
+      "ms": 2790768,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "e56d8be7-daef-4a8a-9017-33cd25d395ab",
+  "persona": "Snazzy_Lion",
+  "names": [
+    "Snazzy_Lion"
+  ],
+  "runs": 4,
+  "bestRank": 689,
+  "worstRank": 2500,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3632862,
+  "weeksActive": [
+    -93,
+    -88,
+    -86,
+    -62
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2500,
+      "ms": 3632862,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 793,
+      "ms": 5055791,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 823,
+      "ms": 4792428,
+      "dish": "Fish"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 689,
+      "ms": 5092030,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "54440c5e-5a5e-40b5-8037-5489687e230e",
+  "persona": "Nick Wan",
+  "names": [
+    "Nick Wan"
+  ],
+  "runs": 6,
+  "bestRank": 222,
+  "worstRank": 689,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3028153,
+  "weeksActive": [
+    -56,
+    -47,
+    -30,
+    5,
+    8,
+    18
+  ],
+  "history": [
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 222,
+      "ms": 3028153,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 471,
+      "ms": 5900812,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 689,
+      "ms": 3716354,
+      "dish": "Turkey"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 356,
+      "ms": 4407019,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 574,
+      "ms": 3441591,
+      "dish": "Fish"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 331,
+      "ms": 11461212,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

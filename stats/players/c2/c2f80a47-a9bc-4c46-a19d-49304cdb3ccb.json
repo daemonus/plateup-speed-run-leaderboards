@@ -1,0 +1,82 @@
+{
+  "id": "c2f80a47-a9bc-4c46-a19d-49304cdb3ccb",
+  "persona": "\u30B9\u30FC\u30B9",
+  "names": [
+    "\u30B9\u30FC\u30B9"
+  ],
+  "runs": 8,
+  "bestRank": 112,
+  "worstRank": 1379,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2473723,
+  "weeksActive": [
+    -94,
+    -93,
+    -81,
+    -63,
+    -62,
+    16,
+    25,
+    31
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 956,
+      "ms": 3376750,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1379,
+      "ms": 2715100,
+      "dish": "Fish"
+    },
+    {
+      "week": -81,
+      "start": "2023-06-19",
+      "rank": 370,
+      "ms": 4927134,
+      "dish": "Steak"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 169,
+      "ms": 3185625,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 309,
+      "ms": 3518293,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 285,
+      "ms": 4343081,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 112,
+      "ms": 3920433,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 119,
+      "ms": 2473723,
+      "dish": "Fish"
+    }
+  ]
+}

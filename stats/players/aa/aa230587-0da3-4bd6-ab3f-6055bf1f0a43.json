@@ -1,0 +1,58 @@
+{
+  "id": "aa230587-0da3-4bd6-ab3f-6055bf1f0a43",
+  "persona": "megronomicon",
+  "names": [
+    "megronomicon"
+  ],
+  "runs": 5,
+  "bestRank": 373,
+  "worstRank": 679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3337883,
+  "weeksActive": [
+    -51,
+    -46,
+    -45,
+    -37,
+    -30
+  ],
+  "history": [
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 679,
+      "ms": 4753356,
+      "dish": "Turkey"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 544,
+      "ms": 5829669,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 373,
+      "ms": 3891391,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 621,
+      "ms": 3722212,
+      "dish": "Fish"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 559,
+      "ms": 3337883,
+      "dish": "Turkey"
+    }
+  ]
+}

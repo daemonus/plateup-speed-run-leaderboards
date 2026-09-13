@@ -1,0 +1,34 @@
+{
+  "id": "fd4a30ec-6ff5-4fb8-9499-c441d48b8aef",
+  "persona": "Word\u9EBB\u9D28",
+  "names": [
+    "Word\u9EBB\u9D28"
+  ],
+  "runs": 2,
+  "bestRank": 60,
+  "worstRank": 84,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2223583,
+  "weeksActive": [
+    3,
+    5
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 60,
+      "ms": 2223583,
+      "dish": "Fish"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 84,
+      "ms": 2646085,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "1762756c-f023-4671-b2fd-9e9224c1538b",
+  "persona": "Doby",
+  "names": [
+    "Doby"
+  ],
+  "runs": 3,
+  "bestRank": 311,
+  "worstRank": 484,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2721639,
+  "weeksActive": [
+    64,
+    66,
+    68
+  ],
+  "history": [
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 484,
+      "ms": 2721639,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 311,
+      "ms": 3628658,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 321,
+      "ms": 3121491,
+      "dish": "Turkey"
+    }
+  ]
+}

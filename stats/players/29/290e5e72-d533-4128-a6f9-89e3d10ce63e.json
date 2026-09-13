@@ -1,0 +1,58 @@
+{
+  "id": "290e5e72-d533-4128-a6f9-89e3d10ce63e",
+  "persona": "lavdatedominvn",
+  "names": [
+    "lavdatedominvn"
+  ],
+  "runs": 5,
+  "bestRank": 66,
+  "worstRank": 157,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2532766,
+  "weeksActive": [
+    3,
+    4,
+    6,
+    21,
+    69
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 103,
+      "ms": 2532766,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 147,
+      "ms": 3010983,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 86,
+      "ms": 2657953,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 157,
+      "ms": 2821973,
+      "dish": "Burgers"
+    },
+    {
+      "week": 69,
+      "start": "2026-05-04",
+      "rank": 66,
+      "ms": 2798421,
+      "dish": "Burgers"
+    }
+  ]
+}

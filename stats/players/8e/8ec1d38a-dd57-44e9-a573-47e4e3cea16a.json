@@ -1,0 +1,34 @@
+{
+  "id": "8ec1d38a-dd57-44e9-a573-47e4e3cea16a",
+  "persona": "Sinter",
+  "names": [
+    "Sinter"
+  ],
+  "runs": 2,
+  "bestRank": 377,
+  "worstRank": 381,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3265602,
+  "weeksActive": [
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 381,
+      "ms": 3265602,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 377,
+      "ms": 4280635,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "314b81e1-f8a3-4aca-8f2e-5ad7f7f9e2b7",
+  "persona": "Yahaha",
+  "names": [
+    "Yahaha"
+  ],
+  "runs": 4,
+  "bestRank": 162,
+  "worstRank": 426,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2840391,
+  "weeksActive": [
+    -3,
+    1,
+    2,
+    3
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 426,
+      "ms": 3437959,
+      "dish": "Turkey"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 379,
+      "ms": 4440954,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 361,
+      "ms": 4622416,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 162,
+      "ms": 2840391,
+      "dish": "Fish"
+    }
+  ]
+}

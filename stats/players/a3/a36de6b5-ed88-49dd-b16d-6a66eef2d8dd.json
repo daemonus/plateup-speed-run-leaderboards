@@ -1,0 +1,98 @@
+{
+  "id": "a36de6b5-ed88-49dd-b16d-6a66eef2d8dd",
+  "persona": "\u868A\u5B50\u5927\u738B",
+  "names": [
+    "\u868A\u5B50\u5927\u738B"
+  ],
+  "runs": 10,
+  "bestRank": 87,
+  "worstRank": 398,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2053871,
+  "weeksActive": [
+    4,
+    16,
+    18,
+    20,
+    21,
+    24,
+    31,
+    35,
+    61,
+    83
+  ],
+  "history": [
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 219,
+      "ms": 3529133,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 127,
+      "ms": 3483833,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 18,
+      "start": "2025-05-12",
+      "rank": 111,
+      "ms": 3097815,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 293,
+      "ms": 2513262,
+      "dish": "Turkey"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 358,
+      "ms": 4019686,
+      "dish": "Burgers"
+    },
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 398,
+      "ms": 4283153,
+      "dish": "Pies"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 272,
+      "ms": 3220995,
+      "dish": "Fish"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 135,
+      "ms": 2828893,
+      "dish": "Fish"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 87,
+      "ms": 2488649,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 214,
+      "ms": 2053871,
+      "dish": "Sundaes"
+    }
+  ]
+}

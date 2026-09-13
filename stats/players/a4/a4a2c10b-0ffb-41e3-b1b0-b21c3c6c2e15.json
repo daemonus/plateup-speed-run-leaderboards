@@ -1,0 +1,42 @@
+{
+  "id": "a4a2c10b-0ffb-41e3-b1b0-b21c3c6c2e15",
+  "persona": "Aurora",
+  "names": [
+    "Aurora"
+  ],
+  "runs": 3,
+  "bestRank": 131,
+  "worstRank": 169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2681798,
+  "weeksActive": [
+    3,
+    4,
+    7
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 131,
+      "ms": 2681798,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 169,
+      "ms": 3139661,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 143,
+      "ms": 2868268,
+      "dish": "Fish"
+    }
+  ]
+}

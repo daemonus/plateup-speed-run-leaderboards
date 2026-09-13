@@ -1,0 +1,50 @@
+{
+  "id": "020b73cd-5861-4005-b76a-47353397a254",
+  "persona": "Weijin",
+  "names": [
+    "Weijin"
+  ],
+  "runs": 4,
+  "bestRank": 76,
+  "worstRank": 141,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2116160,
+  "weeksActive": [
+    65,
+    67,
+    68,
+    70
+  ],
+  "history": [
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 127,
+      "ms": 2857722,
+      "dish": "Pizza"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 76,
+      "ms": 2447935,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 103,
+      "ms": 2116160,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 141,
+      "ms": 3103168,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

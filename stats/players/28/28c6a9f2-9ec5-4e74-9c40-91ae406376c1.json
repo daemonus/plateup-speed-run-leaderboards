@@ -1,0 +1,50 @@
+{
+  "id": "28c6a9f2-9ec5-4e74-9c40-91ae406376c1",
+  "persona": "LENA",
+  "names": [
+    "LENA"
+  ],
+  "runs": 4,
+  "bestRank": 212,
+  "worstRank": 578,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4139790,
+  "weeksActive": [
+    -15,
+    -14,
+    -10,
+    -6
+  ],
+  "history": [
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 578,
+      "ms": 5175075,
+      "dish": "Fish"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 313,
+      "ms": 6016757,
+      "dish": "Salad"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 212,
+      "ms": 4538675,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 340,
+      "ms": 4139790,
+      "dish": "Breakfast"
+    }
+  ]
+}

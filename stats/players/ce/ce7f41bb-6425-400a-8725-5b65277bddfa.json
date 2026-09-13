@@ -1,0 +1,34 @@
+{
+  "id": "ce7f41bb-6425-400a-8725-5b65277bddfa",
+  "persona": "kibatori",
+  "names": [
+    "kibatori"
+  ],
+  "runs": 2,
+  "bestRank": 458,
+  "worstRank": 609,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2593041,
+  "weeksActive": [
+    -90,
+    -89
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 458,
+      "ms": 2593041,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 609,
+      "ms": 3199419,
+      "dish": "Pies"
+    }
+  ]
+}

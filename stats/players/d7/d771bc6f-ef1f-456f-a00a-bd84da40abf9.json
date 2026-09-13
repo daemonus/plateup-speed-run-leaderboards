@@ -1,0 +1,58 @@
+{
+  "id": "d771bc6f-ef1f-456f-a00a-bd84da40abf9",
+  "persona": "kallisti",
+  "names": [
+    "kallisti"
+  ],
+  "runs": 5,
+  "bestRank": 116,
+  "worstRank": 291,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2490915,
+  "weeksActive": [
+    -41,
+    -39,
+    -34,
+    -31,
+    -30
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 130,
+      "ms": 3668242,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 116,
+      "ms": 2490915,
+      "dish": "Pizza"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 140,
+      "ms": 2696929,
+      "dish": "Pies"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 187,
+      "ms": 2952619,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 291,
+      "ms": 2648965,
+      "dish": "Turkey"
+    }
+  ]
+}

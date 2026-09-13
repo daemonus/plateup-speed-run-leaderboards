@@ -1,0 +1,50 @@
+{
+  "id": "f227c9ae-e44d-49a8-9b79-db2f8fd5a4fe",
+  "persona": "Caesar",
+  "names": [
+    "Caesar"
+  ],
+  "runs": 4,
+  "bestRank": 245,
+  "worstRank": 705,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3776230,
+  "weeksActive": [
+    -27,
+    -26,
+    -14,
+    8
+  ],
+  "history": [
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 282,
+      "ms": 5302560,
+      "dish": "Salad"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 245,
+      "ms": 4067207,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 312,
+      "ms": 6001879,
+      "dish": "Salad"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 705,
+      "ms": 3776230,
+      "dish": "Fish"
+    }
+  ]
+}

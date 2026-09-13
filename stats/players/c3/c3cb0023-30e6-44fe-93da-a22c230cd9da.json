@@ -1,0 +1,50 @@
+{
+  "id": "c3cb0023-30e6-44fe-93da-a22c230cd9da",
+  "persona": "sa1akao",
+  "names": [
+    "sa1akao"
+  ],
+  "runs": 4,
+  "bestRank": 110,
+  "worstRank": 344,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1892582,
+  "weeksActive": [
+    -76,
+    -75,
+    -74,
+    -69
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 344,
+      "ms": 2857534,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 110,
+      "ms": 1892582,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 111,
+      "ms": 2655752,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 179,
+      "ms": 4073790,
+      "dish": "Stir Fry"
+    }
+  ]
+}

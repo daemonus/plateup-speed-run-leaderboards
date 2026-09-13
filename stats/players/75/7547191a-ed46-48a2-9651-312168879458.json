@@ -1,0 +1,74 @@
+{
+  "id": "7547191a-ed46-48a2-9651-312168879458",
+  "persona": "Cthulhu",
+  "names": [
+    "Cthulhu"
+  ],
+  "runs": 7,
+  "bestRank": 163,
+  "worstRank": 477,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2426539,
+  "weeksActive": [
+    -83,
+    -82,
+    -79,
+    -76,
+    -72,
+    -71,
+    -69
+  ],
+  "history": [
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 216,
+      "ms": 2887512,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 353,
+      "ms": 3068429,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 327,
+      "ms": 3961221,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 477,
+      "ms": 3210357,
+      "dish": "Turkey"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 380,
+      "ms": 3803017,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 163,
+      "ms": 2426539,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 165,
+      "ms": 3964059,
+      "dish": "Stir Fry"
+    }
+  ]
+}

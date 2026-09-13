@@ -1,0 +1,58 @@
+{
+  "id": "295b0510-b470-4e69-8d06-f96cd28eb202",
+  "persona": "abigail.short",
+  "names": [
+    "abigail.short"
+  ],
+  "runs": 5,
+  "bestRank": 292,
+  "worstRank": 525,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3024554,
+  "weeksActive": [
+    2,
+    3,
+    65,
+    66,
+    86
+  ],
+  "history": [
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 292,
+      "ms": 4106853,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 525,
+      "ms": 3890490,
+      "dish": "Fish"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 410,
+      "ms": 7226399,
+      "dish": "Pizza"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 376,
+      "ms": 4207216,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 341,
+      "ms": 3024554,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "4c5b531a-a6c0-44e9-bd41-e635257d6879",
+  "persona": "callidissime",
+  "names": [
+    "callidissime"
+  ],
+  "runs": 5,
+  "bestRank": 172,
+  "worstRank": 397,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4177408,
+  "weeksActive": [
+    -66,
+    -65,
+    -57,
+    -23,
+    -20
+  ],
+  "history": [
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 281,
+      "ms": 4615408,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 172,
+      "ms": 6509938,
+      "dish": "Burgers"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 287,
+      "ms": 4743829,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 221,
+      "ms": 4533233,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 397,
+      "ms": 4177408,
+      "dish": "Burgers"
+    }
+  ]
+}

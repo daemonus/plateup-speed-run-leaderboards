@@ -1,0 +1,42 @@
+{
+  "id": "539f47f1-b3ac-4f5b-ad12-56555a4179de",
+  "persona": "zerori",
+  "names": [
+    "zerori"
+  ],
+  "runs": 3,
+  "bestRank": 380,
+  "worstRank": 703,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2669711,
+  "weeksActive": [
+    -90,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 703,
+      "ms": 3063186,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 380,
+      "ms": 2669711,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 381,
+      "ms": 3255716,
+      "dish": "Pies"
+    }
+  ]
+}

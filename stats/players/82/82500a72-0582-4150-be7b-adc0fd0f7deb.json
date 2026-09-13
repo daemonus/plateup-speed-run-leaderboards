@@ -1,0 +1,58 @@
+{
+  "id": "82500a72-0582-4150-be7b-adc0fd0f7deb",
+  "persona": "TyrannosaurusC",
+  "names": [
+    "TyrannosaurusC"
+  ],
+  "runs": 5,
+  "bestRank": 167,
+  "worstRank": 420,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3194730,
+  "weeksActive": [
+    -69,
+    -51,
+    -49,
+    -45,
+    -39
+  ],
+  "history": [
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 167,
+      "ms": 3969419,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 375,
+      "ms": 3310564,
+      "dish": "Turkey"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 173,
+      "ms": 4033632,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 420,
+      "ms": 4163184,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 344,
+      "ms": 3194730,
+      "dish": "Pizza"
+    }
+  ]
+}

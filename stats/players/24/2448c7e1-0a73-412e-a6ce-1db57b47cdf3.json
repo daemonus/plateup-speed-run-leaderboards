@@ -1,0 +1,42 @@
+{
+  "id": "2448c7e1-0a73-412e-a6ce-1db57b47cdf3",
+  "persona": "Chino_Tryhard",
+  "names": [
+    "Chino_Tryhard"
+  ],
+  "runs": 3,
+  "bestRank": 123,
+  "worstRank": 536,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2992581,
+  "weeksActive": [
+    -59,
+    -58,
+    -55
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 536,
+      "ms": 4376042,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 123,
+      "ms": 3616080,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 144,
+      "ms": 2992581,
+      "dish": "Pizza"
+    }
+  ]
+}

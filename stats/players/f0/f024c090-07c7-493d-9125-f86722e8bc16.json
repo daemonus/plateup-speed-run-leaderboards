@@ -1,0 +1,66 @@
+{
+  "id": "f024c090-07c7-493d-9125-f86722e8bc16",
+  "persona": "Shellu",
+  "names": [
+    "Shellu"
+  ],
+  "runs": 6,
+  "bestRank": 149,
+  "worstRank": 535,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3131675,
+  "weeksActive": [
+    -59,
+    -46,
+    -44,
+    -39,
+    -27,
+    27
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 535,
+      "ms": 4372472,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 504,
+      "ms": 5300172,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 440,
+      "ms": 3901548,
+      "dish": "Turkey"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 458,
+      "ms": 3544033,
+      "dish": "Pizza"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 300,
+      "ms": 5639752,
+      "dish": "Salad"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 149,
+      "ms": 3131675,
+      "dish": "Breakfast"
+    }
+  ]
+}

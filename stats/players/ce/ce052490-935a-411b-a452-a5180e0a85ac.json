@@ -1,0 +1,58 @@
+{
+  "id": "ce052490-935a-411b-a452-a5180e0a85ac",
+  "persona": "TacoRic",
+  "names": [
+    "TacoRic"
+  ],
+  "runs": 5,
+  "bestRank": 87,
+  "worstRank": 358,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2012245,
+  "weeksActive": [
+    -21,
+    -20,
+    -17,
+    -13,
+    8
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 143,
+      "ms": 2875064,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 319,
+      "ms": 3816408,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 358,
+      "ms": 4860132,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 231,
+      "ms": 3626840,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 87,
+      "ms": 2012245,
+      "dish": "Fish"
+    }
+  ]
+}

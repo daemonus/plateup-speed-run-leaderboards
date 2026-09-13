@@ -1,0 +1,34 @@
+{
+  "id": "a714f78e-fe88-46e2-8cc6-a5c994c6b850",
+  "persona": "LettuceShoes",
+  "names": [
+    "LettuceShoes"
+  ],
+  "runs": 2,
+  "bestRank": 232,
+  "worstRank": 274,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3238931,
+  "weeksActive": [
+    -62,
+    -61
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 232,
+      "ms": 3238931,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 274,
+      "ms": 3360386,
+      "dish": "Fish"
+    }
+  ]
+}

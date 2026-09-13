@@ -1,0 +1,58 @@
+{
+  "id": "5322a7d8-846b-4553-9ebe-3222669ae22e",
+  "persona": "Namafu",
+  "names": [
+    "Namafu"
+  ],
+  "runs": 5,
+  "bestRank": 68,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2520730,
+  "weeksActive": [
+    10,
+    11,
+    13,
+    16,
+    31
+  ],
+  "history": [
+    {
+      "week": 10,
+      "start": "2025-03-17",
+      "rank": 68,
+      "ms": 3045124,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 90,
+      "ms": 2884392,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 197,
+      "ms": 2520730,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 179,
+      "ms": 3821250,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 133,
+      "ms": 2561111,
+      "dish": "Fish"
+    }
+  ]
+}

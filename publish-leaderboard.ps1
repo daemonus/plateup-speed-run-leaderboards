@@ -10,7 +10,8 @@
         1. Optionally fast-forward the local clone so it's in sync.
         2. Run the scraper, writing the scrubbed JSON into <RepoPath>\<SubDir>.
         3. Rebuild index.json from the weeks/ + archive/ folders.
-        4. Commit + push only if something actually changed (no empty commits).
+        4. Rebuild the stats/ cross-week statistic views from weeks/ + archive/.
+        5. Commit + push only if something actually changed (no empty commits).
 
     Auth uses your machine's normal git setup (Git Credential Manager or an SSH/deploy key on the
     clone). No secrets live in this script or the tool.
@@ -151,7 +152,16 @@ if ($LASTEXITCODE -ne 0) {
     throw "Index build failed; not committing."
 }
 
-# ---- 4. Commit + push each repo (only when it actually changed) -------------
+# ---- 4. Rebuild the statistics ----------------------------------------------
+# Cross-week stat views (stats/) are derived from the same scrubbed feed and contain no SteamID.
+# Deterministic like the manifest, so an unchanged feed produces byte-identical output (no churn).
+Write-Step "Rebuilding stats/..."
+& $ScraperExe --build-stats $RepoPath
+if ($LASTEXITCODE -ne 0) {
+    throw "Stats build failed; not committing."
+}
+
+# ---- 5. Commit + push each repo (only when it actually changed) -------------
 $stamp = [DateTime]::UtcNow.ToString('yyyy-MM-dd HH:mm')
 
 Publish-Repo -Path $RepoPath -RepoBranch $Branch `

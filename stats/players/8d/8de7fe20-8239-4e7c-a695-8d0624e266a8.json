@@ -1,0 +1,42 @@
+{
+  "id": "8de7fe20-8239-4e7c-a695-8d0624e266a8",
+  "persona": "aa00002222tw",
+  "names": [
+    "aa00002222tw"
+  ],
+  "runs": 3,
+  "bestRank": 219,
+  "worstRank": 521,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2694159,
+  "weeksActive": [
+    -6,
+    -5,
+    -3
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 521,
+      "ms": 4860133,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 265,
+      "ms": 3890182,
+      "dish": "Pizza"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 219,
+      "ms": 2694159,
+      "dish": "Turkey"
+    }
+  ]
+}

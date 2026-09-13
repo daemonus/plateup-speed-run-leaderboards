@@ -1,0 +1,34 @@
+{
+  "id": "65ae48f7-5bad-4808-add8-91780b5d7467",
+  "persona": "practice machine",
+  "names": [
+    "practice machine"
+  ],
+  "runs": 2,
+  "bestRank": 249,
+  "worstRank": 566,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3374250,
+  "weeksActive": [
+    -79,
+    -76
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 249,
+      "ms": 3530265,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 566,
+      "ms": 3374250,
+      "dish": "Turkey"
+    }
+  ]
+}

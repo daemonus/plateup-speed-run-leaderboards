@@ -1,0 +1,34 @@
+{
+  "id": "787634fa-9441-404f-a081-b8094e73044a",
+  "persona": "slurry",
+  "names": [
+    "slurry"
+  ],
+  "runs": 2,
+  "bestRank": 872,
+  "worstRank": 1175,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3206514,
+  "weeksActive": [
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1175,
+      "ms": 3206514,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 872,
+      "ms": 3414791,
+      "dish": "Fish"
+    }
+  ]
+}

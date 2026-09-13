@@ -1,0 +1,58 @@
+{
+  "id": "3223d988-d089-4362-9a69-cd1f2942dd38",
+  "persona": "EvelynSays",
+  "names": [
+    "EvelynSays"
+  ],
+  "runs": 5,
+  "bestRank": 52,
+  "worstRank": 213,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1721190,
+  "weeksActive": [
+    -91,
+    -88,
+    -76,
+    -75,
+    -72
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 132,
+      "ms": 1755101,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 213,
+      "ms": 2737303,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 153,
+      "ms": 2324140,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 67,
+      "ms": 1721190,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 52,
+      "ms": 2198104,
+      "dish": "Pies"
+    }
+  ]
+}

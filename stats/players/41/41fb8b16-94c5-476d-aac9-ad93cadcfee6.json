@@ -1,0 +1,50 @@
+{
+  "id": "41fb8b16-94c5-476d-aac9-ad93cadcfee6",
+  "persona": "almost_al",
+  "names": [
+    "almost_al"
+  ],
+  "runs": 4,
+  "bestRank": 267,
+  "worstRank": 728,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4140333,
+  "weeksActive": [
+    -59,
+    -58,
+    -57,
+    52
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 728,
+      "ms": 5988959,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 267,
+      "ms": 5605197,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 273,
+      "ms": 4568135,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 581,
+      "ms": 4140333,
+      "dish": "Fish"
+    }
+  ]
+}

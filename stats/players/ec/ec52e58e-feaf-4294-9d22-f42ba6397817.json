@@ -1,0 +1,50 @@
+{
+  "id": "ec52e58e-feaf-4294-9d22-f42ba6397817",
+  "persona": "JoeyPan",
+  "names": [
+    "JoeyPan"
+  ],
+  "runs": 4,
+  "bestRank": 134,
+  "worstRank": 549,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3554100,
+  "weeksActive": [
+    -21,
+    -20,
+    -17,
+    -10
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 436,
+      "ms": 4418867,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 549,
+      "ms": 5553844,
+      "dish": "Burgers"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 243,
+      "ms": 3554100,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 134,
+      "ms": 3725960,
+      "dish": "Stir Fry"
+    }
+  ]
+}

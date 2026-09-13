@@ -1,0 +1,58 @@
+{
+  "id": "4fb06d70-28e1-4398-9bf9-ded2c61f875b",
+  "persona": "Crazy\u00B7Ming \uFF64",
+  "names": [
+    "Crazy\u00B7Ming \uFF64"
+  ],
+  "runs": 5,
+  "bestRank": 245,
+  "worstRank": 660,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4765594,
+  "weeksActive": [
+    -60,
+    -59,
+    -58,
+    -57,
+    42
+  ],
+  "history": [
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 473,
+      "ms": 5692541,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 660,
+      "ms": 5077838,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 251,
+      "ms": 5123594,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 290,
+      "ms": 4765594,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 245,
+      "ms": 5173617,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

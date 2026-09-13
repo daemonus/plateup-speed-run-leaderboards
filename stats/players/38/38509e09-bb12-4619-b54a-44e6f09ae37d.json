@@ -1,0 +1,58 @@
+{
+  "id": "38509e09-bb12-4619-b54a-44e6f09ae37d",
+  "persona": "geregere",
+  "names": [
+    "geregere"
+  ],
+  "runs": 5,
+  "bestRank": 142,
+  "worstRank": 547,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2190221,
+  "weeksActive": [
+    -46,
+    -44,
+    -43,
+    14,
+    15
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 547,
+      "ms": 5872906,
+      "dish": "Salad"
+    },
+    {
+      "week": -44,
+      "start": "2024-03-04",
+      "rank": 332,
+      "ms": 3359288,
+      "dish": "Turkey"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 233,
+      "ms": 3941166,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 306,
+      "ms": 4424389,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 142,
+      "ms": 2190221,
+      "dish": "Turkey"
+    }
+  ]
+}

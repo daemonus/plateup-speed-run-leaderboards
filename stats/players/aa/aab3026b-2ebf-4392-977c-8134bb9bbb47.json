@@ -1,0 +1,34 @@
+{
+  "id": "aab3026b-2ebf-4392-977c-8134bb9bbb47",
+  "persona": "JustSomeone",
+  "names": [
+    "JustSomeone"
+  ],
+  "runs": 2,
+  "bestRank": 524,
+  "worstRank": 639,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3737882,
+  "weeksActive": [
+    41,
+    46
+  ],
+  "history": [
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 639,
+      "ms": 3737882,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 524,
+      "ms": 4840734,
+      "dish": "Pizza"
+    }
+  ]
+}

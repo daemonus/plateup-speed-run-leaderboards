@@ -1,0 +1,66 @@
+{
+  "id": "c07a6190-1c73-428c-a364-8a6228d60892",
+  "persona": "Kayla",
+  "names": [
+    "Kayla"
+  ],
+  "runs": 6,
+  "bestRank": 221,
+  "worstRank": 768,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3027267,
+  "weeksActive": [
+    -62,
+    -56,
+    -42,
+    -18,
+    38,
+    43
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 390,
+      "ms": 3819914,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 221,
+      "ms": 3027267,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 236,
+      "ms": 5742943,
+      "dish": "Burgers"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 569,
+      "ms": 4409255,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 458,
+      "ms": 4402237,
+      "dish": "Pies"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 768,
+      "ms": 5578488,
+      "dish": "Fish"
+    }
+  ]
+}

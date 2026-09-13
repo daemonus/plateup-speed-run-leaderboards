@@ -1,0 +1,58 @@
+{
+  "id": "87172830-ad82-4b72-975c-ee2e77516c18",
+  "persona": "funny",
+  "names": [
+    "funny"
+  ],
+  "runs": 5,
+  "bestRank": 558,
+  "worstRank": 819,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3309769,
+  "weeksActive": [
+    -82,
+    -77,
+    -76,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 627,
+      "ms": 3948334,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 819,
+      "ms": 4621785,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 771,
+      "ms": 3993397,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 615,
+      "ms": 3309769,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 558,
+      "ms": 5189151,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

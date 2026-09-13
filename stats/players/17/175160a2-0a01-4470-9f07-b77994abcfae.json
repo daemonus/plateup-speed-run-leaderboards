@@ -1,0 +1,42 @@
+{
+  "id": "175160a2-0a01-4470-9f07-b77994abcfae",
+  "persona": "chamchi486",
+  "names": [
+    "chamchi486"
+  ],
+  "runs": 3,
+  "bestRank": 119,
+  "worstRank": 255,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3231264,
+  "weeksActive": [
+    -25,
+    -23,
+    -20
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 195,
+      "ms": 3462884,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -23,
+      "start": "2024-07-29",
+      "rank": 119,
+      "ms": 3231264,
+      "dish": "Pizza"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 255,
+      "ms": 3551157,
+      "dish": "Burgers"
+    }
+  ]
+}

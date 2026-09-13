@@ -1,0 +1,58 @@
+{
+  "id": "a91b9d5f-a464-4d49-b495-bd7cfbe7386d",
+  "persona": "lani",
+  "names": [
+    "lani"
+  ],
+  "runs": 5,
+  "bestRank": 50,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1843642,
+  "weeksActive": [
+    -7,
+    -3,
+    6,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 227,
+      "ms": 4378609,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 80,
+      "ms": 2089126,
+      "dish": "Turkey"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 90,
+      "ms": 2708746,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 50,
+      "ms": 1843642,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 134,
+      "ms": 2731577,
+      "dish": "Breakfast"
+    }
+  ]
+}

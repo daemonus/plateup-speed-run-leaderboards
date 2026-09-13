@@ -1,0 +1,42 @@
+{
+  "id": "4627b204-e976-4445-bb68-d396d6144b6b",
+  "persona": "Yannie",
+  "names": [
+    "Yannie"
+  ],
+  "runs": 3,
+  "bestRank": 287,
+  "worstRank": 412,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3365487,
+  "weeksActive": [
+    -79,
+    -78,
+    -26
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 287,
+      "ms": 3718188,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 308,
+      "ms": 3365487,
+      "dish": "Burgers"
+    },
+    {
+      "week": -26,
+      "start": "2024-07-08",
+      "rank": 412,
+      "ms": 5279000,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "fd810abf-aa43-4dd4-98ac-e1e903c41742",
+  "persona": "BrotherhoodX",
+  "names": [
+    "BrotherhoodX"
+  ],
+  "runs": 7,
+  "bestRank": 94,
+  "worstRank": 467,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2266552,
+  "weeksActive": [
+    -67,
+    -66,
+    -65,
+    -64,
+    13,
+    23,
+    41
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 157,
+      "ms": 3293019,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 231,
+      "ms": 3733672,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 94,
+      "ms": 3917467,
+      "dish": "Burgers"
+    },
+    {
+      "week": -64,
+      "start": "2023-10-16",
+      "rank": 108,
+      "ms": 2923769,
+      "dish": "Salad"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 467,
+      "ms": 3529980,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 221,
+      "ms": 2697459,
+      "dish": "Turkey"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 279,
+      "ms": 2266552,
+      "dish": "Turkey"
+    }
+  ]
+}

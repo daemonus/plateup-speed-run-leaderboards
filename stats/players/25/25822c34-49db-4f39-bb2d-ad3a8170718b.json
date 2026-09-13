@@ -1,0 +1,58 @@
+{
+  "id": "25822c34-49db-4f39-bb2d-ad3a8170718b",
+  "persona": "Rykala",
+  "names": [
+    "Rykala"
+  ],
+  "runs": 5,
+  "bestRank": 142,
+  "worstRank": 757,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3555039,
+  "weeksActive": [
+    -52,
+    -49,
+    -42,
+    -30,
+    -18
+  ],
+  "history": [
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 170,
+      "ms": 4370385,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -49,
+      "start": "2024-01-29",
+      "rank": 142,
+      "ms": 3705186,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 180,
+      "ms": 4167532,
+      "dish": "Burgers"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 757,
+      "ms": 3952965,
+      "dish": "Turkey"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 312,
+      "ms": 3555039,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c6a3699f-8856-4825-bc0d-a9f916f161e6",
+  "persona": "\u8C46\u6817\u9C7C\u6392",
+  "names": [
+    "\u8C46\u6817\u9C7C\u6392"
+  ],
+  "runs": 3,
+  "bestRank": 353,
+  "worstRank": 457,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3550869,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 450,
+      "ms": 4340704,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 457,
+      "ms": 3550869,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 353,
+      "ms": 4012718,
+      "dish": "Pizza"
+    }
+  ]
+}

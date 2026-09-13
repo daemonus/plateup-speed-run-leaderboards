@@ -1,0 +1,74 @@
+{
+  "id": "8a5a5536-e2d5-49cf-a001-887409e08d2a",
+  "persona": "Harold Crick",
+  "names": [
+    "Harold Crick"
+  ],
+  "runs": 7,
+  "bestRank": 348,
+  "worstRank": 717,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3401993,
+  "weeksActive": [
+    52,
+    53,
+    55,
+    56,
+    57,
+    58,
+    63
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 404,
+      "ms": 3401993,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 418,
+      "ms": 4662876,
+      "dish": "Pies"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 348,
+      "ms": 5378948,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 717,
+      "ms": 3502952,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 455,
+      "ms": 4598126,
+      "dish": "Salad"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 593,
+      "ms": 4650283,
+      "dish": "Turkey"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 632,
+      "ms": 4439301,
+      "dish": "Pizza"
+    }
+  ]
+}

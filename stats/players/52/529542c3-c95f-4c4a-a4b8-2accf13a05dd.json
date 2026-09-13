@@ -1,0 +1,82 @@
+{
+  "id": "529542c3-c95f-4c4a-a4b8-2accf13a05dd",
+  "persona": "Vertica",
+  "names": [
+    "Vertica"
+  ],
+  "runs": 8,
+  "bestRank": 310,
+  "worstRank": 825,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2331959,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -89,
+    -87,
+    -86,
+    -78
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 666,
+      "ms": 3044351,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 825,
+      "ms": 2331959,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 499,
+      "ms": 3436092,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 742,
+      "ms": 2626272,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 429,
+      "ms": 2783856,
+      "dish": "Pies"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 327,
+      "ms": 3398998,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 317,
+      "ms": 2583376,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 310,
+      "ms": 3371148,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "0b15d16d-ad73-44b3-8afa-1b74b2c12a0d",
+  "persona": "Chewbecca",
+  "names": [
+    "Chewbecca"
+  ],
+  "runs": 8,
+  "bestRank": 27,
+  "worstRank": 237,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1900879,
+  "weeksActive": [
+    -20,
+    33,
+    37,
+    38,
+    45,
+    46,
+    47,
+    84
+  ],
+  "history": [
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 237,
+      "ms": 3478944,
+      "dish": "Burgers"
+    },
+    {
+      "week": 33,
+      "start": "2025-08-25",
+      "rank": 184,
+      "ms": 3747896,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 59,
+      "ms": 2977948,
+      "dish": "Burgers"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 95,
+      "ms": 2397269,
+      "dish": "Pies"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 90,
+      "ms": 3239643,
+      "dish": "Salad"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 27,
+      "ms": 2061549,
+      "dish": "Pizza"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 53,
+      "ms": 2400404,
+      "dish": "Pizza"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 186,
+      "ms": 1900879,
+      "dish": "Sundaes"
+    }
+  ]
+}

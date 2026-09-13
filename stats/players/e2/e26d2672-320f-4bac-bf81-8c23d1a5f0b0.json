@@ -1,0 +1,50 @@
+{
+  "id": "e26d2672-320f-4bac-bf81-8c23d1a5f0b0",
+  "persona": "An iPhone 4",
+  "names": [
+    "An iPhone 4"
+  ],
+  "runs": 4,
+  "bestRank": 187,
+  "worstRank": 430,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2870050,
+  "weeksActive": [
+    -39,
+    72,
+    75,
+    76
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 240,
+      "ms": 2870050,
+      "dish": "Pizza"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 430,
+      "ms": 6177645,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 336,
+      "ms": 5161742,
+      "dish": "Pies"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 187,
+      "ms": 4379713,
+      "dish": "Salad"
+    }
+  ]
+}

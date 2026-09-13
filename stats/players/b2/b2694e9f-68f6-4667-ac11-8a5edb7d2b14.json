@@ -1,0 +1,50 @@
+{
+  "id": "b2694e9f-68f6-4667-ac11-8a5edb7d2b14",
+  "persona": "YiChun",
+  "names": [
+    "YiChun"
+  ],
+  "runs": 4,
+  "bestRank": 252,
+  "worstRank": 587,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3725687,
+  "weeksActive": [
+    -25,
+    -24,
+    -22,
+    36
+  ],
+  "history": [
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 587,
+      "ms": 5040727,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 256,
+      "ms": 4985060,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -22,
+      "start": "2024-08-05",
+      "rank": 252,
+      "ms": 5333485,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 373,
+      "ms": 3725687,
+      "dish": "Fish"
+    }
+  ]
+}

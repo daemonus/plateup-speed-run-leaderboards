@@ -1,0 +1,34 @@
+{
+  "id": "3002d209-3430-4415-bbd6-356e84dfe440",
+  "persona": "Apollo Dvd",
+  "names": [
+    "Apollo Dvd"
+  ],
+  "runs": 2,
+  "bestRank": 164,
+  "worstRank": 384,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2968515,
+  "weeksActive": [
+    -76,
+    -20
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 384,
+      "ms": 2968515,
+      "dish": "Turkey"
+    },
+    {
+      "week": -20,
+      "start": "2024-08-19",
+      "rank": 164,
+      "ms": 3170218,
+      "dish": "Burgers"
+    }
+  ]
+}

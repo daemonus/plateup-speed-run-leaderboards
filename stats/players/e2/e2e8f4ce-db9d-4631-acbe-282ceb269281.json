@@ -1,0 +1,42 @@
+{
+  "id": "e2e8f4ce-db9d-4631-acbe-282ceb269281",
+  "persona": "WeBareBear",
+  "names": [
+    "WeBareBear"
+  ],
+  "runs": 3,
+  "bestRank": 247,
+  "worstRank": 889,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2798080,
+  "weeksActive": [
+    -92,
+    -91,
+    -53
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 558,
+      "ms": 3620930,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 889,
+      "ms": 2798080,
+      "dish": "Fish"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 247,
+      "ms": 4104208,
+      "dish": "Breakfast"
+    }
+  ]
+}

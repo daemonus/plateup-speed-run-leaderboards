@@ -1,0 +1,98 @@
+{
+  "id": "5a148473-e6e5-4213-ab5a-cd3ecf5c4182",
+  "persona": "Boosh_01",
+  "names": [
+    "Boosh_01"
+  ],
+  "runs": 10,
+  "bestRank": 123,
+  "worstRank": 669,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3266401,
+  "weeksActive": [
+    -13,
+    -9,
+    -8,
+    14,
+    55,
+    56,
+    57,
+    82,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": -13,
+      "start": "2024-10-07",
+      "rank": 289,
+      "ms": 4310526,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 123,
+      "ms": 4309575,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 199,
+      "ms": 4398526,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 252,
+      "ms": 3719340,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 326,
+      "ms": 5089968,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 648,
+      "ms": 3266401,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 390,
+      "ms": 4097621,
+      "dish": "Salad"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 434,
+      "ms": 4183006,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 669,
+      "ms": 3704502,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 259,
+      "ms": 3429454,
+      "dish": "Fish"
+    }
+  ]
+}

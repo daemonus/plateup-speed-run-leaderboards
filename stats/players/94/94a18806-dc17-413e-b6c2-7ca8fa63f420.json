@@ -1,0 +1,42 @@
+{
+  "id": "94a18806-dc17-413e-b6c2-7ca8fa63f420",
+  "persona": "Dannyus",
+  "names": [
+    "Dannyus"
+  ],
+  "runs": 3,
+  "bestRank": 76,
+  "worstRank": 590,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1616125,
+  "weeksActive": [
+    -93,
+    -92,
+    -91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 590,
+      "ms": 2172082,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 101,
+      "ms": 2171772,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 76,
+      "ms": 1616125,
+      "dish": "Fish"
+    }
+  ]
+}

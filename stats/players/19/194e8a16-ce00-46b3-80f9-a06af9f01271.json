@@ -1,0 +1,66 @@
+{
+  "id": "194e8a16-ce00-46b3-80f9-a06af9f01271",
+  "persona": "GraciePalacie",
+  "names": [
+    "GraciePalacie"
+  ],
+  "runs": 6,
+  "bestRank": 148,
+  "worstRank": 485,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3771020,
+  "weeksActive": [
+    -14,
+    -12,
+    -11,
+    -10,
+    -8,
+    3
+  ],
+  "history": [
+    {
+      "week": -14,
+      "start": "2024-09-30",
+      "rank": 345,
+      "ms": 7399417,
+      "dish": "Salad"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 305,
+      "ms": 6742595,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -11,
+      "start": "2024-10-21",
+      "rank": 202,
+      "ms": 6540398,
+      "dish": "Burgers"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 196,
+      "ms": 4348075,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 148,
+      "ms": 3864789,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 485,
+      "ms": 3771020,
+      "dish": "Fish"
+    }
+  ]
+}

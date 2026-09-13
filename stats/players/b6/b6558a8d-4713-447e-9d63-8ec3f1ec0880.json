@@ -1,0 +1,42 @@
+{
+  "id": "b6558a8d-4713-447e-9d63-8ec3f1ec0880",
+  "persona": "JeppOtheNugget",
+  "names": [
+    "JeppOtheNugget"
+  ],
+  "runs": 3,
+  "bestRank": 174,
+  "worstRank": 656,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2116466,
+  "weeksActive": [
+    -93,
+    -89,
+    -88
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 656,
+      "ms": 2230004,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 174,
+      "ms": 2116466,
+      "dish": "Pies"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 346,
+      "ms": 3165814,
+      "dish": "Pies"
+    }
+  ]
+}

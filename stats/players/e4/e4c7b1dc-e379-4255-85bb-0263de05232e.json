@@ -1,0 +1,50 @@
+{
+  "id": "e4c7b1dc-e379-4255-85bb-0263de05232e",
+  "persona": "freckledhusky",
+  "names": [
+    "freckledhusky"
+  ],
+  "runs": 4,
+  "bestRank": 99,
+  "worstRank": 129,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1827913,
+  "weeksActive": [
+    -30,
+    -29,
+    -27,
+    20
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 99,
+      "ms": 2040223,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 109,
+      "ms": 3312798,
+      "dish": "Burgers"
+    },
+    {
+      "week": -27,
+      "start": "2024-07-01",
+      "rank": 129,
+      "ms": 3653742,
+      "dish": "Salad"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 99,
+      "ms": 1827913,
+      "dish": "Turkey"
+    }
+  ]
+}

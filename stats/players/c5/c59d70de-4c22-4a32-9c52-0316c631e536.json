@@ -1,0 +1,42 @@
+{
+  "id": "c59d70de-4c22-4a32-9c52-0316c631e536",
+  "persona": "nidaime",
+  "names": [
+    "nidaime"
+  ],
+  "runs": 3,
+  "bestRank": 79,
+  "worstRank": 711,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3015194,
+  "weeksActive": [
+    -30,
+    -29,
+    -28
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 711,
+      "ms": 3797990,
+      "dish": "Turkey"
+    },
+    {
+      "week": -29,
+      "start": "2024-06-17",
+      "rank": 79,
+      "ms": 3015194,
+      "dish": "Burgers"
+    },
+    {
+      "week": -28,
+      "start": "2024-06-24",
+      "rank": 139,
+      "ms": 4175763,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "7f3a32d0-5191-4cc6-a87a-104792acb646",
+  "persona": "ghstepic",
+  "names": [
+    "ghstepic"
+  ],
+  "runs": 3,
+  "bestRank": 198,
+  "worstRank": 809,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4170827,
+  "weeksActive": [
+    19,
+    20,
+    25
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 395,
+      "ms": 5153282,
+      "dish": "Pizza"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 809,
+      "ms": 4170827,
+      "dish": "Turkey"
+    },
+    {
+      "week": 25,
+      "start": "2025-06-30",
+      "rank": 198,
+      "ms": 5382179,
+      "dish": "Stir Fry"
+    }
+  ]
+}

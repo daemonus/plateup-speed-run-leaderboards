@@ -1,0 +1,42 @@
+{
+  "id": "89cdec26-0e92-4dca-81a1-954ac26c004f",
+  "persona": "Wednesdae",
+  "names": [
+    "Wednesdae"
+  ],
+  "runs": 3,
+  "bestRank": 182,
+  "worstRank": 581,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3288796,
+  "weeksActive": [
+    -86,
+    -10,
+    -9
+  ],
+  "history": [
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 581,
+      "ms": 3288796,
+      "dish": "Fish"
+    },
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 287,
+      "ms": 7069650,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 182,
+      "ms": 6136738,
+      "dish": "Stir Fry"
+    }
+  ]
+}

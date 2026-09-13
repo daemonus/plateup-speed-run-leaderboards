@@ -1,0 +1,50 @@
+{
+  "id": "35fa1bb5-0791-4554-a6e1-9b707a22908e",
+  "persona": "Jawj",
+  "names": [
+    "Jawj"
+  ],
+  "runs": 4,
+  "bestRank": 133,
+  "worstRank": 179,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1917051,
+  "weeksActive": [
+    49,
+    50,
+    80,
+    83
+  ],
+  "history": [
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 158,
+      "ms": 4819854,
+      "dish": "Burgers"
+    },
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 137,
+      "ms": 3903063,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 133,
+      "ms": 2895675,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 179,
+      "ms": 1917051,
+      "dish": "Sundaes"
+    }
+  ]
+}

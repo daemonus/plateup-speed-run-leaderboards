@@ -1,0 +1,58 @@
+{
+  "id": "7c36b512-bbdd-49df-98a3-3226fc508b0f",
+  "persona": "Feral Otter",
+  "names": [
+    "Feral Otter"
+  ],
+  "runs": 5,
+  "bestRank": 140,
+  "worstRank": 634,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2860058,
+  "weeksActive": [
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 634,
+      "ms": 4269119,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 313,
+      "ms": 4130079,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 140,
+      "ms": 3142170,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 6,
+      "start": "2025-02-17",
+      "rank": 261,
+      "ms": 3824361,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 140,
+      "ms": 2860058,
+      "dish": "Fish"
+    }
+  ]
+}

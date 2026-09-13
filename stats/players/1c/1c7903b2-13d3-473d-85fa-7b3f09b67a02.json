@@ -1,0 +1,50 @@
+{
+  "id": "1c7903b2-13d3-473d-85fa-7b3f09b67a02",
+  "persona": "Arash Kamangir",
+  "names": [
+    "Arash Kamangir"
+  ],
+  "runs": 4,
+  "bestRank": 151,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2698920,
+  "weeksActive": [
+    -67,
+    -63,
+    -62,
+    85
+  ],
+  "history": [
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 554,
+      "ms": 5280057,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -63,
+      "start": "2023-10-23",
+      "rank": 685,
+      "ms": 7598307,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 228,
+      "ms": 3221785,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 151,
+      "ms": 2698920,
+      "dish": "Fish"
+    }
+  ]
+}

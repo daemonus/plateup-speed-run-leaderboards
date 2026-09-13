@@ -1,0 +1,58 @@
+{
+  "id": "f5827a39-8a92-44ea-89b6-76f14a74ffd7",
+  "persona": "Ginger Spice",
+  "names": [
+    "Ginger Spice"
+  ],
+  "runs": 5,
+  "bestRank": 361,
+  "worstRank": 728,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3783271,
+  "weeksActive": [
+    -39,
+    -34,
+    -30,
+    -6,
+    15
+  ],
+  "history": [
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 725,
+      "ms": 5069402,
+      "dish": "Pizza"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 361,
+      "ms": 3783271,
+      "dish": "Pies"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 728,
+      "ms": 3846429,
+      "dish": "Turkey"
+    },
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 641,
+      "ms": 5581340,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 676,
+      "ms": 4983972,
+      "dish": "Turkey"
+    }
+  ]
+}

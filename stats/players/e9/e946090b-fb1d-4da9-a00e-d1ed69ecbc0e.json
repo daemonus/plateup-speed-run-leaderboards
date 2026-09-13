@@ -1,0 +1,42 @@
+{
+  "id": "e946090b-fb1d-4da9-a00e-d1ed69ecbc0e",
+  "persona": "mirenia",
+  "names": [
+    "mirenia"
+  ],
+  "runs": 3,
+  "bestRank": 105,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2602851,
+  "weeksActive": [
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 417,
+      "ms": 4038175,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 354,
+      "ms": 3139663,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 105,
+      "ms": 2602851,
+      "dish": "Pizza"
+    }
+  ]
+}

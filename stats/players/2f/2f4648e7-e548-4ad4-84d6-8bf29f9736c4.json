@@ -1,0 +1,34 @@
+{
+  "id": "2f4648e7-e548-4ad4-84d6-8bf29f9736c4",
+  "persona": "Project-Nemesis",
+  "names": [
+    "Project-Nemesis"
+  ],
+  "runs": 2,
+  "bestRank": 488,
+  "worstRank": 760,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5191157,
+  "weeksActive": [
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 760,
+      "ms": 5191157,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 488,
+      "ms": 5763865,
+      "dish": "Breakfast"
+    }
+  ]
+}

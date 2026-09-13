@@ -1,0 +1,42 @@
+{
+  "id": "e4212f46-865d-462d-985d-3a5bd734e654",
+  "persona": "Akane",
+  "names": [
+    "Akane"
+  ],
+  "runs": 3,
+  "bestRank": 63,
+  "worstRank": 151,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2466828,
+  "weeksActive": [
+    57,
+    59,
+    60
+  ],
+  "history": [
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 151,
+      "ms": 2900444,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 63,
+      "ms": 2466828,
+      "dish": "Salad"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 69,
+      "ms": 2608874,
+      "dish": "Burgers"
+    }
+  ]
+}

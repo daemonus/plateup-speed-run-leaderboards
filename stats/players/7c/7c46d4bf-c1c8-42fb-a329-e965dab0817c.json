@@ -1,0 +1,50 @@
+{
+  "id": "7c46d4bf-c1c8-42fb-a329-e965dab0817c",
+  "persona": "PeriPinarr",
+  "names": [
+    "PeriPinarr"
+  ],
+  "runs": 4,
+  "bestRank": 167,
+  "worstRank": 389,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2113234,
+  "weeksActive": [
+    28,
+    77,
+    79,
+    84
+  ],
+  "history": [
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 279,
+      "ms": 3313456,
+      "dish": "Turkey"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 389,
+      "ms": 3798273,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 167,
+      "ms": 3793431,
+      "dish": "Salad"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 254,
+      "ms": 2113234,
+      "dish": "Sundaes"
+    }
+  ]
+}

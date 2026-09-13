@@ -1,0 +1,42 @@
+{
+  "id": "ca0ae5dd-a5be-4b20-8f28-e333aafa0c75",
+  "persona": "\uBC24\uCABD\uC774",
+  "names": [
+    "\uBC24\uCABD\uC774"
+  ],
+  "runs": 3,
+  "bestRank": 216,
+  "worstRank": 400,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3991385,
+  "weeksActive": [
+    -6,
+    11,
+    16
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 400,
+      "ms": 4350411,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 216,
+      "ms": 3991385,
+      "dish": "Salad"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 241,
+      "ms": 4103346,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "f7e03761-69cb-4fba-8463-4510bc4b4b33",
+  "persona": "DerrickWW",
+  "names": [
+    "DerrickWW"
+  ],
+  "runs": 6,
+  "bestRank": 123,
+  "worstRank": 256,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2086164,
+  "weeksActive": [
+    -75,
+    -74,
+    41,
+    43,
+    44,
+    66
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 210,
+      "ms": 2261384,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 123,
+      "ms": 2740657,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 225,
+      "ms": 2086164,
+      "dish": "Turkey"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 215,
+      "ms": 2512828,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 207,
+      "ms": 3040743,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 256,
+      "ms": 3224940,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "9a4ebf93-b1ba-4910-9662-e8d988e4e62d",
+  "persona": "agentsouza33",
+  "names": [
+    "agentsouza33"
+  ],
+  "runs": 5,
+  "bestRank": 140,
+  "worstRank": 769,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2120236,
+  "weeksActive": [
+    -94,
+    -93,
+    -72,
+    -68,
+    16
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 769,
+      "ms": 3159252,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 519,
+      "ms": 2120236,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 141,
+      "ms": 2831736,
+      "dish": "Pies"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 140,
+      "ms": 3486551,
+      "dish": "Salad"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 194,
+      "ms": 3884607,
+      "dish": "Stir Fry"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "6b451c22-e878-4777-8bd4-7f9241e306fb",
+  "persona": "Kane",
+  "names": [
+    "Kane"
+  ],
+  "runs": 2,
+  "bestRank": 344,
+  "worstRank": 666,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3168243,
+  "weeksActive": [
+    52,
+    56
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 344,
+      "ms": 3168243,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 666,
+      "ms": 3339369,
+      "dish": "Sundaes"
+    }
+  ]
+}

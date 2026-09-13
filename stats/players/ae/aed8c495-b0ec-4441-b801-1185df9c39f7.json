@@ -1,0 +1,50 @@
+{
+  "id": "aed8c495-b0ec-4441-b801-1185df9c39f7",
+  "persona": "Triddy",
+  "names": [
+    "Triddy"
+  ],
+  "runs": 4,
+  "bestRank": 270,
+  "worstRank": 886,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3901197,
+  "weeksActive": [
+    14,
+    20,
+    28,
+    36
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 270,
+      "ms": 3939066,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 886,
+      "ms": 4652185,
+      "dish": "Turkey"
+    },
+    {
+      "week": 28,
+      "start": "2025-07-21",
+      "rank": 397,
+      "ms": 5388990,
+      "dish": "Turkey"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 390,
+      "ms": 3901197,
+      "dish": "Fish"
+    }
+  ]
+}

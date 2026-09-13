@@ -1,0 +1,34 @@
+{
+  "id": "ec2badef-4d53-4a28-adad-0939db7c49e9",
+  "persona": "FloV",
+  "names": [
+    "FloV"
+  ],
+  "runs": 2,
+  "bestRank": 321,
+  "worstRank": 442,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3922902,
+  "weeksActive": [
+    16,
+    31
+  ],
+  "history": [
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 321,
+      "ms": 4555537,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 442,
+      "ms": 3922902,
+      "dish": "Fish"
+    }
+  ]
+}

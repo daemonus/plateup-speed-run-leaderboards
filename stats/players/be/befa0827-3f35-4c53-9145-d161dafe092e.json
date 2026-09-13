@@ -1,0 +1,98 @@
+{
+  "id": "befa0827-3f35-4c53-9145-d161dafe092e",
+  "persona": "momo",
+  "names": [
+    "momo"
+  ],
+  "runs": 10,
+  "bestRank": 25,
+  "worstRank": 416,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1808293,
+  "weeksActive": [
+    -91,
+    -90,
+    -89,
+    -78,
+    -76,
+    -74,
+    -71,
+    -69,
+    -57,
+    -40
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 416,
+      "ms": 2214724,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 187,
+      "ms": 2030804,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 101,
+      "ms": 1808293,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 25,
+      "ms": 2159299,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 72,
+      "ms": 1942564,
+      "dish": "Turkey"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 139,
+      "ms": 2819541,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 98,
+      "ms": 2144853,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 63,
+      "ms": 3167438,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 38,
+      "ms": 2437013,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 87,
+      "ms": 3230645,
+      "dish": "Stir Fry"
+    }
+  ]
+}

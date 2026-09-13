@@ -1,0 +1,42 @@
+{
+  "id": "6ac01cc1-271d-479d-8bea-6c192ac9ef3f",
+  "persona": "Syrano",
+  "names": [
+    "Syrano"
+  ],
+  "runs": 3,
+  "bestRank": 316,
+  "worstRank": 1510,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2802726,
+  "weeksActive": [
+    -93,
+    58,
+    59
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1510,
+      "ms": 2802726,
+      "dish": "Fish"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 377,
+      "ms": 3489094,
+      "dish": "Turkey"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 316,
+      "ms": 3928659,
+      "dish": "Salad"
+    }
+  ]
+}

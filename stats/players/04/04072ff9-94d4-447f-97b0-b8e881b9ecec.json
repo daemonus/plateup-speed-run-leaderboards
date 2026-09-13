@@ -1,0 +1,90 @@
+{
+  "id": "04072ff9-94d4-447f-97b0-b8e881b9ecec",
+  "persona": "aaaarrGGHHHHHHHHHHHHHHHHHHHHHH",
+  "names": [
+    "aaaarrGGHHHHHHHHHHHHHHHHHHHHHH"
+  ],
+  "runs": 9,
+  "bestRank": 165,
+  "worstRank": 862,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2101089,
+  "weeksActive": [
+    -94,
+    -93,
+    -92,
+    -91,
+    -90,
+    -78,
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 756,
+      "ms": 3149404,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 862,
+      "ms": 2351199,
+      "dish": "Fish"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 527,
+      "ms": 3525716,
+      "dish": "Steak"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 333,
+      "ms": 2114315,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 398,
+      "ms": 2456790,
+      "dish": "Fish"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 170,
+      "ms": 2865051,
+      "dish": "Burgers"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 192,
+      "ms": 2725869,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 210,
+      "ms": 2486925,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 165,
+      "ms": 2101089,
+      "dish": "Fish"
+    }
+  ]
+}

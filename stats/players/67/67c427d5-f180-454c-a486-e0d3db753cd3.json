@@ -1,0 +1,34 @@
+{
+  "id": "67c427d5-f180-454c-a486-e0d3db753cd3",
+  "persona": "nemo",
+  "names": [
+    "nemo"
+  ],
+  "runs": 2,
+  "bestRank": 430,
+  "worstRank": 679,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3749667,
+  "weeksActive": [
+    -18,
+    -15
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 679,
+      "ms": 4866535,
+      "dish": "Fish"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 430,
+      "ms": 3749667,
+      "dish": "Fish"
+    }
+  ]
+}

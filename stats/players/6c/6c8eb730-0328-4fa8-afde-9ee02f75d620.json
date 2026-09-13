@@ -1,0 +1,34 @@
+{
+  "id": "6c8eb730-0328-4fa8-afde-9ee02f75d620",
+  "persona": "Tahis",
+  "names": [
+    "Tahis"
+  ],
+  "runs": 2,
+  "bestRank": 288,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3600483,
+  "weeksActive": [
+    -21,
+    57
+  ],
+  "history": [
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 288,
+      "ms": 3600483,
+      "dish": "Pizza"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 313,
+      "ms": 3613161,
+      "dish": "Salad"
+    }
+  ]
+}

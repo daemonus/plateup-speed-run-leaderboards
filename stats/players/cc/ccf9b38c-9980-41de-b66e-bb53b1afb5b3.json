@@ -1,0 +1,42 @@
+{
+  "id": "ccf9b38c-9980-41de-b66e-bb53b1afb5b3",
+  "persona": "mintz",
+  "names": [
+    "mintz"
+  ],
+  "runs": 3,
+  "bestRank": 295,
+  "worstRank": 796,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3221234,
+  "weeksActive": [
+    -37,
+    -32,
+    -31
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 385,
+      "ms": 3221234,
+      "dish": "Fish"
+    },
+    {
+      "week": -32,
+      "start": "2024-05-27",
+      "rank": 796,
+      "ms": 4121648,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -31,
+      "start": "2024-06-03",
+      "rank": 295,
+      "ms": 3279413,
+      "dish": "Pies"
+    }
+  ]
+}

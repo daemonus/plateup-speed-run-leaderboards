@@ -1,0 +1,34 @@
+{
+  "id": "d86433ae-0fe2-4b9c-927b-2b7381f78fe5",
+  "persona": "peppi",
+  "names": [
+    "peppi"
+  ],
+  "runs": 2,
+  "bestRank": 285,
+  "worstRank": 403,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3280974,
+  "weeksActive": [
+    -2,
+    12
+  ],
+  "history": [
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 285,
+      "ms": 3443789,
+      "dish": "Pizza"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 403,
+      "ms": 3280974,
+      "dish": "Turkey"
+    }
+  ]
+}

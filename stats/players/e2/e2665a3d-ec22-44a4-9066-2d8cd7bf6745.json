@@ -1,0 +1,90 @@
+{
+  "id": "e2665a3d-ec22-44a4-9066-2d8cd7bf6745",
+  "persona": "Slothio",
+  "names": [
+    "Slothio"
+  ],
+  "runs": 9,
+  "bestRank": 191,
+  "worstRank": 447,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2553375,
+  "weeksActive": [
+    -79,
+    -78,
+    -75,
+    20,
+    23,
+    26,
+    27,
+    35,
+    38
+  ],
+  "history": [
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 434,
+      "ms": 5075536,
+      "dish": "Pies"
+    },
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 447,
+      "ms": 4154892,
+      "dish": "Burgers"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 446,
+      "ms": 2899974,
+      "dish": "Fish"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 346,
+      "ms": 2747778,
+      "dish": "Turkey"
+    },
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 191,
+      "ms": 2553375,
+      "dish": "Turkey"
+    },
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 299,
+      "ms": 4204696,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 256,
+      "ms": 4272642,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 386,
+      "ms": 5195938,
+      "dish": "Fish"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 352,
+      "ms": 3686924,
+      "dish": "Pies"
+    }
+  ]
+}

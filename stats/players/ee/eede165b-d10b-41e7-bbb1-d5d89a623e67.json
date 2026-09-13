@@ -1,0 +1,42 @@
+{
+  "id": "eede165b-d10b-41e7-bbb1-d5d89a623e67",
+  "persona": "Brizie",
+  "names": [
+    "Brizie"
+  ],
+  "runs": 3,
+  "bestRank": 143,
+  "worstRank": 196,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2821104,
+  "weeksActive": [
+    -78,
+    27,
+    78
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 175,
+      "ms": 2887994,
+      "dish": "Burgers"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 196,
+      "ms": 3543470,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 78,
+      "start": "2026-07-06",
+      "rank": 143,
+      "ms": 2821104,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "00f8409d-c528-4bcf-a56f-fc40bef07a33",
+  "persona": "mel",
+  "names": [
+    "mel"
+  ],
+  "runs": 4,
+  "bestRank": 6,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1548699,
+  "weeksActive": [
+    -38,
+    -37,
+    48,
+    49
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 33,
+      "ms": 1548699,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 156,
+      "ms": 2507532,
+      "dish": "Fish"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 41,
+      "ms": 3025291,
+      "dish": "Pizza"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 6,
+      "ms": 2069608,
+      "dish": "Burgers"
+    }
+  ]
+}

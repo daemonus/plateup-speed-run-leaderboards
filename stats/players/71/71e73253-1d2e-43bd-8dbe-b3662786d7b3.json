@@ -1,0 +1,34 @@
+{
+  "id": "71e73253-1d2e-43bd-8dbe-b3662786d7b3",
+  "persona": "NPeaches",
+  "names": [
+    "NPeaches"
+  ],
+  "runs": 2,
+  "bestRank": 111,
+  "worstRank": 1484,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1703243,
+  "weeksActive": [
+    -93,
+    86
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1484,
+      "ms": 2780537,
+      "dish": "Fish"
+    },
+    {
+      "week": 86,
+      "start": "2026-08-31",
+      "rank": 111,
+      "ms": 1703243,
+      "dish": "Sundaes"
+    }
+  ]
+}

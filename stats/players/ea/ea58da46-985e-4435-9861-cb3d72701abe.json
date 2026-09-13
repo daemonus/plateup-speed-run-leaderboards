@@ -1,0 +1,34 @@
+{
+  "id": "ea58da46-985e-4435-9861-cb3d72701abe",
+  "persona": "Jaz",
+  "names": [
+    "Jaz"
+  ],
+  "runs": 2,
+  "bestRank": 234,
+  "worstRank": 312,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4962384,
+  "weeksActive": [
+    50,
+    51
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 234,
+      "ms": 5272186,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 312,
+      "ms": 4962384,
+      "dish": "Salad"
+    }
+  ]
+}

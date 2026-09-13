@@ -1,0 +1,42 @@
+{
+  "id": "f6d5db22-a182-434d-bfc9-fa99359f0f7c",
+  "persona": "BetaBeluga",
+  "names": [
+    "BetaBeluga"
+  ],
+  "runs": 3,
+  "bestRank": 15,
+  "worstRank": 257,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2169492,
+  "weeksActive": [
+    -92,
+    -90,
+    -9
+  ],
+  "history": [
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 197,
+      "ms": 2544368,
+      "dish": "Steak"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 257,
+      "ms": 2169492,
+      "dish": "Fish"
+    },
+    {
+      "week": -9,
+      "start": "2024-11-04",
+      "rank": 15,
+      "ms": 2632565,
+      "dish": "Stir Fry"
+    }
+  ]
+}

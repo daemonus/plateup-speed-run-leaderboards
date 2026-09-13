@@ -1,0 +1,42 @@
+{
+  "id": "f1b494ec-48b7-46dc-8777-2fc37c4fa895",
+  "persona": "ClockworkToy",
+  "names": [
+    "ClockworkToy"
+  ],
+  "runs": 3,
+  "bestRank": 148,
+  "worstRank": 239,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2410767,
+  "weeksActive": [
+    -84,
+    -83,
+    -82
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 181,
+      "ms": 2410767,
+      "dish": "Fish"
+    },
+    {
+      "week": -83,
+      "start": "2023-06-05",
+      "rank": 148,
+      "ms": 2653099,
+      "dish": "Steak"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 239,
+      "ms": 2632064,
+      "dish": "Fish"
+    }
+  ]
+}

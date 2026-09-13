@@ -1,0 +1,74 @@
+{
+  "id": "63571ef7-98fa-4996-8292-08a256347e40",
+  "persona": "Tasty_Stanwich",
+  "names": [
+    "Tasty_Stanwich"
+  ],
+  "runs": 7,
+  "bestRank": 35,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2103471,
+  "weeksActive": [
+    9,
+    19,
+    41,
+    42,
+    43,
+    46,
+    60
+  ],
+  "history": [
+    {
+      "week": 9,
+      "start": "2025-03-10",
+      "rank": 143,
+      "ms": 2815648,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 120,
+      "ms": 3156379,
+      "dish": "Pizza"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 313,
+      "ms": 2372592,
+      "dish": "Turkey"
+    },
+    {
+      "week": 42,
+      "start": "2025-10-27",
+      "rank": 191,
+      "ms": 3662829,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 193,
+      "ms": 2475067,
+      "dish": "Fish"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 35,
+      "ms": 2103471,
+      "dish": "Pizza"
+    },
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 81,
+      "ms": 2698805,
+      "dish": "Burgers"
+    }
+  ]
+}

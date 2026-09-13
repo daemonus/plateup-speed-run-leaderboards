@@ -1,0 +1,66 @@
+{
+  "id": "82b82e69-1da9-4b57-862e-9e82ab1bef17",
+  "persona": "Kalle",
+  "names": [
+    "Kalle"
+  ],
+  "runs": 6,
+  "bestRank": 51,
+  "worstRank": 153,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1342093,
+  "weeksActive": [
+    -53,
+    -39,
+    -21,
+    81,
+    83,
+    85
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 75,
+      "ms": 2991544,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 81,
+      "ms": 2313296,
+      "dish": "Pizza"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 92,
+      "ms": 2562554,
+      "dish": "Pizza"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 153,
+      "ms": 3301218,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 51,
+      "ms": 1342093,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 66,
+      "ms": 2208820,
+      "dish": "Fish"
+    }
+  ]
+}

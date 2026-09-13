@@ -1,0 +1,50 @@
+{
+  "id": "eda240ba-bf17-4265-bd95-2424efb885ce",
+  "persona": "Nicole",
+  "names": [
+    "Nicole"
+  ],
+  "runs": 4,
+  "bestRank": 350,
+  "worstRank": 653,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4135002,
+  "weeksActive": [
+    52,
+    59,
+    71,
+    82
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 653,
+      "ms": 4863132,
+      "dish": "Fish"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 352,
+      "ms": 4224802,
+      "dish": "Salad"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 350,
+      "ms": 4135002,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 452,
+      "ms": 4240957,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "697cd3a4-5751-4182-8c3a-55f3dfadc9f5",
+  "persona": "kiwi",
+  "names": [
+    "kiwi"
+  ],
+  "runs": 5,
+  "bestRank": 230,
+  "worstRank": 784,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3483550,
+  "weeksActive": [
+    -17,
+    -16,
+    20,
+    46,
+    71
+  ],
+  "history": [
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 230,
+      "ms": 3483550,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 618,
+      "ms": 4772898,
+      "dish": "Pies"
+    },
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 784,
+      "ms": 4060845,
+      "dish": "Turkey"
+    },
+    {
+      "week": 46,
+      "start": "2025-11-24",
+      "rank": 406,
+      "ms": 3985757,
+      "dish": "Pizza"
+    },
+    {
+      "week": 71,
+      "start": "2026-05-18",
+      "rank": 439,
+      "ms": 5045070,
+      "dish": "Pizza"
+    }
+  ]
+}

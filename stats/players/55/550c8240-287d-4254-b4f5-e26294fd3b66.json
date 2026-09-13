@@ -1,0 +1,42 @@
+{
+  "id": "550c8240-287d-4254-b4f5-e26294fd3b66",
+  "persona": "NegetaTheMage",
+  "names": [
+    "NegetaTheMage"
+  ],
+  "runs": 3,
+  "bestRank": 210,
+  "worstRank": 495,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2926983,
+  "weeksActive": [
+    12,
+    31,
+    32
+  ],
+  "history": [
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 495,
+      "ms": 4131863,
+      "dish": "Turkey"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 210,
+      "ms": 2926983,
+      "dish": "Fish"
+    },
+    {
+      "week": 32,
+      "start": "2025-08-18",
+      "rank": 341,
+      "ms": 4509558,
+      "dish": "Pies"
+    }
+  ]
+}

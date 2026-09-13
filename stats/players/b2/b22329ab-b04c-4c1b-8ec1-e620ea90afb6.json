@@ -1,0 +1,42 @@
+{
+  "id": "b22329ab-b04c-4c1b-8ec1-e620ea90afb6",
+  "persona": "shooter",
+  "names": [
+    "shooter"
+  ],
+  "runs": 3,
+  "bestRank": 86,
+  "worstRank": 143,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2359265,
+  "weeksActive": [
+    38,
+    40,
+    81
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 88,
+      "ms": 2359265,
+      "dish": "Pies"
+    },
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 143,
+      "ms": 3233964,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 86,
+      "ms": 2776414,
+      "dish": "Pizza"
+    }
+  ]
+}

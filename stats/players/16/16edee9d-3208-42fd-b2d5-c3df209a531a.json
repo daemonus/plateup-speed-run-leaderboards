@@ -1,0 +1,50 @@
+{
+  "id": "16edee9d-3208-42fd-b2d5-c3df209a531a",
+  "persona": "lisanstoffels",
+  "names": [
+    "lisanstoffels"
+  ],
+  "runs": 4,
+  "bestRank": 101,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3186993,
+  "weeksActive": [
+    -70,
+    -42,
+    -35,
+    -24
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 175,
+      "ms": 3486353,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 132,
+      "ms": 3621344,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 101,
+      "ms": 3186993,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -24,
+      "start": "2024-07-22",
+      "rank": 240,
+      "ms": 4757454,
+      "dish": "Breakfast"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "793444a4-2513-42b5-9599-304ac7c2624a",
+  "persona": "kimmi",
+  "names": [
+    "kimmi"
+  ],
+  "runs": 4,
+  "bestRank": 79,
+  "worstRank": 402,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2779854,
+  "weeksActive": [
+    -59,
+    -58,
+    -57,
+    21
+  ],
+  "history": [
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 185,
+      "ms": 2944244,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 89,
+      "ms": 3257024,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 79,
+      "ms": 2779854,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 21,
+      "start": "2025-06-02",
+      "rank": 402,
+      "ms": 4388347,
+      "dish": "Burgers"
+    }
+  ]
+}

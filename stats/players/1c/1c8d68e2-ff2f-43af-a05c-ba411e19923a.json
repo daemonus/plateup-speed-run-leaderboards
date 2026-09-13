@@ -1,0 +1,42 @@
+{
+  "id": "1c8d68e2-ff2f-43af-a05c-ba411e19923a",
+  "persona": "candice_thn",
+  "names": [
+    "candice_thn"
+  ],
+  "runs": 3,
+  "bestRank": 339,
+  "worstRank": 712,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3141663,
+  "weeksActive": [
+    -77,
+    -76,
+    -75
+  ],
+  "history": [
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 339,
+      "ms": 3174244,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 712,
+      "ms": 3799890,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 533,
+      "ms": 3141663,
+      "dish": "Fish"
+    }
+  ]
+}

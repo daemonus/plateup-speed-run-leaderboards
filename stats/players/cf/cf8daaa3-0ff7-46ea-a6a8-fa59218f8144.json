@@ -1,0 +1,50 @@
+{
+  "id": "cf8daaa3-0ff7-46ea-a6a8-fa59218f8144",
+  "persona": "Jiaxuan",
+  "names": [
+    "Jiaxuan"
+  ],
+  "runs": 4,
+  "bestRank": 125,
+  "worstRank": 313,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3249017,
+  "weeksActive": [
+    -10,
+    -8,
+    7,
+    62
+  ],
+  "history": [
+    {
+      "week": -10,
+      "start": "2024-10-28",
+      "rank": 167,
+      "ms": 4050035,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -8,
+      "start": "2024-11-11",
+      "rank": 125,
+      "ms": 3576673,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 238,
+      "ms": 3249017,
+      "dish": "Fish"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 313,
+      "ms": 3471248,
+      "dish": "Pies"
+    }
+  ]
+}

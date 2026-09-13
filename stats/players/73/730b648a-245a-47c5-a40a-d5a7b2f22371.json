@@ -1,0 +1,42 @@
+{
+  "id": "730b648a-245a-47c5-a40a-d5a7b2f22371",
+  "persona": "Tyki",
+  "names": [
+    "Tyki"
+  ],
+  "runs": 3,
+  "bestRank": 312,
+  "worstRank": 485,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4050504,
+  "weeksActive": [
+    -7,
+    -5,
+    -4
+  ],
+  "history": [
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 313,
+      "ms": 5561489,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 312,
+      "ms": 4050504,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 485,
+      "ms": 4713629,
+      "dish": "Pies"
+    }
+  ]
+}

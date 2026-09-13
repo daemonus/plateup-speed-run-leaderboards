@@ -1,0 +1,74 @@
+{
+  "id": "da032e91-1899-4b5f-8f27-f57135bc0e19",
+  "persona": "mexirean",
+  "names": [
+    "mexirean"
+  ],
+  "runs": 7,
+  "bestRank": 105,
+  "worstRank": 790,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1624140,
+  "weeksActive": [
+    -94,
+    -93,
+    -88,
+    -79,
+    -76,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 105,
+      "ms": 2139005,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 122,
+      "ms": 1624140,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 178,
+      "ms": 2597782,
+      "dish": "Pies"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 210,
+      "ms": 3272517,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 790,
+      "ms": 4049989,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 141,
+      "ms": 2000680,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 168,
+      "ms": 2985929,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

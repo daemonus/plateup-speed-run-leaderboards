@@ -1,0 +1,42 @@
+{
+  "id": "ccd20953-aaa3-4972-b3ef-593004eebf0d",
+  "persona": "Xapuz",
+  "names": [
+    "Xapuz"
+  ],
+  "runs": 3,
+  "bestRank": 32,
+  "worstRank": 43,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1742950,
+  "weeksActive": [
+    -72,
+    7,
+    8
+  ],
+  "history": [
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 32,
+      "ms": 2012577,
+      "dish": "Pies"
+    },
+    {
+      "week": 7,
+      "start": "2025-02-24",
+      "rank": 36,
+      "ms": 2132527,
+      "dish": "Fish"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 43,
+      "ms": 1742950,
+      "dish": "Fish"
+    }
+  ]
+}

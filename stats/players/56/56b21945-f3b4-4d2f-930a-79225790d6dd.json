@@ -1,0 +1,34 @@
+{
+  "id": "56b21945-f3b4-4d2f-930a-79225790d6dd",
+  "persona": "Esther",
+  "names": [
+    "Esther"
+  ],
+  "runs": 2,
+  "bestRank": 205,
+  "worstRank": 623,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2472850,
+  "weeksActive": [
+    -94,
+    -76
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 623,
+      "ms": 3000341,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 205,
+      "ms": 2472850,
+      "dish": "Turkey"
+    }
+  ]
+}

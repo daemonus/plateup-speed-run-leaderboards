@@ -1,0 +1,74 @@
+{
+  "id": "19a92192-34af-43d6-a55c-1113090efaa0",
+  "persona": "triple_miss",
+  "names": [
+    "triple_miss"
+  ],
+  "runs": 7,
+  "bestRank": 100,
+  "worstRank": 407,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2671552,
+  "weeksActive": [
+    60,
+    61,
+    63,
+    65,
+    70,
+    72,
+    75
+  ],
+  "history": [
+    {
+      "week": 60,
+      "start": "2026-03-02",
+      "rank": 407,
+      "ms": 5503490,
+      "dish": "Burgers"
+    },
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 327,
+      "ms": 4539291,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 260,
+      "ms": 3088927,
+      "dish": "Pizza"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 155,
+      "ms": 3045585,
+      "dish": "Pizza"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 227,
+      "ms": 3761593,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 259,
+      "ms": 3752648,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 100,
+      "ms": 2671552,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "187941b9-cbc2-4449-bea0-6dd591d516d9",
+  "persona": "VON",
+  "names": [
+    "VON"
+  ],
+  "runs": 2,
+  "bestRank": 550,
+  "worstRank": 559,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3328287,
+  "weeksActive": [
+    -38,
+    -37
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 550,
+      "ms": 3328287,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 559,
+      "ms": 3602535,
+      "dish": "Fish"
+    }
+  ]
+}

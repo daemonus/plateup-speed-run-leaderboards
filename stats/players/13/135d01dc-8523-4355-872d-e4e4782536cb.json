@@ -1,0 +1,58 @@
+{
+  "id": "135d01dc-8523-4355-872d-e4e4782536cb",
+  "persona": "ngindza",
+  "names": [
+    "ngindza"
+  ],
+  "runs": 5,
+  "bestRank": 32,
+  "worstRank": 211,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1886671,
+  "weeksActive": [
+    11,
+    12,
+    13,
+    14,
+    57
+  ],
+  "history": [
+    {
+      "week": 11,
+      "start": "2025-03-24",
+      "rank": 32,
+      "ms": 2353411,
+      "dish": "Salad"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 142,
+      "ms": 2103869,
+      "dish": "Turkey"
+    },
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 70,
+      "ms": 1886671,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 95,
+      "ms": 2615243,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 211,
+      "ms": 3169825,
+      "dish": "Salad"
+    }
+  ]
+}

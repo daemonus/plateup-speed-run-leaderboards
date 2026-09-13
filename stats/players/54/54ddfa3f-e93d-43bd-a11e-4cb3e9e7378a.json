@@ -1,0 +1,50 @@
+{
+  "id": "54ddfa3f-e93d-43bd-a11e-4cb3e9e7378a",
+  "persona": "Arendil HD",
+  "names": [
+    "Arendil HD"
+  ],
+  "runs": 4,
+  "bestRank": 152,
+  "worstRank": 414,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2483572,
+  "weeksActive": [
+    51,
+    52,
+    56,
+    76
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 381,
+      "ms": 6469738,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 262,
+      "ms": 2889477,
+      "dish": "Fish"
+    },
+    {
+      "week": 56,
+      "start": "2026-02-02",
+      "rank": 414,
+      "ms": 2483572,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 76,
+      "start": "2026-06-22",
+      "rank": 152,
+      "ms": 3602729,
+      "dish": "Salad"
+    }
+  ]
+}

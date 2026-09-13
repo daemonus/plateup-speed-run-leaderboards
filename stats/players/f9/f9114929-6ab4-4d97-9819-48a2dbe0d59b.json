@@ -1,0 +1,42 @@
+{
+  "id": "f9114929-6ab4-4d97-9819-48a2dbe0d59b",
+  "persona": "eyamaz",
+  "names": [
+    "eyamaz"
+  ],
+  "runs": 3,
+  "bestRank": 267,
+  "worstRank": 456,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2173240,
+  "weeksActive": [
+    14,
+    15,
+    84
+  ],
+  "history": [
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 287,
+      "ms": 4089118,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 456,
+      "ms": 3446018,
+      "dish": "Turkey"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 267,
+      "ms": 2173240,
+      "dish": "Sundaes"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "61ab6dcb-bd75-4ae0-8d98-4c081935f4b5",
+  "persona": "ponzu_com",
+  "names": [
+    "ponzu_com"
+  ],
+  "runs": 9,
+  "bestRank": 10,
+  "worstRank": 265,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 1,
+  "bestMs": 1495057,
+  "weeksActive": [
+    13,
+    14,
+    30,
+    31,
+    52,
+    66,
+    67,
+    68,
+    70
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 265,
+      "ms": 2815998,
+      "dish": "Turkey"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 62,
+      "ms": 2406512,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 18,
+      "ms": 1878569,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 32,
+      "ms": 1967193,
+      "dish": "Fish"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 43,
+      "ms": 1866086,
+      "dish": "Fish"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 32,
+      "ms": 1909207,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 10,
+      "ms": 1694666,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 24,
+      "ms": 1495057,
+      "dish": "Turkey"
+    },
+    {
+      "week": 70,
+      "start": "2026-05-11",
+      "rank": 23,
+      "ms": 2130943,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

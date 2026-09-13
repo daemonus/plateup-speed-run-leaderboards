@@ -1,0 +1,66 @@
+{
+  "id": "1c85e410-4bab-47db-936c-85b363949581",
+  "persona": "Lucky",
+  "names": [
+    "Lucky"
+  ],
+  "runs": 6,
+  "bestRank": 138,
+  "worstRank": 775,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3215576,
+  "weeksActive": [
+    -46,
+    -45,
+    -40,
+    -38,
+    58,
+    66
+  ],
+  "history": [
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 317,
+      "ms": 4161472,
+      "dish": "Salad"
+    },
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 450,
+      "ms": 4410014,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -40,
+      "start": "2024-04-01",
+      "rank": 138,
+      "ms": 3668025,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 775,
+      "ms": 4302224,
+      "dish": "Turkey"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 316,
+      "ms": 3215576,
+      "dish": "Turkey"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 331,
+      "ms": 3743992,
+      "dish": "Breakfast"
+    }
+  ]
+}

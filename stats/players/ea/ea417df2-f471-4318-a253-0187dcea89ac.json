@@ -1,0 +1,42 @@
+{
+  "id": "ea417df2-f471-4318-a253-0187dcea89ac",
+  "persona": "MaestroMT",
+  "names": [
+    "MaestroMT"
+  ],
+  "runs": 3,
+  "bestRank": 71,
+  "worstRank": 191,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2341021,
+  "weeksActive": [
+    -38,
+    -37,
+    -36
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 191,
+      "ms": 2341021,
+      "dish": "Turkey"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 122,
+      "ms": 2424661,
+      "dish": "Fish"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 71,
+      "ms": 3441875,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ea2217fd-523b-422a-93aa-a9d354ac0b22",
+  "persona": "Sasha the Swift",
+  "names": [
+    "Sasha the Swift"
+  ],
+  "runs": 4,
+  "bestRank": 5,
+  "worstRank": 44,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 2,
+  "bestMs": 1518918,
+  "weeksActive": [
+    -45,
+    -43,
+    -30,
+    81
+  ],
+  "history": [
+    {
+      "week": -45,
+      "start": "2024-02-26",
+      "rank": 5,
+      "ms": 1540273,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 7,
+      "ms": 1714387,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 16,
+      "ms": 1518918,
+      "dish": "Turkey"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 44,
+      "ms": 2313054,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5f5f6633-80a9-488d-9561-a0f251a84ed6",
+  "persona": "Genel Evrak",
+  "names": [
+    "Genel Evrak"
+  ],
+  "runs": 2,
+  "bestRank": 309,
+  "worstRank": 349,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3238478,
+  "weeksActive": [
+    -61,
+    -51
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 309,
+      "ms": 3479089,
+      "dish": "Fish"
+    },
+    {
+      "week": -51,
+      "start": "2024-01-15",
+      "rank": 349,
+      "ms": 3238478,
+      "dish": "Turkey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e440a84c-8203-4e8f-9970-38322c4ee47b",
+  "persona": "sheran96",
+  "names": [
+    "sheran96"
+  ],
+  "runs": 3,
+  "bestRank": 1067,
+  "worstRank": 1533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3753111,
+  "weeksActive": [
+    -94,
+    -91,
+    -90
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1253,
+      "ms": 3753111,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1533,
+      "ms": 3919154,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 1067,
+      "ms": 3999921,
+      "dish": "Fish"
+    }
+  ]
+}

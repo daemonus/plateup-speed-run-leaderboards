@@ -1,0 +1,50 @@
+{
+  "id": "a4ce7a17-ed45-421c-af6d-493891d9f805",
+  "persona": "GABRIELX",
+  "names": [
+    "GABRIELX"
+  ],
+  "runs": 4,
+  "bestRank": 201,
+  "worstRank": 496,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2869939,
+  "weeksActive": [
+    -18,
+    -17,
+    -16,
+    -15
+  ],
+  "history": [
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 496,
+      "ms": 4168516,
+      "dish": "Fish"
+    },
+    {
+      "week": -17,
+      "start": "2024-09-09",
+      "rank": 373,
+      "ms": 5446335,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 201,
+      "ms": 2869939,
+      "dish": "Pies"
+    },
+    {
+      "week": -15,
+      "start": "2024-09-23",
+      "rank": 266,
+      "ms": 2994381,
+      "dish": "Fish"
+    }
+  ]
+}

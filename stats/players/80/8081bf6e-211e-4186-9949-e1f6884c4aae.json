@@ -1,0 +1,34 @@
+{
+  "id": "8081bf6e-211e-4186-9949-e1f6884c4aae",
+  "persona": "Hand of Doom",
+  "names": [
+    "Hand of Doom"
+  ],
+  "runs": 2,
+  "bestRank": 566,
+  "worstRank": 770,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5051209,
+  "weeksActive": [
+    -82,
+    -74
+  ],
+  "history": [
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 770,
+      "ms": 5051209,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 566,
+      "ms": 5280518,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

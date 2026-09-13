@@ -1,0 +1,58 @@
+{
+  "id": "35b8bd95-71cd-4ada-8ede-f40d67a1279a",
+  "persona": "Suri",
+  "names": [
+    "Suri"
+  ],
+  "runs": 5,
+  "bestRank": 140,
+  "worstRank": 436,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1860883,
+  "weeksActive": [
+    -61,
+    64,
+    67,
+    68,
+    83
+  ],
+  "history": [
+    {
+      "week": -61,
+      "start": "2023-11-06",
+      "rank": 436,
+      "ms": 4166713,
+      "dish": "Fish"
+    },
+    {
+      "week": 64,
+      "start": "2026-03-30",
+      "rank": 220,
+      "ms": 1999066,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 67,
+      "start": "2026-04-20",
+      "rank": 316,
+      "ms": 4303118,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 68,
+      "start": "2026-04-27",
+      "rank": 140,
+      "ms": 2278133,
+      "dish": "Turkey"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 165,
+      "ms": 1860883,
+      "dish": "Sundaes"
+    }
+  ]
+}

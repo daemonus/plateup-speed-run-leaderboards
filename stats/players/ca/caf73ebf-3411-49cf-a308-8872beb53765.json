@@ -1,0 +1,50 @@
+{
+  "id": "caf73ebf-3411-49cf-a308-8872beb53765",
+  "persona": "Piffle",
+  "names": [
+    "Piffle"
+  ],
+  "runs": 4,
+  "bestRank": 257,
+  "worstRank": 611,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2767134,
+  "weeksActive": [
+    -41,
+    -39,
+    -38,
+    -21
+  ],
+  "history": [
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 257,
+      "ms": 4498712,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -39,
+      "start": "2024-04-08",
+      "rank": 611,
+      "ms": 4164958,
+      "dish": "Pizza"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 338,
+      "ms": 2767134,
+      "dish": "Turkey"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 435,
+      "ms": 4412687,
+      "dish": "Pizza"
+    }
+  ]
+}

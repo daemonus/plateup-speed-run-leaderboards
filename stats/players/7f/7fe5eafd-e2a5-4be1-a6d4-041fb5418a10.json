@@ -1,0 +1,42 @@
+{
+  "id": "7fe5eafd-e2a5-4be1-a6d4-041fb5418a10",
+  "persona": "YOKI",
+  "names": [
+    "YOKI"
+  ],
+  "runs": 3,
+  "bestRank": 126,
+  "worstRank": 440,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5026935,
+  "weeksActive": [
+    -47,
+    -36,
+    -35
+  ],
+  "history": [
+    {
+      "week": -47,
+      "start": "2024-02-12",
+      "rank": 440,
+      "ms": 5170117,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -36,
+      "start": "2024-04-29",
+      "rank": 126,
+      "ms": 5469527,
+      "dish": "Burgers"
+    },
+    {
+      "week": -35,
+      "start": "2024-05-06",
+      "rank": 217,
+      "ms": 5026935,
+      "dish": "Breakfast"
+    }
+  ]
+}

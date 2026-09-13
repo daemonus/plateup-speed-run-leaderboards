@@ -1,0 +1,50 @@
+{
+  "id": "2c2bfd2a-ebe6-40b3-b6a4-e93712e56ed1",
+  "persona": "My name is MH",
+  "names": [
+    "My name is MH"
+  ],
+  "runs": 4,
+  "bestRank": 325,
+  "worstRank": 392,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3441616,
+  "weeksActive": [
+    3,
+    4,
+    34,
+    35
+  ],
+  "history": [
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 366,
+      "ms": 3441616,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 392,
+      "ms": 4757733,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 325,
+      "ms": 4449613,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 35,
+      "start": "2025-09-08",
+      "rank": 335,
+      "ms": 4230491,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "53d80f14-0078-42ff-bc08-8b2e2c1e14ec",
+  "persona": "salty",
+  "names": [
+    "salty"
+  ],
+  "runs": 2,
+  "bestRank": 308,
+  "worstRank": 613,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3894094,
+  "weeksActive": [
+    -85,
+    -82
+  ],
+  "history": [
+    {
+      "week": -85,
+      "start": "2023-05-22",
+      "rank": 308,
+      "ms": 6730656,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -82,
+      "start": "2023-06-12",
+      "rank": 613,
+      "ms": 3894094,
+      "dish": "Fish"
+    }
+  ]
+}

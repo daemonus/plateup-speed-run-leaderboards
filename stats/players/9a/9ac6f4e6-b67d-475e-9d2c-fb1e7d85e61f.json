@@ -1,0 +1,42 @@
+{
+  "id": "9ac6f4e6-b67d-475e-9d2c-fb1e7d85e61f",
+  "persona": "vkoolio",
+  "names": [
+    "vkoolio"
+  ],
+  "runs": 3,
+  "bestRank": 116,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2794844,
+  "weeksActive": [
+    40,
+    44,
+    45
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 227,
+      "ms": 4007191,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 146,
+      "ms": 2794844,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 116,
+      "ms": 3502654,
+      "dish": "Salad"
+    }
+  ]
+}

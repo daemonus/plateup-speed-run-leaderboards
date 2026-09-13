@@ -1,0 +1,42 @@
+{
+  "id": "13776ea4-545f-4953-91c4-85ad98aa76e3",
+  "persona": "FxG",
+  "names": [
+    "FxG"
+  ],
+  "runs": 3,
+  "bestRank": 62,
+  "worstRank": 1005,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2468421,
+  "weeksActive": [
+    -94,
+    -18,
+    -7
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1005,
+      "ms": 3443623,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 62,
+      "ms": 2468421,
+      "dish": "Fish"
+    },
+    {
+      "week": -7,
+      "start": "2024-11-18",
+      "rank": 76,
+      "ms": 3255180,
+      "dish": "Breakfast"
+    }
+  ]
+}

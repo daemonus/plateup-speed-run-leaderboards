@@ -1,0 +1,42 @@
+{
+  "id": "8d882dac-1224-46d8-9266-a43222342c43",
+  "persona": "snow",
+  "names": [
+    "snow"
+  ],
+  "runs": 3,
+  "bestRank": 272,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4574606,
+  "weeksActive": [
+    -70,
+    -69,
+    -68
+  ],
+  "history": [
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 561,
+      "ms": 5253961,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 343,
+      "ms": 4893804,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -68,
+      "start": "2023-09-18",
+      "rank": 272,
+      "ms": 4574606,
+      "dish": "Salad"
+    }
+  ]
+}

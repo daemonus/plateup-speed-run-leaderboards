@@ -1,0 +1,42 @@
+{
+  "id": "90267918-09ff-42d9-a7d3-137eb117210e",
+  "persona": "Dactyl",
+  "names": [
+    "Dactyl"
+  ],
+  "runs": 3,
+  "bestRank": 435,
+  "worstRank": 1282,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3140413,
+  "weeksActive": [
+    -91,
+    -90,
+    -88
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1282,
+      "ms": 3380540,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 753,
+      "ms": 3140413,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 435,
+      "ms": 3481658,
+      "dish": "Pies"
+    }
+  ]
+}

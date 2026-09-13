@@ -1,0 +1,42 @@
+{
+  "id": "6ade06fd-d966-44c6-a0f3-30c501082a57",
+  "persona": "SadoMasochist",
+  "names": [
+    "SadoMasochist"
+  ],
+  "runs": 3,
+  "bestRank": 124,
+  "worstRank": 631,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3331862,
+  "weeksActive": [
+    -71,
+    -69,
+    -67
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 631,
+      "ms": 3469772,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 124,
+      "ms": 3676541,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -67,
+      "start": "2023-09-25",
+      "rank": 165,
+      "ms": 3331862,
+      "dish": "Breakfast"
+    }
+  ]
+}

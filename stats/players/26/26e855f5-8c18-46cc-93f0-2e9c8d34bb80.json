@@ -1,0 +1,58 @@
+{
+  "id": "26e855f5-8c18-46cc-93f0-2e9c8d34bb80",
+  "persona": "ellen_sparling",
+  "names": [
+    "ellen_sparling"
+  ],
+  "runs": 5,
+  "bestRank": 181,
+  "worstRank": 594,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3451564,
+  "weeksActive": [
+    -30,
+    -21,
+    -18,
+    -12,
+    51
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 594,
+      "ms": 3451564,
+      "dish": "Turkey"
+    },
+    {
+      "week": -21,
+      "start": "2024-08-12",
+      "rank": 402,
+      "ms": 4181528,
+      "dish": "Pizza"
+    },
+    {
+      "week": -18,
+      "start": "2024-09-02",
+      "rank": 519,
+      "ms": 4257818,
+      "dish": "Fish"
+    },
+    {
+      "week": -12,
+      "start": "2024-10-14",
+      "rank": 219,
+      "ms": 3802818,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 181,
+      "ms": 3729388,
+      "dish": "Salad"
+    }
+  ]
+}

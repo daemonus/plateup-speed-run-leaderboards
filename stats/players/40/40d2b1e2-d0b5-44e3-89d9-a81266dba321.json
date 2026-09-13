@@ -1,0 +1,50 @@
+{
+  "id": "40d2b1e2-d0b5-44e3-89d9-a81266dba321",
+  "persona": "tatimarie1",
+  "names": [
+    "tatimarie1"
+  ],
+  "runs": 4,
+  "bestRank": 233,
+  "worstRank": 937,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2812213,
+  "weeksActive": [
+    -76,
+    -75,
+    -71,
+    -70
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 937,
+      "ms": 5181187,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 402,
+      "ms": 2812213,
+      "dish": "Fish"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 283,
+      "ms": 2816350,
+      "dish": "Turkey"
+    },
+    {
+      "week": -70,
+      "start": "2023-09-04",
+      "rank": 233,
+      "ms": 3735138,
+      "dish": "Breakfast"
+    }
+  ]
+}

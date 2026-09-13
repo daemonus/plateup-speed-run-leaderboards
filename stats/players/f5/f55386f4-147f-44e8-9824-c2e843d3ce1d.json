@@ -1,0 +1,34 @@
+{
+  "id": "f55386f4-147f-44e8-9824-c2e843d3ce1d",
+  "persona": "CheeseCakes",
+  "names": [
+    "CheeseCakes"
+  ],
+  "runs": 2,
+  "bestRank": 252,
+  "worstRank": 731,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3885781,
+  "weeksActive": [
+    20,
+    75
+  ],
+  "history": [
+    {
+      "week": 20,
+      "start": "2025-05-26",
+      "rank": 731,
+      "ms": 3885781,
+      "dish": "Turkey"
+    },
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 252,
+      "ms": 3934365,
+      "dish": "Pies"
+    }
+  ]
+}

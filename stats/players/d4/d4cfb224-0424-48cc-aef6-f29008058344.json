@@ -1,0 +1,58 @@
+{
+  "id": "d4cfb224-0424-48cc-aef6-f29008058344",
+  "persona": "HollerAndChill",
+  "names": [
+    "HollerAndChill"
+  ],
+  "runs": 5,
+  "bestRank": 21,
+  "worstRank": 227,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1682770,
+  "weeksActive": [
+    -93,
+    -91,
+    -89,
+    -65,
+    -41
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 227,
+      "ms": 1773009,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 97,
+      "ms": 1682770,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 201,
+      "ms": 2196305,
+      "dish": "Pies"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 21,
+      "ms": 2726260,
+      "dish": "Burgers"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 102,
+      "ms": 3420774,
+      "dish": "Stir Fry"
+    }
+  ]
+}

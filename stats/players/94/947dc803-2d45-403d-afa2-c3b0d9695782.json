@@ -1,0 +1,42 @@
+{
+  "id": "947dc803-2d45-403d-afa2-c3b0d9695782",
+  "persona": "Lucy",
+  "names": [
+    "Lucy"
+  ],
+  "runs": 3,
+  "bestRank": 125,
+  "worstRank": 350,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2597798,
+  "weeksActive": [
+    37,
+    45,
+    84
+  ],
+  "history": [
+    {
+      "week": 37,
+      "start": "2025-09-22",
+      "rank": 125,
+      "ms": 3560860,
+      "dish": "Burgers"
+    },
+    {
+      "week": 45,
+      "start": "2025-11-17",
+      "rank": 212,
+      "ms": 5155198,
+      "dish": "Salad"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 350,
+      "ms": 2597798,
+      "dish": "Sundaes"
+    }
+  ]
+}

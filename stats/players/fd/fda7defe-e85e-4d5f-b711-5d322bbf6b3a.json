@@ -1,0 +1,42 @@
+{
+  "id": "fda7defe-e85e-4d5f-b711-5d322bbf6b3a",
+  "persona": "Facsi",
+  "names": [
+    "Facsi"
+  ],
+  "runs": 3,
+  "bestRank": 164,
+  "worstRank": 178,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1916302,
+  "weeksActive": [
+    79,
+    80,
+    83
+  ],
+  "history": [
+    {
+      "week": 79,
+      "start": "2026-07-13",
+      "rank": 164,
+      "ms": 3780939,
+      "dish": "Salad"
+    },
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 171,
+      "ms": 3097228,
+      "dish": "Pizza"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 178,
+      "ms": 1916302,
+      "dish": "Sundaes"
+    }
+  ]
+}

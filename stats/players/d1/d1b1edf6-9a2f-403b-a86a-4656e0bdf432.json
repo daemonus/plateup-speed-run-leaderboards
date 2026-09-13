@@ -1,0 +1,82 @@
+{
+  "id": "d1b1edf6-9a2f-403b-a86a-4656e0bdf432",
+  "persona": "momichan",
+  "names": [
+    "momichan"
+  ],
+  "runs": 8,
+  "bestRank": 112,
+  "worstRank": 533,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3141560,
+  "weeksActive": [
+    30,
+    31,
+    34,
+    39,
+    41,
+    44,
+    47,
+    48
+  ],
+  "history": [
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 225,
+      "ms": 3230518,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 312,
+      "ms": 3417258,
+      "dish": "Fish"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 139,
+      "ms": 3390623,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 162,
+      "ms": 3553206,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 41,
+      "start": "2025-10-20",
+      "rank": 533,
+      "ms": 3141560,
+      "dish": "Turkey"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 246,
+      "ms": 3242389,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 47,
+      "start": "2025-12-01",
+      "rank": 151,
+      "ms": 3250041,
+      "dish": "Pizza"
+    },
+    {
+      "week": 48,
+      "start": "2025-12-08",
+      "rank": 112,
+      "ms": 3781353,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "3ec384b5-648f-4468-ba2e-b1fd267946ff",
+  "persona": "Herophillix",
+  "names": [
+    "Herophillix"
+  ],
+  "runs": 3,
+  "bestRank": 87,
+  "worstRank": 240,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1687457,
+  "weeksActive": [
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 240,
+      "ms": 1795214,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 99,
+      "ms": 1687457,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 87,
+      "ms": 1742123,
+      "dish": "Pies"
+    }
+  ]
+}

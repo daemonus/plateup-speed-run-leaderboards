@@ -1,0 +1,42 @@
+{
+  "id": "6abcb432-68ff-423b-a25c-1ede6c2fe28a",
+  "persona": "Yazaki",
+  "names": [
+    "Yazaki"
+  ],
+  "runs": 3,
+  "bestRank": 97,
+  "worstRank": 1018,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2818711,
+  "weeksActive": [
+    -91,
+    -25,
+    52
+  ],
+  "history": [
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1018,
+      "ms": 2980114,
+      "dish": "Fish"
+    },
+    {
+      "week": -25,
+      "start": "2024-07-15",
+      "rank": 97,
+      "ms": 2818711,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 571,
+      "ms": 4083968,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "d5fbf43d-bc74-4836-b6a5-d224b5bb41b4",
+  "persona": "Arsenic",
+  "names": [
+    "Arsenic"
+  ],
+  "runs": 2,
+  "bestRank": 213,
+  "worstRank": 505,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3854090,
+  "weeksActive": [
+    24,
+    34
+  ],
+  "history": [
+    {
+      "week": 24,
+      "start": "2025-06-23",
+      "rank": 505,
+      "ms": 5180996,
+      "dish": "Pies"
+    },
+    {
+      "week": 34,
+      "start": "2025-09-01",
+      "rank": 213,
+      "ms": 3854090,
+      "dish": "Stir Fry"
+    }
+  ]
+}

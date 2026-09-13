@@ -1,0 +1,58 @@
+{
+  "id": "2a89eb80-4a78-4b36-b29b-5584f6139883",
+  "persona": "dango759",
+  "names": [
+    "dango759"
+  ],
+  "runs": 5,
+  "bestRank": 91,
+  "worstRank": 180,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2621739,
+  "weeksActive": [
+    26,
+    27,
+    30,
+    36,
+    53
+  ],
+  "history": [
+    {
+      "week": 26,
+      "start": "2025-07-07",
+      "rank": 143,
+      "ms": 3046553,
+      "dish": "Pizza"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 91,
+      "ms": 2621739,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 108,
+      "ms": 2656274,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 36,
+      "start": "2025-09-15",
+      "rank": 180,
+      "ms": 2634824,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 167,
+      "ms": 3032070,
+      "dish": "Pies"
+    }
+  ]
+}

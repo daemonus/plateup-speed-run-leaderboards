@@ -1,0 +1,42 @@
+{
+  "id": "ec68fff4-ef49-46dd-9952-772b27b4e490",
+  "persona": "Dr. Gingi Kraken",
+  "names": [
+    "Dr. Gingi Kraken"
+  ],
+  "runs": 3,
+  "bestRank": 170,
+  "worstRank": 280,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2129230,
+  "weeksActive": [
+    38,
+    54,
+    84
+  ],
+  "history": [
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 280,
+      "ms": 3340099,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 170,
+      "ms": 3670486,
+      "dish": "Burgers"
+    },
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 258,
+      "ms": 2129230,
+      "dish": "Sundaes"
+    }
+  ]
+}

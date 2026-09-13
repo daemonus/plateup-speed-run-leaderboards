@@ -1,0 +1,42 @@
+{
+  "id": "25cb2513-5a20-421c-9891-dc581c65f32b",
+  "persona": "\u53C8\u53CC\u53D2\u53D5\u67DA\u5B50",
+  "names": [
+    "\u53C8\u53CC\u53D2\u53D5\u67DA\u5B50"
+  ],
+  "runs": 3,
+  "bestRank": 281,
+  "worstRank": 575,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2695179,
+  "weeksActive": [
+    -6,
+    12,
+    15
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 575,
+      "ms": 5116956,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 12,
+      "start": "2025-03-31",
+      "rank": 281,
+      "ms": 2756541,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 281,
+      "ms": 2695179,
+      "dish": "Turkey"
+    }
+  ]
+}

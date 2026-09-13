@@ -1,0 +1,66 @@
+{
+  "id": "aedd1fb6-48e4-4d44-90c3-54de2d770ff7",
+  "persona": "EL",
+  "names": [
+    "EL"
+  ],
+  "runs": 6,
+  "bestRank": 14,
+  "worstRank": 155,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1855275,
+  "weeksActive": [
+    51,
+    52,
+    53,
+    54,
+    57,
+    59
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 138,
+      "ms": 3424229,
+      "dish": "Salad"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 155,
+      "ms": 2486924,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 102,
+      "ms": 2675056,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 25,
+      "ms": 2510959,
+      "dish": "Burgers"
+    },
+    {
+      "week": 57,
+      "start": "2026-02-09",
+      "rank": 14,
+      "ms": 1855275,
+      "dish": "Salad"
+    },
+    {
+      "week": 59,
+      "start": "2026-02-23",
+      "rank": 50,
+      "ms": 2351643,
+      "dish": "Salad"
+    }
+  ]
+}

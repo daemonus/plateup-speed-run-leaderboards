@@ -1,0 +1,42 @@
+{
+  "id": "19d94eb4-8e53-4e2f-9c4a-d3134ebe6f0b",
+  "persona": "RainbowMagic",
+  "names": [
+    "RainbowMagic"
+  ],
+  "runs": 3,
+  "bestRank": 817,
+  "worstRank": 969,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4223305,
+  "weeksActive": [
+    -75,
+    -72,
+    -71
+  ],
+  "history": [
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 954,
+      "ms": 4502846,
+      "dish": "Fish"
+    },
+    {
+      "week": -72,
+      "start": "2023-08-21",
+      "rank": 817,
+      "ms": 5704685,
+      "dish": "Pies"
+    },
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 969,
+      "ms": 4223305,
+      "dish": "Turkey"
+    }
+  ]
+}

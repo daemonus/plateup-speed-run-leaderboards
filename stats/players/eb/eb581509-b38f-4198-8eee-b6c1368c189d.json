@@ -1,0 +1,42 @@
+{
+  "id": "eb581509-b38f-4198-8eee-b6c1368c189d",
+  "persona": "yamaneko",
+  "names": [
+    "yamaneko"
+  ],
+  "runs": 3,
+  "bestRank": 212,
+  "worstRank": 269,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2985410,
+  "weeksActive": [
+    55,
+    58,
+    65
+  ],
+  "history": [
+    {
+      "week": 55,
+      "start": "2026-01-26",
+      "rank": 249,
+      "ms": 4274008,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 58,
+      "start": "2026-02-16",
+      "rank": 269,
+      "ms": 2985410,
+      "dish": "Turkey"
+    },
+    {
+      "week": 65,
+      "start": "2026-04-06",
+      "rank": 212,
+      "ms": 3425062,
+      "dish": "Pizza"
+    }
+  ]
+}

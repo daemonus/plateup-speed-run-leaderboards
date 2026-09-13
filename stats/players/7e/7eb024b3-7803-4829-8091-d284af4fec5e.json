@@ -1,0 +1,50 @@
+{
+  "id": "7eb024b3-7803-4829-8091-d284af4fec5e",
+  "persona": "Sable",
+  "names": [
+    "Sable"
+  ],
+  "runs": 4,
+  "bestRank": 130,
+  "worstRank": 706,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3707418,
+  "weeksActive": [
+    -62,
+    -60,
+    -59,
+    -58
+  ],
+  "history": [
+    {
+      "week": -62,
+      "start": "2023-10-30",
+      "rank": 628,
+      "ms": 4704729,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 414,
+      "ms": 4927518,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 706,
+      "ms": 5569560,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -58,
+      "start": "2023-11-27",
+      "rank": 130,
+      "ms": 3707418,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

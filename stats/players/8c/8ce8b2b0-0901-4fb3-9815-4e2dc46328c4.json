@@ -1,0 +1,42 @@
+{
+  "id": "8ce8b2b0-0901-4fb3-9815-4e2dc46328c4",
+  "persona": "tempurra",
+  "names": [
+    "tempurra"
+  ],
+  "runs": 3,
+  "bestRank": 263,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3286363,
+  "weeksActive": [
+    61,
+    62,
+    66
+  ],
+  "history": [
+    {
+      "week": 61,
+      "start": "2026-03-09",
+      "rank": 341,
+      "ms": 4834991,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 263,
+      "ms": 3286363,
+      "dish": "Pies"
+    },
+    {
+      "week": 66,
+      "start": "2026-04-13",
+      "rank": 386,
+      "ms": 4314964,
+      "dish": "Breakfast"
+    }
+  ]
+}

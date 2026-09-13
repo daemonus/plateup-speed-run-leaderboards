@@ -1,0 +1,58 @@
+{
+  "id": "c3c5d83d-7948-40df-89fe-c2b5ddaefc18",
+  "persona": "Bowle",
+  "names": [
+    "Bowle"
+  ],
+  "runs": 5,
+  "bestRank": 139,
+  "worstRank": 730,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2659770,
+  "weeksActive": [
+    -76,
+    -69,
+    -60,
+    -59,
+    -56
+  ],
+  "history": [
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 730,
+      "ms": 3850054,
+      "dish": "Turkey"
+    },
+    {
+      "week": -69,
+      "start": "2023-09-11",
+      "rank": 489,
+      "ms": 6939940,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -60,
+      "start": "2023-11-13",
+      "rank": 300,
+      "ms": 4023286,
+      "dish": "Burgers"
+    },
+    {
+      "week": -59,
+      "start": "2023-11-20",
+      "rank": 286,
+      "ms": 3400950,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -56,
+      "start": "2023-12-11",
+      "rank": 139,
+      "ms": 2659770,
+      "dish": "Breakfast"
+    }
+  ]
+}

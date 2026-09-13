@@ -1,0 +1,34 @@
+{
+  "id": "f704f9c4-0a5d-4fa2-a557-5b9cb923cdf5",
+  "persona": "daphnomancy",
+  "names": [
+    "daphnomancy"
+  ],
+  "runs": 2,
+  "bestRank": 308,
+  "worstRank": 524,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2845323,
+  "weeksActive": [
+    15,
+    52
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 308,
+      "ms": 2845323,
+      "dish": "Turkey"
+    },
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 524,
+      "ms": 3829326,
+      "dish": "Fish"
+    }
+  ]
+}

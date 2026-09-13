@@ -1,0 +1,58 @@
+{
+  "id": "181ae1e7-2af9-49fc-b6f1-ec4e90f0d39f",
+  "persona": "Pink Minun",
+  "names": [
+    "Pink Minun"
+  ],
+  "runs": 5,
+  "bestRank": 88,
+  "worstRank": 974,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2251919,
+  "weeksActive": [
+    -93,
+    -91,
+    -79,
+    4,
+    8
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 683,
+      "ms": 2251919,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 974,
+      "ms": 2904514,
+      "dish": "Fish"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 439,
+      "ms": 5236668,
+      "dish": "Pies"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 88,
+      "ms": 2607877,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 8,
+      "start": "2025-03-03",
+      "rank": 461,
+      "ms": 3184963,
+      "dish": "Fish"
+    }
+  ]
+}

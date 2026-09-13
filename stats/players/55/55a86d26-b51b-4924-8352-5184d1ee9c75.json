@@ -1,0 +1,42 @@
+{
+  "id": "55a86d26-b51b-4924-8352-5184d1ee9c75",
+  "persona": "Psybann",
+  "names": [
+    "Psybann"
+  ],
+  "runs": 3,
+  "bestRank": 660,
+  "worstRank": 1013,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3367023,
+  "weeksActive": [
+    -94,
+    -92,
+    -89
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 1013,
+      "ms": 3453931,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -92,
+      "start": "2023-04-03",
+      "rank": 721,
+      "ms": 4421034,
+      "dish": "Steak"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 660,
+      "ms": 3367023,
+      "dish": "Pies"
+    }
+  ]
+}

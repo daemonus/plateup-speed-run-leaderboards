@@ -1,0 +1,58 @@
+{
+  "id": "f2fce587-98e7-47bf-ae81-d5aa36f20576",
+  "persona": "jblub324",
+  "names": [
+    "jblub324"
+  ],
+  "runs": 5,
+  "bestRank": 79,
+  "worstRank": 242,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2974852,
+  "weeksActive": [
+    29,
+    30,
+    72,
+    73,
+    81
+  ],
+  "history": [
+    {
+      "week": 29,
+      "start": "2025-07-28",
+      "rank": 79,
+      "ms": 2991676,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 242,
+      "ms": 3327011,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 72,
+      "start": "2026-05-25",
+      "rank": 137,
+      "ms": 2974852,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 73,
+      "start": "2026-06-01",
+      "rank": 168,
+      "ms": 3163370,
+      "dish": "Burgers"
+    },
+    {
+      "week": 81,
+      "start": "2026-07-27",
+      "rank": 128,
+      "ms": 3068772,
+      "dish": "Pizza"
+    }
+  ]
+}

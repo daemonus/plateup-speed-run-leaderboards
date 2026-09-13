@@ -1,0 +1,42 @@
+{
+  "id": "15b0a47d-c4bf-4cb7-ad9a-b05d4af3ce95",
+  "persona": "Ari",
+  "names": [
+    "Ari"
+  ],
+  "runs": 3,
+  "bestRank": 78,
+  "worstRank": 476,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2445767,
+  "weeksActive": [
+    -71,
+    3,
+    4
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 476,
+      "ms": 3154688,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 87,
+      "ms": 2445767,
+      "dish": "Fish"
+    },
+    {
+      "week": 4,
+      "start": "2025-02-03",
+      "rank": 78,
+      "ms": 2466926,
+      "dish": "Breakfast"
+    }
+  ]
+}

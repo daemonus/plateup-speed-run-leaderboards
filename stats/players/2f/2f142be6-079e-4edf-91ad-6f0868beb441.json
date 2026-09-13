@@ -1,0 +1,42 @@
+{
+  "id": "2f142be6-079e-4edf-91ad-6f0868beb441",
+  "persona": "farrah_lyn",
+  "names": [
+    "farrah_lyn"
+  ],
+  "runs": 3,
+  "bestRank": 239,
+  "worstRank": 474,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3436394,
+  "weeksActive": [
+    52,
+    53,
+    54
+  ],
+  "history": [
+    {
+      "week": 52,
+      "start": "2026-01-05",
+      "rank": 474,
+      "ms": 3595075,
+      "dish": "Fish"
+    },
+    {
+      "week": 53,
+      "start": "2026-01-12",
+      "rank": 239,
+      "ms": 3436394,
+      "dish": "Pies"
+    },
+    {
+      "week": 54,
+      "start": "2026-01-19",
+      "rank": 294,
+      "ms": 4861312,
+      "dish": "Burgers"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "aa7caea5-9ffe-4767-bd17-454af2e3abf7",
+  "persona": "tritnic",
+  "names": [
+    "tritnic"
+  ],
+  "runs": 2,
+  "bestRank": 306,
+  "worstRank": 645,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3359674,
+  "weeksActive": [
+    -78,
+    -76
+  ],
+  "history": [
+    {
+      "week": -78,
+      "start": "2023-07-10",
+      "rank": 306,
+      "ms": 3359674,
+      "dish": "Burgers"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 645,
+      "ms": 3598290,
+      "dish": "Turkey"
+    }
+  ]
+}

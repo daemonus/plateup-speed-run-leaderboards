@@ -1,0 +1,34 @@
+{
+  "id": "d5c87393-9841-4d96-8631-1ef93ef08d6f",
+  "persona": "abcd312",
+  "names": [
+    "abcd312"
+  ],
+  "runs": 2,
+  "bestRank": 206,
+  "worstRank": 308,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4690553,
+  "weeksActive": [
+    50,
+    51
+  ],
+  "history": [
+    {
+      "week": 50,
+      "start": "2025-12-22",
+      "rank": 206,
+      "ms": 4690553,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 308,
+      "ms": 4929283,
+      "dish": "Salad"
+    }
+  ]
+}

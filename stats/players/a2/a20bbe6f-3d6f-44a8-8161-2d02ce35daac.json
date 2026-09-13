@@ -1,0 +1,34 @@
+{
+  "id": "a20bbe6f-3d6f-44a8-8161-2d02ce35daac",
+  "persona": "Lucha",
+  "names": [
+    "Lucha"
+  ],
+  "runs": 2,
+  "bestRank": 597,
+  "worstRank": 1861,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3037541,
+  "weeksActive": [
+    -93,
+    -87
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1861,
+      "ms": 3037541,
+      "dish": "Fish"
+    },
+    {
+      "week": -87,
+      "start": "2023-05-08",
+      "rank": 597,
+      "ms": 8280000,
+      "dish": "Stir Fry"
+    }
+  ]
+}

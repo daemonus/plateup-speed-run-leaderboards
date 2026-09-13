@@ -1,0 +1,42 @@
+{
+  "id": "93c82261-5a57-4864-8bd9-e2ff62492348",
+  "persona": "Seek-MonsTer",
+  "names": [
+    "Seek-MonsTer"
+  ],
+  "runs": 3,
+  "bestRank": 257,
+  "worstRank": 501,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2716043,
+  "weeksActive": [
+    -84,
+    -77,
+    -74
+  ],
+  "history": [
+    {
+      "week": -84,
+      "start": "2023-05-29",
+      "rank": 257,
+      "ms": 2716043,
+      "dish": "Fish"
+    },
+    {
+      "week": -77,
+      "start": "2023-07-17",
+      "rank": 501,
+      "ms": 3595221,
+      "dish": "Pies"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 319,
+      "ms": 3737333,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

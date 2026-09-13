@@ -1,0 +1,58 @@
+{
+  "id": "4b9c74a0-0200-4832-a9c2-42dba9019a81",
+  "persona": "Integral Funk",
+  "names": [
+    "Integral Funk"
+  ],
+  "runs": 5,
+  "bestRank": 139,
+  "worstRank": 417,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2995359,
+  "weeksActive": [
+    -34,
+    -33,
+    43,
+    49,
+    62
+  ],
+  "history": [
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 417,
+      "ms": 4204666,
+      "dish": "Pies"
+    },
+    {
+      "week": -33,
+      "start": "2024-05-20",
+      "rank": 329,
+      "ms": 4213813,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 389,
+      "ms": 3077168,
+      "dish": "Fish"
+    },
+    {
+      "week": 49,
+      "start": "2025-12-15",
+      "rank": 139,
+      "ms": 4152144,
+      "dish": "Burgers"
+    },
+    {
+      "week": 62,
+      "start": "2026-03-16",
+      "rank": 194,
+      "ms": 2995359,
+      "dish": "Pies"
+    }
+  ]
+}

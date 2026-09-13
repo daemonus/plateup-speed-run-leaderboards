@@ -1,0 +1,42 @@
+{
+  "id": "ca54801d-a627-468c-b83c-0c060125b39c",
+  "persona": "ThouMayest",
+  "names": [
+    "ThouMayest"
+  ],
+  "runs": 3,
+  "bestRank": 112,
+  "worstRank": 216,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2047281,
+  "weeksActive": [
+    -4,
+    -3,
+    15
+  ],
+  "history": [
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 133,
+      "ms": 2721267,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 216,
+      "ms": 2692843,
+      "dish": "Turkey"
+    },
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 112,
+      "ms": 2047281,
+      "dish": "Turkey"
+    }
+  ]
+}

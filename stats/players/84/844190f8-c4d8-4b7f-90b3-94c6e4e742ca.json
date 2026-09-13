@@ -1,0 +1,42 @@
+{
+  "id": "844190f8-c4d8-4b7f-90b3-94c6e4e742ca",
+  "persona": "HumanGrowthHormoan",
+  "names": [
+    "HumanGrowthHormoan"
+  ],
+  "runs": 3,
+  "bestRank": 129,
+  "worstRank": 165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3033831,
+  "weeksActive": [
+    0,
+    1,
+    2
+  ],
+  "history": [
+    {
+      "week": 0,
+      "start": "2025-01-06",
+      "rank": 129,
+      "ms": 3477275,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 1,
+      "start": "2025-01-13",
+      "rank": 151,
+      "ms": 3033831,
+      "dish": "Pies"
+    },
+    {
+      "week": 2,
+      "start": "2025-01-20",
+      "rank": 165,
+      "ms": 3238128,
+      "dish": "Breakfast"
+    }
+  ]
+}

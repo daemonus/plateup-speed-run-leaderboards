@@ -1,0 +1,50 @@
+{
+  "id": "8c72f6b2-1d63-4a04-8709-98388315958b",
+  "persona": "PhilupDurban",
+  "names": [
+    "PhilupDurban"
+  ],
+  "runs": 4,
+  "bestRank": 20,
+  "worstRank": 83,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1136169,
+  "weeksActive": [
+    15,
+    16,
+    30,
+    83
+  ],
+  "history": [
+    {
+      "week": 15,
+      "start": "2025-04-21",
+      "rank": 71,
+      "ms": 1817876,
+      "dish": "Turkey"
+    },
+    {
+      "week": 16,
+      "start": "2025-04-28",
+      "rank": 83,
+      "ms": 3142364,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 73,
+      "ms": 2435723,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 20,
+      "ms": 1136169,
+      "dish": "Sundaes"
+    }
+  ]
+}

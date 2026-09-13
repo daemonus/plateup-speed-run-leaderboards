@@ -1,0 +1,34 @@
+{
+  "id": "2b147fb5-ba9d-4504-8ba3-bbef438a11fd",
+  "persona": "18G",
+  "names": [
+    "18G"
+  ],
+  "runs": 2,
+  "bestRank": 293,
+  "worstRank": 357,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4070341,
+  "weeksActive": [
+    5,
+    14
+  ],
+  "history": [
+    {
+      "week": 5,
+      "start": "2025-02-10",
+      "rank": 293,
+      "ms": 4070341,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 14,
+      "start": "2025-04-14",
+      "rank": 357,
+      "ms": 6423027,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

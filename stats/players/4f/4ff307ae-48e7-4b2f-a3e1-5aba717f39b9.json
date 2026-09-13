@@ -1,0 +1,42 @@
+{
+  "id": "4ff307ae-48e7-4b2f-a3e1-5aba717f39b9",
+  "persona": "TheShrimpChef",
+  "names": [
+    "TheShrimpChef"
+  ],
+  "runs": 3,
+  "bestRank": 119,
+  "worstRank": 314,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3367323,
+  "weeksActive": [
+    -57,
+    -55,
+    -53
+  ],
+  "history": [
+    {
+      "week": -57,
+      "start": "2023-12-04",
+      "rank": 149,
+      "ms": 3390024,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -55,
+      "start": "2023-12-18",
+      "rank": 314,
+      "ms": 3784021,
+      "dish": "Pizza"
+    },
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 119,
+      "ms": 3367323,
+      "dish": "Breakfast"
+    }
+  ]
+}

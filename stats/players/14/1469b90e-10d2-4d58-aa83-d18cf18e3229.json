@@ -1,0 +1,34 @@
+{
+  "id": "1469b90e-10d2-4d58-aa83-d18cf18e3229",
+  "persona": "R-15",
+  "names": [
+    "R-15"
+  ],
+  "runs": 2,
+  "bestRank": 70,
+  "worstRank": 252,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2370896,
+  "weeksActive": [
+    80,
+    82
+  ],
+  "history": [
+    {
+      "week": 80,
+      "start": "2026-07-20",
+      "rank": 252,
+      "ms": 3652726,
+      "dish": "Pizza"
+    },
+    {
+      "week": 82,
+      "start": "2026-08-03",
+      "rank": 70,
+      "ms": 2370896,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "662c8ad1-4186-4105-b552-34466e4a327c",
+  "persona": "CHill598",
+  "names": [
+    "CHill598"
+  ],
+  "runs": 4,
+  "bestRank": 234,
+  "worstRank": 846,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5583037,
+  "weeksActive": [
+    -43,
+    -42,
+    -38,
+    38
+  ],
+  "history": [
+    {
+      "week": -43,
+      "start": "2024-03-11",
+      "rank": 316,
+      "ms": 6579307,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 234,
+      "ms": 5583037,
+      "dish": "Burgers"
+    },
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 846,
+      "ms": 5656046,
+      "dish": "Turkey"
+    },
+    {
+      "week": 38,
+      "start": "2025-09-29",
+      "rank": 513,
+      "ms": 5697284,
+      "dish": "Pies"
+    }
+  ]
+}

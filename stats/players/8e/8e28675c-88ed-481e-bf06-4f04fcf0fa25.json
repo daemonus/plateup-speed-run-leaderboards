@@ -1,0 +1,42 @@
+{
+  "id": "8e28675c-88ed-481e-bf06-4f04fcf0fa25",
+  "persona": "Under_Baked",
+  "names": [
+    "Under_Baked"
+  ],
+  "runs": 3,
+  "bestRank": 288,
+  "worstRank": 561,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3611816,
+  "weeksActive": [
+    39,
+    43,
+    44
+  ],
+  "history": [
+    {
+      "week": 39,
+      "start": "2025-10-06",
+      "rank": 288,
+      "ms": 4848236,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 43,
+      "start": "2025-11-03",
+      "rank": 561,
+      "ms": 3611816,
+      "dish": "Fish"
+    },
+    {
+      "week": 44,
+      "start": "2025-11-10",
+      "rank": 450,
+      "ms": 4770792,
+      "dish": "Breakfast"
+    }
+  ]
+}

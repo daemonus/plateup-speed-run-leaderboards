@@ -1,0 +1,58 @@
+{
+  "id": "348307f1-7fa7-40e9-9600-28835ff339b2",
+  "persona": "Dr.Nancy",
+  "names": [
+    "Dr.Nancy"
+  ],
+  "runs": 5,
+  "bestRank": 69,
+  "worstRank": 284,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2300312,
+  "weeksActive": [
+    -6,
+    -5,
+    -4,
+    -3,
+    -2
+  ],
+  "history": [
+    {
+      "week": -6,
+      "start": "2024-11-25",
+      "rank": 121,
+      "ms": 3097678,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -5,
+      "start": "2024-12-02",
+      "rank": 196,
+      "ms": 3626210,
+      "dish": "Pizza"
+    },
+    {
+      "week": -4,
+      "start": "2024-12-09",
+      "rank": 69,
+      "ms": 2300312,
+      "dish": "Pies"
+    },
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 284,
+      "ms": 2912823,
+      "dish": "Turkey"
+    },
+    {
+      "week": -2,
+      "start": "2024-12-23",
+      "rank": 127,
+      "ms": 2707908,
+      "dish": "Pizza"
+    }
+  ]
+}

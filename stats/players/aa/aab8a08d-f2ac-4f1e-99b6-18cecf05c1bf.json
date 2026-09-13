@@ -1,0 +1,42 @@
+{
+  "id": "aab8a08d-f2ac-4f1e-99b6-18cecf05c1bf",
+  "persona": "Stephen",
+  "names": [
+    "Stephen"
+  ],
+  "runs": 3,
+  "bestRank": 790,
+  "worstRank": 2747,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3575468,
+  "weeksActive": [
+    -93,
+    -91,
+    -89
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 2747,
+      "ms": 4097798,
+      "dish": "Fish"
+    },
+    {
+      "week": -91,
+      "start": "2023-04-10",
+      "rank": 1397,
+      "ms": 3575468,
+      "dish": "Fish"
+    },
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 790,
+      "ms": 3865406,
+      "dish": "Pies"
+    }
+  ]
+}

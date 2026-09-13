@@ -1,0 +1,82 @@
+{
+  "id": "09842aa0-a8b6-4bf3-a991-6dbd5baad4a0",
+  "persona": "appleman555",
+  "names": [
+    "appleman555"
+  ],
+  "runs": 8,
+  "bestRank": 26,
+  "worstRank": 622,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1873883,
+  "weeksActive": [
+    -93,
+    -90,
+    -88,
+    -86,
+    -66,
+    -65,
+    27,
+    30
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 297,
+      "ms": 1873883,
+      "dish": "Fish"
+    },
+    {
+      "week": -90,
+      "start": "2023-04-17",
+      "rank": 622,
+      "ms": 2909052,
+      "dish": "Fish"
+    },
+    {
+      "week": -88,
+      "start": "2023-05-01",
+      "rank": 247,
+      "ms": 2891371,
+      "dish": "Pies"
+    },
+    {
+      "week": -86,
+      "start": "2023-05-15",
+      "rank": 186,
+      "ms": 2215392,
+      "dish": "Fish"
+    },
+    {
+      "week": -66,
+      "start": "2023-10-02",
+      "rank": 26,
+      "ms": 2121494,
+      "dish": "Turkey"
+    },
+    {
+      "week": -65,
+      "start": "2023-10-09",
+      "rank": 111,
+      "ms": 4105210,
+      "dish": "Burgers"
+    },
+    {
+      "week": 27,
+      "start": "2025-07-14",
+      "rank": 206,
+      "ms": 3627730,
+      "dish": "Breakfast"
+    },
+    {
+      "week": 30,
+      "start": "2025-08-04",
+      "rank": 78,
+      "ms": 2460778,
+      "dish": "Breakfast"
+    }
+  ]
+}

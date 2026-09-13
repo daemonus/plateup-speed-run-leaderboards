@@ -1,0 +1,34 @@
+{
+  "id": "a9c04206-a893-4965-b591-8c8975ff8074",
+  "persona": "beccasaurus",
+  "names": [
+    "beccasaurus"
+  ],
+  "runs": 2,
+  "bestRank": 449,
+  "worstRank": 685,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4435168,
+  "weeksActive": [
+    -16,
+    77
+  ],
+  "history": [
+    {
+      "week": -16,
+      "start": "2024-09-16",
+      "rank": 685,
+      "ms": 5491799,
+      "dish": "Pies"
+    },
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 449,
+      "ms": 4435168,
+      "dish": "Sundaes"
+    }
+  ]
+}

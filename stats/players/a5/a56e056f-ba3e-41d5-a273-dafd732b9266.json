@@ -1,0 +1,34 @@
+{
+  "id": "a56e056f-ba3e-41d5-a273-dafd732b9266",
+  "persona": "AnnA",
+  "names": [
+    "AnnA"
+  ],
+  "runs": 2,
+  "bestRank": 448,
+  "worstRank": 767,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3520495,
+  "weeksActive": [
+    -3,
+    3
+  ],
+  "history": [
+    {
+      "week": -3,
+      "start": "2024-12-16",
+      "rank": 448,
+      "ms": 3520495,
+      "dish": "Turkey"
+    },
+    {
+      "week": 3,
+      "start": "2025-01-27",
+      "rank": 767,
+      "ms": 5223928,
+      "dish": "Fish"
+    }
+  ]
+}

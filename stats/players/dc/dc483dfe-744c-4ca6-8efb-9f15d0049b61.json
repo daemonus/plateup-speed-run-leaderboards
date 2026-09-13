@@ -1,0 +1,74 @@
+{
+  "id": "dc483dfe-744c-4ca6-8efb-9f15d0049b61",
+  "persona": "taint3ed",
+  "names": [
+    "taint3ed"
+  ],
+  "runs": 7,
+  "bestRank": 179,
+  "worstRank": 906,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4101319,
+  "weeksActive": [
+    -53,
+    -52,
+    -50,
+    -46,
+    -41,
+    -37,
+    -34
+  ],
+  "history": [
+    {
+      "week": -53,
+      "start": "2024-01-01",
+      "rank": 408,
+      "ms": 5823025,
+      "dish": "Breakfast"
+    },
+    {
+      "week": -52,
+      "start": "2024-01-08",
+      "rank": 179,
+      "ms": 4467938,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -50,
+      "start": "2024-01-22",
+      "rank": 283,
+      "ms": 5582260,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": -46,
+      "start": "2024-02-19",
+      "rank": 508,
+      "ms": 5361324,
+      "dish": "Salad"
+    },
+    {
+      "week": -41,
+      "start": "2024-03-25",
+      "rank": 385,
+      "ms": 5619975,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 906,
+      "ms": 4805445,
+      "dish": "Fish"
+    },
+    {
+      "week": -34,
+      "start": "2024-05-13",
+      "rank": 405,
+      "ms": 4101319,
+      "dish": "Pies"
+    }
+  ]
+}

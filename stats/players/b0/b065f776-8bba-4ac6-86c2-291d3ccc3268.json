@@ -1,0 +1,58 @@
+{
+  "id": "b065f776-8bba-4ac6-86c2-291d3ccc3268",
+  "persona": "onlyKentrop",
+  "names": [
+    "onlyKentrop"
+  ],
+  "runs": 5,
+  "bestRank": 24,
+  "worstRank": 77,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 1410908,
+  "weeksActive": [
+    -89,
+    -79,
+    -76,
+    -75,
+    -74
+  ],
+  "history": [
+    {
+      "week": -89,
+      "start": "2023-04-24",
+      "rank": 77,
+      "ms": 1701910,
+      "dish": "Pies"
+    },
+    {
+      "week": -79,
+      "start": "2023-07-03",
+      "rank": 55,
+      "ms": 2338139,
+      "dish": "Pies"
+    },
+    {
+      "week": -76,
+      "start": "2023-07-24",
+      "rank": 24,
+      "ms": 1410908,
+      "dish": "Turkey"
+    },
+    {
+      "week": -75,
+      "start": "2023-07-31",
+      "rank": 35,
+      "ms": 1534274,
+      "dish": "Fish"
+    },
+    {
+      "week": -74,
+      "start": "2023-08-07",
+      "rank": 65,
+      "ms": 2311589,
+      "dish": "Hot Dogs"
+    }
+  ]
+}
