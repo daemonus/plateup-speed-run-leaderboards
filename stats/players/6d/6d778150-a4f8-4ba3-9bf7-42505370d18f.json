@@ -4,8 +4,8 @@
   "names": [
     "Mink80"
   ],
-  "runs": 3,
-  "bestRank": 159,
+  "runs": 4,
+  "bestRank": 148,
   "worstRank": 176,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     83,
     84,
-    85
+    85,
+    87
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 159,
       "ms": 2739337,
       "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 148,
+      "ms": 3968817,
+      "dish": "Fajitas"
     }
   ]
 }

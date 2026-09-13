@@ -4,7 +4,11 @@
       "week": -95,
       "start": "2023-03-13",
       "file": "archive/2023_11.json",
-      "count": 4
+      "count": 4,
+      "dish": "Pies",
+      "seed": "w37y63g3",
+      "setting": "Autumn",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -94,
@@ -33,14 +37,18 @@
       "count": 827,
       "dish": "Steak",
       "seed": "8qbv7j9d",
-      "setting": "Community",
+      "setting": "Autumn",
       "gameVersion": "1.1.5-06CA"
     },
     {
       "week": -91,
       "start": "2023-04-10",
       "file": "archive/2023_15.json",
-      "count": 1690
+      "count": 1690,
+      "dish": "Fish",
+      "seed": "974yyb9t",
+      "setting": "Country",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -90,
@@ -49,7 +57,7 @@
       "count": 1226,
       "dish": "Fish",
       "seed": "dtt739gd",
-      "setting": "City",
+      "setting": "Alpine",
       "gameVersion": "1.1.5-06CA"
     },
     {
@@ -99,908 +107,1508 @@
       "count": 314,
       "dish": "Stir Fry",
       "seed": "3wbjrhwv",
-      "setting": "Community",
+      "setting": "Autumn",
       "gameVersion": "1.1.5-06CA"
     },
     {
       "week": -84,
       "start": "2023-05-29",
       "file": "archive/2023_22.json",
-      "count": 705
+      "count": 705,
+      "dish": "Fish",
+      "seed": "ht7t873x",
+      "setting": "Country",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -83,
       "start": "2023-06-05",
       "file": "archive/2023_23.json",
-      "count": 566
+      "count": 566,
+      "dish": "Steak",
+      "seed": "dxrg78q9",
+      "setting": "Romantic",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -82,
       "start": "2023-06-12",
       "file": "archive/2023_24.json",
-      "count": 838
+      "count": 838,
+      "dish": "Fish",
+      "seed": "wtq3q46w",
+      "setting": "Romantic",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -81,
       "start": "2023-06-19",
       "file": "archive/2023_25.json",
-      "count": 453
+      "count": 453,
+      "dish": "Steak",
+      "seed": "wd6q749g",
+      "setting": "City",
+      "gameVersion": "1.1.5"
     },
     {
       "week": -80,
       "start": "2023-06-26",
       "file": "archive/2023_26.json",
-      "count": 299
+      "count": 299,
+      "dish": "Stir Fry",
+      "seed": "7mmtwvqd",
+      "setting": "Autumn",
+      "gameVersion": "1.1.5p5"
     },
     {
       "week": -79,
       "start": "2023-07-03",
       "file": "archive/2023_27.json",
-      "count": 456
+      "count": 456,
+      "dish": "Pies",
+      "seed": "w6vvvx93",
+      "setting": "Autumn",
+      "gameVersion": "1.1.6b"
     },
     {
       "week": -78,
       "start": "2023-07-10",
       "file": "archive/2023_28.json",
-      "count": 501
+      "count": 501,
+      "dish": "Burgers",
+      "seed": "qq84xb4v",
+      "setting": "Country",
+      "gameVersion": "1.1.6b"
     },
     {
       "week": -77,
       "start": "2023-07-17",
       "file": "archive/2023_29.json",
-      "count": 949
+      "count": 949,
+      "dish": "Pies",
+      "seed": "3rr78x6d",
+      "setting": "Alpine",
+      "gameVersion": "1.1.6b"
     },
     {
       "week": -76,
       "start": "2023-07-24",
       "file": "archive/2023_30.json",
-      "count": 977
+      "count": 977,
+      "dish": "Turkey",
+      "seed": "wjvmwqvr",
+      "setting": "Romantic",
+      "gameVersion": "1.1.6b"
     },
     {
       "week": -75,
       "start": "2023-07-31",
       "file": "archive/2023_31.json",
-      "count": 1065
+      "count": 1065,
+      "dish": "Fish",
+      "seed": "g39m7yjx",
+      "setting": "City",
+      "gameVersion": "1.1.6b"
     },
     {
       "week": -74,
       "start": "2023-08-07",
       "file": "archive/2023_32.json",
-      "count": 667
+      "count": 667,
+      "dish": "Hot Dogs",
+      "seed": "3jd979rw",
+      "setting": "Country",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -73,
       "start": "2023-08-14",
       "file": "archive/2023_33.json",
-      "count": 392
+      "count": 392,
+      "dish": "Stir Fry",
+      "seed": "hqg7mb4w",
+      "setting": "Alpine",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -72,
       "start": "2023-08-21",
       "file": "archive/2023_34.json",
-      "count": 915
+      "count": 915,
+      "dish": "Pies",
+      "seed": "jwvj4t9g",
+      "setting": "Romantic",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -71,
       "start": "2023-08-28",
       "file": "archive/2023_35.json",
-      "count": 1223
+      "count": 1223,
+      "dish": "Turkey",
+      "seed": "tyqb4bq7",
+      "setting": "Romantic",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -70,
       "start": "2023-09-04",
       "file": "archive/2023_36.json",
-      "count": 688
+      "count": 688,
+      "dish": "Breakfast",
+      "seed": "47gwr8bd",
+      "setting": "Romantic",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -69,
       "start": "2023-09-11",
       "file": "archive/2023_37.json",
-      "count": 504
+      "count": 504,
+      "dish": "Stir Fry",
+      "seed": "6dqbxmtq",
+      "setting": "Romantic",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -68,
       "start": "2023-09-18",
       "file": "archive/2023_38.json",
-      "count": 380
+      "count": 380,
+      "dish": "Salad",
+      "seed": "86w46y74",
+      "setting": "Country",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -67,
       "start": "2023-09-25",
       "file": "archive/2023_39.json",
-      "count": 662
+      "count": 662,
+      "dish": "Breakfast",
+      "seed": "qv4xqrxg",
+      "setting": "Romantic",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -66,
       "start": "2023-10-02",
       "file": "archive/2023_40.json",
-      "count": 306
+      "count": 306,
+      "dish": "Turkey",
+      "seed": "ghrqdtr8",
+      "setting": "Autumn",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -65,
       "start": "2023-10-09",
       "file": "archive/2023_41.json",
-      "count": 181
+      "count": 181,
+      "dish": "Burgers",
+      "seed": "db4ty7x3",
+      "setting": "Alpine",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -64,
       "start": "2023-10-16",
       "file": "archive/2023_42.json",
-      "count": 466
+      "count": 466,
+      "dish": "Salad",
+      "seed": "wv4jj437",
+      "setting": "Autumn",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -63,
       "start": "2023-10-23",
       "file": "archive/2023_43.json",
-      "count": 704
+      "count": 704,
+      "dish": "Stir Fry",
+      "seed": "8m8rtydt",
+      "setting": "Alpine",
+      "gameVersion": "1.1.7b"
     },
     {
       "week": -62,
       "start": "2023-10-30",
       "file": "archive/2023_44.json",
-      "count": 845
+      "count": 845,
+      "dish": "Breakfast",
+      "seed": "979w4r9b",
+      "setting": "Alpine",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -61,
       "start": "2023-11-06",
       "file": "archive/2023_45.json",
-      "count": 540
+      "count": 540,
+      "dish": "Fish",
+      "seed": "yq9639jx",
+      "setting": "Autumn",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -60,
       "start": "2023-11-13",
       "file": "archive/2023_46.json",
-      "count": 506
+      "count": 506,
+      "dish": "Burgers",
+      "seed": "yv3mx6mh",
+      "setting": "Autumn",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -59,
       "start": "2023-11-20",
       "file": "archive/2023_47.json",
-      "count": 770
+      "count": 770,
+      "dish": "Hot Dogs",
+      "seed": "8vy7gggq",
+      "setting": "City",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -58,
       "start": "2023-11-27",
       "file": "archive/2023_48.json",
-      "count": 294
+      "count": 294,
+      "dish": "Hot Dogs",
+      "seed": "7g8t7bw3",
+      "setting": "City",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -57,
       "start": "2023-12-04",
       "file": "archive/2023_49.json",
-      "count": 350
+      "count": 350,
+      "dish": "Hot Dogs",
+      "seed": "xmxq4y99",
+      "setting": "Country",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -56,
       "start": "2023-12-11",
       "file": "archive/2023_50.json",
-      "count": 503
+      "count": 503,
+      "dish": "Breakfast",
+      "seed": "t4tmhm8r",
+      "setting": "Alpine",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -55,
       "start": "2023-12-18",
       "file": "archive/2023_51.json",
-      "count": 552
+      "count": 552,
+      "dish": "Pizza",
+      "seed": "3dvqw344",
+      "setting": "Country",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -54,
       "start": "2023-12-25",
       "file": "archive/2023_52.json",
-      "count": 215
+      "count": 215,
+      "dish": "Salad",
+      "seed": "7vw9j3bx",
+      "setting": "Autumn",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -53,
       "start": "2024-01-01",
       "file": "archive/2024_01.json",
-      "count": 452
+      "count": 452,
+      "dish": "Breakfast",
+      "seed": "x97x9jqd",
+      "setting": "City",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -52,
       "start": "2024-01-08",
       "file": "archive/2024_02.json",
-      "count": 217
+      "count": 217,
+      "dish": "Stir Fry",
+      "seed": "4x4jvhxr",
+      "setting": "City",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -51,
       "start": "2024-01-15",
       "file": "archive/2024_03.json",
-      "count": 760
+      "count": 760,
+      "dish": "Turkey",
+      "seed": "w47my87x",
+      "setting": "Romantic",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -50,
       "start": "2024-01-22",
       "file": "archive/2024_04.json",
-      "count": 322
+      "count": 322,
+      "dish": "Hot Dogs",
+      "seed": "6ttmqt7x",
+      "setting": "Autumn",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -49,
       "start": "2024-01-29",
       "file": "archive/2024_05.json",
-      "count": 270
+      "count": 270,
+      "dish": "Breakfast",
+      "seed": "b4hvm7xm",
+      "setting": "Autumn",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -48,
       "start": "2024-02-05",
       "file": "archive/2024_06.json",
-      "count": 151
+      "count": 151,
+      "dish": "Burgers",
+      "seed": "tywg6jx7",
+      "setting": "Country",
+      "gameVersion": "1.1.8"
     },
     {
       "week": -47,
       "start": "2024-02-12",
       "file": "archive/2024_07.json",
-      "count": 495
+      "count": 495,
+      "dish": "Hot Dogs",
+      "seed": "bt9b86b9",
+      "setting": "Romantic",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -46,
       "start": "2024-02-19",
       "file": "archive/2024_08.json",
-      "count": 599
+      "count": 599,
+      "dish": "Salad",
+      "seed": "6t39w68t",
+      "setting": "Romantic",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -45,
       "start": "2024-02-26",
       "file": "archive/2024_09.json",
-      "count": 558
+      "count": 558,
+      "dish": "Breakfast",
+      "seed": "474wq44v",
+      "setting": "Alpine",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -44,
       "start": "2024-03-04",
       "file": "archive/2024_10.json",
-      "count": 568
+      "count": 568,
+      "dish": "Turkey",
+      "seed": "6x39vh93",
+      "setting": "Alpine",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -43,
       "start": "2024-03-11",
       "file": "archive/2024_11.json",
-      "count": 327
+      "count": 327,
+      "dish": "Hot Dogs",
+      "seed": "rbq838v4",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -42,
       "start": "2024-03-18",
       "file": "archive/2024_12.json",
-      "count": 248
+      "count": 248,
+      "dish": "Burgers",
+      "seed": "b64g6y3q",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -41,
       "start": "2024-03-25",
       "file": "archive/2024_13.json",
-      "count": 459
+      "count": 459,
+      "dish": "Stir Fry",
+      "seed": "v3gwgtr8",
+      "setting": "Alpine",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -40,
       "start": "2024-04-01",
       "file": "archive/2024_14.json",
-      "count": 286
+      "count": 286,
+      "dish": "Stir Fry",
+      "seed": "yg977t6r",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -39,
       "start": "2024-04-08",
       "file": "archive/2024_15.json",
-      "count": 770
+      "count": 770,
+      "dish": "Pizza",
+      "seed": "9gthbhq3",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -38,
       "start": "2024-04-15",
       "file": "archive/2024_16.json",
-      "count": 868
+      "count": 868,
+      "dish": "Turkey",
+      "seed": "8rbdr4vm",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -37,
       "start": "2024-04-22",
       "file": "archive/2024_17.json",
-      "count": 1005
+      "count": 1005,
+      "dish": "Fish",
+      "seed": "tgv34ydh",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -36,
       "start": "2024-04-29",
       "file": "archive/2024_18.json",
-      "count": 135
+      "count": 135,
+      "dish": "Burgers",
+      "seed": "qrmjg7j9",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -35,
       "start": "2024-05-06",
       "file": "archive/2024_19.json",
-      "count": 245
+      "count": 245,
+      "dish": "Breakfast",
+      "seed": "m47hjyvd",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -34,
       "start": "2024-05-13",
       "file": "archive/2024_20.json",
-      "count": 514
+      "count": 514,
+      "dish": "Pies",
+      "seed": "bdbwbbbm",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -33,
       "start": "2024-05-20",
       "file": "archive/2024_21.json",
-      "count": 477
+      "count": 477,
+      "dish": "Hot Dogs",
+      "seed": "69wydt93",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -32,
       "start": "2024-05-27",
       "file": "archive/2024_22.json",
-      "count": 1222
+      "count": 1222,
+      "dish": "Breakfast",
+      "seed": "wvbybgrv",
+      "setting": "City",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -31,
       "start": "2024-06-03",
       "file": "archive/2024_23.json",
-      "count": 920
+      "count": 920,
+      "dish": "Pies",
+      "seed": "myvhg93j",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -30,
       "start": "2024-06-10",
       "file": "archive/2024_24.json",
-      "count": 874
+      "count": 874,
+      "dish": "Turkey",
+      "seed": "3xgg3tqx",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -29,
       "start": "2024-06-17",
       "file": "archive/2024_25.json",
-      "count": 229
+      "count": 229,
+      "dish": "Burgers",
+      "seed": "dvtx43w9",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -28,
       "start": "2024-06-24",
       "file": "archive/2024_26.json",
-      "count": 245
+      "count": 245,
+      "dish": "Burgers",
+      "seed": "6j8g9ggm",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -27,
       "start": "2024-07-01",
       "file": "archive/2024_27.json",
-      "count": 340
+      "count": 340,
+      "dish": "Salad",
+      "seed": "99rwy4tj",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -26,
       "start": "2024-07-08",
       "file": "archive/2024_28.json",
-      "count": 483
+      "count": 483,
+      "dish": "Breakfast",
+      "seed": "h4bg8qvt",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -25,
       "start": "2024-07-15",
       "file": "archive/2024_29.json",
-      "count": 726
+      "count": 726,
+      "dish": "Breakfast",
+      "seed": "dq47hyxg",
+      "setting": "Romantic",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -24,
       "start": "2024-07-22",
       "file": "archive/2024_30.json",
-      "count": 314
+      "count": 314,
+      "dish": "Breakfast",
+      "seed": "876vdm6h",
+      "setting": "Country",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -23,
       "start": "2024-07-29",
       "file": "archive/2024_31.json",
-      "count": 251
+      "count": 251,
+      "dish": "Pizza",
+      "seed": "gvtjyjg3",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -22,
       "start": "2024-08-05",
       "file": "archive/2024_32.json",
-      "count": 311
+      "count": 311,
+      "dish": "Stir Fry",
+      "seed": "w44wjwvw",
+      "setting": "Autumn",
+      "gameVersion": "1.1.9"
     },
     {
       "week": -21,
       "start": "2024-08-12",
       "file": "archive/2024_33.json",
-      "count": 598
+      "count": 598,
+      "dish": "Pizza",
+      "seed": "wjh7qh7t",
+      "setting": "Country",
+      "gameVersion": "1.2.0"
     },
     {
       "week": -20,
       "start": "2024-08-19",
       "file": "archive/2024_34.json",
-      "count": 605
+      "count": 605,
+      "dish": "Burgers",
+      "seed": "xx87bdtv",
+      "setting": "Romantic",
+      "gameVersion": "1.2.0"
     },
     {
       "week": -19,
       "start": "2024-08-26",
       "file": "archive/2024_35.json",
-      "count": 320
+      "count": 320,
+      "dish": "Hot Dogs",
+      "seed": "xjtbrhqt",
+      "setting": "Alpine",
+      "gameVersion": "1.2.0"
     },
     {
       "week": -18,
       "start": "2024-09-02",
       "file": "archive/2024_36.json",
-      "count": 847
+      "count": 847,
+      "dish": "Fish",
+      "seed": "w74vqytw",
+      "setting": "Romantic",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -17,
       "start": "2024-09-09",
       "file": "archive/2024_37.json",
-      "count": 402
+      "count": 402,
+      "dish": "Hot Dogs",
+      "seed": "bwdjxxv8",
+      "setting": "City",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -16,
       "start": "2024-09-16",
       "file": "archive/2024_38.json",
-      "count": 739
+      "count": 739,
+      "dish": "Pies",
+      "seed": "m3qw3xwy",
+      "setting": "Alpine",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -15,
       "start": "2024-09-23",
       "file": "archive/2024_39.json",
-      "count": 612
+      "count": 612,
+      "dish": "Fish",
+      "seed": "8jgtgd7h",
+      "setting": "Autumn",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -14,
       "start": "2024-09-30",
       "file": "archive/2024_40.json",
-      "count": 365
+      "count": 365,
+      "dish": "Salad",
+      "seed": "djdqbw78",
+      "setting": "Country",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -13,
       "start": "2024-10-07",
       "file": "archive/2024_41.json",
-      "count": 347
+      "count": 347,
+      "dish": "Hot Dogs",
+      "seed": "jtm88398",
+      "setting": "Alpine",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -12,
       "start": "2024-10-14",
       "file": "archive/2024_42.json",
-      "count": 309
+      "count": 309,
+      "dish": "Breakfast",
+      "seed": "xytgbhyb",
+      "setting": "Country",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -11,
       "start": "2024-10-21",
       "file": "archive/2024_43.json",
-      "count": 207
+      "count": 207,
+      "dish": "Burgers",
+      "seed": "qbthm96r",
+      "setting": "Country",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -10,
       "start": "2024-10-28",
       "file": "archive/2024_44.json",
-      "count": 297
+      "count": 297,
+      "dish": "Stir Fry",
+      "seed": "d4v9y9mt",
+      "setting": "Autumn",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -9,
       "start": "2024-11-04",
       "file": "archive/2024_45.json",
-      "count": 205
+      "count": 205,
+      "dish": "Stir Fry",
+      "seed": "698gqb37",
+      "setting": "City",
+      "gameVersion": "1.2.0b"
     },
     {
       "week": -8,
       "start": "2024-11-11",
       "file": "archive/2024_46.json",
-      "count": 500
+      "count": 500,
+      "dish": "Stir Fry",
+      "seed": "xdqxrxj3",
+      "setting": "City",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -7,
       "start": "2024-11-18",
       "file": "archive/2024_47.json",
-      "count": 351
+      "count": 351,
+      "dish": "Breakfast",
+      "seed": "b69gwxj7",
+      "setting": "Alpine",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -6,
       "start": "2024-11-25",
       "file": "archive/2024_48.json",
-      "count": 736
+      "count": 736,
+      "dish": "Breakfast",
+      "seed": "brdh8gjy",
+      "setting": "Country",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -5,
       "start": "2024-12-02",
       "file": "archive/2024_49.json",
-      "count": 636
+      "count": 636,
+      "dish": "Pizza",
+      "seed": "xhy74b83",
+      "setting": "Romantic",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -4,
       "start": "2024-12-09",
       "file": "archive/2024_50.json",
-      "count": 545
+      "count": 545,
+      "dish": "Pies",
+      "seed": "bqq3m6tm",
+      "setting": "Country",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -3,
       "start": "2024-12-16",
       "file": "archive/2024_51.json",
-      "count": 656
+      "count": 656,
+      "dish": "Turkey",
+      "seed": "gvygwxh8",
+      "setting": "City",
+      "gameVersion": "1.2.0c"
     },
     {
       "week": -2,
       "start": "2024-12-23",
       "file": "archive/2024_52.json",
-      "count": 449
+      "count": 449,
+      "dish": "Pizza",
+      "seed": "884t8mry",
+      "setting": "City",
+      "gameVersion": "1.2.1"
     },
     {
       "week": -1,
       "start": "2024-12-30",
       "file": "archive/2025_01.json",
-      "count": 226
+      "count": 226,
+      "dish": "Breakfast",
+      "seed": "7j3x4wmq",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 0,
       "start": "2025-01-06",
       "file": "archive/2025_02.json",
-      "count": 526
+      "count": 526,
+      "dish": "Stir Fry",
+      "seed": "t849j343",
+      "setting": "Country",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 1,
       "start": "2025-01-13",
       "file": "archive/2025_03.json",
-      "count": 487
+      "count": 487,
+      "dish": "Pies",
+      "seed": "gw93d6th",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 2,
       "start": "2025-01-20",
       "file": "archive/2025_04.json",
-      "count": 480
+      "count": 480,
+      "dish": "Breakfast",
+      "seed": "47hyqqqq",
+      "setting": "City",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 3,
       "start": "2025-01-27",
       "file": "archive/2025_05.json",
-      "count": 826
+      "count": 826,
+      "dish": "Fish",
+      "seed": "trm86w8g",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 4,
       "start": "2025-02-03",
       "file": "archive/2025_06.json",
-      "count": 480
+      "count": 480,
+      "dish": "Breakfast",
+      "seed": "64jb8qgg",
+      "setting": "Country",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 5,
       "start": "2025-02-10",
       "file": "archive/2025_07.json",
-      "count": 572
+      "count": 572,
+      "dish": "Breakfast",
+      "seed": "dhv8vgvr",
+      "setting": "Country",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 6,
       "start": "2025-02-17",
       "file": "archive/2025_08.json",
-      "count": 433
+      "count": 433,
+      "dish": "Breakfast",
+      "seed": "dmqddx78",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1"
     },
     {
       "week": 7,
       "start": "2025-02-24",
       "file": "archive/2025_09.json",
-      "count": 456
+      "count": 456,
+      "dish": "Fish",
+      "seed": "7ht46tgb",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 8,
       "start": "2025-03-03",
       "file": "archive/2025_10.json",
-      "count": 981
+      "count": 981,
+      "dish": "Fish",
+      "seed": "bjw8ygvx",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 9,
       "start": "2025-03-10",
       "file": "archive/2025_11.json",
-      "count": 535
+      "count": 535,
+      "dish": "Breakfast",
+      "seed": "qb839947",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 10,
       "start": "2025-03-17",
       "file": "archive/2025_12.json",
-      "count": 329
+      "count": 329,
+      "dish": "Hot Dogs",
+      "seed": "y4d8jq6w",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 11,
       "start": "2025-03-24",
       "file": "archive/2025_13.json",
-      "count": 302
+      "count": 302,
+      "dish": "Salad",
+      "seed": "yq9bhbt4",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 12,
       "start": "2025-03-31",
       "file": "archive/2025_14.json",
-      "count": 543
+      "count": 543,
+      "dish": "Turkey",
+      "seed": "rt3q93vw",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 13,
       "start": "2025-04-07",
       "file": "archive/2025_15.json",
-      "count": 821
+      "count": 821,
+      "dish": "Turkey",
+      "seed": "yhdtq4vm",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 14,
       "start": "2025-04-14",
       "file": "archive/2025_16.json",
-      "count": 367
+      "count": 367,
+      "dish": "Hot Dogs",
+      "seed": "x9w7d79m",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 15,
       "start": "2025-04-21",
       "file": "archive/2025_17.json",
-      "count": 710
+      "count": 710,
+      "dish": "Turkey",
+      "seed": "3797drdw",
+      "setting": "Country",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 16,
       "start": "2025-04-28",
       "file": "archive/2025_18.json",
-      "count": 577
+      "count": 577,
+      "dish": "Stir Fry",
+      "seed": "b68vvhtg",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 17,
       "start": "2025-05-05",
       "file": "archive/2025_19.json",
-      "count": 296
+      "count": 296,
+      "dish": "Pizza",
+      "seed": "w9b6x43y",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 18,
       "start": "2025-05-12",
       "file": "archive/2025_20.json",
-      "count": 336
+      "count": 336,
+      "dish": "Hot Dogs",
+      "seed": "yqy6vq9x",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 19,
       "start": "2025-05-19",
       "file": "archive/2025_21.json",
-      "count": 451
+      "count": 451,
+      "dish": "Pizza",
+      "seed": "69jrwr6q",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 20,
       "start": "2025-05-26",
       "file": "archive/2025_22.json",
-      "count": 994
+      "count": 994,
+      "dish": "Turkey",
+      "seed": "wrw3jwqr",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 21,
       "start": "2025-06-02",
       "file": "archive/2025_23.json",
-      "count": 516
+      "count": 516,
+      "dish": "Burgers",
+      "seed": "j3rqx3bg",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 22,
       "start": "2025-06-09",
       "file": "archive/2025_24.json",
-      "count": 330
+      "count": 330,
+      "dish": "Breakfast",
+      "seed": "6xw7qj7g",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 23,
       "start": "2025-06-16",
       "file": "archive/2025_25.json",
-      "count": 595
+      "count": 595,
+      "dish": "Turkey",
+      "seed": "xhqg6tdh",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 24,
       "start": "2025-06-23",
       "file": "archive/2025_26.json",
-      "count": 587
+      "count": 587,
+      "dish": "Pies",
+      "seed": "97rr6yy8",
+      "setting": "Alpine",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 25,
       "start": "2025-06-30",
       "file": "archive/2025_27.json",
-      "count": 240
+      "count": 240,
+      "dish": "Stir Fry",
+      "seed": "9j3b4x4x",
+      "setting": "City",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 26,
       "start": "2025-07-07",
       "file": "archive/2025_28.json",
-      "count": 424
+      "count": 424,
+      "dish": "Pizza",
+      "seed": "x7b76xww",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 27,
       "start": "2025-07-14",
       "file": "archive/2025_29.json",
-      "count": 319
+      "count": 319,
+      "dish": "Breakfast",
+      "seed": "6xxhghr3",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 28,
       "start": "2025-07-21",
       "file": "archive/2025_30.json",
-      "count": 405
+      "count": 405,
+      "dish": "Turkey",
+      "seed": "xd9drdyq",
+      "setting": "Country",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 29,
       "start": "2025-07-28",
       "file": "archive/2025_31.json",
-      "count": 203
+      "count": 203,
+      "dish": "Breakfast",
+      "seed": "d89b7r8q",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 30,
       "start": "2025-08-04",
       "file": "archive/2025_32.json",
-      "count": 531
+      "count": 531,
+      "dish": "Breakfast",
+      "seed": "h3ymwgtr",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 31,
       "start": "2025-08-11",
       "file": "archive/2025_33.json",
-      "count": 635
+      "count": 635,
+      "dish": "Fish",
+      "seed": "776mtx97",
+      "setting": "Country",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 32,
       "start": "2025-08-18",
       "file": "archive/2025_34.json",
-      "count": 423
+      "count": 423,
+      "dish": "Pies",
+      "seed": "yytwjmxq",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 33,
       "start": "2025-08-25",
       "file": "archive/2025_35.json",
-      "count": 313
+      "count": 313,
+      "dish": "Hot Dogs",
+      "seed": "tdxvr7xx",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 34,
       "start": "2025-09-01",
       "file": "archive/2025_36.json",
-      "count": 501
+      "count": 501,
+      "dish": "Stir Fry",
+      "seed": "hrg9q7vy",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 35,
       "start": "2025-09-08",
       "file": "archive/2025_37.json",
-      "count": 414
+      "count": 414,
+      "dish": "Fish",
+      "seed": "d6ymqyqx",
+      "setting": "Romantic",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 36,
       "start": "2025-09-15",
       "file": "archive/2025_38.json",
-      "count": 472
+      "count": 472,
+      "dish": "Fish",
+      "seed": "t7y664xq",
+      "setting": "Country",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 37,
       "start": "2025-09-22",
       "file": "archive/2025_39.json",
-      "count": 274
+      "count": 274,
+      "dish": "Burgers",
+      "seed": "66mrbb7w",
+      "setting": "Autumn",
+      "gameVersion": "1.2.1a"
     },
     {
       "week": 38,
       "start": "2025-09-29",
       "file": "archive/2025_40.json",
-      "count": 539
+      "count": 539,
+      "dish": "Pies",
+      "seed": "b3myqqb9",
+      "setting": "City",
+      "gameVersion": "1.3.0-67F5"
     },
     {
       "week": 39,
       "start": "2025-10-06",
       "file": "archive/2025_41.json",
-      "count": 382
+      "count": 382,
+      "dish": "Stir Fry",
+      "seed": "mt4xq86b",
+      "setting": "Autumn",
+      "gameVersion": "1.3.0-67F5"
     },
     {
       "week": 40,
       "start": "2025-10-13",
       "file": "archive/2025_42.json",
-      "count": 306
+      "count": 306,
+      "dish": "Hot Dogs",
+      "seed": "7dmw33y6",
+      "setting": "Alpine",
+      "gameVersion": "1.3.0-67F5"
     },
     {
       "week": 41,
       "start": "2025-10-20",
       "file": "archive/2025_43.json",
-      "count": 746
+      "count": 746,
+      "dish": "Turkey",
+      "seed": "gr8gxvh8",
+      "setting": "Alpine",
+      "gameVersion": "1.3.0-67F5"
     },
     {
       "week": 42,
       "start": "2025-10-27",
       "file": "archive/2025_44.json",
-      "count": 252
+      "count": 252,
+      "dish": "Hot Dogs",
+      "seed": "r4yvyj8q",
+      "setting": "Alpine",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 43,
       "start": "2025-11-03",
       "file": "archive/2025_45.json",
-      "count": 786
+      "count": 786,
+      "dish": "Fish",
+      "seed": "86vyx9d7",
+      "setting": "Alpine",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 44,
       "start": "2025-11-10",
       "file": "archive/2025_46.json",
-      "count": 518
+      "count": 518,
+      "dish": "Breakfast",
+      "seed": "bhq669rq",
+      "setting": "Country",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 45,
       "start": "2025-11-17",
       "file": "archive/2025_47.json",
-      "count": 245
+      "count": 245,
+      "dish": "Salad",
+      "seed": "bhqy368j",
+      "setting": "Alpine",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 46,
       "start": "2025-11-24",
       "file": "archive/2025_48.json",
-      "count": 621
+      "count": 621,
+      "dish": "Pizza",
+      "seed": "6764h6yr",
+      "setting": "Country",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 47,
       "start": "2025-12-01",
       "file": "archive/2025_49.json",
-      "count": 407
+      "count": 407,
+      "dish": "Pizza",
+      "seed": "3gt79m8v",
+      "setting": "Autumn",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 48,
       "start": "2025-12-08",
       "file": "weeks/0000_48.json",
-      "count": 230
+      "count": 230,
+      "dish": "Pizza",
+      "seed": "rxrwyxy6",
+      "setting": "Romantic",
+      "gameVersion": "1.3.1-261C"
     },
     {
       "week": 49,
       "start": "2025-12-15",
       "file": "weeks/0000_49.json",
-      "count": 179
+      "count": 179,
+      "dish": "Burgers",
+      "seed": "dywr67mg",
+      "setting": "Country",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 50,
       "start": "2025-12-22",
       "file": "weeks/0000_50.json",
-      "count": 294
+      "count": 294,
+      "dish": "Stir Fry",
+      "seed": "hy3xr66b",
+      "setting": "Country",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 51,
       "start": "2025-12-29",
       "file": "weeks/0000_51.json",
-      "count": 403
+      "count": 403,
+      "dish": "Salad",
+      "seed": "jhgr64wg",
+      "setting": "Autumn",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 52,
       "start": "2026-01-05",
       "file": "weeks/0000_52.json",
-      "count": 706
+      "count": 706,
+      "dish": "Fish",
+      "seed": "dbh7b7hm",
+      "setting": "Country",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 53,
       "start": "2026-01-12",
       "file": "weeks/0000_53.json",
-      "count": 508
+      "count": 508,
+      "dish": "Pies",
+      "seed": "6r9dwbr3",
+      "setting": "Romantic",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 54,
       "start": "2026-01-19",
       "file": "weeks/0000_54.json",
-      "count": 343
+      "count": 343,
+      "dish": "Burgers",
+      "seed": "ywwv6qg6",
+      "setting": "Romantic",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 55,
       "start": "2026-01-26",
       "file": "weeks/0000_55.json",
-      "count": 399
+      "count": 399,
+      "dish": "Stir Fry",
+      "seed": "t86m77b4",
+      "setting": "Autumn",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 56,
       "start": "2026-02-02",
       "file": "weeks/0000_56.json",
-      "count": 947
+      "count": 947,
+      "dish": "Sundaes",
+      "seed": "h44x7qmh",
+      "setting": "City",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 57,
       "start": "2026-02-09",
       "file": "weeks/0000_57.json",
-      "count": 569
+      "count": 569,
+      "dish": "Salad",
+      "seed": "6jtdhrvj",
+      "setting": "City",
+      "gameVersion": "1.4.1-1D94"
     },
     {
       "week": 58,
       "start": "2026-02-16",
       "file": "weeks/0000_58.json",
-      "count": 690
+      "count": 690,
+      "dish": "Turkey",
+      "seed": "dr89tvj8",
+      "setting": "City",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 59,
       "start": "2026-02-23",
       "file": "weeks/0000_59.json",
-      "count": 443
+      "count": 443,
+      "dish": "Salad",
+      "seed": "tyx8b4gv",
+      "setting": "Romantic",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 60,
       "start": "2026-03-02",
       "file": "weeks/0000_60.json",
-      "count": 438
+      "count": 438,
+      "dish": "Burgers",
+      "seed": "mh98thvm",
+      "setting": "Romantic",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 61,
       "start": "2026-03-09",
       "file": "weeks/0000_61.json",
-      "count": 377
+      "count": 377,
+      "dish": "Hot Dogs",
+      "seed": "t68qt6d6",
+      "setting": "Alpine",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 62,
       "start": "2026-03-16",
       "file": "weeks/0000_62.json",
-      "count": 664
+      "count": 664,
+      "dish": "Pies",
+      "seed": "hgmt9q94",
+      "setting": "Country",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 63,
       "start": "2026-03-23",
       "file": "weeks/0000_63.json",
-      "count": 771
+      "count": 771,
+      "dish": "Pizza",
+      "seed": "r93vgttg",
+      "setting": "City",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 64,
       "start": "2026-03-30",
       "file": "weeks/0000_64.json",
-      "count": 994
+      "count": 994,
+      "dish": "Sundaes",
+      "seed": "b3jxwmqm",
+      "setting": "Country",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 65,
       "start": "2026-04-06",
       "file": "weeks/0000_65.json",
-      "count": 417
+      "count": 417,
+      "dish": "Pizza",
+      "seed": "7g8rdwqq",
+      "setting": "Alpine",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 66,
@@ -1009,7 +1617,8 @@
       "count": 444,
       "dish": "Breakfast",
       "seed": "qm4qmrgt",
-      "setting": "Country"
+      "setting": "Country",
+      "gameVersion": "1.4.2-6A63"
     },
     {
       "week": 67,
@@ -1018,7 +1627,8 @@
       "count": 365,
       "dish": "Hot Dogs",
       "seed": "4mdyhq48",
-      "setting": "Alpine"
+      "setting": "Alpine",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 68,
@@ -1027,7 +1637,8 @@
       "count": 566,
       "dish": "Turkey",
       "seed": "bqmbw48b",
-      "setting": "City"
+      "setting": "City",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 69,
@@ -1036,7 +1647,8 @@
       "count": 304,
       "dish": "Burgers",
       "seed": "9qr7rbyt",
-      "setting": "Country"
+      "setting": "Country",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 70,
@@ -1045,7 +1657,8 @@
       "count": 360,
       "dish": "Hot Dogs",
       "seed": "xb3x7966",
-      "setting": "Country"
+      "setting": "Country",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 71,
@@ -1054,7 +1667,8 @@
       "count": 499,
       "dish": "Pizza",
       "seed": "9wwqbbb9",
-      "setting": "City"
+      "setting": "City",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 72,
@@ -1063,7 +1677,8 @@
       "count": 458,
       "dish": "Breakfast",
       "seed": "dyt8q63b",
-      "setting": "City"
+      "setting": "City",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 73,
@@ -1072,7 +1687,8 @@
       "count": 298,
       "dish": "Burgers",
       "seed": "9q8rh836",
-      "setting": "Alpine"
+      "setting": "Alpine",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 74,
@@ -1081,7 +1697,8 @@
       "count": 338,
       "dish": "Breakfast",
       "seed": "v3hd77jh",
-      "setting": "Romantic"
+      "setting": "Romantic",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 75,
@@ -1090,7 +1707,8 @@
       "count": 380,
       "dish": "Pies",
       "seed": "t3g8wyw9",
-      "setting": "Community"
+      "setting": "Autumn",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 76,
@@ -1099,7 +1717,8 @@
       "count": 215,
       "dish": "Salad",
       "seed": "ywh8y7db",
-      "setting": "Community"
+      "setting": "Autumn",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 77,
@@ -1108,7 +1727,8 @@
       "count": 509,
       "dish": "Sundaes",
       "seed": "qr3jwxyy",
-      "setting": "Community"
+      "setting": "Autumn",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 78,
@@ -1117,7 +1737,8 @@
       "count": 392,
       "dish": "Hot Dogs",
       "seed": "dt76r9bb",
-      "setting": "Country"
+      "setting": "Country",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 79,
@@ -1126,7 +1747,8 @@
       "count": 274,
       "dish": "Salad",
       "seed": "mt8m38r3",
-      "setting": "Autumn"
+      "setting": "Autumn",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 80,
@@ -1135,7 +1757,8 @@
       "count": 447,
       "dish": "Pizza",
       "seed": "74bjwrqx",
-      "setting": "Date Night"
+      "setting": "Romantic",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 81,
@@ -1144,7 +1767,8 @@
       "count": 319,
       "dish": "Pizza",
       "seed": "y8yj78rj",
-      "setting": "City"
+      "setting": "City",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 82,
@@ -1153,7 +1777,8 @@
       "count": 662,
       "dish": "Pizza",
       "seed": "bhx9vwj4",
-      "setting": "Alpine"
+      "setting": "Alpine",
+      "gameVersion": "1.4.3-FF8F"
     },
     {
       "week": 83,
@@ -1163,7 +1788,7 @@
       "dish": "Sundaes",
       "seed": "7tdjh3xw",
       "setting": "Alpine",
-      "gameVersion": "1.5.2-7473"
+      "gameVersion": "1.5.0-6AF7"
     },
     {
       "week": 84,
@@ -1199,7 +1824,7 @@
       "week": 87,
       "start": "2026-09-07",
       "file": "weeks/0000_87.json",
-      "count": 210,
+      "count": 226,
       "dish": "Fajitas",
       "seed": "dvhwybdh",
       "setting": "City",

@@ -4,7 +4,7 @@
   "names": [
     "\u0022saber\u0022 tooth duck"
   ],
-  "runs": 157,
+  "runs": 158,
   "bestRank": 3,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -168,7 +168,8 @@
     79,
     80,
     84,
-    85
+    85,
+    87
   ],
   "history": [
     {
@@ -1269,6 +1270,13 @@
       "rank": 16,
       "ms": 1524821,
       "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 24,
+      "ms": 2294906,
+      "dish": "Fajitas"
     }
   ]
 }

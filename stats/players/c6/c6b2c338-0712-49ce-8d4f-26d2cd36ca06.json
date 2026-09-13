@@ -4,7 +4,7 @@
   "names": [
     "motman"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 17,
   "worstRank": 264,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     76,
     80,
     81,
-    83
+    83,
+    87
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 17,
       "ms": 1076682,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 134,
+      "ms": 3780753,
+      "dish": "Fajitas"
     }
   ]
 }

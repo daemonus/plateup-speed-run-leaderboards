@@ -4,7 +4,7 @@
   "names": [
     "Kava"
   ],
-  "runs": 100,
+  "runs": 101,
   "bestRank": 16,
   "worstRank": 1319,
   "firstPlaces": 0,
@@ -111,7 +111,8 @@
     83,
     84,
     85,
-    86
+    86,
+    87
   ],
   "history": [
     {
@@ -813,6 +814,13 @@
       "rank": 100,
       "ms": 1656382,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 66,
+      "ms": 3038516,
+      "dish": "Fajitas"
     }
   ]
 }

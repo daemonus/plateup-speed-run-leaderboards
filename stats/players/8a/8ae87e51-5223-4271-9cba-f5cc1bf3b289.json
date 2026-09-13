@@ -4,7 +4,7 @@
   "names": [
     "Da Muffin Broad"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 9,
   "worstRank": 473,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     -41,
     -37,
     -35,
-    84
+    84,
+    87
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 45,
       "ms": 1208400,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 49,
+      "ms": 2898355,
+      "dish": "Fajitas"
     }
   ]
 }
