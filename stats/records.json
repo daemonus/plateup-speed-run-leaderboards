@@ -1,30 +1,6 @@
 {
   "fastest": [
     {
-      "id": "85c491a1-6644-4050-9c82-ee194a8994bb",
-      "persona": "it\u0027s happening",
-      "ms": 123,
-      "week": 21,
-      "rank": 1,
-      "dish": "Burgers"
-    },
-    {
-      "id": "d59f6098-8013-4e7f-9213-f12c123d6e7a",
-      "persona": "Holy roll-me-over-in-the-clover",
-      "ms": 10000,
-      "week": -95,
-      "rank": 1,
-      "dish": "Pies"
-    },
-    {
-      "id": "f35b6e33-ae1d-4fa6-9a91-38972a089f8a",
-      "persona": "SamiQuick",
-      "ms": 47263,
-      "week": -79,
-      "rank": 1,
-      "dish": "Pies"
-    },
-    {
       "id": "f8ae67fc-d2bb-4e35-8716-dbbbf6179f74",
       "persona": "niumikus",
       "ms": 128080,
@@ -199,6 +175,30 @@
       "week": 84,
       "rank": 9,
       "dish": "Sundaes"
+    },
+    {
+      "id": "d3cb9d6b-151e-49af-9547-0cc53179ef4b",
+      "persona": "\u3089\u3063\u3053",
+      "ms": 865417,
+      "week": 56,
+      "rank": 3,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "8d2f9470-eab1-4fd7-beec-76755d1b347b",
+      "persona": "Quadse",
+      "ms": 867957,
+      "week": 84,
+      "rank": 12,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "17d95185-d896-4ad0-96a6-1e7f2fe3c714",
+      "persona": "bananaweewoo",
+      "ms": 871640,
+      "week": 84,
+      "rank": 13,
+      "dish": "Sundaes"
     }
   ],
   "mostFirstPlaces": [
@@ -293,11 +293,6 @@
       "count": 4
     },
     {
-      "id": "85c491a1-6644-4050-9c82-ee194a8994bb",
-      "persona": "it\u0027s happening",
-      "count": 3
-    },
-    {
       "id": "726f087a-88a2-439c-8de2-7934aa186a4f",
       "persona": "HydraBurrito",
       "count": 2
@@ -325,6 +320,11 @@
     {
       "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
       "persona": "spuff",
+      "count": 1
+    },
+    {
+      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
+      "persona": "ducttapegirl369",
       "count": 1
     }
   ],
