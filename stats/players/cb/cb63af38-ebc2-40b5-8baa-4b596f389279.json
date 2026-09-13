@@ -4,7 +4,7 @@
   "names": [
     "niceDragon"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 33,
   "worstRank": 353,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -72,
     -71,
     78,
-    80
+    80,
+    87
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 314,
       "ms": 4102524,
       "dish": "Pizza"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 116,
+      "ms": 3502736,
+      "dish": "Fajitas"
     }
   ]
 }

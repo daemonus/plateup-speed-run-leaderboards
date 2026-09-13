@@ -4,7 +4,7 @@
   "names": [
     "Juice-tiss"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 78,
   "worstRank": 210,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     67,
     80,
     81,
-    83
+    83,
+    87
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 210,
       "ms": 2045757,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 108,
+      "ms": 3425243,
+      "dish": "Fajitas"
     }
   ]
 }

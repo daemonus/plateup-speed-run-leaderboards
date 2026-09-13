@@ -4,8 +4,8 @@
   "names": [
     "Charliebonce"
   ],
-  "runs": 2,
-  "bestRank": 249,
+  "runs": 3,
+  "bestRank": 228,
   "worstRank": 273,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3781281,
   "weeksActive": [
     73,
-    80
+    80,
+    87
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 273,
       "ms": 3781281,
       "dish": "Pizza"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 228,
+      "ms": 5965334,
+      "dish": "Fajitas"
     }
   ]
 }

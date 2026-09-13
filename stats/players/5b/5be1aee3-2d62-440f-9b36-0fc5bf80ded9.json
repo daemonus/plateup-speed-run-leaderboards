@@ -4,7 +4,7 @@
   "names": [
     "randomdent"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 22,
   "worstRank": 415,
   "firstPlaces": 0,
@@ -41,7 +41,8 @@
     78,
     81,
     84,
-    85
+    85,
+    87
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 74,
       "ms": 2269971,
       "dish": "Fish"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 66,
+      "ms": 3027875,
+      "dish": "Fajitas"
     }
   ]
 }

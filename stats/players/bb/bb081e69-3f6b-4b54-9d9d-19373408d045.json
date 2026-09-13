@@ -4,7 +4,7 @@
   "names": [
     "kemarie13"
   ],
-  "runs": 49,
+  "runs": 50,
   "bestRank": 5,
   "worstRank": 514,
   "firstPlaces": 0,
@@ -60,7 +60,8 @@
     83,
     84,
     85,
-    86
+    86,
+    87
   ],
   "history": [
     {
@@ -405,6 +406,13 @@
       "rank": 25,
       "ms": 1021834,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 146,
+      "ms": 3841611,
+      "dish": "Fajitas"
     }
   ]
 }

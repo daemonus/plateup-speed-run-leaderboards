@@ -4,7 +4,7 @@
   "names": [
     "\u66B4\u8E81\u9ED1\u59B9\uFF08\u53CC\u6D4B\u8BF7\uFF0B\u6211\u4E00\u8D77\u73A9\uFF01"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 36,
   "worstRank": 229,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     83,
     84,
     85,
-    86
+    86,
+    87
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 229,
       "ms": 2322931,
       "dish": "Sundaes"
+    },
+    {
+      "week": 87,
+      "start": "2026-09-07",
+      "rank": 141,
+      "ms": 3775680,
+      "dish": "Fajitas"
     }
   ]
 }
