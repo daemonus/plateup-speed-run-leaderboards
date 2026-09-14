@@ -4,12 +4,12 @@
   "names": [
     "[rpx]candy"
   ],
-  "runs": 68,
+  "runs": 69,
   "bestRank": 1,
   "worstRank": 208,
-  "firstPlaces": 5,
-  "top3": 14,
-  "top10": 25,
+  "firstPlaces": 6,
+  "top3": 15,
+  "top10": 26,
   "bestMs": 522066,
   "weeksActive": [
     8,
@@ -79,7 +79,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -557,6 +558,13 @@
       "rank": 4,
       "ms": 1303151,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 1,
+      "ms": 1004788,
+      "dish": "Pies"
     }
   ]
 }

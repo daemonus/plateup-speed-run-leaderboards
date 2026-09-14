@@ -4,8 +4,8 @@
   "names": [
     "lauralouise93"
   ],
-  "runs": 3,
-  "bestRank": 148,
+  "runs": 4,
+  "bestRank": 24,
   "worstRank": 448,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     78,
     79,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 448,
       "ms": 3083026,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 24,
+      "ms": 4173079,
+      "dish": "Pies"
     }
   ]
 }
