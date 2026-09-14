@@ -4,12 +4,12 @@
   "names": [
     "Feudal Lard"
   ],
-  "runs": 80,
-  "bestRank": 40,
+  "runs": 81,
+  "bestRank": 7,
   "worstRank": 357,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1415999,
   "weeksActive": [
     -5,
@@ -91,7 +91,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -653,6 +654,13 @@
       "rank": 67,
       "ms": 3029912,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 7,
+      "ms": 2397395,
+      "dish": "Pies"
     }
   ]
 }

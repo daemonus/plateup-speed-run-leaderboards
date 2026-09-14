@@ -4,8 +4,8 @@
   "names": [
     "gschir2"
   ],
-  "runs": 8,
-  "bestRank": 29,
+  "runs": 9,
+  "bestRank": 12,
   "worstRank": 304,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     68,
     71,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 29,
       "ms": 2425142,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 12,
+      "ms": 2701447,
+      "dish": "Pies"
     }
   ]
 }

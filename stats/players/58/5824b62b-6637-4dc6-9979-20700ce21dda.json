@@ -4,12 +4,12 @@
   "names": [
     "cathyisvu"
   ],
-  "runs": 27,
-  "bestRank": 37,
+  "runs": 28,
+  "bestRank": 1,
   "worstRank": 259,
-  "firstPlaces": 0,
-  "top3": 0,
-  "top10": 0,
+  "firstPlaces": 1,
+  "top3": 1,
+  "top10": 1,
   "bestMs": 1139435,
   "weeksActive": [
     60,
@@ -38,7 +38,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 88,
       "ms": 3221672,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 1,
+      "ms": 2087562,
+      "dish": "Pies"
     }
   ]
 }

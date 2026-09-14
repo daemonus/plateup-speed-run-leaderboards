@@ -4,8 +4,8 @@
   "names": [
     "Petalcaster"
   ],
-  "runs": 154,
-  "bestRank": 49,
+  "runs": 155,
+  "bestRank": 21,
   "worstRank": 1571,
   "firstPlaces": 0,
   "top3": 0,
@@ -165,7 +165,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -1245,6 +1246,13 @@
       "rank": 110,
       "ms": 3454158,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 21,
+      "ms": 3817289,
+      "dish": "Pies"
     }
   ]
 }

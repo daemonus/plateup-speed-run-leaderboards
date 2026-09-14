@@ -4,12 +4,12 @@
   "names": [
     "Flat"
   ],
-  "runs": 160,
-  "bestRank": 15,
+  "runs": 161,
+  "bestRank": 8,
   "worstRank": 854,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1360555,
   "weeksActive": [
     -93,
@@ -171,7 +171,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -1293,6 +1294,13 @@
       "rank": 55,
       "ms": 2956894,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 8,
+      "ms": 2398601,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "ToasterDruedle"
   ],
-  "runs": 5,
-  "bestRank": 485,
+  "runs": 6,
+  "bestRank": 27,
   "worstRank": 924,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -3,
     56,
     57,
-    58
+    58,
+    88
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 548,
       "ms": 4391202,
       "dish": "Turkey"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 27,
+      "ms": 6011198,
+      "dish": "Pies"
     }
   ]
 }

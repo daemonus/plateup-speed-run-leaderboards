@@ -4,8 +4,8 @@
   "names": [
     "rosicadea"
   ],
-  "runs": 6,
-  "bestRank": 118,
+  "runs": 7,
+  "bestRank": 20,
   "worstRank": 686,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     80,
     83,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 121,
       "ms": 1746896,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 20,
+      "ms": 3774848,
+      "dish": "Pies"
     }
   ]
 }

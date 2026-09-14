@@ -4,8 +4,8 @@
   "names": [
     "gracefulwhirl"
   ],
-  "runs": 50,
-  "bestRank": 149,
+  "runs": 51,
+  "bestRank": 25,
   "worstRank": 802,
   "firstPlaces": 0,
   "top3": 0,
@@ -61,7 +61,8 @@
     82,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -413,6 +414,13 @@
       "rank": 500,
       "ms": 4333048,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 25,
+      "ms": 4572412,
+      "dish": "Pies"
     }
   ]
 }

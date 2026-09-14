@@ -4,8 +4,8 @@
   "names": [
     "Likepotato"
   ],
-  "runs": 16,
-  "bestRank": 66,
+  "runs": 17,
+  "bestRank": 13,
   "worstRank": 364,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     77,
     78,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 158,
       "ms": 4033518,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 13,
+      "ms": 2767062,
+      "dish": "Pies"
     }
   ]
 }

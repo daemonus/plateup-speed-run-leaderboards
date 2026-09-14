@@ -1,14 +1,6 @@
 {
   "fastest": [
     {
-      "id": "f8ae67fc-d2bb-4e35-8716-dbbbf6179f74",
-      "persona": "niumikus",
-      "ms": 128080,
-      "week": 8,
-      "rank": 1,
-      "dish": "Fish"
-    },
-    {
       "id": "e5d205c6-d579-4e64-ab34-8bc91f57c776",
       "persona": "KVT",
       "ms": 449682,
@@ -198,6 +190,14 @@
       "ms": 871640,
       "week": 84,
       "rank": 13,
+      "dish": "Sundaes"
+    },
+    {
+      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
+      "persona": "ducttapegirl369",
+      "ms": 878103,
+      "week": 84,
+      "rank": 14,
       "dish": "Sundaes"
     }
   ],
@@ -415,6 +415,11 @@
       "count": 25
     },
     {
+      "id": "4dbc6697-ab64-4e78-910c-81b74abcaf8f",
+      "persona": "Selene_Russell",
+      "count": 24
+    },
+    {
       "id": "5d651655-a1dd-47c9-a7ac-403ddae32230",
       "persona": "Ameliapricot",
       "count": 24
@@ -427,11 +432,6 @@
     {
       "id": "0da996ed-9a1f-48c0-bb0a-feb98e2942d1",
       "persona": "muugan99",
-      "count": 23
-    },
-    {
-      "id": "4dbc6697-ab64-4e78-910c-81b74abcaf8f",
-      "persona": "Selene_Russell",
       "count": 23
     },
     {
@@ -469,7 +469,7 @@
     {
       "id": "49818613-a53f-45a2-91cc-8c4f0b140aa3",
       "persona": "Flat",
-      "count": 160
+      "count": 161
     },
     {
       "id": "96c8b025-360a-47e9-b5cc-38c8981528e9",
@@ -494,7 +494,7 @@
     {
       "id": "c632cc07-6199-4f72-bc8c-1197f7814526",
       "persona": "Petalcaster",
-      "count": 154
+      "count": 155
     },
     {
       "id": "0da996ed-9a1f-48c0-bb0a-feb98e2942d1",
@@ -509,7 +509,7 @@
     {
       "id": "c733c603-38bb-41ae-824d-81df4b4291f4",
       "persona": "kousaka_rico",
-      "count": 126
+      "count": 127
     },
     {
       "id": "d3bfbfd6-72e7-48d5-bfc9-e229ce909c48",
@@ -554,7 +554,7 @@
     {
       "id": "400c39d5-b42c-4ee6-92c8-f7c678cf882b",
       "persona": "I.T Guy",
-      "count": 111
+      "count": 112
     },
     {
       "id": "9841048d-dba3-4837-963c-a8260d121909",

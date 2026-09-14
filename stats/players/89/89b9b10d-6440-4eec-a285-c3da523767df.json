@@ -4,7 +4,7 @@
   "names": [
     "3mmber"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 7,
   "worstRank": 295,
   "firstPlaces": 0,
@@ -41,7 +41,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 10,
       "ms": 1974476,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 14,
+      "ms": 2800970,
+      "dish": "Pies"
     }
   ]
 }

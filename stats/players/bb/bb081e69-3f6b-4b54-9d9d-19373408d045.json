@@ -4,12 +4,12 @@
   "names": [
     "kemarie13"
   ],
-  "runs": 50,
+  "runs": 51,
   "bestRank": 5,
   "worstRank": 514,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 2,
+  "top10": 3,
   "bestMs": 922157,
   "weeksActive": [
     -71,
@@ -61,7 +61,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -413,6 +414,13 @@
       "rank": 146,
       "ms": 3841611,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 9,
+      "ms": 2550101,
+      "dish": "Pies"
     }
   ]
 }
