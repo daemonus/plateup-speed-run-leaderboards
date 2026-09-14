@@ -4,8 +4,8 @@
   "names": [
     "tju"
   ],
-  "runs": 2,
-  "bestRank": 294,
+  "runs": 3,
+  "bestRank": 36,
   "worstRank": 307,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2324229,
   "weeksActive": [
     82,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 307,
       "ms": 2324229,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 36,
+      "ms": 5556224,
+      "dish": "Pies"
     }
   ]
 }

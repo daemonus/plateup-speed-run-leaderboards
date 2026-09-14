@@ -4,12 +4,12 @@
   "names": [
     "hypericum11"
   ],
-  "runs": 34,
-  "bestRank": 6,
+  "runs": 35,
+  "bestRank": 2,
   "worstRank": 249,
   "firstPlaces": 0,
-  "top3": 0,
-  "top10": 2,
+  "top3": 1,
+  "top10": 3,
   "bestMs": 1085502,
   "weeksActive": [
     40,
@@ -45,7 +45,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -285,6 +286,13 @@
       "rank": 41,
       "ms": 2745186,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 2,
+      "ms": 1424875,
+      "dish": "Pies"
     }
   ]
 }
