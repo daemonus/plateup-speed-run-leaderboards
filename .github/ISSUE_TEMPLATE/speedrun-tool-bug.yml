@@ -1,0 +1,69 @@
+name: Speedrun tool bug report
+description: Report a bug or problem with the PlateUp! Speedrun Tools app (not the leaderboard data)
+title: "[Tool bug]: "
+labels: ["speedrun-tool-issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve **PlateUp! Speedrun Tools**!
+
+        Use this form to report a bug in the **application itself** (the desktop app or the website) —
+        crashes, wrong results, broken buttons, layout problems, and so on.
+
+        > If instead you spotted **incorrect leaderboard data** for a week, please use the in-app
+        > *"Something wrong with this data"* link on the Leaderboards page — that has its own process.
+
+        Your report is automatically forwarded to the tool's private issue tracker for the maintainers,
+        so there's no need to change the title prefix.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What went wrong?
+      description: A clear description of the bug, and what you expected to happen instead.
+      placeholder: When I open the Stats page, the last-updated time never loads and just shows "Checking…".
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make the bug happen? Numbered steps are ideal.
+      placeholder: |
+        1. Go to the Leaderboards page
+        2. Page back to an archive week
+        3. Notice ...
+    validations:
+      required: false
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where did this happen?
+      options:
+        - Windows desktop app
+        - Website (in a browser)
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Tool version
+      description: Shown in the app's Help / "What's New" panel. Leave blank if you're not sure.
+      placeholder: e.g. 1.2.3
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: Operating system / browser
+      placeholder: e.g. Windows 11, or Chrome 140 on macOS
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or extra context
+      description: Drag-and-drop screenshots, or paste any error text you saw.
+    validations:
+      required: false

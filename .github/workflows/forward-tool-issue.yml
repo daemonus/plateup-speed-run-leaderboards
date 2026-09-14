@@ -1,0 +1,104 @@
+name: Forward tool issue
+
+# Mirror issues labelled "speedrun-tool-issue" into the private tool repo so the maintainers see
+# them without the tool's tracker being public. Fires both when the issue form creates the issue
+# with the label, and when a maintainer applies the label to any existing issue by hand.
+on:
+  issues:
+    types: [opened, labeled]
+
+# The default token only needs to read this issue and write a comment + marker label back here.
+# Creating the mirrored issue in the PRIVATE repo is done with a separate PAT (secrets.TOOL_ISSUE_TOKEN),
+# because GITHUB_TOKEN can never reach another repository.
+permissions:
+  issues: write
+
+# Serialise the near-simultaneous opened+labeled events for the same issue so we never create two
+# mirror issues (the second run sees the "forwarded-to-tool" marker and skips).
+concurrency:
+  group: forward-tool-issue-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+env:
+  LABEL: speedrun-tool-issue
+  MARKER: forwarded-to-tool
+  # Where mirrored issues are created.
+  TARGET_OWNER: daemonus
+  TARGET_REPO: plateup-speed-run-tools
+
+jobs:
+  forward:
+    # Run when the label is present at creation, or exactly when it is applied afterwards.
+    if: >-
+      (github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'speedrun-tool-issue')) ||
+      (github.event.action == 'labeled' && github.event.label.name == 'speedrun-tool-issue')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skip if already forwarded
+        id: check
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issue } = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            const labels = issue.labels.map(l => (typeof l === 'string' ? l : l.name));
+            core.setOutput('proceed', labels.includes(process.env.MARKER) ? 'false' : 'true');
+
+      - name: Create mirror issue in the private tool repo
+        id: mirror
+        if: steps.check.outputs.proceed == 'true'
+        uses: actions/github-script@v7
+        with:
+          # PAT with Issues:Read/Write on the private tool repo. See repo secret TOOL_ISSUE_TOKEN.
+          github-token: ${{ secrets.TOOL_ISSUE_TOKEN }}
+          script: |
+            const src = context.payload.issue;
+            const owner = process.env.TARGET_OWNER;
+            const repo = process.env.TARGET_REPO;
+
+            const rawTitle = (src.title || '').trim();
+            const title = rawTitle ? rawTitle : `Tool bug (public #${src.number})`;
+            const body = [
+              `Forwarded from the public leaderboards repo: ${src.html_url}`,
+              `Reported by @${src.user.login} (public issue #${src.number}).`,
+              '',
+              '---',
+              '',
+              src.body && src.body.trim() ? src.body : '_(no description provided)_',
+            ].join('\n');
+
+            const { data: created } = await github.rest.issues.create({ owner, repo, title, body });
+
+            // Best-effort categorisation; ignore if the label doesn't exist / token can't manage labels.
+            try {
+              await github.rest.issues.addLabels({
+                owner, repo, issue_number: created.number, labels: ['from-leaderboards'],
+              });
+            } catch (e) { core.info(`Could not add label on mirror issue: ${e.message}`); }
+
+            core.setOutput('number', String(created.number));
+
+      - name: Acknowledge and mark the public issue as forwarded
+        # Only if a mirror issue was actually created (guards against a failed create step).
+        if: steps.check.outputs.proceed == 'true' && steps.mirror.outputs.number != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // Deliberately does NOT link the private issue URL, to avoid exposing the private repo path.
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Thanks for the report! This has been forwarded to the tool maintainers and is being tracked internally. Follow-up may happen here.',
+            });
+            try {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: [process.env.MARKER],
+              });
+            } catch (e) { core.info(`Could not add marker label: ${e.message}`); }
