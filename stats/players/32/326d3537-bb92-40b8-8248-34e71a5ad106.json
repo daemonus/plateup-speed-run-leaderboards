@@ -4,7 +4,7 @@
   "names": [
     "Shaini"
   ],
-  "runs": 124,
+  "runs": 125,
   "bestRank": 19,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -135,7 +135,8 @@
     73,
     76,
     85,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -1005,6 +1006,13 @@
       "rank": 80,
       "ms": 3174685,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 28,
+      "ms": 2809097,
+      "dish": "Pies"
     }
   ]
 }

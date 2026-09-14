@@ -4,12 +4,12 @@
   "names": [
     "jinx"
   ],
-  "runs": 105,
+  "runs": 106,
   "bestRank": 1,
   "worstRank": 1190,
   "firstPlaces": 1,
   "top3": 11,
-  "top10": 38,
+  "top10": 39,
   "bestMs": 687293,
   "weeksActive": [
     -92,
@@ -116,7 +116,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -853,6 +854,13 @@
       "rank": 9,
       "ms": 1969054,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 7,
+      "ms": 1647146,
+      "dish": "Pies"
     }
   ]
 }

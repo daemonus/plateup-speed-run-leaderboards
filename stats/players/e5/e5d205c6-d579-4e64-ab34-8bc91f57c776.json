@@ -4,12 +4,12 @@
   "names": [
     "KVT"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 1,
   "worstRank": 126,
-  "firstPlaces": 8,
-  "top3": 10,
-  "top10": 10,
+  "firstPlaces": 9,
+  "top3": 11,
+  "top10": 11,
   "bestMs": 449682,
   "weeksActive": [
     64,
@@ -24,7 +24,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 1,
       "ms": 825729,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 1,
+      "ms": 835475,
+      "dish": "Pies"
     }
   ]
 }

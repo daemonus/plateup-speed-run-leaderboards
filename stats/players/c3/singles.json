@@ -994,8 +994,8 @@
       "NAK"
     ],
     "runs": 1,
-    "bestRank": 29,
-    "worstRank": 29,
+    "bestRank": 61,
+    "worstRank": 61,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1007,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 29,
+        "rank": 61,
         "ms": 4180937,
         "dish": "Pies"
       }
@@ -2388,6 +2388,32 @@
         "rank": 583,
         "ms": 4043246,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "c3ab3519-5762-44e6-9d45-008c6e0a507f",
+    "persona": "\u8C01\u6765\u5F04\u6B7B\u6211",
+    "names": [
+      "\u8C01\u6765\u5F04\u6B7B\u6211"
+    ],
+    "runs": 1,
+    "bestRank": 62,
+    "worstRank": 62,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4186093,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 62,
+        "ms": 4186093,
+        "dish": "Pies"
       }
     ]
   },

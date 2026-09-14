@@ -4,8 +4,8 @@
   "names": [
     "AncientLink"
   ],
-  "runs": 5,
-  "bestRank": 64,
+  "runs": 6,
+  "bestRank": 19,
   "worstRank": 319,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 64,
       "ms": 3018790,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 19,
+      "ms": 2502402,
+      "dish": "Pies"
     }
   ]
 }

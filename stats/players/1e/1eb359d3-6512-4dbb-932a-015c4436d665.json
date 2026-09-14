@@ -4,8 +4,8 @@
   "names": [
     "Cybermage"
   ],
-  "runs": 12,
-  "bestRank": 127,
+  "runs": 13,
+  "bestRank": 38,
   "worstRank": 410,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     68,
     71,
     84,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 202,
       "ms": 3019392,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 38,
+      "ms": 2965246,
+      "dish": "Pies"
     }
   ]
 }

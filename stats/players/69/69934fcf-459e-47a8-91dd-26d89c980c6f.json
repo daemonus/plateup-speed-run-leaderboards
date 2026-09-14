@@ -4,8 +4,8 @@
   "names": [
     "xarah"
   ],
-  "runs": 13,
-  "bestRank": 47,
+  "runs": 14,
+  "bestRank": 35,
   "worstRank": 274,
   "firstPlaces": 0,
   "top3": 0,
@@ -24,7 +24,8 @@
     43,
     45,
     46,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 89,
       "ms": 1558948,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 35,
+      "ms": 2929916,
+      "dish": "Pies"
     }
   ]
 }

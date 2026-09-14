@@ -4,8 +4,8 @@
   "names": [
     "Luronk"
   ],
-  "runs": 2,
-  "bestRank": 259,
+  "runs": 3,
+  "bestRank": 69,
   "worstRank": 260,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3180306,
   "weeksActive": [
     -31,
-    38
+    38,
+    88
   ],
   "history": [
     {
@@ -28,6 +29,13 @@
       "start": "2025-09-29",
       "rank": 260,
       "ms": 3242904,
+      "dish": "Pies"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 69,
+      "ms": 5082461,
       "dish": "Pies"
     }
   ]

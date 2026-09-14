@@ -4,12 +4,12 @@
   "names": [
     "omn9310"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 2,
   "worstRank": 193,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 8,
+  "top10": 9,
   "bestMs": 1383313,
   "weeksActive": [
     -72,
@@ -54,7 +54,8 @@
     52,
     78,
     84,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 12,
       "ms": 2094543,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 10,
+      "ms": 2034204,
+      "dish": "Pies"
     }
   ]
 }

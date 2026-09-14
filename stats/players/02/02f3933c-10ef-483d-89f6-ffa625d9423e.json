@@ -4,12 +4,12 @@
   "names": [
     "Stefan"
   ],
-  "runs": 74,
+  "runs": 75,
   "bestRank": 1,
   "worstRank": 170,
   "firstPlaces": 5,
   "top3": 20,
-  "top10": 53,
+  "top10": 54,
   "bestMs": 794980,
   "weeksActive": [
     -94,
@@ -85,7 +85,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -605,6 +606,13 @@
       "rank": 8,
       "ms": 1911180,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 5,
+      "ms": 1408654,
+      "dish": "Pies"
     }
   ]
 }
