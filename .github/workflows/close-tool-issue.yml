@@ -1,0 +1,51 @@
+name: Close mirrored tool issue
+
+# When a forwarded tool-bug issue is closed here, close its mirror in the private tool repo too.
+# The reverse direction (private close -> close here) lives in the tool repo's close-public-issue
+# workflow. Close is the only thing synced between the two.
+on:
+  issues:
+    types: [closed]
+
+# Default token isn't used; closing the mirror in the PRIVATE repo uses TOOL_ISSUE_TOKEN.
+permissions:
+  issues: read
+
+concurrency:
+  group: close-tool-issue-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+env:
+  TARGET_OWNER: daemonus
+  TARGET_REPO: plateup-speed-run-tools
+
+jobs:
+  close-mirror:
+    # Only forwarded tool issues have a mirror worth closing.
+    if: contains(github.event.issue.labels.*.name, 'speedrun-tool-issue')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close the mirror issue
+        uses: actions/github-script@v7
+        with:
+          # PAT with Issues:Read/Write on the private tool repo (same one the forwarder uses).
+          github-token: ${{ secrets.TOOL_ISSUE_TOKEN }}
+          script: |
+            const owner = process.env.TARGET_OWNER;
+            const repo = process.env.TARGET_REPO;
+
+            // The mirror body carries "<!-- public-ref: <thisRepo>#<thisIssue> -->". Match on that exact
+            // substring (a plain includes, not flaky full-text search) to find the one mirror to close.
+            const marker = `public-ref: ${context.repo.owner}/${context.repo.repo}#${context.issue.number}`;
+
+            const mirrors = await github.paginate(github.rest.issues.listForRepo, {
+              owner, repo, state: 'all', per_page: 100,
+            });
+            const mirror = mirrors.find(i => !i.pull_request && (i.body || '').includes(marker));
+            if (!mirror) { core.info(`No mirror issue found for ${marker}.`); return; }
+            if (mirror.state === 'closed') { core.info('Mirror already closed.'); return; }
+
+            await github.rest.issues.update({
+              owner, repo, issue_number: mirror.number, state: 'closed',
+            });
+            core.info(`Closed mirror ${owner}/${repo}#${mirror.number}.`);

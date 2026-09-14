@@ -40,8 +40,8 @@ body:
     attributes:
       label: Where did this happen?
       options:
-        - Windows desktop app
         - Website (in a browser)
+        - Windows desktop app
         - Not sure
     validations:
       required: true
