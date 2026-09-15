@@ -4,8 +4,8 @@
   "names": [
     "\u6C34\u6BCD"
   ],
-  "runs": 3,
-  "bestRank": 163,
+  "runs": 4,
+  "bestRank": 91,
   "worstRank": 533,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     63,
     64,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 163,
       "ms": 4182320,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 91,
+      "ms": 4750644,
+      "dish": "Pies"
     }
   ]
 }

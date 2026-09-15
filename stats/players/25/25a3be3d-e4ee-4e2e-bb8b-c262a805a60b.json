@@ -4,8 +4,8 @@
   "names": [
     "wham12"
   ],
-  "runs": 24,
-  "bestRank": 163,
+  "runs": 25,
+  "bestRank": 60,
   "worstRank": 651,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     83,
     84,
     85,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 187,
       "ms": 4469538,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 60,
+      "ms": 3202017,
+      "dish": "Pies"
     }
   ]
 }

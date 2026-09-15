@@ -4,8 +4,8 @@
   "names": [
     "Dee:version 2.9"
   ],
-  "runs": 2,
-  "bestRank": 198,
+  "runs": 3,
+  "bestRank": 84,
   "worstRank": 316,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2853344,
   "weeksActive": [
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 198,
       "ms": 4657529,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 84,
+      "ms": 4387683,
+      "dish": "Pies"
     }
   ]
 }

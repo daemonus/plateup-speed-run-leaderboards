@@ -4,7 +4,7 @@
   "names": [
     "adamdrinkslots"
   ],
-  "runs": 158,
+  "runs": 159,
   "bestRank": 5,
   "worstRank": 1068,
   "firstPlaces": 0,
@@ -169,7 +169,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -1277,6 +1278,13 @@
       "rank": 40,
       "ms": 2743020,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 11,
+      "ms": 1774446,
+      "dish": "Pies"
     }
   ]
 }

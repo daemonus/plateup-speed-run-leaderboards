@@ -4,7 +4,7 @@
   "names": [
     "petiten00b"
   ],
-  "runs": 62,
+  "runs": 63,
   "bestRank": 16,
   "worstRank": 328,
   "firstPlaces": 0,
@@ -73,7 +73,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -509,6 +510,13 @@
       "rank": 32,
       "ms": 2538527,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 27,
+      "ms": 2587448,
+      "dish": "Pies"
     }
   ]
 }

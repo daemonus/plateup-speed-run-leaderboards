@@ -4,8 +4,8 @@
   "names": [
     "Boris"
   ],
-  "runs": 5,
-  "bestRank": 90,
+  "runs": 6,
+  "bestRank": 70,
   "worstRank": 490,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 169,
       "ms": 4250303,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 70,
+      "ms": 3723462,
+      "dish": "Pies"
     }
   ]
 }

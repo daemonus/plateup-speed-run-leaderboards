@@ -4,8 +4,8 @@
   "names": [
     "2064412664"
   ],
-  "runs": 2,
-  "bestRank": 214,
+  "runs": 3,
+  "bestRank": 106,
   "worstRank": 500,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3094016,
   "weeksActive": [
     84,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 214,
       "ms": 3094016,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 106,
+      "ms": 6982909,
+      "dish": "Pies"
     }
   ]
 }
