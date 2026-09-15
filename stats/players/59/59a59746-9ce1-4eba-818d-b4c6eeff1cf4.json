@@ -1,16 +1,16 @@
 {
-  "id": "8db22940-05e0-4924-a16f-90e47760831d",
-  "persona": "M0_0nc",
+  "id": "59a59746-9ce1-4eba-818d-b4c6eeff1cf4",
+  "persona": "\u6B21\u4E16\u4EE3\u5C0F\u86CB\u7CD5",
   "names": [
-    "M0_0nc"
+    "\u6B21\u4E16\u4EE3\u5C0F\u86CB\u7CD5"
   ],
   "runs": 2,
-  "bestRank": 77,
-  "worstRank": 156,
+  "bestRank": 84,
+  "worstRank": 426,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 1951288,
+  "bestMs": 3447409,
   "weeksActive": [
     86,
     88
@@ -19,15 +19,15 @@
     {
       "week": 86,
       "start": "2026-08-31",
-      "rank": 156,
-      "ms": 1951288,
+      "rank": 426,
+      "ms": 3528476,
       "dish": "Sundaes"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 77,
-      "ms": 3298846,
+      "rank": 84,
+      "ms": 3447409,
       "dish": "Pies"
     }
   ]

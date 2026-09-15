@@ -4,8 +4,8 @@
   "names": [
     "alexeypolevik"
   ],
-  "runs": 30,
-  "bestRank": 27,
+  "runs": 31,
+  "bestRank": 23,
   "worstRank": 337,
   "firstPlaces": 0,
   "top3": 0,
@@ -41,7 +41,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 51,
       "ms": 2900423,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 23,
+      "ms": 2311411,
+      "dish": "Pies"
     }
   ]
 }

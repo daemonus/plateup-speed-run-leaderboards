@@ -4,7 +4,7 @@
   "names": [
     "Airwalk"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 13,
   "worstRank": 1167,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 23,
       "ms": 2280305,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 28,
+      "ms": 2411996,
+      "dish": "Pies"
     }
   ]
 }

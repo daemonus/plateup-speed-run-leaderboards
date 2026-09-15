@@ -4,8 +4,8 @@
   "names": [
     "Neryn"
   ],
-  "runs": 65,
-  "bestRank": 87,
+  "runs": 66,
+  "bestRank": 86,
   "worstRank": 594,
   "firstPlaces": 0,
   "top3": 0,
@@ -76,7 +76,8 @@
     83,
     84,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -533,6 +534,13 @@
       "rank": 136,
       "ms": 3731671,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 86,
+      "ms": 3579105,
+      "dish": "Pies"
     }
   ]
 }

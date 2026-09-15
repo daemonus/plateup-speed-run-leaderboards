@@ -4,8 +4,8 @@
   "names": [
     "aqsqc009"
   ],
-  "runs": 7,
-  "bestRank": 158,
+  "runs": 8,
+  "bestRank": 113,
   "worstRank": 581,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     75,
     76,
     82,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 232,
       "ms": 2340000,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 113,
+      "ms": 4469294,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "pichu_318"
   ],
-  "runs": 16,
-  "bestRank": 156,
+  "runs": 17,
+  "bestRank": 101,
   "worstRank": 520,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 173,
       "ms": 4289383,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 101,
+      "ms": 4152117,
+      "dish": "Pies"
     }
   ]
 }

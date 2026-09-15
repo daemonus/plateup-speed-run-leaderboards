@@ -4,7 +4,7 @@
   "names": [
     "MNK1094"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 57,
   "worstRank": 353,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -28,
     -27,
     -26,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 226,
       "ms": 5903951,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 58,
+      "ms": 3013528,
+      "dish": "Pies"
     }
   ]
 }

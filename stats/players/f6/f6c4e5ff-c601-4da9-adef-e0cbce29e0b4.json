@@ -4,8 +4,8 @@
   "names": [
     "Yogeshwar05"
   ],
-  "runs": 3,
-  "bestRank": 232,
+  "runs": 4,
+  "bestRank": 132,
   "worstRank": 516,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 232,
       "ms": 6488528,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 132,
+      "ms": 5568714,
+      "dish": "Pies"
     }
   ]
 }

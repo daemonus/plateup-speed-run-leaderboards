@@ -4,7 +4,7 @@
   "names": [
     "warmgray"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 72,
   "worstRank": 340,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -39,
     -31,
     0,
-    51
+    51,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 113,
       "ms": 3289137,
       "dish": "Salad"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 88,
+      "ms": 3667186,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "pankome"
   ],
-  "runs": 5,
-  "bestRank": 146,
+  "runs": 6,
+  "bestRank": 121,
   "worstRank": 428,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     15,
     16,
     17,
-    76
+    76,
+    88
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 146,
       "ms": 3439852,
       "dish": "Salad"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 121,
+      "ms": 4692393,
+      "dish": "Pies"
     }
   ]
 }

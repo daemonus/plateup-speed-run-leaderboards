@@ -4,8 +4,8 @@
   "names": [
     "emd.joy"
   ],
-  "runs": 2,
-  "bestRank": 278,
+  "runs": 3,
+  "bestRank": 95,
   "worstRank": 375,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3231597,
   "weeksActive": [
     -3,
-    66
+    66,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 278,
       "ms": 3378212,
       "dish": "Breakfast"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 95,
+      "ms": 3875648,
+      "dish": "Pies"
     }
   ]
 }
