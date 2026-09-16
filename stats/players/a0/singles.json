@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "a00dbbd6-9f2c-4227-934f-99967308c3fa",
+    "persona": "FFFUXXX",
+    "names": [
+      "FFFUXXX"
+    ],
+    "runs": 1,
+    "bestRank": 137,
+    "worstRank": 137,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3892714,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 137,
+        "ms": 3892714,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "a00e336b-cbd1-4383-947f-6c2243d817a5",
     "persona": "erik.f.mueller",
     "names": [
@@ -448,8 +474,8 @@
       "Eph"
     ],
     "runs": 1,
-    "bestRank": 71,
-    "worstRank": 71,
+    "bestRank": 86,
+    "worstRank": 86,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +487,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 71,
+        "rank": 86,
         "ms": 3055380,
         "dish": "Pies"
       }

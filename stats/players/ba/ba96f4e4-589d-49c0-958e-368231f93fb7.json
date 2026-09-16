@@ -4,7 +4,7 @@
   "names": [
     "simonski"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 45,
   "worstRank": 692,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -82,
     18,
     41,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 108,
       "ms": 2438009,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 56,
+      "ms": 2692871,
+      "dish": "Pies"
     }
   ]
 }

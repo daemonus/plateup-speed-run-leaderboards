@@ -4,8 +4,8 @@
   "names": [
     "Gallstones"
   ],
-  "runs": 2,
-  "bestRank": 265,
+  "runs": 3,
+  "bestRank": 172,
   "worstRank": 1130,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3286673,
   "weeksActive": [
     -32,
-    66
+    66,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 265,
       "ms": 3286673,
       "dish": "Breakfast"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 172,
+      "ms": 4671442,
+      "dish": "Pies"
     }
   ]
 }

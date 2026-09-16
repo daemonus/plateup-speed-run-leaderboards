@@ -4,7 +4,7 @@
   "names": [
     "newb3"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 110,
   "worstRank": 370,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     30,
     38,
     52,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 151,
       "ms": 3915759,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 129,
+      "ms": 3729627,
+      "dish": "Pies"
     }
   ]
 }

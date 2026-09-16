@@ -1664,6 +1664,32 @@
     ]
   },
   {
+    "id": "1985b8b0-2175-4ed0-bf1b-313b4bf75db7",
+    "persona": "www",
+    "names": [
+      "www"
+    ],
+    "runs": 1,
+    "bestRank": 177,
+    "worstRank": 177,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4805500,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 177,
+        "ms": 4805500,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "19884e7e-da99-4c50-9508-a932a8917724",
     "persona": "yun",
     "names": [
@@ -2112,8 +2138,8 @@
       "zhaoziyin326"
     ],
     "runs": 1,
-    "bestRank": 110,
-    "worstRank": 110,
+    "bestRank": 132,
+    "worstRank": 132,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2125,7 +2151,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 110,
+        "rank": 132,
         "ms": 3783673,
         "dish": "Pies"
       }

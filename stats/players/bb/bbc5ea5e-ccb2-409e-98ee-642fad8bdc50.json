@@ -4,8 +4,8 @@
   "names": [
     "l0rd"
   ],
-  "runs": 4,
-  "bestRank": 370,
+  "runs": 5,
+  "bestRank": 200,
   "worstRank": 699,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     52,
     77,
     78,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 540,
       "ms": 7279381,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 200,
+      "ms": 6518751,
+      "dish": "Pies"
     }
   ]
 }

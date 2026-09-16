@@ -4,8 +4,8 @@
   "names": [
     "ernestkwyip"
   ],
-  "runs": 8,
-  "bestRank": 36,
+  "runs": 9,
+  "bestRank": 24,
   "worstRank": 163,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     83,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 64,
       "ms": 1414871,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 24,
+      "ms": 2081517,
+      "dish": "Pies"
     }
   ]
 }

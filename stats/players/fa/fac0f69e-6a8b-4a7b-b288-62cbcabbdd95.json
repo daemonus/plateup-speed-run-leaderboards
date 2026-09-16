@@ -4,7 +4,7 @@
   "names": [
     "0731yn"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 46,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 46,
       "ms": 1236878,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 95,
+      "ms": 3147889,
+      "dish": "Pies"
     }
   ]
 }

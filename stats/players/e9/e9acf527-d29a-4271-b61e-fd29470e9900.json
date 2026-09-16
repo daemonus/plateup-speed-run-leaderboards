@@ -4,8 +4,8 @@
   "names": [
     "ClerionLex [GER]"
   ],
-  "runs": 8,
-  "bestRank": 91,
+  "runs": 9,
+  "bestRank": 19,
   "worstRank": 248,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     83,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 161,
       "ms": 4148867,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 19,
+      "ms": 2025063,
+      "dish": "Pies"
     }
   ]
 }

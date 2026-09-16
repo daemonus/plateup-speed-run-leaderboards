@@ -4,16 +4,17 @@
   "names": [
     "ycc"
   ],
-  "runs": 2,
-  "bestRank": 267,
+  "runs": 3,
+  "bestRank": 136,
   "worstRank": 483,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4579368,
+  "bestMs": 3887918,
   "weeksActive": [
     39,
-    57
+    57,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 483,
       "ms": 4888070,
       "dish": "Salad"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 136,
+      "ms": 3887918,
+      "dish": "Pies"
     }
   ]
 }

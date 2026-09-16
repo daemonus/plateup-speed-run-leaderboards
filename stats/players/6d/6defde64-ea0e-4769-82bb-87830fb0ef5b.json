@@ -4,12 +4,12 @@
   "names": [
     "MISOIRAN"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 3,
   "worstRank": 392,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 6,
+  "top10": 7,
   "bestMs": 793368,
   "weeksActive": [
     60,
@@ -27,7 +27,8 @@
     81,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 7,
       "ms": 793368,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 8,
+      "ms": 1509311,
+      "dish": "Pies"
     }
   ]
 }

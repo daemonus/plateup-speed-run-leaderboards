@@ -4,8 +4,8 @@
   "names": [
     "Aligustre"
   ],
-  "runs": 2,
-  "bestRank": 262,
+  "runs": 3,
+  "bestRank": 122,
   "worstRank": 333,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2388699,
   "weeksActive": [
     83,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 262,
       "ms": 3444298,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 122,
+      "ms": 3653921,
+      "dish": "Pies"
     }
   ]
 }

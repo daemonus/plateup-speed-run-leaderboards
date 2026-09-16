@@ -4,7 +4,7 @@
   "names": [
     "maddynew"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 46,
   "worstRank": 390,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     73,
     74,
     78,
-    81
+    81,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 46,
       "ms": 2342069,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 48,
+      "ms": 2592013,
+      "dish": "Pies"
     }
   ]
 }

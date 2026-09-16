@@ -4,7 +4,7 @@
   "names": [
     "CookieNoob"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 62,
   "worstRank": 536,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -45,
     -42,
     -41,
-    -31
+    -31,
+    88
   ],
   "history": [
     {
@@ -68,6 +69,13 @@
       "start": "2024-06-03",
       "rank": 62,
       "ms": 2290647,
+      "dish": "Pies"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 68,
+      "ms": 2813637,
       "dish": "Pies"
     }
   ]

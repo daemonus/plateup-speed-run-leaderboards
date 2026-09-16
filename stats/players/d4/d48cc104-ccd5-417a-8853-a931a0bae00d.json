@@ -1,16 +1,16 @@
 {
-  "id": "59a59746-9ce1-4eba-818d-b4c6eeff1cf4",
-  "persona": "\u6B21\u4E16\u4EE3\u5C0F\u86CB\u7CD5",
+  "id": "d48cc104-ccd5-417a-8853-a931a0bae00d",
+  "persona": "Jobsti||Dachboden",
   "names": [
-    "\u6B21\u4E16\u4EE3\u5C0F\u86CB\u7CD5"
+    "Jobsti||Dachboden"
   ],
   "runs": 2,
-  "bestRank": 115,
-  "worstRank": 426,
+  "bestRank": 107,
+  "worstRank": 484,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3447409,
+  "bestMs": 3312885,
   "weeksActive": [
     86,
     88
@@ -19,15 +19,15 @@
     {
       "week": 86,
       "start": "2026-08-31",
-      "rank": 426,
-      "ms": 3528476,
+      "rank": 484,
+      "ms": 4135329,
       "dish": "Sundaes"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 115,
-      "ms": 3447409,
+      "rank": 107,
+      "ms": 3312885,
       "dish": "Pies"
     }
   ]
