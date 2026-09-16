@@ -4,7 +4,7 @@
   "names": [
     "WillyJohnson"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 35,
   "worstRank": 248,
   "firstPlaces": 0,
@@ -47,7 +47,8 @@
     82,
     84,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 79,
       "ms": 3170846,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 47,
+      "ms": 2724305,
+      "dish": "Pies"
     }
   ]
 }

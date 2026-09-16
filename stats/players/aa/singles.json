@@ -32,8 +32,8 @@
       "FreeMagic"
     ],
     "runs": 1,
-    "bestRank": 109,
-    "worstRank": 109,
+    "bestRank": 129,
+    "worstRank": 129,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,8 +45,34 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 109,
+        "rank": 129,
         "ms": 4329863,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "aa0e1892-aa89-4a45-a7aa-bdca00f35cf9",
+    "persona": "ekaylesworth",
+    "names": [
+      "ekaylesworth"
+    ],
+    "runs": 1,
+    "bestRank": 142,
+    "worstRank": 142,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4651061,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 142,
+        "ms": 4651061,
         "dish": "Pies"
       }
     ]

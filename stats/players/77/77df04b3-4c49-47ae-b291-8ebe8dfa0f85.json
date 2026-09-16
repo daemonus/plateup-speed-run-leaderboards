@@ -4,8 +4,8 @@
   "names": [
     "meghysmith"
   ],
-  "runs": 23,
-  "bestRank": 120,
+  "runs": 24,
+  "bestRank": 69,
   "worstRank": 384,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     31,
     32,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 246,
       "ms": 2432039,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 69,
+      "ms": 3029507,
+      "dish": "Pies"
     }
   ]
 }

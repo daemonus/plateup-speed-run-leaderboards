@@ -4,8 +4,8 @@
   "names": [
     "Irissss"
   ],
-  "runs": 5,
-  "bestRank": 117,
+  "runs": 6,
+  "bestRank": 68,
   "worstRank": 566,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     21,
     22,
     51,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 566,
       "ms": 3220015,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 68,
+      "ms": 3028652,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "ojisan2023"
   ],
-  "runs": 39,
+  "runs": 40,
   "bestRank": 8,
   "worstRank": 199,
   "firstPlaces": 0,
@@ -50,7 +50,8 @@
     83,
     84,
     85,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 123,
       "ms": 3587866,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 50,
+      "ms": 2758496,
+      "dish": "Pies"
     }
   ]
 }

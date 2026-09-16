@@ -1,16 +1,16 @@
 {
-  "id": "9b263ea4-bb3c-4b98-a61c-7277b567bde4",
-  "persona": "hanihinana",
+  "id": "a93262f1-ad0b-40b4-9f33-b3bb04e96d63",
+  "persona": "Cepheus",
   "names": [
-    "hanihinana"
+    "Cepheus"
   ],
   "runs": 2,
-  "bestRank": 154,
-  "worstRank": 522,
+  "bestRank": 174,
+  "worstRank": 351,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4977029,
+  "bestMs": 3071406,
   "weeksActive": [
     86,
     88
@@ -19,15 +19,15 @@
     {
       "week": 86,
       "start": "2026-08-31",
-      "rank": 522,
-      "ms": 4977029,
+      "rank": 351,
+      "ms": 3071406,
       "dish": "Sundaes"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 154,
-      "ms": 5072325,
+      "rank": 174,
+      "ms": 14961960,
       "dish": "Pies"
     }
   ]

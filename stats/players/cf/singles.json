@@ -1352,6 +1352,32 @@
     ]
   },
   {
+    "id": "cf82fdee-22c1-4f07-8e2b-3999d8e1cadd",
+    "persona": "its.gisel24",
+    "names": [
+      "its.gisel24"
+    ],
+    "runs": 1,
+    "bestRank": 128,
+    "worstRank": 128,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4256382,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 128,
+        "ms": 4256382,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "cf8438da-6dac-4433-ad15-74fa7ec83515",
     "persona": "moonster",
     "names": [
@@ -1894,32 +1920,6 @@
         "rank": 373,
         "ms": 3108381,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "cfb65ccd-6346-480b-a431-c7bb72f5a1c8",
-    "persona": "Amariii",
-    "names": [
-      "Amariii"
-    ],
-    "runs": 1,
-    "bestRank": 267,
-    "worstRank": 267,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2557198,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 267,
-        "ms": 2557198,
-        "dish": "Sundaes"
       }
     ]
   },
