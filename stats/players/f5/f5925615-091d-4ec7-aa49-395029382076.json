@@ -4,7 +4,7 @@
   "names": [
     "ahnyankad"
   ],
-  "runs": 65,
+  "runs": 66,
   "bestRank": 47,
   "worstRank": 681,
   "firstPlaces": 0,
@@ -76,7 +76,8 @@
     63,
     66,
     72,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -533,6 +534,13 @@
       "rank": 211,
       "ms": 3078084,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 181,
+      "ms": 4197618,
+      "dish": "Pies"
     }
   ]
 }

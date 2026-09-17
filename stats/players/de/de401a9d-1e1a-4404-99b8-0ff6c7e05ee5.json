@@ -4,7 +4,7 @@
   "names": [
     "dylanmcl9"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 6,
   "worstRank": 679,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     -31,
     24,
     28,
-    66
+    66,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 99,
       "ms": 2410678,
       "dish": "Breakfast"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 53,
+      "ms": 2536351,
+      "dish": "Pies"
     }
   ]
 }

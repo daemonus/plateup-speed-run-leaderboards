@@ -4,8 +4,8 @@
   "names": [
     "awalther2"
   ],
-  "runs": 6,
-  "bestRank": 138,
+  "runs": 7,
+  "bestRank": 105,
   "worstRank": 219,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     80,
     81,
     84,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 201,
       "ms": 2994711,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 105,
+      "ms": 3112750,
+      "dish": "Pies"
     }
   ]
 }

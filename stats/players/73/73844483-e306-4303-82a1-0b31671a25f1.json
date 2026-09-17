@@ -1,16 +1,16 @@
 {
-  "id": "9e082453-f299-4228-9e8d-b783979afbf5",
-  "persona": "DrPanda",
+  "id": "73844483-e306-4303-82a1-0b31671a25f1",
+  "persona": "elkanreyes",
   "names": [
-    "DrPanda"
+    "elkanreyes"
   ],
   "runs": 2,
-  "bestRank": 129,
-  "worstRank": 176,
+  "bestRank": 20,
+  "worstRank": 137,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3418551,
+  "bestMs": 2263060,
   "weeksActive": [
     87,
     88
@@ -19,15 +19,15 @@
     {
       "week": 87,
       "start": "2026-09-07",
-      "rank": 176,
-      "ms": 4329553,
+      "rank": 20,
+      "ms": 2263060,
       "dish": "Fajitas"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 129,
-      "ms": 3418551,
+      "rank": 137,
+      "ms": 3531617,
       "dish": "Pies"
     }
   ]

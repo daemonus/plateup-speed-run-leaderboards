@@ -4,8 +4,8 @@
   "names": [
     "Lara_QWQ"
   ],
-  "runs": 2,
-  "bestRank": 407,
+  "runs": 3,
+  "bestRank": 232,
   "worstRank": 778,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4003474,
   "weeksActive": [
     -76,
-    -74
+    -74,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 407,
       "ms": 4197609,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 232,
+      "ms": 5956605,
+      "dish": "Pies"
     }
   ]
 }
