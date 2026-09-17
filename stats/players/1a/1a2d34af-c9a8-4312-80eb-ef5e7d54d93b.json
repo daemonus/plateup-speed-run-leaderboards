@@ -1,16 +1,16 @@
 {
-  "id": "60969c91-c231-48f2-90b2-2942b2253aff",
-  "persona": "Lulu",
+  "id": "1a2d34af-c9a8-4312-80eb-ef5e7d54d93b",
+  "persona": "XakuII",
   "names": [
-    "Lulu"
+    "XakuII"
   ],
   "runs": 2,
-  "bestRank": 128,
-  "worstRank": 454,
+  "bestRank": 146,
+  "worstRank": 306,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3099285,
+  "bestMs": 2388336,
   "weeksActive": [
     84,
     88
@@ -19,15 +19,15 @@
     {
       "week": 84,
       "start": "2026-08-17",
-      "rank": 454,
-      "ms": 3099285,
+      "rank": 306,
+      "ms": 2388336,
       "dish": "Sundaes"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 128,
-      "ms": 3552239,
+      "rank": 146,
+      "ms": 3805890,
       "dish": "Pies"
     }
   ]

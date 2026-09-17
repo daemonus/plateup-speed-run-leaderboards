@@ -4,7 +4,7 @@
   "names": [
     "Raging Glizzy"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 126,
   "worstRank": 2152,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3257490,
   "weeksActive": [
     -93,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 126,
       "ms": 3603431,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 163,
+      "ms": 4158325,
+      "dish": "Pies"
     }
   ]
 }

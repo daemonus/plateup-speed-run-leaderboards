@@ -4,7 +4,7 @@
   "names": [
     "\u3057\u304A\u308B"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 59,
   "worstRank": 266,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     7,
     10,
     46,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 266,
       "ms": 2171197,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 86,
+      "ms": 3011690,
+      "dish": "Pies"
     }
   ]
 }

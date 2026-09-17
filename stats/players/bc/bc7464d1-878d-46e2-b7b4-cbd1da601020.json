@@ -4,7 +4,7 @@
   "names": [
     "sunlighticegirl"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 8,
   "worstRank": 195,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     34,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 18,
       "ms": 942855,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 17,
+      "ms": 1822554,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "sagu"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 75,
   "worstRank": 538,
   "firstPlaces": 0,
@@ -36,7 +36,8 @@
     28,
     34,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 209,
       "ms": 4926423,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 141,
+      "ms": 3737483,
+      "dish": "Pies"
     }
   ]
 }

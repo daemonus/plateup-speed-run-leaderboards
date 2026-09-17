@@ -1,16 +1,16 @@
 {
-  "id": "e6d41cef-40f9-4563-8afe-ca0850355a05",
-  "persona": "kisetukan",
+  "id": "32409547-ee70-49d2-85b2-98efbca56a50",
+  "persona": "AtomicGambler",
   "names": [
-    "kisetukan"
+    "AtomicGambler"
   ],
   "runs": 2,
-  "bestRank": 99,
-  "worstRank": 197,
+  "bestRank": 193,
+  "worstRank": 504,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2918110,
+  "bestMs": 4471203,
   "weeksActive": [
     82,
     88
@@ -19,15 +19,15 @@
     {
       "week": 82,
       "start": "2026-08-03",
-      "rank": 197,
-      "ms": 2918110,
+      "rank": 504,
+      "ms": 4471203,
       "dish": "Pizza"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 99,
-      "ms": 3109422,
+      "rank": 193,
+      "ms": 4772330,
       "dish": "Pies"
     }
   ]

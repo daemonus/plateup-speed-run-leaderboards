@@ -4,8 +4,8 @@
   "names": [
     "JChenNB"
   ],
-  "runs": 23,
-  "bestRank": 155,
+  "runs": 24,
+  "bestRank": 132,
   "worstRank": 554,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     82,
     83,
     85,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 174,
       "ms": 4291679,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 132,
+      "ms": 3596931,
+      "dish": "Pies"
     }
   ]
 }

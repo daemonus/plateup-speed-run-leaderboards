@@ -130,32 +130,6 @@
     ]
   },
   {
-    "id": "9e082453-f299-4228-9e8d-b783979afbf5",
-    "persona": "DrPanda",
-    "names": [
-      "DrPanda"
-    ],
-    "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4329553,
-    "weeksActive": [
-      87
-    ],
-    "history": [
-      {
-        "week": 87,
-        "start": "2026-09-07",
-        "rank": 176,
-        "ms": 4329553,
-        "dish": "Fajitas"
-      }
-    ]
-  },
-  {
     "id": "9e09ff61-6af7-4c3f-9cb8-7c6bd54f443f",
     "persona": "IMPALA",
     "names": [
@@ -474,8 +448,8 @@
       "rydmers"
     ],
     "runs": 1,
-    "bestRank": 41,
-    "worstRank": 41,
+    "bestRank": 45,
+    "worstRank": 45,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +461,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 41,
+        "rank": 45,
         "ms": 2435576,
         "dish": "Pies"
       }
