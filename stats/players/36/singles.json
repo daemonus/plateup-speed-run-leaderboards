@@ -1066,32 +1066,6 @@
     ]
   },
   {
-    "id": "36416449-9fc9-44b3-a1ed-0b524cba8c8c",
-    "persona": "waterlinia",
-    "names": [
-      "waterlinia"
-    ],
-    "runs": 1,
-    "bestRank": 286,
-    "worstRank": 286,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2684931,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 286,
-        "ms": 2684931,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "3642bcff-4843-404a-991a-34d3c6e48817",
     "persona": "\u5F7C\u6B64",
     "names": [
@@ -2908,6 +2882,32 @@
         "rank": 523,
         "ms": 3259361,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "36b94c21-8b6e-454e-a50b-b7c906f87f52",
+    "persona": "Necoegg",
+    "names": [
+      "Necoegg"
+    ],
+    "runs": 1,
+    "bestRank": 173,
+    "worstRank": 173,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3858649,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 173,
+        "ms": 3858649,
+        "dish": "Pies"
       }
     ]
   },

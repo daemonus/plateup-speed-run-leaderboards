@@ -4,7 +4,7 @@
   "names": [
     "\u82CF\u683C_\u62C9"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 72,
   "worstRank": 246,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     68,
     80,
     82,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 144,
       "ms": 2675627,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 88,
+      "ms": 2911297,
+      "dish": "Pies"
     }
   ]
 }

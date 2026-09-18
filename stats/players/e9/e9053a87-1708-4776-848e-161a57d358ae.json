@@ -4,7 +4,7 @@
   "names": [
     "sakurasuigetu"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 82,
   "worstRank": 342,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     82,
     83,
     84,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 118,
       "ms": 1735275,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 143,
+      "ms": 3444050,
+      "dish": "Pies"
     }
   ]
 }

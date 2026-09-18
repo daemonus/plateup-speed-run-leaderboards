@@ -4,7 +4,7 @@
   "names": [
     "\u7FCE\u745C"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 43,
   "worstRank": 443,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     82,
     83,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 43,
       "ms": 2777391,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 142,
+      "ms": 3439843,
+      "dish": "Pies"
     }
   ]
 }

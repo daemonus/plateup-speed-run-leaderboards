@@ -1,16 +1,16 @@
 {
-  "id": "a93262f1-ad0b-40b4-9f33-b3bb04e96d63",
-  "persona": "Cepheus",
+  "id": "36416449-9fc9-44b3-a1ed-0b524cba8c8c",
+  "persona": "waterlinia",
   "names": [
-    "Cepheus"
+    "waterlinia"
   ],
   "runs": 2,
-  "bestRank": 265,
-  "worstRank": 351,
+  "bestRank": 199,
+  "worstRank": 286,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3071406,
+  "bestMs": 2684931,
   "weeksActive": [
     86,
     88
@@ -19,15 +19,15 @@
     {
       "week": 86,
       "start": "2026-08-31",
-      "rank": 351,
-      "ms": 3071406,
+      "rank": 286,
+      "ms": 2684931,
       "dish": "Sundaes"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 265,
-      "ms": 14961960,
+      "rank": 199,
+      "ms": 4220237,
       "dish": "Pies"
     }
   ]

@@ -4,16 +4,17 @@
   "names": [
     "RYFA1122"
   ],
-  "runs": 2,
-  "bestRank": 275,
+  "runs": 3,
+  "bestRank": 138,
   "worstRank": 288,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3418165,
+  "bestMs": 3384007,
   "weeksActive": [
     80,
-    82
+    82,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 288,
       "ms": 3418165,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 138,
+      "ms": 3384007,
+      "dish": "Pies"
     }
   ]
 }

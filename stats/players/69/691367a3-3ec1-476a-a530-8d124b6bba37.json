@@ -4,7 +4,7 @@
   "names": [
     "stebe"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 73,
   "worstRank": 159,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     82,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 135,
       "ms": 1834983,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 98,
+      "ms": 2990676,
+      "dish": "Pies"
     }
   ]
 }

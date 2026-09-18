@@ -4,7 +4,7 @@
   "names": [
     "katrina"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 57,
   "worstRank": 513,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -67,
     -64,
     -61,
-    56
+    56,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 284,
       "ms": 2118194,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 157,
+      "ms": 3645320,
+      "dish": "Pies"
     }
   ]
 }
