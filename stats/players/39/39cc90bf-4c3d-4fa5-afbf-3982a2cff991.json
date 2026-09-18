@@ -1,16 +1,16 @@
 {
-  "id": "4ac72b5c-ee0f-425e-8df0-9685fdadf49a",
-  "persona": "Chezy",
+  "id": "39cc90bf-4c3d-4fa5-afbf-3982a2cff991",
+  "persona": "\u82B1\u5F00\u5BCC\u8D35",
   "names": [
-    "Chezy"
+    "\u82B1\u5F00\u5BCC\u8D35"
   ],
   "runs": 2,
-  "bestRank": 84,
-  "worstRank": 133,
+  "bestRank": 140,
+  "worstRank": 168,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3199049,
+  "bestMs": 3324295,
   "weeksActive": [
     87,
     88
@@ -19,15 +19,15 @@
     {
       "week": 87,
       "start": "2026-09-07",
-      "rank": 84,
-      "ms": 3199049,
+      "rank": 168,
+      "ms": 4232691,
       "dish": "Fajitas"
     },
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 133,
-      "ms": 3247739,
+      "rank": 140,
+      "ms": 3324295,
       "dish": "Pies"
     }
   ]

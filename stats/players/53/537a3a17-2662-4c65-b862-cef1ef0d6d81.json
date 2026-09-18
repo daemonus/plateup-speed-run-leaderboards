@@ -4,7 +4,7 @@
   "names": [
     "Catgirl"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 144,
   "worstRank": 567,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     78,
     79,
     80,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 253,
       "ms": 2172182,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 148,
+      "ms": 3403334,
+      "dish": "Pies"
     }
   ]
 }

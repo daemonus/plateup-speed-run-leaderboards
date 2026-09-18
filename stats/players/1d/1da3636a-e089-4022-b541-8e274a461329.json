@@ -4,8 +4,8 @@
   "names": [
     "yevfurman"
   ],
-  "runs": 7,
-  "bestRank": 128,
+  "runs": 8,
+  "bestRank": 72,
   "worstRank": 555,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     83,
     84,
     85,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 244,
       "ms": 2425826,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 72,
+      "ms": 2713800,
+      "dish": "Pies"
     }
   ]
 }

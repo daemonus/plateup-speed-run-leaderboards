@@ -4,7 +4,7 @@
   "names": [
     "PeaBuddy"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 65,
   "worstRank": 355,
   "firstPlaces": 0,
@@ -54,7 +54,8 @@
     61,
     63,
     73,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 220,
       "ms": 2009412,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 188,
+      "ms": 3877967,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "boofed"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 103,
   "worstRank": 389,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     78,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 170,
       "ms": 4253697,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 155,
+      "ms": 3484594,
+      "dish": "Pies"
     }
   ]
 }

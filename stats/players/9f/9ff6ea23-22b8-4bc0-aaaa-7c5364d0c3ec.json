@@ -4,16 +4,17 @@
   "names": [
     "\u3070\u305F\u30FC"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 7,
   "worstRank": 21,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
-  "bestMs": 1527876,
+  "top10": 2,
+  "bestMs": 1369364,
   "weeksActive": [
     79,
-    82
+    82,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 21,
       "ms": 1892256,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 7,
+      "ms": 1369364,
+      "dish": "Pies"
     }
   ]
 }

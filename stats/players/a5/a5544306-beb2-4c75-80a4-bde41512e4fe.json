@@ -4,7 +4,7 @@
   "names": [
     "sarah.sgsn"
   ],
-  "runs": 20,
+  "runs": 21,
   "bestRank": 80,
   "worstRank": 538,
   "firstPlaces": 0,
@@ -31,7 +31,8 @@
     30,
     59,
     61,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 250,
       "ms": 3376531,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 221,
+      "ms": 4359833,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Psicoti"
   ],
-  "runs": 2,
-  "bestRank": 320,
+  "runs": 3,
+  "bestRank": 247,
   "worstRank": 421,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4248350,
   "weeksActive": [
     9,
-    19
+    19,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 320,
       "ms": 4419150,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 247,
+      "ms": 4851241,
+      "dish": "Pies"
     }
   ]
 }

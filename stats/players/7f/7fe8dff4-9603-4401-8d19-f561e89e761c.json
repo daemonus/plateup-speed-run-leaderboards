@@ -4,7 +4,7 @@
   "names": [
     "Sajinator"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 10,
   "worstRank": 233,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     51,
     74,
     80,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 233,
       "ms": 2050471,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 53,
+      "ms": 2414011,
+      "dish": "Pies"
     }
   ]
 }

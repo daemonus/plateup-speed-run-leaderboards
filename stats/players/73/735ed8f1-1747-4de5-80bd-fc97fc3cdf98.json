@@ -4,7 +4,7 @@
   "names": [
     "Hong Hong"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 127,
   "worstRank": 382,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     77,
     79,
     80,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 127,
       "ms": 1691452,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 130,
+      "ms": 3202993,
+      "dish": "Pies"
     }
   ]
 }
