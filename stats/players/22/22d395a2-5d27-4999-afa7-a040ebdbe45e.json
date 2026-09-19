@@ -4,7 +4,7 @@
   "names": [
     "Peridote"
   ],
-  "runs": 101,
+  "runs": 102,
   "bestRank": 37,
   "worstRank": 591,
   "firstPlaces": 0,
@@ -112,7 +112,8 @@
     78,
     83,
     84,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -821,6 +822,13 @@
       "rank": 117,
       "ms": 2500376,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 71,
+      "ms": 2627609,
+      "dish": "Pies"
     }
   ]
 }

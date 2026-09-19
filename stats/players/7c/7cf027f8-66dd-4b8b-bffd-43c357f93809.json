@@ -4,7 +4,7 @@
   "names": [
     "YiLin"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 189,
   "worstRank": 759,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     81,
     82,
     83,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 189,
       "ms": 4494040,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 192,
+      "ms": 3774772,
+      "dish": "Pies"
     }
   ]
 }

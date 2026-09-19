@@ -4,7 +4,7 @@
   "names": [
     "yuya.yao"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 9,
   "worstRank": 384,
   "firstPlaces": 0,
@@ -54,7 +54,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 36,
       "ms": 2663381,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 43,
+      "ms": 2215801,
+      "dish": "Pies"
     }
   ]
 }

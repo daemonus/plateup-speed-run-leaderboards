@@ -4,7 +4,7 @@
   "names": [
     "kunkunchaokun"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 153,
   "worstRank": 416,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     63,
     64,
-    67
+    67,
+    88
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 153,
       "ms": 2951813,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 239,
+      "ms": 4377952,
+      "dish": "Pies"
     }
   ]
 }

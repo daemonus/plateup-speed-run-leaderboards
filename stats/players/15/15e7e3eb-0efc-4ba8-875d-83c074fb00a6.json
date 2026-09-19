@@ -4,7 +4,7 @@
   "names": [
     "squigglebibble"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 81,
   "worstRank": 369,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     -22,
     -21,
     29,
-    30
+    30,
+    88
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 200,
       "ms": 3124018,
       "dish": "Breakfast"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 118,
+      "ms": 3072711,
+      "dish": "Pies"
     }
   ]
 }

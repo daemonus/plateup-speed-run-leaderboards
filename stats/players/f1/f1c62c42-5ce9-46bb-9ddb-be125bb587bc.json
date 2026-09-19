@@ -4,7 +4,7 @@
   "names": [
     "Nit.L"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 38,
   "worstRank": 317,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     70,
     78,
     83,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 187,
       "ms": 1910785,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 145,
+      "ms": 3262093,
+      "dish": "Pies"
     }
   ]
 }

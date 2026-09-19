@@ -4,8 +4,8 @@
   "names": [
     "Rotten Apple"
   ],
-  "runs": 8,
-  "bestRank": 146,
+  "runs": 9,
+  "bestRank": 120,
   "worstRank": 461,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     75,
     80,
     81,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 231,
       "ms": 2111129,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 120,
+      "ms": 3079225,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "d5shen"
   ],
-  "runs": 37,
+  "runs": 38,
   "bestRank": 4,
   "worstRank": 405,
   "firstPlaces": 0,
@@ -48,7 +48,8 @@
     83,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -309,6 +310,13 @@
       "rank": 30,
       "ms": 2452172,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 15,
+      "ms": 1719817,
+      "dish": "Pies"
     }
   ]
 }
