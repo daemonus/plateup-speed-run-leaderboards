@@ -4,7 +4,7 @@
   "names": [
     "taopaipai0121"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 129,
   "worstRank": 359,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -67,
     -34,
     -3,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 338,
       "ms": 3980389,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 243,
+      "ms": 4091476,
+      "dish": "Pies"
     }
   ]
 }

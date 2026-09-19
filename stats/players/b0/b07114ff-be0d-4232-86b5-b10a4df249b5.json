@@ -4,7 +4,7 @@
   "names": [
     "Keiruha"
   ],
-  "runs": 125,
+  "runs": 126,
   "bestRank": 10,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -136,7 +136,8 @@
     81,
     84,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -1013,6 +1014,13 @@
       "rank": 101,
       "ms": 3367419,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 84,
+      "ms": 2696163,
+      "dish": "Pies"
     }
   ]
 }

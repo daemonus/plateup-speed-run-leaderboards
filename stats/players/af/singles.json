@@ -494,6 +494,32 @@
     ]
   },
   {
+    "id": "af35d25e-cf94-48cd-bc90-b6a98501c270",
+    "persona": "same",
+    "names": [
+      "same"
+    ],
+    "runs": 1,
+    "bestRank": 218,
+    "worstRank": 218,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3796864,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 218,
+        "ms": 3796864,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "af3cef05-4122-426a-9b05-01af34efbd89",
     "persona": "Plop",
     "names": [
@@ -1202,8 +1228,8 @@
       "nat"
     ],
     "runs": 1,
-    "bestRank": 184,
-    "worstRank": 184,
+    "bestRank": 204,
+    "worstRank": 204,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1241,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 184,
+        "rank": 204,
         "ms": 3680419,
         "dish": "Pies"
       }

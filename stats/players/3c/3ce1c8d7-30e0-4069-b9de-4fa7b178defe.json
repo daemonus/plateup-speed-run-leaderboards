@@ -4,7 +4,7 @@
   "names": [
     "witskis"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 56,
   "worstRank": 311,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2828013,
   "weeksActive": [
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 56,
       "ms": 2967827,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 149,
+      "ms": 3193475,
+      "dish": "Pies"
     }
   ]
 }

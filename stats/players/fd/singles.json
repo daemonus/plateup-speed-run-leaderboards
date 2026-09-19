@@ -2840,8 +2840,8 @@
       "ice"
     ],
     "runs": 1,
-    "bestRank": 131,
-    "worstRank": 131,
+    "bestRank": 143,
+    "worstRank": 143,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2853,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 131,
+        "rank": 143,
         "ms": 3155148,
         "dish": "Pies"
       }
@@ -3375,6 +3375,32 @@
         "start": "2023-05-01",
         "rank": 766,
         "ms": 4860561,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "fdfd4420-4ee1-49fe-af3f-a47d3103e640",
+    "persona": "\u239D\u29F9\u239DGhost\u23A0\u29F8\u23A0",
+    "names": [
+      "\u239D\u29F9\u239DGhost\u23A0\u29F8\u23A0"
+    ],
+    "runs": 1,
+    "bestRank": 316,
+    "worstRank": 316,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5194895,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 316,
+        "ms": 5194895,
         "dish": "Pies"
       }
     ]

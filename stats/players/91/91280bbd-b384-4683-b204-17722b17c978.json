@@ -4,7 +4,7 @@
   "names": [
     "paccbet79"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 84,
   "worstRank": 538,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     75,
     77,
     80,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 280,
       "ms": 2251918,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 206,
+      "ms": 3708521,
+      "dish": "Pies"
     }
   ]
 }

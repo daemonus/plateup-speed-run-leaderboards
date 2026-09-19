@@ -4,8 +4,8 @@
   "names": [
     "UnseelieMerry"
   ],
-  "runs": 10,
-  "bestRank": 260,
+  "runs": 11,
+  "bestRank": 239,
   "worstRank": 622,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     61,
     62,
     63,
-    71
+    71,
+    88
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 384,
       "ms": 4405422,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 239,
+      "ms": 4063884,
+      "dish": "Pies"
     }
   ]
 }

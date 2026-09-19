@@ -936,32 +936,6 @@
     ]
   },
   {
-    "id": "8d5a5a85-fc8e-45ec-8d5a-fe0940f19c2b",
-    "persona": "Albertinho",
-    "names": [
-      "Albertinho"
-    ],
-    "runs": 1,
-    "bestRank": 452,
-    "worstRank": 452,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3789338,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 452,
-        "ms": 3789338,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "8d5bfac4-df0b-4632-9349-eacc392d0386",
     "persona": "Ami-ness",
     "names": [
@@ -1124,8 +1098,8 @@
       "GenitoBB"
     ],
     "runs": 1,
-    "bestRank": 171,
-    "worstRank": 171,
+    "bestRank": 190,
+    "worstRank": 190,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1111,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 171,
+        "rank": 190,
         "ms": 3529317,
         "dish": "Pies"
       }

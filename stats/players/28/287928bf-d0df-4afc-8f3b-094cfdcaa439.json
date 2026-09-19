@@ -4,7 +4,7 @@
   "names": [
     "jenniferr.ludwig"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 63,
   "worstRank": 270,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     -78,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 63,
       "ms": 3014620,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 182,
+      "ms": 3445125,
+      "dish": "Pies"
     }
   ]
 }

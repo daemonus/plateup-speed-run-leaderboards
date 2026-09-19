@@ -1332,8 +1332,8 @@
       "\u6A58\u5EA7"
     ],
     "runs": 1,
-    "bestRank": 298,
-    "worstRank": 298,
+    "bestRank": 336,
+    "worstRank": 336,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 298,
+        "rank": 336,
         "ms": 6148375,
         "dish": "Pies"
       }
@@ -1946,6 +1946,32 @@
         "rank": 269,
         "ms": 3367524,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "92a5c4cb-3ce3-4666-8289-43531c032eeb",
+    "persona": "Extraviator",
+    "names": [
+      "Extraviator"
+    ],
+    "runs": 1,
+    "bestRank": 332,
+    "worstRank": 332,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5827072,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 332,
+        "ms": 5827072,
+        "dish": "Pies"
       }
     ]
   },

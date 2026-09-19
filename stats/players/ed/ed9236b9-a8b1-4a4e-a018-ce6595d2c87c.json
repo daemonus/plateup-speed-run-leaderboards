@@ -4,7 +4,7 @@
   "names": [
     "GasStationBooty"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 196,
   "worstRank": 627,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     61,
     62,
     64,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 196,
       "ms": 2135911,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 196,
+      "ms": 3626973,
+      "dish": "Pies"
     }
   ]
 }

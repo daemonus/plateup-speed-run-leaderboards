@@ -1,0 +1,34 @@
+{
+  "id": "99ae98f5-636e-45b7-bf1b-cdcd9bce65c3",
+  "persona": "Aerialman",
+  "names": [
+    "Aerialman"
+  ],
+  "runs": 2,
+  "bestRank": 104,
+  "worstRank": 159,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2954064,
+  "weeksActive": [
+    -80,
+    88
+  ],
+  "history": [
+    {
+      "week": -80,
+      "start": "2023-06-26",
+      "rank": 104,
+      "ms": 2954064,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 159,
+      "ms": 3250889,
+      "dish": "Pies"
+    }
+  ]
+}

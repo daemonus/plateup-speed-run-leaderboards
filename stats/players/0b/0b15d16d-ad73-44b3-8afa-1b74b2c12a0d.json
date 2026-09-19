@@ -4,7 +4,7 @@
   "names": [
     "Chewbecca"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 27,
   "worstRank": 237,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     45,
     46,
     47,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 186,
       "ms": 1900879,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 94,
+      "ms": 2776272,
+      "dish": "Pies"
     }
   ]
 }

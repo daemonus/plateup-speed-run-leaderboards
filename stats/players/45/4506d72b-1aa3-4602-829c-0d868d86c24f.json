@@ -4,8 +4,8 @@
   "names": [
     "P4t0"
   ],
-  "runs": 4,
-  "bestRank": 368,
+  "runs": 5,
+  "bestRank": 304,
   "worstRank": 722,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     80,
     82,
     83,
-    84
+    84,
+    88
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 520,
       "ms": 3529148,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 304,
+      "ms": 5004675,
+      "dish": "Pies"
     }
   ]
 }
