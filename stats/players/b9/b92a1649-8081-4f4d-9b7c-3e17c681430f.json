@@ -1,0 +1,34 @@
+{
+  "id": "b92a1649-8081-4f4d-9b7c-3e17c681430f",
+  "persona": "bingbong",
+  "names": [
+    "bingbong"
+  ],
+  "runs": 2,
+  "bestRank": 77,
+  "worstRank": 197,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2615804,
+  "weeksActive": [
+    85,
+    88
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 197,
+      "ms": 2980639,
+      "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 77,
+      "ms": 2615804,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1950,6 +1950,32 @@
     ]
   },
   {
+    "id": "0aa270d8-327d-4cc7-b429-24a9cfacb6fd",
+    "persona": "Cowman",
+    "names": [
+      "Cowman"
+    ],
+    "runs": 1,
+    "bestRank": 355,
+    "worstRank": 355,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5793623,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 355,
+        "ms": 5793623,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "0aa5097f-c1fc-4135-aec4-0c713bdd3c01",
     "persona": "cybob",
     "names": [
@@ -2346,8 +2372,8 @@
       "MiniMecki"
     ],
     "runs": 1,
-    "bestRank": 284,
-    "worstRank": 284,
+    "bestRank": 301,
+    "worstRank": 301,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2385,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 284,
+        "rank": 301,
         "ms": 4626824,
         "dish": "Pies"
       }

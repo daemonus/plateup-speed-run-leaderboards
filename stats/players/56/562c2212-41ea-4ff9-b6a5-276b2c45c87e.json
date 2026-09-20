@@ -4,7 +4,7 @@
   "names": [
     "Zoopop"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 141,
   "worstRank": 1187,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     43,
     52,
     57,
-    86
+    86,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 400,
       "ms": 3383999,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 257,
+      "ms": 4092980,
+      "dish": "Pies"
     }
   ]
 }

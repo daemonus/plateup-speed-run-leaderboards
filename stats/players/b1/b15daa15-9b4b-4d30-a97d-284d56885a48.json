@@ -4,7 +4,7 @@
   "names": [
     "\uD835\uDE51 \uD835\uDE3C \uD835\uDE4B \uD835\uDE4A \uD835\uDE4D . \uD835\uDE52 \uD835\uDE3C \uD835\uDE51"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 30,
   "worstRank": 287,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     79,
     81,
     82,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 172,
       "ms": 2805087,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 56,
+      "ms": 2389534,
+      "dish": "Pies"
     }
   ]
 }

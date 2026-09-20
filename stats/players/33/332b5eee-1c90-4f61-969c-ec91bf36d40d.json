@@ -4,7 +4,7 @@
   "names": [
     "Tutak Tutak Tutiya"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 214,
   "worstRank": 526,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     74,
     75,
     84,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 270,
       "ms": 3499227,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 276,
+      "ms": 4250609,
+      "dish": "Pies"
     }
   ]
 }

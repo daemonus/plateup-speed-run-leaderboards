@@ -4,7 +4,7 @@
   "names": [
     "El Magnusor"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 142,
   "worstRank": 393,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     81,
     82,
     83,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 219,
       "ms": 3126992,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 320,
+      "ms": 4954191,
+      "dish": "Pies"
     }
   ]
 }

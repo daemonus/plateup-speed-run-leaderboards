@@ -864,8 +864,8 @@
       "lightestpuma"
     ],
     "runs": 1,
-    "bestRank": 323,
-    "worstRank": 323,
+    "bestRank": 345,
+    "worstRank": 345,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 323,
+        "rank": 345,
         "ms": 5415136,
         "dish": "Pies"
       }
@@ -1088,6 +1088,32 @@
         "rank": 825,
         "ms": 4353742,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "44477ef3-b428-44a3-983e-4ff0d1d08703",
+    "persona": "Furious Black",
+    "names": [
+      "Furious Black"
+    ],
+    "runs": 1,
+    "bestRank": 369,
+    "worstRank": 369,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7155773,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 369,
+        "ms": 7155773,
+        "dish": "Pies"
       }
     ]
   },

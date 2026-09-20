@@ -4,7 +4,7 @@
   "names": [
     "Mastahshake"
   ],
-  "runs": 87,
+  "runs": 88,
   "bestRank": 64,
   "worstRank": 434,
   "firstPlaces": 0,
@@ -98,7 +98,8 @@
     56,
     57,
     59,
-    68
+    68,
+    88
   ],
   "history": [
     {
@@ -709,6 +710,13 @@
       "rank": 210,
       "ms": 2597051,
       "dish": "Turkey"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 123,
+      "ms": 2988517,
+      "dish": "Pies"
     }
   ]
 }

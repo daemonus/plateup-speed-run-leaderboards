@@ -4,7 +4,7 @@
   "names": [
     "wan"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 88,
   "worstRank": 542,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     84,
     85,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 157,
       "ms": 4007102,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 156,
+      "ms": 3182758,
+      "dish": "Pies"
     }
   ]
 }
