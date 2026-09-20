@@ -2268,8 +2268,8 @@
       "League Addict"
     ],
     "runs": 1,
-    "bestRank": 266,
-    "worstRank": 266,
+    "bestRank": 289,
+    "worstRank": 289,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2281,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 266,
+        "rank": 289,
         "ms": 4169150,
         "dish": "Pies"
       }
@@ -3688,6 +3688,32 @@
         "rank": 97,
         "ms": 2423288,
         "dish": "Steak"
+      }
+    ]
+  },
+  {
+    "id": "baf89f8b-b539-4273-98ca-1a07dccd3ff7",
+    "persona": "Dirkoonk",
+    "names": [
+      "Dirkoonk"
+    ],
+    "runs": 1,
+    "bestRank": 270,
+    "worstRank": 270,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4024274,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 270,
+        "ms": 4024274,
+        "dish": "Pies"
       }
     ]
   },

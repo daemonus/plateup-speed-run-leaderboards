@@ -4,7 +4,7 @@
   "names": [
     "\u3042\u304B\u3044\u308D\u72FC\uFF20TikTok"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 184,
   "worstRank": 554,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     28,
     83,
     86,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 184,
       "ms": 4417646,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 402,
+      "ms": 6714122,
+      "dish": "Pies"
     }
   ]
 }

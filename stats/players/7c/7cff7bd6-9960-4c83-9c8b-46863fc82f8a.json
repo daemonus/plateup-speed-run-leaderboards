@@ -4,7 +4,7 @@
   "names": [
     "nicodelion"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 70,
   "worstRank": 425,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     69,
     70,
     72,
-    74
+    74,
+    88
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 141,
       "ms": 3316091,
       "dish": "Breakfast"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 110,
+      "ms": 2810799,
+      "dish": "Pies"
     }
   ]
 }

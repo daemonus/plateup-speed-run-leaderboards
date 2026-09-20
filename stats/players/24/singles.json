@@ -1124,8 +1124,8 @@
       "Amethyst"
     ],
     "runs": 1,
-    "bestRank": 360,
-    "worstRank": 360,
+    "bestRank": 395,
+    "worstRank": 395,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 360,
+        "rank": 395,
         "ms": 6094537,
         "dish": "Pies"
       }
@@ -1244,32 +1244,6 @@
         "rank": 625,
         "ms": 4261549,
         "dish": "Turkey"
-      }
-    ]
-  },
-  {
-    "id": "246baee3-b25d-4791-a7b1-3655f8845637",
-    "persona": "Faptain_Curby",
-    "names": [
-      "Faptain_Curby"
-    ],
-    "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3834428,
-    "weeksActive": [
-      61
-    ],
-    "history": [
-      {
-        "week": 61,
-        "start": "2026-03-09",
-        "rank": 258,
-        "ms": 3834428,
-        "dish": "Hot Dogs"
       }
     ]
   },

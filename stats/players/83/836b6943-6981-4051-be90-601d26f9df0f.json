@@ -4,7 +4,7 @@
   "names": [
     "Lgspirit"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 108,
   "worstRank": 330,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     74,
     83,
     84,
-    87
+    87,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 154,
       "ms": 3952923,
       "dish": "Fajitas"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 113,
+      "ms": 2819155,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Yami"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 199,
   "worstRank": 802,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     56,
     61,
     64,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 417,
       "ms": 2720313,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 274,
+      "ms": 4066108,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Vany"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 231,
   "worstRank": 513,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     65,
     77,
     80,
-    85
+    85,
+    88
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 377,
       "ms": 4315661,
       "dish": "Fish"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 308,
+      "ms": 4374017,
+      "dish": "Pies"
     }
   ]
 }

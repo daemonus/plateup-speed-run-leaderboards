@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "e460511e-6340-4cba-a186-f9a70a98207e",
+    "persona": "NekoLewder",
+    "names": [
+      "NekoLewder"
+    ],
+    "runs": 1,
+    "bestRank": 172,
+    "worstRank": 172,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3202863,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 172,
+        "ms": 3202863,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "e4618359-162b-4347-8131-4a6595d636b9",
     "persona": "DerSaeugling",
     "names": [
@@ -2112,8 +2138,8 @@
       "ponkan21"
     ],
     "runs": 1,
-    "bestRank": 227,
-    "worstRank": 227,
+    "bestRank": 242,
+    "worstRank": 242,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2125,7 +2151,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 227,
+        "rank": 242,
         "ms": 3777869,
         "dish": "Pies"
       }

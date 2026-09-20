@@ -4,7 +4,7 @@
   "names": [
     "lypater11"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 47,
   "worstRank": 338,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     77,
     78,
     79,
-    80
+    80,
+    88
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 192,
       "ms": 3204906,
       "dish": "Pizza"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 170,
+      "ms": 3199886,
+      "dish": "Pies"
     }
   ]
 }

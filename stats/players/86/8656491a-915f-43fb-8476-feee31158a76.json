@@ -4,8 +4,8 @@
   "names": [
     "Gaar\u00E1"
   ],
-  "runs": 2,
-  "bestRank": 284,
+  "runs": 3,
+  "bestRank": 192,
   "worstRank": 375,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2575903,
   "weeksActive": [
     41,
-    60
+    60,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 284,
       "ms": 3953578,
       "dish": "Burgers"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 192,
+      "ms": 3331197,
+      "dish": "Pies"
     }
   ]
 }

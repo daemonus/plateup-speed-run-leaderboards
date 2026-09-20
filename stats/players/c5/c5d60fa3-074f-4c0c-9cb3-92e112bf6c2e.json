@@ -4,8 +4,8 @@
   "names": [
     "2499516425"
   ],
-  "runs": 2,
-  "bestRank": 556,
+  "runs": 3,
+  "bestRank": 287,
   "worstRank": 583,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3165444,
   "weeksActive": [
     82,
-    83
+    83,
+    88
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 556,
       "ms": 3165444,
       "dish": "Sundaes"
+    },
+    {
+      "week": 88,
+      "start": "2026-09-14",
+      "rank": 287,
+      "ms": 4164330,
+      "dish": "Pies"
     }
   ]
 }

@@ -1670,8 +1670,8 @@
       "Prororok"
     ],
     "runs": 1,
-    "bestRank": 306,
-    "worstRank": 306,
+    "bestRank": 337,
+    "worstRank": 337,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1683,7 +1683,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 306,
+        "rank": 337,
         "ms": 4692052,
         "dish": "Pies"
       }
@@ -2752,6 +2752,32 @@
         "rank": 402,
         "ms": 5917368,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "b1c8d181-259d-4e18-8e68-d29456488066",
+    "persona": "pureclouds",
+    "names": [
+      "pureclouds"
+    ],
+    "runs": 1,
+    "bestRank": 390,
+    "worstRank": 390,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5818687,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 390,
+        "ms": 5818687,
+        "dish": "Pies"
       }
     ]
   },

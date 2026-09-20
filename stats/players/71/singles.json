@@ -1228,8 +1228,8 @@
       "Arie Real"
     ],
     "runs": 1,
-    "bestRank": 237,
-    "worstRank": 237,
+    "bestRank": 253,
+    "worstRank": 253,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 88,
         "start": "2026-09-14",
-        "rank": 237,
+        "rank": 253,
         "ms": 3870931,
         "dish": "Pies"
       }
@@ -2284,6 +2284,32 @@
         "rank": 483,
         "ms": 3638356,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "71d1cfb4-8ac9-430e-b3d9-f7d3ad3f1db1",
+    "persona": "Samu",
+    "names": [
+      "Samu"
+    ],
+    "runs": 1,
+    "bestRank": 261,
+    "worstRank": 261,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3924028,
+    "weeksActive": [
+      88
+    ],
+    "history": [
+      {
+        "week": 88,
+        "start": "2026-09-14",
+        "rank": 261,
+        "ms": 3924028,
+        "dish": "Pies"
       }
     ]
   },
