@@ -4,12 +4,12 @@
   "names": [
     "3mmber"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 7,
   "worstRank": 295,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 2,
+  "top10": 3,
   "bestMs": 892621,
   "weeksActive": [
     -64,
@@ -42,7 +42,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 14,
       "ms": 1703874,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 9,
+      "ms": 2658960,
+      "dish": "Pizza"
     }
   ]
 }

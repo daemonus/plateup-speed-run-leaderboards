@@ -4,12 +4,12 @@
   "names": [
     "Feudal Lard"
   ],
-  "runs": 81,
-  "bestRank": 40,
+  "runs": 82,
+  "bestRank": 8,
   "worstRank": 357,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1415999,
   "weeksActive": [
     -5,
@@ -92,7 +92,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -661,6 +662,13 @@
       "rank": 63,
       "ms": 2397395,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 8,
+      "ms": 2463701,
+      "dish": "Pizza"
     }
   ]
 }

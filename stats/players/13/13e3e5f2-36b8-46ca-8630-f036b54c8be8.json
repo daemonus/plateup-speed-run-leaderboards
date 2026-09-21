@@ -4,8 +4,8 @@
   "names": [
     "toranosuke.ko"
   ],
-  "runs": 19,
-  "bestRank": 103,
+  "runs": 20,
+  "bestRank": 27,
   "worstRank": 334,
   "firstPlaces": 0,
   "top3": 0,
@@ -30,7 +30,8 @@
     83,
     84,
     85,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 251,
       "ms": 3849293,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 27,
+      "ms": 3903918,
+      "dish": "Pizza"
     }
   ]
 }
