@@ -4,7 +4,7 @@
   "names": [
     "x1010_b1222"
   ],
-  "runs": 41,
+  "runs": 42,
   "bestRank": 15,
   "worstRank": 451,
   "firstPlaces": 0,
@@ -52,7 +52,8 @@
     84,
     85,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -341,6 +342,13 @@
       "rank": 108,
       "ms": 2780282,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 23,
+      "ms": 2617143,
+      "dish": "Pizza"
     }
   ]
 }

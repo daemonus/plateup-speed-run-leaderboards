@@ -4,12 +4,12 @@
   "names": [
     "KVT"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 1,
   "worstRank": 126,
-  "firstPlaces": 9,
-  "top3": 11,
-  "top10": 11,
+  "firstPlaces": 10,
+  "top3": 12,
+  "top10": 12,
   "bestMs": 449682,
   "weeksActive": [
     64,
@@ -25,7 +25,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 1,
       "ms": 779633,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 1,
+      "ms": 826159,
+      "dish": "Pizza"
     }
   ]
 }

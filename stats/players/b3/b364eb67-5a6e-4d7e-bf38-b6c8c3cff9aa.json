@@ -4,8 +4,8 @@
   "names": [
     "AdventurousEmu"
   ],
-  "runs": 6,
-  "bestRank": 25,
+  "runs": 7,
+  "bestRank": 13,
   "worstRank": 175,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     80,
     81,
     82,
-    83
+    83,
+    89
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 31,
       "ms": 1215133,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 13,
+      "ms": 2162755,
+      "dish": "Pizza"
     }
   ]
 }

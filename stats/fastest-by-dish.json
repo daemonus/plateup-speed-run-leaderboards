@@ -1233,6 +1233,22 @@
     "dish": "Pizza",
     "fastest": [
       {
+        "id": "e5d205c6-d579-4e64-ab34-8bc91f57c776",
+        "persona": "KVT",
+        "ms": 826159,
+        "week": 89,
+        "rank": 1,
+        "dish": "Pizza"
+      },
+      {
+        "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
+        "persona": "spuff",
+        "ms": 1007670,
+        "week": 89,
+        "rank": 2,
+        "dish": "Pizza"
+      },
+      {
         "id": "16383eec-aa4b-4338-8a29-a60f2c4a4537",
         "persona": "bunniesaurusss",
         "ms": 1215038,
@@ -1281,6 +1297,14 @@
         "dish": "Pizza"
       },
       {
+        "id": "e5c02f61-4d29-4de0-8a8f-7668c4397d22",
+        "persona": "[rpx]candy",
+        "ms": 1232592,
+        "week": 89,
+        "rank": 3,
+        "dish": "Pizza"
+      },
+      {
         "id": "02f3933c-10ef-483d-89f6-ffa625d9423e",
         "persona": "Stefan",
         "ms": 1245208,
@@ -1297,26 +1321,10 @@
         "dish": "Pizza"
       },
       {
-        "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
-        "persona": "spuff",
-        "ms": 1319010,
-        "week": 82,
-        "rank": 1,
-        "dish": "Pizza"
-      },
-      {
         "id": "70fc6b9f-9542-4511-943d-29c263ab53f9",
         "persona": "\u3069\u306E\u3088\u3046\u306B\u751F\u304D\u6B8B\u308B\u306E",
         "ms": 1322829,
         "week": 63,
-        "rank": 2,
-        "dish": "Pizza"
-      },
-      {
-        "id": "e5c02f61-4d29-4de0-8a8f-7668c4397d22",
-        "persona": "[rpx]candy",
-        "ms": 1348772,
-        "week": 82,
         "rank": 2,
         "dish": "Pizza"
       },
@@ -1421,14 +1429,6 @@
         "persona": "tera",
         "ms": 1459220,
         "week": -2,
-        "rank": 4,
-        "dish": "Pizza"
-      },
-      {
-        "id": "7b119ad6-3737-4b5a-bc29-730fc8c959c8",
-        "persona": "Fangz_88",
-        "ms": 1469548,
-        "week": 65,
         "rank": 4,
         "dish": "Pizza"
       }

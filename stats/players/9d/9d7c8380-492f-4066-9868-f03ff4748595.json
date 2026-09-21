@@ -4,8 +4,8 @@
   "names": [
     "kunkunchaokun"
   ],
-  "runs": 4,
-  "bestRank": 153,
+  "runs": 5,
+  "bestRank": 63,
   "worstRank": 416,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     63,
     64,
     67,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 309,
       "ms": 4377952,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 63,
+      "ms": 4370581,
+      "dish": "Pizza"
     }
   ]
 }

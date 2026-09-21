@@ -4,12 +4,12 @@
   "names": [
     "beccaaaaaa"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 3,
   "worstRank": 820,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 9,
+  "top10": 10,
   "bestMs": 654911,
   "weeksActive": [
     -77,
@@ -42,7 +42,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 4,
       "ms": 1201227,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 4,
+      "ms": 1477091,
+      "dish": "Pizza"
     }
   ]
 }

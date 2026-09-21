@@ -4,8 +4,8 @@
   "names": [
     "katrina"
   ],
-  "runs": 9,
-  "bestRank": 57,
+  "runs": 10,
+  "bestRank": 22,
   "worstRank": 513,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     -64,
     -61,
     56,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 120,
       "ms": 2848440,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 22,
+      "ms": 2543366,
+      "dish": "Pizza"
     }
   ]
 }

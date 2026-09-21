@@ -4,7 +4,7 @@
   "names": [
     "mcksteelet"
   ],
-  "runs": 84,
+  "runs": 85,
   "bestRank": 10,
   "worstRank": 709,
   "firstPlaces": 0,
@@ -95,7 +95,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -685,6 +686,13 @@
       "rank": 118,
       "ms": 2843841,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 16,
+      "ms": 2379344,
+      "dish": "Pizza"
     }
   ]
 }

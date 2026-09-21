@@ -1,0 +1,34 @@
+{
+  "id": "3eb7dddc-6f3e-4890-8d44-8c33e2c443d2",
+  "persona": "Kryptic",
+  "names": [
+    "Kryptic"
+  ],
+  "runs": 2,
+  "bestRank": 67,
+  "worstRank": 519,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3524802,
+  "weeksActive": [
+    84,
+    89
+  ],
+  "history": [
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 519,
+      "ms": 3524802,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 67,
+      "ms": 4794036,
+      "dish": "Pizza"
+    }
+  ]
+}

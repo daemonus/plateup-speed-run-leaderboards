@@ -4,7 +4,7 @@
   "names": [
     "Vorslon13"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 8,
   "worstRank": 177,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     59,
     60,
     61,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 74,
       "ms": 1473664,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 25,
+      "ms": 2690462,
+      "dish": "Pizza"
     }
   ]
 }

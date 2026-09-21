@@ -4,7 +4,7 @@
   "names": [
     "Gwindor_88"
   ],
-  "runs": 48,
+  "runs": 49,
   "bestRank": 13,
   "worstRank": 792,
   "firstPlaces": 0,
@@ -59,7 +59,8 @@
     67,
     68,
     69,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -397,6 +398,13 @@
       "rank": 44,
       "ms": 2170002,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 21,
+      "ms": 2474173,
+      "dish": "Pizza"
     }
   ]
 }

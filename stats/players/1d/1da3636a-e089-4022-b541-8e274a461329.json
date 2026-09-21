@@ -4,8 +4,8 @@
   "names": [
     "yevfurman"
   ],
-  "runs": 8,
-  "bestRank": 95,
+  "runs": 9,
+  "bestRank": 37,
   "worstRank": 555,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 95,
       "ms": 2713800,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 37,
+      "ms": 3088687,
+      "dish": "Pizza"
     }
   ]
 }

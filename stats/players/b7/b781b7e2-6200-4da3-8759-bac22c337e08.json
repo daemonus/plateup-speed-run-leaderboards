@@ -4,8 +4,8 @@
   "names": [
     "SUTO"
   ],
-  "runs": 29,
-  "bestRank": 137,
+  "runs": 30,
+  "bestRank": 39,
   "worstRank": 618,
   "firstPlaces": 0,
   "top3": 0,
@@ -40,7 +40,8 @@
     84,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 157,
       "ms": 3129338,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 39,
+      "ms": 3203820,
+      "dish": "Pizza"
     }
   ]
 }
