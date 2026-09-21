@@ -4,19 +4,20 @@
   "names": [
     "That_Knight"
   ],
-  "runs": 5,
-  "bestRank": 207,
+  "runs": 6,
+  "bestRank": 10,
   "worstRank": 483,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 2194621,
   "weeksActive": [
     11,
     12,
     13,
     14,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 207,
       "ms": 2194621,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 10,
+      "ms": 2894968,
+      "dish": "Pizza"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "names": [
     "Dominant and Barren"
   ],
-  "runs": 63,
-  "bestRank": 72,
+  "runs": 64,
+  "bestRank": 7,
   "worstRank": 1524,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 2376725,
   "weeksActive": [
     -94,
@@ -74,7 +74,8 @@
     21,
     61,
     64,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -517,6 +518,13 @@
       "rank": 187,
       "ms": 3305254,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 7,
+      "ms": 2835427,
+      "dish": "Pizza"
     }
   ]
 }

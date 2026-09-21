@@ -4,12 +4,12 @@
   "names": [
     "chabel"
   ],
-  "runs": 120,
+  "runs": 121,
   "bestRank": 9,
   "worstRank": 778,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 1257749,
   "weeksActive": [
     -79,
@@ -131,7 +131,8 @@
     70,
     72,
     73,
-    80
+    80,
+    89
   ],
   "history": [
     {
@@ -972,6 +973,13 @@
       "start": "2026-07-20",
       "rank": 94,
       "ms": 2615564,
+      "dish": "Pizza"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 9,
+      "ms": 2870045,
       "dish": "Pizza"
     }
   ]

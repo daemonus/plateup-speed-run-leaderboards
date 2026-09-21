@@ -4,12 +4,12 @@
   "names": [
     "beth_web04"
   ],
-  "runs": 80,
-  "bestRank": 38,
+  "runs": 81,
+  "bestRank": 6,
   "worstRank": 1170,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 2083930,
   "weeksActive": [
     -93,
@@ -91,7 +91,8 @@
     67,
     68,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -653,6 +654,13 @@
       "rank": 147,
       "ms": 3076844,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 6,
+      "ms": 2715489,
+      "dish": "Pizza"
     }
   ]
 }

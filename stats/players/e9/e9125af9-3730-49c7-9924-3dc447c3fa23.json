@@ -4,12 +4,12 @@
   "names": [
     "Jimbos Monkey"
   ],
-  "runs": 179,
-  "bestRank": 15,
+  "runs": 180,
+  "bestRank": 5,
   "worstRank": 1205,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1389470,
   "weeksActive": [
     -92,
@@ -190,7 +190,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -1445,6 +1446,13 @@
       "rank": 31,
       "ms": 2035914,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 5,
+      "ms": 2685896,
+      "dish": "Pizza"
     }
   ]
 }

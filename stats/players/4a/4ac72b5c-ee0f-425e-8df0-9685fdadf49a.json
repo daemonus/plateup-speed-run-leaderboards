@@ -4,16 +4,17 @@
   "names": [
     "Chezy"
   ],
-  "runs": 2,
-  "bestRank": 84,
+  "runs": 3,
+  "bestRank": 8,
   "worstRank": 178,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
-  "bestMs": 3199049,
+  "top10": 1,
+  "bestMs": 2848209,
   "weeksActive": [
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 178,
       "ms": 3247739,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 8,
+      "ms": 2848209,
+      "dish": "Pizza"
     }
   ]
 }

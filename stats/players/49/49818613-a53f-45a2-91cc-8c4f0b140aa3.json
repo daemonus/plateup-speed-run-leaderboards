@@ -4,12 +4,12 @@
   "names": [
     "Flat"
   ],
-  "runs": 161,
-  "bestRank": 15,
+  "runs": 162,
+  "bestRank": 2,
   "worstRank": 854,
   "firstPlaces": 0,
-  "top3": 0,
-  "top10": 0,
+  "top3": 1,
+  "top10": 1,
   "bestMs": 1360555,
   "weeksActive": [
     -93,
@@ -172,7 +172,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -1301,6 +1302,13 @@
       "rank": 64,
       "ms": 2398601,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 2,
+      "ms": 2112596,
+      "dish": "Pizza"
     }
   ]
 }
