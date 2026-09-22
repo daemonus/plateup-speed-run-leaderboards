@@ -4,7 +4,7 @@
   "names": [
     "bicky-_-"
   ],
-  "runs": 129,
+  "runs": 130,
   "bestRank": 11,
   "worstRank": 605,
   "firstPlaces": 0,
@@ -140,7 +140,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -1045,6 +1046,13 @@
       "rank": 54,
       "ms": 2287131,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 36,
+      "ms": 2779594,
+      "dish": "Pizza"
     }
   ]
 }

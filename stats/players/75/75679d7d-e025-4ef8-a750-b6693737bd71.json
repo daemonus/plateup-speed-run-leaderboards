@@ -4,7 +4,7 @@
   "names": [
     "kurosatochi"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 21,
   "worstRank": 77,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 43,
       "ms": 2130143,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 24,
+      "ms": 2480986,
+      "dish": "Pizza"
     }
   ]
 }

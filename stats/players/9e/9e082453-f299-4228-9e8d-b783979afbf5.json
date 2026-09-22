@@ -4,16 +4,17 @@
   "names": [
     "DrPanda"
   ],
-  "runs": 2,
-  "bestRank": 176,
+  "runs": 3,
+  "bestRank": 61,
   "worstRank": 200,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3418551,
+  "bestMs": 3250623,
   "weeksActive": [
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 200,
       "ms": 3418551,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 61,
+      "ms": 3250623,
+      "dish": "Pizza"
     }
   ]
 }

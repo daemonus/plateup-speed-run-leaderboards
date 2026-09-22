@@ -4,8 +4,8 @@
   "names": [
     "beanlikespitas"
   ],
-  "runs": 3,
-  "bestRank": 207,
+  "runs": 4,
+  "bestRank": 95,
   "worstRank": 409,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     85,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 207,
       "ms": 4856606,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 95,
+      "ms": 4805742,
+      "dish": "Pizza"
     }
   ]
 }

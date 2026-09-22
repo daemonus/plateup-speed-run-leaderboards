@@ -4,8 +4,8 @@
   "names": [
     "goalgun"
   ],
-  "runs": 2,
-  "bestRank": 521,
+  "runs": 3,
+  "bestRank": 104,
   "worstRank": 623,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4953958,
   "weeksActive": [
     84,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 521,
       "ms": 4953958,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 104,
+      "ms": 7211259,
+      "dish": "Pizza"
     }
   ]
 }

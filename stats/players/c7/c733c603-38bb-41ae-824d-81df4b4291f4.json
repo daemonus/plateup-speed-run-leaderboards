@@ -4,7 +4,7 @@
   "names": [
     "kousaka_rico"
   ],
-  "runs": 127,
+  "runs": 128,
   "bestRank": 14,
   "worstRank": 353,
   "firstPlaces": 0,
@@ -138,7 +138,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -1029,6 +1030,13 @@
       "rank": 55,
       "ms": 2291145,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 45,
+      "ms": 2873531,
+      "dish": "Pizza"
     }
   ]
 }

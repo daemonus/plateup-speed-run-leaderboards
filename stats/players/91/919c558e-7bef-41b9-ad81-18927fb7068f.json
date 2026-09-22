@@ -4,18 +4,19 @@
   "names": [
     "Coliro"
   ],
-  "runs": 4,
-  "bestRank": 142,
+  "runs": 5,
+  "bestRank": 28,
   "worstRank": 499,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2638510,
+  "bestMs": 2603526,
   "weeksActive": [
     -77,
     -75,
     -71,
-    -59
+    -59,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 142,
       "ms": 2746966,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 28,
+      "ms": 2603526,
+      "dish": "Pizza"
     }
   ]
 }

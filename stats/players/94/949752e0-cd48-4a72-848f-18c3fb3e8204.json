@@ -4,8 +4,8 @@
   "names": [
     "nicole.cumming"
   ],
-  "runs": 10,
-  "bestRank": 167,
+  "runs": 11,
+  "bestRank": 75,
   "worstRank": 424,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     84,
     85,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 167,
       "ms": 4220602,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 75,
+      "ms": 3701046,
+      "dish": "Pizza"
     }
   ]
 }

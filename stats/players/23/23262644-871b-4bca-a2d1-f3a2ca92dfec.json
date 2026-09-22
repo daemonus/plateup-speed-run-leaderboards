@@ -4,7 +4,7 @@
   "names": [
     "lostexpat"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 17,
   "worstRank": 361,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 269,
       "ms": 4015673,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 50,
+      "ms": 3032228,
+      "dish": "Pizza"
     }
   ]
 }

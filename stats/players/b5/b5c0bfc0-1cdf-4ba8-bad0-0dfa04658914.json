@@ -4,7 +4,7 @@
   "names": [
     "gschir2"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 29,
   "worstRank": 304,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     71,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 94,
       "ms": 2701447,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 33,
+      "ms": 2692674,
+      "dish": "Pizza"
     }
   ]
 }

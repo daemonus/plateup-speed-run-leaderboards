@@ -4,7 +4,7 @@
   "names": [
     "elitesP"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 27,
   "worstRank": 115,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     63,
     64,
     65,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 89,
       "ms": 2657338,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 31,
+      "ms": 2687250,
+      "dish": "Pizza"
     }
   ]
 }

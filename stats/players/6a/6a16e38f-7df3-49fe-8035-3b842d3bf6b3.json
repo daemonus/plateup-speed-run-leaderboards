@@ -4,8 +4,8 @@
   "names": [
     "Kard"
   ],
-  "runs": 5,
-  "bestRank": 212,
+  "runs": 6,
+  "bestRank": 52,
   "worstRank": 956,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -71,
     20,
     23,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 212,
       "ms": 5084309,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 52,
+      "ms": 3084802,
+      "dish": "Pizza"
     }
   ]
 }
