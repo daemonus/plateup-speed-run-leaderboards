@@ -4,7 +4,7 @@
   "names": [
     "Fable"
   ],
-  "runs": 59,
+  "runs": 60,
   "bestRank": 31,
   "worstRank": 485,
   "firstPlaces": 0,
@@ -70,7 +70,8 @@
     84,
     85,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -485,6 +486,13 @@
       "rank": 83,
       "ms": 3187513,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 32,
+      "ms": 2550562,
+      "dish": "Pizza"
     }
   ]
 }

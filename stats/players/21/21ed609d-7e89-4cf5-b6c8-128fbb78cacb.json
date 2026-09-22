@@ -4,8 +4,8 @@
   "names": [
     "LoupGames"
   ],
-  "runs": 7,
-  "bestRank": 259,
+  "runs": 8,
+  "bestRank": 86,
   "worstRank": 394,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     68,
     69,
     70,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 288,
       "ms": 2690450,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 86,
+      "ms": 3288936,
+      "dish": "Pizza"
     }
   ]
 }

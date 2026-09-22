@@ -474,8 +474,8 @@
       "narcc"
     ],
     "runs": 1,
-    "bestRank": 58,
-    "worstRank": 58,
+    "bestRank": 77,
+    "worstRank": 77,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 58,
+        "rank": 77,
         "ms": 3213152,
         "dish": "Pizza"
       }
@@ -542,6 +542,32 @@
         "rank": 249,
         "ms": 3750501,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "3c305a4a-cf9b-45f7-81cb-64df07693397",
+    "persona": "breezy",
+    "names": [
+      "breezy"
+    ],
+    "runs": 1,
+    "bestRank": 46,
+    "worstRank": 46,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2707378,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 46,
+        "ms": 2707378,
+        "dish": "Pizza"
       }
     ]
   },

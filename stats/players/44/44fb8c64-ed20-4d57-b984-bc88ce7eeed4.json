@@ -4,8 +4,8 @@
   "names": [
     "AncientLink"
   ],
-  "runs": 6,
-  "bestRank": 64,
+  "runs": 7,
+  "bestRank": 38,
   "worstRank": 319,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 73,
       "ms": 2502402,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 38,
+      "ms": 2613839,
+      "dish": "Pizza"
     }
   ]
 }

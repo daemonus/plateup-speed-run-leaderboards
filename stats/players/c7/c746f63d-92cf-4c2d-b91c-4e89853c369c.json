@@ -4,7 +4,7 @@
   "names": [
     "ernestkwyip"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 36,
   "worstRank": 163,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 37,
       "ms": 2081517,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 36,
+      "ms": 2585324,
+      "dish": "Pizza"
     }
   ]
 }

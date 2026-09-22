@@ -4,7 +4,7 @@
   "names": [
     "guchiyama"
   ],
-  "runs": 61,
+  "runs": 62,
   "bestRank": 7,
   "worstRank": 566,
   "firstPlaces": 0,
@@ -72,7 +72,8 @@
     83,
     84,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -501,6 +502,13 @@
       "rank": 123,
       "ms": 2898401,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 70,
+      "ms": 3125359,
+      "dish": "Pizza"
     }
   ]
 }

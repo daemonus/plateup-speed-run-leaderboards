@@ -4,7 +4,7 @@
   "names": [
     "omn9310"
   ],
-  "runs": 44,
+  "runs": 45,
   "bestRank": 2,
   "worstRank": 193,
   "firstPlaces": 0,
@@ -55,7 +55,8 @@
     78,
     84,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -365,6 +366,13 @@
       "rank": 26,
       "ms": 1833719,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 11,
+      "ms": 2003974,
+      "dish": "Pizza"
     }
   ]
 }
