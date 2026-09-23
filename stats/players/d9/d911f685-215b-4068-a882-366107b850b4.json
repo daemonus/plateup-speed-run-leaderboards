@@ -4,7 +4,7 @@
   "names": [
     "hovanes2"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 4,
   "worstRank": 207,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 47,
       "ms": 2188825,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 16,
+      "ms": 2029685,
+      "dish": "Pizza"
     }
   ]
 }

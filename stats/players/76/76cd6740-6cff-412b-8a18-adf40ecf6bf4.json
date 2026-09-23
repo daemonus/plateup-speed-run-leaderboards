@@ -4,7 +4,7 @@
   "names": [
     "lumina03"
   ],
-  "runs": 91,
+  "runs": 92,
   "bestRank": 2,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -102,7 +102,8 @@
     83,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -741,6 +742,13 @@
       "rank": 25,
       "ms": 1830715,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 13,
+      "ms": 1996340,
+      "dish": "Pizza"
     }
   ]
 }

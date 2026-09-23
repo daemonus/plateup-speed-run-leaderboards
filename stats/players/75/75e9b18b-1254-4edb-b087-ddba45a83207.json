@@ -4,7 +4,7 @@
   "names": [
     "artemisthegamer40"
   ],
-  "runs": 71,
+  "runs": 72,
   "bestRank": 54,
   "worstRank": 278,
   "firstPlaces": 0,
@@ -82,7 +82,8 @@
     84,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -581,6 +582,13 @@
       "rank": 90,
       "ms": 2659787,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 102,
+      "ms": 3375760,
+      "dish": "Pizza"
     }
   ]
 }

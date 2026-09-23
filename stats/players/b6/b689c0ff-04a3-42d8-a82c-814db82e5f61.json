@@ -4,8 +4,8 @@
   "names": [
     "sswan_m"
   ],
-  "runs": 3,
-  "bestRank": 181,
+  "runs": 4,
+  "bestRank": 39,
   "worstRank": 298,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -82,
     -71,
-    84
+    84,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 181,
       "ms": 1879924,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 39,
+      "ms": 2524708,
+      "dish": "Pizza"
     }
   ]
 }

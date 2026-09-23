@@ -4,7 +4,7 @@
   "names": [
     "sakaf6948"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 100,
   "worstRank": 1021,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     -75,
     -71,
     -67,
-    -66
+    -66,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 248,
       "ms": 3901194,
       "dish": "Turkey"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 148,
+      "ms": 4925231,
+      "dish": "Pizza"
     }
   ]
 }

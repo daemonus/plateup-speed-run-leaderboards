@@ -4,7 +4,7 @@
   "names": [
     "feversugar."
   ],
-  "runs": 44,
+  "runs": 45,
   "bestRank": 5,
   "worstRank": 174,
   "firstPlaces": 0,
@@ -55,7 +55,8 @@
     83,
     85,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -365,6 +366,13 @@
       "rank": 13,
       "ms": 2133363,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 30,
+      "ms": 2439608,
+      "dish": "Pizza"
     }
   ]
 }

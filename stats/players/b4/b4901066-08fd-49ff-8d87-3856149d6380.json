@@ -4,17 +4,18 @@
   "names": [
     "Heroui"
   ],
-  "runs": 3,
-  "bestRank": 488,
+  "runs": 4,
+  "bestRank": 109,
   "worstRank": 801,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4543204,
+  "bestMs": 3558367,
   "weeksActive": [
     -38,
     -5,
-    57
+    57,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 488,
       "ms": 4957791,
       "dish": "Salad"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 109,
+      "ms": 3558367,
+      "dish": "Pizza"
     }
   ]
 }

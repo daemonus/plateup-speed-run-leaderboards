@@ -4,8 +4,8 @@
   "names": [
     "Mussah"
   ],
-  "runs": 18,
-  "bestRank": 35,
+  "runs": 19,
+  "bestRank": 25,
   "worstRank": 365,
   "firstPlaces": 0,
   "top3": 0,
@@ -29,7 +29,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 56,
       "ms": 2307955,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 25,
+      "ms": 2309803,
+      "dish": "Pizza"
     }
   ]
 }
