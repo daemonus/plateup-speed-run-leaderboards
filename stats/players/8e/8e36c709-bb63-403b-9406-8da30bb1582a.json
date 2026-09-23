@@ -1,0 +1,34 @@
+{
+  "id": "8e36c709-bb63-403b-9406-8da30bb1582a",
+  "persona": "Gee",
+  "names": [
+    "Gee"
+  ],
+  "runs": 2,
+  "bestRank": 117,
+  "worstRank": 249,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3368529,
+  "weeksActive": [
+    40,
+    89
+  ],
+  "history": [
+    {
+      "week": 40,
+      "start": "2025-10-13",
+      "rank": 249,
+      "ms": 4267825,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 117,
+      "ms": 3368529,
+      "dish": "Pizza"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "names": [
     "Pushur59"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 177,
   "worstRank": 701,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     44,
     51,
     59,
-    64
+    64,
+    89
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 619,
       "ms": 3055454,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 180,
+      "ms": 5974200,
+      "dish": "Pizza"
     }
   ]
 }

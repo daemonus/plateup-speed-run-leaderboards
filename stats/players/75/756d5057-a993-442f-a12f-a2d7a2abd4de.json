@@ -4,7 +4,7 @@
   "names": [
     "LithBuster"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 7,
   "worstRank": 258,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     -6,
     37,
     56,
-    67
+    67,
+    89
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 73,
       "ms": 2446197,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 28,
+      "ms": 2316770,
+      "dish": "Pizza"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "\u5149"
   ],
-  "runs": 61,
-  "bestRank": 120,
+  "runs": 62,
+  "bestRank": 104,
   "worstRank": 556,
   "firstPlaces": 0,
   "top3": 0,
@@ -72,7 +72,8 @@
     83,
     84,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -501,6 +502,13 @@
       "rank": 209,
       "ms": 3465162,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 104,
+      "ms": 3251599,
+      "dish": "Pizza"
     }
   ]
 }

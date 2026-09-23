@@ -4,8 +4,8 @@
   "names": [
     "cinnafrenzy"
   ],
-  "runs": 2,
-  "bestRank": 301,
+  "runs": 3,
+  "bestRank": 133,
   "worstRank": 374,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3205083,
   "weeksActive": [
     77,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 374,
       "ms": 5342787,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 133,
+      "ms": 3633033,
+      "dish": "Pizza"
     }
   ]
 }

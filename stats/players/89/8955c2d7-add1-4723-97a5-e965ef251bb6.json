@@ -4,8 +4,8 @@
   "names": [
     "rrrreicheru"
   ],
-  "runs": 7,
-  "bestRank": 196,
+  "runs": 8,
+  "bestRank": 123,
   "worstRank": 499,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     38,
     52,
     64,
-    82
+    82,
+    89
   ],
   "history": [
     {
@@ -68,6 +69,13 @@
       "start": "2026-08-03",
       "rank": 427,
       "ms": 4134081,
+      "dish": "Pizza"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 123,
+      "ms": 3422553,
       "dish": "Pizza"
     }
   ]

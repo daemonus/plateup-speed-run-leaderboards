@@ -474,8 +474,8 @@
       "narcc"
     ],
     "runs": 1,
-    "bestRank": 87,
-    "worstRank": 87,
+    "bestRank": 100,
+    "worstRank": 100,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 87,
+        "rank": 100,
         "ms": 3213152,
         "dish": "Pizza"
       }
@@ -552,8 +552,8 @@
       "breezy"
     ],
     "runs": 1,
-    "bestRank": 54,
-    "worstRank": 54,
+    "bestRank": 61,
+    "worstRank": 61,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 54,
+        "rank": 61,
         "ms": 2707378,
         "dish": "Pizza"
       }
@@ -2414,32 +2414,6 @@
         "rank": 617,
         "ms": 4811270,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "3cd54687-37b7-4ff3-9f26-588e3002d5c6",
-    "persona": "Nao",
-    "names": [
-      "Nao"
-    ],
-    "runs": 1,
-    "bestRank": 479,
-    "worstRank": 479,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4068704,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 479,
-        "ms": 4068704,
-        "dish": "Sundaes"
       }
     ]
   },

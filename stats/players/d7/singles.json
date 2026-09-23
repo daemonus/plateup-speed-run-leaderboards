@@ -2314,6 +2314,32 @@
     ]
   },
   {
+    "id": "d7a513d6-4143-47c2-8180-745b90f09c6c",
+    "persona": "EmirLeite",
+    "names": [
+      "EmirLeite"
+    ],
+    "runs": 1,
+    "bestRank": 128,
+    "worstRank": 128,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3560060,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 128,
+        "ms": 3560060,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "d7a53c3f-328c-41b0-bccb-e09d59024a68",
     "persona": "Invidiosa",
     "names": [
@@ -2778,6 +2804,32 @@
         "rank": 497,
         "ms": 6031308,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "d7c6ba44-ac1e-4d00-91bf-3626b061f2e1",
+    "persona": "\u963F\u5DF4\u963F\u5DF4\u565C",
+    "names": [
+      "\u963F\u5DF4\u963F\u5DF4\u565C"
+    ],
+    "runs": 1,
+    "bestRank": 184,
+    "worstRank": 184,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9033485,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 184,
+        "ms": 9033485,
+        "dish": "Pizza"
       }
     ]
   },

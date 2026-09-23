@@ -4,12 +4,12 @@
   "names": [
     "onom_nom"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 2,
   "worstRank": 524,
   "firstPlaces": 0,
   "top3": 3,
-  "top10": 14,
+  "top10": 15,
   "bestMs": 548696,
   "weeksActive": [
     -77,
@@ -34,7 +34,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 6,
       "ms": 1357637,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 9,
+      "ms": 1689005,
+      "dish": "Pizza"
     }
   ]
 }

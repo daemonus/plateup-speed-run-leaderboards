@@ -4,7 +4,7 @@
   "names": [
     "."
   ],
-  "runs": 39,
+  "runs": 40,
   "bestRank": 11,
   "worstRank": 402,
   "firstPlaces": 0,
@@ -50,7 +50,8 @@
     78,
     82,
     83,
-    84
+    84,
+    89
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 78,
       "ms": 1476307,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 120,
+      "ms": 3397912,
+      "dish": "Pizza"
     }
   ]
 }

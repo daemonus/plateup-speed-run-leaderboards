@@ -4,7 +4,7 @@
   "names": [
     "\u4F0A\u9054"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 60,
   "worstRank": 209,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     5,
     41,
     73,
-    77
+    77,
+    89
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 146,
       "ms": 2285698,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 63,
+      "ms": 2712485,
+      "dish": "Pizza"
     }
   ]
 }
