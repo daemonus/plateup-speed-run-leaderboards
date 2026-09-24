@@ -4,8 +4,8 @@
   "names": [
     "whatup"
   ],
-  "runs": 3,
-  "bestRank": 265,
+  "runs": 4,
+  "bestRank": 196,
   "worstRank": 453,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 265,
       "ms": 3976447,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 196,
+      "ms": 4241577,
+      "dish": "Pizza"
     }
   ]
 }

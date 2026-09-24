@@ -1,0 +1,34 @@
+{
+  "id": "2d65540b-cfcf-4682-b453-e5a35c046e33",
+  "persona": "Charbaria",
+  "names": [
+    "Charbaria"
+  ],
+  "runs": 2,
+  "bestRank": 29,
+  "worstRank": 165,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2155884,
+  "weeksActive": [
+    75,
+    89
+  ],
+  "history": [
+    {
+      "week": 75,
+      "start": "2026-06-15",
+      "rank": 165,
+      "ms": 3286396,
+      "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 29,
+      "ms": 2155884,
+      "dish": "Pizza"
+    }
+  ]
+}

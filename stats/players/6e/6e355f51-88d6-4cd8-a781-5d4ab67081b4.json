@@ -1,16 +1,16 @@
 {
-  "id": "19b12739-c92d-443d-9dbd-a0036c638526",
-  "persona": "zhaoziyin326",
+  "id": "6e355f51-88d6-4cd8-a781-5d4ab67081b4",
+  "persona": "\u98CE\u5F80\u54EA\u8FB9\u5439",
   "names": [
-    "zhaoziyin326"
+    "\u98CE\u5F80\u54EA\u8FB9\u5439"
   ],
   "runs": 2,
-  "bestRank": 143,
-  "worstRank": 243,
+  "bestRank": 218,
+  "worstRank": 406,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3440217,
+  "bestMs": 5044051,
   "weeksActive": [
     88,
     89
@@ -19,15 +19,15 @@
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 243,
-      "ms": 3783673,
+      "rank": 406,
+      "ms": 7301178,
       "dish": "Pies"
     },
     {
       "week": 89,
       "start": "2026-09-21",
-      "rank": 143,
-      "ms": 3440217,
+      "rank": 218,
+      "ms": 5044051,
       "dish": "Pizza"
     }
   ]

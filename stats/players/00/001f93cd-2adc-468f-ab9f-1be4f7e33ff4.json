@@ -1,16 +1,16 @@
 {
-  "id": "14ed0203-8c99-4909-9d3b-cda2617da703",
-  "persona": "NoodlePorc",
+  "id": "001f93cd-2adc-468f-ab9f-1be4f7e33ff4",
+  "persona": "Vikuska",
   "names": [
-    "NoodlePorc"
+    "Vikuska"
   ],
   "runs": 2,
-  "bestRank": 188,
-  "worstRank": 373,
+  "bestRank": 207,
+  "worstRank": 522,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2667534,
+  "bestMs": 3544475,
   "weeksActive": [
     84,
     89
@@ -19,15 +19,15 @@
     {
       "week": 84,
       "start": "2026-08-17",
-      "rank": 373,
-      "ms": 2667534,
+      "rank": 522,
+      "ms": 3544475,
       "dish": "Sundaes"
     },
     {
       "week": 89,
       "start": "2026-09-21",
-      "rank": 188,
-      "ms": 4047631,
+      "rank": 207,
+      "ms": 4490484,
       "dish": "Pizza"
     }
   ]

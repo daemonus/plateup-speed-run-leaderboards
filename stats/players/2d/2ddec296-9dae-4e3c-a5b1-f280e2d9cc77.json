@@ -4,7 +4,7 @@
   "names": [
     "Gaston"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 107,
   "worstRank": 316,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 239,
       "ms": 3773347,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 164,
+      "ms": 3739056,
+      "dish": "Pizza"
     }
   ]
 }
