@@ -1,16 +1,16 @@
 {
-  "id": "82b53ef4-ef79-4b7c-9313-abbb9c24b2d9",
-  "persona": "omar3934",
+  "id": "d7798fd2-ee01-45b7-893d-5ebea83f7272",
+  "persona": "lizzoli",
   "names": [
-    "omar3934"
+    "lizzoli"
   ],
   "runs": 2,
-  "bestRank": 107,
-  "worstRank": 361,
+  "bestRank": 169,
+  "worstRank": 231,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3205213,
+  "bestMs": 3688470,
   "weeksActive": [
     88,
     89
@@ -19,15 +19,15 @@
     {
       "week": 88,
       "start": "2026-09-14",
-      "rank": 361,
-      "ms": 5037611,
+      "rank": 231,
+      "ms": 3688470,
       "dish": "Pies"
     },
     {
       "week": 89,
       "start": "2026-09-21",
-      "rank": 107,
-      "ms": 3205213,
+      "rank": 169,
+      "ms": 3923216,
       "dish": "Pizza"
     }
   ]

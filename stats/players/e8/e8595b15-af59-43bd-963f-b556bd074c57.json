@@ -4,7 +4,7 @@
   "names": [
     "aditya_55"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 118,
   "worstRank": 369,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -50,
     -37,
-    66
+    66,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 369,
       "ms": 4082604,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 170,
+      "ms": 3933049,
+      "dish": "Pizza"
     }
   ]
 }

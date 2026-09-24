@@ -4,8 +4,8 @@
   "names": [
     "Badgerstaff"
   ],
-  "runs": 7,
-  "bestRank": 253,
+  "runs": 8,
+  "bestRank": 180,
   "worstRank": 876,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     83,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 386,
       "ms": 5746288,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 180,
+      "ms": 4208547,
+      "dish": "Pizza"
     }
   ]
 }

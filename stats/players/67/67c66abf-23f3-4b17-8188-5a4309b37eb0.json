@@ -4,7 +4,7 @@
   "names": [
     "\uD83D\uDD25"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 169,
   "worstRank": 660,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     30,
     31,
     82,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 249,
       "ms": 3813636,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 191,
+      "ms": 4558971,
+      "dish": "Pizza"
     }
   ]
 }

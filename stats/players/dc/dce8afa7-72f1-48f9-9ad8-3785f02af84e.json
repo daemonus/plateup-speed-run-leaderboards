@@ -4,7 +4,7 @@
   "names": [
     "x_Sc00byD00_x"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 4,
   "worstRank": 100,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     35,
     36,
     38,
-    41
+    41,
+    89
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 100,
       "ms": 1594376,
       "dish": "Turkey"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 25,
+      "ms": 2088235,
+      "dish": "Pizza"
     }
   ]
 }

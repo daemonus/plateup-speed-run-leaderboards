@@ -4,7 +4,7 @@
   "names": [
     "Reine"
   ],
-  "runs": 20,
+  "runs": 21,
   "bestRank": 71,
   "worstRank": 472,
   "firstPlaces": 0,
@@ -31,7 +31,8 @@
     74,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 208,
       "ms": 3455941,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 93,
+      "ms": 3073469,
+      "dish": "Pizza"
     }
   ]
 }

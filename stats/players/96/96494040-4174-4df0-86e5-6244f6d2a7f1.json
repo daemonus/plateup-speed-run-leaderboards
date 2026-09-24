@@ -4,8 +4,8 @@
   "names": [
     "Dumbhounded"
   ],
-  "runs": 3,
-  "bestRank": 198,
+  "runs": 4,
+  "bestRank": 138,
   "worstRank": 349,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -18,
     -16,
-    -6
+    -6,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 223,
       "ms": 3648283,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 138,
+      "ms": 3489307,
+      "dish": "Pizza"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 81,
+  "runs": 82,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
@@ -92,7 +92,8 @@
     82,
     83,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -661,6 +662,13 @@
       "rank": 52,
       "ms": 2261860,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 52,
+      "ms": 2524974,
+      "dish": "Pizza"
     }
   ]
 }

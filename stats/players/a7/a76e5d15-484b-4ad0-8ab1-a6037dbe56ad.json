@@ -4,8 +4,8 @@
   "names": [
     "tashagorath"
   ],
-  "runs": 6,
-  "bestRank": 256,
+  "runs": 7,
+  "bestRank": 136,
   "worstRank": 508,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     68,
     84,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 377,
       "ms": 5389999,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 136,
+      "ms": 3444993,
+      "dish": "Pizza"
     }
   ]
 }

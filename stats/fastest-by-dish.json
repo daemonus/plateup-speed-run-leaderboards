@@ -1243,7 +1243,7 @@
       {
         "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
         "persona": "spuff",
-        "ms": 877046,
+        "ms": 867039,
         "week": 89,
         "rank": 2,
         "dish": "Pizza"
@@ -1321,11 +1321,27 @@
         "dish": "Pizza"
       },
       {
+        "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+        "persona": "Hocktor",
+        "ms": 1288815,
+        "week": 89,
+        "rank": 4,
+        "dish": "Pizza"
+      },
+      {
         "id": "70fc6b9f-9542-4511-943d-29c263ab53f9",
         "persona": "\u3069\u306E\u3088\u3046\u306B\u751F\u304D\u6B8B\u308B\u306E",
         "ms": 1322829,
         "week": 63,
         "rank": 2,
+        "dish": "Pizza"
+      },
+      {
+        "id": "69d68c40-d1d6-49b4-9cc5-8025d941ae25",
+        "persona": "onom_nom",
+        "ms": 1360296,
+        "week": 89,
+        "rank": 5,
         "dish": "Pizza"
       },
       {
@@ -1401,14 +1417,6 @@
         "dish": "Pizza"
       },
       {
-        "id": "69d68c40-d1d6-49b4-9cc5-8025d941ae25",
-        "persona": "onom_nom",
-        "ms": 1435137,
-        "week": 81,
-        "rank": 2,
-        "dish": "Pizza"
-      },
-      {
         "id": "8c74a1a2-4efa-408a-bf76-46c4a2cb490f",
         "persona": "kamemame999",
         "ms": 1437370,
@@ -1421,14 +1429,6 @@
         "persona": "MISOIRAN",
         "ms": 1443165,
         "week": 81,
-        "rank": 4,
-        "dish": "Pizza"
-      },
-      {
-        "id": "69e7b2c3-2cc6-4b5a-8524-a58608daa432",
-        "persona": "tera",
-        "ms": 1459220,
-        "week": -2,
         "rank": 4,
         "dish": "Pizza"
       }

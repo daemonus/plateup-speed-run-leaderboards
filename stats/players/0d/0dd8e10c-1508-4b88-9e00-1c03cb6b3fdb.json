@@ -4,8 +4,8 @@
   "names": [
     "boofed"
   ],
-  "runs": 19,
-  "bestRank": 103,
+  "runs": 20,
+  "bestRank": 73,
   "worstRank": 389,
   "firstPlaces": 0,
   "top3": 0,
@@ -30,7 +30,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 210,
       "ms": 3484594,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 73,
+      "ms": 2795811,
+      "dish": "Pizza"
     }
   ]
 }

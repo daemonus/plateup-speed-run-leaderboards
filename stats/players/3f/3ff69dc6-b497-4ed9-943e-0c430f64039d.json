@@ -4,7 +4,7 @@
   "names": [
     "nrocpop"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 103,
   "worstRank": 488,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     30,
     31,
     34,
-    70
+    70,
+    89
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 351,
       "ms": 6141575,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 110,
+      "ms": 3219307,
+      "dish": "Pizza"
     }
   ]
 }

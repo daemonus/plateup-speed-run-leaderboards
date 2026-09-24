@@ -4,8 +4,8 @@
   "names": [
     "Charliebonce"
   ],
-  "runs": 4,
-  "bestRank": 228,
+  "runs": 5,
+  "bestRank": 188,
   "worstRank": 373,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     73,
     80,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 373,
       "ms": 5291726,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 188,
+      "ms": 4442003,
+      "dish": "Pizza"
     }
   ]
 }

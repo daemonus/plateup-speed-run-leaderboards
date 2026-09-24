@@ -4,8 +4,8 @@
   "names": [
     "Jaybones"
   ],
-  "runs": 4,
-  "bestRank": 191,
+  "runs": 5,
+  "bestRank": 173,
   "worstRank": 325,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     34,
     36,
     41,
-    47
+    47,
+    89
   ],
   "history": [
     {
@@ -44,6 +45,13 @@
       "start": "2025-12-01",
       "rank": 196,
       "ms": 3608894,
+      "dish": "Pizza"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 173,
+      "ms": 3964406,
       "dish": "Pizza"
     }
   ]
