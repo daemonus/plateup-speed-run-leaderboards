@@ -6,8 +6,8 @@
       "Fresh Young Doggo"
     ],
     "runs": 1,
-    "bestRank": 249,
-    "worstRank": 249,
+    "bestRank": 272,
+    "worstRank": 272,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 249,
+        "rank": 272,
         "ms": 6144640,
         "dish": "Pizza"
       }
@@ -2392,6 +2392,32 @@
     ]
   },
   {
+    "id": "37b16c67-cba0-4eb0-add2-2d3685bd02f5",
+    "persona": "Maretz",
+    "names": [
+      "Maretz"
+    ],
+    "runs": 1,
+    "bestRank": 151,
+    "worstRank": 151,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3316513,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 151,
+        "ms": 3316513,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "37b5583b-67f0-43da-8b17-5ec2de69b66d",
     "persona": "stuckonpandora",
     "names": [
@@ -2788,8 +2814,8 @@
       "Yipiyuk"
     ],
     "runs": 1,
-    "bestRank": 147,
-    "worstRank": 147,
+    "bestRank": 160,
+    "worstRank": 160,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2827,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 147,
+        "rank": 160,
         "ms": 3411466,
         "dish": "Pizza"
       }

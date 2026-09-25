@@ -4,8 +4,8 @@
   "names": [
     "aa5917598"
   ],
-  "runs": 4,
-  "bestRank": 130,
+  "runs": 5,
+  "bestRank": 76,
   "worstRank": 165,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     -25,
     13,
     22,
-    74
+    74,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 130,
       "ms": 3265884,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 76,
+      "ms": 2632958,
+      "dish": "Pizza"
     }
   ]
 }

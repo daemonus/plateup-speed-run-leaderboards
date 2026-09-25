@@ -4,7 +4,7 @@
   "names": [
     "handles"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 11,
   "worstRank": 351,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     57,
     85,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 73,
       "ms": 3063123,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 64,
+      "ms": 2560072,
+      "dish": "Pizza"
     }
   ]
 }

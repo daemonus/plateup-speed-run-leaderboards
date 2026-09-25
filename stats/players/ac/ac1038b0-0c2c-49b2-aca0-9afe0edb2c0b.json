@@ -4,8 +4,8 @@
   "names": [
     "Spaceri"
   ],
-  "runs": 7,
-  "bestRank": 209,
+  "runs": 8,
+  "bestRank": 121,
   "worstRank": 529,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     21,
     53,
     64,
-    79
+    79,
+    89
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 209,
       "ms": 4376704,
       "dish": "Salad"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 121,
+      "ms": 3130220,
+      "dish": "Pizza"
     }
   ]
 }

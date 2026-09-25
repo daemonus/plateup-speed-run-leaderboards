@@ -136,8 +136,8 @@
       "FireNewt"
     ],
     "runs": 1,
-    "bestRank": 188,
-    "worstRank": 188,
+    "bestRank": 203,
+    "worstRank": 203,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 188,
+        "rank": 203,
         "ms": 3882490,
         "dish": "Pizza"
       }
@@ -1426,32 +1426,6 @@
         "rank": 285,
         "ms": 4996917,
         "dish": "Burgers"
-      }
-    ]
-  },
-  {
-    "id": "8a9b6850-f3d7-4d9a-b86d-272b72ed2a4a",
-    "persona": "mysticell",
-    "names": [
-      "mysticell"
-    ],
-    "runs": 1,
-    "bestRank": 191,
-    "worstRank": 191,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2703122,
-    "weeksActive": [
-      36
-    ],
-    "history": [
-      {
-        "week": 36,
-        "start": "2025-09-15",
-        "rank": 191,
-        "ms": 2703122,
-        "dish": "Fish"
       }
     ]
   },

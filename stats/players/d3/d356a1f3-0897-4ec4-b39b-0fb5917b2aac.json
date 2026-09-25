@@ -4,8 +4,8 @@
   "names": [
     "KhunSuy"
   ],
-  "runs": 3,
-  "bestRank": 165,
+  "runs": 4,
+  "bestRank": 107,
   "worstRank": 505,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -59,
     -45,
-    83
+    83,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 505,
       "ms": 2989977,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 107,
+      "ms": 2998254,
+      "dish": "Pizza"
     }
   ]
 }

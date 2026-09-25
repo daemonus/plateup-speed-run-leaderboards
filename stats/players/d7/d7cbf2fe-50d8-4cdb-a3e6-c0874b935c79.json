@@ -4,7 +4,7 @@
   "names": [
     "Mr. Kipper"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 12,
   "worstRank": 159,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     63,
     64,
     65,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 35,
       "ms": 2071849,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 46,
+      "ms": 2379666,
+      "dish": "Pizza"
     }
   ]
 }
