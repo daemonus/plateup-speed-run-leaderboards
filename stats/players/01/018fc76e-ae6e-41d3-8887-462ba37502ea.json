@@ -4,8 +4,8 @@
   "names": [
     "\u7B71\u7B71\u9752"
   ],
-  "runs": 2,
-  "bestRank": 318,
+  "runs": 3,
+  "bestRank": 157,
   "worstRank": 444,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3047280,
   "weeksActive": [
     84,
-    85
+    85,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 318,
       "ms": 3788708,
       "dish": "Fish"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 157,
+      "ms": 3519820,
+      "dish": "Pizza"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "\u9C7C\u9C7C"
   ],
-  "runs": 16,
-  "bestRank": 103,
+  "runs": 17,
+  "bestRank": 64,
   "worstRank": 452,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     43,
     75,
     79,
-    82
+    82,
+    89
   ],
   "history": [
     {
@@ -140,6 +141,13 @@
       "start": "2026-08-03",
       "rank": 229,
       "ms": 3085536,
+      "dish": "Pizza"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 64,
+      "ms": 2595751,
       "dish": "Pizza"
     }
   ]

@@ -4,16 +4,17 @@
   "names": [
     "KAI"
   ],
-  "runs": 2,
-  "bestRank": 500,
+  "runs": 3,
+  "bestRank": 202,
   "worstRank": 584,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5005261,
+  "bestMs": 3973502,
   "weeksActive": [
     30,
-    31
+    31,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 584,
       "ms": 5005261,
       "dish": "Fish"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 202,
+      "ms": 3973502,
+      "dish": "Pizza"
     }
   ]
 }

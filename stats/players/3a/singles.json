@@ -1586,6 +1586,32 @@
     ]
   },
   {
+    "id": "3a85a260-c5fc-47c4-bda9-2c01da206ba8",
+    "persona": "Tomoru",
+    "names": [
+      "Tomoru"
+    ],
+    "runs": 1,
+    "bestRank": 172,
+    "worstRank": 172,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3701596,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 172,
+        "ms": 3701596,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "3a88d614-eab1-4a9c-b0fb-c22eb20acbd1",
     "persona": "tetra",
     "names": [
@@ -2866,8 +2892,8 @@
       "\u041C\u0435\u0439\u0431\u0438\u0411\u0435\u0439\u0431\u0438\u0421\u0442\u0435\u0440\u0432\u0430"
     ],
     "runs": 1,
-    "bestRank": 183,
-    "worstRank": 183,
+    "bestRank": 197,
+    "worstRank": 197,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2879,7 +2905,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 183,
+        "rank": 197,
         "ms": 3946694,
         "dish": "Pizza"
       }

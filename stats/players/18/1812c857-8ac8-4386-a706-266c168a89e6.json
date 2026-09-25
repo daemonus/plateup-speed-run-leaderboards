@@ -4,7 +4,7 @@
   "names": [
     "syg14"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 79,
   "worstRank": 523,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     84,
     85,
     86,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 142,
       "ms": 3051688,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 105,
+      "ms": 3085177,
+      "dish": "Pizza"
     }
   ]
 }

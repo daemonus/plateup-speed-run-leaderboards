@@ -4,8 +4,8 @@
   "names": [
     "elohcin"
   ],
-  "runs": 15,
-  "bestRank": 100,
+  "runs": 16,
+  "bestRank": 97,
   "worstRank": 442,
   "firstPlaces": 0,
   "top3": 0,
@@ -26,7 +26,8 @@
     -46,
     -39,
     61,
-    62
+    62,
+    89
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 129,
       "ms": 2667804,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 97,
+      "ms": 3008048,
+      "dish": "Pizza"
     }
   ]
 }
