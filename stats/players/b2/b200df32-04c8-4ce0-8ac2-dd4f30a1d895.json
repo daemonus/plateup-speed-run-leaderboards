@@ -1,0 +1,34 @@
+{
+  "id": "b200df32-04c8-4ce0-8ac2-dd4f30a1d895",
+  "persona": "liliana",
+  "names": [
+    "liliana"
+  ],
+  "runs": 2,
+  "bestRank": 101,
+  "worstRank": 120,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2509393,
+  "weeksActive": [
+    85,
+    89
+  ],
+  "history": [
+    {
+      "week": 85,
+      "start": "2026-08-24",
+      "rank": 120,
+      "ms": 2509393,
+      "dish": "Fish"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 101,
+      "ms": 2819012,
+      "dish": "Pizza"
+    }
+  ]
+}

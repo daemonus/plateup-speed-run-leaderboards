@@ -4,7 +4,7 @@
   "names": [
     "Lyricalraw"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 51,
   "worstRank": 328,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     43,
     46,
     47,
-    49
+    49,
+    89
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 51,
       "ms": 2763869,
       "dish": "Burgers"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 119,
+      "ms": 2961281,
+      "dish": "Pizza"
     }
   ]
 }

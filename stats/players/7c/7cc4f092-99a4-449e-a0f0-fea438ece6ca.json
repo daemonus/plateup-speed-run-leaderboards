@@ -4,7 +4,7 @@
   "names": [
     "cluj119"
   ],
-  "runs": 68,
+  "runs": 69,
   "bestRank": 69,
   "worstRank": 633,
   "firstPlaces": 0,
@@ -79,7 +79,8 @@
     77,
     78,
     84,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -557,6 +558,13 @@
       "rank": 368,
       "ms": 3159330,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 199,
+      "ms": 3487450,
+      "dish": "Pizza"
     }
   ]
 }

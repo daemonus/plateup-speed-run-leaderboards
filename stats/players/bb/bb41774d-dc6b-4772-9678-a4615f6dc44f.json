@@ -4,7 +4,7 @@
   "names": [
     "LinXiaoAi"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 201,
   "worstRank": 677,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 318,
       "ms": 4477873,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 289,
+      "ms": 4567674,
+      "dish": "Pizza"
     }
   ]
 }

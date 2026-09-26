@@ -598,32 +598,6 @@
     ]
   },
   {
-    "id": "722ea75f-108e-40f5-8af8-79a4aa07ee59",
-    "persona": "Cappuccinope",
-    "names": [
-      "Cappuccinope"
-    ],
-    "runs": 1,
-    "bestRank": 267,
-    "worstRank": 267,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3476211,
-    "weeksActive": [
-      85
-    ],
-    "history": [
-      {
-        "week": 85,
-        "start": "2026-08-24",
-        "rank": 267,
-        "ms": 3476211,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "722f7da5-d985-4b57-a2dc-a513244a108c",
     "persona": "J",
     "names": [
@@ -1920,6 +1894,32 @@
         "rank": 407,
         "ms": 4108961,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "72977698-0cee-46e2-af6c-3d2541a56d6f",
+    "persona": "SemTitulo",
+    "names": [
+      "SemTitulo"
+    ],
+    "runs": 1,
+    "bestRank": 321,
+    "worstRank": 321,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5782560,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 321,
+        "ms": 5782560,
+        "dish": "Pizza"
       }
     ]
   },

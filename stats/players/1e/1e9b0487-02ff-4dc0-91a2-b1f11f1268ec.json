@@ -4,7 +4,7 @@
   "names": [
     "Azanei"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 138,
   "worstRank": 471,
   "firstPlaces": 0,
@@ -41,7 +41,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 212,
       "ms": 3501712,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 161,
+      "ms": 3245393,
+      "dish": "Pizza"
     }
   ]
 }

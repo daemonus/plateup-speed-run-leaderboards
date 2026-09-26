@@ -4,7 +4,7 @@
   "names": [
     "-Mimou- Rien \u00E0 voir"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 4,
   "worstRank": 193,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     47,
     59,
     69,
-    84
+    84,
+    89
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 152,
       "ms": 1768856,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 78,
+      "ms": 2587230,
+      "dish": "Pizza"
     }
   ]
 }

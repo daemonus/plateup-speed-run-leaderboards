@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "f76a6c11-4bdc-4299-99f8-8fcfef947149",
+    "persona": "\u7167\u6865\u6B23\u7F8E",
+    "names": [
+      "\u7167\u6865\u6B23\u7F8E"
+    ],
+    "runs": 1,
+    "bestRank": 327,
+    "worstRank": 327,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 76098765,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 327,
+        "ms": 76098765,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "f771f230-8579-480b-aa43-e4855e23cb35",
     "persona": "Eybi",
     "names": [
@@ -1878,8 +1904,8 @@
       "Fauloren"
     ],
     "runs": 1,
-    "bestRank": 89,
-    "worstRank": 89,
+    "bestRank": 97,
+    "worstRank": 97,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 89,
+        "rank": 97,
         "ms": 2757842,
         "dish": "Pizza"
       }

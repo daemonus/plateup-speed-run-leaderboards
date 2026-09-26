@@ -4,7 +4,7 @@
   "names": [
     "GodzillaJo"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 124,
   "worstRank": 1140,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     29,
     30,
     64,
-    65
+    65,
+    89
   ],
   "history": [
     {
@@ -140,6 +141,13 @@
       "start": "2026-04-06",
       "rank": 324,
       "ms": 4306703,
+      "dish": "Pizza"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 287,
+      "ms": 4512771,
       "dish": "Pizza"
     }
   ]

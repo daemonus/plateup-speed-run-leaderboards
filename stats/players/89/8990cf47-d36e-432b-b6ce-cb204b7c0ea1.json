@@ -4,7 +4,7 @@
   "names": [
     "kent4284"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 114,
   "worstRank": 486,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     48,
     53,
     69,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 236,
       "ms": 3737883,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 260,
+      "ms": 4030495,
+      "dish": "Pizza"
     }
   ]
 }

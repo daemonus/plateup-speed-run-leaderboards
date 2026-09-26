@@ -1566,8 +1566,8 @@
       "Laguzka"
     ],
     "runs": 1,
-    "bestRank": 250,
-    "worstRank": 250,
+    "bestRank": 276,
+    "worstRank": 276,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1579,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 250,
+        "rank": 276,
         "ms": 4265104,
         "dish": "Pizza"
       }
@@ -2778,32 +2778,6 @@
         "rank": 767,
         "ms": 3682180,
         "dish": "Sundaes"
-      }
-    ]
-  },
-  {
-    "id": "68f61ed8-6468-418a-8622-7b2539538210",
-    "persona": "\uC54C\uD0C0",
-    "names": [
-      "\uC54C\uD0C0"
-    ],
-    "runs": 1,
-    "bestRank": 347,
-    "worstRank": 347,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4852406,
-    "weeksActive": [
-      88
-    ],
-    "history": [
-      {
-        "week": 88,
-        "start": "2026-09-14",
-        "rank": 347,
-        "ms": 4852406,
-        "dish": "Pies"
       }
     ]
   },

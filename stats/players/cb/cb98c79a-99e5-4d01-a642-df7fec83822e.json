@@ -4,7 +4,7 @@
   "names": [
     "thelostt"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 85,
   "worstRank": 192,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2456139,
   "weeksActive": [
     46,
-    77
+    77,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 192,
       "ms": 2598255,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 91,
+      "ms": 2700090,
+      "dish": "Pizza"
     }
   ]
 }
