@@ -4,7 +4,7 @@
   "names": [
     "Saho"
   ],
-  "runs": 20,
+  "runs": 21,
   "bestRank": 34,
   "worstRank": 495,
   "firstPlaces": 0,
@@ -31,7 +31,8 @@
     84,
     85,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 182,
       "ms": 3262933,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 117,
+      "ms": 3010080,
+      "dish": "Pizza"
     }
   ]
 }

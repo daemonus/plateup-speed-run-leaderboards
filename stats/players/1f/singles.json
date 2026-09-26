@@ -2372,8 +2372,8 @@
       "fairyofflame"
     ],
     "runs": 1,
-    "bestRank": 71,
-    "worstRank": 71,
+    "bestRank": 76,
+    "worstRank": 76,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2385,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 71,
+        "rank": 76,
         "ms": 2598697,
         "dish": "Pizza"
       }
@@ -2518,6 +2518,32 @@
         "rank": 205,
         "ms": 3572003,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "1fd290c6-05b4-4126-a6ce-76dbbf39fb3a",
+    "persona": "\u4ECBkka",
+    "names": [
+      "\u4ECBkka"
+    ],
+    "runs": 1,
+    "bestRank": 277,
+    "worstRank": 277,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5027395,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 277,
+        "ms": 5027395,
+        "dish": "Pizza"
       }
     ]
   },

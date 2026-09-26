@@ -4,7 +4,7 @@
   "names": [
     "Jenny Cross"
   ],
-  "runs": 33,
+  "runs": 34,
   "bestRank": 71,
   "worstRank": 507,
   "firstPlaces": 0,
@@ -44,7 +44,8 @@
     57,
     58,
     61,
-    62
+    62,
+    89
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 354,
       "ms": 3661763,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 184,
+      "ms": 3561666,
+      "dish": "Pizza"
     }
   ]
 }

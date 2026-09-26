@@ -3118,5 +3118,31 @@
         "dish": "Breakfast"
       }
     ]
+  },
+  {
+    "id": "f8fdcddc-20fe-4cc8-8407-aaae05b1271a",
+    "persona": "\u5564\u5564",
+    "names": [
+      "\u5564\u5564"
+    ],
+    "runs": 1,
+    "bestRank": 198,
+    "worstRank": 198,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3699404,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 198,
+        "ms": 3699404,
+        "dish": "Pizza"
+      }
+    ]
   }
 ]

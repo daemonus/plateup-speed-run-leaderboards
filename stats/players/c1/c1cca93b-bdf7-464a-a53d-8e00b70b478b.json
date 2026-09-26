@@ -4,7 +4,7 @@
   "names": [
     "Cappybarakun"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 21,
   "worstRank": 289,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     2,
     83,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 21,
       "ms": 2272012,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 31,
+      "ms": 2115709,
+      "dish": "Pizza"
     }
   ]
 }

@@ -1124,8 +1124,8 @@
       "Lorey"
     ],
     "runs": 1,
-    "bestRank": 77,
-    "worstRank": 77,
+    "bestRank": 81,
+    "worstRank": 81,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 77,
+        "rank": 81,
         "ms": 2662606,
         "dish": "Pizza"
       }
@@ -3012,6 +3012,32 @@
         "rank": 472,
         "ms": 4073125,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "ccef6635-14f3-42bb-a199-c6e84f9a16c1",
+    "persona": "Moonnight",
+    "names": [
+      "Moonnight"
+    ],
+    "runs": 1,
+    "bestRank": 278,
+    "worstRank": 278,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5034521,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 278,
+        "ms": 5034521,
+        "dish": "Pizza"
       }
     ]
   },

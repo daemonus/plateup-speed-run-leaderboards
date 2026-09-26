@@ -4,8 +4,8 @@
   "names": [
     "Egawa"
   ],
-  "runs": 4,
-  "bestRank": 311,
+  "runs": 5,
+  "bestRank": 274,
   "worstRank": 870,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     20,
     23,
     31,
-    33
+    33,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 311,
       "ms": 7446325,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 274,
+      "ms": 5001187,
+      "dish": "Pizza"
     }
   ]
 }
