@@ -4,7 +4,7 @@
   "names": [
     "\uD83D\uDC30shi-jana\uD83D\uDC30"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 171,
   "worstRank": 375,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3008591,
   "weeksActive": [
     -74,
-    -70
+    -70,
+    89
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 375,
       "ms": 4308776,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 225,
+      "ms": 3512888,
+      "dish": "Pizza"
     }
   ]
 }

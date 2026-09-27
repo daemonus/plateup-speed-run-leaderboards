@@ -4,7 +4,7 @@
   "names": [
     "Kokosnuss"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 152,
   "worstRank": 605,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     66,
     71,
     78,
-    84
+    84,
+    89
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 347,
       "ms": 2574044,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 307,
+      "ms": 4099254,
+      "dish": "Pizza"
     }
   ]
 }

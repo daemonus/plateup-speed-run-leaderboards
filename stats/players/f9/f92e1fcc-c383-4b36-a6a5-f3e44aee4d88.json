@@ -4,8 +4,8 @@
   "names": [
     "GhostRonin471"
   ],
-  "runs": 5,
-  "bestRank": 236,
+  "runs": 6,
+  "bestRank": 223,
   "worstRank": 1200,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -63,
     -56,
     -46,
-    -15
+    -15,
+    89
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 236,
       "ms": 2906493,
       "dish": "Fish"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 223,
+      "ms": 3487940,
+      "dish": "Pizza"
     }
   ]
 }

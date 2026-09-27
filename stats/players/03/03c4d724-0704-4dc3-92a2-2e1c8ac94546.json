@@ -4,7 +4,7 @@
   "names": [
     "TroubledPhoenix"
   ],
-  "runs": 115,
+  "runs": 116,
   "bestRank": 86,
   "worstRank": 556,
   "firstPlaces": 0,
@@ -126,7 +126,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -933,6 +934,13 @@
       "rank": 161,
       "ms": 3162955,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 221,
+      "ms": 3479672,
+      "dish": "Pizza"
     }
   ]
 }

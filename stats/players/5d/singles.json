@@ -1846,6 +1846,32 @@
     ]
   },
   {
+    "id": "5dabb99c-fb32-4a6e-9718-1000e9efcc20",
+    "persona": "liiinder",
+    "names": [
+      "liiinder"
+    ],
+    "runs": 1,
+    "bestRank": 70,
+    "worstRank": 70,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2518890,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 70,
+        "ms": 2518890,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "5dac295d-daad-442c-8109-ca5cfa6ba94e",
     "persona": "Yisha",
     "names": [
@@ -2086,8 +2112,8 @@
       "mosjicker"
     ],
     "runs": 1,
-    "bestRank": 183,
-    "worstRank": 183,
+    "bestRank": 191,
+    "worstRank": 191,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 183,
+        "rank": 191,
         "ms": 3275274,
         "dish": "Pizza"
       }

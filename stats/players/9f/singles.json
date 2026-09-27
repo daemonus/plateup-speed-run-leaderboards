@@ -1228,8 +1228,8 @@
       "slayerofallevil"
     ],
     "runs": 1,
-    "bestRank": 260,
-    "worstRank": 260,
+    "bestRank": 279,
+    "worstRank": 279,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 260,
+        "rank": 279,
         "ms": 3906268,
         "dish": "Pizza"
       }
@@ -2752,6 +2752,32 @@
         "rank": 300,
         "ms": 3986935,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "9feacb11-8109-45bb-86d0-51fcd1401802",
+    "persona": "Vhes",
+    "names": [
+      "Vhes"
+    ],
+    "runs": 1,
+    "bestRank": 276,
+    "worstRank": 276,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3885077,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 276,
+        "ms": 3885077,
+        "dish": "Pizza"
       }
     ]
   },

@@ -1300,6 +1300,32 @@
     ]
   },
   {
+    "id": "d873b1a1-7087-4683-9ea8-5b6aca9366f1",
+    "persona": "Fero :)",
+    "names": [
+      "Fero :)"
+    ],
+    "runs": 1,
+    "bestRank": 290,
+    "worstRank": 290,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3972162,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 290,
+        "ms": 3972162,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "d8746c25-48ea-4732-b371-cb60b0adae2a",
     "persona": "gartygg",
     "names": [
@@ -2216,8 +2242,8 @@
       "DogR"
     ],
     "runs": 1,
-    "bestRank": 316,
-    "worstRank": 316,
+    "bestRank": 345,
+    "worstRank": 345,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2255,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 316,
+        "rank": 345,
         "ms": 4827198,
         "dish": "Pizza"
       }

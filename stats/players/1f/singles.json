@@ -2372,8 +2372,8 @@
       "fairyofflame"
     ],
     "runs": 1,
-    "bestRank": 81,
-    "worstRank": 81,
+    "bestRank": 85,
+    "worstRank": 85,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2385,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 81,
+        "rank": 85,
         "ms": 2598697,
         "dish": "Pizza"
       }
@@ -2522,14 +2522,40 @@
     ]
   },
   {
+    "id": "1fd19665-9b68-4733-b1ec-3c3f798cb87c",
+    "persona": "\u7115",
+    "names": [
+      "\u7115"
+    ],
+    "runs": 1,
+    "bestRank": 346,
+    "worstRank": 346,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4830322,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 346,
+        "ms": 4830322,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "1fd290c6-05b4-4126-a6ce-76dbbf39fb3a",
     "persona": "\u4ECBkka",
     "names": [
       "\u4ECBkka"
     ],
     "runs": 1,
-    "bestRank": 324,
-    "worstRank": 324,
+    "bestRank": 354,
+    "worstRank": 354,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 324,
+        "rank": 354,
         "ms": 5027395,
         "dish": "Pizza"
       }

@@ -4,9 +4,9 @@
   "names": [
     "GrailFate"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 17,
-  "worstRank": 146,
+  "worstRank": 232,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -15,7 +15,8 @@
     -19,
     -17,
     -16,
-    9
+    9,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 146,
       "ms": 2841077,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 232,
+      "ms": 3558597,
+      "dish": "Pizza"
     }
   ]
 }

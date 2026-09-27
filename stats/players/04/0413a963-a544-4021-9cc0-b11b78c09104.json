@@ -4,7 +4,7 @@
   "names": [
     "Babushka_Warhog"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 21,
   "worstRank": 206,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     68,
     75,
     77,
-    85
+    85,
+    89
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 82,
       "ms": 2300545,
       "dish": "Fish"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 44,
+      "ms": 2276239,
+      "dish": "Pizza"
     }
   ]
 }

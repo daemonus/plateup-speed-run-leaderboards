@@ -2496,6 +2496,32 @@
     ]
   },
   {
+    "id": "c5bf8509-e1b4-4bde-800d-b8a6b7f4bd5c",
+    "persona": "Rinarito",
+    "names": [
+      "Rinarito"
+    ],
+    "runs": 1,
+    "bestRank": 271,
+    "worstRank": 271,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3818274,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 271,
+        "ms": 3818274,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "c5c1b093-5105-4e7a-824b-d73a568a0473",
     "persona": "Off mah lawn",
     "names": [
@@ -2710,8 +2736,8 @@
       "the_curly"
     ],
     "runs": 1,
-    "bestRank": 97,
-    "worstRank": 97,
+    "bestRank": 103,
+    "worstRank": 103,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2749,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 97,
+        "rank": 103,
         "ms": 2757301,
         "dish": "Pizza"
       }

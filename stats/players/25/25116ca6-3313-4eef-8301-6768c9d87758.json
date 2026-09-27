@@ -4,7 +4,7 @@
   "names": [
     "leonerith"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 51,
   "worstRank": 538,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     69,
     71,
     85,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 128,
       "ms": 2930567,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 67,
+      "ms": 2482759,
+      "dish": "Pizza"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "74f693ce-53a6-4d39-897a-4be0f18b90cd",
+  "persona": "Klarth",
+  "names": [
+    "Klarth"
+  ],
+  "runs": 2,
+  "bestRank": 270,
+  "worstRank": 385,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3585652,
+  "weeksActive": [
+    23,
+    89
+  ],
+  "history": [
+    {
+      "week": 23,
+      "start": "2025-06-16",
+      "rank": 385,
+      "ms": 3585652,
+      "dish": "Turkey"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 270,
+      "ms": 3815014,
+      "dish": "Pizza"
+    }
+  ]
+}

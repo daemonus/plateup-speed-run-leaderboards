@@ -4,7 +4,7 @@
   "names": [
     "Puggernaut"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 157,
   "worstRank": 425,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     32,
     43,
     52,
-    54
+    54,
+    89
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 239,
       "ms": 4242051,
       "dish": "Burgers"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 292,
+      "ms": 3973871,
+      "dish": "Pizza"
     }
   ]
 }

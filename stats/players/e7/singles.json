@@ -2814,8 +2814,8 @@
       "Mike"
     ],
     "runs": 1,
-    "bestRank": 334,
-    "worstRank": 334,
+    "bestRank": 366,
+    "worstRank": 366,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2827,8 +2827,34 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 334,
+        "rank": 366,
         "ms": 5383883,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "e7ca5392-3d57-42e1-869f-d4217c158595",
+    "persona": "\u00DF\u00E5\u00F1\u00D0\u00EF\u2020",
+    "names": [
+      "\u00DF\u00E5\u00F1\u00D0\u00EF\u2020"
+    ],
+    "runs": 1,
+    "bestRank": 296,
+    "worstRank": 296,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4006844,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 296,
+        "ms": 4006844,
         "dish": "Pizza"
       }
     ]
