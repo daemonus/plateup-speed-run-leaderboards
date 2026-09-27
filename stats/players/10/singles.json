@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "10074a9d-dddb-426e-881a-39f47a058114",
+    "persona": "Snitsky",
+    "names": [
+      "Snitsky"
+    ],
+    "runs": 1,
+    "bestRank": 231,
+    "worstRank": 231,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3663910,
+    "weeksActive": [
+      89
+    ],
+    "history": [
+      {
+        "week": 89,
+        "start": "2026-09-21",
+        "rank": 231,
+        "ms": 3663910,
+        "dish": "Pizza"
+      }
+    ]
+  },
+  {
     "id": "100b5d5f-4f55-402e-8312-edd0d394dcf7",
     "persona": "Tschickn.Nuggets",
     "names": [
@@ -396,8 +422,8 @@
       "Djoko77"
     ],
     "runs": 1,
-    "bestRank": 310,
-    "worstRank": 310,
+    "bestRank": 330,
+    "worstRank": 330,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -409,7 +435,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 310,
+        "rank": 330,
         "ms": 5121497,
         "dish": "Pizza"
       }

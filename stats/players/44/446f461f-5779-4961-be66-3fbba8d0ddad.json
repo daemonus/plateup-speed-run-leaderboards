@@ -4,7 +4,7 @@
   "names": [
     "yamamina.373"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 65,
   "worstRank": 407,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     83,
     84,
     86,
-    87
+    87,
+    89
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 177,
       "ms": 4340325,
       "dish": "Fajitas"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 190,
+      "ms": 3364279,
+      "dish": "Pizza"
     }
   ]
 }

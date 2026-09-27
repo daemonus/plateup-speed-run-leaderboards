@@ -4,19 +4,20 @@
   "names": [
     "Tutak Tutak Tutiya"
   ],
-  "runs": 5,
-  "bestRank": 214,
+  "runs": 6,
+  "bestRank": 117,
   "worstRank": 526,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3499227,
+  "bestMs": 2906120,
   "weeksActive": [
     74,
     75,
     84,
     85,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 300,
       "ms": 4250609,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 117,
+      "ms": 2906120,
+      "dish": "Pizza"
     }
   ]
 }

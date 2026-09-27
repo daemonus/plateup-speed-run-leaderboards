@@ -4,7 +4,7 @@
   "names": [
     "Twisty"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 126,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -12,
     42,
     44,
-    68
+    68,
+    89
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 303,
       "ms": 3053364,
       "dish": "Turkey"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 148,
+      "ms": 3116816,
+      "dish": "Pizza"
     }
   ]
 }

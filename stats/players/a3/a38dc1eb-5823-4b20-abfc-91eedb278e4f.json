@@ -4,7 +4,7 @@
   "names": [
     "m4t3oK"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 83,
   "worstRank": 492,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     77,
     81,
     82,
-    83
+    83,
+    89
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 289,
       "ms": 2274815,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 99,
+      "ms": 2772602,
+      "dish": "Pizza"
     }
   ]
 }

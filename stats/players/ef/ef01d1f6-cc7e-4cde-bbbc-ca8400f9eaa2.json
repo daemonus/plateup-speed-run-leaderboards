@@ -4,7 +4,7 @@
   "names": [
     "wan"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 88,
   "worstRank": 542,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     85,
     86,
     87,
-    88
+    88,
+    89
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 166,
       "ms": 3182758,
       "dish": "Pies"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 122,
+      "ms": 2957698,
+      "dish": "Pizza"
     }
   ]
 }

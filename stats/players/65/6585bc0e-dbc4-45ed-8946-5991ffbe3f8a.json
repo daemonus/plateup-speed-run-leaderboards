@@ -4,8 +4,8 @@
   "names": [
     "jennifer"
   ],
-  "runs": 23,
-  "bestRank": 188,
+  "runs": 24,
+  "bestRank": 171,
   "worstRank": 576,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     83,
     84,
     85,
-    86
+    86,
+    89
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 445,
       "ms": 3728848,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 171,
+      "ms": 3239117,
+      "dish": "Pizza"
     }
   ]
 }

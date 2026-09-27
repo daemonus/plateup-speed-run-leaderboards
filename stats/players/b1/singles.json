@@ -6,8 +6,8 @@
       "Peachy"
     ],
     "runs": 1,
-    "bestRank": 12,
-    "worstRank": 12,
+    "bestRank": 13,
+    "worstRank": 13,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 89,
         "start": "2026-09-21",
-        "rank": 12,
+        "rank": 13,
         "ms": 1690950,
         "dish": "Pizza"
       }
@@ -1530,32 +1530,6 @@
         "rank": 422,
         "ms": 4398421,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "b16b0579-9f26-4c0f-b3dd-5c8765c67007",
-    "persona": "kururuu~",
-    "names": [
-      "kururuu~"
-    ],
-    "runs": 1,
-    "bestRank": 361,
-    "worstRank": 361,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5027873,
-    "weeksActive": [
-      -69
-    ],
-    "history": [
-      {
-        "week": -69,
-        "start": "2023-09-11",
-        "rank": 361,
-        "ms": 5027873,
-        "dish": "Stir Fry"
       }
     ]
   },

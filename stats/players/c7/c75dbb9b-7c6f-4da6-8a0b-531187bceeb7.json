@@ -4,7 +4,7 @@
   "names": [
     "Mistor"
   ],
-  "runs": 51,
+  "runs": 52,
   "bestRank": 95,
   "worstRank": 536,
   "firstPlaces": 0,
@@ -62,7 +62,8 @@
     70,
     78,
     81,
-    83
+    83,
+    89
   ],
   "history": [
     {
@@ -421,6 +422,13 @@
       "rank": 536,
       "ms": 3112459,
       "dish": "Sundaes"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 168,
+      "ms": 3224090,
+      "dish": "Pizza"
     }
   ]
 }

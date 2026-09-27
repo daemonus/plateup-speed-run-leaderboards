@@ -4,7 +4,7 @@
   "names": [
     "zhang13613709441"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 168,
   "worstRank": 340,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     51,
     59,
-    66
+    66,
+    89
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 185,
       "ms": 2825312,
       "dish": "Breakfast"
+    },
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 333,
+      "ms": 5287859,
+      "dish": "Pizza"
     }
   ]
 }
