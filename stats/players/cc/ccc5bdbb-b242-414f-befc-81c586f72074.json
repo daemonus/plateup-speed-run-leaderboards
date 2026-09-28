@@ -4,8 +4,8 @@
   "names": [
     "chrsmv"
   ],
-  "runs": 26,
-  "bestRank": 86,
+  "runs": 27,
+  "bestRank": 39,
   "worstRank": 409,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 98,
       "ms": 2701887,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 39,
+      "ms": 2625180,
+      "dish": "Sundaes"
     }
   ]
 }

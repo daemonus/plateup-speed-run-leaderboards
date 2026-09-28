@@ -4,18 +4,19 @@
   "names": [
     "aditya_55"
   ],
-  "runs": 4,
-  "bestRank": 118,
+  "runs": 5,
+  "bestRank": 24,
   "worstRank": 369,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2778457,
+  "bestMs": 1949925,
   "weeksActive": [
     -50,
     -37,
     66,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 284,
       "ms": 3933049,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 24,
+      "ms": 1949925,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -3196,5 +3196,31 @@
         "dish": "Fish"
       }
     ]
+  },
+  {
+    "id": "c2fe9d42-be4e-48f9-bb31-c4dc3d38a19b",
+    "persona": "Vanzard",
+    "names": [
+      "Vanzard"
+    ],
+    "runs": 1,
+    "bestRank": 56,
+    "worstRank": 56,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3523591,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 56,
+        "ms": 3523591,
+        "dish": "Sundaes"
+      }
+    ]
   }
 ]

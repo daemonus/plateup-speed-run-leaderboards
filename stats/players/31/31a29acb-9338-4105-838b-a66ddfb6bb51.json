@@ -4,8 +4,8 @@
   "names": [
     "Valppy"
   ],
-  "runs": 2,
-  "bestRank": 48,
+  "runs": 3,
+  "bestRank": 33,
   "worstRank": 78,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2194712,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 78,
       "ms": 2579076,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 33,
+      "ms": 2313087,
+      "dish": "Sundaes"
     }
   ]
 }

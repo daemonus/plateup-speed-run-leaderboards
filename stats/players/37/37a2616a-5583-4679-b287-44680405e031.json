@@ -4,20 +4,21 @@
   "names": [
     "zephyrchen"
   ],
-  "runs": 6,
-  "bestRank": 117,
+  "runs": 7,
+  "bestRank": 44,
   "worstRank": 436,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2839547,
+  "bestMs": 2799660,
   "weeksActive": [
     84,
     85,
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 136,
       "ms": 2990147,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 44,
+      "ms": 2799660,
+      "dish": "Sundaes"
     }
   ]
 }

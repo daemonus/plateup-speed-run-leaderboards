@@ -4,12 +4,12 @@
   "names": [
     "hypericum11"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 6,
   "worstRank": 249,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 3,
+  "top10": 4,
   "bestMs": 1085502,
   "weeksActive": [
     40,
@@ -47,7 +47,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 11,
       "ms": 1640993,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 7,
+      "ms": 1242460,
+      "dish": "Sundaes"
     }
   ]
 }

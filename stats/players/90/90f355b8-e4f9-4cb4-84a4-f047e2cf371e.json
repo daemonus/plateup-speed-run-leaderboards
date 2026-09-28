@@ -4,13 +4,13 @@
   "names": [
     "Badgerstaff"
   ],
-  "runs": 8,
-  "bestRank": 253,
+  "runs": 9,
+  "bestRank": 31,
   "worstRank": 876,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2672725,
+  "bestMs": 2256625,
   "weeksActive": [
     -72,
     -68,
@@ -19,7 +19,8 @@
     85,
     86,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 313,
       "ms": 4208547,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 31,
+      "ms": 2256625,
+      "dish": "Sundaes"
     }
   ]
 }

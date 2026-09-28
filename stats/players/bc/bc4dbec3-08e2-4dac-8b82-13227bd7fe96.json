@@ -4,8 +4,8 @@
   "names": [
     "Boris"
   ],
-  "runs": 7,
-  "bestRank": 90,
+  "runs": 8,
+  "bestRank": 41,
   "worstRank": 490,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 133,
       "ms": 2984243,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 41,
+      "ms": 2702190,
+      "dish": "Sundaes"
     }
   ]
 }

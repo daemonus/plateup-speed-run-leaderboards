@@ -4,7 +4,7 @@
   "names": [
     "jwdrake960"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 17,
   "worstRank": 602,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     71,
     85,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 32,
       "ms": 2036937,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 22,
+      "ms": 1873463,
+      "dish": "Sundaes"
     }
   ]
 }

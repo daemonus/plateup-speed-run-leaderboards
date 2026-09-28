@@ -4,8 +4,8 @@
   "names": [
     "Raagentreg"
   ],
-  "runs": 57,
-  "bestRank": 39,
+  "runs": 58,
+  "bestRank": 30,
   "worstRank": 508,
   "firstPlaces": 0,
   "top3": 0,
@@ -68,7 +68,8 @@
     82,
     86,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -469,6 +470,13 @@
       "rank": 168,
       "ms": 3193762,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 30,
+      "ms": 2243732,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,13 +4,13 @@
   "names": [
     "MNK1094"
   ],
-  "runs": 8,
-  "bestRank": 57,
+  "runs": 9,
+  "bestRank": 37,
   "worstRank": 353,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2914442,
+  "bestMs": 2567639,
   "weeksActive": [
     -34,
     -33,
@@ -19,7 +19,8 @@
     -27,
     -26,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 139,
       "ms": 3013528,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 37,
+      "ms": 2567639,
+      "dish": "Sundaes"
     }
   ]
 }

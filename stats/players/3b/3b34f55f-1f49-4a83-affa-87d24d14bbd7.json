@@ -4,8 +4,8 @@
   "names": [
     "Bydi"
   ],
-  "runs": 23,
-  "bestRank": 99,
+  "runs": 24,
+  "bestRank": 50,
   "worstRank": 498,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     82,
     83,
     84,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 266,
       "ms": 3993252,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 50,
+      "ms": 3065100,
+      "dish": "Sundaes"
     }
   ]
 }
