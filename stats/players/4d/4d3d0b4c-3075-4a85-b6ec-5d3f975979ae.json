@@ -4,8 +4,8 @@
   "names": [
     "qflame"
   ],
-  "runs": 4,
-  "bestRank": 61,
+  "runs": 5,
+  "bestRank": 18,
   "worstRank": 274,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     -51,
     -44,
     -42,
-    -40
+    -40,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 61,
       "ms": 2999124,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 18,
+      "ms": 2715680,
+      "dish": "Sundaes"
     }
   ]
 }

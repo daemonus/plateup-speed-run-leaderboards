@@ -4,16 +4,17 @@
   "names": [
     "PotatoCheesMonk"
   ],
-  "runs": 2,
-  "bestRank": 160,
+  "runs": 3,
+  "bestRank": 17,
   "worstRank": 208,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2692831,
+  "bestMs": 2522465,
   "weeksActive": [
     66,
-    72
+    72,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 208,
       "ms": 3436537,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 17,
+      "ms": 2522465,
+      "dish": "Sundaes"
     }
   ]
 }

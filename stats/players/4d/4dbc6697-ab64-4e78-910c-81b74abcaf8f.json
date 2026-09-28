@@ -4,12 +4,12 @@
   "names": [
     "Selene_Russell"
   ],
-  "runs": 65,
+  "runs": 66,
   "bestRank": 2,
   "worstRank": 239,
   "firstPlaces": 0,
   "top3": 6,
-  "top10": 24,
+  "top10": 25,
   "bestMs": 929812,
   "weeksActive": [
     -15,
@@ -76,7 +76,8 @@
     82,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -533,6 +534,13 @@
       "rank": 9,
       "ms": 1619337,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 5,
+      "ms": 1256337,
+      "dish": "Sundaes"
     }
   ]
 }

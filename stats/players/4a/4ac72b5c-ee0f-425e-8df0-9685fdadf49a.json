@@ -4,8 +4,8 @@
   "names": [
     "Chezy"
   ],
-  "runs": 3,
-  "bestRank": 84,
+  "runs": 4,
+  "bestRank": 22,
   "worstRank": 178,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 114,
       "ms": 2848209,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 22,
+      "ms": 3630181,
+      "dish": "Sundaes"
     }
   ]
 }

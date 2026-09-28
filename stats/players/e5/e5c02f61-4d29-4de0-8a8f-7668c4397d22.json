@@ -4,12 +4,12 @@
   "names": [
     "[rpx]candy"
   ],
-  "runs": 70,
+  "runs": 71,
   "bestRank": 1,
   "worstRank": 208,
   "firstPlaces": 5,
-  "top3": 16,
-  "top10": 27,
+  "top3": 17,
+  "top10": 28,
   "bestMs": 522066,
   "weeksActive": [
     8,
@@ -81,7 +81,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -573,6 +574,13 @@
       "rank": 3,
       "ms": 892713,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 3,
+      "ms": 1229265,
+      "dish": "Sundaes"
     }
   ]
 }

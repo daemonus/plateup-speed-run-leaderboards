@@ -4,12 +4,12 @@
   "names": [
     "ducttapegirl369"
   ],
-  "runs": 95,
+  "runs": 96,
   "bestRank": 1,
   "worstRank": 768,
   "firstPlaces": 1,
-  "top3": 4,
-  "top10": 20,
+  "top3": 5,
+  "top10": 21,
   "bestMs": 878103,
   "weeksActive": [
     -94,
@@ -106,7 +106,8 @@
     83,
     84,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -773,6 +774,13 @@
       "rank": 10,
       "ms": 1625247,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 2,
+      "ms": 1181983,
+      "dish": "Sundaes"
     }
   ]
 }

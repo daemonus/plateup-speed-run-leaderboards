@@ -4,16 +4,17 @@
   "names": [
     "R-15"
   ],
-  "runs": 2,
-  "bestRank": 70,
+  "runs": 3,
+  "bestRank": 7,
   "worstRank": 252,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
-  "bestMs": 2370896,
+  "top10": 1,
+  "bestMs": 1567423,
   "weeksActive": [
     80,
-    82
+    82,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 70,
       "ms": 2370896,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 7,
+      "ms": 1567423,
+      "dish": "Sundaes"
     }
   ]
 }

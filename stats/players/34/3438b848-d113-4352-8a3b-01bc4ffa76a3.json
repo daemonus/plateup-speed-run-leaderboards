@@ -4,12 +4,12 @@
   "names": [
     "spuff"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 1,
   "worstRank": 214,
-  "firstPlaces": 1,
-  "top3": 10,
-  "top10": 17,
+  "firstPlaces": 2,
+  "top3": 11,
+  "top10": 18,
   "bestMs": 471310,
   "weeksActive": [
     -94,
@@ -38,7 +38,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 2,
       "ms": 867039,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 1,
+      "ms": 543056,
+      "dish": "Sundaes"
     }
   ]
 }

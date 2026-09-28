@@ -4,7 +4,7 @@
   "names": [
     "baja.kite.boy"
   ],
-  "runs": 33,
+  "runs": 34,
   "bestRank": 12,
   "worstRank": 180,
   "firstPlaces": 0,
@@ -44,7 +44,8 @@
     81,
     82,
     85,
-    87
+    87,
+    90
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 69,
       "ms": 3043744,
       "dish": "Fajitas"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 12,
+      "ms": 2077567,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "kurosatochi"
   ],
-  "runs": 10,
-  "bestRank": 21,
+  "runs": 11,
+  "bestRank": 15,
   "worstRank": 77,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 66,
       "ms": 2480986,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 15,
+      "ms": 2261336,
+      "dish": "Sundaes"
     }
   ]
 }

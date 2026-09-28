@@ -4,8 +4,8 @@
   "names": [
     "Flat"
   ],
-  "runs": 162,
-  "bestRank": 15,
+  "runs": 163,
+  "bestRank": 11,
   "worstRank": 854,
   "firstPlaces": 0,
   "top3": 0,
@@ -173,7 +173,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -1309,6 +1310,13 @@
       "rank": 33,
       "ms": 2112596,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 11,
+      "ms": 1925964,
+      "dish": "Sundaes"
     }
   ]
 }

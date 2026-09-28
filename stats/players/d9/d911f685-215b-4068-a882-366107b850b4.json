@@ -4,12 +4,12 @@
   "names": [
     "hovanes2"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 4,
   "worstRank": 207,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 6,
+  "top10": 7,
   "bestMs": 1042335,
   "weeksActive": [
     65,
@@ -36,7 +36,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 27,
       "ms": 2029685,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 8,
+      "ms": 1595589,
+      "dish": "Sundaes"
     }
   ]
 }
