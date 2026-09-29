@@ -4,19 +4,20 @@
   "names": [
     "lauralouise93"
   ],
-  "runs": 5,
-  "bestRank": 135,
+  "runs": 6,
+  "bestRank": 62,
   "worstRank": 448,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2952829,
+  "bestMs": 2916252,
   "weeksActive": [
     78,
     79,
     84,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 135,
       "ms": 2986792,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 62,
+      "ms": 2916252,
+      "dish": "Sundaes"
     }
   ]
 }

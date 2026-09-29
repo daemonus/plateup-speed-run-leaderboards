@@ -4,19 +4,20 @@
   "names": [
     "Yogeshwar05"
   ],
-  "runs": 5,
-  "bestRank": 232,
+  "runs": 6,
+  "bestRank": 77,
   "worstRank": 516,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4105624,
+  "bestMs": 3510716,
   "weeksActive": [
     85,
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 339,
       "ms": 4750172,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 77,
+      "ms": 3510716,
+      "dish": "Sundaes"
     }
   ]
 }

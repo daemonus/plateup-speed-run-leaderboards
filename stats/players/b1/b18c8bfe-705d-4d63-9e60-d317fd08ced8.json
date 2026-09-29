@@ -4,7 +4,7 @@
   "names": [
     "chabel"
   ],
-  "runs": 121,
+  "runs": 122,
   "bestRank": 9,
   "worstRank": 778,
   "firstPlaces": 0,
@@ -132,7 +132,8 @@
     72,
     73,
     80,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -981,6 +982,13 @@
       "rank": 119,
       "ms": 2870045,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 42,
+      "ms": 2354264,
+      "dish": "Sundaes"
     }
   ]
 }

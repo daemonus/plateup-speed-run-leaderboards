@@ -4,8 +4,8 @@
   "names": [
     "Flip"
   ],
-  "runs": 39,
-  "bestRank": 42,
+  "runs": 40,
+  "bestRank": 32,
   "worstRank": 406,
   "firstPlaces": 0,
   "top3": 0,
@@ -50,7 +50,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 95,
       "ms": 2685582,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 32,
+      "ms": 2111586,
+      "dish": "Sundaes"
     }
   ]
 }

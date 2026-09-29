@@ -4,8 +4,8 @@
   "names": [
     "Twisty"
   ],
-  "runs": 9,
-  "bestRank": 126,
+  "runs": 10,
+  "bestRank": 75,
   "worstRank": 555,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     42,
     44,
     68,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 154,
       "ms": 3116816,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 75,
+      "ms": 3268970,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "mickkay22"
   ],
-  "runs": 15,
+  "runs": 16,
   "bestRank": 18,
   "worstRank": 181,
   "firstPlaces": 0,
@@ -26,7 +26,8 @@
     75,
     76,
     77,
-    78
+    78,
+    90
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 80,
       "ms": 2401314,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 40,
+      "ms": 2330231,
+      "dish": "Sundaes"
     }
   ]
 }

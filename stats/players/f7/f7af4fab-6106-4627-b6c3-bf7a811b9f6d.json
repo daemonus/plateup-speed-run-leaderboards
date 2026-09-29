@@ -4,7 +4,7 @@
   "names": [
     "Jagaimochan_uk"
   ],
-  "runs": 85,
+  "runs": 86,
   "bestRank": 9,
   "worstRank": 144,
   "firstPlaces": 0,
@@ -96,7 +96,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 41,
       "ms": 2164729,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 21,
+      "ms": 1691796,
+      "dish": "Sundaes"
     }
   ]
 }

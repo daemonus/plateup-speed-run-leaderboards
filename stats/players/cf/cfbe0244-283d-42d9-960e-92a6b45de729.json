@@ -4,17 +4,18 @@
   "names": [
     "dana_may"
   ],
-  "runs": 3,
-  "bestRank": 259,
+  "runs": 4,
+  "bestRank": 71,
   "worstRank": 509,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3465937,
+  "bestMs": 3186088,
   "weeksActive": [
     66,
     84,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 259,
       "ms": 3915197,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 71,
+      "ms": 3186088,
+      "dish": "Sundaes"
     }
   ]
 }

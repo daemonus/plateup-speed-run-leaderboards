@@ -4,7 +4,7 @@
   "names": [
     "shannon.stone4418"
   ],
-  "runs": 39,
+  "runs": 40,
   "bestRank": 48,
   "worstRank": 512,
   "firstPlaces": 0,
@@ -50,7 +50,8 @@
     77,
     78,
     79,
-    80
+    80,
+    90
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 120,
       "ms": 2817984,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 52,
+      "ms": 2669484,
+      "dish": "Sundaes"
     }
   ]
 }

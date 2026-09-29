@@ -4,8 +4,8 @@
   "names": [
     "DarkAngel ~(^0^)~"
   ],
-  "runs": 19,
-  "bestRank": 155,
+  "runs": 20,
+  "bestRank": 57,
   "worstRank": 753,
   "firstPlaces": 0,
   "top3": 0,
@@ -30,7 +30,8 @@
     63,
     64,
     78,
-    83
+    83,
+    90
   ],
   "history": [
     {
@@ -164,6 +165,13 @@
       "start": "2026-08-10",
       "rank": 375,
       "ms": 2571776,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 57,
+      "ms": 2760969,
       "dish": "Sundaes"
     }
   ]
