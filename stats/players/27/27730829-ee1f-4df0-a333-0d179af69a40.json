@@ -4,8 +4,8 @@
   "names": [
     "shioshionoshio"
   ],
-  "runs": 4,
-  "bestRank": 255,
+  "runs": 5,
+  "bestRank": 95,
   "worstRank": 430,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     31,
     32,
     58,
-    86
+    86,
+    90
   ],
   "history": [
     {
@@ -44,6 +45,13 @@
       "start": "2026-08-31",
       "rank": 399,
       "ms": 3378121,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 95,
+      "ms": 3380190,
       "dish": "Sundaes"
     }
   ]

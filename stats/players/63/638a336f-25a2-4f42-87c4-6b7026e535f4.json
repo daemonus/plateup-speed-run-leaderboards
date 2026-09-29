@@ -4,12 +4,12 @@
   "names": [
     "Moncoft"
   ],
-  "runs": 114,
+  "runs": 115,
   "bestRank": 2,
   "worstRank": 247,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 30,
+  "top10": 31,
   "bestMs": 987507,
   "weeksActive": [
     -78,
@@ -125,7 +125,8 @@
     85,
     86,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -925,6 +926,13 @@
       "rank": 18,
       "ms": 1751753,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 8,
+      "ms": 1234453,
+      "dish": "Sundaes"
     }
   ]
 }

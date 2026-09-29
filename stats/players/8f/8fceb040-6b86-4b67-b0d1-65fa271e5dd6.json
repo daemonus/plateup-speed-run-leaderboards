@@ -4,7 +4,7 @@
   "names": [
     "Samph"
   ],
-  "runs": 85,
+  "runs": 86,
   "bestRank": 30,
   "worstRank": 729,
   "firstPlaces": 0,
@@ -96,7 +96,8 @@
     83,
     84,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 33,
       "ms": 2058684,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 37,
+      "ms": 1964551,
+      "dish": "Sundaes"
     }
   ]
 }

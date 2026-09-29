@@ -4,13 +4,13 @@
   "names": [
     "yapei84127"
   ],
-  "runs": 31,
-  "bestRank": 72,
+  "runs": 32,
+  "bestRank": 38,
   "worstRank": 599,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2015140,
+  "bestMs": 1964798,
   "weeksActive": [
     -75,
     -74,
@@ -42,7 +42,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 152,
       "ms": 3093377,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 38,
+      "ms": 1964798,
+      "dish": "Sundaes"
     }
   ]
 }

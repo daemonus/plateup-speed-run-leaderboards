@@ -4,7 +4,7 @@
   "names": [
     "DilloTheBillo"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 1,
   "worstRank": 283,
   "firstPlaces": 1,
@@ -47,7 +47,8 @@
     23,
     32,
     62,
-    83
+    83,
+    90
   ],
   "history": [
     {
@@ -300,6 +301,13 @@
       "start": "2026-08-10",
       "rank": 69,
       "ms": 1484806,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 14,
+      "ms": 1393736,
       "dish": "Sundaes"
     }
   ]

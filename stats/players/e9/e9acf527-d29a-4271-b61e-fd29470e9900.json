@@ -4,13 +4,13 @@
   "names": [
     "ClerionLex [GER]"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 30,
   "worstRank": 248,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 1875151,
+  "bestMs": 1860583,
   "weeksActive": [
     78,
     80,
@@ -21,7 +21,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 51,
       "ms": 2345985,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 31,
+      "ms": 1860583,
+      "dish": "Sundaes"
     }
   ]
 }

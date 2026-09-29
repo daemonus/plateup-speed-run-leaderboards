@@ -3092,5 +3092,31 @@
         "dish": "Fish"
       }
     ]
+  },
+  {
+    "id": "ccf774cd-6af4-49a0-befa-7dbe647b212b",
+    "persona": "tarakalia",
+    "names": [
+      "tarakalia"
+    ],
+    "runs": 1,
+    "bestRank": 112,
+    "worstRank": 112,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6317745,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 112,
+        "ms": 6317745,
+        "dish": "Sundaes"
+      }
+    ]
   }
 ]

@@ -4,8 +4,8 @@
   "names": [
     "Galaxitix"
   ],
-  "runs": 13,
-  "bestRank": 84,
+  "runs": 14,
+  "bestRank": 43,
   "worstRank": 316,
   "firstPlaces": 0,
   "top3": 0,
@@ -24,7 +24,8 @@
     61,
     62,
     73,
-    82
+    82,
+    90
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 218,
       "ms": 3014083,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 43,
+      "ms": 2121257,
+      "dish": "Sundaes"
     }
   ]
 }

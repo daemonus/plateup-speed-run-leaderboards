@@ -4,20 +4,21 @@
   "names": [
     "courtneyrenae"
   ],
-  "runs": 6,
-  "bestRank": 68,
+  "runs": 7,
+  "bestRank": 58,
   "worstRank": 243,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2519188,
+  "bestMs": 2412657,
   "weeksActive": [
     -25,
     -22,
     -21,
     -20,
     -19,
-    -18
+    -18,
+    90
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 68,
       "ms": 2519188,
       "dish": "Fish"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 58,
+      "ms": 2412657,
+      "dish": "Sundaes"
     }
   ]
 }
