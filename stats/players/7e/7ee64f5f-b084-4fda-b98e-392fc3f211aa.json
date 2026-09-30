@@ -4,8 +4,8 @@
   "names": [
     "Keata Kat"
   ],
-  "runs": 2,
-  "bestRank": 150,
+  "runs": 3,
+  "bestRank": 75,
   "worstRank": 193,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2266996,
   "weeksActive": [
     -94,
-    -88
+    -88,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 193,
       "ms": 2653635,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 75,
+      "ms": 2442533,
+      "dish": "Sundaes"
     }
   ]
 }

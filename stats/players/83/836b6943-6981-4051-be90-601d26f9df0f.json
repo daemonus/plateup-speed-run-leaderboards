@@ -4,8 +4,8 @@
   "names": [
     "Lgspirit"
   ],
-  "runs": 18,
-  "bestRank": 108,
+  "runs": 19,
+  "bestRank": 103,
   "worstRank": 330,
   "firstPlaces": 0,
   "top3": 0,
@@ -29,7 +29,8 @@
     83,
     84,
     87,
-    88
+    88,
+    90
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 113,
       "ms": 2819155,
       "dish": "Pies"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 103,
+      "ms": 2935727,
+      "dish": "Sundaes"
     }
   ]
 }

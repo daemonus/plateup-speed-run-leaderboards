@@ -4,7 +4,7 @@
   "names": [
     "Eeeagle"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 2,
   "worstRank": 22,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     74,
     77,
     78,
-    79
+    79,
+    90
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 11,
       "ms": 1657105,
       "dish": "Salad"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 16,
+      "ms": 1394259,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "playatree"
   ],
-  "runs": 5,
-  "bestRank": 44,
+  "runs": 6,
+  "bestRank": 22,
   "worstRank": 162,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 64,
       "ms": 2474265,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 22,
+      "ms": 1527535,
+      "dish": "Sundaes"
     }
   ]
 }

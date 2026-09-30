@@ -4,18 +4,19 @@
   "names": [
     "kaitydid_"
   ],
-  "runs": 4,
-  "bestRank": 204,
+  "runs": 5,
+  "bestRank": 120,
   "worstRank": 706,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3420617,
+  "bestMs": 3360679,
   "weeksActive": [
     52,
     53,
     61,
-    72
+    72,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 204,
       "ms": 3420617,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 120,
+      "ms": 3360679,
+      "dish": "Sundaes"
     }
   ]
 }

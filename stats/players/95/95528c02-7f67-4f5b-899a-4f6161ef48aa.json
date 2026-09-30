@@ -4,16 +4,17 @@
   "names": [
     "Stekarn"
   ],
-  "runs": 2,
-  "bestRank": 167,
+  "runs": 3,
+  "bestRank": 45,
   "worstRank": 202,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3196040,
+  "bestMs": 1998965,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 167,
       "ms": 3196040,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 45,
+      "ms": 1998965,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "neoline"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 18,
   "worstRank": 206,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 71,
       "ms": 2521243,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 35,
+      "ms": 1799259,
+      "dish": "Sundaes"
     }
   ]
 }
