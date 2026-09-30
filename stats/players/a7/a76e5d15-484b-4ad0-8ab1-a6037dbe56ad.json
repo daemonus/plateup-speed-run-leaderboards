@@ -4,13 +4,13 @@
   "names": [
     "tashagorath"
   ],
-  "runs": 7,
-  "bestRank": 159,
+  "runs": 8,
+  "bestRank": 51,
   "worstRank": 508,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2600944,
+  "bestMs": 2217850,
   "weeksActive": [
     64,
     66,
@@ -18,7 +18,8 @@
     84,
     86,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 159,
       "ms": 3158402,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 51,
+      "ms": 2217850,
+      "dish": "Sundaes"
     }
   ]
 }

@@ -4,16 +4,17 @@
   "names": [
     "Cocobear"
   ],
-  "runs": 2,
-  "bestRank": 256,
+  "runs": 3,
+  "bestRank": 48,
   "worstRank": 315,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3723423,
+  "bestMs": 2152063,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 256,
       "ms": 3723423,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 48,
+      "ms": 2152063,
+      "dish": "Sundaes"
     }
   ]
 }
