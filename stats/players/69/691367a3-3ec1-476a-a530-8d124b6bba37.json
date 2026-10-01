@@ -4,13 +4,13 @@
   "names": [
     "stebe"
   ],
-  "runs": 10,
-  "bestRank": 52,
+  "runs": 11,
+  "bestRank": 39,
   "worstRank": 159,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 1793192,
+  "bestMs": 1705750,
   "weeksActive": [
     68,
     69,
@@ -21,7 +21,8 @@
     85,
     86,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 52,
       "ms": 2356915,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 39,
+      "ms": 1705750,
+      "dish": "Sundaes"
     }
   ]
 }

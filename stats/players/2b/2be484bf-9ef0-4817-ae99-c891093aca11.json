@@ -4,7 +4,7 @@
   "names": [
     "BryanL64"
   ],
-  "runs": 78,
+  "runs": 79,
   "bestRank": 81,
   "worstRank": 1142,
   "firstPlaces": 0,
@@ -89,7 +89,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -637,6 +638,13 @@
       "rank": 294,
       "ms": 3983141,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 122,
+      "ms": 3089780,
+      "dish": "Sundaes"
     }
   ]
 }

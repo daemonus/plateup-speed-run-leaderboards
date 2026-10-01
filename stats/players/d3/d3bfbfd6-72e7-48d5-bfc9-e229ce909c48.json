@@ -4,7 +4,7 @@
   "names": [
     "EllaOFrail"
   ],
-  "runs": 126,
+  "runs": 127,
   "bestRank": 15,
   "worstRank": 1023,
   "firstPlaces": 0,
@@ -137,7 +137,8 @@
     83,
     84,
     85,
-    86
+    86,
+    90
   ],
   "history": [
     {
@@ -1020,6 +1021,13 @@
       "start": "2026-08-31",
       "rank": 15,
       "ms": 927838,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 21,
+      "ms": 1477704,
       "dish": "Sundaes"
     }
   ]
