@@ -4,16 +4,17 @@
   "names": [
     "Cappuccinope"
   ],
-  "runs": 2,
-  "bestRank": 210,
+  "runs": 3,
+  "bestRank": 64,
   "worstRank": 267,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3418002,
+  "bestMs": 2195843,
   "weeksActive": [
     85,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 210,
       "ms": 3418002,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 64,
+      "ms": 2195843,
+      "dish": "Sundaes"
     }
   ]
 }

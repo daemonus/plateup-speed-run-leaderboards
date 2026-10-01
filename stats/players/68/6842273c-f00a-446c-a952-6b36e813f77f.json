@@ -4,16 +4,17 @@
   "names": [
     "Zampaunicornios"
   ],
-  "runs": 2,
-  "bestRank": 216,
+  "runs": 3,
+  "bestRank": 131,
   "worstRank": 409,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3404170,
+  "bestMs": 3166573,
   "weeksActive": [
     86,
-    87
+    87,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 216,
       "ms": 5265892,
       "dish": "Fajitas"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 131,
+      "ms": 3166573,
+      "dish": "Sundaes"
     }
   ]
 }

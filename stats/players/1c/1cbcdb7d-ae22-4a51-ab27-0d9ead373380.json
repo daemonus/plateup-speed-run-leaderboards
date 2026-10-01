@@ -4,16 +4,17 @@
   "names": [
     "Henney"
   ],
-  "runs": 2,
-  "bestRank": 321,
+  "runs": 3,
+  "bestRank": 141,
   "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4502227,
+  "bestMs": 3277130,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 371,
       "ms": 5692578,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 141,
+      "ms": 3277130,
+      "dish": "Sundaes"
     }
   ]
 }

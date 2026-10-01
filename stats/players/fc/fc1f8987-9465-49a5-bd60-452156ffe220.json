@@ -4,8 +4,8 @@
   "names": [
     "Mighty Gorgon"
   ],
-  "runs": 11,
-  "bestRank": 179,
+  "runs": 12,
+  "bestRank": 142,
   "worstRank": 717,
   "firstPlaces": 0,
   "top3": 0,
@@ -22,7 +22,8 @@
     61,
     62,
     64,
-    66
+    66,
+    90
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 179,
       "ms": 2793286,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 142,
+      "ms": 3328560,
+      "dish": "Sundaes"
     }
   ]
 }

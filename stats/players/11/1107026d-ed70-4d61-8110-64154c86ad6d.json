@@ -1,16 +1,16 @@
 {
-  "id": "dbf03e04-b17b-4a3e-8551-26ae026db715",
-  "persona": "gsnitch5",
+  "id": "1107026d-ed70-4d61-8110-64154c86ad6d",
+  "persona": "\u65E0\u5E7B",
   "names": [
-    "gsnitch5"
+    "\u65E0\u5E7B"
   ],
   "runs": 2,
-  "bestRank": 56,
-  "worstRank": 164,
+  "bestRank": 167,
+  "worstRank": 324,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2085361,
+  "bestMs": 4403544,
   "weeksActive": [
     89,
     90
@@ -19,15 +19,15 @@
     {
       "week": 89,
       "start": "2026-09-21",
-      "rank": 164,
-      "ms": 3181066,
+      "rank": 324,
+      "ms": 4403544,
       "dish": "Pizza"
     },
     {
       "week": 90,
       "start": "2026-09-28",
-      "rank": 56,
-      "ms": 2085361,
+      "rank": 167,
+      "ms": 4570262,
       "dish": "Sundaes"
     }
   ]
