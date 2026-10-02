@@ -4,20 +4,21 @@
   "names": [
     "Immortalrh"
   ],
-  "runs": 6,
-  "bestRank": 129,
+  "runs": 7,
+  "bestRank": 100,
   "worstRank": 1194,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2587383,
+  "bestMs": 2458571,
   "weeksActive": [
     -93,
     -79,
     38,
     39,
     46,
-    51
+    51,
+    90
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 179,
       "ms": 3719313,
       "dish": "Salad"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 100,
+      "ms": 2458571,
+      "dish": "Sundaes"
     }
   ]
 }

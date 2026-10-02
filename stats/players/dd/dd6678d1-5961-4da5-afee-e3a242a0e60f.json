@@ -4,7 +4,7 @@
   "names": [
     "petaketawww"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 21,
   "worstRank": 373,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     83,
     85,
     86,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 35,
       "ms": 2138210,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 59,
+      "ms": 2015323,
+      "dish": "Sundaes"
     }
   ]
 }

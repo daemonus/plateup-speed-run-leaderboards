@@ -4,7 +4,7 @@
   "names": [
     "Keiruha"
   ],
-  "runs": 127,
+  "runs": 128,
   "bestRank": 10,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -138,7 +138,8 @@
     86,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -1029,6 +1030,13 @@
       "rank": 50,
       "ms": 2335462,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 53,
+      "ms": 1935015,
+      "dish": "Sundaes"
     }
   ]
 }

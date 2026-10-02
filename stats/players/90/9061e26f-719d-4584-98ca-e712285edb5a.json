@@ -4,7 +4,7 @@
   "names": [
     "\u0C07\u25DD\u203F\u25DC\u0C07"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 118,
   "worstRank": 201,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2869948,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 118,
       "ms": 2869948,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 142,
+      "ms": 2963962,
+      "dish": "Sundaes"
     }
   ]
 }
