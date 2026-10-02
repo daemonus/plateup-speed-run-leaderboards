@@ -4,13 +4,13 @@
   "names": [
     "elohcin"
   ],
-  "runs": 16,
-  "bestRank": 100,
+  "runs": 17,
+  "bestRank": 89,
   "worstRank": 442,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2577381,
+  "bestMs": 2436931,
   "weeksActive": [
     -81,
     -79,
@@ -27,7 +27,8 @@
     -39,
     61,
     62,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 139,
       "ms": 3008048,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 89,
+      "ms": 2436931,
+      "dish": "Sundaes"
     }
   ]
 }

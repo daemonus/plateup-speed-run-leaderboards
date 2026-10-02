@@ -4,7 +4,7 @@
   "names": [
     "X_XSweetCakes"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 141,
   "worstRank": 1443,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -91,
     -90,
     -77,
-    -70
+    -70,
+    90
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 339,
       "ms": 4149515,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 160,
+      "ms": 3510984,
+      "dish": "Sundaes"
     }
   ]
 }

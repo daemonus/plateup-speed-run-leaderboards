@@ -4,13 +4,13 @@
   "names": [
     "madisonb"
   ],
-  "runs": 19,
+  "runs": 20,
   "bestRank": 67,
   "worstRank": 701,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2263671,
+  "bestMs": 2186132,
   "weeksActive": [
     -93,
     -91,
@@ -30,7 +30,8 @@
     -3,
     10,
     15,
-    16
+    16,
+    90
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 155,
       "ms": 3652651,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 67,
+      "ms": 2186132,
+      "dish": "Sundaes"
     }
   ]
 }
