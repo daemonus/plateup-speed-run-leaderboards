@@ -4,7 +4,7 @@
   "names": [
     "MissMadame"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 19,
   "worstRank": 268,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     83,
     85,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 36,
       "ms": 2144536,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 33,
+      "ms": 1589883,
+      "dish": "Sundaes"
     }
   ]
 }

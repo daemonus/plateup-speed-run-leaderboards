@@ -1,0 +1,34 @@
+{
+  "id": "5b5e4230-bfd6-430f-bd11-4d3c5e94b24b",
+  "persona": "webbott",
+  "names": [
+    "webbott"
+  ],
+  "runs": 2,
+  "bestRank": 120,
+  "worstRank": 1504,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2602584,
+  "weeksActive": [
+    -93,
+    90
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1504,
+      "ms": 2795757,
+      "dish": "Fish"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 120,
+      "ms": 2602584,
+      "dish": "Sundaes"
+    }
+  ]
+}

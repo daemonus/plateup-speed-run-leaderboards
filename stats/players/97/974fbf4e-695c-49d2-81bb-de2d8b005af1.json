@@ -4,18 +4,19 @@
   "names": [
     "Demopenpen"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 148,
   "worstRank": 503,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4077912,
+  "bestMs": 2933299,
   "weeksActive": [
     -69,
     -63,
     -62,
-    -54
+    -54,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 148,
       "ms": 4429466,
       "dish": "Salad"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 148,
+      "ms": 2933299,
+      "dish": "Sundaes"
     }
   ]
 }

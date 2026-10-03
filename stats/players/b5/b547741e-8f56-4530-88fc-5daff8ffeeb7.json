@@ -4,13 +4,13 @@
   "names": [
     "Auyri"
   ],
-  "runs": 8,
-  "bestRank": 121,
+  "runs": 9,
+  "bestRank": 119,
   "worstRank": 617,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2814594,
+  "bestMs": 2597869,
   "weeksActive": [
     -63,
     -62,
@@ -19,7 +19,8 @@
     -58,
     -37,
     21,
-    23
+    23,
+    90
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 240,
       "ms": 2814594,
       "dish": "Turkey"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 119,
+      "ms": 2597869,
+      "dish": "Sundaes"
     }
   ]
 }

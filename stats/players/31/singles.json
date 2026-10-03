@@ -1254,8 +1254,8 @@
       "chaserblade26"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 225,
+    "worstRank": 225,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1267,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 202,
+        "rank": 225,
         "ms": 5205074,
         "dish": "Sundaes"
       }
@@ -1582,6 +1582,32 @@
         "rank": 411,
         "ms": 4061478,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "318281ff-7f99-4390-8c02-0019a36e5da0",
+    "persona": "\u9A9A\u6D6A*123",
+    "names": [
+      "\u9A9A\u6D6A*123"
+    ],
+    "runs": 1,
+    "bestRank": 181,
+    "worstRank": 181,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3294507,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 181,
+        "ms": 3294507,
+        "dish": "Sundaes"
       }
     ]
   },
@@ -2856,6 +2882,32 @@
         "rank": 147,
         "ms": 2856317,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "31f8316a-54ea-4a40-ab93-fb3b09f7bcff",
+    "persona": "Bobe Kryant",
+    "names": [
+      "Bobe Kryant"
+    ],
+    "runs": 1,
+    "bestRank": 216,
+    "worstRank": 216,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4199552,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 216,
+        "ms": 4199552,
+        "dish": "Sundaes"
       }
     ]
   },

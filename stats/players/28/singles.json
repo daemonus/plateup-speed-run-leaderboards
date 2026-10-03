@@ -864,8 +864,8 @@
       "lolonoe"
     ],
     "runs": 1,
-    "bestRank": 152,
-    "worstRank": 152,
+    "bestRank": 165,
+    "worstRank": 165,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 152,
+        "rank": 165,
         "ms": 3128739,
         "dish": "Sundaes"
       }
@@ -2803,6 +2803,32 @@
         "start": "2026-02-02",
         "rank": 845,
         "ms": 4138375,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "28f0b843-a918-4493-812a-8fc48a9990ff",
+    "persona": "sawy01",
+    "names": [
+      "sawy01"
+    ],
+    "runs": 1,
+    "bestRank": 73,
+    "worstRank": 73,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2171922,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 73,
+        "ms": 2171922,
         "dish": "Sundaes"
       }
     ]

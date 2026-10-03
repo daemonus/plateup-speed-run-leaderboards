@@ -4,17 +4,18 @@
   "names": [
     "yeonsook523"
   ],
-  "runs": 3,
-  "bestRank": 202,
+  "runs": 4,
+  "bestRank": 102,
   "worstRank": 326,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2549604,
+  "bestMs": 2425278,
   "weeksActive": [
     65,
     66,
-    68
+    68,
+    90
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 202,
       "ms": 2549604,
       "dish": "Turkey"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 102,
+      "ms": 2425278,
+      "dish": "Sundaes"
     }
   ]
 }

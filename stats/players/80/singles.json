@@ -58,8 +58,8 @@
       "dumpling"
     ],
     "runs": 1,
-    "bestRank": 22,
-    "worstRank": 22,
+    "bestRank": 23,
+    "worstRank": 23,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -71,7 +71,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 22,
+        "rank": 23,
         "ms": 1462578,
         "dish": "Sundaes"
       }
@@ -1634,6 +1634,32 @@
         "rank": 488,
         "ms": 3733293,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "807bd0ae-feba-433e-aa51-8c13186d1a52",
+    "persona": "Nearld",
+    "names": [
+      "Nearld"
+    ],
+    "runs": 1,
+    "bestRank": 226,
+    "worstRank": 226,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5486731,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 226,
+        "ms": 5486731,
+        "dish": "Sundaes"
       }
     ]
   },
@@ -3428,6 +3454,32 @@
         "rank": 552,
         "ms": 3865611,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "80f9f202-819b-4c35-a790-3d8c44561ab2",
+    "persona": "Junimo",
+    "names": [
+      "Junimo"
+    ],
+    "runs": 1,
+    "bestRank": 199,
+    "worstRank": 199,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3646496,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 199,
+        "ms": 3646496,
+        "dish": "Sundaes"
       }
     ]
   },

@@ -4,8 +4,8 @@
   "names": [
     "fatmagamalgalal"
   ],
-  "runs": 3,
-  "bestRank": 263,
+  "runs": 4,
+  "bestRank": 167,
   "worstRank": 723,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     83,
     85,
-    86
+    86,
+    90
   ],
   "history": [
     {
@@ -36,6 +37,13 @@
       "start": "2026-08-31",
       "rank": 275,
       "ms": 2620764,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 167,
+      "ms": 3155280,
       "dish": "Sundaes"
     }
   ]

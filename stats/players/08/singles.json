@@ -474,8 +474,8 @@
       "gl0c0"
     ],
     "runs": 1,
-    "bestRank": 192,
-    "worstRank": 192,
+    "bestRank": 212,
+    "worstRank": 212,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 192,
+        "rank": 212,
         "ms": 4000911,
         "dish": "Sundaes"
       }
@@ -3194,6 +3194,32 @@
         "rank": 208,
         "ms": 3939935,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "08f33ff9-0f77-40a7-93b1-c881274e50f5",
+    "persona": "ohgulay",
+    "names": [
+      "ohgulay"
+    ],
+    "runs": 1,
+    "bestRank": 173,
+    "worstRank": 173,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3196151,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 173,
+        "ms": 3196151,
+        "dish": "Sundaes"
       }
     ]
   },

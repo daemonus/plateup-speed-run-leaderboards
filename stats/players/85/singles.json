@@ -968,8 +968,8 @@
       "Diva"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 222,
+    "worstRank": 222,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +981,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 199,
+        "rank": 222,
         "ms": 4757779,
         "dish": "Sundaes"
       }
@@ -1764,32 +1764,6 @@
         "rank": 628,
         "ms": 3652686,
         "dish": "Turkey"
-      }
-    ]
-  },
-  {
-    "id": "8592b9c0-2f02-4fa7-87f2-5904501b3201",
-    "persona": "Xplosion648",
-    "names": [
-      "Xplosion648"
-    ],
-    "runs": 1,
-    "bestRank": 444,
-    "worstRank": 444,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2814090,
-    "weeksActive": [
-      -89
-    ],
-    "history": [
-      {
-        "week": -89,
-        "start": "2023-04-24",
-        "rank": 444,
-        "ms": 2814090,
-        "dish": "Pies"
       }
     ]
   },

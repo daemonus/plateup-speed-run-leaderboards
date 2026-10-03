@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "5b4cd3af-4cb3-47cc-8846-cd857c1d2a9e",
+    "persona": "SKY",
+    "names": [
+      "SKY"
+    ],
+    "runs": 1,
+    "bestRank": 46,
+    "worstRank": 46,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 1750916,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 46,
+        "ms": 1750916,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "5b4f2a23-e841-48cc-b437-eb1c2a7cd6a7",
     "persona": "\u95FB\u749F\u6B46",
     "names": [
@@ -1009,32 +1035,6 @@
         "start": "2026-01-05",
         "rank": 656,
         "ms": 4974202,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "5b5e4230-bfd6-430f-bd11-4d3c5e94b24b",
-    "persona": "webbott",
-    "names": [
-      "webbott"
-    ],
-    "runs": 1,
-    "bestRank": 1504,
-    "worstRank": 1504,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2795757,
-    "weeksActive": [
-      -93
-    ],
-    "history": [
-      {
-        "week": -93,
-        "start": "2023-03-27",
-        "rank": 1504,
-        "ms": 2795757,
         "dish": "Fish"
       }
     ]

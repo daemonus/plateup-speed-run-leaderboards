@@ -4,16 +4,17 @@
   "names": [
     "MiniMecki"
   ],
-  "runs": 2,
-  "bestRank": 326,
+  "runs": 3,
+  "bestRank": 125,
   "worstRank": 330,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4439777,
+  "bestMs": 2670680,
   "weeksActive": [
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 326,
       "ms": 4439777,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 125,
+      "ms": 2670680,
+      "dish": "Sundaes"
     }
   ]
 }

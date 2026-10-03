@@ -1,19 +1,21 @@
 {
   "id": "0a1c55f3-41e5-4f54-89a9-5d4eddcef504",
-  "persona": "8",
+  "persona": "\u30DE\u30B7\u30E2\u30C8\u30C5\u30E5\u30F3",
   "names": [
+    "\u30DE\u30B7\u30E2\u30C8\u30C5\u30E5\u30F3",
     "8"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 111,
   "worstRank": 252,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3992512,
+  "bestMs": 3816171,
   "weeksActive": [
     -49,
-    -48
+    -48,
+    90
   ],
   "history": [
     {
@@ -29,6 +31,13 @@
       "rank": 111,
       "ms": 3992512,
       "dish": "Burgers"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 205,
+      "ms": 3816171,
+      "dish": "Sundaes"
     }
   ]
 }
