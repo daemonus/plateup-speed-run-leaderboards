@@ -4,7 +4,7 @@
   "names": [
     "Kalle"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 51,
   "worstRank": 153,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     81,
     83,
     85,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 113,
       "ms": 2842281,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 80,
+      "ms": 2162376,
+      "dish": "Sundaes"
     }
   ]
 }

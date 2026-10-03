@@ -4,7 +4,7 @@
   "names": [
     "0731yn"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 15,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     85,
     86,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 15,
       "ms": 1740966,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 106,
+      "ms": 2381044,
+      "dish": "Sundaes"
     }
   ]
 }

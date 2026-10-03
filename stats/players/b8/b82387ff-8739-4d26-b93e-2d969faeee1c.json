@@ -4,16 +4,17 @@
   "names": [
     "Musher97"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 46,
   "worstRank": 88,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2272281,
+  "bestMs": 2028757,
   "weeksActive": [
     80,
-    82
+    82,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 88,
       "ms": 2466104,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 70,
+      "ms": 2028757,
+      "dish": "Sundaes"
     }
   ]
 }

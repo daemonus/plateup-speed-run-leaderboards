@@ -162,8 +162,8 @@
       "Alphecaa"
     ],
     "runs": 1,
-    "bestRank": 217,
-    "worstRank": 217,
+    "bestRank": 244,
+    "worstRank": 244,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 217,
+        "rank": 244,
         "ms": 4204071,
         "dish": "Sundaes"
       }
@@ -412,6 +412,32 @@
         "rank": 1171,
         "ms": 3201002,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "ef2154f2-c0c8-4778-891b-69b86cf31483",
+    "persona": "\u8001\u8881\u5B50",
+    "names": [
+      "\u8001\u8881\u5B50"
+    ],
+    "runs": 1,
+    "bestRank": 258,
+    "worstRank": 258,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5336064,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 258,
+        "ms": 5336064,
+        "dish": "Sundaes"
       }
     ]
   },

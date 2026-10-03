@@ -4,16 +4,17 @@
   "names": [
     "cnk"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 139,
   "worstRank": 663,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3158731,
+  "bestMs": 2761907,
   "weeksActive": [
     -18,
-    -12
+    -12,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 139,
       "ms": 3158731,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 149,
+      "ms": 2761907,
+      "dish": "Sundaes"
     }
   ]
 }

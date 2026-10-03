@@ -4,13 +4,13 @@
   "names": [
     "nicodelion"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 70,
   "worstRank": 425,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2516674,
+  "bestMs": 2368496,
   "weeksActive": [
     43,
     44,
@@ -34,7 +34,8 @@
     72,
     74,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 141,
       "ms": 3016687,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 105,
+      "ms": 2368496,
+      "dish": "Sundaes"
     }
   ]
 }

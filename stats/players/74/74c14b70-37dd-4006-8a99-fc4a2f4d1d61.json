@@ -4,8 +4,8 @@
   "names": [
     "\u71C8\u548C"
   ],
-  "runs": 9,
-  "bestRank": 206,
+  "runs": 10,
+  "bestRank": 175,
   "worstRank": 518,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     77,
     78,
     80,
-    83
+    83,
+    90
   ],
   "history": [
     {
@@ -84,6 +85,13 @@
       "start": "2026-08-10",
       "rank": 518,
       "ms": 3029315,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 175,
+      "ms": 3014724,
       "dish": "Sundaes"
     }
   ]

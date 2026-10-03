@@ -2704,6 +2704,32 @@
     ]
   },
   {
+    "id": "0ae47efd-1128-4d54-b7d5-67dd56192539",
+    "persona": "\u3086\u304D\u3093\u307B",
+    "names": [
+      "\u3086\u304D\u3093\u307B"
+    ],
+    "runs": 1,
+    "bestRank": 162,
+    "worstRank": 162,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2911678,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 162,
+        "ms": 2911678,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "0ae4d498-f54f-4019-a803-c3c62942b6a4",
     "persona": "AyeItsAntoeknee",
     "names": [
@@ -3100,8 +3126,8 @@
       "\u03C4e\u0131i\u0131\u03C1es\u03C4"
     ],
     "runs": 1,
-    "bestRank": 223,
-    "worstRank": 223,
+    "bestRank": 253,
+    "worstRank": 253,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 223,
+        "rank": 253,
         "ms": 5009844,
         "dish": "Sundaes"
       }
