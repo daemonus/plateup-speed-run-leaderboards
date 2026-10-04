@@ -4,7 +4,7 @@
   "names": [
     "beth_web04"
   ],
-  "runs": 81,
+  "runs": 82,
   "bestRank": 38,
   "worstRank": 1170,
   "firstPlaces": 0,
@@ -92,7 +92,8 @@
     68,
     87,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -661,6 +662,13 @@
       "rank": 101,
       "ms": 2715489,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 102,
+      "ms": 2251427,
+      "dish": "Sundaes"
     }
   ]
 }

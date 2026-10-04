@@ -4,7 +4,7 @@
   "names": [
     "moxie"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 213,
   "worstRank": 583,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     78,
     79,
     80,
-    87
+    87,
+    90
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 215,
       "ms": 5197376,
       "dish": "Fajitas"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 232,
+      "ms": 3529501,
+      "dish": "Sundaes"
     }
   ]
 }

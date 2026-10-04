@@ -1826,8 +1826,8 @@
       "aliskis"
     ],
     "runs": 1,
-    "bestRank": 206,
-    "worstRank": 206,
+    "bestRank": 222,
+    "worstRank": 222,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 206,
+        "rank": 222,
         "ms": 3357839,
         "dish": "Sundaes"
       }
@@ -2284,32 +2284,6 @@
         "rank": 527,
         "ms": 3484180,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "6aafe64b-442e-4b3c-8005-bcaf1eccd309",
-    "persona": "smol fish",
-    "names": [
-      "smol fish"
-    ],
-    "runs": 1,
-    "bestRank": 185,
-    "worstRank": 185,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2085134,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 185,
-        "ms": 2085134,
-        "dish": "Sundaes"
       }
     ]
   },

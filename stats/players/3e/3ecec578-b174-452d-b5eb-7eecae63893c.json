@@ -4,7 +4,7 @@
   "names": [
     "Leyza"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 14,
   "worstRank": 186,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     -48,
     -11,
     -10,
-    -7
+    -7,
+    90
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 40,
       "ms": 2832970,
       "dish": "Breakfast"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 63,
+      "ms": 1917339,
+      "dish": "Sundaes"
     }
   ]
 }

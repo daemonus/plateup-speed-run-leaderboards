@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "c25892f6-5481-4b6d-8be1-f32639b9c1c9",
+    "persona": "zeusmaster07",
+    "names": [
+      "zeusmaster07"
+    ],
+    "runs": 1,
+    "bestRank": 291,
+    "worstRank": 291,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8210996,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 291,
+        "ms": 8210996,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "c25b525d-14cd-4315-83fe-154e6e25eada",
     "persona": "HAVOC",
     "names": [
@@ -3204,8 +3230,8 @@
       "Vanzard"
     ],
     "runs": 1,
-    "bestRank": 215,
-    "worstRank": 215,
+    "bestRank": 231,
+    "worstRank": 231,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3217,7 +3243,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 215,
+        "rank": 231,
         "ms": 3523591,
         "dish": "Sundaes"
       }

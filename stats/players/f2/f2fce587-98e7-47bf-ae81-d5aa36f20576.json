@@ -4,19 +4,20 @@
   "names": [
     "jblub324"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 79,
   "worstRank": 242,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2974852,
+  "bestMs": 2177899,
   "weeksActive": [
     29,
     30,
     72,
     73,
-    81
+    81,
+    90
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 128,
       "ms": 3068772,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 90,
+      "ms": 2177899,
+      "dish": "Sundaes"
     }
   ]
 }

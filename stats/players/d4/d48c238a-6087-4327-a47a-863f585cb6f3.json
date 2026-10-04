@@ -1,0 +1,34 @@
+{
+  "id": "d48c238a-6087-4327-a47a-863f585cb6f3",
+  "persona": "\u5CA9\u76E4\u6D74\u30B9\u30D1\u7537",
+  "names": [
+    "\u5CA9\u76E4\u6D74\u30B9\u30D1\u7537"
+  ],
+  "runs": 2,
+  "bestRank": 240,
+  "worstRank": 362,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2639400,
+  "weeksActive": [
+    84,
+    90
+  ],
+  "history": [
+    {
+      "week": 84,
+      "start": "2026-08-17",
+      "rank": 362,
+      "ms": 2639400,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 240,
+      "ms": 3659622,
+      "dish": "Sundaes"
+    }
+  ]
+}

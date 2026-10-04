@@ -162,8 +162,8 @@
       "Alphecaa"
     ],
     "runs": 1,
-    "bestRank": 244,
-    "worstRank": 244,
+    "bestRank": 265,
+    "worstRank": 265,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 244,
+        "rank": 265,
         "ms": 4204071,
         "dish": "Sundaes"
       }
@@ -422,8 +422,8 @@
       "\u8001\u8881\u5B50"
     ],
     "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
+    "bestRank": 283,
+    "worstRank": 283,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 258,
+        "rank": 283,
         "ms": 5336064,
         "dish": "Sundaes"
       }
@@ -1374,6 +1374,32 @@
         "rank": 492,
         "ms": 7639018,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "ef722af9-dae3-4b90-af7a-95fdaf5b4920",
+    "persona": "concs_17_mota_02",
+    "names": [
+      "concs_17_mota_02"
+    ],
+    "runs": 1,
+    "bestRank": 172,
+    "worstRank": 172,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2903523,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 172,
+        "ms": 2903523,
+        "dish": "Sundaes"
       }
     ]
   },
