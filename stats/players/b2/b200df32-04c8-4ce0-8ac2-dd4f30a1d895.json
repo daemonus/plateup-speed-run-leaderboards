@@ -4,16 +4,17 @@
   "names": [
     "liliana"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 109,
-  "worstRank": 120,
+  "worstRank": 154,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2509393,
   "weeksActive": [
     85,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 109,
       "ms": 2819012,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 154,
+      "ms": 2620208,
+      "dish": "Sundaes"
     }
   ]
 }

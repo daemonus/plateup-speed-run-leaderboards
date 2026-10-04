@@ -4,18 +4,19 @@
   "names": [
     "sticky"
   ],
-  "runs": 4,
-  "bestRank": 272,
+  "runs": 5,
+  "bestRank": 270,
   "worstRank": 610,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3752667,
+  "bestMs": 3718461,
   "weeksActive": [
     -70,
     -68,
     -67,
-    65
+    65,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 272,
       "ms": 3752667,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 270,
+      "ms": 3718461,
+      "dish": "Sundaes"
     }
   ]
 }

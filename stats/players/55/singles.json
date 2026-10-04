@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "550664b0-6eb4-4dc3-bed9-5cf815e881b7",
+    "persona": "ETichiLudo",
+    "names": [
+      "ETichiLudo"
+    ],
+    "runs": 1,
+    "bestRank": 288,
+    "worstRank": 288,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3999479,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 288,
+        "ms": 3999479,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "550822d9-c3df-4cee-b154-c206746eb40d",
     "persona": "ttv/eru_chi",
     "names": [
@@ -2242,8 +2268,8 @@
       "KRISCHER"
     ],
     "runs": 1,
-    "bestRank": 244,
-    "worstRank": 244,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 244,
+        "rank": 273,
         "ms": 3801672,
         "dish": "Sundaes"
       }

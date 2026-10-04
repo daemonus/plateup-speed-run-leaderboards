@@ -1,5 +1,31 @@
 [
   {
+    "id": "08016041-69ce-4ed6-9d54-c438ea4214c1",
+    "persona": "\u5927\u718A\u786C\u7CD6",
+    "names": [
+      "\u5927\u718A\u786C\u7CD6"
+    ],
+    "runs": 1,
+    "bestRank": 337,
+    "worstRank": 337,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 11184532,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 337,
+        "ms": 11184532,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "0801ff48-9267-4aed-8533-97fce9f6378c",
     "persona": "Luppo",
     "names": [
@@ -474,8 +500,8 @@
       "gl0c0"
     ],
     "runs": 1,
-    "bestRank": 257,
-    "worstRank": 257,
+    "bestRank": 289,
+    "worstRank": 289,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +513,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 257,
+        "rank": 289,
         "ms": 4000911,
         "dish": "Sundaes"
       }
@@ -3204,8 +3230,8 @@
       "ohgulay"
     ],
     "runs": 1,
-    "bestRank": 207,
-    "worstRank": 207,
+    "bestRank": 221,
+    "worstRank": 221,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3217,7 +3243,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 207,
+        "rank": 221,
         "ms": 3196151,
         "dish": "Sundaes"
       }

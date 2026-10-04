@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "c508c51c-d0de-45fe-857f-395a4ccc09fc",
+    "persona": "Demonic",
+    "names": [
+      "Demonic"
+    ],
+    "runs": 1,
+    "bestRank": 250,
+    "worstRank": 250,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3500901,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 250,
+        "ms": 3500901,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "c50e0c2c-d36b-48a8-9f3c-b6a9c792b015",
     "persona": "g el",
     "names": [
@@ -2268,8 +2294,8 @@
       "Bellu"
     ],
     "runs": 1,
-    "bestRank": 85,
-    "worstRank": 85,
+    "bestRank": 91,
+    "worstRank": 91,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 85,
+        "rank": 91,
         "ms": 2146586,
         "dish": "Sundaes"
       }
@@ -2518,6 +2544,32 @@
         "rank": 443,
         "ms": 3104725,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "c5be78ce-2ba4-4a8d-8ae9-85ca70ad63fd",
+    "persona": "JanaKennedy",
+    "names": [
+      "JanaKennedy"
+    ],
+    "runs": 1,
+    "bestRank": 307,
+    "worstRank": 307,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4572561,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 307,
+        "ms": 4572561,
+        "dish": "Sundaes"
       }
     ]
   },

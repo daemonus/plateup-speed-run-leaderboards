@@ -4,7 +4,7 @@
   "names": [
     "jujinglin"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 22,
   "worstRank": 199,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     61,
     62,
     66,
-    69
+    69,
+    90
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 179,
       "ms": 3460981,
       "dish": "Burgers"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 109,
+      "ms": 2253600,
+      "dish": "Sundaes"
     }
   ]
 }

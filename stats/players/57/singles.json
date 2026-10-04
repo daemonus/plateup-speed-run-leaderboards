@@ -936,6 +936,32 @@
     ]
   },
   {
+    "id": "574898ff-2a27-4754-89c0-bd6e0a7c29b1",
+    "persona": "smaxit",
+    "names": [
+      "smaxit"
+    ],
+    "runs": 1,
+    "bestRank": 299,
+    "worstRank": 299,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4206153,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 299,
+        "ms": 4206153,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "574af043-6d61-4182-8b1b-b61983861272",
     "persona": "..n0x",
     "names": [
@@ -2736,8 +2762,8 @@
       "NEXUS"
     ],
     "runs": 1,
-    "bestRank": 227,
-    "worstRank": 227,
+    "bestRank": 247,
+    "worstRank": 247,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2749,7 +2775,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 227,
+        "rank": 247,
         "ms": 3447414,
         "dish": "Sundaes"
       }

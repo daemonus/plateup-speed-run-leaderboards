@@ -4,7 +4,7 @@
   "names": [
     "\uB3D9\uB3D9"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 45,
   "worstRank": 241,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     39,
     46,
     88,
-    89
+    89,
+    90
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 131,
       "ms": 2970577,
       "dish": "Pizza"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 228,
+      "ms": 3254957,
+      "dish": "Sundaes"
     }
   ]
 }

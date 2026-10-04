@@ -4,8 +4,8 @@
   "names": [
     "chorusmaster7123"
   ],
-  "runs": 5,
-  "bestRank": 171,
+  "runs": 6,
+  "bestRank": 126,
   "worstRank": 354,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     3,
     15,
     83,
-    86
+    86,
+    90
   ],
   "history": [
     {
@@ -52,6 +53,13 @@
       "start": "2026-08-31",
       "rank": 171,
       "ms": 2030653,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 126,
+      "ms": 2400351,
       "dish": "Sundaes"
     }
   ]

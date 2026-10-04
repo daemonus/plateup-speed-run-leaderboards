@@ -4,9 +4,9 @@
   "names": [
     "MeDa"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 120,
-  "worstRank": 225,
+  "worstRank": 238,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -15,7 +15,8 @@
     30,
     31,
     33,
-    39
+    39,
+    90
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 181,
       "ms": 3759121,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 238,
+      "ms": 3346293,
+      "dish": "Sundaes"
     }
   ]
 }

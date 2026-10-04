@@ -494,6 +494,32 @@
     ]
   },
   {
+    "id": "9b29ebb3-a30a-46ba-a98c-4df4d5b7e2e6",
+    "persona": "\u67DA\u5B50\u592A\u597D\u6B21\u4E86",
+    "names": [
+      "\u67DA\u5B50\u592A\u597D\u6B21\u4E86"
+    ],
+    "runs": 1,
+    "bestRank": 219,
+    "worstRank": 219,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3190252,
+    "weeksActive": [
+      90
+    ],
+    "history": [
+      {
+        "week": 90,
+        "start": "2026-09-28",
+        "rank": 219,
+        "ms": 3190252,
+        "dish": "Sundaes"
+      }
+    ]
+  },
+  {
     "id": "9b2d8de5-e3c6-499b-8fb1-bcc8ff2477be",
     "persona": "\uD834\uDD1E...Tiamo\u229B",
     "names": [
@@ -942,8 +968,8 @@
       "ilerm"
     ],
     "runs": 1,
-    "bestRank": 249,
-    "worstRank": 249,
+    "bestRank": 278,
+    "worstRank": 278,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -955,7 +981,7 @@
       {
         "week": 90,
         "start": "2026-09-28",
-        "rank": 249,
+        "rank": 278,
         "ms": 3857635,
         "dish": "Sundaes"
       }

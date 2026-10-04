@@ -4,13 +4,13 @@
   "names": [
     "fugu"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 50,
   "worstRank": 250,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2207114,
+  "bestMs": 2064982,
   "weeksActive": [
     36,
     65,
@@ -23,7 +23,8 @@
     80,
     81,
     82,
-    85
+    85,
+    90
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 64,
       "ms": 2207114,
       "dish": "Fish"
+    },
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 83,
+      "ms": 2064982,
+      "dish": "Sundaes"
     }
   ]
 }
