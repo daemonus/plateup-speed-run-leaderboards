@@ -4,8 +4,8 @@
   "names": [
     "\u3057\u304A\u308B"
   ],
-  "runs": 18,
-  "bestRank": 59,
+  "runs": 19,
+  "bestRank": 11,
   "worstRank": 266,
   "firstPlaces": 0,
   "top3": 0,
@@ -29,7 +29,8 @@
     10,
     46,
     84,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 137,
       "ms": 3011690,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 11,
+      "ms": 2938669,
+      "dish": "Hot Dogs"
     }
   ]
 }

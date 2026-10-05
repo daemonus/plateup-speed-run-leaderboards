@@ -4,8 +4,8 @@
   "names": [
     "nuria.kasdan"
   ],
-  "runs": 7,
-  "bestRank": 57,
+  "runs": 8,
+  "bestRank": 13,
   "worstRank": 327,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     85,
     86,
     87,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 57,
       "ms": 2387137,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 13,
+      "ms": 2995027,
+      "dish": "Hot Dogs"
     }
   ]
 }

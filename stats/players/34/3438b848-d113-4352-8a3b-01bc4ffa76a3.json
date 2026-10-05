@@ -4,12 +4,12 @@
   "names": [
     "spuff"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 1,
   "worstRank": 214,
-  "firstPlaces": 1,
-  "top3": 11,
-  "top10": 18,
+  "firstPlaces": 2,
+  "top3": 12,
+  "top10": 19,
   "bestMs": 471310,
   "weeksActive": [
     -94,
@@ -39,7 +39,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 2,
       "ms": 531074,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 1,
+      "ms": 1389865,
+      "dish": "Hot Dogs"
     }
   ]
 }

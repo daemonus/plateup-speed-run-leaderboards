@@ -4,12 +4,12 @@
   "names": [
     "gschir2"
   ],
-  "runs": 10,
-  "bestRank": 29,
+  "runs": 11,
+  "bestRank": 10,
   "worstRank": 304,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1853318,
   "weeksActive": [
     58,
@@ -21,7 +21,8 @@
     86,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 96,
       "ms": 2692674,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 10,
+      "ms": 2875936,
+      "dish": "Hot Dogs"
     }
   ]
 }

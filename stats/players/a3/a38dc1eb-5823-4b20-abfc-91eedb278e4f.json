@@ -4,8 +4,8 @@
   "names": [
     "m4t3oK"
   ],
-  "runs": 17,
-  "bestRank": 83,
+  "runs": 18,
+  "bestRank": 19,
   "worstRank": 492,
   "firstPlaces": 0,
   "top3": 0,
@@ -28,7 +28,8 @@
     81,
     82,
     83,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 105,
       "ms": 2772602,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 19,
+      "ms": 3361744,
+      "dish": "Hot Dogs"
     }
   ]
 }

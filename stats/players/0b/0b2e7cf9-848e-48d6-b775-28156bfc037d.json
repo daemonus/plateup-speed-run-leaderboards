@@ -4,12 +4,12 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 82,
+  "runs": 83,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 1400706,
   "weeksActive": [
     -61,
@@ -93,7 +93,8 @@
     83,
     86,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -669,6 +670,13 @@
       "rank": 73,
       "ms": 2524974,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 8,
+      "ms": 2787084,
+      "dish": "Hot Dogs"
     }
   ]
 }

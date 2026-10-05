@@ -4,8 +4,8 @@
   "names": [
     "Two All Beef Patties"
   ],
-  "runs": 35,
-  "bestRank": 31,
+  "runs": 36,
+  "bestRank": 20,
   "worstRank": 215,
   "firstPlaces": 0,
   "top3": 0,
@@ -46,7 +46,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 168,
       "ms": 2753514,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 20,
+      "ms": 3487561,
+      "dish": "Hot Dogs"
     }
   ]
 }

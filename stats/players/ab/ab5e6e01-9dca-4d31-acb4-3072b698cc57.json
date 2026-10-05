@@ -4,12 +4,12 @@
   "names": [
     "tiffuh"
   ],
-  "runs": 20,
-  "bestRank": 19,
+  "runs": 21,
+  "bestRank": 4,
   "worstRank": 141,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 957664,
   "weeksActive": [
     69,
@@ -31,7 +31,8 @@
     86,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 21,
       "ms": 1959035,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 4,
+      "ms": 2568677,
+      "dish": "Hot Dogs"
     }
   ]
 }

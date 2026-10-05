@@ -4,12 +4,12 @@
   "names": [
     "x_Sc00byD00_x"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 4,
   "worstRank": 100,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 4,
+  "top10": 5,
   "bestMs": 1362648,
   "weeksActive": [
     23,
@@ -29,7 +29,8 @@
     38,
     41,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 29,
       "ms": 1494801,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 9,
+      "ms": 2815708,
+      "dish": "Hot Dogs"
     }
   ]
 }
