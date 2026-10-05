@@ -1,0 +1,34 @@
+{
+  "id": "c8148c45-1ebe-4246-bb70-ef162d3c9db6",
+  "persona": "^Cat^",
+  "names": [
+    "^Cat^"
+  ],
+  "runs": 2,
+  "bestRank": 45,
+  "worstRank": 204,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3083147,
+  "weeksActive": [
+    90,
+    91
+  ],
+  "history": [
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 204,
+      "ms": 3083147,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 45,
+      "ms": 4356246,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

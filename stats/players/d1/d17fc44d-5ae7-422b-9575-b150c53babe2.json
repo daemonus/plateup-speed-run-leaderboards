@@ -4,8 +4,8 @@
   "names": [
     "MikeiMikei"
   ],
-  "runs": 2,
-  "bestRank": 172,
+  "runs": 3,
+  "bestRank": 42,
   "worstRank": 318,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2769464,
   "weeksActive": [
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 172,
       "ms": 2769464,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 42,
+      "ms": 3751820,
+      "dish": "Hot Dogs"
     }
   ]
 }

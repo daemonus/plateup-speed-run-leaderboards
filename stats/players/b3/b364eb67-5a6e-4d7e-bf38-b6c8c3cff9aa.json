@@ -4,8 +4,8 @@
   "names": [
     "AdventurousEmu"
   ],
-  "runs": 7,
-  "bestRank": 25,
+  "runs": 8,
+  "bestRank": 17,
   "worstRank": 175,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     81,
     82,
     83,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 40,
       "ms": 2162755,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 17,
+      "ms": 2865198,
+      "dish": "Hot Dogs"
     }
   ]
 }

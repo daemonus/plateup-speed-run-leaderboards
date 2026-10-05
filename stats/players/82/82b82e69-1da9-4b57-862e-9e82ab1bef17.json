@@ -4,8 +4,8 @@
   "names": [
     "Kalle"
   ],
-  "runs": 8,
-  "bestRank": 51,
+  "runs": 9,
+  "bestRank": 41,
   "worstRank": 153,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     83,
     85,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 93,
       "ms": 2162376,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 41,
+      "ms": 3739622,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Juice-tiss"
   ],
-  "runs": 10,
-  "bestRank": 58,
+  "runs": 11,
+  "bestRank": 20,
   "worstRank": 210,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     83,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 58,
       "ms": 2400856,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 20,
+      "ms": 2952671,
+      "dish": "Hot Dogs"
     }
   ]
 }

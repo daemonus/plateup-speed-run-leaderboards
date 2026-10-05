@@ -1,0 +1,34 @@
+{
+  "id": "8af1d107-2a9d-4532-ba16-924bc9a07897",
+  "persona": "KNACK",
+  "names": [
+    "KNACK"
+  ],
+  "runs": 2,
+  "bestRank": 44,
+  "worstRank": 286,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3964880,
+  "weeksActive": [
+    90,
+    91
+  ],
+  "history": [
+    {
+      "week": 90,
+      "start": "2026-09-28",
+      "rank": 286,
+      "ms": 3964880,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 44,
+      "ms": 4259200,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

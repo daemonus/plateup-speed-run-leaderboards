@@ -4,12 +4,12 @@
   "names": [
     "3mmber"
   ],
-  "runs": 33,
-  "bestRank": 7,
+  "runs": 34,
+  "bestRank": 3,
   "worstRank": 295,
   "firstPlaces": 0,
-  "top3": 0,
-  "top10": 3,
+  "top3": 1,
+  "top10": 4,
   "bestMs": 892621,
   "weeksActive": [
     -64,
@@ -44,7 +44,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 10,
       "ms": 1199930,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 3,
+      "ms": 1907485,
+      "dish": "Hot Dogs"
     }
   ]
 }

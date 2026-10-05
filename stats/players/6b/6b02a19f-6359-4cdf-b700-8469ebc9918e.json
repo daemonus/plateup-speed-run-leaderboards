@@ -4,8 +4,8 @@
   "names": [
     "Platypeople?"
   ],
-  "runs": 22,
-  "bestRank": 16,
+  "runs": 23,
+  "bestRank": 13,
   "worstRank": 144,
   "firstPlaces": 0,
   "top3": 0,
@@ -33,7 +33,8 @@
     21,
     38,
     40,
-    49
+    49,
+    91
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 89,
       "ms": 3242090,
       "dish": "Burgers"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 13,
+      "ms": 2651355,
+      "dish": "Hot Dogs"
     }
   ]
 }
