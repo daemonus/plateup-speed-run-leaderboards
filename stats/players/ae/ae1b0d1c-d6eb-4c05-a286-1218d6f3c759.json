@@ -4,7 +4,7 @@
   "names": [
     "\u7B39\u9326\u89AA\u65B9"
   ],
-  "runs": 93,
+  "runs": 94,
   "bestRank": 46,
   "worstRank": 382,
   "firstPlaces": 0,
@@ -104,7 +104,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -757,6 +758,13 @@
       "rank": 179,
       "ms": 2845642,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 63,
+      "ms": 3805174,
+      "dish": "Hot Dogs"
     }
   ]
 }

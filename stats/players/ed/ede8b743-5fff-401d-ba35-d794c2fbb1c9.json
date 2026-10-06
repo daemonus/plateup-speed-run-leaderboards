@@ -4,12 +4,12 @@
   "names": [
     "\u5C11"
   ],
-  "runs": 19,
-  "bestRank": 11,
+  "runs": 20,
+  "bestRank": 9,
   "worstRank": 306,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 916071,
   "weeksActive": [
     59,
@@ -30,7 +30,8 @@
     83,
     84,
     86,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 48,
       "ms": 1690489,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 9,
+      "ms": 2360157,
+      "dish": "Hot Dogs"
     }
   ]
 }

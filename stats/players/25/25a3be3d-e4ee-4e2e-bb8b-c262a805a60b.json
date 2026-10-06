@@ -4,8 +4,8 @@
   "names": [
     "wham12"
   ],
-  "runs": 25,
-  "bestRank": 163,
+  "runs": 26,
+  "bestRank": 57,
   "worstRank": 651,
   "firstPlaces": 0,
   "top3": 0,
@@ -36,7 +36,8 @@
     84,
     85,
     87,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 171,
       "ms": 3202017,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 57,
+      "ms": 3649333,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "petiten00b"
   ],
-  "runs": 65,
+  "runs": 66,
   "bestRank": 16,
   "worstRank": 328,
   "firstPlaces": 0,
@@ -76,7 +76,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -533,6 +534,13 @@
       "rank": 56,
       "ms": 1792493,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 21,
+      "ms": 2751552,
+      "dish": "Hot Dogs"
     }
   ]
 }

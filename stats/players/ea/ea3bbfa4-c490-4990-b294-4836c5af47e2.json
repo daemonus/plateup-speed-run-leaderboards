@@ -1,0 +1,34 @@
+{
+  "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+  "persona": "Hocktor",
+  "names": [
+    "Hocktor"
+  ],
+  "runs": 2,
+  "bestRank": 3,
+  "worstRank": 4,
+  "firstPlaces": 0,
+  "top3": 1,
+  "top10": 2,
+  "bestMs": 965929,
+  "weeksActive": [
+    89,
+    91
+  ],
+  "history": [
+    {
+      "week": 89,
+      "start": "2026-09-21",
+      "rank": 4,
+      "ms": 965929,
+      "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 3,
+      "ms": 1688895,
+      "dish": "Hot Dogs"
+    }
+  ]
+}
