@@ -4,12 +4,12 @@
   "names": [
     "Stefan"
   ],
-  "runs": 77,
+  "runs": 78,
   "bestRank": 1,
   "worstRank": 170,
   "firstPlaces": 5,
   "top3": 20,
-  "top10": 56,
+  "top10": 57,
   "bestMs": 794980,
   "weeksActive": [
     -94,
@@ -88,7 +88,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -629,6 +630,13 @@
       "rank": 6,
       "ms": 1003231,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 9,
+      "ms": 2105377,
+      "dish": "Hot Dogs"
     }
   ]
 }

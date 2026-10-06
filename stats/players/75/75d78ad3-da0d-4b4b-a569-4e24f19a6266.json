@@ -4,12 +4,12 @@
   "names": [
     "hipposnavos"
   ],
-  "runs": 22,
-  "bestRank": 10,
+  "runs": 23,
+  "bestRank": 7,
   "worstRank": 280,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 816679,
   "weeksActive": [
     27,
@@ -33,7 +33,8 @@
     83,
     86,
     88,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 11,
       "ms": 1209176,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 7,
+      "ms": 1971561,
+      "dish": "Hot Dogs"
     }
   ]
 }

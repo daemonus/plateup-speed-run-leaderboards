@@ -4,12 +4,12 @@
   "names": [
     "Robin"
   ],
-  "runs": 115,
+  "runs": 116,
   "bestRank": 4,
   "worstRank": 333,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 21,
+  "top10": 22,
   "bestMs": 1276185,
   "weeksActive": [
     -59,
@@ -126,7 +126,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -933,6 +934,13 @@
       "rank": 35,
       "ms": 1584382,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 10,
+      "ms": 2113067,
+      "dish": "Hot Dogs"
     }
   ]
 }

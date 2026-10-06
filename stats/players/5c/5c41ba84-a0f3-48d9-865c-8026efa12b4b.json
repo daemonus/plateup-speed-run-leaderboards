@@ -4,7 +4,7 @@
   "names": [
     "Saho"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 34,
   "worstRank": 495,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 139,
       "ms": 2504821,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 68,
+      "ms": 3522031,
+      "dish": "Hot Dogs"
     }
   ]
 }

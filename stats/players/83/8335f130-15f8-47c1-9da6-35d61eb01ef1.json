@@ -4,8 +4,8 @@
   "names": [
     "elitesP"
   ],
-  "runs": 11,
-  "bestRank": 27,
+  "runs": 12,
+  "bestRank": 26,
   "worstRank": 115,
   "firstPlaces": 0,
   "top3": 0,
@@ -22,7 +22,8 @@
     65,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 52,
       "ms": 1708249,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 26,
+      "ms": 2680915,
+      "dish": "Hot Dogs"
     }
   ]
 }

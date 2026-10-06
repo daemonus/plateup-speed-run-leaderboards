@@ -2372,12 +2372,12 @@
       "ThunderFlame"
     ],
     "runs": 1,
-    "bestRank": 40,
-    "worstRank": 40,
+    "bestRank": 8,
+    "worstRank": 8,
     "firstPlaces": 0,
     "top3": 0,
-    "top10": 0,
-    "bestMs": 3108550,
+    "top10": 1,
+    "bestMs": 2043856,
     "weeksActive": [
       91
     ],
@@ -2385,8 +2385,8 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 40,
-        "ms": 3108550,
+        "rank": 8,
+        "ms": 2043856,
         "dish": "Hot Dogs"
       }
     ]

@@ -4,8 +4,8 @@
   "names": [
     "Algue"
   ],
-  "runs": 12,
-  "bestRank": 237,
+  "runs": 13,
+  "bestRank": 98,
   "worstRank": 601,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     58,
     61,
     62,
-    63
+    63,
+    91
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 348,
       "ms": 3385310,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 98,
+      "ms": 6097158,
+      "dish": "Hot Dogs"
     }
   ]
 }
