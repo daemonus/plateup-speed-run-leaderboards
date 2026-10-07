@@ -4,8 +4,8 @@
   "names": [
     "ramenicole04"
   ],
-  "runs": 3,
-  "bestRank": 287,
+  "runs": 4,
+  "bestRank": 90,
   "worstRank": 790,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     83,
     85,
-    86
+    86,
+    91
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 429,
       "ms": 3543473,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 90,
+      "ms": 3809234,
+      "dish": "Hot Dogs"
     }
   ]
 }

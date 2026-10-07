@@ -4,7 +4,7 @@
   "names": [
     "w0rdpainter"
   ],
-  "runs": 80,
+  "runs": 81,
   "bestRank": 22,
   "worstRank": 347,
   "firstPlaces": 0,
@@ -91,7 +91,8 @@
     83,
     84,
     85,
-    86
+    86,
+    91
   ],
   "history": [
     {
@@ -653,6 +654,13 @@
       "rank": 297,
       "ms": 2758531,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 58,
+      "ms": 3105697,
+      "dish": "Hot Dogs"
     }
   ]
 }

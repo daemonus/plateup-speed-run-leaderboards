@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "331a2f30-48b5-4b4c-b003-226b0086289d",
+    "persona": "12345",
+    "names": [
+      "12345"
+    ],
+    "runs": 1,
+    "bestRank": 112,
+    "worstRank": 112,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6916012,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 112,
+        "ms": 6916012,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "331b86f8-3ca1-44ac-8dbc-0bb265b5db46",
     "persona": "Meggami",
     "names": [

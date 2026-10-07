@@ -4,8 +4,8 @@
   "names": [
     "opossam"
   ],
-  "runs": 16,
-  "bestRank": 146,
+  "runs": 17,
+  "bestRank": 111,
   "worstRank": 631,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     80,
     83,
     84,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 274,
       "ms": 3802320,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 111,
+      "ms": 6674064,
+      "dish": "Hot Dogs"
     }
   ]
 }

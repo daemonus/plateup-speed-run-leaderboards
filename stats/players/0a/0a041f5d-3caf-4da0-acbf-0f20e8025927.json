@@ -4,7 +4,7 @@
   "names": [
     "Zomly"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 39,
   "worstRank": 443,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     53,
     54,
     58,
-    82
+    82,
+    91
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 39,
       "ms": 2131709,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 66,
+      "ms": 3192036,
+      "dish": "Hot Dogs"
     }
   ]
 }
