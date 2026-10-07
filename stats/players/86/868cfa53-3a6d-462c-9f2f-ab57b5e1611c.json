@@ -4,8 +4,8 @@
   "names": [
     "pinsir22"
   ],
-  "runs": 31,
-  "bestRank": 64,
+  "runs": 32,
+  "bestRank": 38,
   "worstRank": 870,
   "firstPlaces": 0,
   "top3": 0,
@@ -42,7 +42,8 @@
     66,
     67,
     70,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 81,
       "ms": 2023553,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 38,
+      "ms": 2856885,
+      "dish": "Hot Dogs"
     }
   ]
 }

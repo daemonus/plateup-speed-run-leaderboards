@@ -1,16 +1,16 @@
 {
-  "id": "c8148c45-1ebe-4246-bb70-ef162d3c9db6",
-  "persona": "^Cat^",
+  "id": "2e2f093a-1023-4818-9a40-210ae3ed0355",
+  "persona": "Scorphyll",
   "names": [
-    "^Cat^"
+    "Scorphyll"
   ],
   "runs": 2,
-  "bestRank": 111,
-  "worstRank": 204,
+  "bestRank": 117,
+  "worstRank": 285,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3083147,
+  "bestMs": 3944270,
   "weeksActive": [
     90,
     91
@@ -19,15 +19,15 @@
     {
       "week": 90,
       "start": "2026-09-28",
-      "rank": 204,
-      "ms": 3083147,
+      "rank": 285,
+      "ms": 3944270,
       "dish": "Sundaes"
     },
     {
       "week": 91,
       "start": "2026-10-05",
-      "rank": 111,
-      "ms": 4356246,
+      "rank": 117,
+      "ms": 4991409,
       "dish": "Hot Dogs"
     }
   ]

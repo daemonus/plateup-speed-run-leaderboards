@@ -4,8 +4,8 @@
   "names": [
     "Jyu Viole Grace."
   ],
-  "runs": 2,
-  "bestRank": 177,
+  "runs": 3,
+  "bestRank": 121,
   "worstRank": 381,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4546314,
   "weeksActive": [
     28,
-    29
+    29,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 177,
       "ms": 4716750,
       "dish": "Breakfast"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 121,
+      "ms": 5306992,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Pushur59"
   ],
-  "runs": 11,
-  "bestRank": 177,
+  "runs": 12,
+  "bestRank": 119,
   "worstRank": 701,
   "firstPlaces": 0,
   "top3": 0,
@@ -22,7 +22,8 @@
     51,
     59,
     64,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 375,
       "ms": 5974200,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 119,
+      "ms": 5240987,
+      "dish": "Hot Dogs"
     }
   ]
 }
