@@ -4,8 +4,8 @@
   "names": [
     "PotatoCheesMonk"
   ],
-  "runs": 3,
-  "bestRank": 141,
+  "runs": 4,
+  "bestRank": 114,
   "worstRank": 208,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     66,
     72,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 141,
       "ms": 2522465,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 114,
+      "ms": 3969664,
+      "dish": "Hot Dogs"
     }
   ]
 }

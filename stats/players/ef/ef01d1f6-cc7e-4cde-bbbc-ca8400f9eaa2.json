@@ -4,7 +4,7 @@
   "names": [
     "wan"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 88,
   "worstRank": 542,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     87,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 137,
       "ms": 2464749,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 118,
+      "ms": 4234185,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "p.kaers"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 10,
   "worstRank": 299,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     86,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 42,
       "ms": 2221213,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 19,
+      "ms": 2342776,
+      "dish": "Hot Dogs"
     }
   ]
 }

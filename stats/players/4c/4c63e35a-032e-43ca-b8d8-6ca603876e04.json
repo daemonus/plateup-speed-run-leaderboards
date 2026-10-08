@@ -4,7 +4,7 @@
   "names": [
     "Jones"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 27,
   "worstRank": 255,
   "firstPlaces": 0,
@@ -40,7 +40,8 @@
     85,
     87,
     88,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 41,
       "ms": 1646385,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 92,
+      "ms": 3589739,
+      "dish": "Hot Dogs"
     }
   ]
 }

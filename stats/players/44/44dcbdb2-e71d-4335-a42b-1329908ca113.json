@@ -4,8 +4,8 @@
   "names": [
     "danae_agosto15"
   ],
-  "runs": 7,
-  "bestRank": 268,
+  "runs": 8,
+  "bestRank": 135,
   "worstRank": 561,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     75,
     84,
     85,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 268,
       "ms": 3702368,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 135,
+      "ms": 5463856,
+      "dish": "Hot Dogs"
     }
   ]
 }

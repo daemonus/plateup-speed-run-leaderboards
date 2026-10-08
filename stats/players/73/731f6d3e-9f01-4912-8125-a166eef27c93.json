@@ -4,7 +4,7 @@
   "names": [
     "Neryn"
   ],
-  "runs": 67,
+  "runs": 68,
   "bestRank": 87,
   "worstRank": 594,
   "firstPlaces": 0,
@@ -78,7 +78,8 @@
     86,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -549,6 +550,13 @@
       "rank": 153,
       "ms": 3098638,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 90,
+      "ms": 3548956,
+      "dish": "Hot Dogs"
     }
   ]
 }

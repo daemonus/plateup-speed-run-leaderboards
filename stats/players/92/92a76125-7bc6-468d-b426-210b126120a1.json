@@ -4,7 +4,7 @@
   "names": [
     "WillyJohnson"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 25,
   "worstRank": 248,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     86,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 25,
       "ms": 2023276,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 45,
+      "ms": 2944246,
+      "dish": "Hot Dogs"
     }
   ]
 }
