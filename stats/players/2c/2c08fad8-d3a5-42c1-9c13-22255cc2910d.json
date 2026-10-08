@@ -4,7 +4,7 @@
   "names": [
     "963"
   ],
-  "runs": 46,
+  "runs": 47,
   "bestRank": 33,
   "worstRank": 376,
   "firstPlaces": 0,
@@ -57,7 +57,8 @@
     82,
     87,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -381,6 +382,13 @@
       "rank": 65,
       "ms": 2477765,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 57,
+      "ms": 2981724,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "OwlPrincess"
   ],
-  "runs": 29,
-  "bestRank": 147,
+  "runs": 30,
+  "bestRank": 131,
   "worstRank": 455,
   "firstPlaces": 0,
   "top3": 0,
@@ -40,7 +40,8 @@
     80,
     81,
     87,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 301,
       "ms": 4049354,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 131,
+      "ms": 4022342,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "c00ff4ff-bd54-4ff7-91d9-2c32dbf1cd81",
+  "persona": "powmowski",
+  "names": [
+    "powmowski"
+  ],
+  "runs": 2,
+  "bestRank": 87,
+  "worstRank": 1475,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2777609,
+  "weeksActive": [
+    -93,
+    91
+  ],
+  "history": [
+    {
+      "week": -93,
+      "start": "2023-03-27",
+      "rank": 1475,
+      "ms": 2777609,
+      "dish": "Fish"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 87,
+      "ms": 3353680,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

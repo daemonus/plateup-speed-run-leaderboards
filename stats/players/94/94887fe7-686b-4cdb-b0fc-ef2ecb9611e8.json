@@ -4,7 +4,7 @@
   "names": [
     "kayamja"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 9,
   "worstRank": 431,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     86,
     87,
     88,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 44,
       "ms": 1659928,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 67,
+      "ms": 3035442,
+      "dish": "Hot Dogs"
     }
   ]
 }

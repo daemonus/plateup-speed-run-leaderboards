@@ -4,8 +4,8 @@
   "names": [
     "can.more0609"
   ],
-  "runs": 2,
-  "bestRank": 242,
+  "runs": 3,
+  "bestRank": 113,
   "worstRank": 329,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3273248,
   "weeksActive": [
     58,
-    59
+    59,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 242,
       "ms": 3448162,
       "dish": "Salad"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 113,
+      "ms": 3692701,
+      "dish": "Hot Dogs"
     }
   ]
 }

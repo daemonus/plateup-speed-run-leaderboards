@@ -4,7 +4,7 @@
   "names": [
     "Cappybarakun"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 20,
   "worstRank": 289,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     83,
     86,
     87,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 20,
       "ms": 1893131,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 35,
+      "ms": 2669351,
+      "dish": "Hot Dogs"
     }
   ]
 }

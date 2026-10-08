@@ -4,8 +4,8 @@
   "names": [
     "Faptain_Curby"
   ],
-  "runs": 3,
-  "bestRank": 258,
+  "runs": 4,
+  "bestRank": 153,
   "worstRank": 321,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     61,
     88,
-    89
+    89,
+    91
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 321,
       "ms": 4329575,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 153,
+      "ms": 5559345,
+      "dish": "Hot Dogs"
     }
   ]
 }
