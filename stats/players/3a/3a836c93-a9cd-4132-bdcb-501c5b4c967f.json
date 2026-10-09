@@ -4,7 +4,7 @@
   "names": [
     "Wademunkey"
   ],
-  "runs": 56,
+  "runs": 57,
   "bestRank": 15,
   "worstRank": 381,
   "firstPlaces": 0,
@@ -67,7 +67,8 @@
     18,
     65,
     82,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -461,6 +462,13 @@
       "rank": 45,
       "ms": 2172041,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 43,
+      "ms": 2832853,
+      "dish": "Hot Dogs"
     }
   ]
 }

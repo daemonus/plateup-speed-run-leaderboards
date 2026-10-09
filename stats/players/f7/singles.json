@@ -838,8 +838,8 @@
       "[ZSC]Steffen"
     ],
     "runs": 1,
-    "bestRank": 157,
-    "worstRank": 157,
+    "bestRank": 165,
+    "worstRank": 165,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 157,
+        "rank": 165,
         "ms": 5832658,
         "dish": "Hot Dogs"
       }
@@ -2075,6 +2075,32 @@
         "start": "2025-10-13",
         "rank": 184,
         "ms": 3540927,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "f7c10831-28b2-4f4b-8998-d0e5a6b4dee4",
+    "persona": "JoxTheBox",
+    "names": [
+      "JoxTheBox"
+    ],
+    "runs": 1,
+    "bestRank": 70,
+    "worstRank": 70,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3035311,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 70,
+        "ms": 3035311,
         "dish": "Hot Dogs"
       }
     ]
