@@ -916,8 +916,8 @@
       "TonyTortelini"
     ],
     "runs": 1,
-    "bestRank": 118,
-    "worstRank": 118,
+    "bestRank": 123,
+    "worstRank": 123,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 118,
+        "rank": 123,
         "ms": 3685738,
         "dish": "Hot Dogs"
       }
@@ -1348,6 +1348,32 @@
         "rank": 539,
         "ms": 3169827,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "554e485d-17d4-4177-b121-8dc5c984b342",
+    "persona": "kurosawa",
+    "names": [
+      "kurosawa"
+    ],
+    "runs": 1,
+    "bestRank": 167,
+    "worstRank": 167,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4997741,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 167,
+        "ms": 4997741,
+        "dish": "Hot Dogs"
       }
     ]
   },

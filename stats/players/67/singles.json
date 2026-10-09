@@ -1046,8 +1046,8 @@
       "Acey_MiO"
     ],
     "runs": 1,
-    "bestRank": 120,
-    "worstRank": 120,
+    "bestRank": 125,
+    "worstRank": 125,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1059,7 +1059,7 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 120,
+        "rank": 125,
         "ms": 3725951,
         "dish": "Hot Dogs"
       }
@@ -1582,6 +1582,32 @@
         "rank": 225,
         "ms": 3227796,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "67979bf9-898c-4424-884f-527b2c58d2c3",
+    "persona": "Zy",
+    "names": [
+      "Zy"
+    ],
+    "runs": 1,
+    "bestRank": 193,
+    "worstRank": 193,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7837509,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 193,
+        "ms": 7837509,
+        "dish": "Hot Dogs"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "perdueaime"
   ],
-  "runs": 62,
+  "runs": 63,
   "bestRank": 54,
   "worstRank": 561,
   "firstPlaces": 0,
@@ -73,7 +73,8 @@
     84,
     85,
     87,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -509,6 +510,13 @@
       "rank": 237,
       "ms": 3743564,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 122,
+      "ms": 3679479,
+      "dish": "Hot Dogs"
     }
   ]
 }
