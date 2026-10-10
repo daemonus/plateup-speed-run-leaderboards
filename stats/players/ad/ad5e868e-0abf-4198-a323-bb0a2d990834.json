@@ -4,7 +4,7 @@
   "names": [
     "Dambooney"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 45,
   "worstRank": 397,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     53,
     55,
     56,
-    84
+    84,
+    91
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 376,
       "ms": 2697462,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 100,
+      "ms": 3194256,
+      "dish": "Hot Dogs"
     }
   ]
 }

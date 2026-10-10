@@ -4,8 +4,8 @@
   "names": [
     "Mighty Gorgon"
   ],
-  "runs": 12,
-  "bestRank": 179,
+  "runs": 13,
+  "bestRank": 157,
   "worstRank": 717,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     62,
     64,
     66,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 235,
       "ms": 3328560,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 157,
+      "ms": 3864996,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Kava"
   ],
-  "runs": 101,
+  "runs": 102,
   "bestRank": 16,
   "worstRank": 1319,
   "firstPlaces": 0,
@@ -112,7 +112,8 @@
     84,
     85,
     86,
-    87
+    87,
+    91
   ],
   "history": [
     {
@@ -821,6 +822,13 @@
       "rank": 68,
       "ms": 3038516,
       "dish": "Fajitas"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 39,
+      "ms": 2620179,
+      "dish": "Hot Dogs"
     }
   ]
 }

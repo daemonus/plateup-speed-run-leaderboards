@@ -4,7 +4,7 @@
   "names": [
     "amatukiserika"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 21,
   "worstRank": 120,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     5,
     6,
     81,
-    82
+    82,
+    91
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 27,
       "ms": 2017502,
       "dish": "Pizza"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 51,
+      "ms": 2809688,
+      "dish": "Hot Dogs"
     }
   ]
 }

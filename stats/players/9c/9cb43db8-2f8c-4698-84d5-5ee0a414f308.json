@@ -4,7 +4,7 @@
   "names": [
     "GingerSnap155"
   ],
-  "runs": 56,
+  "runs": 57,
   "bestRank": 21,
   "worstRank": 394,
   "firstPlaces": 0,
@@ -67,7 +67,8 @@
     76,
     77,
     82,
-    85
+    85,
+    91
   ],
   "history": [
     {
@@ -461,6 +462,13 @@
       "rank": 58,
       "ms": 2149917,
       "dish": "Fish"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 34,
+      "ms": 2520787,
+      "dish": "Hot Dogs"
     }
   ]
 }

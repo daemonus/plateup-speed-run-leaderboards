@@ -4,7 +4,7 @@
   "names": [
     "Its a me"
   ],
-  "runs": 44,
+  "runs": 45,
   "bestRank": 3,
   "worstRank": 451,
   "firstPlaces": 0,
@@ -55,7 +55,8 @@
     74,
     82,
     83,
-    85
+    85,
+    91
   ],
   "history": [
     {
@@ -365,6 +366,13 @@
       "rank": 68,
       "ms": 2217033,
       "dish": "Fish"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 14,
+      "ms": 2096750,
+      "dish": "Hot Dogs"
     }
   ]
 }
