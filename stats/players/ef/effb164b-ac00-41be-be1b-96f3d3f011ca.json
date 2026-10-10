@@ -4,7 +4,7 @@
   "names": [
     "minaka5"
   ],
-  "runs": 39,
+  "runs": 40,
   "bestRank": 54,
   "worstRank": 521,
   "firstPlaces": 0,
@@ -50,7 +50,8 @@
     80,
     83,
     86,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 88,
       "ms": 2649415,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 108,
+      "ms": 3409581,
+      "dish": "Hot Dogs"
     }
   ]
 }

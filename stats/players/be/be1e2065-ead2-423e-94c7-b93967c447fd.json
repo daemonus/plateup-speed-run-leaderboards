@@ -4,7 +4,7 @@
   "names": [
     "ririna3333"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 73,
   "worstRank": 226,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2450811,
   "weeksActive": [
     26,
-    53
+    53,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 73,
       "ms": 2450811,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 97,
+      "ms": 3310645,
+      "dish": "Hot Dogs"
     }
   ]
 }

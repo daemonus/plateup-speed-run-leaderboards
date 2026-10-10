@@ -4,8 +4,8 @@
   "names": [
     "HOPKAL"
   ],
-  "runs": 2,
-  "bestRank": 458,
+  "runs": 3,
+  "bestRank": 174,
   "worstRank": 743,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4270053,
   "weeksActive": [
     71,
-    83
+    83,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 743,
       "ms": 4270053,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 174,
+      "ms": 4807410,
+      "dish": "Hot Dogs"
     }
   ]
 }
