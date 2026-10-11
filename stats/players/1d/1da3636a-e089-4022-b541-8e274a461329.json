@@ -4,7 +4,7 @@
   "names": [
     "yevfurman"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 95,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     86,
     88,
     89,
-    90
+    90,
+    91
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 118,
       "ms": 2343489,
       "dish": "Sundaes"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 108,
+      "ms": 3217187,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Lulu"
   ],
-  "runs": 2,
-  "bestRank": 217,
+  "runs": 3,
+  "bestRank": 212,
   "worstRank": 454,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3099285,
   "weeksActive": [
     84,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 217,
       "ms": 3552239,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 212,
+      "ms": 4635395,
+      "dish": "Hot Dogs"
     }
   ]
 }
