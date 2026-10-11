@@ -4,7 +4,7 @@
   "names": [
     "MajorChill"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 120,
   "worstRank": 955,
   "firstPlaces": 0,
@@ -54,7 +54,8 @@
     54,
     55,
     56,
-    58
+    58,
+    91
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 678,
       "ms": 6683156,
       "dish": "Turkey"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 237,
+      "ms": 5950182,
+      "dish": "Hot Dogs"
     }
   ]
 }

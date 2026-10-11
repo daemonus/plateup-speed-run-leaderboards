@@ -4,8 +4,8 @@
   "names": [
     "creakalicious"
   ],
-  "runs": 5,
-  "bestRank": 206,
+  "runs": 6,
+  "bestRank": 183,
   "worstRank": 456,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     85,
     86,
     87,
-    88
+    88,
+    91
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 302,
       "ms": 4256843,
       "dish": "Pies"
+    },
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 183,
+      "ms": 4345374,
+      "dish": "Hot Dogs"
     }
   ]
 }

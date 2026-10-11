@@ -942,8 +942,8 @@
       "Sewer :)"
     ],
     "runs": 1,
-    "bestRank": 223,
-    "worstRank": 223,
+    "bestRank": 234,
+    "worstRank": 234,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -955,7 +955,7 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 223,
+        "rank": 234,
         "ms": 5845783,
         "dish": "Hot Dogs"
       }
@@ -1348,6 +1348,32 @@
         "rank": 417,
         "ms": 4771979,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "e17c27bb-d3f9-4c09-adad-572aa585c7ee",
+    "persona": "\u68A8\u6843",
+    "names": [
+      "\u68A8\u6843"
+    ],
+    "runs": 1,
+    "bestRank": 222,
+    "worstRank": 222,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5401704,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 222,
+        "ms": 5401704,
+        "dish": "Hot Dogs"
       }
     ]
   },

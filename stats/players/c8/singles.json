@@ -1202,8 +1202,8 @@
       "Deuc"
     ],
     "runs": 1,
-    "bestRank": 212,
-    "worstRank": 212,
+    "bestRank": 223,
+    "worstRank": 223,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 91,
         "start": "2026-10-05",
-        "rank": 212,
+        "rank": 223,
         "ms": 5413205,
         "dish": "Hot Dogs"
       }
@@ -3454,6 +3454,32 @@
         "rank": 372,
         "ms": 3690730,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "c8f6a4f8-233e-44f7-a6ed-12cd32a224e3",
+    "persona": "happylinday",
+    "names": [
+      "happylinday"
+    ],
+    "runs": 1,
+    "bestRank": 121,
+    "worstRank": 121,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3424563,
+    "weeksActive": [
+      91
+    ],
+    "history": [
+      {
+        "week": 91,
+        "start": "2026-10-05",
+        "rank": 121,
+        "ms": 3424563,
+        "dish": "Hot Dogs"
       }
     ]
   },
