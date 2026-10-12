@@ -4,8 +4,8 @@
   "names": [
     "ForeverMash"
   ],
-  "runs": 24,
-  "bestRank": 49,
+  "runs": 25,
+  "bestRank": 34,
   "worstRank": 566,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     87,
     88,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 131,
       "ms": 3449399,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 34,
+      "ms": 3085905,
+      "dish": "Fish"
     }
   ]
 }

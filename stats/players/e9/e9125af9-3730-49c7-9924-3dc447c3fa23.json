@@ -4,12 +4,12 @@
   "names": [
     "Jimbos Monkey"
   ],
-  "runs": 182,
-  "bestRank": 10,
+  "runs": 183,
+  "bestRank": 5,
   "worstRank": 1205,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 1389470,
   "weeksActive": [
     -92,
@@ -193,7 +193,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -1469,6 +1470,13 @@
       "rank": 10,
       "ms": 1941882,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 5,
+      "ms": 1983076,
+      "dish": "Fish"
     }
   ]
 }

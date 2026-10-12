@@ -4,8 +4,8 @@
   "names": [
     "Flip"
   ],
-  "runs": 41,
-  "bestRank": 42,
+  "runs": 42,
+  "bestRank": 23,
   "worstRank": 406,
   "firstPlaces": 0,
   "top3": 0,
@@ -52,7 +52,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -341,6 +342,13 @@
       "rank": 87,
       "ms": 3061022,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 23,
+      "ms": 2692144,
+      "dish": "Fish"
     }
   ]
 }

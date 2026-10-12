@@ -4,8 +4,8 @@
   "names": [
     "Auyri"
   ],
-  "runs": 10,
-  "bestRank": 121,
+  "runs": 11,
+  "bestRank": 39,
   "worstRank": 617,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     21,
     23,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 154,
       "ms": 3701579,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 39,
+      "ms": 3180761,
+      "dish": "Fish"
     }
   ]
 }

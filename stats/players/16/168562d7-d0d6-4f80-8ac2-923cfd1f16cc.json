@@ -4,7 +4,7 @@
   "names": [
     "Philtheeee"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 2,
   "worstRank": 175,
   "firstPlaces": 0,
@@ -40,7 +40,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 49,
       "ms": 2715248,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 27,
+      "ms": 2833060,
+      "dish": "Fish"
     }
   ]
 }

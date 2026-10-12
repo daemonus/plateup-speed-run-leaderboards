@@ -4,19 +4,20 @@
   "names": [
     "Chezy"
   ],
-  "runs": 5,
-  "bestRank": 84,
+  "runs": 6,
+  "bestRank": 15,
   "worstRank": 264,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2848209,
+  "bestMs": 2414760,
   "weeksActive": [
     87,
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 156,
       "ms": 3721614,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 15,
+      "ms": 2414760,
+      "dish": "Fish"
     }
   ]
 }

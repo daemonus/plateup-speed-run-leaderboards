@@ -4,18 +4,19 @@
   "names": [
     "AtomicGambler"
   ],
-  "runs": 4,
-  "bestRank": 192,
+  "runs": 5,
+  "bestRank": 38,
   "worstRank": 504,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3283266,
+  "bestMs": 3148798,
   "weeksActive": [
     82,
     88,
     89,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 234,
       "ms": 3301567,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 38,
+      "ms": 3148798,
+      "dish": "Fish"
     }
   ]
 }

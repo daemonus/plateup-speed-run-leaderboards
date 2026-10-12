@@ -4,7 +4,7 @@
   "names": [
     "bicky-_-"
   ],
-  "runs": 132,
+  "runs": 133,
   "bestRank": 11,
   "worstRank": 605,
   "firstPlaces": 0,
@@ -143,7 +143,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -1069,6 +1070,13 @@
       "rank": 88,
       "ms": 3067309,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 14,
+      "ms": 2407001,
+      "dish": "Fish"
     }
   ]
 }

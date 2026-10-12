@@ -4,16 +4,17 @@
   "names": [
     "1318096058"
   ],
-  "runs": 2,
-  "bestRank": 254,
+  "runs": 3,
+  "bestRank": 51,
   "worstRank": 367,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3699175,
+  "bestMs": 3653721,
   "weeksActive": [
     77,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 254,
       "ms": 6420743,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 51,
+      "ms": 3653721,
+      "dish": "Fish"
     }
   ]
 }

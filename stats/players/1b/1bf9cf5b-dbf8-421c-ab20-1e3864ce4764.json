@@ -4,8 +4,8 @@
   "names": [
     "somemorgaming"
   ],
-  "runs": 18,
-  "bestRank": 176,
+  "runs": 19,
+  "bestRank": 64,
   "worstRank": 748,
   "firstPlaces": 0,
   "top3": 0,
@@ -29,7 +29,8 @@
     64,
     65,
     68,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 410,
       "ms": 4002685,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 64,
+      "ms": 4082327,
+      "dish": "Fish"
     }
   ]
 }

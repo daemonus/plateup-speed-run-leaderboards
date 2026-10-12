@@ -4,12 +4,12 @@
   "names": [
     "nuria.kasdan"
   ],
-  "runs": 8,
-  "bestRank": 57,
+  "runs": 9,
+  "bestRank": 9,
   "worstRank": 327,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1668034,
   "weeksActive": [
     68,
@@ -19,7 +19,8 @@
     86,
     87,
     89,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 73,
       "ms": 2995027,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 9,
+      "ms": 2103895,
+      "dish": "Fish"
     }
   ]
 }

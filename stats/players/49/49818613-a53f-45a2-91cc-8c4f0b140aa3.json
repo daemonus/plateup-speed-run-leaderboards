@@ -4,8 +4,8 @@
   "names": [
     "Flat"
   ],
-  "runs": 164,
-  "bestRank": 15,
+  "runs": 165,
+  "bestRank": 11,
   "worstRank": 854,
   "firstPlaces": 0,
   "top3": 0,
@@ -175,7 +175,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -1325,6 +1326,13 @@
       "rank": 45,
       "ms": 2666467,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 11,
+      "ms": 2265116,
+      "dish": "Fish"
     }
   ]
 }

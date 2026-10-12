@@ -4,12 +4,12 @@
   "names": [
     "ducttapegirl369"
   ],
-  "runs": 97,
+  "runs": 98,
   "bestRank": 1,
   "worstRank": 768,
   "firstPlaces": 1,
   "top3": 4,
-  "top10": 21,
+  "top10": 22,
   "bestMs": 878103,
   "weeksActive": [
     -94,
@@ -108,7 +108,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -789,6 +790,13 @@
       "rank": 18,
       "ms": 2121819,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 4,
+      "ms": 1540431,
+      "dish": "Fish"
     }
   ]
 }

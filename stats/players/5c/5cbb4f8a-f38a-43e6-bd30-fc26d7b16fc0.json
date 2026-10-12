@@ -4,8 +4,8 @@
   "names": [
     "Max Power doesn\u0027t abbreviate"
   ],
-  "runs": 53,
-  "bestRank": 28,
+  "runs": 54,
+  "bestRank": 19,
   "worstRank": 213,
   "firstPlaces": 0,
   "top3": 0,
@@ -64,7 +64,8 @@
     80,
     82,
     83,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -437,6 +438,13 @@
       "rank": 166,
       "ms": 1846266,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 19,
+      "ms": 2509429,
+      "dish": "Fish"
     }
   ]
 }

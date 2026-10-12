@@ -4,8 +4,8 @@
   "names": [
     "\u3061\u3061\u3076"
   ],
-  "runs": 3,
-  "bestRank": 78,
+  "runs": 4,
+  "bestRank": 37,
   "worstRank": 165,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 145,
       "ms": 3618229,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 37,
+      "ms": 3131994,
+      "dish": "Fish"
     }
   ]
 }

@@ -1690,6 +1690,32 @@
     ]
   },
   {
+    "id": "71a407a6-cb8e-481f-9ae1-a8a76241e573",
+    "persona": "sarcop",
+    "names": [
+      "sarcop"
+    ],
+    "runs": 1,
+    "bestRank": 52,
+    "worstRank": 52,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3660867,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 52,
+        "ms": 3660867,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "71a57d2a-d183-4f60-a708-5bbed06d0227",
     "persona": "nighteye",
     "names": [
@@ -2232,6 +2258,32 @@
         "rank": 415,
         "ms": 4721394,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "71ce3daa-8c8b-4bf4-bdfb-952ae4ee6ba4",
+    "persona": "3671024868",
+    "names": [
+      "3671024868"
+    ],
+    "runs": 1,
+    "bestRank": 80,
+    "worstRank": 80,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6416093,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 80,
+        "ms": 6416093,
+        "dish": "Fish"
       }
     ]
   },

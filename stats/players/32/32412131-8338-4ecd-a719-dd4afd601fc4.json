@@ -4,8 +4,8 @@
   "names": [
     "Cocobear"
   ],
-  "runs": 4,
-  "bestRank": 86,
+  "runs": 5,
+  "bestRank": 22,
   "worstRank": 315,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 86,
       "ms": 3057099,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 22,
+      "ms": 2669820,
+      "dish": "Fish"
     }
   ]
 }

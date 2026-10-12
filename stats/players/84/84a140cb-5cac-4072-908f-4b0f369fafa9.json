@@ -4,12 +4,12 @@
   "names": [
     "shin.eisenhart"
   ],
-  "runs": 106,
+  "runs": 107,
   "bestRank": 1,
   "worstRank": 213,
   "firstPlaces": 21,
-  "top3": 48,
-  "top10": 85,
+  "top3": 49,
+  "top10": 86,
   "bestMs": 902784,
   "weeksActive": [
     -76,
@@ -117,7 +117,8 @@
     81,
     82,
     84,
-    85
+    85,
+    92
   ],
   "history": [
     {
@@ -860,6 +861,13 @@
       "start": "2026-08-24",
       "rank": 9,
       "ms": 1399706,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 3,
+      "ms": 1510691,
       "dish": "Fish"
     }
   ]

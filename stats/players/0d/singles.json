@@ -1352,6 +1352,32 @@
     ]
   },
   {
+    "id": "0d597e69-7990-406d-8d72-a65532498e83",
+    "persona": "yosemite",
+    "names": [
+      "yosemite"
+    ],
+    "runs": 1,
+    "bestRank": 63,
+    "worstRank": 63,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4077655,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 63,
+        "ms": 4077655,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0d59d91e-2622-495b-ba75-0781dd3bdfe9",
     "persona": "Lily",
     "names": [
@@ -2128,32 +2154,6 @@
         "rank": 468,
         "ms": 2076311,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "0da69cca-e4c8-4712-a319-ba61399de221",
-    "persona": "OakHardwood",
-    "names": [
-      "OakHardwood"
-    ],
-    "runs": 1,
-    "bestRank": 138,
-    "worstRank": 138,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3550379,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 138,
-        "ms": 3550379,
-        "dish": "Hot Dogs"
       }
     ]
   },

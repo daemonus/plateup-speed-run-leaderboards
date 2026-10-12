@@ -4,16 +4,17 @@
   "names": [
     "asukadon"
   ],
-  "runs": 2,
-  "bestRank": 131,
+  "runs": 3,
+  "bestRank": 28,
   "worstRank": 197,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2955174,
+  "bestMs": 2868575,
   "weeksActive": [
     74,
-    75
+    75,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 131,
       "ms": 2955174,
       "dish": "Pies"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 28,
+      "ms": 2868575,
+      "dish": "Fish"
     }
   ]
 }
