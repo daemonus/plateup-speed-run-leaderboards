@@ -734,8 +734,8 @@
       "koog"
     ],
     "runs": 1,
-    "bestRank": 60,
-    "worstRank": 60,
+    "bestRank": 119,
+    "worstRank": 119,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -747,7 +747,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 60,
+        "rank": 119,
         "ms": 3825340,
         "dish": "Fish"
       }
@@ -3297,6 +3297,32 @@
         "start": "2024-04-22",
         "rank": 909,
         "ms": 4826196,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "69f4b15c-7bf4-4f1d-a91b-5484ba3c8867",
+    "persona": "RukaBlood",
+    "names": [
+      "RukaBlood"
+    ],
+    "runs": 1,
+    "bestRank": 186,
+    "worstRank": 186,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4839586,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 186,
+        "ms": 4839586,
         "dish": "Fish"
       }
     ]

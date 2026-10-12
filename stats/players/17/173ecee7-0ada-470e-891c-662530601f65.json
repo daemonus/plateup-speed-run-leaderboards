@@ -4,8 +4,8 @@
   "names": [
     "a2beans"
   ],
-  "runs": 7,
-  "bestRank": 279,
+  "runs": 8,
+  "bestRank": 150,
   "worstRank": 639,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     64,
     66,
     68,
-    71
+    71,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 339,
       "ms": 4055621,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 150,
+      "ms": 4332137,
+      "dish": "Fish"
     }
   ]
 }

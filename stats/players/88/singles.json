@@ -422,8 +422,8 @@
       "\u4FEEHsiu"
     ],
     "runs": 1,
-    "bestRank": 86,
-    "worstRank": 86,
+    "bestRank": 208,
+    "worstRank": 208,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 86,
+        "rank": 208,
         "ms": 5445621,
         "dish": "Fish"
       }
@@ -1088,6 +1088,32 @@
         "rank": 356,
         "ms": 4229854,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "8847b335-2029-4a55-80ec-7bbd299175cc",
+    "persona": "Massica",
+    "names": [
+      "Massica"
+    ],
+    "runs": 1,
+    "bestRank": 156,
+    "worstRank": 156,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4442140,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 156,
+        "ms": 4442140,
+        "dish": "Fish"
       }
     ]
   },

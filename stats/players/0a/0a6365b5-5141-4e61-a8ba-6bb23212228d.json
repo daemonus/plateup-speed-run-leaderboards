@@ -4,8 +4,8 @@
   "names": [
     "yapei84127"
   ],
-  "runs": 33,
-  "bestRank": 72,
+  "runs": 34,
+  "bestRank": 30,
   "worstRank": 599,
   "firstPlaces": 0,
   "top3": 0,
@@ -44,7 +44,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 93,
       "ms": 3097563,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 30,
+      "ms": 2427301,
+      "dish": "Fish"
     }
   ]
 }

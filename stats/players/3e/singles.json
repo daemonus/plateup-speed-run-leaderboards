@@ -6,8 +6,8 @@
       "HIKARUchan"
     ],
     "runs": 1,
-    "bestRank": 89,
-    "worstRank": 89,
+    "bestRank": 231,
+    "worstRank": 231,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 89,
+        "rank": 231,
         "ms": 6519916,
         "dish": "Fish"
       }
@@ -256,6 +256,32 @@
         "rank": 272,
         "ms": 2588466,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "3e1436c3-8f4d-4051-bfbb-a28dc5401656",
+    "persona": "Starrr",
+    "names": [
+      "Starrr"
+    ],
+    "runs": 1,
+    "bestRank": 110,
+    "worstRank": 110,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3744946,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 110,
+        "ms": 3744946,
+        "dish": "Fish"
       }
     ]
   },

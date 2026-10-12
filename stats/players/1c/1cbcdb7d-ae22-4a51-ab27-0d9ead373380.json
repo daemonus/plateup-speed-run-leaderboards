@@ -4,18 +4,19 @@
   "names": [
     "Henney"
   ],
-  "runs": 4,
-  "bestRank": 128,
+  "runs": 5,
+  "bestRank": 52,
   "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3277130,
+  "bestMs": 2836276,
   "weeksActive": [
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 128,
       "ms": 3440578,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 52,
+      "ms": 2836276,
+      "dish": "Fish"
     }
   ]
 }

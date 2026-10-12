@@ -4,7 +4,7 @@
   "names": [
     "DJCarysmatic"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 9,
   "worstRank": 144,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     69,
     70,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 12,
       "ms": 1987184,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 29,
+      "ms": 2417017,
+      "dish": "Fish"
     }
   ]
 }

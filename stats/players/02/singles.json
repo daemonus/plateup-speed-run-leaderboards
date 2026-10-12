@@ -104,6 +104,32 @@
     ]
   },
   {
+    "id": "020606a1-ad45-436f-8ce0-1dd5b25a7696",
+    "persona": "Oi!",
+    "names": [
+      "Oi!"
+    ],
+    "runs": 1,
+    "bestRank": 123,
+    "worstRank": 123,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3901165,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 123,
+        "ms": 3901165,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "02097fc2-83f2-4bee-9e84-c7d3189601b4",
     "persona": "kipislekker20",
     "names": [
@@ -942,8 +968,8 @@
       "Sinthrill"
     ],
     "runs": 1,
-    "bestRank": 69,
-    "worstRank": 69,
+    "bestRank": 138,
+    "worstRank": 138,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -955,7 +981,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 69,
+        "rank": 138,
         "ms": 4166834,
         "dish": "Fish"
       }

@@ -1150,8 +1150,8 @@
       "\u8D85\u7EDD\u8089\u611F\u5C0F\u6BCD\u725B"
     ],
     "runs": 1,
-    "bestRank": 78,
-    "worstRank": 78,
+    "bestRank": 170,
+    "worstRank": 170,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 78,
+        "rank": 170,
         "ms": 4623875,
         "dish": "Fish"
       }
@@ -2388,6 +2388,32 @@
         "rank": 369,
         "ms": 5718599,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "2dcc84cc-4d2f-4179-a552-81e4119210e7",
+    "persona": "Zyleve",
+    "names": [
+      "Zyleve"
+    ],
+    "runs": 1,
+    "bestRank": 225,
+    "worstRank": 225,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6060079,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 225,
+        "ms": 6060079,
+        "dish": "Fish"
       }
     ]
   },

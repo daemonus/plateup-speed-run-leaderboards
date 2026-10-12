@@ -1326,6 +1326,32 @@
     ]
   },
   {
+    "id": "6060a105-1e51-4f50-8619-938b40927ef3",
+    "persona": "\u68A6z\u5565\u90FD\u6709",
+    "names": [
+      "\u68A6z\u5565\u90FD\u6709"
+    ],
+    "runs": 1,
+    "bestRank": 107,
+    "worstRank": 107,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3696016,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 107,
+        "ms": 3696016,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6060f676-a02e-4849-80ed-dcebef72c625",
     "persona": "KCeol",
     "names": [
@@ -3272,6 +3298,32 @@
         "rank": 260,
         "ms": 3675403,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "60d377cd-b857-453a-be5c-3ce44c8b0712",
+    "persona": "Tams",
+    "names": [
+      "Tams"
+    ],
+    "runs": 1,
+    "bestRank": 136,
+    "worstRank": 136,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4134057,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 136,
+        "ms": 4134057,
+        "dish": "Fish"
       }
     ]
   },

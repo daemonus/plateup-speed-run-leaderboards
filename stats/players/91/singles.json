@@ -468,6 +468,32 @@
     ]
   },
   {
+    "id": "912a4553-a014-45a6-a701-e944d33139ee",
+    "persona": "agentmarek",
+    "names": [
+      "agentmarek"
+    ],
+    "runs": 1,
+    "bestRank": 88,
+    "worstRank": 88,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3358106,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 88,
+        "ms": 3358106,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "912ce33f-0af8-44fb-9e8c-c6bd6a8782af",
     "persona": "\u5317\u4EAC\u771F\u51B7",
     "names": [
@@ -1192,6 +1218,32 @@
         "rank": 672,
         "ms": 4504756,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "916230c0-7dfb-4aa7-87ba-fbfc93e2963c",
+    "persona": "1416037883",
+    "names": [
+      "1416037883"
+    ],
+    "runs": 1,
+    "bestRank": 162,
+    "worstRank": 162,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4536415,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 162,
+        "ms": 4536415,
+        "dish": "Fish"
       }
     ]
   },

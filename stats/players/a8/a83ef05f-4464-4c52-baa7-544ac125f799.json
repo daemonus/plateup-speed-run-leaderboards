@@ -4,7 +4,7 @@
   "names": [
     "francoisedelorme"
   ],
-  "runs": 49,
+  "runs": 50,
   "bestRank": 75,
   "worstRank": 513,
   "firstPlaces": 0,
@@ -60,7 +60,8 @@
     84,
     86,
     88,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -405,6 +406,13 @@
       "rank": 134,
       "ms": 2984892,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 79,
+      "ms": 3211597,
+      "dish": "Fish"
     }
   ]
 }

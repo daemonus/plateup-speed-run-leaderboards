@@ -4,8 +4,8 @@
   "names": [
     "zephyrchen"
   ],
-  "runs": 8,
-  "bestRank": 117,
+  "runs": 9,
+  "bestRank": 51,
   "worstRank": 436,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 141,
       "ms": 3584136,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 51,
+      "ms": 2834621,
+      "dish": "Fish"
     }
   ]
 }

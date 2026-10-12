@@ -4,7 +4,7 @@
   "names": [
     "LG"
   ],
-  "runs": 79,
+  "runs": 80,
   "bestRank": 23,
   "worstRank": 834,
   "firstPlaces": 0,
@@ -90,7 +90,8 @@
     84,
     85,
     86,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -645,6 +646,13 @@
       "rank": 105,
       "ms": 3166901,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 65,
+      "ms": 3055573,
+      "dish": "Fish"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Lou"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 28,
   "worstRank": 154,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     11,
     12,
     38,
-    40
+    40,
+    92
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 92,
       "ms": 2826489,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 39,
+      "ms": 2569600,
+      "dish": "Fish"
     }
   ]
 }

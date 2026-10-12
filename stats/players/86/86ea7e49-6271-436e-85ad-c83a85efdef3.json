@@ -4,7 +4,7 @@
   "names": [
     "Raagentreg"
   ],
-  "runs": 59,
+  "runs": 60,
   "bestRank": 39,
   "worstRank": 508,
   "firstPlaces": 0,
@@ -70,7 +70,8 @@
     87,
     88,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -485,6 +486,13 @@
       "rank": 114,
       "ms": 3320339,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 91,
+      "ms": 3415643,
+      "dish": "Fish"
     }
   ]
 }

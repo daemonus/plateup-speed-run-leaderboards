@@ -4,7 +4,7 @@
   "names": [
     "3mmber"
   ],
-  "runs": 34,
+  "runs": 35,
   "bestRank": 7,
   "worstRank": 295,
   "firstPlaces": 0,
@@ -45,7 +45,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -285,6 +286,13 @@
       "rank": 7,
       "ms": 1907485,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 11,
+      "ms": 1707686,
+      "dish": "Fish"
     }
   ]
 }

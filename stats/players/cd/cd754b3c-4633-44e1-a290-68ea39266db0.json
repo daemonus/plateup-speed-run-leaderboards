@@ -4,8 +4,8 @@
   "names": [
     "\u30A6\u30A7\u30A4"
   ],
-  "runs": 2,
-  "bestRank": 341,
+  "runs": 3,
+  "bestRank": 94,
   "worstRank": 381,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3019034,
   "weeksActive": [
     12,
-    38
+    38,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 381,
       "ms": 3851628,
       "dish": "Pies"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 94,
+      "ms": 3451855,
+      "dish": "Fish"
     }
   ]
 }

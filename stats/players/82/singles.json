@@ -1898,32 +1898,6 @@
     ]
   },
   {
-    "id": "82bcbc21-59d1-4090-a770-fb18a9a9cfea",
-    "persona": "ZNAXX",
-    "names": [
-      "ZNAXX"
-    ],
-    "runs": 1,
-    "bestRank": 317,
-    "worstRank": 317,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5029981,
-    "weeksActive": [
-      90
-    ],
-    "history": [
-      {
-        "week": 90,
-        "start": "2026-09-28",
-        "rank": 317,
-        "ms": 5029981,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "82beb94c-2622-484b-8971-d40662782d90",
     "persona": "\u83E0\u841D\u5821",
     "names": [
@@ -2414,6 +2388,32 @@
         "rank": 756,
         "ms": 5629701,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "82f1985a-580e-474d-9ba9-70e4c67b8189",
+    "persona": "chulaide",
+    "names": [
+      "chulaide"
+    ],
+    "runs": 1,
+    "bestRank": 137,
+    "worstRank": 137,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4146576,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 137,
+        "ms": 4146576,
+        "dish": "Fish"
       }
     ]
   },

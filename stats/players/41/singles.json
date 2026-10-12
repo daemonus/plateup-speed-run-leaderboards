@@ -1222,6 +1222,32 @@
     ]
   },
   {
+    "id": "417109e4-b7c0-472e-94e6-f03c9f771c8d",
+    "persona": "\uC6A9\uC0AC",
+    "names": [
+      "\uC6A9\uC0AC"
+    ],
+    "runs": 1,
+    "bestRank": 117,
+    "worstRank": 117,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3809947,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 117,
+        "ms": 3809947,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "417406ff-8d97-4495-8f2e-2e8e3f3999d6",
     "persona": "Juan Bernat",
     "names": [
@@ -1384,8 +1410,8 @@
       "Quaily"
     ],
     "runs": 1,
-    "bestRank": 68,
-    "worstRank": 68,
+    "bestRank": 135,
+    "worstRank": 135,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 68,
+        "rank": 135,
         "ms": 4120492,
         "dish": "Fish"
       }

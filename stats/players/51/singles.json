@@ -728,6 +728,32 @@
     ]
   },
   {
+    "id": "513be568-671a-4fb1-b03a-fec7b53d7ca2",
+    "persona": "casey",
+    "names": [
+      "casey"
+    ],
+    "runs": 1,
+    "bestRank": 181,
+    "worstRank": 181,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4765656,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 181,
+        "ms": 4765656,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "513e36b3-e3ac-443d-8251-6b0277d1e6c1",
     "persona": "\u4E8B\u4E0E\u613F\u8FDD",
     "names": [
@@ -1530,6 +1556,32 @@
         "rank": 688,
         "ms": 4186612,
         "dish": "Steak"
+      }
+    ]
+  },
+  {
+    "id": "5189cf8e-05dd-42e9-adaf-de402a80c250",
+    "persona": "Whiskey Husten",
+    "names": [
+      "Whiskey Husten"
+    ],
+    "runs": 1,
+    "bestRank": 236,
+    "worstRank": 236,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 14403630,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 236,
+        "ms": 14403630,
+        "dish": "Fish"
       }
     ]
   },

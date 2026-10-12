@@ -4,7 +4,7 @@
   "names": [
     "x_Sc00byD00_x"
   ],
-  "runs": 19,
+  "runs": 20,
   "bestRank": 4,
   "worstRank": 100,
   "firstPlaces": 0,
@@ -30,7 +30,8 @@
     41,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 39,
       "ms": 2586707,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 19,
+      "ms": 2125863,
+      "dish": "Fish"
     }
   ]
 }

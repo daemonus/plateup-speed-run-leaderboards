@@ -1,0 +1,34 @@
+{
+  "id": "449bff2f-edc2-4de6-934d-619bfe1d8840",
+  "persona": "DFAT",
+  "names": [
+    "DFAT"
+  ],
+  "runs": 2,
+  "bestRank": 67,
+  "worstRank": 125,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2204404,
+  "weeksActive": [
+    77,
+    92
+  ],
+  "history": [
+    {
+      "week": 77,
+      "start": "2026-06-29",
+      "rank": 125,
+      "ms": 2204404,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 67,
+      "ms": 3081525,
+      "dish": "Fish"
+    }
+  ]
+}

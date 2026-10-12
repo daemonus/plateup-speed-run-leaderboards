@@ -4,7 +4,7 @@
   "names": [
     "sagu"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 75,
   "worstRank": 538,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     87,
     88,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 192,
       "ms": 4339180,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 89,
+      "ms": 3380823,
+      "dish": "Fish"
     }
   ]
 }

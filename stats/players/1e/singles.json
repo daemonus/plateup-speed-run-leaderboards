@@ -1768,32 +1768,6 @@
     ]
   },
   {
-    "id": "1e9b6123-073c-4b84-bff7-378fff3af189",
-    "persona": "Rofi",
-    "names": [
-      "Rofi"
-    ],
-    "runs": 1,
-    "bestRank": 641,
-    "worstRank": 641,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6704434,
-    "weeksActive": [
-      62
-    ],
-    "history": [
-      {
-        "week": 62,
-        "start": "2026-03-16",
-        "rank": 641,
-        "ms": 6704434,
-        "dish": "Pies"
-      }
-    ]
-  },
-  {
     "id": "1e9d718e-1ab0-4b75-af58-c2cf8f9a43cc",
     "persona": "hey1one85",
     "names": [
@@ -2596,6 +2570,32 @@
         "rank": 186,
         "ms": 3452822,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "1ee0c471-958b-48e5-825c-17b188d4003c",
+    "persona": "Jessie",
+    "names": [
+      "Jessie"
+    ],
+    "runs": 1,
+    "bestRank": 173,
+    "worstRank": 173,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4644561,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 173,
+        "ms": 4644561,
+        "dish": "Fish"
       }
     ]
   },

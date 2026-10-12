@@ -4,8 +4,8 @@
   "names": [
     "nicodelion"
   ],
-  "runs": 24,
-  "bestRank": 70,
+  "runs": 25,
+  "bestRank": 42,
   "worstRank": 425,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     74,
     88,
     89,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 123,
       "ms": 2368496,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 42,
+      "ms": 2626016,
+      "dish": "Fish"
     }
   ]
 }

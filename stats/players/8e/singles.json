@@ -708,8 +708,8 @@
       "The Ghost"
     ],
     "runs": 1,
-    "bestRank": 62,
-    "worstRank": 62,
+    "bestRank": 122,
+    "worstRank": 122,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 62,
+        "rank": 122,
         "ms": 3884245,
         "dish": "Fish"
       }
@@ -3142,6 +3142,32 @@
         "rank": 483,
         "ms": 4203582,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "8ee83894-ed6a-47a6-b38c-35744a47c8cc",
+    "persona": "a29042384",
+    "names": [
+      "a29042384"
+    ],
+    "runs": 1,
+    "bestRank": 99,
+    "worstRank": 99,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3615148,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 99,
+        "ms": 3615148,
+        "dish": "Fish"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "Skittles"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 68,
   "worstRank": 359,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     83,
     85,
     86,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 142,
       "ms": 3029929,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 72,
+      "ms": 3124038,
+      "dish": "Fish"
     }
   ]
 }

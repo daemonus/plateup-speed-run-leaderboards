@@ -2236,6 +2236,32 @@
     ]
   },
   {
+    "id": "96c0c599-48ec-4239-baee-d6de588d302c",
+    "persona": "fsk",
+    "names": [
+      "fsk"
+    ],
+    "runs": 1,
+    "bestRank": 175,
+    "worstRank": 175,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4647373,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 175,
+        "ms": 4647373,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "96c159a6-f83c-42eb-9148-75ad353ff5e2",
     "persona": "Melandries",
     "names": [
@@ -2710,8 +2736,8 @@
       "OsXen"
     ],
     "runs": 1,
-    "bestRank": 71,
-    "worstRank": 71,
+    "bestRank": 141,
+    "worstRank": 141,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2749,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 71,
+        "rank": 141,
         "ms": 4193131,
         "dish": "Fish"
       }

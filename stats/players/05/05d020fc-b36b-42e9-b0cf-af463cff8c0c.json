@@ -4,12 +4,12 @@
   "names": [
     "EvanDude0511"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 4,
   "worstRank": 969,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 2,
+  "top10": 3,
   "bestMs": 977012,
   "weeksActive": [
     -94,
@@ -21,7 +21,8 @@
     41,
     51,
     56,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 17,
       "ms": 2113784,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 6,
+      "ms": 1392356,
+      "dish": "Fish"
     }
   ]
 }

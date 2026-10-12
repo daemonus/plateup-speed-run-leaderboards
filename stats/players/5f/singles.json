@@ -1280,8 +1280,8 @@
       "Nitramus"
     ],
     "runs": 1,
-    "bestRank": 87,
-    "worstRank": 87,
+    "bestRank": 226,
+    "worstRank": 226,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 87,
+        "rank": 226,
         "ms": 6116489,
         "dish": "Fish"
       }
@@ -2544,6 +2544,32 @@
         "rank": 261,
         "ms": 2402683,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "5fc13108-1be5-4138-8b3a-4a15586a6274",
+    "persona": "sero",
+    "names": [
+      "sero"
+    ],
+    "runs": 1,
+    "bestRank": 185,
+    "worstRank": 185,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4826765,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 185,
+        "ms": 4826765,
+        "dish": "Fish"
       }
     ]
   },

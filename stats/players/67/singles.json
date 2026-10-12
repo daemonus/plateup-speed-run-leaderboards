@@ -2598,5 +2598,31 @@
         "dish": "Stir Fry"
       }
     ]
+  },
+  {
+    "id": "67f83690-9b8a-4f88-82ca-42855cdfada9",
+    "persona": "\u4E42\u6C3C",
+    "names": [
+      "\u4E42\u6C3C"
+    ],
+    "runs": 1,
+    "bestRank": 223,
+    "worstRank": 223,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5875161,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 223,
+        "ms": 5875161,
+        "dish": "Fish"
+      }
+    ]
   }
 ]

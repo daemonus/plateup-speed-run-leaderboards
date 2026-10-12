@@ -1534,6 +1534,32 @@
     ]
   },
   {
+    "id": "9f90a61f-c0db-4aa7-8671-fa648c6e3cc8",
+    "persona": "Kurtcu",
+    "names": [
+      "Kurtcu"
+    ],
+    "runs": 1,
+    "bestRank": 124,
+    "worstRank": 124,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3908230,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 124,
+        "ms": 3908230,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "9f9257e5-c6a5-4e46-91b1-8ccf18891b5c",
     "persona": "tinyxin",
     "names": [
@@ -2829,6 +2855,32 @@
         "start": "2025-09-15",
         "rank": 269,
         "ms": 3041115,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "9fedea10-4531-4276-b04b-08dcec676f50",
+    "persona": "Figs",
+    "names": [
+      "Figs"
+    ],
+    "runs": 1,
+    "bestRank": 128,
+    "worstRank": 128,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3995950,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 128,
+        "ms": 3995950,
         "dish": "Fish"
       }
     ]

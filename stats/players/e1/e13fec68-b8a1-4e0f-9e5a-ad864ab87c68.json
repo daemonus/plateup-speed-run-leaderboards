@@ -4,8 +4,8 @@
   "names": [
     "andereik11"
   ],
-  "runs": 3,
-  "bestRank": 155,
+  "runs": 4,
+  "bestRank": 101,
   "worstRank": 233,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     81,
     89,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 155,
       "ms": 3707237,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 101,
+      "ms": 3618895,
+      "dish": "Fish"
     }
   ]
 }

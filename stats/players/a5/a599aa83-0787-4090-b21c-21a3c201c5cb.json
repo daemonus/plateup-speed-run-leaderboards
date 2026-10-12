@@ -4,12 +4,12 @@
   "names": [
     "jinx"
   ],
-  "runs": 109,
+  "runs": 110,
   "bestRank": 1,
   "worstRank": 1190,
   "firstPlaces": 1,
   "top3": 11,
-  "top10": 38,
+  "top10": 39,
   "bestMs": 687293,
   "weeksActive": [
     -92,
@@ -120,7 +120,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -885,6 +886,13 @@
       "rank": 20,
       "ms": 2153839,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 9,
+      "ms": 1515458,
+      "dish": "Fish"
     }
   ]
 }

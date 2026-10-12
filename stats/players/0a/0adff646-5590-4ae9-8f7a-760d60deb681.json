@@ -4,7 +4,7 @@
   "names": [
     "ChrisMYee"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 24,
   "worstRank": 553,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     4,
     5,
     7,
-    9
+    9,
+    92
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 43,
       "ms": 2267276,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 25,
+      "ms": 2346363,
+      "dish": "Fish"
     }
   ]
 }

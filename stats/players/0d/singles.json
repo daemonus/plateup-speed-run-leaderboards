@@ -1358,8 +1358,8 @@
       "yosemite"
     ],
     "runs": 1,
-    "bestRank": 66,
-    "worstRank": 66,
+    "bestRank": 132,
+    "worstRank": 132,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 66,
+        "rank": 132,
         "ms": 4077655,
         "dish": "Fish"
       }
@@ -1425,6 +1425,32 @@
         "start": "2023-04-10",
         "rank": 433,
         "ms": 2234596,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "0d5e4d99-4d5d-45eb-8d41-911863d9760d",
+    "persona": "\u6551\u6551\u5C0F\u732B\u6BBF\u4E0B",
+    "names": [
+      "\u6551\u6551\u5C0F\u732B\u6BBF\u4E0B"
+    ],
+    "runs": 1,
+    "bestRank": 202,
+    "worstRank": 202,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5123811,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 202,
+        "ms": 5123811,
         "dish": "Fish"
       }
     ]
@@ -1634,6 +1660,32 @@
         "rank": 359,
         "ms": 9327446,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "0d765aed-00e7-45cd-8278-c612febe01f7",
+    "persona": "\u732B\u4ECE\u5929\u4E0A\u6765",
+    "names": [
+      "\u732B\u4ECE\u5929\u4E0A\u6765"
+    ],
+    "runs": 1,
+    "bestRank": 139,
+    "worstRank": 139,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4183646,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 139,
+        "ms": 4183646,
+        "dish": "Fish"
       }
     ]
   },

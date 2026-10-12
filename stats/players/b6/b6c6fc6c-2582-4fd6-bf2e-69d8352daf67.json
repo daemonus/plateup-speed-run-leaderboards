@@ -1,10 +1,11 @@
 {
   "id": "b6c6fc6c-2582-4fd6-bf2e-69d8352daf67",
-  "persona": "\u4F0A\u9054",
+  "persona": "\u30CD\u30AA\u30F3\u30FB\u30B7\u30A8\u30B9\u30BF",
   "names": [
+    "\u30CD\u30AA\u30F3\u30FB\u30B7\u30A8\u30B9\u30BF",
     "\u4F0A\u9054"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 22,
   "worstRank": 209,
   "firstPlaces": 0,
@@ -23,7 +24,8 @@
     41,
     73,
     77,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -109,6 +111,13 @@
       "rank": 22,
       "ms": 1977427,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 22,
+      "ms": 2248894,
+      "dish": "Fish"
     }
   ]
 }

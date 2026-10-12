@@ -1696,12 +1696,12 @@
       "sarcop"
     ],
     "runs": 1,
-    "bestRank": 53,
-    "worstRank": 53,
+    "bestRank": 40,
+    "worstRank": 40,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 3660867,
+    "bestMs": 2573758,
     "weeksActive": [
       92
     ],
@@ -1709,8 +1709,8 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 53,
-        "ms": 3660867,
+        "rank": 40,
+        "ms": 2573758,
         "dish": "Fish"
       }
     ]
@@ -2268,8 +2268,8 @@
       "3671024868"
     ],
     "runs": 1,
-    "bestRank": 88,
-    "worstRank": 88,
+    "bestRank": 228,
+    "worstRank": 228,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 88,
+        "rank": 228,
         "ms": 6416093,
         "dish": "Fish"
       }
