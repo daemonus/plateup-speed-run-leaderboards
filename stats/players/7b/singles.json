@@ -786,8 +786,8 @@
       "Valenz"
     ],
     "runs": 1,
-    "bestRank": 190,
-    "worstRank": 190,
+    "bestRank": 244,
+    "worstRank": 244,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -799,7 +799,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 190,
+        "rank": 244,
         "ms": 4934895,
         "dish": "Fish"
       }
@@ -1842,6 +1842,32 @@
         "rank": 214,
         "ms": 3609110,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "7b824906-eebd-4b33-9c16-228c461c871d",
+    "persona": "Goliver",
+    "names": [
+      "Goliver"
+    ],
+    "runs": 1,
+    "bestRank": 159,
+    "worstRank": 159,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3910000,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 159,
+        "ms": 3910000,
+        "dish": "Fish"
       }
     ]
   },

@@ -1430,6 +1430,32 @@
     ]
   },
   {
+    "id": "576438e3-00e7-4544-8ff7-c1e31330ba6b",
+    "persona": "vacban",
+    "names": [
+      "vacban"
+    ],
+    "runs": 1,
+    "bestRank": 292,
+    "worstRank": 292,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6186022,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 292,
+        "ms": 6186022,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "576475a9-86f3-4bee-93b6-8ef7d82a20b6",
     "persona": "Violet",
     "names": [
@@ -3334,8 +3360,8 @@
       "\u96E8\u5929"
     ],
     "runs": 1,
-    "bestRank": 230,
-    "worstRank": 230,
+    "bestRank": 296,
+    "worstRank": 296,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3347,7 +3373,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 230,
+        "rank": 296,
         "ms": 6435590,
         "dish": "Fish"
       }

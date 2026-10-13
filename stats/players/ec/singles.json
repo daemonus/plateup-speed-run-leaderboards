@@ -1456,6 +1456,32 @@
     ]
   },
   {
+    "id": "ec7a008c-132f-41b7-9a25-f7b1b2597b98",
+    "persona": "\u5C0F\u6B66",
+    "names": [
+      "\u5C0F\u6B66"
+    ],
+    "runs": 1,
+    "bestRank": 302,
+    "worstRank": 302,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6837890,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 302,
+        "ms": 6837890,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ec7a97b3-d77c-4908-98e4-7d3a0445fcbc",
     "persona": "Happy33",
     "names": [
@@ -2242,8 +2268,8 @@
       "subaru impreza wrx sti 2004"
     ],
     "runs": 1,
-    "bestRank": 95,
-    "worstRank": 95,
+    "bestRank": 117,
+    "worstRank": 117,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 95,
+        "rank": 117,
         "ms": 3463292,
         "dish": "Fish"
       }

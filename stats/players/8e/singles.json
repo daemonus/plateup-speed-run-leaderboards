@@ -708,8 +708,8 @@
       "The Ghost"
     ],
     "runs": 1,
-    "bestRank": 122,
-    "worstRank": 122,
+    "bestRank": 155,
+    "worstRank": 155,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 122,
+        "rank": 155,
         "ms": 3884245,
         "dish": "Fish"
       }
@@ -1374,6 +1374,32 @@
         "rank": 391,
         "ms": 4847384,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "8e6ba7ae-981d-4b0e-af9f-249d3dd387e5",
+    "persona": "Xokage2015",
+    "names": [
+      "Xokage2015"
+    ],
+    "runs": 1,
+    "bestRank": 178,
+    "worstRank": 178,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4186986,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 178,
+        "ms": 4186986,
+        "dish": "Fish"
       }
     ]
   },
@@ -3152,8 +3178,8 @@
       "a29042384"
     ],
     "runs": 1,
-    "bestRank": 99,
-    "worstRank": 99,
+    "bestRank": 127,
+    "worstRank": 127,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3165,7 +3191,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 99,
+        "rank": 127,
         "ms": 3615148,
         "dish": "Fish"
       }

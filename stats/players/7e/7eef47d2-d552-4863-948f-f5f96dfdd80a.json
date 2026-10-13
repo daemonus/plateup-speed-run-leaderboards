@@ -4,7 +4,7 @@
   "names": [
     "baja.kite.boy"
   ],
-  "runs": 35,
+  "runs": 36,
   "bestRank": 12,
   "worstRank": 180,
   "firstPlaces": 0,
@@ -46,7 +46,8 @@
     85,
     87,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 53,
       "ms": 2775749,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 27,
+      "ms": 2195609,
+      "dish": "Fish"
     }
   ]
 }

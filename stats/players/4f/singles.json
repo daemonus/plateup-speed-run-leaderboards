@@ -136,8 +136,8 @@
       "Anonimys191"
     ],
     "runs": 1,
-    "bestRank": 152,
-    "worstRank": 152,
+    "bestRank": 193,
+    "worstRank": 193,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 152,
+        "rank": 193,
         "ms": 4351804,
         "dish": "Fish"
       }
@@ -3505,6 +3505,32 @@
         "start": "2023-07-31",
         "rank": 433,
         "ms": 2872274,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "4ff678fc-2ede-4954-8892-863aed1b1bdc",
+    "persona": "\u54C8\u54C8",
+    "names": [
+      "\u54C8\u54C8"
+    ],
+    "runs": 1,
+    "bestRank": 278,
+    "worstRank": 278,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5786240,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 278,
+        "ms": 5786240,
         "dish": "Fish"
       }
     ]

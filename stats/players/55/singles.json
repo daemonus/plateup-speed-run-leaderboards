@@ -2346,8 +2346,8 @@
       "ashaweeshu"
     ],
     "runs": 1,
-    "bestRank": 87,
-    "worstRank": 87,
+    "bestRank": 107,
+    "worstRank": 107,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2359,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 87,
+        "rank": 107,
         "ms": 3333599,
         "dish": "Fish"
       }
@@ -2959,6 +2959,32 @@
         "start": "2023-07-31",
         "rank": 613,
         "ms": 3308441,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "55f323a0-8363-4c74-9666-5bd72937a3b5",
+    "persona": "royaldragon543",
+    "names": [
+      "royaldragon543"
+    ],
+    "runs": 1,
+    "bestRank": 184,
+    "worstRank": 184,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4225048,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 184,
+        "ms": 4225048,
         "dish": "Fish"
       }
     ]

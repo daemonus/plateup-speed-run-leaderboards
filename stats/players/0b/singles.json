@@ -234,6 +234,32 @@
     ]
   },
   {
+    "id": "0b1077db-5faa-4492-aaa4-394358ddde51",
+    "persona": "sonicbigboom",
+    "names": [
+      "sonicbigboom"
+    ],
+    "runs": 1,
+    "bestRank": 74,
+    "worstRank": 74,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2935467,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 74,
+        "ms": 2935467,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0b111b66-3114-41bc-8b42-6adee3f28d88",
     "persona": "mlkyhk",
     "names": [
@@ -2398,8 +2424,8 @@
       "\u5076\u9047\u6027\u611F\u6BCD\u868A\u5B50\u534A\u591C\u5BF9\u6211\u53C8\u4EB2\u53C8\u5543"
     ],
     "runs": 1,
-    "bestRank": 127,
-    "worstRank": 127,
+    "bestRank": 162,
+    "worstRank": 162,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 127,
+        "rank": 162,
         "ms": 3986470,
         "dish": "Fish"
       }

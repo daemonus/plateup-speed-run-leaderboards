@@ -4,7 +4,7 @@
   "names": [
     "hovanes2"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 4,
   "worstRank": 207,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 32,
       "ms": 2487320,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 17,
+      "ms": 2028732,
+      "dish": "Fish"
     }
   ]
 }

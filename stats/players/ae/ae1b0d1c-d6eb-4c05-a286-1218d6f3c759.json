@@ -4,7 +4,7 @@
   "names": [
     "\u7B39\u9326\u89AA\u65B9"
   ],
-  "runs": 94,
+  "runs": 95,
   "bestRank": 46,
   "worstRank": 382,
   "firstPlaces": 0,
@@ -105,7 +105,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -765,6 +766,13 @@
       "rank": 164,
       "ms": 3805174,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 145,
+      "ms": 3777356,
+      "dish": "Fish"
     }
   ]
 }

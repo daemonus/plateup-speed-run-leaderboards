@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "be1a98cc-2c59-4449-b936-137d22c73393",
+    "persona": "Jacquie",
+    "names": [
+      "Jacquie"
+    ],
+    "runs": 1,
+    "bestRank": 299,
+    "worstRank": 299,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6597366,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 299,
+        "ms": 6597366,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "be1bdbed-c4dc-48eb-a7de-e7fc125b81da",
     "persona": "Min",
     "names": [
@@ -542,6 +568,32 @@
         "rank": 689,
         "ms": 5541759,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "be20eea6-2015-4d13-acfc-064bc6e37782",
+    "persona": "Minichymy",
+    "names": [
+      "Minichymy"
+    ],
+    "runs": 1,
+    "bestRank": 122,
+    "worstRank": 122,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3515351,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 122,
+        "ms": 3515351,
+        "dish": "Fish"
       }
     ]
   },

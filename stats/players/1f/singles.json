@@ -6,8 +6,8 @@
       "Nini"
     ],
     "runs": 1,
-    "bestRank": 234,
-    "worstRank": 234,
+    "bestRank": 305,
+    "worstRank": 305,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 234,
+        "rank": 305,
         "ms": 7066865,
         "dish": "Fish"
       }
@@ -2154,6 +2154,32 @@
         "rank": 931,
         "ms": 5802835,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "1fbbe1d5-ea5c-4dc0-ab35-001a7b7fe61b",
+    "persona": "\u4E8C\u6854",
+    "names": [
+      "\u4E8C\u6854"
+    ],
+    "runs": 1,
+    "bestRank": 224,
+    "worstRank": 224,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4685519,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 224,
+        "ms": 4685519,
+        "dish": "Fish"
       }
     ]
   },

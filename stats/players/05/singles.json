@@ -1202,8 +1202,8 @@
       "\u003C3"
     ],
     "runs": 1,
-    "bestRank": 235,
-    "worstRank": 235,
+    "bestRank": 307,
+    "worstRank": 307,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 235,
+        "rank": 307,
         "ms": 7557126,
         "dish": "Fish"
       }
@@ -1764,6 +1764,32 @@
         "rank": 190,
         "ms": 2496027,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "0596a67c-73eb-4695-984b-7f8d220b1b2a",
+    "persona": "Fireflake70",
+    "names": [
+      "Fireflake70"
+    ],
+    "runs": 1,
+    "bestRank": 168,
+    "worstRank": 168,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4045482,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 168,
+        "ms": 4045482,
+        "dish": "Fish"
       }
     ]
   },

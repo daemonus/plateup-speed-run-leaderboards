@@ -1150,8 +1150,8 @@
       "\u8D85\u7EDD\u8089\u611F\u5C0F\u6BCD\u725B"
     ],
     "runs": 1,
-    "bestRank": 170,
-    "worstRank": 170,
+    "bestRank": 216,
+    "worstRank": 216,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 170,
+        "rank": 216,
         "ms": 4623875,
         "dish": "Fish"
       }
@@ -1582,6 +1582,32 @@
         "rank": 120,
         "ms": 2170559,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "2d8038fc-6add-4e22-8241-eccfbc020ed6",
+    "persona": "\u83E0\u841D\u5F88\u751C\u7684\u5594",
+    "names": [
+      "\u83E0\u841D\u5F88\u751C\u7684\u5594"
+    ],
+    "runs": 1,
+    "bestRank": 192,
+    "worstRank": 192,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4336620,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 192,
+        "ms": 4336620,
+        "dish": "Fish"
       }
     ]
   },
@@ -2398,8 +2424,8 @@
       "Zyleve"
     ],
     "runs": 1,
-    "bestRank": 225,
-    "worstRank": 225,
+    "bestRank": 290,
+    "worstRank": 290,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 225,
+        "rank": 290,
         "ms": 6060079,
         "dish": "Fish"
       }

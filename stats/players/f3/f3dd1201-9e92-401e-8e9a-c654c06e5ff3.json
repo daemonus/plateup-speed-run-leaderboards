@@ -4,7 +4,7 @@
   "names": [
     "Lucina"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 223,
   "worstRank": 571,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -71,
     -60,
     -59,
-    -43
+    -43,
+    92
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 249,
       "ms": 4189369,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 236,
+      "ms": 4836223,
+      "dish": "Fish"
     }
   ]
 }

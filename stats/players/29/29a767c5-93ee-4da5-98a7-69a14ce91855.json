@@ -4,7 +4,7 @@
   "names": [
     "Hamusuke"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 106,
   "worstRank": 447,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     68,
     73,
     81,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 341,
       "ms": 2418239,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 125,
+      "ms": 3565000,
+      "dish": "Fish"
     }
   ]
 }

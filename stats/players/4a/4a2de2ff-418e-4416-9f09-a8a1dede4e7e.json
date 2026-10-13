@@ -4,7 +4,7 @@
   "names": [
     "iSharface"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 82,
   "worstRank": 390,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     81,
     84,
     88,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 379,
       "ms": 43347757,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 118,
+      "ms": 3469993,
+      "dish": "Fish"
     }
   ]
 }

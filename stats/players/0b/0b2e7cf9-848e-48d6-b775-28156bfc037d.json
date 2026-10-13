@@ -4,7 +4,7 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     86,
     88,
     89,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 54,
       "ms": 2787084,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 16,
+      "ms": 1974118,
+      "dish": "Fish"
     }
   ]
 }

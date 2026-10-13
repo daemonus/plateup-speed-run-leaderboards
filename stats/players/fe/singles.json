@@ -1170,6 +1170,32 @@
     ]
   },
   {
+    "id": "fe59ad7f-e37b-47e1-8525-d4dbe3f67109",
+    "persona": "PJ",
+    "names": [
+      "PJ"
+    ],
+    "runs": 1,
+    "bestRank": 298,
+    "worstRank": 298,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6546281,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 298,
+        "ms": 6546281,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fe5c5a95-f953-42e1-8d54-67c99103eb68",
     "persona": "FoamDuck",
     "names": [
@@ -1956,8 +1982,8 @@
       "\u6BB5\u6BB5"
     ],
     "runs": 1,
-    "bestRank": 193,
-    "worstRank": 193,
+    "bestRank": 247,
+    "worstRank": 247,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 193,
+        "rank": 247,
         "ms": 5023084,
         "dish": "Fish"
       }

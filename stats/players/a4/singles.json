@@ -520,6 +520,32 @@
     ]
   },
   {
+    "id": "a429b35a-f01c-4e84-a4f5-170f2d2ddac8",
+    "persona": "lexipie13",
+    "names": [
+      "lexipie13"
+    ],
+    "runs": 1,
+    "bestRank": 135,
+    "worstRank": 135,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3686569,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 135,
+        "ms": 3686569,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "a42ec1cb-eacd-4b73-a6e1-5cfb1bfb40bd",
     "persona": "Pain",
     "names": [
@@ -812,8 +838,8 @@
       "HTml"
     ],
     "runs": 1,
-    "bestRank": 172,
-    "worstRank": 172,
+    "bestRank": 218,
+    "worstRank": 218,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -825,7 +851,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 172,
+        "rank": 218,
         "ms": 4643507,
         "dish": "Fish"
       }

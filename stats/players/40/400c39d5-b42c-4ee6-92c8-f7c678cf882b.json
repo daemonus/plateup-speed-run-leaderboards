@@ -4,7 +4,7 @@
   "names": [
     "I.T Guy"
   ],
-  "runs": 115,
+  "runs": 116,
   "bestRank": 9,
   "worstRank": 771,
   "firstPlaces": 0,
@@ -126,7 +126,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -933,6 +934,13 @@
       "rank": 40,
       "ms": 2611569,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 12,
+      "ms": 1755070,
+      "dish": "Fish"
     }
   ]
 }

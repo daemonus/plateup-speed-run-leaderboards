@@ -1826,8 +1826,8 @@
       "Secsu"
     ],
     "runs": 1,
-    "bestRank": 177,
-    "worstRank": 177,
+    "bestRank": 223,
+    "worstRank": 223,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 177,
+        "rank": 223,
         "ms": 4679384,
         "dish": "Fish"
       }
@@ -2008,8 +2008,8 @@
       "Sonne"
     ],
     "runs": 1,
-    "bestRank": 214,
-    "worstRank": 214,
+    "bestRank": 276,
+    "worstRank": 276,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2021,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 214,
+        "rank": 276,
         "ms": 5692332,
         "dish": "Fish"
       }
@@ -2960,6 +2960,32 @@
         "rank": 204,
         "ms": 2958349,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "effab31d-a2cb-4fbd-ab8f-3b88d57d37d1",
+    "persona": "ROEN",
+    "names": [
+      "ROEN"
+    ],
+    "runs": 1,
+    "bestRank": 306,
+    "worstRank": 306,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7556163,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 306,
+        "ms": 7556163,
+        "dish": "Fish"
       }
     ]
   }

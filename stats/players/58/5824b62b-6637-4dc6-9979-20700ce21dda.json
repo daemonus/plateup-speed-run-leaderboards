@@ -4,7 +4,7 @@
   "names": [
     "cathyisvu"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 37,
   "worstRank": 259,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     85,
     86,
     87,
-    88
+    88,
+    92
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 38,
       "ms": 2087562,
       "dish": "Pies"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 45,
+      "ms": 2507060,
+      "dish": "Fish"
     }
   ]
 }

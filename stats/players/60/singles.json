@@ -1332,8 +1332,8 @@
       "\u68A6z\u5565\u90FD\u6709"
     ],
     "runs": 1,
-    "bestRank": 107,
-    "worstRank": 107,
+    "bestRank": 136,
+    "worstRank": 136,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 107,
+        "rank": 136,
         "ms": 3696016,
         "dish": "Fish"
       }
@@ -3308,8 +3308,8 @@
       "Tams"
     ],
     "runs": 1,
-    "bestRank": 136,
-    "worstRank": 136,
+    "bestRank": 174,
+    "worstRank": 174,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3321,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 136,
+        "rank": 174,
         "ms": 4134057,
         "dish": "Fish"
       }
@@ -3766,6 +3766,32 @@
         "rank": 554,
         "ms": 5609842,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "60fb4c81-c510-4958-ad80-a60c388eb218",
+    "persona": "Frasnae",
+    "names": [
+      "Frasnae"
+    ],
+    "runs": 1,
+    "bestRank": 238,
+    "worstRank": 238,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4841089,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 238,
+        "ms": 4841089,
+        "dish": "Fish"
       }
     ]
   },
