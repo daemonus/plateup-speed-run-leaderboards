@@ -1072,8 +1072,8 @@
       "matyascze15"
     ],
     "runs": 1,
-    "bestRank": 95,
-    "worstRank": 95,
+    "bestRank": 101,
+    "worstRank": 101,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1085,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 95,
+        "rank": 101,
         "ms": 3161915,
         "dish": "Fish"
       }
@@ -1192,6 +1192,32 @@
         "rank": 266,
         "ms": 3504999,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "a05c36e9-5592-40d3-9d96-3393ddd6b1fd",
+    "persona": "vicky355223",
+    "names": [
+      "vicky355223"
+    ],
+    "runs": 1,
+    "bestRank": 332,
+    "worstRank": 332,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6905235,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 332,
+        "ms": 6905235,
+        "dish": "Fish"
       }
     ]
   },
@@ -2476,8 +2502,8 @@
       "424533040"
     ],
     "runs": 1,
-    "bestRank": 284,
-    "worstRank": 284,
+    "bestRank": 312,
+    "worstRank": 312,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2515,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 284,
+        "rank": 312,
         "ms": 5870270,
         "dish": "Fish"
       }

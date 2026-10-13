@@ -1430,6 +1430,32 @@
     ]
   },
   {
+    "id": "11770390-fca7-425b-9512-efb3ab4b3221",
+    "persona": "\u54B8\u9C7C\u7FFB\u8EAB\u8FD8\u662F\u54B8\u9C7C",
+    "names": [
+      "\u54B8\u9C7C\u7FFB\u8EAB\u8FD8\u662F\u54B8\u9C7C"
+    ],
+    "runs": 1,
+    "bestRank": 280,
+    "worstRank": 280,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5107073,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 280,
+        "ms": 5107073,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "11783e73-8494-49dc-8509-21a2d1e1b25c",
     "persona": "[deleted]",
     "names": [
@@ -2658,8 +2684,8 @@
       "Kranbug"
     ],
     "runs": 1,
-    "bestRank": 77,
-    "worstRank": 77,
+    "bestRank": 82,
+    "worstRank": 82,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 77,
+        "rank": 82,
         "ms": 2979616,
         "dish": "Fish"
       }

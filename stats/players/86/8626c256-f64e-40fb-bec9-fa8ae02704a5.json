@@ -4,7 +4,7 @@
   "names": [
     "\u3048\u306C"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 26,
   "worstRank": 512,
   "firstPlaces": 0,
@@ -47,7 +47,8 @@
     84,
     85,
     86,
-    87
+    87,
+    92
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 148,
       "ms": 3884078,
       "dish": "Fajitas"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 95,
+      "ms": 3108176,
+      "dish": "Fish"
     }
   ]
 }

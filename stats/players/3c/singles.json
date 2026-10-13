@@ -2106,6 +2106,32 @@
     ]
   },
   {
+    "id": "3cb67c24-58db-46b7-bba7-fedf8475440a",
+    "persona": "\u5471\uFF01\u88AB\u60CA\u86F03A\u5927\u5750\u4FD8\u864F\u529B\uFF01",
+    "names": [
+      "\u5471\uFF01\u88AB\u60CA\u86F03A\u5927\u5750\u4FD8\u864F\u529B\uFF01"
+    ],
+    "runs": 1,
+    "bestRank": 212,
+    "worstRank": 212,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4333630,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 212,
+        "ms": 4333630,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "3cb7bb9d-fc78-4b5b-bbef-8caa51c74aaf",
     "persona": "Vest~",
     "names": [
@@ -2736,8 +2762,8 @@
       "\u84C1\u84C1"
     ],
     "runs": 1,
-    "bestRank": 150,
-    "worstRank": 150,
+    "bestRank": 160,
+    "worstRank": 160,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2749,7 +2775,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 150,
+        "rank": 160,
         "ms": 3814813,
         "dish": "Fish"
       }

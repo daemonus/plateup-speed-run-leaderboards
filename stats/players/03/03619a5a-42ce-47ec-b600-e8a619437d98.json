@@ -4,7 +4,7 @@
   "names": [
     "yadushige"
   ],
-  "runs": 48,
+  "runs": 49,
   "bestRank": 88,
   "worstRank": 707,
   "firstPlaces": 0,
@@ -59,7 +59,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -397,6 +398,13 @@
       "rank": 119,
       "ms": 3382189,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 104,
+      "ms": 3214255,
+      "dish": "Fish"
     }
   ]
 }

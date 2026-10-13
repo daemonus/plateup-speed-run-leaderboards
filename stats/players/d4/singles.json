@@ -110,8 +110,8 @@
       "louxiaxiaoyi"
     ],
     "runs": 1,
-    "bestRank": 215,
-    "worstRank": 215,
+    "bestRank": 237,
+    "worstRank": 237,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 215,
+        "rank": 237,
         "ms": 4596593,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "\u98CE\u5C3D"
     ],
     "runs": 1,
-    "bestRank": 147,
-    "worstRank": 147,
+    "bestRank": 157,
+    "worstRank": 157,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 147,
+        "rank": 157,
         "ms": 3790786,
         "dish": "Fish"
       }
@@ -1456,14 +1456,40 @@
     ]
   },
   {
+    "id": "d47c4d11-1c31-44db-8e32-d36023240a0e",
+    "persona": "\u696A\u7948Inory",
+    "names": [
+      "\u696A\u7948Inory"
+    ],
+    "runs": 1,
+    "bestRank": 178,
+    "worstRank": 178,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4013098,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 178,
+        "ms": 4013098,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "d47d17ea-14c7-4b98-8c26-d56d8e3985c5",
     "persona": "Holy Virgin",
     "names": [
       "Holy Virgin"
     ],
     "runs": 1,
-    "bestRank": 188,
-    "worstRank": 188,
+    "bestRank": 207,
+    "worstRank": 207,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1501,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 188,
+        "rank": 207,
         "ms": 4261861,
         "dish": "Fish"
       }

@@ -1332,8 +1332,8 @@
       "zsci"
     ],
     "runs": 1,
-    "bestRank": 256,
-    "worstRank": 256,
+    "bestRank": 282,
+    "worstRank": 282,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 256,
+        "rank": 282,
         "ms": 5120199,
         "dish": "Fish"
       }
@@ -3870,6 +3870,32 @@
         "rank": 202,
         "ms": 4301993,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "f1f65552-322a-4652-997f-55d529eea592",
+    "persona": "\u5403\u4E86\u5417\u60A8",
+    "names": [
+      "\u5403\u4E86\u5417\u60A8"
+    ],
+    "runs": 1,
+    "bestRank": 192,
+    "worstRank": 192,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4159041,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 192,
+        "ms": 4159041,
+        "dish": "Fish"
       }
     ]
   },
