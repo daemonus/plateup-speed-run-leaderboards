@@ -4,7 +4,7 @@
   "names": [
     "kousaka_rico"
   ],
-  "runs": 130,
+  "runs": 131,
   "bestRank": 14,
   "worstRank": 353,
   "firstPlaces": 0,
@@ -141,7 +141,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -1053,6 +1054,13 @@
       "rank": 70,
       "ms": 2971510,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 53,
+      "ms": 2420474,
+      "dish": "Fish"
     }
   ]
 }

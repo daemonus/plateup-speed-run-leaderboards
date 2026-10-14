@@ -708,8 +708,8 @@
       "The Ghost"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 221,
+    "worstRank": 221,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 199,
+        "rank": 221,
         "ms": 3884245,
         "dish": "Fish"
       }
@@ -1384,8 +1384,8 @@
       "Xokage2015"
     ],
     "runs": 1,
-    "bestRank": 237,
-    "worstRank": 237,
+    "bestRank": 264,
+    "worstRank": 264,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 237,
+        "rank": 264,
         "ms": 4186986,
         "dish": "Fish"
       }
@@ -3016,6 +3016,32 @@
     ]
   },
   {
+    "id": "8ed810cb-4510-4350-9a7c-65071fbe1aed",
+    "persona": "Now You See Me",
+    "names": [
+      "Now You See Me"
+    ],
+    "runs": 1,
+    "bestRank": 442,
+    "worstRank": 442,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6241086,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 442,
+        "ms": 6241086,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "8edc8935-6650-4a20-88c9-8fa935006d71",
     "persona": "Xiao",
     "names": [
@@ -3178,8 +3204,8 @@
       "a29042384"
     ],
     "runs": 1,
-    "bestRank": 163,
-    "worstRank": 163,
+    "bestRank": 181,
+    "worstRank": 181,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3191,7 +3217,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 163,
+        "rank": 181,
         "ms": 3615148,
         "dish": "Fish"
       }

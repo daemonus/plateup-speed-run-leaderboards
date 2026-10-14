@@ -4,9 +4,9 @@
   "names": [
     "zoeee"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 156,
-  "worstRank": 384,
+  "worstRank": 389,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -16,7 +16,8 @@
     -51,
     14,
     16,
-    34
+    34,
+    92
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 203,
       "ms": 3750329,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 389,
+      "ms": 5352960,
+      "dish": "Fish"
     }
   ]
 }

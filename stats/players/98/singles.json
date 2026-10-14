@@ -936,6 +936,32 @@
     ]
   },
   {
+    "id": "9838b9d9-93c5-4690-903e-81d96300b7f3",
+    "persona": "Cacau",
+    "names": [
+      "Cacau"
+    ],
+    "runs": 1,
+    "bestRank": 295,
+    "worstRank": 295,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4474481,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 295,
+        "ms": 4474481,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "9838be3e-01b5-4a47-854c-bb65bf7a6386",
     "persona": "Cheezus | Your Lord and Saviour",
     "names": [
@@ -2242,8 +2268,8 @@
       "solution"
     ],
     "runs": 1,
-    "bestRank": 377,
-    "worstRank": 377,
+    "bestRank": 422,
+    "worstRank": 422,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 377,
+        "rank": 422,
         "ms": 5856921,
         "dish": "Fish"
       }

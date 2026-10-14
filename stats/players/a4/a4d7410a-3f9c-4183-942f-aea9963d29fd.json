@@ -1,0 +1,34 @@
+{
+  "id": "a4d7410a-3f9c-4183-942f-aea9963d29fd",
+  "persona": "Bird_112",
+  "names": [
+    "Bird_112"
+  ],
+  "runs": 2,
+  "bestRank": 133,
+  "worstRank": 149,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3202763,
+  "weeksActive": [
+    91,
+    92
+  ],
+  "history": [
+    {
+      "week": 91,
+      "start": "2026-10-05",
+      "rank": 149,
+      "ms": 3655519,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 133,
+      "ms": 3202763,
+      "dish": "Fish"
+    }
+  ]
+}

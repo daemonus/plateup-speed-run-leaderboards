@@ -526,12 +526,12 @@
       "lexipie13"
     ],
     "runs": 1,
-    "bestRank": 174,
-    "worstRank": 174,
+    "bestRank": 124,
+    "worstRank": 124,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 3686569,
+    "bestMs": 3124900,
     "weeksActive": [
       92
     ],
@@ -539,8 +539,8 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 174,
-        "ms": 3686569,
+        "rank": 124,
+        "ms": 3124900,
         "dish": "Fish"
       }
     ]
@@ -838,8 +838,8 @@
       "HTml"
     ],
     "runs": 1,
-    "bestRank": 286,
-    "worstRank": 286,
+    "bestRank": 317,
+    "worstRank": 317,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 286,
+        "rank": 317,
         "ms": 4643507,
         "dish": "Fish"
       }
@@ -2596,32 +2596,6 @@
         "rank": 260,
         "ms": 5523083,
         "dish": "Stir Fry"
-      }
-    ]
-  },
-  {
-    "id": "a4d7410a-3f9c-4183-942f-aea9963d29fd",
-    "persona": "Bird_112",
-    "names": [
-      "Bird_112"
-    ],
-    "runs": 1,
-    "bestRank": 149,
-    "worstRank": 149,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3655519,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 149,
-        "ms": 3655519,
-        "dish": "Hot Dogs"
       }
     ]
   },

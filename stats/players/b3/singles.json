@@ -1326,6 +1326,32 @@
     ]
   },
   {
+    "id": "b36cf31d-1766-47a7-95fa-04cdf8798659",
+    "persona": "ROGUE",
+    "names": [
+      "ROGUE"
+    ],
+    "runs": 1,
+    "bestRank": 258,
+    "worstRank": 258,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4121415,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 258,
+        "ms": 4121415,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "b371e4af-2f77-4a21-89e2-ce2d3494b418",
     "persona": "Cici_\u665E\u665E\u0DC6",
     "names": [
@@ -3178,8 +3204,8 @@
       "asdf_yep"
     ],
     "runs": 1,
-    "bestRank": 338,
-    "worstRank": 338,
+    "bestRank": 379,
+    "worstRank": 379,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3191,7 +3217,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 338,
+        "rank": 379,
         "ms": 5138193,
         "dish": "Fish"
       }

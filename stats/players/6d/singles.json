@@ -2528,8 +2528,8 @@
       "hazmat"
     ],
     "runs": 1,
-    "bestRank": 229,
-    "worstRank": 229,
+    "bestRank": 255,
+    "worstRank": 255,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2541,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 229,
+        "rank": 255,
         "ms": 4109380,
         "dish": "Fish"
       }
@@ -3089,6 +3089,32 @@
         "start": "2023-11-06",
         "rank": 507,
         "ms": 4932375,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "6ddcca7c-2cfe-4e6a-adc1-51dc4017abbb",
+    "persona": "Settraw",
+    "names": [
+      "Settraw"
+    ],
+    "runs": 1,
+    "bestRank": 236,
+    "worstRank": 236,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3995979,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 236,
+        "ms": 3995979,
         "dish": "Fish"
       }
     ]

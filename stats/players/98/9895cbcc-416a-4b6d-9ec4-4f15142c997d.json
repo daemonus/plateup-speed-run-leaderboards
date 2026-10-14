@@ -4,7 +4,7 @@
   "names": [
     "MashedPohtaytes"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 110,
   "worstRank": 869,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -85,
     -70,
     -54,
-    35
+    35,
+    92
   ],
   "history": [
     {
@@ -76,6 +77,13 @@
       "start": "2025-09-08",
       "rank": 304,
       "ms": 3915576,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 222,
+      "ms": 3890898,
       "dish": "Fish"
     }
   ]

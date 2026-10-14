@@ -1898,6 +1898,32 @@
     ]
   },
   {
+    "id": "b6897458-e737-4abf-b45c-fd6d2c183e20",
+    "persona": "Blankeet",
+    "names": [
+      "Blankeet"
+    ],
+    "runs": 1,
+    "bestRank": 360,
+    "worstRank": 360,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5022907,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 360,
+        "ms": 5022907,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "b689af77-f536-49ba-b9ac-1bcf7bbdab8a",
     "persona": "ady",
     "names": [
@@ -3230,8 +3256,8 @@
       "Rozeh"
     ],
     "runs": 1,
-    "bestRank": 324,
-    "worstRank": 324,
+    "bestRank": 362,
+    "worstRank": 362,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3243,7 +3269,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 324,
+        "rank": 362,
         "ms": 5027215,
         "dish": "Fish"
       }

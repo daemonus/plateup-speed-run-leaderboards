@@ -2678,6 +2678,32 @@
     ]
   },
   {
+    "id": "adbdbec4-77d3-44bb-84c6-0c403487082f",
+    "persona": "ikutu192",
+    "names": [
+      "ikutu192"
+    ],
+    "runs": 1,
+    "bestRank": 97,
+    "worstRank": 97,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2938218,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 97,
+        "ms": 2938218,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "adc376c3-a647-4779-81ed-932c90187ac4",
     "persona": "Kinga",
     "names": [
@@ -2736,8 +2762,8 @@
       "s0ftboiled"
     ],
     "runs": 1,
-    "bestRank": 404,
-    "worstRank": 404,
+    "bestRank": 451,
+    "worstRank": 451,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2749,7 +2775,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 404,
+        "rank": 451,
         "ms": 6686118,
         "dish": "Fish"
       }

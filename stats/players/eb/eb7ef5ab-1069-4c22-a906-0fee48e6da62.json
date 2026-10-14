@@ -4,7 +4,7 @@
   "names": [
     "\u002B3LegBlood"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 224,
   "worstRank": 751,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     75,
     77,
     83,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 616,
       "ms": 4630103,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 332,
+      "ms": 4755454,
+      "dish": "Fish"
     }
   ]
 }

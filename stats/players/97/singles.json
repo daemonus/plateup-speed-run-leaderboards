@@ -2600,6 +2600,32 @@
     ]
   },
   {
+    "id": "97d62d80-0a99-4b7c-af9d-d5a5cfed302d",
+    "persona": "DarkBB",
+    "names": [
+      "DarkBB"
+    ],
+    "runs": 1,
+    "bestRank": 458,
+    "worstRank": 458,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6962676,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 458,
+        "ms": 6962676,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "97de8e09-601e-4d67-87c4-08a2d772ebe9",
     "persona": "suzariah",
     "names": [
@@ -2736,8 +2762,8 @@
       "CDOjr"
     ],
     "runs": 1,
-    "bestRank": 247,
-    "worstRank": 247,
+    "bestRank": 275,
+    "worstRank": 275,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2749,7 +2775,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 247,
+        "rank": 275,
         "ms": 4233432,
         "dish": "Fish"
       }

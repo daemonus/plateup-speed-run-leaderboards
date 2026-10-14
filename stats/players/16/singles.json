@@ -754,6 +754,32 @@
     ]
   },
   {
+    "id": "164f80ce-9dff-4f1a-b2f6-2ca9348f1c4c",
+    "persona": "Crudster",
+    "names": [
+      "Crudster"
+    ],
+    "runs": 1,
+    "bestRank": 457,
+    "worstRank": 457,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6910550,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 457,
+        "ms": 6910550,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "16502a6f-c49e-4729-beaf-292f173e621b",
     "persona": "cajun",
     "names": [
@@ -1566,8 +1592,8 @@
       "choger.game"
     ],
     "runs": 1,
-    "bestRank": 422,
-    "worstRank": 422,
+    "bestRank": 471,
+    "worstRank": 471,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1605,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 422,
+        "rank": 471,
         "ms": 10053888,
         "dish": "Fish"
       }

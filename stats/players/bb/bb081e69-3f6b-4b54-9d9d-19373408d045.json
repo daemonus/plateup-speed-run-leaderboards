@@ -4,7 +4,7 @@
   "names": [
     "kemarie13"
   ],
-  "runs": 53,
+  "runs": 54,
   "bestRank": 5,
   "worstRank": 514,
   "firstPlaces": 0,
@@ -64,7 +64,8 @@
     87,
     88,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -437,6 +438,13 @@
       "rank": 19,
       "ms": 2144367,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 20,
+      "ms": 1891464,
+      "dish": "Fish"
     }
   ]
 }

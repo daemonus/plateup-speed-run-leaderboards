@@ -1846,6 +1846,32 @@
     ]
   },
   {
+    "id": "48911faa-dbb2-4b4d-81c7-a24485c26642",
+    "persona": "130",
+    "names": [
+      "130"
+    ],
+    "runs": 1,
+    "bestRank": 215,
+    "worstRank": 215,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3841229,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 215,
+        "ms": 3841229,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "48918b2c-4102-4e1a-9423-ccf10db88552",
     "persona": "sui",
     "names": [
@@ -2112,8 +2138,8 @@
       "\u5F4C\u73A5\u73A5\u73A5"
     ],
     "runs": 1,
-    "bestRank": 379,
-    "worstRank": 379,
+    "bestRank": 424,
+    "worstRank": 424,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2125,7 +2151,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 379,
+        "rank": 424,
         "ms": 5870365,
         "dish": "Fish"
       }

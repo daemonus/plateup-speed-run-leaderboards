@@ -4,7 +4,7 @@
   "names": [
     "IMCHUNG7"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 347,
   "worstRank": 507,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4900419,
   "weeksActive": [
     24,
-    78
+    78,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 347,
       "ms": 4900419,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 367,
+      "ms": 5057899,
+      "dish": "Fish"
     }
   ]
 }

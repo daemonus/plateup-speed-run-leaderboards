@@ -4,8 +4,8 @@
   "names": [
     "BreeBear11161"
   ],
-  "runs": 2,
-  "bestRank": 317,
+  "runs": 3,
+  "bestRank": 185,
   "worstRank": 331,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2380979,
   "weeksActive": [
     30,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 331,
       "ms": 2380979,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 185,
+      "ms": 3630529,
+      "dish": "Fish"
     }
   ]
 }

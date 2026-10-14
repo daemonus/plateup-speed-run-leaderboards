@@ -214,8 +214,8 @@
       "gobaconpower"
     ],
     "runs": 1,
-    "bestRank": 302,
-    "worstRank": 302,
+    "bestRank": 337,
+    "worstRank": 337,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 302,
+        "rank": 337,
         "ms": 4799230,
         "dish": "Fish"
       }
@@ -2236,6 +2236,32 @@
     ]
   },
   {
+    "id": "f0973cc4-3e30-4007-ad88-748382908b15",
+    "persona": "Buttons",
+    "names": [
+      "Buttons"
+    ],
+    "runs": 1,
+    "bestRank": 265,
+    "worstRank": 265,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4187184,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 265,
+        "ms": 4187184,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "f0975416-a2dd-43c9-8325-a0a56af09cc9",
     "persona": "Mr. Ping",
     "names": [
@@ -2544,6 +2570,32 @@
         "rank": 521,
         "ms": 6110459,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "f0a786a1-d607-4b66-93df-382c685dd197",
+    "persona": "\u5B87\u5B99\u5B99\u8349",
+    "names": [
+      "\u5B87\u5B99\u5B99\u8349"
+    ],
+    "runs": 1,
+    "bestRank": 323,
+    "worstRank": 323,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4662699,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 323,
+        "ms": 4662699,
+        "dish": "Fish"
       }
     ]
   },
