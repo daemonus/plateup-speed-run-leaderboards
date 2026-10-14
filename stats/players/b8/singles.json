@@ -3068,32 +3068,6 @@
     ]
   },
   {
-    "id": "b8d27a13-3b09-472b-bd5d-98bebb128304",
-    "persona": "SparringTurtle",
-    "names": [
-      "SparringTurtle"
-    ],
-    "runs": 1,
-    "bestRank": 300,
-    "worstRank": 300,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3144804,
-    "weeksActive": [
-      58
-    ],
-    "history": [
-      {
-        "week": 58,
-        "start": "2026-02-16",
-        "rank": 300,
-        "ms": 3144804,
-        "dish": "Turkey"
-      }
-    ]
-  },
-  {
     "id": "b8d59f97-a49f-4046-be58-b5620e57b4d4",
     "persona": "Lijan",
     "names": [
@@ -3308,8 +3282,8 @@
       "40shots"
     ],
     "runs": 1,
-    "bestRank": 84,
-    "worstRank": 84,
+    "bestRank": 98,
+    "worstRank": 98,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3295,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 84,
+        "rank": 98,
         "ms": 2994243,
         "dish": "Fish"
       }

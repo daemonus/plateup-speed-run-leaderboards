@@ -4,7 +4,7 @@
   "names": [
     "A"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 200,
   "worstRank": 497,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     32,
     33,
     35,
-    38
+    38,
+    92
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 404,
       "ms": 3991682,
       "dish": "Pies"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 251,
+      "ms": 4303701,
+      "dish": "Fish"
     }
   ]
 }

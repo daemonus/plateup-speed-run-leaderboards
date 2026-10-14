@@ -84,8 +84,8 @@
       "KENAGA-SAN"
     ],
     "runs": 1,
-    "bestRank": 177,
-    "worstRank": 177,
+    "bestRank": 214,
+    "worstRank": 214,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 177,
+        "rank": 214,
         "ms": 4012815,
         "dish": "Fish"
       }
@@ -110,8 +110,8 @@
       "chansonmetw"
     ],
     "runs": 1,
-    "bestRank": 236,
-    "worstRank": 236,
+    "bestRank": 282,
+    "worstRank": 282,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 236,
+        "rank": 282,
         "ms": 4596354,
         "dish": "Fish"
       }
@@ -780,6 +780,32 @@
     ]
   },
   {
+    "id": "263cc53e-03b6-4242-8afc-4105c9e7262c",
+    "persona": "\u6854\u6897",
+    "names": [
+      "\u6854\u6897"
+    ],
+    "runs": 1,
+    "bestRank": 411,
+    "worstRank": 411,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7019219,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 411,
+        "ms": 7019219,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "264154da-b030-4d3f-9c4e-57d08474a702",
     "persona": "Mertkls",
     "names": [
@@ -1098,8 +1124,8 @@
       "VitaLai"
     ],
     "runs": 1,
-    "bestRank": 45,
-    "worstRank": 45,
+    "bestRank": 54,
+    "worstRank": 54,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1111,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 45,
+        "rank": 54,
         "ms": 2458391,
         "dish": "Fish"
       }
@@ -2450,8 +2476,8 @@
       "kts"
     ],
     "runs": 1,
-    "bestRank": 296,
-    "worstRank": 296,
+    "bestRank": 354,
+    "worstRank": 354,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 296,
+        "rank": 354,
         "ms": 5462433,
         "dish": "Fish"
       }

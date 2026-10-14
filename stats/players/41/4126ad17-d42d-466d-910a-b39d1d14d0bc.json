@@ -4,7 +4,7 @@
   "names": [
     "DeftParcel"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 56,
   "worstRank": 224,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     27,
     29,
     33,
-    52
+    52,
+    92
   ],
   "history": [
     {
@@ -68,6 +69,13 @@
       "start": "2026-01-05",
       "rank": 224,
       "ms": 2744804,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 132,
+      "ms": 3301714,
       "dish": "Fish"
     }
   ]

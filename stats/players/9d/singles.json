@@ -1690,32 +1690,6 @@
     ]
   },
   {
-    "id": "9d96d987-2a54-4335-81e9-db64fb3bdb4b",
-    "persona": "Hawki",
-    "names": [
-      "Hawki"
-    ],
-    "runs": 1,
-    "bestRank": 231,
-    "worstRank": 231,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5229670,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 231,
-        "ms": 5229670,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "9d9b2162-157f-494b-9ab5-a30c04466cdd",
     "persona": "GenAgenda",
     "names": [
@@ -2804,6 +2778,32 @@
         "rank": 345,
         "ms": 5568770,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "9de94279-11a6-43dc-b1ef-c87127d9fffd",
+    "persona": "Charm",
+    "names": [
+      "Charm"
+    ],
+    "runs": 1,
+    "bestRank": 279,
+    "worstRank": 279,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4588443,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 279,
+        "ms": 4588443,
+        "dish": "Fish"
       }
     ]
   },

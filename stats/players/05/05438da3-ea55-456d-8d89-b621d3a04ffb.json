@@ -4,7 +4,7 @@
   "names": [
     "Security Police"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 98,
   "worstRank": 568,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     55,
     56,
     57,
-    58
+    58,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 98,
       "ms": 2331509,
       "dish": "Turkey"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 223,
+      "ms": 4073389,
+      "dish": "Fish"
     }
   ]
 }

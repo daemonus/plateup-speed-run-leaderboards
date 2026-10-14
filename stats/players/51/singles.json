@@ -474,8 +474,8 @@
       "imDawniii"
     ],
     "runs": 1,
-    "bestRank": 226,
-    "worstRank": 226,
+    "bestRank": 270,
+    "worstRank": 270,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 226,
+        "rank": 270,
         "ms": 4511727,
         "dish": "Fish"
       }
@@ -760,8 +760,8 @@
       "casey"
     ],
     "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
+    "bestRank": 299,
+    "worstRank": 299,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 252,
+        "rank": 299,
         "ms": 4765656,
         "dish": "Fish"
       }
@@ -1010,6 +1010,32 @@
         "rank": 687,
         "ms": 3584721,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "5154a6a2-d73a-4af4-bc24-22c35863973a",
+    "persona": "\u6CE0\u7136\u5E7D\u96EA",
+    "names": [
+      "\u6CE0\u7136\u5E7D\u96EA"
+    ],
+    "runs": 1,
+    "bestRank": 405,
+    "worstRank": 405,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6747580,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 405,
+        "ms": 6747580,
+        "dish": "Fish"
       }
     ]
   },
@@ -1592,8 +1618,8 @@
       "Whiskey Husten"
     ],
     "runs": 1,
-    "bestRank": 341,
-    "worstRank": 341,
+    "bestRank": 423,
+    "worstRank": 423,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1631,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 341,
+        "rank": 423,
         "ms": 14403630,
         "dish": "Fish"
       }

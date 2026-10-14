@@ -4,7 +4,7 @@
   "names": [
     "ijb108"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 98,
   "worstRank": 130,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2733517,
   "weeksActive": [
     88,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 130,
       "ms": 3446831,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 114,
+      "ms": 3116103,
+      "dish": "Fish"
     }
   ]
 }

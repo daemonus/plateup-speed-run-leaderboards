@@ -78,6 +78,32 @@
     ]
   },
   {
+    "id": "ab0737bf-f6ed-4ca2-8973-945d525c133a",
+    "persona": "mystic_ways",
+    "names": [
+      "mystic_ways"
+    ],
+    "runs": 1,
+    "bestRank": 96,
+    "worstRank": 96,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2980781,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 96,
+        "ms": 2980781,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ab095889-371d-46fa-ab54-680babc86199",
     "persona": "Root Vegetables",
     "names": [
@@ -1956,8 +1982,8 @@
       "GearPaladin"
     ],
     "runs": 1,
-    "bestRank": 262,
-    "worstRank": 262,
+    "bestRank": 312,
+    "worstRank": 312,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 262,
+        "rank": 312,
         "ms": 4847931,
         "dish": "Fish"
       }

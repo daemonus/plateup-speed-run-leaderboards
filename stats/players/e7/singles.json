@@ -292,8 +292,8 @@
       "Alexx_Jen"
     ],
     "runs": 1,
-    "bestRank": 142,
-    "worstRank": 142,
+    "bestRank": 171,
+    "worstRank": 171,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 142,
+        "rank": 171,
         "ms": 3681249,
         "dish": "Fish"
       }
@@ -2076,6 +2076,32 @@
         "rank": 484,
         "ms": 6724100,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "e7a22abb-f5c4-43a8-ab3e-4e4cb08dec07",
+    "persona": "\uD835\uDD6F\uD835\uDD8E\uD835\uDD86\uD835\uDD87\uD835\uDD91\uD835\uDD94",
+    "names": [
+      "\uD835\uDD6F\uD835\uDD8E\uD835\uDD86\uD835\uDD87\uD835\uDD91\uD835\uDD94"
+    ],
+    "runs": 1,
+    "bestRank": 213,
+    "worstRank": 213,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4008547,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 213,
+        "ms": 4008547,
+        "dish": "Fish"
       }
     ]
   },

@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "2f29ee41-b30f-4c65-b238-e7d9b5804a5c",
+    "persona": "Zack",
+    "names": [
+      "Zack"
+    ],
+    "runs": 1,
+    "bestRank": 341,
+    "worstRank": 341,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5182349,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 341,
+        "ms": 5182349,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2f29feef-b9a2-4610-a86c-efbacaa43e0e",
     "persona": "Dhdynasty",
     "names": [
@@ -1763,6 +1789,32 @@
         "start": "2023-03-27",
         "rank": 2214,
         "ms": 3304718,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "2f9a9fed-ffd1-424d-8bc3-df8bc0ff5a9d",
+    "persona": "Warrior Duchess",
+    "names": [
+      "Warrior Duchess"
+    ],
+    "runs": 1,
+    "bestRank": 358,
+    "worstRank": 358,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5533486,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 358,
+        "ms": 5533486,
         "dish": "Fish"
       }
     ]

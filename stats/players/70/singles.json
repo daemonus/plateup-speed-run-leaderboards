@@ -1046,8 +1046,8 @@
       "chelseaku916"
     ],
     "runs": 1,
-    "bestRank": 198,
-    "worstRank": 198,
+    "bestRank": 240,
+    "worstRank": 240,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1059,7 +1059,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 198,
+        "rank": 240,
         "ms": 4199780,
         "dish": "Fish"
       }
@@ -1582,6 +1582,32 @@
         "rank": 414,
         "ms": 3340537,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "70788fbe-7bb0-4903-99d6-1e26b7e04c7a",
+    "persona": "\u67E5\u65E0\u6B64\u4EBA",
+    "names": [
+      "\u67E5\u65E0\u6B64\u4EBA"
+    ],
+    "runs": 1,
+    "bestRank": 315,
+    "worstRank": 315,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4925387,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 315,
+        "ms": 4925387,
+        "dish": "Fish"
       }
     ]
   },

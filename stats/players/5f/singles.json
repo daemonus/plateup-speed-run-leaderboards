@@ -1280,8 +1280,8 @@
       "Nitramus"
     ],
     "runs": 1,
-    "bestRank": 319,
-    "worstRank": 319,
+    "bestRank": 391,
+    "worstRank": 391,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 319,
+        "rank": 391,
         "ms": 6116489,
         "dish": "Fish"
       }
@@ -1868,6 +1868,32 @@
         "rank": 307,
         "ms": 3882491,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "5f766fdb-5306-49b2-bbd9-e95bcf84587f",
+    "persona": "HuanYue",
+    "names": [
+      "HuanYue"
+    ],
+    "runs": 1,
+    "bestRank": 134,
+    "worstRank": 134,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3307064,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 134,
+        "ms": 3307064,
+        "dish": "Fish"
       }
     ]
   },
@@ -2554,8 +2580,8 @@
       "sero"
     ],
     "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
+    "bestRank": 307,
+    "worstRank": 307,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2593,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 258,
+        "rank": 307,
         "ms": 4826765,
         "dish": "Fish"
       }

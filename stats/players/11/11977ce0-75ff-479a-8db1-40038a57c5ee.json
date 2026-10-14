@@ -4,7 +4,7 @@
   "names": [
     "Malsyndrome"
   ],
-  "runs": 40,
+  "runs": 41,
   "bestRank": 40,
   "worstRank": 432,
   "firstPlaces": 0,
@@ -51,7 +51,8 @@
     74,
     75,
     77,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -333,6 +334,13 @@
       "rank": 214,
       "ms": 3161166,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 90,
+      "ms": 2934508,
+      "dish": "Fish"
     }
   ]
 }

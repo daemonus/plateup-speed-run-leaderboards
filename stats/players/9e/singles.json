@@ -1352,6 +1352,32 @@
     ]
   },
   {
+    "id": "9e639717-e053-4577-93f9-1819a00da7d3",
+    "persona": "KaitMay",
+    "names": [
+      "KaitMay"
+    ],
+    "runs": 1,
+    "bestRank": 224,
+    "worstRank": 224,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4075530,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 224,
+        "ms": 4075530,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "9e63b2bd-2ca2-4b8a-acbe-1696df802acb",
     "persona": "AngrySquirrel",
     "names": [
@@ -2450,8 +2476,8 @@
       "Matthew"
     ],
     "runs": 1,
-    "bestRank": 219,
-    "worstRank": 219,
+    "bestRank": 262,
+    "worstRank": 262,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 219,
+        "rank": 262,
         "ms": 4422342,
         "dish": "Fish"
       }

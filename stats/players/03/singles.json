@@ -136,8 +136,8 @@
       "X666"
     ],
     "runs": 1,
-    "bestRank": 270,
-    "worstRank": 270,
+    "bestRank": 322,
+    "worstRank": 322,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 270,
+        "rank": 322,
         "ms": 5017111,
         "dish": "Fish"
       }
@@ -1426,6 +1426,32 @@
         "rank": 419,
         "ms": 4311015,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "036281e1-c138-4328-a768-b788db124220",
+    "persona": "Chaucat",
+    "names": [
+      "Chaucat"
+    ],
+    "runs": 1,
+    "bestRank": 130,
+    "worstRank": 130,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3271389,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 130,
+        "ms": 3271389,
+        "dish": "Fish"
       }
     ]
   },

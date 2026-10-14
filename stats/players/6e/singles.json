@@ -182,6 +182,32 @@
     ]
   },
   {
+    "id": "6e125937-5fd9-4a6a-88ce-f8857ea41bcb",
+    "persona": "Hopziv",
+    "names": [
+      "Hopziv"
+    ],
+    "runs": 1,
+    "bestRank": 82,
+    "worstRank": 82,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2859827,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 82,
+        "ms": 2859827,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6e12bc07-edde-4e74-a350-731457c78ac7",
     "persona": "Teracin",
     "names": [
@@ -1254,8 +1280,8 @@
       "\u4E8C\u4E09"
     ],
     "runs": 1,
-    "bestRank": 308,
-    "worstRank": 308,
+    "bestRank": 374,
+    "worstRank": 374,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 308,
+        "rank": 374,
         "ms": 5840179,
         "dish": "Fish"
       }
@@ -1462,8 +1488,8 @@
       "alina.denzer"
     ],
     "runs": 1,
-    "bestRank": 28,
-    "worstRank": 28,
+    "bestRank": 31,
+    "worstRank": 31,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1501,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 28,
+        "rank": 31,
         "ms": 2121617,
         "dish": "Fish"
       }

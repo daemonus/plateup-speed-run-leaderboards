@@ -4,7 +4,7 @@
   "names": [
     "fruitykool29"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 54,
   "worstRank": 392,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     77,
     78,
     79,
-    81
+    81,
+    92
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 118,
       "ms": 3026092,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 101,
+      "ms": 3024627,
+      "dish": "Fish"
     }
   ]
 }

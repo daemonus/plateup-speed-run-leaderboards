@@ -4,7 +4,7 @@
   "names": [
     "jodie"
   ],
-  "runs": 44,
+  "runs": 45,
   "bestRank": 75,
   "worstRank": 2922,
   "firstPlaces": 0,
@@ -55,7 +55,8 @@
     -22,
     -20,
     66,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -365,6 +366,13 @@
       "rank": 267,
       "ms": 3679671,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 330,
+      "ms": 5068415,
+      "dish": "Fish"
     }
   ]
 }

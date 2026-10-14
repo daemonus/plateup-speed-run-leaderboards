@@ -1404,6 +1404,32 @@
     ]
   },
   {
+    "id": "526df04a-f741-4471-8a47-7abcb9d9e11a",
+    "persona": "Schwester Tester",
+    "names": [
+      "Schwester Tester"
+    ],
+    "runs": 1,
+    "bestRank": 105,
+    "worstRank": 105,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3053500,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 105,
+        "ms": 3053500,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "526f7a95-4b24-4ef4-bdf8-1a3a27b6f64a",
     "persona": "\u30EC\u30CD\u30AF\u30C8\u30F3",
     "names": [
@@ -2554,8 +2580,8 @@
       "chqd\u0027s\u0027b"
     ],
     "runs": 1,
-    "bestRank": 224,
-    "worstRank": 224,
+    "bestRank": 268,
+    "worstRank": 268,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2593,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 224,
+        "rank": 268,
         "ms": 4508292,
         "dish": "Fish"
       }

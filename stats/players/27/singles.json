@@ -2320,8 +2320,8 @@
       "Coco\u0026Coco"
     ],
     "runs": 1,
-    "bestRank": 305,
-    "worstRank": 305,
+    "bestRank": 369,
+    "worstRank": 369,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 305,
+        "rank": 369,
         "ms": 5734401,
         "dish": "Fish"
       }
@@ -2606,8 +2606,8 @@
       "TeddiVibes"
     ],
     "runs": 1,
-    "bestRank": 316,
-    "worstRank": 316,
+    "bestRank": 385,
+    "worstRank": 385,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2619,7 +2619,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 316,
+        "rank": 385,
         "ms": 5966177,
         "dish": "Fish"
       }
@@ -2908,6 +2908,32 @@
         "rank": 831,
         "ms": 4754322,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "27c7e6f3-85a4-4853-958a-2ce39e833613",
+    "persona": "\u5371\u96DE\u5408\u7D04",
+    "names": [
+      "\u5371\u96DE\u5408\u7D04"
+    ],
+    "runs": 1,
+    "bestRank": 418,
+    "worstRank": 418,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9192960,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 418,
+        "ms": 9192960,
+        "dish": "Fish"
       }
     ]
   },
@@ -3282,8 +3308,8 @@
       "GxSyyy"
     ],
     "runs": 1,
-    "bestRank": 173,
-    "worstRank": 173,
+    "bestRank": 207,
+    "worstRank": 207,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3295,7 +3321,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 173,
+        "rank": 207,
         "ms": 3968194,
         "dish": "Fish"
       }

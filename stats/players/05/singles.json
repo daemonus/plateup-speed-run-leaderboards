@@ -1202,8 +1202,8 @@
       "\u003C3"
     ],
     "runs": 1,
-    "bestRank": 336,
-    "worstRank": 336,
+    "bestRank": 415,
+    "worstRank": 415,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 336,
+        "rank": 415,
         "ms": 7557126,
         "dish": "Fish"
       }
@@ -1269,6 +1269,32 @@
         "start": "2024-09-02",
         "rank": 598,
         "ms": 4494985,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "056026aa-8fe6-41bc-b867-4028fe625813",
+    "persona": "weiwei\u5230\u4F86",
+    "names": [
+      "weiwei\u5230\u4F86"
+    ],
+    "runs": 1,
+    "bestRank": 367,
+    "worstRank": 367,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5716104,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 367,
+        "ms": 5716104,
         "dish": "Fish"
       }
     ]
@@ -1774,8 +1800,8 @@
       "Fireflake70"
     ],
     "runs": 1,
-    "bestRank": 182,
-    "worstRank": 182,
+    "bestRank": 218,
+    "worstRank": 218,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1787,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 182,
+        "rank": 218,
         "ms": 4045482,
         "dish": "Fish"
       }

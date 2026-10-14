@@ -4,7 +4,7 @@
   "names": [
     "jwdrake960"
   ],
-  "runs": 85,
+  "runs": 86,
   "bestRank": 17,
   "worstRank": 602,
   "firstPlaces": 0,
@@ -96,7 +96,8 @@
     87,
     88,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 28,
       "ms": 2401143,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 21,
+      "ms": 1964997,
+      "dish": "Fish"
     }
   ]
 }

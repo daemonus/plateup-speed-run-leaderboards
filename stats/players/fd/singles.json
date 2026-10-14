@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "fd115482-3cd7-49bc-a2c6-950a192fb6fa",
+    "persona": "NINW",
+    "names": [
+      "NINW"
+    ],
+    "runs": 1,
+    "bestRank": 161,
+    "worstRank": 161,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3573485,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 161,
+        "ms": 3573485,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fd128fbc-a70e-499e-bfa6-8b9bcbe7150d",
     "persona": "Otaku Oblivion",
     "names": [
@@ -1410,8 +1436,8 @@
       "Roguezilla"
     ],
     "runs": 1,
-    "bestRank": 329,
-    "worstRank": 329,
+    "bestRank": 406,
+    "worstRank": 406,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 329,
+        "rank": 406,
         "ms": 6813732,
         "dish": "Fish"
       }

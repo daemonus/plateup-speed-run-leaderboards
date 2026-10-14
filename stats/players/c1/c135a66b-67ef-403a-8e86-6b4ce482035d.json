@@ -4,7 +4,7 @@
   "names": [
     "\uD835\uDD95\uD835\uDD97\uD835\uDD8E\uD835\uDD93\uD835\uDD88\uD835\uDD8A\uD835\uDD98\uD835\uDD98 \uD835\uDD98\uD835\uDD9A\uD835\uDD98\uD835\uDD8D\uD835\uDD8E"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 191,
   "worstRank": 435,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     84,
     85,
     86,
-    87
+    87,
+    92
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 191,
       "ms": 4518922,
       "dish": "Fajitas"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 202,
+      "ms": 3909311,
+      "dish": "Fish"
     }
   ]
 }

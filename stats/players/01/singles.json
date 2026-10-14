@@ -1384,8 +1384,8 @@
       "rajla_55"
     ],
     "runs": 1,
-    "bestRank": 163,
-    "worstRank": 163,
+    "bestRank": 194,
+    "worstRank": 194,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 163,
+        "rank": 194,
         "ms": 3849220,
         "dish": "Fish"
       }
@@ -3038,6 +3038,32 @@
         "rank": 545,
         "ms": 3908887,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "01f83827-4161-47f8-81ea-72c2158dbbcf",
+    "persona": "gatsbymou_\u857E\u7C73",
+    "names": [
+      "gatsbymou_\u857E\u7C73"
+    ],
+    "runs": 1,
+    "bestRank": 72,
+    "worstRank": 72,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2717214,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 72,
+        "ms": 2717214,
+        "dish": "Fish"
       }
     ]
   },

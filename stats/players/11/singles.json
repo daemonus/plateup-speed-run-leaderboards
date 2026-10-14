@@ -1436,8 +1436,8 @@
       "\u54B8\u9C7C\u7FFB\u8EAB\u8FD8\u662F\u54B8\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 280,
-    "worstRank": 280,
+    "bestRank": 334,
+    "worstRank": 334,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 280,
+        "rank": 334,
         "ms": 5107073,
         "dish": "Fish"
       }
@@ -1868,32 +1868,6 @@
         "rank": 263,
         "ms": 5247964,
         "dish": "Salad"
-      }
-    ]
-  },
-  {
-    "id": "11a8526d-4a1e-4743-b6db-f5ef18876393",
-    "persona": "\u8C46\u5473\u602A",
-    "names": [
-      "\u8C46\u5473\u602A"
-    ],
-    "runs": 1,
-    "bestRank": 268,
-    "worstRank": 268,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 10644377,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 268,
-        "ms": 10644377,
-        "dish": "Hot Dogs"
       }
     ]
   },
@@ -2366,6 +2340,32 @@
     ]
   },
   {
+    "id": "11cb25fb-ef24-4e44-bb7e-85af843a7e4e",
+    "persona": "$iLVeR",
+    "names": [
+      "$iLVeR"
+    ],
+    "runs": 1,
+    "bestRank": 386,
+    "worstRank": 386,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5990458,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 386,
+        "ms": 5990458,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "11cc83cc-df56-42d4-a684-26099e06abbd",
     "persona": "Shabd_",
     "names": [
@@ -2684,8 +2684,8 @@
       "Kranbug"
     ],
     "runs": 1,
-    "bestRank": 82,
-    "worstRank": 82,
+    "bestRank": 95,
+    "worstRank": 95,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 82,
+        "rank": 95,
         "ms": 2979616,
         "dish": "Fish"
       }

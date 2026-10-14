@@ -760,8 +760,8 @@
       "tim"
     ],
     "runs": 1,
-    "bestRank": 53,
-    "worstRank": 53,
+    "bestRank": 63,
+    "worstRank": 63,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 53,
+        "rank": 63,
         "ms": 2537069,
         "dish": "Fish"
       }
@@ -1790,6 +1790,32 @@
         "rank": 234,
         "ms": 3404772,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "9c7fe5bc-82bf-4281-b621-3bb5cf31d467",
+    "persona": "\u767D\u4E01",
+    "names": [
+      "\u767D\u4E01"
+    ],
+    "runs": 1,
+    "bestRank": 230,
+    "worstRank": 230,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4114970,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 230,
+        "ms": 4114970,
+        "dish": "Fish"
       }
     ]
   },

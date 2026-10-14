@@ -4,7 +4,7 @@
   "names": [
     "Kotoboo"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 23,
   "worstRank": 293,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     69,
     74,
     88,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 129,
       "ms": 3446680,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 44,
+      "ms": 2343943,
+      "dish": "Fish"
     }
   ]
 }
