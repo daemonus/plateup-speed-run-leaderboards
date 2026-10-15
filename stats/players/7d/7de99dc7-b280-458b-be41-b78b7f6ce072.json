@@ -4,7 +4,7 @@
   "names": [
     "aka.ndie"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 58,
   "worstRank": 112,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2685691,
   "weeksActive": [
     34,
-    61
+    61,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 112,
       "ms": 2685691,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 89,
+      "ms": 2697832,
+      "dish": "Fish"
     }
   ]
 }

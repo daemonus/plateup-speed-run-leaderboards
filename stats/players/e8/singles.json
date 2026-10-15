@@ -2606,8 +2606,8 @@
       "Magatsugami"
     ],
     "runs": 1,
-    "bestRank": 400,
-    "worstRank": 400,
+    "bestRank": 520,
+    "worstRank": 520,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2619,7 +2619,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 400,
+        "rank": 520,
         "ms": 5509482,
         "dish": "Fish"
       }
@@ -2986,6 +2986,32 @@
         "rank": 215,
         "ms": 4528934,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "e8fce2d3-f06c-43ef-a883-9d55383bc2f3",
+    "persona": "itgdhh",
+    "names": [
+      "itgdhh"
+    ],
+    "runs": 1,
+    "bestRank": 215,
+    "worstRank": 215,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3563824,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 215,
+        "ms": 3563824,
+        "dish": "Fish"
       }
     ]
   },

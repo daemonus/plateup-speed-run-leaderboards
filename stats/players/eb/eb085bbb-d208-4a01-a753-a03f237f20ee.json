@@ -4,7 +4,7 @@
   "names": [
     "maDDog"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 29,
   "worstRank": 611,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     68,
     71,
     78,
-    80
+    80,
+    92
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 76,
       "ms": 2504687,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 80,
+      "ms": 2587058,
+      "dish": "Fish"
     }
   ]
 }

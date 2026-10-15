@@ -364,6 +364,32 @@
     ]
   },
   {
+    "id": "911fe1a5-cc7a-4213-b324-3042a9b6acfb",
+    "persona": "GuardzPro1st",
+    "names": [
+      "GuardzPro1st"
+    ],
+    "runs": 1,
+    "bestRank": 456,
+    "worstRank": 456,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4949310,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 456,
+        "ms": 4949310,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "912062ee-94d6-418c-806c-3e03cb0fa193",
     "persona": "hong",
     "names": [
@@ -474,8 +500,8 @@
       "agentmarek"
     ],
     "runs": 1,
-    "bestRank": 150,
-    "worstRank": 150,
+    "bestRank": 180,
+    "worstRank": 180,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +513,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 150,
+        "rank": 180,
         "ms": 3358106,
         "dish": "Fish"
       }
@@ -1228,8 +1254,8 @@
       "1416037883"
     ],
     "runs": 1,
-    "bestRank": 303,
-    "worstRank": 303,
+    "bestRank": 387,
+    "worstRank": 387,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1267,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 303,
+        "rank": 387,
         "ms": 4536415,
         "dish": "Fish"
       }

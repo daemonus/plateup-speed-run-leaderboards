@@ -2398,8 +2398,8 @@
       "sushantsubbu20"
     ],
     "runs": 1,
-    "bestRank": 396,
-    "worstRank": 396,
+    "bestRank": 512,
+    "worstRank": 512,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2411,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 396,
+        "rank": 512,
         "ms": 5447941,
         "dish": "Fish"
       }
@@ -2492,6 +2492,32 @@
         "rank": 470,
         "ms": 5521547,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "74c4231c-4103-4027-9f43-cb345192e227",
+    "persona": "LazySmartGuy",
+    "names": [
+      "LazySmartGuy"
+    ],
+    "runs": 1,
+    "bestRank": 406,
+    "worstRank": 406,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4622852,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 406,
+        "ms": 4622852,
+        "dish": "Fish"
       }
     ]
   },
@@ -2804,6 +2830,32 @@
         "rank": 575,
         "ms": 5730551,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "74d4dbae-ac00-48e9-8eaf-f09674722414",
+    "persona": "\u8D22\u795E\u7237",
+    "names": [
+      "\u8D22\u795E\u7237"
+    ],
+    "runs": 1,
+    "bestRank": 400,
+    "worstRank": 400,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4592412,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 400,
+        "ms": 4592412,
+        "dish": "Fish"
       }
     ]
   },

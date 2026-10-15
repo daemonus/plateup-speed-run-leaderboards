@@ -598,6 +598,32 @@
     ]
   },
   {
+    "id": "c72970e2-98f7-4c04-8d8e-f8544fbce2e2",
+    "persona": "\u65B0\u7AF9\u7AF9",
+    "names": [
+      "\u65B0\u7AF9\u7AF9"
+    ],
+    "runs": 1,
+    "bestRank": 489,
+    "worstRank": 489,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5169606,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 489,
+        "ms": 5169606,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "c72a13da-8d02-47ce-b922-ee55abac3c0a",
     "persona": "V3ssk.ttv",
     "names": [
@@ -2034,8 +2060,8 @@
       "TheRoundBird"
     ],
     "runs": 1,
-    "bestRank": 51,
-    "worstRank": 51,
+    "bestRank": 58,
+    "worstRank": 58,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2073,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 51,
+        "rank": 58,
         "ms": 2395898,
         "dish": "Fish"
       }

@@ -214,8 +214,8 @@
       "\u70B9\u51FB\u8F93\u5165\u6587\u672C"
     ],
     "runs": 1,
-    "bestRank": 169,
-    "worstRank": 169,
+    "bestRank": 205,
+    "worstRank": 205,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 169,
+        "rank": 205,
         "ms": 3503364,
         "dish": "Fish"
       }
@@ -3297,6 +3297,32 @@
         "start": "2023-11-06",
         "rank": 334,
         "ms": 3616918,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "40eec45d-a50d-4de6-82d6-30b81ccffb00",
+    "persona": "Miss Wednesday",
+    "names": [
+      "Miss Wednesday"
+    ],
+    "runs": 1,
+    "bestRank": 241,
+    "worstRank": 241,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3733016,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 241,
+        "ms": 3733016,
         "dish": "Fish"
       }
     ]

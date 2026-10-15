@@ -286,6 +286,32 @@
     ]
   },
   {
+    "id": "131aa9ec-bb2a-4dd4-88a0-3e8e562090b6",
+    "persona": "\u5154\u5B50\u5927\u5927",
+    "names": [
+      "\u5154\u5B50\u5927\u5927"
+    ],
+    "runs": 1,
+    "bestRank": 529,
+    "worstRank": 529,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5569117,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 529,
+        "ms": 5569117,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "131f3a7e-6ad0-449a-babb-cb811fa39b18",
     "persona": "Her.",
     "names": [
@@ -1878,8 +1904,8 @@
       "Pablo27"
     ],
     "runs": 1,
-    "bestRank": 380,
-    "worstRank": 380,
+    "bestRank": 485,
+    "worstRank": 485,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 380,
+        "rank": 485,
         "ms": 5139245,
         "dish": "Fish"
       }

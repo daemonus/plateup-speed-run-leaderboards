@@ -136,8 +136,8 @@
       "X666"
     ],
     "runs": 1,
-    "bestRank": 359,
-    "worstRank": 359,
+    "bestRank": 460,
+    "worstRank": 460,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 359,
+        "rank": 460,
         "ms": 5017111,
         "dish": "Fish"
       }
@@ -1436,8 +1436,8 @@
       "Chaucat"
     ],
     "runs": 1,
-    "bestRank": 141,
-    "worstRank": 141,
+    "bestRank": 169,
+    "worstRank": 169,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 141,
+        "rank": 169,
         "ms": 3271389,
         "dish": "Fish"
       }
@@ -2933,6 +2933,32 @@
         "start": "2023-03-27",
         "rank": 677,
         "ms": 2249334,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "03e11309-8f4b-42a4-97b6-f59ee35647c6",
+    "persona": "\u7EAD\u8FB0ellan",
+    "names": [
+      "\u7EAD\u8FB0ellan"
+    ],
+    "runs": 1,
+    "bestRank": 447,
+    "worstRank": 447,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4904222,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 447,
+        "ms": 4904222,
         "dish": "Fish"
       }
     ]

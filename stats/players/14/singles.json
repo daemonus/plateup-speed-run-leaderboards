@@ -318,8 +318,8 @@
       "huishan531024"
     ],
     "runs": 1,
-    "bestRank": 195,
-    "worstRank": 195,
+    "bestRank": 236,
+    "worstRank": 236,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 195,
+        "rank": 236,
         "ms": 3699379,
         "dish": "Fish"
       }
@@ -2934,32 +2934,6 @@
         "rank": 176,
         "ms": 3488401,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "14f522ae-ce74-4ad9-84f1-1deb0aa53c47",
-    "persona": "Shaft2727",
-    "names": [
-      "Shaft2727"
-    ],
-    "runs": 1,
-    "bestRank": 276,
-    "worstRank": 276,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3831363,
-    "weeksActive": [
-      90
-    ],
-    "history": [
-      {
-        "week": 90,
-        "start": "2026-09-28",
-        "rank": 276,
-        "ms": 3831363,
-        "dish": "Sundaes"
       }
     ]
   },

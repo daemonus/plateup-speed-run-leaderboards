@@ -494,6 +494,32 @@
     ]
   },
   {
+    "id": "66277a8f-607b-4231-b8c6-3257fd75e70a",
+    "persona": "cfe36265",
+    "names": [
+      "cfe36265"
+    ],
+    "runs": 1,
+    "bestRank": 585,
+    "worstRank": 585,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6575427,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 585,
+        "ms": 6575427,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "662d886a-a601-4564-887e-7baa5b55c628",
     "persona": "CatiePie",
     "names": [
@@ -1920,6 +1946,32 @@
         "rank": 129,
         "ms": 2910061,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "667c2b72-08ee-4651-a494-d38d275f6e1c",
+    "persona": "yy",
+    "names": [
+      "yy"
+    ],
+    "runs": 1,
+    "bestRank": 261,
+    "worstRank": 261,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3842000,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 261,
+        "ms": 3842000,
+        "dish": "Fish"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "qjkevin"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 98,
   "worstRank": 405,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -93,
     -70,
-    -47
+    -47,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 405,
       "ms": 4662123,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 143,
+      "ms": 3113627,
+      "dish": "Fish"
     }
   ]
 }

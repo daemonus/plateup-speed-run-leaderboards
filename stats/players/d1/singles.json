@@ -338,6 +338,32 @@
     ]
   },
   {
+    "id": "d11b6937-2458-41cc-bfda-cc493f46cbe6",
+    "persona": "elekv",
+    "names": [
+      "elekv"
+    ],
+    "runs": 1,
+    "bestRank": 500,
+    "worstRank": 500,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5269367,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 500,
+        "ms": 5269367,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "d11de482-a0f9-4333-bd12-61ab7c9020cf",
     "persona": "Dendrytes",
     "names": [
@@ -1956,8 +1982,8 @@
       "wjayao"
     ],
     "runs": 1,
-    "bestRank": 270,
-    "worstRank": 270,
+    "bestRank": 336,
+    "worstRank": 336,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 270,
+        "rank": 336,
         "ms": 4205686,
         "dish": "Fish"
       }

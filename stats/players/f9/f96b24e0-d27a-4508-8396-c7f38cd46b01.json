@@ -4,7 +4,7 @@
   "names": [
     "Ely"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 20,
   "worstRank": 478,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     41,
     64,
     66,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 86,
       "ms": 1505570,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 31,
+      "ms": 2050102,
+      "dish": "Fish"
     }
   ]
 }

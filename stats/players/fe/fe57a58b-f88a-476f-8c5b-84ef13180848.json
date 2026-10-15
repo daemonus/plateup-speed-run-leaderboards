@@ -4,7 +4,7 @@
   "names": [
     "stray"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 38,
   "worstRank": 630,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     -66,
     -64,
     -62,
-    44
+    44,
+    92
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 143,
       "ms": 2782510,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 404,
+      "ms": 4613568,
+      "dish": "Fish"
     }
   ]
 }

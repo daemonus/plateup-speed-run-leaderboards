@@ -136,8 +136,8 @@
       "NINW"
     ],
     "runs": 1,
-    "bestRank": 179,
-    "worstRank": 179,
+    "bestRank": 217,
+    "worstRank": 217,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 179,
+        "rank": 217,
         "ms": 3573485,
         "dish": "Fish"
       }
@@ -1300,6 +1300,32 @@
     ]
   },
   {
+    "id": "fd711b53-8f2c-41bf-ba90-66ed377643c8",
+    "persona": "Azekiel01",
+    "names": [
+      "Azekiel01"
+    ],
+    "runs": 1,
+    "bestRank": 135,
+    "worstRank": 135,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3077835,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 135,
+        "ms": 3077835,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fd719ad9-dcb9-46c7-8d77-040219fb88a5",
     "persona": "Purp Scurp",
     "names": [
@@ -1436,12 +1462,12 @@
       "Roguezilla"
     ],
     "runs": 1,
-    "bestRank": 453,
-    "worstRank": 453,
+    "bestRank": 516,
+    "worstRank": 516,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 6813732,
+    "bestMs": 5473625,
     "weeksActive": [
       92
     ],
@@ -1449,8 +1475,8 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 453,
-        "ms": 6813732,
+        "rank": 516,
+        "ms": 5473625,
         "dish": "Fish"
       }
     ]

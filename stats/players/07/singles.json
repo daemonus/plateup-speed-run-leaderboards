@@ -546,6 +546,32 @@
     ]
   },
   {
+    "id": "0720dbc9-3576-4c3d-9fc8-d27e2dd33297",
+    "persona": "Crispy",
+    "names": [
+      "Crispy"
+    ],
+    "runs": 1,
+    "bestRank": 268,
+    "worstRank": 268,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3878806,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 268,
+        "ms": 3878806,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0722059d-e98b-43d9-ab3d-8ec526547f00",
     "persona": "Blue_V01D",
     "names": [
@@ -2320,8 +2346,8 @@
       "\u611B\u7D20\u8089\u7684\u68D2\u7537\u5B69"
     ],
     "runs": 1,
-    "bestRank": 85,
-    "worstRank": 85,
+    "bestRank": 101,
+    "worstRank": 101,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 85,
+        "rank": 101,
         "ms": 2844603,
         "dish": "Fish"
       }

@@ -4,7 +4,7 @@
   "names": [
     "yuik5200"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 213,
   "worstRank": 2038,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -32,
     85,
     88,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 213,
       "ms": 3430666,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 415,
+      "ms": 4653593,
+      "dish": "Fish"
     }
   ]
 }

@@ -266,8 +266,8 @@
       "PEPCOOL"
     ],
     "runs": 1,
-    "bestRank": 363,
-    "worstRank": 363,
+    "bestRank": 464,
+    "worstRank": 464,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -279,7 +279,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 363,
+        "rank": 464,
         "ms": 5029225,
         "dish": "Fish"
       }
@@ -3974,6 +3974,32 @@
         "rank": 839,
         "ms": 5466154,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "d9fabafb-2753-4ddc-9952-b62dd4a737f0",
+    "persona": "\u5C0F\u4E94",
+    "names": [
+      "\u5C0F\u4E94"
+    ],
+    "runs": 1,
+    "bestRank": 579,
+    "worstRank": 579,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6397728,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 579,
+        "ms": 6397728,
+        "dish": "Fish"
       }
     ]
   },

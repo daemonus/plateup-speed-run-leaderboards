@@ -1,5 +1,31 @@
 [
   {
+    "id": "bc010bff-65a4-4609-9788-d7cb2c4df5ae",
+    "persona": "Aster Illya",
+    "names": [
+      "Aster Illya"
+    ],
+    "runs": 1,
+    "bestRank": 374,
+    "worstRank": 374,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4468431,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 374,
+        "ms": 4468431,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "bc04c334-f6cd-402c-a6dc-662480e9d795",
     "persona": "Lil Taco",
     "names": [
@@ -360,32 +386,6 @@
         "rank": 761,
         "ms": 5136590,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "bc2422b3-db73-4d95-a241-baac231b8839",
-    "persona": "ThatBat",
-    "names": [
-      "ThatBat"
-    ],
-    "runs": 1,
-    "bestRank": 197,
-    "worstRank": 197,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3560202,
-    "weeksActive": [
-      70
-    ],
-    "history": [
-      {
-        "week": 70,
-        "start": "2026-05-11",
-        "rank": 197,
-        "ms": 3560202,
-        "dish": "Hot Dogs"
       }
     ]
   },
@@ -1280,8 +1280,8 @@
       "420goalmaster"
     ],
     "runs": 1,
-    "bestRank": 305,
-    "worstRank": 305,
+    "bestRank": 389,
+    "worstRank": 389,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 305,
+        "rank": 389,
         "ms": 4546536,
         "dish": "Fish"
       }

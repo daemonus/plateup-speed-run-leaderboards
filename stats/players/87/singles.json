@@ -370,8 +370,8 @@
       "Choco"
     ],
     "runs": 1,
-    "bestRank": 153,
-    "worstRank": 153,
+    "bestRank": 185,
+    "worstRank": 185,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 153,
+        "rank": 185,
         "ms": 3387431,
         "dish": "Fish"
       }
@@ -3246,6 +3246,32 @@
         "rank": 582,
         "ms": 4554432,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "87fb7f1b-0fa4-4aca-9d37-0f3fd9cccc61",
+    "persona": "\u5919\u8C85",
+    "names": [
+      "\u5919\u8C85"
+    ],
+    "runs": 1,
+    "bestRank": 513,
+    "worstRank": 513,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5458740,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 513,
+        "ms": 5458740,
+        "dish": "Fish"
       }
     ]
   },

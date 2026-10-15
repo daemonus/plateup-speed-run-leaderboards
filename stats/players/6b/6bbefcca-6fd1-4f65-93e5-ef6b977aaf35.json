@@ -4,7 +4,7 @@
   "names": [
     "Kaiyumari"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 189,
   "worstRank": 352,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     55,
     56,
-    58
+    58,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 350,
       "ms": 3373454,
       "dish": "Turkey"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 306,
+      "ms": 4061457,
+      "dish": "Fish"
     }
   ]
 }

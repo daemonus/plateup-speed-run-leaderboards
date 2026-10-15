@@ -2080,32 +2080,6 @@
     ]
   },
   {
-    "id": "899efc6e-eb09-49ac-9a8d-0729d01f45a5",
-    "persona": "CHOCOLATTHUNDA6",
-    "names": [
-      "CHOCOLATTHUNDA6"
-    ],
-    "runs": 1,
-    "bestRank": 256,
-    "worstRank": 256,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2125473,
-    "weeksActive": [
-      84
-    ],
-    "history": [
-      {
-        "week": 84,
-        "start": "2026-08-17",
-        "rank": 256,
-        "ms": 2125473,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "89a0db96-551c-42a5-a55b-75881b919051",
     "persona": "Odreysaurus",
     "names": [
@@ -3438,8 +3412,8 @@
       "R0cketStars"
     ],
     "runs": 1,
-    "bestRank": 34,
-    "worstRank": 34,
+    "bestRank": 39,
+    "worstRank": 39,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3451,7 +3425,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 34,
+        "rank": 39,
         "ms": 2154510,
         "dish": "Fish"
       }

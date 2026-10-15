@@ -1410,8 +1410,8 @@
       "Schwester Tester"
     ],
     "runs": 1,
-    "bestRank": 112,
-    "worstRank": 112,
+    "bestRank": 130,
+    "worstRank": 130,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 112,
+        "rank": 130,
         "ms": 3053500,
         "dish": "Fish"
       }
@@ -2580,8 +2580,8 @@
       "chqd\u0027s\u0027b"
     ],
     "runs": 1,
-    "bestRank": 298,
-    "worstRank": 298,
+    "bestRank": 381,
+    "worstRank": 381,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2593,7 +2593,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 298,
+        "rank": 381,
         "ms": 4508292,
         "dish": "Fish"
       }
@@ -3220,6 +3220,32 @@
         "rank": 574,
         "ms": 3944255,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "52f2b296-1377-4ce8-9956-99f4e9c42091",
+    "persona": "\u77F3\u4E0A\u4E09\u5E74.",
+    "names": [
+      "\u77F3\u4E0A\u4E09\u5E74."
+    ],
+    "runs": 1,
+    "bestRank": 377,
+    "worstRank": 377,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4478007,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 377,
+        "ms": 4478007,
+        "dish": "Fish"
       }
     ]
   },

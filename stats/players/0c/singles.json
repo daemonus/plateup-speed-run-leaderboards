@@ -604,8 +604,8 @@
       "skagen"
     ],
     "runs": 1,
-    "bestRank": 302,
-    "worstRank": 302,
+    "bestRank": 386,
+    "worstRank": 386,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 302,
+        "rank": 386,
         "ms": 4532763,
         "dish": "Fish"
       }
@@ -1114,6 +1114,32 @@
         "rank": 647,
         "ms": 4321866,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "0c59ca08-2b9e-409b-9f2d-9c5808a4202b",
+    "persona": "Victor Papa",
+    "names": [
+      "Victor Papa"
+    ],
+    "runs": 1,
+    "bestRank": 492,
+    "worstRank": 492,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5214471,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 492,
+        "ms": 5214471,
+        "dish": "Fish"
       }
     ]
   },

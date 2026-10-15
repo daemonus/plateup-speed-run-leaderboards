@@ -338,6 +338,32 @@
     ]
   },
   {
+    "id": "0a1ee78b-5b07-402b-8f6a-f32074db6f49",
+    "persona": "Ne",
+    "names": [
+      "Ne"
+    ],
+    "runs": 1,
+    "bestRank": 355,
+    "worstRank": 355,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4317888,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 355,
+        "ms": 4317888,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0a216906-9144-4382-865e-15b79160106c",
     "persona": "metria_",
     "names": [
@@ -2684,8 +2710,8 @@
       "yzwd617"
     ],
     "runs": 1,
-    "bestRank": 429,
-    "worstRank": 429,
+    "bestRank": 558,
+    "worstRank": 558,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 429,
+        "rank": 558,
         "ms": 5940539,
         "dish": "Fish"
       }

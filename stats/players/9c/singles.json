@@ -760,8 +760,8 @@
       "tim"
     ],
     "runs": 1,
-    "bestRank": 67,
-    "worstRank": 67,
+    "bestRank": 76,
+    "worstRank": 76,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 67,
+        "rank": 76,
         "ms": 2537069,
         "dish": "Fish"
       }
@@ -1800,8 +1800,8 @@
       "\u767D\u4E01"
     ],
     "runs": 1,
-    "bestRank": 256,
-    "worstRank": 256,
+    "bestRank": 318,
+    "worstRank": 318,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 256,
+        "rank": 318,
         "ms": 4114970,
         "dish": "Fish"
       }
@@ -3220,6 +3220,32 @@
         "rank": 400,
         "ms": 3326586,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "9cf4f1e5-de12-434d-a8d9-a7461bad9d28",
+    "persona": "\u840C\u840C\u6DB5",
+    "names": [
+      "\u840C\u840C\u6DB5"
+    ],
+    "runs": 1,
+    "bestRank": 379,
+    "worstRank": 379,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4489729,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 379,
+        "ms": 4489729,
+        "dish": "Fish"
       }
     ]
   },

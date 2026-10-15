@@ -4,7 +4,7 @@
   "names": [
     "ohflip94"
   ],
-  "runs": 15,
+  "runs": 16,
   "bestRank": 135,
   "worstRank": 634,
   "firstPlaces": 0,
@@ -26,7 +26,8 @@
     63,
     69,
     77,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 634,
       "ms": 3536093,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 247,
+      "ms": 3766595,
+      "dish": "Fish"
     }
   ]
 }

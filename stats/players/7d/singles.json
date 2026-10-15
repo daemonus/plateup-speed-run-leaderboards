@@ -1800,8 +1800,8 @@
       "AutHectation"
     ],
     "runs": 1,
-    "bestRank": 415,
-    "worstRank": 415,
+    "bestRank": 541,
+    "worstRank": 541,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 415,
+        "rank": 541,
         "ms": 5752637,
         "dish": "Fish"
       }
@@ -1842,6 +1842,32 @@
         "rank": 481,
         "ms": 4809177,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "7d8e37ca-a0bd-4821-b14a-fb603626caf7",
+    "persona": "Misuzu",
+    "names": [
+      "Misuzu"
+    ],
+    "runs": 1,
+    "bestRank": 503,
+    "worstRank": 503,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5315643,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 503,
+        "ms": 5315643,
+        "dish": "Fish"
       }
     ]
   },

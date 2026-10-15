@@ -1,0 +1,34 @@
+{
+  "id": "3321493b-0693-4a15-ba22-9ee36d7ca074",
+  "persona": "Litho",
+  "names": [
+    "Litho"
+  ],
+  "runs": 2,
+  "bestRank": 518,
+  "worstRank": 634,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5489626,
+  "weeksActive": [
+    31,
+    92
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 634,
+      "ms": 15967000,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 518,
+      "ms": 5489626,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -4,8 +4,8 @@
   "names": [
     "PersnicketyPace"
   ],
-  "runs": 24,
-  "bestRank": 110,
+  "runs": 25,
+  "bestRank": 96,
   "worstRank": 359,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 218,
       "ms": 4820711,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 96,
+      "ms": 2827312,
+      "dish": "Fish"
     }
   ]
 }

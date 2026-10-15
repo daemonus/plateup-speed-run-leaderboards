@@ -572,6 +572,32 @@
     ]
   },
   {
+    "id": "3a318589-b9d8-40ea-91ce-d6b1fbccfe8f",
+    "persona": "jadbre02",
+    "names": [
+      "jadbre02"
+    ],
+    "runs": 1,
+    "bestRank": 86,
+    "worstRank": 86,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2681579,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 86,
+        "ms": 2681579,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "3a36594a-e019-4e2b-9d5b-07d61d4edb6b",
     "persona": "\u837C\u837C",
     "names": [
@@ -682,8 +708,8 @@
       "Elise"
     ],
     "runs": 1,
-    "bestRank": 253,
-    "worstRank": 253,
+    "bestRank": 315,
+    "worstRank": 315,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 253,
+        "rank": 315,
         "ms": 4087046,
         "dish": "Fish"
       }

@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "681d40c6-8277-4499-b72a-f1703aa1c188",
+    "persona": "Boptic",
+    "names": [
+      "Boptic"
+    ],
+    "runs": 1,
+    "bestRank": 475,
+    "worstRank": 475,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5098197,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 475,
+        "ms": 5098197,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6820fedd-edde-4601-a793-c492de7a834d",
     "persona": "jonny honung",
     "names": [
@@ -1514,8 +1540,8 @@
       "Elina"
     ],
     "runs": 1,
-    "bestRank": 375,
-    "worstRank": 375,
+    "bestRank": 478,
+    "worstRank": 478,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 375,
+        "rank": 478,
         "ms": 5108677,
         "dish": "Fish"
       }
@@ -1852,8 +1878,8 @@
       "SideEyeBadger"
     ],
     "runs": 1,
-    "bestRank": 241,
-    "worstRank": 241,
+    "bestRank": 300,
+    "worstRank": 300,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1891,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 241,
+        "rank": 300,
         "ms": 4033701,
         "dish": "Fish"
       }
@@ -2216,8 +2242,8 @@
       "azklol"
     ],
     "runs": 1,
-    "bestRank": 356,
-    "worstRank": 356,
+    "bestRank": 457,
+    "worstRank": 457,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2255,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 356,
+        "rank": 457,
         "ms": 4951541,
         "dish": "Fish"
       }
@@ -2674,6 +2700,32 @@
         "rank": 927,
         "ms": 4455336,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "68ea2379-c61d-46a5-8149-ecb1fd3a99ec",
+    "persona": "Samoosa",
+    "names": [
+      "Samoosa"
+    ],
+    "runs": 1,
+    "bestRank": 283,
+    "worstRank": 283,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3939041,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 283,
+        "ms": 3939041,
+        "dish": "Fish"
       }
     ]
   },

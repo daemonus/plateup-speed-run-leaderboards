@@ -2294,8 +2294,8 @@
       "tygongshen"
     ],
     "runs": 1,
-    "bestRank": 433,
-    "worstRank": 433,
+    "bestRank": 561,
+    "worstRank": 561,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 433,
+        "rank": 561,
         "ms": 6012415,
         "dish": "Fish"
       }
@@ -3350,6 +3350,32 @@
         "rank": 531,
         "ms": 5677030,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "6af3f3ec-7fcd-459d-b785-6289ddfdde73",
+    "persona": "\u3070\u304D\u305F\u3081",
+    "names": [
+      "\u3070\u304D\u305F\u3081"
+    ],
+    "runs": 1,
+    "bestRank": 284,
+    "worstRank": 284,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3944049,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 284,
+        "ms": 3944049,
+        "dish": "Fish"
       }
     ]
   },

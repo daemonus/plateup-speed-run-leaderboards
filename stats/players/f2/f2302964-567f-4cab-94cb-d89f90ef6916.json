@@ -4,8 +4,8 @@
   "names": [
     "Getsuga Tenshou"
   ],
-  "runs": 2,
-  "bestRank": 216,
+  "runs": 3,
+  "bestRank": 181,
   "worstRank": 296,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 1990893,
   "weeksActive": [
     84,
-    85
+    85,
+    92
   ],
   "history": [
     {
@@ -28,6 +29,13 @@
       "start": "2026-08-24",
       "rank": 296,
       "ms": 3629606,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 181,
+      "ms": 3367399,
       "dish": "Fish"
     }
   ]

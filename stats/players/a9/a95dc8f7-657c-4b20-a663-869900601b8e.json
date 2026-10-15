@@ -4,7 +4,7 @@
   "names": [
     "CurviouslyJen"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 23,
   "worstRank": 608,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     -32,
     -26,
     -11,
-    6
+    6,
+    92
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 43,
       "ms": 2343360,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 108,
+      "ms": 2878005,
+      "dish": "Fish"
     }
   ]
 }

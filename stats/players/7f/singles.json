@@ -1956,12 +1956,12 @@
       "Stellar"
     ],
     "runs": 1,
-    "bestRank": 431,
-    "worstRank": 431,
+    "bestRank": 376,
+    "worstRank": 376,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 5967742,
+    "bestMs": 4477820,
     "weeksActive": [
       92
     ],
@@ -1969,8 +1969,8 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 431,
-        "ms": 5967742,
+        "rank": 376,
+        "ms": 4477820,
         "dish": "Fish"
       }
     ]
@@ -3324,6 +3324,32 @@
         "rank": 146,
         "ms": 2482816,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "7ff00f6c-d971-4daf-8282-1008efd73f57",
+    "persona": "apple54",
+    "names": [
+      "apple54"
+    ],
+    "runs": 1,
+    "bestRank": 176,
+    "worstRank": 176,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3329374,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 176,
+        "ms": 3329374,
+        "dish": "Fish"
       }
     ]
   },

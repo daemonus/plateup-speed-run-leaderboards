@@ -4,7 +4,7 @@
   "names": [
     "HeyKare"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 53,
   "worstRank": 296,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -30,
     -29,
     -2,
-    59
+    59,
+    92
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 293,
       "ms": 3753852,
       "dish": "Salad"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 157,
+      "ms": 3201239,
+      "dish": "Fish"
     }
   ]
 }

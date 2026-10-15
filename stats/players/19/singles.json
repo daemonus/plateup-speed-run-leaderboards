@@ -2158,6 +2158,32 @@
     ]
   },
   {
+    "id": "19b0489f-56cb-46b1-a869-92f86a121d0b",
+    "persona": "Abs",
+    "names": [
+      "Abs"
+    ],
+    "runs": 1,
+    "bestRank": 390,
+    "worstRank": 390,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4556762,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 390,
+        "ms": 4556762,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "19b1ab09-301c-47d3-992a-8f813fe64cf8",
     "persona": "Wallaby",
     "names": [
@@ -2788,8 +2814,8 @@
       "\u8D77\u73A9"
     ],
     "runs": 1,
-    "bestRank": 385,
-    "worstRank": 385,
+    "bestRank": 493,
+    "worstRank": 493,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2827,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 385,
+        "rank": 493,
         "ms": 5226573,
         "dish": "Fish"
       }

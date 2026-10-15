@@ -994,8 +994,8 @@
       "TheTempest05"
     ],
     "runs": 1,
-    "bestRank": 244,
-    "worstRank": 244,
+    "bestRank": 303,
+    "worstRank": 303,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1007,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 244,
+        "rank": 303,
         "ms": 4045799,
         "dish": "Fish"
       }
@@ -3298,6 +3298,32 @@
         "rank": 410,
         "ms": 3415863,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "37f40146-01c4-41d6-b987-43150f098c8b",
+    "persona": "Tim_Artem",
+    "names": [
+      "Tim_Artem"
+    ],
+    "runs": 1,
+    "bestRank": 209,
+    "worstRank": 209,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3517361,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 209,
+        "ms": 3517361,
+        "dish": "Fish"
       }
     ]
   },

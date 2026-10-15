@@ -1332,8 +1332,8 @@
       "ROGUE"
     ],
     "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
+    "bestRank": 320,
+    "worstRank": 320,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 258,
+        "rank": 320,
         "ms": 4121415,
         "dish": "Fish"
       }
@@ -1556,6 +1556,32 @@
         "rank": 295,
         "ms": 4007306,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "b378ebf4-aba1-4547-a1e0-8075c418d8cc",
+    "persona": "\u53EA\u4F1A\u9760\u961F\u53CB\u7684\u5B95\u673A\u5927\u8111",
+    "names": [
+      "\u53EA\u4F1A\u9760\u961F\u53CB\u7684\u5B95\u673A\u5927\u8111"
+    ],
+    "runs": 1,
+    "bestRank": 305,
+    "worstRank": 305,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4055931,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 305,
+        "ms": 4055931,
+        "dish": "Fish"
       }
     ]
   },
@@ -1790,6 +1816,32 @@
         "rank": 1107,
         "ms": 4790192,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "b381ec11-6140-41b9-bf57-a1736fdfbc03",
+    "persona": "didoudugame",
+    "names": [
+      "didoudugame"
+    ],
+    "runs": 1,
+    "bestRank": 455,
+    "worstRank": 455,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4935819,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 455,
+        "ms": 4935819,
+        "dish": "Fish"
       }
     ]
   },
@@ -3204,8 +3256,8 @@
       "asdf_yep"
     ],
     "runs": 1,
-    "bestRank": 379,
-    "worstRank": 379,
+    "bestRank": 484,
+    "worstRank": 484,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3217,7 +3269,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 379,
+        "rank": 484,
         "ms": 5138193,
         "dish": "Fish"
       }

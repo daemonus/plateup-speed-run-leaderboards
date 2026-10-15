@@ -2808,6 +2808,32 @@
     ]
   },
   {
+    "id": "72cf3a5b-0168-4c35-858b-5585feee6e22",
+    "persona": "brigugg",
+    "names": [
+      "brigugg"
+    ],
+    "runs": 1,
+    "bestRank": 75,
+    "worstRank": 75,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2524722,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 75,
+        "ms": 2524722,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "72d16acf-5d61-4215-9a0f-c1298fd1c486",
     "persona": "TheOne\u0026Only",
     "names": [
@@ -3334,8 +3360,8 @@
       "KaiShiShi"
     ],
     "runs": 1,
-    "bestRank": 470,
-    "worstRank": 470,
+    "bestRank": 608,
+    "worstRank": 608,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3347,7 +3373,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 470,
+        "rank": 608,
         "ms": 10027286,
         "dish": "Fish"
       }

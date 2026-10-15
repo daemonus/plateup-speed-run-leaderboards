@@ -422,8 +422,8 @@
       "ecejeff"
     ],
     "runs": 1,
-    "bestRank": 311,
-    "worstRank": 311,
+    "bestRank": 398,
+    "worstRank": 398,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 311,
+        "rank": 398,
         "ms": 4588476,
         "dish": "Fish"
       }
@@ -594,6 +594,32 @@
         "rank": 256,
         "ms": 3299596,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "f3335412-9608-4b7c-be5c-e00970ccee07",
+    "persona": "sweety0618",
+    "names": [
+      "sweety0618"
+    ],
+    "runs": 1,
+    "bestRank": 568,
+    "worstRank": 568,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6163841,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 568,
+        "ms": 6163841,
+        "dish": "Fish"
       }
     ]
   },

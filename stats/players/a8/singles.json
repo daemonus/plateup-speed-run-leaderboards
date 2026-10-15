@@ -318,8 +318,8 @@
       "\u5916\u745E\u5948\u65AF"
     ],
     "runs": 1,
-    "bestRank": 228,
-    "worstRank": 228,
+    "bestRank": 281,
+    "worstRank": 281,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 228,
+        "rank": 281,
         "ms": 3913534,
         "dish": "Fish"
       }
@@ -448,8 +448,8 @@
       "Th0ny1312"
     ],
     "runs": 1,
-    "bestRank": 357,
-    "worstRank": 357,
+    "bestRank": 458,
+    "worstRank": 458,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 357,
+        "rank": 458,
         "ms": 4959821,
         "dish": "Fish"
       }
@@ -1062,6 +1062,32 @@
         "rank": 669,
         "ms": 3546435,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "a83e63e0-3123-4d6c-bbe9-42444b56fdb2",
+    "persona": "Henry",
+    "names": [
+      "Henry"
+    ],
+    "runs": 1,
+    "bestRank": 275,
+    "worstRank": 275,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3903034,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 275,
+        "ms": 3903034,
+        "dish": "Fish"
       }
     ]
   },

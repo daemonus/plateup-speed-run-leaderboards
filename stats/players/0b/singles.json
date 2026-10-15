@@ -240,8 +240,8 @@
       "sonicbigboom"
     ],
     "runs": 1,
-    "bestRank": 96,
-    "worstRank": 96,
+    "bestRank": 113,
+    "worstRank": 113,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -253,7 +253,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 96,
+        "rank": 113,
         "ms": 2935467,
         "dish": "Fish"
       }
@@ -308,6 +308,32 @@
         "rank": 424,
         "ms": 6350294,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "0b11642c-7e91-4113-9b88-f6bdc00cee1c",
+    "persona": "\u5348\u591C\u5FC3\u788E\u73AB\u7470",
+    "names": [
+      "\u5348\u591C\u5FC3\u788E\u73AB\u7470"
+    ],
+    "runs": 1,
+    "bestRank": 384,
+    "worstRank": 384,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4512607,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 384,
+        "ms": 4512607,
+        "dish": "Fish"
       }
     ]
   },
@@ -2424,8 +2450,8 @@
       "\u5076\u9047\u6027\u611F\u6BCD\u868A\u5B50\u534A\u591C\u5BF9\u6211\u53C8\u4EB2\u53C8\u5543"
     ],
     "runs": 1,
-    "bestRank": 234,
-    "worstRank": 234,
+    "bestRank": 292,
+    "worstRank": 292,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2437,7 +2463,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 234,
+        "rank": 292,
         "ms": 3986470,
         "dish": "Fish"
       }

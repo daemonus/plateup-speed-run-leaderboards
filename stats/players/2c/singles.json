@@ -84,8 +84,8 @@
       "John Travolta"
     ],
     "runs": 1,
-    "bestRank": 384,
-    "worstRank": 384,
+    "bestRank": 491,
+    "worstRank": 491,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 384,
+        "rank": 491,
         "ms": 5206136,
         "dish": "Fish"
       }
@@ -1378,6 +1378,32 @@
     ]
   },
   {
+    "id": "2c79ee9e-f898-4fa9-9061-73b06d621e43",
+    "persona": "f. as in f u.",
+    "names": [
+      "f. as in f u."
+    ],
+    "runs": 1,
+    "bestRank": 567,
+    "worstRank": 567,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6156935,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 567,
+        "ms": 6156935,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2c79f0f2-018f-479b-8770-044f438a3345",
     "persona": "Twiga",
     "names": [
@@ -1878,8 +1904,8 @@
       "PendR"
     ],
     "runs": 1,
-    "bestRank": 290,
-    "worstRank": 290,
+    "bestRank": 367,
+    "worstRank": 367,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 290,
+        "rank": 367,
         "ms": 4408339,
         "dish": "Fish"
       }

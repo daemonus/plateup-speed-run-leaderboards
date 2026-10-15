@@ -1956,8 +1956,8 @@
       "Space Cadet"
     ],
     "runs": 1,
-    "bestRank": 180,
-    "worstRank": 180,
+    "bestRank": 218,
+    "worstRank": 218,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1969,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 180,
+        "rank": 218,
         "ms": 3604217,
         "dish": "Fish"
       }
@@ -2024,6 +2024,32 @@
         "rank": 350,
         "ms": 5163780,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "c1cdf655-2a63-42d4-99b9-21ea879b62de",
+    "persona": "\u8611\u83C7\u4E0D\u662F\u690D\u7269",
+    "names": [
+      "\u8611\u83C7\u4E0D\u662F\u690D\u7269"
+    ],
+    "runs": 1,
+    "bestRank": 350,
+    "worstRank": 350,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4295116,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 350,
+        "ms": 4295116,
+        "dish": "Fish"
       }
     ]
   },
@@ -2086,8 +2112,8 @@
       "Haux023"
     ],
     "runs": 1,
-    "bestRank": 307,
-    "worstRank": 307,
+    "bestRank": 392,
+    "worstRank": 392,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 307,
+        "rank": 392,
         "ms": 4566711,
         "dish": "Fish"
       }

@@ -474,8 +474,8 @@
       "ghostface\u0027s wife"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 245,
+    "worstRank": 245,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 202,
+        "rank": 245,
         "ms": 3758658,
         "dish": "Fish"
       }
@@ -1841,6 +1841,32 @@
         "start": "2023-03-27",
         "rank": 2691,
         "ms": 3945530,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "de94b82c-2604-4353-9d3a-d4ae43551518",
+    "persona": "CPRV",
+    "names": [
+      "CPRV"
+    ],
+    "runs": 1,
+    "bestRank": 555,
+    "worstRank": 555,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5914128,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 555,
+        "ms": 5914128,
         "dish": "Fish"
       }
     ]

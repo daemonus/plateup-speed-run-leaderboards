@@ -4,7 +4,7 @@
   "names": [
     "[VII] Cpt. Nezbus [6th Co.]"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 47,
   "worstRank": 286,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     83,
     84,
     85,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 60,
       "ms": 1376200,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 57,
+      "ms": 2375328,
+      "dish": "Fish"
     }
   ]
 }

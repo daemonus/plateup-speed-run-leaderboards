@@ -1358,8 +1358,8 @@
       "KaitMay"
     ],
     "runs": 1,
-    "bestRank": 249,
-    "worstRank": 249,
+    "bestRank": 311,
+    "worstRank": 311,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 249,
+        "rank": 311,
         "ms": 4075530,
         "dish": "Fish"
       }
@@ -1560,6 +1560,32 @@
     ]
   },
   {
+    "id": "9e6f4159-15d6-47b7-a2c9-ed29256b5c1a",
+    "persona": "Ei.",
+    "names": [
+      "Ei."
+    ],
+    "runs": 1,
+    "bestRank": 488,
+    "worstRank": 488,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5163702,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 488,
+        "ms": 5163702,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "9e74fee0-0479-4dc5-9a82-4539a65ea9b0",
     "persona": "W1ldcard",
     "names": [
@@ -1634,6 +1660,32 @@
         "rank": 480,
         "ms": 4840562,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "9e7a3d0f-4cf5-4814-b633-dabd6364528d",
+    "persona": "\u6CA1\u6709\u957F\u8033\u6735\u7684\u5154\u82B7",
+    "names": [
+      "\u6CA1\u6709\u957F\u8033\u6735\u7684\u5154\u82B7"
+    ],
+    "runs": 1,
+    "bestRank": 525,
+    "worstRank": 525,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5548874,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 525,
+        "ms": 5548874,
+        "dish": "Fish"
       }
     ]
   },
@@ -2476,8 +2528,8 @@
       "Matthew"
     ],
     "runs": 1,
-    "bestRank": 291,
-    "worstRank": 291,
+    "bestRank": 368,
+    "worstRank": 368,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2541,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 291,
+        "rank": 368,
         "ms": 4422342,
         "dish": "Fish"
       }

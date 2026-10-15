@@ -598,6 +598,32 @@
     ]
   },
   {
+    "id": "d0253dd5-0c61-4d8d-8e33-452195fad7bd",
+    "persona": "Benis",
+    "names": [
+      "Benis"
+    ],
+    "runs": 1,
+    "bestRank": 326,
+    "worstRank": 326,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4161308,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 326,
+        "ms": 4161308,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "d027e595-9283-46d6-aa9e-edaec569b935",
     "persona": "BigBeiner",
     "names": [
@@ -2882,6 +2908,32 @@
         "rank": 572,
         "ms": 4445046,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "d0c3a7b5-bba2-4a4b-b0f0-40eacc5bff88",
+    "persona": "\u4E09\u5C81\u7684\u7535\u7ADE\u65E5\u5E38",
+    "names": [
+      "\u4E09\u5C81\u7684\u7535\u7ADE\u65E5\u5E38"
+    ],
+    "runs": 1,
+    "bestRank": 351,
+    "worstRank": 351,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4299951,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 351,
+        "ms": 4299951,
+        "dish": "Fish"
       }
     ]
   },

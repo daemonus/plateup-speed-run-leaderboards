@@ -1118,6 +1118,32 @@
     ]
   },
   {
+    "id": "825da891-50ab-459b-a800-707ce9088f61",
+    "persona": "DaDayo",
+    "names": [
+      "DaDayo"
+    ],
+    "runs": 1,
+    "bestRank": 219,
+    "worstRank": 219,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3606805,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 219,
+        "ms": 3606805,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "825ed779-b737-4ef4-a66c-7664f13c0e7a",
     "persona": "anxietycat",
     "names": [
@@ -2398,8 +2424,8 @@
       "chulaide"
     ],
     "runs": 1,
-    "bestRank": 260,
-    "worstRank": 260,
+    "bestRank": 323,
+    "worstRank": 323,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 260,
+        "rank": 323,
         "ms": 4146576,
         "dish": "Fish"
       }

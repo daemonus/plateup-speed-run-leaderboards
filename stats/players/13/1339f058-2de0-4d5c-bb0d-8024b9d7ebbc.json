@@ -4,7 +4,7 @@
   "names": [
     "Lenikun"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 299,
   "worstRank": 663,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     80,
     82,
     83,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 587,
       "ms": 4138533,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 531,
+      "ms": 5578019,
+      "dish": "Fish"
     }
   ]
 }

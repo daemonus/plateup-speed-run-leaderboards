@@ -110,8 +110,8 @@
       "Doink"
     ],
     "runs": 1,
-    "bestRank": 459,
-    "worstRank": 459,
+    "bestRank": 595,
+    "worstRank": 595,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 459,
+        "rank": 595,
         "ms": 6984681,
         "dish": "Fish"
       }
@@ -360,6 +360,32 @@
         "rank": 797,
         "ms": 3192708,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "e0158351-60cd-45be-b359-d331567ed8aa",
+    "persona": "\u52A8\u529B\u7237\u7237",
+    "names": [
+      "\u52A8\u529B\u7237\u7237"
+    ],
+    "runs": 1,
+    "bestRank": 321,
+    "worstRank": 321,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4130023,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 321,
+        "ms": 4130023,
+        "dish": "Fish"
       }
     ]
   },

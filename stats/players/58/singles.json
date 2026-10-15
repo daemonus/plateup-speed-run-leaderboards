@@ -1176,8 +1176,8 @@
       "\u521822222\u5409"
     ],
     "runs": 1,
-    "bestRank": 186,
-    "worstRank": 186,
+    "bestRank": 226,
+    "worstRank": 226,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 186,
+        "rank": 226,
         "ms": 3632056,
         "dish": "Fish"
       }
@@ -3089,6 +3089,32 @@
         "start": "2025-11-03",
         "rank": 407,
         "ms": 3117744,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "58f2180d-e8f3-4ae0-b98e-127a02da9f4d",
+    "persona": "phupha11047",
+    "names": [
+      "phupha11047"
+    ],
+    "runs": 1,
+    "bestRank": 343,
+    "worstRank": 343,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4245525,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 343,
+        "ms": 4245525,
         "dish": "Fish"
       }
     ]

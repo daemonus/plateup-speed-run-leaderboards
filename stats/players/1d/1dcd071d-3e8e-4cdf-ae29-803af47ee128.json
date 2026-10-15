@@ -4,7 +4,7 @@
   "names": [
     "Impetuous"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 31,
   "worstRank": 242,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     21,
     24,
     28,
-    57
+    57,
+    92
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 131,
       "ms": 2790141,
       "dish": "Salad"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 69,
+      "ms": 2491118,
+      "dish": "Fish"
     }
   ]
 }

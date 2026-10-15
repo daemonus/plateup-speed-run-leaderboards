@@ -884,6 +884,32 @@
     ]
   },
   {
+    "id": "ea4da738-0be8-4426-a036-babe16ecc367",
+    "persona": "\u7231\u73A9\u7684\u5DE6\u79CB",
+    "names": [
+      "\u7231\u73A9\u7684\u5DE6\u79CB"
+    ],
+    "runs": 1,
+    "bestRank": 262,
+    "worstRank": 262,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3842076,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 262,
+        "ms": 3842076,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ea4e808e-6cf1-4e11-86ec-84238228c23f",
     "persona": "Kellzy",
     "names": [
@@ -2751,6 +2777,32 @@
         "start": "2025-01-27",
         "rank": 433,
         "ms": 3645411,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "eaddadee-a244-4a5f-b131-16af2ad40f4d",
+    "persona": "camel99",
+    "names": [
+      "camel99"
+    ],
+    "runs": 1,
+    "bestRank": 496,
+    "worstRank": 496,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5240091,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 496,
+        "ms": 5240091,
         "dish": "Fish"
       }
     ]

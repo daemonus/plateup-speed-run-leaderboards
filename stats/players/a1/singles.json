@@ -552,8 +552,8 @@
       "Mawshine"
     ],
     "runs": 1,
-    "bestRank": 193,
-    "worstRank": 193,
+    "bestRank": 233,
+    "worstRank": 233,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 193,
+        "rank": 233,
         "ms": 3682435,
         "dish": "Fish"
       }
@@ -3428,6 +3428,32 @@
         "rank": 236,
         "ms": 2813502,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "a1eefa59-b262-4156-bab5-ad43a6f7bef5",
+    "persona": "nikutanz",
+    "names": [
+      "nikutanz"
+    ],
+    "runs": 1,
+    "bestRank": 309,
+    "worstRank": 309,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4072099,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 309,
+        "ms": 4072099,
+        "dish": "Fish"
       }
     ]
   },

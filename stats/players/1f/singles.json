@@ -6,8 +6,8 @@
       "Nini"
     ],
     "runs": 1,
-    "bestRank": 461,
-    "worstRank": 461,
+    "bestRank": 597,
+    "worstRank": 597,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 461,
+        "rank": 597,
         "ms": 7066865,
         "dish": "Fish"
       }
@@ -984,6 +984,32 @@
         "rank": 132,
         "ms": 2585292,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "1f55222b-dd4d-4c13-a0e0-3518fbca5084",
+    "persona": "1470688721",
+    "names": [
+      "1470688721"
+    ],
+    "runs": 1,
+    "bestRank": 372,
+    "worstRank": 372,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4451359,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 372,
+        "ms": 4451359,
+        "dish": "Fish"
       }
     ]
   },
@@ -1976,6 +2002,32 @@
     ]
   },
   {
+    "id": "1fb4759a-cb70-4f46-816d-9bee449a2fa6",
+    "persona": "Yui",
+    "names": [
+      "Yui"
+    ],
+    "runs": 1,
+    "bestRank": 613,
+    "worstRank": 613,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 22299615,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 613,
+        "ms": 22299615,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "1fb4ba07-0ff8-434d-9a9a-7c5055a0b7d5",
     "persona": "DarylDixon42095",
     "names": [
@@ -2164,8 +2216,8 @@
       "\u4E8C\u6854"
     ],
     "runs": 1,
-    "bestRank": 327,
-    "worstRank": 327,
+    "bestRank": 420,
+    "worstRank": 420,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2177,7 +2229,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 327,
+        "rank": 420,
         "ms": 4685519,
         "dish": "Fish"
       }

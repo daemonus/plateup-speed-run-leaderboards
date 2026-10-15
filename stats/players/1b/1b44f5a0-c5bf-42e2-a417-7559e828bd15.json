@@ -4,7 +4,7 @@
   "names": [
     "sharonterhaar94"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 111,
   "worstRank": 530,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     86,
     87,
     88,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 206,
       "ms": 4514092,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 153,
+      "ms": 3169691,
+      "dish": "Fish"
     }
   ]
 }

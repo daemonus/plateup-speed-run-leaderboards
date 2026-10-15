@@ -448,8 +448,8 @@
       "Zack"
     ],
     "runs": 1,
-    "bestRank": 383,
-    "worstRank": 383,
+    "bestRank": 490,
+    "worstRank": 490,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 383,
+        "rank": 490,
         "ms": 5182349,
         "dish": "Fish"
       }
@@ -1800,8 +1800,8 @@
       "Warrior Duchess"
     ],
     "runs": 1,
-    "bestRank": 401,
-    "worstRank": 401,
+    "bestRank": 522,
+    "worstRank": 522,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 401,
+        "rank": 522,
         "ms": 5533486,
         "dish": "Fish"
       }
@@ -2934,6 +2934,32 @@
         "rank": 224,
         "ms": 4978782,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "2ff100ff-dcf4-4b3e-853d-3cfcd48a5e15",
+    "persona": "\u522B\u4E71\u4E22\u884C\u4E0D\u884C",
+    "names": [
+      "\u522B\u4E71\u4E22\u884C\u4E0D\u884C"
+    ],
+    "runs": 1,
+    "bestRank": 395,
+    "worstRank": 395,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4581744,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 395,
+        "ms": 4581744,
+        "dish": "Fish"
       }
     ]
   },

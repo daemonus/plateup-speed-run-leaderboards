@@ -292,8 +292,8 @@
       "Alexx_Jen"
     ],
     "runs": 1,
-    "bestRank": 191,
-    "worstRank": 191,
+    "bestRank": 231,
+    "worstRank": 231,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 191,
+        "rank": 231,
         "ms": 3681249,
         "dish": "Fish"
       }
@@ -2086,8 +2086,8 @@
       "\uD835\uDD6F\uD835\uDD8E\uD835\uDD86\uD835\uDD87\uD835\uDD91\uD835\uDD94"
     ],
     "runs": 1,
-    "bestRank": 237,
-    "worstRank": 237,
+    "bestRank": 296,
+    "worstRank": 296,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 237,
+        "rank": 296,
         "ms": 4008547,
         "dish": "Fish"
       }
@@ -2413,6 +2413,32 @@
         "start": "2026-01-05",
         "rank": 471,
         "ms": 3582070,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "e7ae52ff-af50-4a0e-ae2e-8778ce9aba40",
+    "persona": "Sable",
+    "names": [
+      "Sable"
+    ],
+    "runs": 1,
+    "bestRank": 165,
+    "worstRank": 165,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3235102,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 165,
+        "ms": 3235102,
         "dish": "Fish"
       }
     ]

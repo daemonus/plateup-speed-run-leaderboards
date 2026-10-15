@@ -656,8 +656,8 @@
       "douziya_2023"
     ],
     "runs": 1,
-    "bestRank": 285,
-    "worstRank": 285,
+    "bestRank": 359,
+    "worstRank": 359,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 285,
+        "rank": 359,
         "ms": 4339969,
         "dish": "Fish"
       }
@@ -1426,6 +1426,32 @@
         "rank": 496,
         "ms": 4279409,
         "dish": "Steak"
+      }
+    ]
+  },
+  {
+    "id": "dc5e1757-6066-42d6-8564-299035aee155",
+    "persona": "joidsnc",
+    "names": [
+      "joidsnc"
+    ],
+    "runs": 1,
+    "bestRank": 599,
+    "worstRank": 599,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7245350,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 599,
+        "ms": 7245350,
+        "dish": "Fish"
       }
     ]
   },

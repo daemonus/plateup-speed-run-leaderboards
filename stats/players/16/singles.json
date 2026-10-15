@@ -760,8 +760,8 @@
       "Crudster"
     ],
     "runs": 1,
-    "bestRank": 457,
-    "worstRank": 457,
+    "bestRank": 593,
+    "worstRank": 593,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 457,
+        "rank": 593,
         "ms": 6910550,
         "dish": "Fish"
       }
@@ -1592,8 +1592,8 @@
       "choger.game"
     ],
     "runs": 1,
-    "bestRank": 471,
-    "worstRank": 471,
+    "bestRank": 609,
+    "worstRank": 609,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1605,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 471,
+        "rank": 609,
         "ms": 10053888,
         "dish": "Fish"
       }
@@ -2856,32 +2856,6 @@
         "rank": 187,
         "ms": 2949282,
         "dish": "Pizza"
-      }
-    ]
-  },
-  {
-    "id": "16f8c8d4-8250-4d38-89f5-8e37ef4c448a",
-    "persona": "\u8F6F\u9999",
-    "names": [
-      "\u8F6F\u9999"
-    ],
-    "runs": 1,
-    "bestRank": 205,
-    "worstRank": 205,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4498723,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 205,
-        "ms": 4498723,
-        "dish": "Hot Dogs"
       }
     ]
   },

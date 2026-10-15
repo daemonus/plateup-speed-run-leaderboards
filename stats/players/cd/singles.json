@@ -1852,8 +1852,8 @@
       "adolfzazsa"
     ],
     "runs": 1,
-    "bestRank": 296,
-    "worstRank": 296,
+    "bestRank": 378,
+    "worstRank": 378,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 296,
+        "rank": 378,
         "ms": 4483681,
         "dish": "Fish"
       }
@@ -1878,8 +1878,8 @@
       "AcesUp82"
     ],
     "runs": 1,
-    "bestRank": 197,
-    "worstRank": 197,
+    "bestRank": 238,
+    "worstRank": 238,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1891,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 197,
+        "rank": 238,
         "ms": 3709061,
         "dish": "Fish"
       }
@@ -2388,6 +2388,32 @@
         "rank": 176,
         "ms": 4447826,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "cdca90cf-dd34-4a58-a43c-8957f75a762e",
+    "persona": "Colbalt",
+    "names": [
+      "Colbalt"
+    ],
+    "runs": 1,
+    "bestRank": 526,
+    "worstRank": 526,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5561082,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 526,
+        "ms": 5561082,
+        "dish": "Fish"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "koshian"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 60,
   "worstRank": 102,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 1834258,
   "weeksActive": [
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 102,
       "ms": 3146274,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 92,
+      "ms": 2728128,
+      "dish": "Fish"
     }
   ]
 }

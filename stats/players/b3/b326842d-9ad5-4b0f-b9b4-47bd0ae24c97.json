@@ -4,7 +4,7 @@
   "names": [
     "\u041E\u0440\u0438\u0433\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0412\u041E\u041F"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 274,
   "worstRank": 682,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     41,
     44,
     71,
-    72
+    72,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 281,
       "ms": 3938197,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 448,
+      "ms": 4921360,
+      "dish": "Fish"
     }
   ]
 }
