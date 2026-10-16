@@ -468,6 +468,32 @@
     ]
   },
   {
+    "id": "a11d54f5-ee69-4b9d-852c-27b5113f1cf7",
+    "persona": "Renditen Reik",
+    "names": [
+      "Renditen Reik"
+    ],
+    "runs": 1,
+    "bestRank": 588,
+    "worstRank": 588,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5264469,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 588,
+        "ms": 5264469,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "a124253a-4d89-4973-bfe3-5261315d577f",
     "persona": "Idi Vidi Vici",
     "names": [
@@ -552,8 +578,8 @@
       "Mawshine"
     ],
     "runs": 1,
-    "bestRank": 233,
-    "worstRank": 233,
+    "bestRank": 262,
+    "worstRank": 262,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +591,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 233,
+        "rank": 262,
         "ms": 3682435,
         "dish": "Fish"
       }
@@ -594,6 +620,32 @@
         "rank": 217,
         "ms": 3507990,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "a12d2356-1bb5-4951-8f02-851bbfa417ba",
+    "persona": "\u6C6A\u6C6A\u7231\u5403\u8089",
+    "names": [
+      "\u6C6A\u6C6A\u7231\u5403\u8089"
+    ],
+    "runs": 1,
+    "bestRank": 446,
+    "worstRank": 446,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4500332,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 446,
+        "ms": 4500332,
+        "dish": "Fish"
       }
     ]
   },
@@ -3438,8 +3490,8 @@
       "nikutanz"
     ],
     "runs": 1,
-    "bestRank": 309,
-    "worstRank": 309,
+    "bestRank": 352,
+    "worstRank": 352,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3451,7 +3503,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 309,
+        "rank": 352,
         "ms": 4072099,
         "dish": "Fish"
       }

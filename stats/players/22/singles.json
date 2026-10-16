@@ -338,6 +338,32 @@
     ]
   },
   {
+    "id": "2222ae93-3a7f-4426-9eee-a21ef65f0146",
+    "persona": "Joson",
+    "names": [
+      "Joson"
+    ],
+    "runs": 1,
+    "bestRank": 688,
+    "worstRank": 688,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6434909,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 688,
+        "ms": 6434909,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2222c486-8e44-447b-8e2d-21769298aaf9",
     "persona": "Buling\uFF01",
     "names": [
@@ -1176,8 +1202,8 @@
       "z\u82BD\u82BDa"
     ],
     "runs": 1,
-    "bestRank": 517,
-    "worstRank": 517,
+    "bestRank": 615,
+    "worstRank": 615,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1215,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 517,
+        "rank": 615,
         "ms": 5479671,
         "dish": "Fish"
       }

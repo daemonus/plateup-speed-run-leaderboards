@@ -4,7 +4,7 @@
   "names": [
     "LMG_NeoGeisha"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 78,
   "worstRank": 618,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     12,
     14,
     34,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 241,
       "ms": 3164956,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 228,
+      "ms": 3487722,
+      "dish": "Fish"
     }
   ]
 }

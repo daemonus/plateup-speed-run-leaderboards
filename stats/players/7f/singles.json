@@ -1956,8 +1956,8 @@
       "Stellar"
     ],
     "runs": 1,
-    "bestRank": 376,
-    "worstRank": 376,
+    "bestRank": 439,
+    "worstRank": 439,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1969,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 376,
+        "rank": 439,
         "ms": 4477820,
         "dish": "Fish"
       }
@@ -2413,6 +2413,32 @@
         "start": "2024-09-02",
         "rank": 612,
         "ms": 4540810,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "7fa0e4d1-4836-4a78-9eac-d589a8456095",
+    "persona": "Gloinar",
+    "names": [
+      "Gloinar"
+    ],
+    "runs": 1,
+    "bestRank": 279,
+    "worstRank": 279,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3772877,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 279,
+        "ms": 3772877,
         "dish": "Fish"
       }
     ]
@@ -3334,8 +3360,8 @@
       "apple54"
     ],
     "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
+    "bestRank": 199,
+    "worstRank": 199,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3347,7 +3373,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 176,
+        "rank": 199,
         "ms": 3329374,
         "dish": "Fish"
       }

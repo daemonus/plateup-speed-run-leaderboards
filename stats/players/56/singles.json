@@ -266,8 +266,8 @@
       "LandoXL"
     ],
     "runs": 1,
-    "bestRank": 476,
-    "worstRank": 476,
+    "bestRank": 561,
+    "worstRank": 561,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -279,7 +279,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 476,
+        "rank": 561,
         "ms": 5101554,
         "dish": "Fish"
       }
@@ -1456,6 +1456,32 @@
     ]
   },
   {
+    "id": "5665987a-30f0-4dd5-bb70-20c1fc50e271",
+    "persona": "A\u7CD6\u7CD6\u4E0D\u5403\u7CD6888",
+    "names": [
+      "A\u7CD6\u7CD6\u4E0D\u5403\u7CD6888"
+    ],
+    "runs": 1,
+    "bestRank": 541,
+    "worstRank": 541,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5010092,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 541,
+        "ms": 5010092,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "56665b11-b0be-407a-b6bd-d29f1ebc6f45",
     "persona": "\u4E00\u53E3\u4E00\u4E2A\u5C0F\u7B3C\u5305",
     "names": [
@@ -1514,8 +1540,8 @@
       "sheep59340"
     ],
     "runs": 1,
-    "bestRank": 213,
-    "worstRank": 213,
+    "bestRank": 238,
+    "worstRank": 238,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 213,
+        "rank": 238,
         "ms": 3538702,
         "dish": "Fish"
       }
@@ -1841,6 +1867,32 @@
         "start": "2025-03-03",
         "rank": 738,
         "ms": 3880686,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "567efae7-ed4d-4f20-a78d-73bcc8f9401b",
+    "persona": "Rattle",
+    "names": [
+      "Rattle"
+    ],
+    "runs": 1,
+    "bestRank": 406,
+    "worstRank": 406,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4317365,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 406,
+        "ms": 4317365,
         "dish": "Fish"
       }
     ]
@@ -2788,8 +2840,8 @@
       "Fan"
     ],
     "runs": 1,
-    "bestRank": 304,
-    "worstRank": 304,
+    "bestRank": 344,
+    "worstRank": 344,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2853,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 304,
+        "rank": 344,
         "ms": 4047941,
         "dish": "Fish"
       }

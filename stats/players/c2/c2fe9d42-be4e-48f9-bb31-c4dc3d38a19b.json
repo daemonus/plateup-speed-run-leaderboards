@@ -4,16 +4,17 @@
   "names": [
     "Vanzard"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 253,
-  "worstRank": 255,
+  "worstRank": 522,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 3523591,
   "weeksActive": [
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 255,
       "ms": 6643619,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 522,
+      "ms": 4889141,
+      "dish": "Fish"
     }
   ]
 }

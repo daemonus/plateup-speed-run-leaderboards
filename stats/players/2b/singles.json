@@ -468,6 +468,32 @@
     ]
   },
   {
+    "id": "2b203fd4-46a1-4379-8dca-77273b1f03f9",
+    "persona": "Bart",
+    "names": [
+      "Bart"
+    ],
+    "runs": 1,
+    "bestRank": 679,
+    "worstRank": 679,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6235219,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 679,
+        "ms": 6235219,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2b22aa7a-dff5-4217-8ab6-473c8b245e2d",
     "persona": "SpaceDorito",
     "names": [
@@ -542,6 +568,32 @@
         "rank": 167,
         "ms": 4093904,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "2b2661dd-394a-4a33-9faa-ad085ea25e5d",
+    "persona": "mahony",
+    "names": [
+      "mahony"
+    ],
+    "runs": 1,
+    "bestRank": 486,
+    "worstRank": 486,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4670854,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 486,
+        "ms": 4670854,
+        "dish": "Fish"
       }
     ]
   },
@@ -1410,8 +1462,8 @@
       "Larive"
     ],
     "runs": 1,
-    "bestRank": 342,
-    "worstRank": 342,
+    "bestRank": 391,
+    "worstRank": 391,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1475,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 342,
+        "rank": 391,
         "ms": 4237119,
         "dish": "Fish"
       }

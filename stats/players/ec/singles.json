@@ -1462,8 +1462,8 @@
       "\u5C0F\u6B66"
     ],
     "runs": 1,
-    "bestRank": 590,
-    "worstRank": 590,
+    "bestRank": 699,
+    "worstRank": 699,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1475,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 590,
+        "rank": 699,
         "ms": 6837890,
         "dish": "Fish"
       }
@@ -2268,8 +2268,8 @@
       "subaru impreza wrx sti 2004"
     ],
     "runs": 1,
-    "bestRank": 197,
-    "worstRank": 197,
+    "bestRank": 221,
+    "worstRank": 221,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 197,
+        "rank": 221,
         "ms": 3463292,
         "dish": "Fish"
       }
@@ -3168,6 +3168,32 @@
         "rank": 279,
         "ms": 3679371,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "ecfe929b-7b5d-480d-b83d-e7bc3297ffb7",
+    "persona": "Jin Sakai",
+    "names": [
+      "Jin Sakai"
+    ],
+    "runs": 1,
+    "bestRank": 525,
+    "worstRank": 525,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4907507,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 525,
+        "ms": 4907507,
+        "dish": "Fish"
       }
     ]
   }

@@ -162,8 +162,8 @@
       "\u68EE\u6797\u51B0\u706B\u4EBA\u65E0\u654C\u7248"
     ],
     "runs": 1,
-    "bestRank": 332,
-    "worstRank": 332,
+    "bestRank": 379,
+    "worstRank": 379,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 332,
+        "rank": 379,
         "ms": 4191303,
         "dish": "Fish"
       }
@@ -671,6 +671,32 @@
         "start": "2024-09-23",
         "rank": 423,
         "ms": 3733042,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "a543a7b4-b801-46e1-9d9c-12ca31dd6290",
+    "persona": "ssttv",
+    "names": [
+      "ssttv"
+    ],
+    "runs": 1,
+    "bestRank": 454,
+    "worstRank": 454,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4538125,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 454,
+        "ms": 4538125,
         "dish": "Fish"
       }
     ]

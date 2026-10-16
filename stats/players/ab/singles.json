@@ -84,8 +84,8 @@
       "mystic_ways"
     ],
     "runs": 1,
-    "bestRank": 120,
-    "worstRank": 120,
+    "bestRank": 134,
+    "worstRank": 134,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 120,
+        "rank": 134,
         "ms": 2980781,
         "dish": "Fish"
       }
@@ -906,6 +906,32 @@
         "rank": 648,
         "ms": 7079301,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "ab3bfd88-4606-4010-a669-6e9bfba1de9e",
+    "persona": "E.B.O.T",
+    "names": [
+      "E.B.O.T"
+    ],
+    "runs": 1,
+    "bestRank": 264,
+    "worstRank": 264,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3694791,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 264,
+        "ms": 3694791,
+        "dish": "Fish"
       }
     ]
   },
@@ -1982,8 +2008,8 @@
       "GearPaladin"
     ],
     "runs": 1,
-    "bestRank": 443,
-    "worstRank": 443,
+    "bestRank": 516,
+    "worstRank": 516,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 443,
+        "rank": 516,
         "ms": 4847931,
         "dish": "Fish"
       }

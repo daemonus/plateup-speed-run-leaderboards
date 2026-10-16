@@ -988,6 +988,32 @@
     ]
   },
   {
+    "id": "b2551f20-2a7c-4535-8914-2c0c76ae363c",
+    "persona": "Tranquility",
+    "names": [
+      "Tranquility"
+    ],
+    "runs": 1,
+    "bestRank": 303,
+    "worstRank": 303,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3879575,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 303,
+        "ms": 3879575,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "b2562a62-f567-45ee-8e93-252384018fdc",
     "persona": "justinieeweinie",
     "names": [
@@ -2268,8 +2294,8 @@
       "livai"
     ],
     "runs": 1,
-    "bestRank": 495,
-    "worstRank": 495,
+    "bestRank": 581,
+    "worstRank": 581,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 495,
+        "rank": 581,
         "ms": 5236319,
         "dish": "Fish"
       }

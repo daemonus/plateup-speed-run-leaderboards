@@ -4,12 +4,12 @@
   "names": [
     "KVT"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 1,
   "worstRank": 126,
-  "firstPlaces": 12,
-  "top3": 14,
-  "top10": 14,
+  "firstPlaces": 13,
+  "top3": 15,
+  "top10": 15,
   "bestMs": 425057,
   "weeksActive": [
     64,
@@ -28,7 +28,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 1,
       "ms": 988650,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1,
+      "ms": 852568,
+      "dish": "Fish"
     }
   ]
 }

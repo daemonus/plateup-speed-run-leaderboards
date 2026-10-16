@@ -448,8 +448,8 @@
       "Boptic"
     ],
     "runs": 1,
-    "bestRank": 475,
-    "worstRank": 475,
+    "bestRank": 559,
+    "worstRank": 559,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 475,
+        "rank": 559,
         "ms": 5098197,
         "dish": "Fish"
       }
@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "6855aa3c-9f2d-458c-b73e-1487509f76ce",
+    "persona": "Pyo",
+    "names": [
+      "Pyo"
+    ],
+    "runs": 1,
+    "bestRank": 78,
+    "worstRank": 78,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2505973,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 78,
+        "ms": 2505973,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "68563f30-0eff-4b75-864b-15bc196073c5",
     "persona": "Mardee",
     "names": [
@@ -1540,8 +1566,8 @@
       "Elina"
     ],
     "runs": 1,
-    "bestRank": 478,
-    "worstRank": 478,
+    "bestRank": 563,
+    "worstRank": 563,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1553,7 +1579,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 478,
+        "rank": 563,
         "ms": 5108677,
         "dish": "Fish"
       }
@@ -1878,8 +1904,8 @@
       "SideEyeBadger"
     ],
     "runs": 1,
-    "bestRank": 300,
-    "worstRank": 300,
+    "bestRank": 338,
+    "worstRank": 338,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 300,
+        "rank": 338,
         "ms": 4033701,
         "dish": "Fish"
       }
@@ -2242,8 +2268,8 @@
       "azklol"
     ],
     "runs": 1,
-    "bestRank": 457,
-    "worstRank": 457,
+    "bestRank": 536,
+    "worstRank": 536,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 457,
+        "rank": 536,
         "ms": 4951541,
         "dish": "Fish"
       }
@@ -2710,8 +2736,8 @@
       "Samoosa"
     ],
     "runs": 1,
-    "bestRank": 283,
-    "worstRank": 283,
+    "bestRank": 319,
+    "worstRank": 319,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2749,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 283,
+        "rank": 319,
         "ms": 3939041,
         "dish": "Fish"
       }

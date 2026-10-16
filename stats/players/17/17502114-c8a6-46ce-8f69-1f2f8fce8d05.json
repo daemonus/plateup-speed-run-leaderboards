@@ -4,7 +4,7 @@
   "names": [
     "YeMoying"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 71,
   "worstRank": 445,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     83,
     84,
     85,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 283,
       "ms": 2669148,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 155,
+      "ms": 3093868,
+      "dish": "Fish"
     }
   ]
 }

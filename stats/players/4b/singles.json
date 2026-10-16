@@ -832,6 +832,32 @@
     ]
   },
   {
+    "id": "4b30bbc0-737f-4811-8444-8c185c3f0185",
+    "persona": "\u5411\u5317",
+    "names": [
+      "\u5411\u5317"
+    ],
+    "runs": 1,
+    "bestRank": 309,
+    "worstRank": 309,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3899125,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 309,
+        "ms": 3899125,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "4b3371ed-c928-4f48-a5bf-6471bd91d74c",
     "persona": "eda35684",
     "names": [
@@ -2008,8 +2034,8 @@
       "haskiiii0607"
     ],
     "runs": 1,
-    "bestRank": 200,
-    "worstRank": 200,
+    "bestRank": 224,
+    "worstRank": 224,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2021,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 200,
+        "rank": 224,
         "ms": 3480991,
         "dish": "Fish"
       }

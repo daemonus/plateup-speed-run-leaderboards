@@ -1196,32 +1196,6 @@
     ]
   },
   {
-    "id": "c844945f-3b01-4932-9e3d-fd59cbd8756c",
-    "persona": "Deuc",
-    "names": [
-      "Deuc"
-    ],
-    "runs": 1,
-    "bestRank": 237,
-    "worstRank": 237,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5413205,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 237,
-        "ms": 5413205,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "c8450b61-ec18-483f-8f8f-ac49b4ff584f",
     "persona": "Lev",
     "names": [
@@ -3438,8 +3412,8 @@
       "No Ragrets"
     ],
     "runs": 1,
-    "bestRank": 246,
-    "worstRank": 246,
+    "bestRank": 276,
+    "worstRank": 276,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3451,7 +3425,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 246,
+        "rank": 276,
         "ms": 3760476,
         "dish": "Fish"
       }

@@ -4,16 +4,17 @@
   "names": [
     "wintercat"
   ],
-  "runs": 2,
-  "bestRank": 352,
+  "runs": 3,
+  "bestRank": 242,
   "worstRank": 651,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4987242,
+  "bestMs": 3555564,
   "weeksActive": [
     -69,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 651,
       "ms": 7874422,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 242,
+      "ms": 3555564,
+      "dish": "Fish"
     }
   ]
 }

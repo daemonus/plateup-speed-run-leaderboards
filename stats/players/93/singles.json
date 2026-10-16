@@ -650,6 +650,32 @@
     ]
   },
   {
+    "id": "9329f639-c881-488a-a403-d9269b8da923",
+    "persona": "Bastikekse",
+    "names": [
+      "Bastikekse"
+    ],
+    "runs": 1,
+    "bestRank": 594,
+    "worstRank": 594,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5340870,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 594,
+        "ms": 5340870,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "932bb334-b0be-4b37-9308-6571018921a5",
     "persona": "kyle.edelmann16",
     "names": [
@@ -2216,8 +2242,8 @@
       "Turtle Wrangler"
     ],
     "runs": 1,
-    "bestRank": 483,
-    "worstRank": 483,
+    "bestRank": 569,
+    "worstRank": 569,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2255,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 483,
+        "rank": 569,
         "ms": 5137533,
         "dish": "Fish"
       }

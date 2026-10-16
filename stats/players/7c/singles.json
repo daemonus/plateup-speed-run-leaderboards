@@ -1072,8 +1072,8 @@
       "\u8001\u5927"
     ],
     "runs": 1,
-    "bestRank": 578,
-    "worstRank": 578,
+    "bestRank": 684,
+    "worstRank": 684,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,8 +1085,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 578,
+        "rank": 684,
         "ms": 6390431,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "7c4fc8ff-bb62-4ad9-ada4-6f972a26e147",
+    "persona": "Kirk",
+    "names": [
+      "Kirk"
+    ],
+    "runs": 1,
+    "bestRank": 190,
+    "worstRank": 190,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3276500,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 190,
+        "ms": 3276500,
         "dish": "Fish"
       }
     ]
@@ -2294,8 +2320,8 @@
       "JaydenTheThunderWolf"
     ],
     "runs": 1,
-    "bestRank": 437,
-    "worstRank": 437,
+    "bestRank": 510,
+    "worstRank": 510,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 437,
+        "rank": 510,
         "ms": 4824433,
         "dish": "Fish"
       }

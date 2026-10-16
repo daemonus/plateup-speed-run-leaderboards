@@ -136,8 +136,8 @@
       "pso1702"
     ],
     "runs": 1,
-    "bestRank": 523,
-    "worstRank": 523,
+    "bestRank": 621,
+    "worstRank": 621,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 523,
+        "rank": 621,
         "ms": 5543206,
         "dish": "Fish"
       }
@@ -1139,6 +1139,32 @@
         "start": "2023-05-15",
         "rank": 735,
         "ms": 3858136,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "fa603f7e-2bab-46aa-ac32-904e21fcf54d",
+    "persona": "SmallDoggy",
+    "names": [
+      "SmallDoggy"
+    ],
+    "runs": 1,
+    "bestRank": 523,
+    "worstRank": 523,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4890187,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 523,
+        "ms": 4890187,
         "dish": "Fish"
       }
     ]
@@ -2517,6 +2543,32 @@
         "start": "2023-04-17",
         "rank": 1082,
         "ms": 4093324,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "fad92fd4-f24d-482e-a567-a238e910c175",
+    "persona": "ScarletHero",
+    "names": [
+      "ScarletHero"
+    ],
+    "runs": 1,
+    "bestRank": 488,
+    "worstRank": 488,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4674452,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 488,
+        "ms": 4674452,
         "dish": "Fish"
       }
     ]

@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "f20b7317-ea1e-4c30-a2e3-6bd611f9938c",
+    "persona": "SS",
+    "names": [
+      "SS"
+    ],
+    "runs": 1,
+    "bestRank": 381,
+    "worstRank": 381,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4194592,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 381,
+        "ms": 4194592,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "f20c6f99-95f2-414b-972c-041ac758deb3",
     "persona": "ryo-exam",
     "names": [
@@ -1114,6 +1140,32 @@
         "rank": 678,
         "ms": 3383994,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "f2509347-9848-4aeb-a208-b40799c77d44",
+    "persona": "Satan",
+    "names": [
+      "Satan"
+    ],
+    "runs": 1,
+    "bestRank": 436,
+    "worstRank": 436,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4471126,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 436,
+        "ms": 4471126,
+        "dish": "Fish"
       }
     ]
   },
@@ -2346,8 +2398,8 @@
       "qkrwjdtn09"
     ],
     "runs": 1,
-    "bestRank": 207,
-    "worstRank": 207,
+    "bestRank": 232,
+    "worstRank": 232,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2411,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 207,
+        "rank": 232,
         "ms": 3510270,
         "dish": "Fish"
       }

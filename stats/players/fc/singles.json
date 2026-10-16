@@ -162,8 +162,8 @@
       "\u52C7\u6230\u5C0F\u5929\u5175"
     ],
     "runs": 1,
-    "bestRank": 450,
-    "worstRank": 450,
+    "bestRank": 529,
+    "worstRank": 529,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 450,
+        "rank": 529,
         "ms": 4925941,
         "dish": "Fish"
       }
@@ -204,6 +204,32 @@
         "rank": 541,
         "ms": 5053460,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "fc0f61f3-0185-40fd-8ef4-d253796071c9",
+    "persona": "861693897",
+    "names": [
+      "861693897"
+    ],
+    "runs": 1,
+    "bestRank": 693,
+    "worstRank": 693,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6590795,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 693,
+        "ms": 6590795,
+        "dish": "Fish"
       }
     ]
   },
@@ -333,6 +359,32 @@
         "start": "2023-06-12",
         "rank": 481,
         "ms": 3387046,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "fc20bdaa-aee2-44b0-bd27-2bf53b938b2f",
+    "persona": "GuWhaJai",
+    "names": [
+      "GuWhaJai"
+    ],
+    "runs": 1,
+    "bestRank": 403,
+    "worstRank": 403,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4304082,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 403,
+        "ms": 4304082,
         "dish": "Fish"
       }
     ]

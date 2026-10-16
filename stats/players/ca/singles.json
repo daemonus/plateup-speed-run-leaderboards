@@ -396,8 +396,8 @@
       "Mrdood"
     ],
     "runs": 1,
-    "bestRank": 348,
-    "worstRank": 348,
+    "bestRank": 398,
+    "worstRank": 398,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -409,7 +409,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 348,
+        "rank": 398,
         "ms": 4286253,
         "dish": "Fish"
       }
@@ -1894,6 +1894,32 @@
         "rank": 487,
         "ms": 6529496,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "ca84e6bc-1328-4529-a929-caf8757d9b25",
+    "persona": "MuMu",
+    "names": [
+      "MuMu"
+    ],
+    "runs": 1,
+    "bestRank": 426,
+    "worstRank": 426,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4417257,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 426,
+        "ms": 4417257,
+        "dish": "Fish"
       }
     ]
   },

@@ -2034,8 +2034,8 @@
       "Yeetmeister5727"
     ],
     "runs": 1,
-    "bestRank": 433,
-    "worstRank": 433,
+    "bestRank": 505,
+    "worstRank": 505,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 433,
+        "rank": 505,
         "ms": 4803385,
         "dish": "Fish"
       }
@@ -2726,6 +2726,32 @@
         "rank": 323,
         "ms": 5650542,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "31de7244-f719-4121-8c06-04e8c0de9117",
+    "persona": "\u4E91\u7DAE",
+    "names": [
+      "\u4E91\u7DAE"
+    ],
+    "runs": 1,
+    "bestRank": 156,
+    "worstRank": 156,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3095553,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 156,
+        "ms": 3095553,
+        "dish": "Fish"
       }
     ]
   },

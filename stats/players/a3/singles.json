@@ -526,8 +526,8 @@
       "AnAmetuer"
     ],
     "runs": 1,
-    "bestRank": 234,
-    "worstRank": 234,
+    "bestRank": 263,
+    "worstRank": 263,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -539,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 234,
+        "rank": 263,
         "ms": 3689959,
         "dish": "Fish"
       }
@@ -2621,6 +2621,32 @@
         "start": "2025-11-03",
         "rank": 731,
         "ms": 4730424,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "a3dfd90d-8b37-44fa-834f-6a00cbef85d2",
+    "persona": "lucienguyenova1271",
+    "names": [
+      "lucienguyenova1271"
+    ],
+    "runs": 1,
+    "bestRank": 605,
+    "worstRank": 605,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5443589,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 605,
+        "ms": 5443589,
         "dish": "Fish"
       }
     ]

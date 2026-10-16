@@ -890,8 +890,8 @@
       "\u7389\u7C73\u7C92"
     ],
     "runs": 1,
-    "bestRank": 385,
-    "worstRank": 385,
+    "bestRank": 451,
+    "worstRank": 451,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 385,
+        "rank": 451,
         "ms": 4524288,
         "dish": "Fish"
       }
@@ -1820,6 +1820,32 @@
     ]
   },
   {
+    "id": "6b893b77-6c22-42ee-8dae-eef01ec87593",
+    "persona": "Pupper0ni",
+    "names": [
+      "Pupper0ni"
+    ],
+    "runs": 1,
+    "bestRank": 434,
+    "worstRank": 434,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4452326,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 434,
+        "ms": 4452326,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6b8def5d-597f-4193-9c46-1ad40faef614",
     "persona": "Humduse",
     "names": [
@@ -2190,8 +2216,8 @@
       "zjensvold"
     ],
     "runs": 1,
-    "bestRank": 538,
-    "worstRank": 538,
+    "bestRank": 638,
+    "worstRank": 638,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2203,7 +2229,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 538,
+        "rank": 638,
         "ms": 5728854,
         "dish": "Fish"
       }

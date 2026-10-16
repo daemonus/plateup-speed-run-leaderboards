@@ -1,0 +1,34 @@
+{
+  "id": "449dc60b-e7bd-4762-908a-7b3397e7318d",
+  "persona": "NegDemo",
+  "names": [
+    "NegDemo"
+  ],
+  "runs": 2,
+  "bestRank": 553,
+  "worstRank": 593,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3450881,
+  "weeksActive": [
+    -30,
+    92
+  ],
+  "history": [
+    {
+      "week": -30,
+      "start": "2024-06-10",
+      "rank": 593,
+      "ms": 3450881,
+      "dish": "Turkey"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 553,
+      "ms": 5064895,
+      "dish": "Fish"
+    }
+  ]
+}

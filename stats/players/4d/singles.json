@@ -2138,8 +2138,8 @@
       "chensha\u03A3(\u3063 \u00B0\u0414 \u00B0;)\u3063"
     ],
     "runs": 1,
-    "bestRank": 265,
-    "worstRank": 265,
+    "bestRank": 299,
+    "worstRank": 299,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2151,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 265,
+        "rank": 299,
         "ms": 3864133,
         "dish": "Fish"
       }
@@ -2362,6 +2362,32 @@
         "rank": 741,
         "ms": 5523692,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "4dc61fc1-9aa6-48cf-b9dd-29e2c4bcb8d2",
+    "persona": "\u8FD8\u6CA1\u60F3\u597D\uFF0C\u518D\u770B\u770B:)",
+    "names": [
+      "\u8FD8\u6CA1\u60F3\u597D\uFF0C\u518D\u770B\u770B:)"
+    ],
+    "runs": 1,
+    "bestRank": 632,
+    "worstRank": 632,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5654644,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 632,
+        "ms": 5654644,
+        "dish": "Fish"
       }
     ]
   },

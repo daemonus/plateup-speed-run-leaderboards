@@ -656,8 +656,8 @@
       "douziya_2023"
     ],
     "runs": 1,
-    "bestRank": 359,
-    "worstRank": 359,
+    "bestRank": 412,
+    "worstRank": 412,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 359,
+        "rank": 412,
         "ms": 4339969,
         "dish": "Fish"
       }
@@ -1436,8 +1436,8 @@
       "joidsnc"
     ],
     "runs": 1,
-    "bestRank": 599,
-    "worstRank": 599,
+    "bestRank": 709,
+    "worstRank": 709,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 599,
+        "rank": 709,
         "ms": 7245350,
         "dish": "Fish"
       }
@@ -1660,6 +1660,32 @@
         "rank": 459,
         "ms": 4648612,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "dc702064-9982-41b5-8735-85c6af7a44b3",
+    "persona": "tmtr",
+    "names": [
+      "tmtr"
+    ],
+    "runs": 1,
+    "bestRank": 360,
+    "worstRank": 360,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4093343,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 360,
+        "ms": 4093343,
+        "dish": "Fish"
       }
     ]
   },

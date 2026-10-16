@@ -4,7 +4,7 @@
   "names": [
     "Stinkybubbles"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 289,
   "worstRank": 1830,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -88,
     -26,
     28,
-    44
+    44,
+    92
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 408,
       "ms": 4204145,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 443,
+      "ms": 4488545,
+      "dish": "Fish"
     }
   ]
 }

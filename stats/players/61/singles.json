@@ -578,8 +578,8 @@
       "yesule89"
     ],
     "runs": 1,
-    "bestRank": 354,
-    "worstRank": 354,
+    "bestRank": 405,
+    "worstRank": 405,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 354,
+        "rank": 405,
         "ms": 4317076,
         "dish": "Fish"
       }
@@ -890,8 +890,8 @@
       "Krashlanes"
     ],
     "runs": 1,
-    "bestRank": 436,
-    "worstRank": 436,
+    "bestRank": 508,
+    "worstRank": 508,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 436,
+        "rank": 508,
         "ms": 4806629,
         "dish": "Fish"
       }
@@ -2028,6 +2028,32 @@
     ]
   },
   {
+    "id": "61a5cb60-b1d8-44bb-be1c-f4d0e1e5e303",
+    "persona": "Cassie_kenobi",
+    "names": [
+      "Cassie_kenobi"
+    ],
+    "runs": 1,
+    "bestRank": 593,
+    "worstRank": 593,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5327918,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 593,
+        "ms": 5327918,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "61af4340-5ab0-40cb-b553-164378c812c4",
     "persona": "Henkar x3  \u22C3",
     "names": [
@@ -2294,8 +2320,8 @@
       "ODIOUS"
     ],
     "runs": 1,
-    "bestRank": 573,
-    "worstRank": 573,
+    "bestRank": 678,
+    "worstRank": 678,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 573,
+        "rank": 678,
         "ms": 6220092,
         "dish": "Fish"
       }
@@ -2985,6 +3011,32 @@
         "start": "2024-04-22",
         "rank": 586,
         "ms": 3644726,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "61f5f249-fb50-4776-ab5a-20b2d5878fdb",
+    "persona": "\u4ED8\u68E0",
+    "names": [
+      "\u4ED8\u68E0"
+    ],
+    "runs": 1,
+    "bestRank": 462,
+    "worstRank": 462,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4577708,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 462,
+        "ms": 4577708,
         "dish": "Fish"
       }
     ]

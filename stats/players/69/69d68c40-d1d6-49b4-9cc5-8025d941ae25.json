@@ -4,12 +4,12 @@
   "names": [
     "onom_nom"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 2,
   "worstRank": 524,
   "firstPlaces": 0,
   "top3": 3,
-  "top10": 15,
+  "top10": 16,
   "bestMs": 548696,
   "weeksActive": [
     -77,
@@ -35,7 +35,8 @@
     86,
     87,
     88,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 5,
       "ms": 1021746,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 7,
+      "ms": 1123138,
+      "dish": "Fish"
     }
   ]
 }

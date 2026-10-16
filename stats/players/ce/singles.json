@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "ce2584a3-fe0d-4fd5-9e60-c53d29fd7f6b",
+    "persona": "\u5149\u5C41\u5C41\u5C0F\u516C\u4E3B",
+    "names": [
+      "\u5149\u5C41\u5C41\u5C0F\u516C\u4E3B"
+    ],
+    "runs": 1,
+    "bestRank": 714,
+    "worstRank": 714,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8062308,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 714,
+        "ms": 8062308,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ce283315-9677-4e0e-a5f0-683bd94c7c78",
     "persona": "NNN",
     "names": [
@@ -1566,8 +1592,8 @@
       "Killv1x"
     ],
     "runs": 1,
-    "bestRank": 273,
-    "worstRank": 273,
+    "bestRank": 308,
+    "worstRank": 308,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1605,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 273,
+        "rank": 308,
         "ms": 3899012,
         "dish": "Fish"
       }
@@ -1956,8 +1982,8 @@
       "ALBAY RE\u015EAT \u00C7\u0130\u011E\u0130LTEPE"
     ],
     "runs": 1,
-    "bestRank": 553,
-    "worstRank": 553,
+    "bestRank": 656,
+    "worstRank": 656,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 553,
+        "rank": 656,
         "ms": 5873579,
         "dish": "Fish"
       }

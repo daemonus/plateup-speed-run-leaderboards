@@ -4,7 +4,7 @@
   "names": [
     "agricolazax"
   ],
-  "runs": 35,
+  "runs": 36,
   "bestRank": 86,
   "worstRank": 405,
   "firstPlaces": 0,
@@ -46,7 +46,8 @@
     71,
     75,
     77,
-    78
+    78,
+    92
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 173,
       "ms": 2999801,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 349,
+      "ms": 4063012,
+      "dish": "Fish"
     }
   ]
 }

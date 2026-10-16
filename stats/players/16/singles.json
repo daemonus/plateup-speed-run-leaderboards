@@ -760,8 +760,8 @@
       "Crudster"
     ],
     "runs": 1,
-    "bestRank": 593,
-    "worstRank": 593,
+    "bestRank": 702,
+    "worstRank": 702,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 593,
+        "rank": 702,
         "ms": 6910550,
         "dish": "Fish"
       }
@@ -1404,6 +1404,32 @@
     ]
   },
   {
+    "id": "167a193c-cc44-468a-b215-388b4c64d5d4",
+    "persona": "Elderberries",
+    "names": [
+      "Elderberries"
+    ],
+    "runs": 1,
+    "bestRank": 586,
+    "worstRank": 586,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5251883,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 586,
+        "ms": 5251883,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "167be9c6-1e55-42d0-a63e-90ae735c92b6",
     "persona": "C9 Litium",
     "names": [
@@ -1592,8 +1618,8 @@
       "choger.game"
     ],
     "runs": 1,
-    "bestRank": 609,
-    "worstRank": 609,
+    "bestRank": 721,
+    "worstRank": 721,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1631,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 609,
+        "rank": 721,
         "ms": 10053888,
         "dish": "Fish"
       }

@@ -292,8 +292,8 @@
       "\u0E01\u2E0D\u2E0C\u0323\u02B7\u0323\u032B\u2E0D\u0323\u2E0C\u208E\u0E01"
     ],
     "runs": 1,
-    "bestRank": 527,
-    "worstRank": 527,
+    "bestRank": 625,
+    "worstRank": 625,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 527,
+        "rank": 625,
         "ms": 5562770,
         "dish": "Fish"
       }
@@ -708,8 +708,8 @@
       "\u739B\u52D2\u5DF4\u5B50"
     ],
     "runs": 1,
-    "bestRank": 366,
-    "worstRank": 366,
+    "bestRank": 424,
+    "worstRank": 424,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 366,
+        "rank": 424,
         "ms": 4401287,
         "dish": "Fish"
       }
@@ -1036,6 +1036,32 @@
         "rank": 182,
         "ms": 2657987,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "db6f929f-f27e-4ff6-9dc9-c77d27e859aa",
+    "persona": "bobby",
+    "names": [
+      "bobby"
+    ],
+    "runs": 1,
+    "bestRank": 419,
+    "worstRank": 419,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4371312,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 419,
+        "ms": 4371312,
+        "dish": "Fish"
       }
     ]
   },

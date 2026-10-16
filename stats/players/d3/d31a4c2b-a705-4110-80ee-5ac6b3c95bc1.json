@@ -4,8 +4,8 @@
   "names": [
     "SwitchyRoo"
   ],
-  "runs": 7,
-  "bestRank": 245,
+  "runs": 8,
+  "bestRank": 240,
   "worstRank": 568,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     68,
     69,
     71,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 568,
       "ms": 3886422,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 240,
+      "ms": 3551380,
+      "dish": "Fish"
     }
   ]
 }

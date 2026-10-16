@@ -4,7 +4,7 @@
   "names": [
     "NorskFreyja"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 7,
   "worstRank": 150,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     80,
     82,
     83,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 24,
       "ms": 992467,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 33,
+      "ms": 2031802,
+      "dish": "Fish"
     }
   ]
 }

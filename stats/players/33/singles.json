@@ -546,6 +546,32 @@
     ]
   },
   {
+    "id": "33208621-5751-4982-925c-1087999765f4",
+    "persona": "rafaela.kyrie",
+    "names": [
+      "rafaela.kyrie"
+    ],
+    "runs": 1,
+    "bestRank": 255,
+    "worstRank": 255,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3638968,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 255,
+        "ms": 3638968,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "3320d19f-b025-477c-8f59-956d3687cb70",
     "persona": "lil slice",
     "names": [
@@ -2164,8 +2190,8 @@
       "_outofthemoney"
     ],
     "runs": 1,
-    "bestRank": 486,
-    "worstRank": 486,
+    "bestRank": 572,
+    "worstRank": 572,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2177,7 +2203,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 486,
+        "rank": 572,
         "ms": 5147159,
         "dish": "Fish"
       }

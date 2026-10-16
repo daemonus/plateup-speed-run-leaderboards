@@ -4,8 +4,8 @@
   "names": [
     "Velomachus"
   ],
-  "runs": 3,
-  "bestRank": 129,
+  "runs": 4,
+  "bestRank": 103,
   "worstRank": 457,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     84,
     85,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 272,
       "ms": 2593618,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 103,
+      "ms": 2785310,
+      "dish": "Fish"
     }
   ]
 }

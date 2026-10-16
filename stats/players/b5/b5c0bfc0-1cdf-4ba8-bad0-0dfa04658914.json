@@ -4,7 +4,7 @@
   "names": [
     "gschir2"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 29,
   "worstRank": 304,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     87,
     88,
     89,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 60,
       "ms": 2875936,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 132,
+      "ms": 2960135,
+      "dish": "Fish"
     }
   ]
 }

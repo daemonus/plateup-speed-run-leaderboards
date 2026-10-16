@@ -760,8 +760,8 @@
       "tim"
     ],
     "runs": 1,
-    "bestRank": 76,
-    "worstRank": 76,
+    "bestRank": 83,
+    "worstRank": 83,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 76,
+        "rank": 83,
         "ms": 2537069,
         "dish": "Fish"
       }
@@ -1800,8 +1800,8 @@
       "\u767D\u4E01"
     ],
     "runs": 1,
-    "bestRank": 318,
-    "worstRank": 318,
+    "bestRank": 363,
+    "worstRank": 363,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 318,
+        "rank": 363,
         "ms": 4114970,
         "dish": "Fish"
       }
@@ -2440,6 +2440,32 @@
         "rank": 457,
         "ms": 4405213,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "9cb8508f-51a3-4403-90de-0f73e8259b6c",
+    "persona": "KOCC",
+    "names": [
+      "KOCC"
+    ],
+    "runs": 1,
+    "bestRank": 560,
+    "worstRank": 560,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5101351,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 560,
+        "ms": 5101351,
+        "dish": "Fish"
       }
     ]
   },
@@ -3230,8 +3256,8 @@
       "\u840C\u840C\u6DB5"
     ],
     "runs": 1,
-    "bestRank": 379,
-    "worstRank": 379,
+    "bestRank": 444,
+    "worstRank": 444,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3243,7 +3269,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 379,
+        "rank": 444,
         "ms": 4489729,
         "dish": "Fish"
       }

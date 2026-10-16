@@ -32,8 +32,8 @@
       "ch4ncre"
     ],
     "runs": 1,
-    "bestRank": 251,
-    "worstRank": 251,
+    "bestRank": 282,
+    "worstRank": 282,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 251,
+        "rank": 282,
         "ms": 3785895,
         "dish": "Fish"
       }
@@ -994,8 +994,8 @@
       "JT0"
     ],
     "runs": 1,
-    "bestRank": 324,
-    "worstRank": 324,
+    "bestRank": 370,
+    "worstRank": 370,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1007,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 324,
+        "rank": 370,
         "ms": 4149946,
         "dish": "Fish"
       }
@@ -2132,6 +2132,32 @@
     ]
   },
   {
+    "id": "638cd66a-712d-48c2-9a32-af4f106927ec",
+    "persona": "ShowMaker",
+    "names": [
+      "ShowMaker"
+    ],
+    "runs": 1,
+    "bestRank": 457,
+    "worstRank": 457,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4556024,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 457,
+        "ms": 4556024,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "638cf567-e591-4675-ad2a-1d001871b813",
     "persona": "inyourface",
     "names": [
@@ -2907,6 +2933,32 @@
         "start": "2023-03-27",
         "rank": 1977,
         "ms": 3117818,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "63cc91d4-5108-4fd3-9e24-e83f0d1648e3",
+    "persona": "KRVM727",
+    "names": [
+      "KRVM727"
+    ],
+    "runs": 1,
+    "bestRank": 144,
+    "worstRank": 144,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3047436,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 144,
+        "ms": 3047436,
         "dish": "Fish"
       }
     ]
