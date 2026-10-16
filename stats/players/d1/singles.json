@@ -344,8 +344,8 @@
       "elekv"
     ],
     "runs": 1,
-    "bestRank": 589,
-    "worstRank": 589,
+    "bestRank": 664,
+    "worstRank": 664,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 589,
+        "rank": 664,
         "ms": 5269367,
         "dish": "Fish"
       }
@@ -906,6 +906,32 @@
         "rank": 425,
         "ms": 4395507,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "d14f5561-c0dd-47f7-95a5-f2bedd728421",
+    "persona": "ghostmonsea",
+    "names": [
+      "ghostmonsea"
+    ],
+    "runs": 1,
+    "bestRank": 496,
+    "worstRank": 496,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4520706,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 496,
+        "ms": 4520706,
+        "dish": "Fish"
       }
     ]
   },
@@ -1982,8 +2008,8 @@
       "wjayao"
     ],
     "runs": 1,
-    "bestRank": 384,
-    "worstRank": 384,
+    "bestRank": 420,
+    "worstRank": 420,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 384,
+        "rank": 420,
         "ms": 4205686,
         "dish": "Fish"
       }

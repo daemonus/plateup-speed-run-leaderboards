@@ -1176,8 +1176,8 @@
       "PJ"
     ],
     "runs": 1,
-    "bestRank": 691,
-    "worstRank": 691,
+    "bestRank": 781,
+    "worstRank": 781,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 691,
+        "rank": 781,
         "ms": 6546281,
         "dish": "Fish"
       }
@@ -1982,8 +1982,8 @@
       "\u6BB5\u6BB5"
     ],
     "runs": 1,
-    "bestRank": 544,
-    "worstRank": 544,
+    "bestRank": 604,
+    "worstRank": 604,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 544,
+        "rank": 604,
         "ms": 5023084,
         "dish": "Fish"
       }
@@ -2388,6 +2388,32 @@
         "rank": 65,
         "ms": 2210128,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "febd2c4d-c0f5-4190-a90d-b24037046c9b",
+    "persona": "vthelym",
+    "names": [
+      "vthelym"
+    ],
+    "runs": 1,
+    "bestRank": 667,
+    "worstRank": 667,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5288081,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 667,
+        "ms": 5288081,
+        "dish": "Fish"
       }
     ]
   },

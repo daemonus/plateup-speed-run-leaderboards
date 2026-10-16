@@ -1384,8 +1384,8 @@
       "rajla_55"
     ],
     "runs": 1,
-    "bestRank": 297,
-    "worstRank": 297,
+    "bestRank": 321,
+    "worstRank": 321,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 297,
+        "rank": 321,
         "ms": 3849220,
         "dish": "Fish"
       }
@@ -2470,6 +2470,32 @@
     ]
   },
   {
+    "id": "01bdb3e0-7003-49cf-8f9e-8afcfc567cda",
+    "persona": "k9tao",
+    "names": [
+      "k9tao"
+    ],
+    "runs": 1,
+    "bestRank": 597,
+    "worstRank": 597,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4980262,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 597,
+        "ms": 4980262,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "01bdc79e-88ba-45c2-b560-f3b83a1ebb65",
     "persona": "Hairnoodles",
     "names": [
@@ -3048,8 +3074,8 @@
       "gatsbymou_\u857E\u7C73"
     ],
     "runs": 1,
-    "bestRank": 98,
-    "worstRank": 98,
+    "bestRank": 106,
+    "worstRank": 106,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3061,7 +3087,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 98,
+        "rank": 106,
         "ms": 2717214,
         "dish": "Fish"
       }

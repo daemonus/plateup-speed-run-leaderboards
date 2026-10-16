@@ -162,8 +162,8 @@
       "\u68EE\u6797\u51B0\u706B\u4EBA\u65E0\u654C\u7248"
     ],
     "runs": 1,
-    "bestRank": 379,
-    "worstRank": 379,
+    "bestRank": 414,
+    "worstRank": 414,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 379,
+        "rank": 414,
         "ms": 4191303,
         "dish": "Fish"
       }
@@ -682,8 +682,8 @@
       "ssttv"
     ],
     "runs": 1,
-    "bestRank": 454,
-    "worstRank": 454,
+    "bestRank": 500,
+    "worstRank": 500,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 454,
+        "rank": 500,
         "ms": 4538125,
         "dish": "Fish"
       }
@@ -1322,6 +1322,32 @@
         "rank": 704,
         "ms": 4558143,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "a574b61b-e8c8-440a-b764-d8d3e86b0477",
+    "persona": "Lasio",
+    "names": [
+      "Lasio"
+    ],
+    "runs": 1,
+    "bestRank": 661,
+    "worstRank": 661,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5257896,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 661,
+        "ms": 5257896,
+        "dish": "Fish"
       }
     ]
   },

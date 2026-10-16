@@ -162,8 +162,8 @@
       "\u55B5\u4F50"
     ],
     "runs": 1,
-    "bestRank": 639,
-    "worstRank": 639,
+    "bestRank": 723,
+    "worstRank": 723,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 639,
+        "rank": 723,
         "ms": 5732871,
         "dish": "Fish"
       }
@@ -2180,6 +2180,32 @@
         "rank": 275,
         "ms": 4369631,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "45b54813-5865-46ca-82ce-41d93e1a03cd",
+    "persona": "H.Eng",
+    "names": [
+      "H.Eng"
+    ],
+    "runs": 1,
+    "bestRank": 331,
+    "worstRank": 331,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3882467,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 331,
+        "ms": 3882467,
+        "dish": "Fish"
       }
     ]
   },

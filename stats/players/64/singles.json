@@ -500,8 +500,8 @@
       "danchaofan"
     ],
     "runs": 1,
-    "bestRank": 296,
-    "worstRank": 296,
+    "bestRank": 320,
+    "worstRank": 320,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +513,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 296,
+        "rank": 320,
         "ms": 3848656,
         "dish": "Fish"
       }
@@ -2986,6 +2986,32 @@
         "rank": 696,
         "ms": 6854439,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "64f3357f-ea48-4ae9-b1af-51b416977913",
+    "persona": "\u591C\u96E8",
+    "names": [
+      "\u591C\u96E8"
+    ],
+    "runs": 1,
+    "bestRank": 389,
+    "worstRank": 389,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4078068,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 389,
+        "ms": 4078068,
+        "dish": "Fish"
       }
     ]
   },

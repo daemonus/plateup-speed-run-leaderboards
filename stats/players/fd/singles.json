@@ -136,8 +136,8 @@
       "NINW"
     ],
     "runs": 1,
-    "bestRank": 245,
-    "worstRank": 245,
+    "bestRank": 262,
+    "worstRank": 262,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 245,
+        "rank": 262,
         "ms": 3573485,
         "dish": "Fish"
       }
@@ -1248,6 +1248,32 @@
     ]
   },
   {
+    "id": "fd6b61a1-6354-4e66-8760-5448ee42763f",
+    "persona": "Dinkel \u30E2\u30D6",
+    "names": [
+      "Dinkel \u30E2\u30D6"
+    ],
+    "runs": 1,
+    "bestRank": 326,
+    "worstRank": 326,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3869477,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 326,
+        "ms": 3869477,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fd6fd6a6-2e16-4e38-93cc-3437f2f51690",
     "persona": "anthonyaronson",
     "names": [
@@ -1306,8 +1332,8 @@
       "Azekiel01"
     ],
     "runs": 1,
-    "bestRank": 151,
-    "worstRank": 151,
+    "bestRank": 162,
+    "worstRank": 162,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 151,
+        "rank": 162,
         "ms": 3077835,
         "dish": "Fish"
       }
@@ -1462,8 +1488,8 @@
       "Roguezilla"
     ],
     "runs": 1,
-    "bestRank": 614,
-    "worstRank": 614,
+    "bestRank": 692,
+    "worstRank": 692,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1501,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 614,
+        "rank": 692,
         "ms": 5473625,
         "dish": "Fish"
       }

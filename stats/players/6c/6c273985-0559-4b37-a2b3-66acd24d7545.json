@@ -4,7 +4,7 @@
   "names": [
     "hypericum11"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 6,
   "worstRank": 249,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 8,
       "ms": 1919314,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 17,
+      "ms": 1586028,
+      "dish": "Fish"
     }
   ]
 }

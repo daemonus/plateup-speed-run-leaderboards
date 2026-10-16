@@ -312,6 +312,32 @@
     ]
   },
   {
+    "id": "5e239c40-edf8-4355-a670-f3c5dc61e84f",
+    "persona": "Fantasy",
+    "names": [
+      "Fantasy"
+    ],
+    "runs": 1,
+    "bestRank": 694,
+    "worstRank": 694,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5483098,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 694,
+        "ms": 5483098,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "5e24567c-4545-4333-8c6b-8f956ad822ca",
     "persona": "Haferlocken",
     "names": [
@@ -1867,6 +1893,32 @@
         "start": "2023-03-27",
         "rank": 2045,
         "ms": 3169841,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "5eb985d1-59c1-4518-8002-2a9e59f8a200",
+    "persona": "novianyx",
+    "names": [
+      "novianyx"
+    ],
+    "runs": 1,
+    "bestRank": 809,
+    "worstRank": 809,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8499759,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 809,
+        "ms": 8499759,
         "dish": "Fish"
       }
     ]

@@ -5,12 +5,12 @@
     "DFAT"
   ],
   "runs": 2,
-  "bestRank": 125,
-  "worstRank": 152,
+  "bestRank": 43,
+  "worstRank": 125,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2204404,
+  "bestMs": 2112322,
   "weeksActive": [
     77,
     92
@@ -26,8 +26,8 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 152,
-      "ms": 3081525,
+      "rank": 43,
+      "ms": 2112322,
       "dish": "Fish"
     }
   ]

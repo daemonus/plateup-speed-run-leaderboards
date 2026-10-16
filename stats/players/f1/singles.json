@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "f12b17ff-f1dc-4ad1-9279-24ce1ab28fab",
+    "persona": "\u8679\u590F\u5FAE\u51C9",
+    "names": [
+      "\u8679\u590F\u5FAE\u51C9"
+    ],
+    "runs": 1,
+    "bestRank": 674,
+    "worstRank": 674,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5377389,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 674,
+        "ms": 5377389,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "f12c41cb-cc20-4cf4-b0ee-a86cd973585c",
     "persona": "hemanoncrack",
     "names": [
@@ -1332,8 +1358,8 @@
       "zsci"
     ],
     "runs": 1,
-    "bestRank": 566,
-    "worstRank": 566,
+    "bestRank": 632,
+    "worstRank": 632,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 566,
+        "rank": 632,
         "ms": 5120199,
         "dish": "Fish"
       }
@@ -2284,6 +2310,32 @@
         "rank": 310,
         "ms": 4387442,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "f1943855-978f-4f01-abac-11a64d5a94e2",
+    "persona": "Nell",
+    "names": [
+      "Nell"
+    ],
+    "runs": 1,
+    "bestRank": 335,
+    "worstRank": 335,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3897403,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 335,
+        "ms": 3897403,
+        "dish": "Fish"
       }
     ]
   },
@@ -3880,8 +3932,8 @@
       "\u5403\u4E86\u5417\u60A8"
     ],
     "runs": 1,
-    "bestRank": 371,
-    "worstRank": 371,
+    "bestRank": 406,
+    "worstRank": 406,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3893,7 +3945,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 371,
+        "rank": 406,
         "ms": 4159041,
         "dish": "Fish"
       }

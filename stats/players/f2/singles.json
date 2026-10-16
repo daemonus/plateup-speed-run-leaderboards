@@ -136,8 +136,8 @@
       "SS"
     ],
     "runs": 1,
-    "bestRank": 381,
-    "worstRank": 381,
+    "bestRank": 417,
+    "worstRank": 417,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 381,
+        "rank": 417,
         "ms": 4194592,
         "dish": "Fish"
       }
@@ -1150,8 +1150,8 @@
       "Satan"
     ],
     "runs": 1,
-    "bestRank": 436,
-    "worstRank": 436,
+    "bestRank": 478,
+    "worstRank": 478,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 436,
+        "rank": 478,
         "ms": 4471126,
         "dish": "Fish"
       }
@@ -2398,8 +2398,8 @@
       "qkrwjdtn09"
     ],
     "runs": 1,
-    "bestRank": 232,
-    "worstRank": 232,
+    "bestRank": 248,
+    "worstRank": 248,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2411,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 232,
+        "rank": 248,
         "ms": 3510270,
         "dish": "Fish"
       }
@@ -2596,32 +2596,6 @@
         "rank": 445,
         "ms": 5894828,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "f2b9f743-09c0-44b1-8396-2d6d2cf909d5",
-    "persona": "littlesniper",
-    "names": [
-      "littlesniper"
-    ],
-    "runs": 1,
-    "bestRank": 710,
-    "worstRank": 710,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3483625,
-    "weeksActive": [
-      56
-    ],
-    "history": [
-      {
-        "week": 56,
-        "start": "2026-02-02",
-        "rank": 710,
-        "ms": 3483625,
-        "dish": "Sundaes"
       }
     ]
   },

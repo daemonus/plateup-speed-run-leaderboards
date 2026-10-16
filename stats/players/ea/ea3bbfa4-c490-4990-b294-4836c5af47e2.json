@@ -6,11 +6,11 @@
   ],
   "runs": 3,
   "bestRank": 3,
-  "worstRank": 5,
+  "worstRank": 4,
   "firstPlaces": 0,
-  "top3": 1,
+  "top3": 2,
   "top10": 3,
-  "bestMs": 965929,
+  "bestMs": 912866,
   "weeksActive": [
     89,
     91,
@@ -34,8 +34,8 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 5,
-      "ms": 1012672,
+      "rank": 3,
+      "ms": 912866,
       "dish": "Fish"
     }
   ]

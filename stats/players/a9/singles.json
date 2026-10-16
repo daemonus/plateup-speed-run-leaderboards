@@ -1254,8 +1254,8 @@
       "Apa Tu"
     ],
     "runs": 1,
-    "bestRank": 150,
-    "worstRank": 150,
+    "bestRank": 161,
+    "worstRank": 161,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1267,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 150,
+        "rank": 161,
         "ms": 3072019,
         "dish": "Fish"
       }
@@ -2024,6 +2024,32 @@
         "rank": 179,
         "ms": 2913499,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "a9942045-aa80-4bcb-863e-e758d6e82367",
+    "persona": "nanamii007",
+    "names": [
+      "nanamii007"
+    ],
+    "runs": 1,
+    "bestRank": 328,
+    "worstRank": 328,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3877975,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 328,
+        "ms": 3877975,
+        "dish": "Fish"
       }
     ]
   },

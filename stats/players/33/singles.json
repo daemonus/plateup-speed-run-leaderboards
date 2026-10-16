@@ -552,8 +552,8 @@
       "rafaela.kyrie"
     ],
     "runs": 1,
-    "bestRank": 255,
-    "worstRank": 255,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 255,
+        "rank": 273,
         "ms": 3638968,
         "dish": "Fish"
       }
@@ -2190,8 +2190,8 @@
       "_outofthemoney"
     ],
     "runs": 1,
-    "bestRank": 572,
-    "worstRank": 572,
+    "bestRank": 641,
+    "worstRank": 641,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2203,7 +2203,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 572,
+        "rank": 641,
         "ms": 5147159,
         "dish": "Fish"
       }
@@ -2232,6 +2232,32 @@
         "rank": 352,
         "ms": 4382238,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "33ba6990-a94d-42c6-b882-5b1dd4b8dfb0",
+    "persona": "\u5927\u903C\u515C",
+    "names": [
+      "\u5927\u903C\u515C"
+    ],
+    "runs": 1,
+    "bestRank": 663,
+    "worstRank": 663,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5269192,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 663,
+        "ms": 5269192,
+        "dish": "Fish"
       }
     ]
   },

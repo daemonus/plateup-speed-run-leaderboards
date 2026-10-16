@@ -786,8 +786,8 @@
       "Valenz"
     ],
     "runs": 1,
-    "bestRank": 533,
-    "worstRank": 533,
+    "bestRank": 590,
+    "worstRank": 590,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -799,7 +799,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 533,
+        "rank": 590,
         "ms": 4934895,
         "dish": "Fish"
       }
@@ -1768,6 +1768,32 @@
     ]
   },
   {
+    "id": "7b745bfd-411e-4d84-8c09-e8045cf1f4ac",
+    "persona": "kwh",
+    "names": [
+      "kwh"
+    ],
+    "runs": 1,
+    "bestRank": 490,
+    "worstRank": 490,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4495921,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 490,
+        "ms": 4495921,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "7b746800-36de-4d23-940c-719a45801d7b",
     "persona": "imu",
     "names": [
@@ -1852,8 +1878,8 @@
       "Goliver"
     ],
     "runs": 1,
-    "bestRank": 315,
-    "worstRank": 315,
+    "bestRank": 344,
+    "worstRank": 344,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1891,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 315,
+        "rank": 344,
         "ms": 3910000,
         "dish": "Fish"
       }

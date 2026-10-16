@@ -4,7 +4,7 @@
   "names": [
     "keiko202"
   ],
-  "runs": 115,
+  "runs": 116,
   "bestRank": 8,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -126,7 +126,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -933,6 +934,13 @@
       "rank": 52,
       "ms": 2767119,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 97,
+      "ms": 2656333,
+      "dish": "Fish"
     }
   ]
 }

@@ -136,8 +136,8 @@
       "X666"
     ],
     "runs": 1,
-    "bestRank": 542,
-    "worstRank": 542,
+    "bestRank": 601,
+    "worstRank": 601,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 542,
+        "rank": 601,
         "ms": 5017111,
         "dish": "Fish"
       }
@@ -1436,8 +1436,8 @@
       "Chaucat"
     ],
     "runs": 1,
-    "bestRank": 189,
-    "worstRank": 189,
+    "bestRank": 199,
+    "worstRank": 199,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 189,
+        "rank": 199,
         "ms": 3271389,
         "dish": "Fish"
       }
@@ -1790,6 +1790,32 @@
         "rank": 215,
         "ms": 3760631,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "03754cf6-642b-4311-8e3c-c57bf65cf672",
+    "persona": "WNI",
+    "names": [
+      "WNI"
+    ],
+    "runs": 1,
+    "bestRank": 324,
+    "worstRank": 324,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3868094,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 324,
+        "ms": 3868094,
+        "dish": "Fish"
       }
     ]
   },
@@ -2257,6 +2283,32 @@
         "start": "2023-03-27",
         "rank": 1706,
         "ms": 2940473,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "03a778a8-d09e-4128-a42d-96767bee0c5f",
+    "persona": "\u4E3A\u4F55\u8A00\u8FD9\u4E48\u574F\u5FC3\u773C\u7684\u8BDD\uFF1F",
+    "names": [
+      "\u4E3A\u4F55\u8A00\u8FD9\u4E48\u574F\u5FC3\u773C\u7684\u8BDD\uFF1F"
+    ],
+    "runs": 1,
+    "bestRank": 228,
+    "worstRank": 228,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3428848,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 228,
+        "ms": 3428848,
         "dish": "Fish"
       }
     ]
@@ -2944,8 +2996,8 @@
       "\u7EAD\u8FB0ellan"
     ],
     "runs": 1,
-    "bestRank": 524,
-    "worstRank": 524,
+    "bestRank": 580,
+    "worstRank": 580,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2957,7 +3009,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 524,
+        "rank": 580,
         "ms": 4904222,
         "dish": "Fish"
       }

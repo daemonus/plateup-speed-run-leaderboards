@@ -1436,8 +1436,8 @@
       "\u54B8\u9C7C\u7FFB\u8EAB\u8FD8\u662F\u54B8\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 562,
-    "worstRank": 562,
+    "bestRank": 627,
+    "worstRank": 627,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 562,
+        "rank": 627,
         "ms": 5107073,
         "dish": "Fish"
       }
@@ -2002,6 +2002,32 @@
     ]
   },
   {
+    "id": "11b1d040-b9d7-475a-8ee0-78811ea95201",
+    "persona": "s1022120",
+    "names": [
+      "s1022120"
+    ],
+    "runs": 1,
+    "bestRank": 620,
+    "worstRank": 620,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5072966,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 620,
+        "ms": 5072966,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "11b21aa6-15e5-40f6-8ff1-3ba8cf89e132",
     "persona": "El",
     "names": [
@@ -2346,8 +2372,8 @@
       "$iLVeR"
     ],
     "runs": 1,
-    "bestRank": 663,
-    "worstRank": 663,
+    "bestRank": 749,
+    "worstRank": 749,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2385,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 663,
+        "rank": 749,
         "ms": 5990458,
         "dish": "Fish"
       }
@@ -2684,8 +2710,8 @@
       "Kranbug"
     ],
     "runs": 1,
-    "bestRank": 133,
-    "worstRank": 133,
+    "bestRank": 143,
+    "worstRank": 143,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 133,
+        "rank": 143,
         "ms": 2979616,
         "dish": "Fish"
       }

@@ -760,8 +760,8 @@
       "Crudster"
     ],
     "runs": 1,
-    "bestRank": 702,
-    "worstRank": 702,
+    "bestRank": 792,
+    "worstRank": 792,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 702,
+        "rank": 792,
         "ms": 6910550,
         "dish": "Fish"
       }
@@ -1410,8 +1410,8 @@
       "Elderberries"
     ],
     "runs": 1,
-    "bestRank": 586,
-    "worstRank": 586,
+    "bestRank": 659,
+    "worstRank": 659,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 586,
+        "rank": 659,
         "ms": 5251883,
         "dish": "Fish"
       }
@@ -1618,8 +1618,8 @@
       "choger.game"
     ],
     "runs": 1,
-    "bestRank": 721,
-    "worstRank": 721,
+    "bestRank": 815,
+    "worstRank": 815,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1631,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 721,
+        "rank": 815,
         "ms": 10053888,
         "dish": "Fish"
       }
@@ -2491,6 +2491,32 @@
         "start": "2023-03-27",
         "rank": 2099,
         "ms": 3218630,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "16dbdbe8-8aef-4810-ab42-9e683b3b25c7",
+    "persona": "Littlemama1993",
+    "names": [
+      "Littlemama1993"
+    ],
+    "runs": 1,
+    "bestRank": 296,
+    "worstRank": 296,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3758683,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 296,
+        "ms": 3758683,
         "dish": "Fish"
       }
     ]

@@ -832,6 +832,32 @@
     ]
   },
   {
+    "id": "2d4c0588-713e-4c30-ab6b-f61d1cb1820f",
+    "persona": "DiskInserted",
+    "names": [
+      "DiskInserted"
+    ],
+    "runs": 1,
+    "bestRank": 712,
+    "worstRank": 712,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5619762,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 712,
+        "ms": 5619762,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2d4c0ad3-7835-45ac-afbf-c089e0710b8d",
     "persona": "ka",
     "names": [
@@ -1150,8 +1176,8 @@
       "\u8D85\u7EDD\u8089\u611F\u5C0F\u6BCD\u725B"
     ],
     "runs": 1,
-    "bestRank": 475,
-    "worstRank": 475,
+    "bestRank": 521,
+    "worstRank": 521,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 475,
+        "rank": 521,
         "ms": 4623875,
         "dish": "Fish"
       }
@@ -1592,8 +1618,8 @@
       "\u83E0\u841D\u5F88\u751C\u7684\u5594"
     ],
     "runs": 1,
-    "bestRank": 411,
-    "worstRank": 411,
+    "bestRank": 451,
+    "worstRank": 451,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1631,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 411,
+        "rank": 451,
         "ms": 4336620,
         "dish": "Fish"
       }
@@ -2424,8 +2450,8 @@
       "Zyleve"
     ],
     "runs": 1,
-    "bestRank": 668,
-    "worstRank": 668,
+    "bestRank": 755,
+    "worstRank": 755,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2437,7 +2463,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 668,
+        "rank": 755,
         "ms": 6060079,
         "dish": "Fish"
       }

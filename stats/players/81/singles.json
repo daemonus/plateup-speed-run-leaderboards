@@ -1072,8 +1072,8 @@
       "emly carni\u00E7a ruim"
     ],
     "runs": 1,
-    "bestRank": 530,
-    "worstRank": 530,
+    "bestRank": 587,
+    "worstRank": 587,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1085,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 530,
+        "rank": 587,
         "ms": 4927381,
         "dish": "Fish"
       }
@@ -2908,6 +2908,32 @@
         "rank": 125,
         "ms": 2821052,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "81f8ab0d-9f09-4fd6-beb5-b2fe87b5b859",
+    "persona": "\u6211\u60F3\u5E72\u561B\u5C31\u5E72\u561B",
+    "names": [
+      "\u6211\u60F3\u5E72\u561B\u5C31\u5E72\u561B"
+    ],
+    "runs": 1,
+    "bestRank": 438,
+    "worstRank": 438,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4297558,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 438,
+        "ms": 4297558,
+        "dish": "Fish"
       }
     ]
   },

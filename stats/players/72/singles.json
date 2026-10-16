@@ -110,8 +110,8 @@
       "werlibus"
     ],
     "runs": 1,
-    "bestRank": 705,
-    "worstRank": 705,
+    "bestRank": 795,
+    "worstRank": 795,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 705,
+        "rank": 795,
         "ms": 7018893,
         "dish": "Fish"
       }
@@ -2340,6 +2340,32 @@
     ]
   },
   {
+    "id": "72afe8f0-e5b8-4a9a-9f83-6243c0472c8e",
+    "persona": "sanatokii",
+    "names": [
+      "sanatokii"
+    ],
+    "runs": 1,
+    "bestRank": 817,
+    "worstRank": 817,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 10951917,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 817,
+        "ms": 10951917,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "72affabe-02d7-4e9a-a05b-edfc65f8a8f0",
     "persona": "Blif",
     "names": [
@@ -2466,6 +2492,32 @@
         "rank": 739,
         "ms": 4069955,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "72bc6a53-010c-4648-8d60-cfc7f08b74fc",
+    "persona": "mikevou94",
+    "names": [
+      "mikevou94"
+    ],
+    "runs": 1,
+    "bestRank": 246,
+    "worstRank": 246,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3506188,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 246,
+        "ms": 3506188,
+        "dish": "Fish"
       }
     ]
   },
@@ -2840,8 +2892,8 @@
       "brigugg"
     ],
     "runs": 1,
-    "bestRank": 82,
-    "worstRank": 82,
+    "bestRank": 87,
+    "worstRank": 87,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2905,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 82,
+        "rank": 87,
         "ms": 2524722,
         "dish": "Fish"
       }
@@ -3386,8 +3438,8 @@
       "KaiShiShi"
     ],
     "runs": 1,
-    "bestRank": 720,
-    "worstRank": 720,
+    "bestRank": 814,
+    "worstRank": 814,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3399,7 +3451,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 720,
+        "rank": 814,
         "ms": 10027286,
         "dish": "Fish"
       }

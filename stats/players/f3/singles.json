@@ -156,32 +156,6 @@
     ]
   },
   {
-    "id": "f315e556-cd01-44ff-9450-f7e7bb5575a7",
-    "persona": "atsu2ryu",
-    "names": [
-      "atsu2ryu"
-    ],
-    "runs": 1,
-    "bestRank": 243,
-    "worstRank": 243,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5603347,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 243,
-        "ms": 5603347,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "f3165c27-8fef-4857-a0ef-2001461ad1c3",
     "persona": "Fotzenknecht",
     "names": [
@@ -422,8 +396,8 @@
       "ecejeff"
     ],
     "runs": 1,
-    "bestRank": 466,
-    "worstRank": 466,
+    "bestRank": 512,
+    "worstRank": 512,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +409,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 466,
+        "rank": 512,
         "ms": 4588476,
         "dish": "Fish"
       }
@@ -598,14 +572,40 @@
     ]
   },
   {
+    "id": "f3324f2b-7c7e-4b7e-a428-7a2775d76e42",
+    "persona": "\uA9C1\u0F12\u262C\u2620K1NG\u2620\uFE0E\u262C\u0F12\uA9C2",
+    "names": [
+      "\uA9C1\u0F12\u262C\u2620K1NG\u2620\uFE0E\u262C\u0F12\uA9C2"
+    ],
+    "runs": 1,
+    "bestRank": 600,
+    "worstRank": 600,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5016233,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 600,
+        "ms": 5016233,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "f3335412-9608-4b7c-be5c-e00970ccee07",
     "persona": "sweety0618",
     "names": [
       "sweety0618"
     ],
     "runs": 1,
-    "bestRank": 673,
-    "worstRank": 673,
+    "bestRank": 760,
+    "worstRank": 760,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 673,
+        "rank": 760,
         "ms": 6163841,
         "dish": "Fish"
       }

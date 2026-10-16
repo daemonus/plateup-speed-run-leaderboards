@@ -1306,8 +1306,8 @@
       "\u0E2A \u0E2D \u0E1A \u0E1B \u0E32 \u0E01 C U M"
     ],
     "runs": 1,
-    "bestRank": 455,
-    "worstRank": 455,
+    "bestRank": 501,
+    "worstRank": 501,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 455,
+        "rank": 501,
         "ms": 4540192,
         "dish": "Fish"
       }
@@ -2986,6 +2986,32 @@
         "rank": 442,
         "ms": 4117078,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "94ea6ff7-020f-4874-aa93-14dc4cfde917",
+    "persona": "eritanos",
+    "names": [
+      "eritanos"
+    ],
+    "runs": 1,
+    "bestRank": 714,
+    "worstRank": 714,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5646516,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 714,
+        "ms": 5646516,
+        "dish": "Fish"
       }
     ]
   },

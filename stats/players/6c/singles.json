@@ -104,6 +104,32 @@
     ]
   },
   {
+    "id": "6c085e82-4327-4c05-95df-e15e338334b8",
+    "persona": "\u4E09\u5BAE\u3064\u3070\u304D",
+    "names": [
+      "\u4E09\u5BAE\u3064\u3070\u304D"
+    ],
+    "runs": 1,
+    "bestRank": 299,
+    "worstRank": 299,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3769529,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 299,
+        "ms": 3769529,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6c08d0d6-7911-4320-ae21-35cc290e622d",
     "persona": "\u5343\u91D1",
     "names": [
@@ -604,8 +630,8 @@
       "6el1f"
     ],
     "runs": 1,
-    "bestRank": 643,
-    "worstRank": 643,
+    "bestRank": 727,
+    "worstRank": 727,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +643,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 643,
+        "rank": 727,
         "ms": 5794793,
         "dish": "Fish"
       }
@@ -2658,8 +2684,8 @@
       "Mortkei"
     ],
     "runs": 1,
-    "bestRank": 722,
-    "worstRank": 722,
+    "bestRank": 816,
+    "worstRank": 816,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 722,
+        "rank": 816,
         "ms": 10111825,
         "dish": "Fish"
       }

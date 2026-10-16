@@ -182,32 +182,6 @@
     ]
   },
   {
-    "id": "220f017a-a2f4-4816-88f1-67b067a0621e",
-    "persona": "Nomyc",
-    "names": [
-      "Nomyc"
-    ],
-    "runs": 1,
-    "bestRank": 220,
-    "worstRank": 220,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4998306,
-    "weeksActive": [
-      50
-    ],
-    "history": [
-      {
-        "week": 50,
-        "start": "2025-12-22",
-        "rank": 220,
-        "ms": 4998306,
-        "dish": "Stir Fry"
-      }
-    ]
-  },
-  {
     "id": "2213e8b4-7fce-482f-9a4f-8d664d84d968",
     "persona": "Shourtzo",
     "names": [
@@ -344,8 +318,8 @@
       "Joson"
     ],
     "runs": 1,
-    "bestRank": 688,
-    "worstRank": 688,
+    "bestRank": 778,
+    "worstRank": 778,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 688,
+        "rank": 778,
         "ms": 6434909,
         "dish": "Fish"
       }
@@ -1202,8 +1176,8 @@
       "z\u82BD\u82BDa"
     ],
     "runs": 1,
-    "bestRank": 615,
-    "worstRank": 615,
+    "bestRank": 693,
+    "worstRank": 693,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 615,
+        "rank": 693,
         "ms": 5479671,
         "dish": "Fish"
       }
@@ -1842,6 +1816,32 @@
         "rank": 184,
         "ms": 4792360,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "22a580b9-0186-441b-a6c5-3c21d7792e33",
+    "persona": "hekia",
+    "names": [
+      "hekia"
+    ],
+    "runs": 1,
+    "bestRank": 203,
+    "worstRank": 203,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3298022,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 203,
+        "ms": 3298022,
+        "dish": "Fish"
       }
     ]
   },

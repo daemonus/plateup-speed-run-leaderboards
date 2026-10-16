@@ -1540,8 +1540,8 @@
       "Hal"
     ],
     "runs": 1,
-    "bestRank": 235,
-    "worstRank": 235,
+    "bestRank": 252,
+    "worstRank": 252,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1553,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 235,
+        "rank": 252,
         "ms": 3518725,
         "dish": "Fish"
       }
@@ -2050,6 +2050,32 @@
         "rank": 553,
         "ms": 3828512,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "77a23d21-2554-40ea-9be9-394e661f5c37",
+    "persona": "541804473",
+    "names": [
+      "541804473"
+    ],
+    "runs": 1,
+    "bestRank": 544,
+    "worstRank": 544,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4716366,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 544,
+        "ms": 4716366,
+        "dish": "Fish"
       }
     ]
   },
@@ -3064,6 +3090,32 @@
         "rank": 321,
         "ms": 4301568,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "77f85630-8a09-4783-b467-e30183c72575",
+    "persona": "harapeko",
+    "names": [
+      "harapeko"
+    ],
+    "runs": 1,
+    "bestRank": 233,
+    "worstRank": 233,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3452674,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 233,
+        "ms": 3452674,
+        "dish": "Fish"
       }
     ]
   },

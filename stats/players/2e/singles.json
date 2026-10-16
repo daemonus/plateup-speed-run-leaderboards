@@ -2366,6 +2366,32 @@
     ]
   },
   {
+    "id": "2ec89909-87da-4f89-a883-32ffec7053a0",
+    "persona": "krstly",
+    "names": [
+      "krstly"
+    ],
+    "runs": 1,
+    "bestRank": 771,
+    "worstRank": 771,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6343003,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 771,
+        "ms": 6343003,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2ecb27ec-9678-44e2-a953-f5a3970f2ec1",
     "persona": "h031218",
     "names": [
@@ -2658,8 +2684,8 @@
       "zerotwooo"
     ],
     "runs": 1,
-    "bestRank": 345,
-    "worstRank": 345,
+    "bestRank": 378,
+    "worstRank": 378,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 345,
+        "rank": 378,
         "ms": 4054922,
         "dish": "Fish"
       }

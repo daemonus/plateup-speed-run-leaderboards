@@ -6,8 +6,8 @@
       "leosky1992"
     ],
     "runs": 1,
-    "bestRank": 591,
-    "worstRank": 591,
+    "bestRank": 666,
+    "worstRank": 666,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 591,
+        "rank": 666,
         "ms": 5280851,
         "dish": "Fish"
       }
@@ -2569,6 +2569,32 @@
         "start": "2023-03-27",
         "rank": 867,
         "ms": 2354460,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "5de2ac83-b43f-449c-81e3-0677a3348ce3",
+    "persona": "snsd515",
+    "names": [
+      "snsd515"
+    ],
+    "runs": 1,
+    "bestRank": 711,
+    "worstRank": 711,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5600416,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 711,
+        "ms": 5600416,
         "dish": "Fish"
       }
     ]

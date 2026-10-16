@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "a214e47e-4519-4861-abc6-1f6a6172f502",
+    "persona": "CIer1",
+    "names": [
+      "CIer1"
+    ],
+    "runs": 1,
+    "bestRank": 602,
+    "worstRank": 602,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5019488,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 602,
+        "ms": 5019488,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "a2156fae-813b-478a-afe0-aa5ffdf4b8a1",
     "persona": "\u76DB\u590F\u659C\u9633",
     "names": [
@@ -370,8 +396,8 @@
       "Sunkist"
     ],
     "runs": 1,
-    "bestRank": 413,
-    "worstRank": 413,
+    "bestRank": 454,
+    "worstRank": 454,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +409,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 413,
+        "rank": 454,
         "ms": 4350439,
         "dish": "Fish"
       }

@@ -2502,8 +2502,8 @@
       "1736866687"
     ],
     "runs": 1,
-    "bestRank": 556,
-    "worstRank": 556,
+    "bestRank": 619,
+    "worstRank": 619,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2515,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 556,
+        "rank": 619,
         "ms": 5072278,
         "dish": "Fish"
       }
@@ -2570,6 +2570,32 @@
         "rank": 493,
         "ms": 10658516,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "08bd8b75-08ae-43ca-9f42-1f9cdfc0aa5c",
+    "persona": "Zotsu",
+    "names": [
+      "Zotsu"
+    ],
+    "runs": 1,
+    "bestRank": 266,
+    "worstRank": 266,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3612906,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 266,
+        "ms": 3612906,
+        "dish": "Fish"
       }
     ]
   },

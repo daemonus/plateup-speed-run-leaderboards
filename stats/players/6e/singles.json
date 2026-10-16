@@ -188,8 +188,8 @@
       "Hopziv"
     ],
     "runs": 1,
-    "bestRank": 115,
-    "worstRank": 115,
+    "bestRank": 124,
+    "worstRank": 124,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -201,7 +201,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 115,
+        "rank": 124,
         "ms": 2859827,
         "dish": "Fish"
       }
@@ -526,8 +526,8 @@
       "2732812366"
     ],
     "runs": 1,
-    "bestRank": 710,
-    "worstRank": 710,
+    "bestRank": 800,
+    "worstRank": 800,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -539,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 710,
+        "rank": 800,
         "ms": 7477642,
         "dish": "Fish"
       }
@@ -1306,8 +1306,8 @@
       "\u4E8C\u4E09"
     ],
     "runs": 1,
-    "bestRank": 646,
-    "worstRank": 646,
+    "bestRank": 730,
+    "worstRank": 730,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 646,
+        "rank": 730,
         "ms": 5840179,
         "dish": "Fish"
       }
@@ -1514,8 +1514,8 @@
       "alina.denzer"
     ],
     "runs": 1,
-    "bestRank": 42,
-    "worstRank": 42,
+    "bestRank": 44,
+    "worstRank": 44,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1527,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 42,
+        "rank": 44,
         "ms": 2121617,
         "dish": "Fish"
       }
@@ -1998,6 +1998,32 @@
         "rank": 320,
         "ms": 5032247,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "6eb2faef-2ced-4d21-8425-d3a6bd57e638",
+    "persona": "Coting",
+    "names": [
+      "Coting"
+    ],
+    "runs": 1,
+    "bestRank": 370,
+    "worstRank": 370,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4027613,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 370,
+        "ms": 4027613,
+        "dish": "Fish"
       }
     ]
   },

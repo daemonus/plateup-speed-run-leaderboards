@@ -994,8 +994,8 @@
       "Tranquility"
     ],
     "runs": 1,
-    "bestRank": 303,
-    "worstRank": 303,
+    "bestRank": 330,
+    "worstRank": 330,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1007,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 303,
+        "rank": 330,
         "ms": 3879575,
         "dish": "Fish"
       }
@@ -2294,8 +2294,8 @@
       "livai"
     ],
     "runs": 1,
-    "bestRank": 581,
-    "worstRank": 581,
+    "bestRank": 653,
+    "worstRank": 653,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 581,
+        "rank": 653,
         "ms": 5236319,
         "dish": "Fish"
       }
@@ -3142,6 +3142,32 @@
         "rank": 301,
         "ms": 2354440,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "b2df442d-09b6-4eb1-9335-a71548446dd1",
+    "persona": "Metsuki Sutemi",
+    "names": [
+      "Metsuki Sutemi"
+    ],
+    "runs": 1,
+    "bestRank": 281,
+    "worstRank": 281,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3688584,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 281,
+        "ms": 3688584,
+        "dish": "Fish"
       }
     ]
   },

@@ -656,8 +656,8 @@
       "Bastikekse"
     ],
     "runs": 1,
-    "bestRank": 594,
-    "worstRank": 594,
+    "bestRank": 670,
+    "worstRank": 670,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 594,
+        "rank": 670,
         "ms": 5340870,
         "dish": "Fish"
       }
@@ -1950,6 +1950,32 @@
     ]
   },
   {
+    "id": "93815efb-c2d4-46f4-9ba3-75fed3c41592",
+    "persona": "Michi",
+    "names": [
+      "Michi"
+    ],
+    "runs": 1,
+    "bestRank": 251,
+    "worstRank": 251,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3518041,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 251,
+        "ms": 3518041,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "938566ea-cf64-4fdc-8876-63978a23aa8c",
     "persona": "deadfastproductions",
     "names": [
@@ -2242,8 +2268,8 @@
       "Turtle Wrangler"
     ],
     "runs": 1,
-    "bestRank": 569,
-    "worstRank": 569,
+    "bestRank": 638,
+    "worstRank": 638,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 569,
+        "rank": 638,
         "ms": 5137533,
         "dish": "Fish"
       }

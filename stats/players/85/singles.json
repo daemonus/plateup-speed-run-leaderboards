@@ -2470,6 +2470,32 @@
     ]
   },
   {
+    "id": "85bad5af-b152-4c2d-8084-0de2635e076e",
+    "persona": "\u51C9\u51C9\u7684V\u98CE",
+    "names": [
+      "\u51C9\u51C9\u7684V\u98CE"
+    ],
+    "runs": 1,
+    "bestRank": 762,
+    "worstRank": 762,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6180335,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 762,
+        "ms": 6180335,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "85bc0169-c956-4e1d-8057-90dde6be70b9",
     "persona": "moyuil",
     "names": [
@@ -3490,8 +3516,8 @@
       "ecooo"
     ],
     "runs": 1,
-    "bestRank": 550,
-    "worstRank": 550,
+    "bestRank": 613,
+    "worstRank": 613,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3503,7 +3529,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 550,
+        "rank": 613,
         "ms": 5056571,
         "dish": "Fish"
       }

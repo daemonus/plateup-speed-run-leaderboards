@@ -6,8 +6,8 @@
       "Aster Illya"
     ],
     "runs": 1,
-    "bestRank": 435,
-    "worstRank": 435,
+    "bestRank": 477,
+    "worstRank": 477,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 435,
+        "rank": 477,
         "ms": 4468431,
         "dish": "Fish"
       }
@@ -1280,8 +1280,8 @@
       "420goalmaster"
     ],
     "runs": 1,
-    "bestRank": 456,
-    "worstRank": 456,
+    "bestRank": 502,
+    "worstRank": 502,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 456,
+        "rank": 502,
         "ms": 4546536,
         "dish": "Fish"
       }
@@ -2985,6 +2985,32 @@
         "start": "2024-04-22",
         "rank": 523,
         "ms": 3540660,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "bce32ed4-94ac-4969-9805-74fbc60b1362",
+    "persona": "PaperPiece",
+    "names": [
+      "PaperPiece"
+    ],
+    "runs": 1,
+    "bestRank": 422,
+    "worstRank": 422,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4220195,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 422,
+        "ms": 4220195,
         "dish": "Fish"
       }
     ]

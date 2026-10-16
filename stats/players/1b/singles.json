@@ -312,6 +312,32 @@
     ]
   },
   {
+    "id": "1b1452a7-81ba-4416-a249-c35d7c6689b0",
+    "persona": "\u5143\u8427",
+    "names": [
+      "\u5143\u8427"
+    ],
+    "runs": 1,
+    "bestRank": 532,
+    "worstRank": 532,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4668328,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 532,
+        "ms": 4668328,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "1b1644ea-0434-482d-9050-25f2cf069103",
     "persona": "Morgan",
     "names": [
@@ -2028,32 +2054,6 @@
     ]
   },
   {
-    "id": "1b9ab7de-d26c-480a-bf77-585555891036",
-    "persona": "quinnakrista",
-    "names": [
-      "quinnakrista"
-    ],
-    "runs": 1,
-    "bestRank": 508,
-    "worstRank": 508,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4535931,
-    "weeksActive": [
-      86
-    ],
-    "history": [
-      {
-        "week": 86,
-        "start": "2026-08-31",
-        "rank": 508,
-        "ms": 4535931,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "1ba0ad0f-9ac7-43ad-beed-f00c965e9519",
     "persona": "\u4E5D\u6B4C\u6740\u4EBA\u5973\u9B54\u5934",
     "names": [
@@ -2268,8 +2268,8 @@
       "1328907598"
     ],
     "runs": 1,
-    "bestRank": 603,
-    "worstRank": 603,
+    "bestRank": 680,
+    "worstRank": 680,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 603,
+        "rank": 680,
         "ms": 5407764,
         "dish": "Fish"
       }

@@ -84,8 +84,8 @@
       "16"
     ],
     "runs": 1,
-    "bestRank": 493,
-    "worstRank": 493,
+    "bestRank": 546,
+    "worstRank": 546,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 493,
+        "rank": 546,
         "ms": 4726917,
         "dish": "Fish"
       }
@@ -1846,6 +1846,32 @@
     ]
   },
   {
+    "id": "d5a4c117-5874-4567-baaa-2e1dc43215dd",
+    "persona": "bubble1236",
+    "names": [
+      "bubble1236"
+    ],
+    "runs": 1,
+    "bestRank": 708,
+    "worstRank": 708,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5572296,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 708,
+        "ms": 5572296,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "d5a4ddb3-4d27-4ef3-8b09-3d3a8a2ac785",
     "persona": "Flandre Bot",
     "names": [
@@ -2284,6 +2310,32 @@
         "rank": 748,
         "ms": 6642593,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "d5ca1e3a-68ec-45d6-916c-ce8f5eb186eb",
+    "persona": "Fugakawaki",
+    "names": [
+      "Fugakawaki"
+    ],
+    "runs": 1,
+    "bestRank": 486,
+    "worstRank": 486,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4486061,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 486,
+        "ms": 4486061,
+        "dish": "Fish"
       }
     ]
   },

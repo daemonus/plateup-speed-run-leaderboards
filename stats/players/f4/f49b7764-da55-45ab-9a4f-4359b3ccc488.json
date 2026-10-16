@@ -4,7 +4,7 @@
   "names": [
     "steam"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 44,
   "worstRank": 249,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     78,
     81,
     83,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 78,
       "ms": 1490515,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 115,
+      "ms": 2817904,
+      "dish": "Fish"
     }
   ]
 }

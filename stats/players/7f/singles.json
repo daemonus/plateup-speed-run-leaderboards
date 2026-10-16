@@ -910,6 +910,32 @@
     ]
   },
   {
+    "id": "7f4405dc-b8d5-494f-92d6-b1b081fbaab0",
+    "persona": "Q",
+    "names": [
+      "Q"
+    ],
+    "runs": 1,
+    "bestRank": 540,
+    "worstRank": 540,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4679880,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 540,
+        "ms": 4679880,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "7f48e442-ef4d-476b-ba76-a5c0036b42e5",
     "persona": "Enadriel",
     "names": [
@@ -1956,8 +1982,8 @@
       "Stellar"
     ],
     "runs": 1,
-    "bestRank": 439,
-    "worstRank": 439,
+    "bestRank": 482,
+    "worstRank": 482,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 439,
+        "rank": 482,
         "ms": 4477820,
         "dish": "Fish"
       }
@@ -2424,8 +2450,8 @@
       "Gloinar"
     ],
     "runs": 1,
-    "bestRank": 279,
-    "worstRank": 279,
+    "bestRank": 301,
+    "worstRank": 301,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2437,7 +2463,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 279,
+        "rank": 301,
         "ms": 3772877,
         "dish": "Fish"
       }
@@ -2466,6 +2492,32 @@
         "rank": 326,
         "ms": 3333562,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "7fa95fb0-8d24-451d-a559-2d2deab28077",
+    "persona": "3108622628",
+    "names": [
+      "3108622628"
+    ],
+    "runs": 1,
+    "bestRank": 543,
+    "worstRank": 543,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4701905,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 543,
+        "ms": 4701905,
+        "dish": "Fish"
       }
     ]
   },
@@ -3360,8 +3412,8 @@
       "apple54"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 211,
+    "worstRank": 211,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3373,7 +3425,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 199,
+        "rank": 211,
         "ms": 3329374,
         "dish": "Fish"
       }
