@@ -2710,8 +2710,8 @@
       "kpyyin"
     ],
     "runs": 1,
-    "bestRank": 787,
-    "worstRank": 787,
+    "bestRank": 910,
+    "worstRank": 910,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 787,
+        "rank": 910,
         "ms": 5631558,
         "dish": "Fish"
       }
@@ -3167,6 +3167,32 @@
         "start": "2025-11-03",
         "rank": 704,
         "ms": 4498675,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "d2d13f00-7990-4e62-8015-07114ca88399",
+    "persona": "WiCoFe",
+    "names": [
+      "WiCoFe"
+    ],
+    "runs": 1,
+    "bestRank": 561,
+    "worstRank": 561,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4333686,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 561,
+        "ms": 4333686,
         "dish": "Fish"
       }
     ]

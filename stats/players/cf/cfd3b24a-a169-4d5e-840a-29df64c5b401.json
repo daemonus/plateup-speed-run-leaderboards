@@ -4,7 +4,7 @@
   "names": [
     "Killer_Squirrel"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 124,
   "worstRank": 432,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     84,
     86,
     87,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 158,
       "ms": 3727356,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 354,
+      "ms": 3760246,
+      "dish": "Fish"
     }
   ]
 }

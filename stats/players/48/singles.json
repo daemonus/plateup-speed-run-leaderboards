@@ -1852,8 +1852,8 @@
       "130"
     ],
     "runs": 1,
-    "bestRank": 348,
-    "worstRank": 348,
+    "bestRank": 383,
+    "worstRank": 383,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 348,
+        "rank": 383,
         "ms": 3841229,
         "dish": "Fish"
       }
@@ -2138,8 +2138,8 @@
       "\u5F4C\u73A5\u73A5\u73A5"
     ],
     "runs": 1,
-    "bestRank": 813,
-    "worstRank": 813,
+    "bestRank": 939,
+    "worstRank": 939,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2151,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 813,
+        "rank": 939,
         "ms": 5870365,
         "dish": "Fish"
       }
@@ -2388,6 +2388,32 @@
         "rank": 391,
         "ms": 4108614,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "48b4124b-7841-4145-be84-859678319c25",
+    "persona": "\u65E0\u6240\u80C3\uFF0C\u6211\u4F1A\u767D\u7ED9",
+    "names": [
+      "\u65E0\u6240\u80C3\uFF0C\u6211\u4F1A\u767D\u7ED9"
+    ],
+    "runs": 1,
+    "bestRank": 819,
+    "worstRank": 819,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5169466,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 819,
+        "ms": 5169466,
+        "dish": "Fish"
       }
     ]
   },

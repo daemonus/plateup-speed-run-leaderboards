@@ -6,8 +6,8 @@
       "Aster Illya"
     ],
     "runs": 1,
-    "bestRank": 530,
-    "worstRank": 530,
+    "bestRank": 597,
+    "worstRank": 597,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 530,
+        "rank": 597,
         "ms": 4468431,
         "dish": "Fish"
       }
@@ -1280,8 +1280,8 @@
       "420goalmaster"
     ],
     "runs": 1,
-    "bestRank": 558,
-    "worstRank": 558,
+    "bestRank": 631,
+    "worstRank": 631,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 558,
+        "rank": 631,
         "ms": 4546536,
         "dish": "Fish"
       }
@@ -2996,8 +2996,8 @@
       "PaperPiece"
     ],
     "runs": 1,
-    "bestRank": 465,
-    "worstRank": 465,
+    "bestRank": 522,
+    "worstRank": 522,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3009,7 +3009,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 465,
+        "rank": 522,
         "ms": 4220195,
         "dish": "Fish"
       }
@@ -3090,6 +3090,32 @@
         "rank": 311,
         "ms": 2858094,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "bce89ede-ab9a-4fe9-9a68-1e927a551a3f",
+    "persona": "LORIGINAL00",
+    "names": [
+      "LORIGINAL00"
+    ],
+    "runs": 1,
+    "bestRank": 785,
+    "worstRank": 785,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5067819,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 785,
+        "ms": 5067819,
+        "dish": "Fish"
       }
     ]
   },

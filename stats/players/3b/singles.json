@@ -2910,5 +2910,31 @@
         "dish": "Sundaes"
       }
     ]
+  },
+  {
+    "id": "3bfcd8a2-8a11-4bc4-9aaa-9cc0de8ad1f8",
+    "persona": "aqi",
+    "names": [
+      "aqi"
+    ],
+    "runs": 1,
+    "bestRank": 729,
+    "worstRank": 729,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4883173,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 729,
+        "ms": 4883173,
+        "dish": "Fish"
+      }
+    ]
   }
 ]

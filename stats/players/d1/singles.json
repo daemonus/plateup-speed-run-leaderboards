@@ -344,8 +344,8 @@
       "elekv"
     ],
     "runs": 1,
-    "bestRank": 735,
-    "worstRank": 735,
+    "bestRank": 848,
+    "worstRank": 848,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 735,
+        "rank": 848,
         "ms": 5269367,
         "dish": "Fish"
       }
@@ -916,8 +916,8 @@
       "ghostmonsea"
     ],
     "runs": 1,
-    "bestRank": 551,
-    "worstRank": 551,
+    "bestRank": 622,
+    "worstRank": 622,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,8 +929,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 551,
+        "rank": 622,
         "ms": 4520706,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "d1530649-c162-4d08-801a-09f1bc18fe19",
+    "persona": "songjia9921",
+    "names": [
+      "songjia9921"
+    ],
+    "runs": 1,
+    "bestRank": 431,
+    "worstRank": 431,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3971741,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 431,
+        "ms": 3971741,
         "dish": "Fish"
       }
     ]
@@ -1020,8 +1046,8 @@
       "racheltmp11"
     ],
     "runs": 1,
-    "bestRank": 620,
-    "worstRank": 620,
+    "bestRank": 706,
+    "worstRank": 706,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1033,7 +1059,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 620,
+        "rank": 706,
         "ms": 4797449,
         "dish": "Fish"
       }
@@ -2034,8 +2060,8 @@
       "wjayao"
     ],
     "runs": 1,
-    "bestRank": 463,
-    "worstRank": 463,
+    "bestRank": 519,
+    "worstRank": 519,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2073,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 463,
+        "rank": 519,
         "ms": 4205686,
         "dish": "Fish"
       }
@@ -2205,6 +2231,32 @@
         "start": "2025-01-27",
         "rank": 200,
         "ms": 2979020,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "d1bae25e-f85b-43d7-8861-0119b31512bd",
+    "persona": "\u96E8\u591C",
+    "names": [
+      "\u96E8\u591C"
+    ],
+    "runs": 1,
+    "bestRank": 919,
+    "worstRank": 919,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5696729,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 919,
+        "ms": 5696729,
         "dish": "Fish"
       }
     ]

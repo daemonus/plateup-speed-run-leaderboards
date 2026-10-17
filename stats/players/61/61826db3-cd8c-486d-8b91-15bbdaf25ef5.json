@@ -4,7 +4,7 @@
   "names": [
     "Krouton"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 143,
   "worstRank": 405,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     67,
     68,
     69,
-    70
+    70,
+    92
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 147,
       "ms": 3149265,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 199,
+      "ms": 3116611,
+      "dish": "Fish"
     }
   ]
 }

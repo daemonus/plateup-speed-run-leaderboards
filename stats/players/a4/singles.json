@@ -526,8 +526,8 @@
       "lexipie13"
     ],
     "runs": 1,
-    "bestRank": 187,
-    "worstRank": 187,
+    "bestRank": 202,
+    "worstRank": 202,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -539,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 187,
+        "rank": 202,
         "ms": 3124900,
         "dish": "Fish"
       }
@@ -838,8 +838,8 @@
       "HTml"
     ],
     "runs": 1,
-    "bestRank": 583,
-    "worstRank": 583,
+    "bestRank": 660,
+    "worstRank": 660,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 583,
+        "rank": 660,
         "ms": 4643507,
         "dish": "Fish"
       }
@@ -1956,8 +1956,8 @@
       "art"
     ],
     "runs": 1,
-    "bestRank": 474,
-    "worstRank": 474,
+    "bestRank": 531,
+    "worstRank": 531,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1969,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 474,
+        "rank": 531,
         "ms": 4251805,
         "dish": "Fish"
       }
@@ -2600,6 +2600,32 @@
     ]
   },
   {
+    "id": "a4d3175e-26e8-4709-ae9f-ce8a21f50df3",
+    "persona": "justducheit",
+    "names": [
+      "justducheit"
+    ],
+    "runs": 1,
+    "bestRank": 656,
+    "worstRank": 656,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4628574,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 656,
+        "ms": 4628574,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "a4d36f0d-49dc-4f01-97e8-e54e4820b64a",
     "persona": "WhitecatUwU",
     "names": [
@@ -2622,6 +2648,32 @@
         "rank": 260,
         "ms": 5523083,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "a4d442cd-6c54-41c6-a537-2948a286abf6",
+    "persona": "1225430500",
+    "names": [
+      "1225430500"
+    ],
+    "runs": 1,
+    "bestRank": 382,
+    "worstRank": 382,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3838602,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 382,
+        "ms": 3838602,
+        "dish": "Fish"
       }
     ]
   },

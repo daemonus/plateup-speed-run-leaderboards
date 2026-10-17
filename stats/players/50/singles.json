@@ -1716,6 +1716,32 @@
     ]
   },
   {
+    "id": "507ab86b-b6f4-4ebf-8e50-28478730e98a",
+    "persona": "\u58EB\u591A\u5564\u68A8\u86CB\u7CD5",
+    "names": [
+      "\u58EB\u591A\u5564\u68A8\u86CB\u7CD5"
+    ],
+    "runs": 1,
+    "bestRank": 263,
+    "worstRank": 263,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3414023,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 263,
+        "ms": 3414023,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "507b62a7-1911-47af-82ba-da19c807bedb",
     "persona": "potatart",
     "names": [
@@ -1748,8 +1774,8 @@
       "playee233"
     ],
     "runs": 1,
-    "bestRank": 167,
-    "worstRank": 167,
+    "bestRank": 178,
+    "worstRank": 178,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1761,7 +1787,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 167,
+        "rank": 178,
         "ms": 3037510,
         "dish": "Fish"
       }
@@ -2684,8 +2710,8 @@
       "chifanfang"
     ],
     "runs": 1,
-    "bestRank": 771,
-    "worstRank": 771,
+    "bestRank": 891,
+    "worstRank": 891,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 771,
+        "rank": 891,
         "ms": 5514820,
         "dish": "Fish"
       }

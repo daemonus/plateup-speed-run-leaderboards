@@ -682,8 +682,8 @@
       "\u8679\u590F\u5FAE\u51C9"
     ],
     "runs": 1,
-    "bestRank": 746,
-    "worstRank": 746,
+    "bestRank": 863,
+    "worstRank": 863,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 746,
+        "rank": 863,
         "ms": 5377389,
         "dish": "Fish"
       }
@@ -1358,8 +1358,8 @@
       "zsci"
     ],
     "runs": 1,
-    "bestRank": 702,
-    "worstRank": 702,
+    "bestRank": 805,
+    "worstRank": 805,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 702,
+        "rank": 805,
         "ms": 5120199,
         "dish": "Fish"
       }
@@ -2184,6 +2184,32 @@
     ]
   },
   {
+    "id": "f18ad384-a0ef-4604-8086-116f44787822",
+    "persona": "HatlaMatlaCZ",
+    "names": [
+      "HatlaMatlaCZ"
+    ],
+    "runs": 1,
+    "bestRank": 843,
+    "worstRank": 843,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5252989,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 843,
+        "ms": 5252989,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "f18b250e-f6ab-4953-8157-391e5914f45a",
     "persona": "dkdldb",
     "names": [
@@ -2320,8 +2346,8 @@
       "Nell"
     ],
     "runs": 1,
-    "bestRank": 368,
-    "worstRank": 368,
+    "bestRank": 404,
+    "worstRank": 404,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 368,
+        "rank": 404,
         "ms": 3897403,
         "dish": "Fish"
       }
@@ -3932,8 +3958,8 @@
       "\u5403\u4E86\u5417\u60A8"
     ],
     "runs": 1,
-    "bestRank": 446,
-    "worstRank": 446,
+    "bestRank": 500,
+    "worstRank": 500,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3945,7 +3971,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 446,
+        "rank": 500,
         "ms": 4159041,
         "dish": "Fish"
       }

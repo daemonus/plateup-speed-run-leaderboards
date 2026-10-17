@@ -4,7 +4,7 @@
   "names": [
     "manten"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 128,
   "worstRank": 346,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     72,
     75,
     80,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 292,
       "ms": 2719159,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 181,
+      "ms": 3050232,
+      "dish": "Fish"
     }
   ]
 }

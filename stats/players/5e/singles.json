@@ -318,8 +318,8 @@
       "Fantasy"
     ],
     "runs": 1,
-    "bestRank": 767,
-    "worstRank": 767,
+    "bestRank": 887,
+    "worstRank": 887,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 767,
+        "rank": 887,
         "ms": 5483098,
         "dish": "Fish"
       }
@@ -1300,6 +1300,32 @@
     ]
   },
   {
+    "id": "5e7ffb52-b9fe-4aab-8529-f3842cd5a7b9",
+    "persona": "Megami",
+    "names": [
+      "Megami"
+    ],
+    "runs": 1,
+    "bestRank": 610,
+    "worstRank": 610,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4487585,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 610,
+        "ms": 4487585,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "5e800ae4-7b4d-4698-a0ec-af23c54ea642",
     "persona": "Harry",
     "names": [
@@ -1904,8 +1930,8 @@
       "novianyx"
     ],
     "runs": 1,
-    "bestRank": 889,
-    "worstRank": 889,
+    "bestRank": 1029,
+    "worstRank": 1029,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1943,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 889,
+        "rank": 1029,
         "ms": 8499759,
         "dish": "Fish"
       }

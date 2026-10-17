@@ -474,8 +474,8 @@
       "imDawniii"
     ],
     "runs": 1,
-    "bestRank": 549,
-    "worstRank": 549,
+    "bestRank": 619,
+    "worstRank": 619,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 549,
+        "rank": 619,
         "ms": 4511727,
         "dish": "Fish"
       }
@@ -760,8 +760,8 @@
       "casey"
     ],
     "runs": 1,
-    "bestRank": 615,
-    "worstRank": 615,
+    "bestRank": 697,
+    "worstRank": 697,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 615,
+        "rank": 697,
         "ms": 4765656,
         "dish": "Fish"
       }
@@ -1020,8 +1020,8 @@
       "\u6CE0\u7136\u5E7D\u96EA"
     ],
     "runs": 1,
-    "bestRank": 866,
-    "worstRank": 866,
+    "bestRank": 1000,
+    "worstRank": 1000,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1033,7 +1033,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 866,
+        "rank": 1000,
         "ms": 6747580,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "\u840C\u65B0"
     ],
     "runs": 1,
-    "bestRank": 819,
-    "worstRank": 819,
+    "bestRank": 945,
+    "worstRank": 945,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 819,
+        "rank": 945,
         "ms": 5917194,
         "dish": "Fish"
       }
@@ -1634,6 +1634,32 @@
         "rank": 688,
         "ms": 4186612,
         "dish": "Steak"
+      }
+    ]
+  },
+  {
+    "id": "5189cf8e-05dd-42e9-adaf-de402a80c250",
+    "persona": "Whiskey Husten",
+    "names": [
+      "Whiskey Husten"
+    ],
+    "runs": 1,
+    "bestRank": 1047,
+    "worstRank": 1047,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 14403630,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1047,
+        "ms": 14403630,
+        "dish": "Fish"
       }
     ]
   },

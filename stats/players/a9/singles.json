@@ -1254,8 +1254,8 @@
       "Apa Tu"
     ],
     "runs": 1,
-    "bestRank": 175,
-    "worstRank": 175,
+    "bestRank": 187,
+    "worstRank": 187,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1267,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 175,
+        "rank": 187,
         "ms": 3072019,
         "dish": "Fish"
       }
@@ -2034,8 +2034,8 @@
       "nanamii007"
     ],
     "runs": 1,
-    "bestRank": 359,
-    "worstRank": 359,
+    "bestRank": 395,
+    "worstRank": 395,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 359,
+        "rank": 395,
         "ms": 3877975,
         "dish": "Fish"
       }
@@ -2310,6 +2310,32 @@
         "rank": 418,
         "ms": 4238048,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "a9a1e73e-5848-4327-af41-2dfa6429c5c4",
+    "persona": "wangchiyi",
+    "names": [
+      "wangchiyi"
+    ],
+    "runs": 1,
+    "bestRank": 698,
+    "worstRank": 698,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4767908,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 698,
+        "ms": 4767908,
+        "dish": "Fish"
       }
     ]
   },

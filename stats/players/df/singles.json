@@ -1644,8 +1644,8 @@
       "Evie"
     ],
     "runs": 1,
-    "bestRank": 51,
-    "worstRank": 51,
+    "bestRank": 52,
+    "worstRank": 52,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1657,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 51,
+        "rank": 52,
         "ms": 2174379,
         "dish": "Fish"
       }
@@ -2388,6 +2388,32 @@
         "rank": 202,
         "ms": 3582136,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "dfb24f53-59aa-4e6f-a30e-8ca5757002ad",
+    "persona": "\u54B8\u9C7C",
+    "names": [
+      "\u54B8\u9C7C"
+    ],
+    "runs": 1,
+    "bestRank": 959,
+    "worstRank": 959,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6068020,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 959,
+        "ms": 6068020,
+        "dish": "Fish"
       }
     ]
   },

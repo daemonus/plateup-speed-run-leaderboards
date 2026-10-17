@@ -318,8 +318,8 @@
       "\u5916\u745E\u5948\u65AF"
     ],
     "runs": 1,
-    "bestRank": 379,
-    "worstRank": 379,
+    "bestRank": 415,
+    "worstRank": 415,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 379,
+        "rank": 415,
         "ms": 3913534,
         "dish": "Fish"
       }
@@ -448,8 +448,8 @@
       "Th0ny1312"
     ],
     "runs": 1,
-    "bestRank": 663,
-    "worstRank": 663,
+    "bestRank": 756,
+    "worstRank": 756,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 663,
+        "rank": 756,
         "ms": 4959821,
         "dish": "Fish"
       }
@@ -1072,8 +1072,8 @@
       "Henry"
     ],
     "runs": 1,
-    "bestRank": 373,
-    "worstRank": 373,
+    "bestRank": 409,
+    "worstRank": 409,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1085,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 373,
+        "rank": 409,
         "ms": 3903034,
         "dish": "Fish"
       }
@@ -3220,6 +3220,32 @@
         "rank": 166,
         "ms": 3959841,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "a8f9f459-ac66-4f88-bfae-7bfa22d7458d",
+    "persona": "wyh1122333",
+    "names": [
+      "wyh1122333"
+    ],
+    "runs": 1,
+    "bestRank": 909,
+    "worstRank": 909,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5626863,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 909,
+        "ms": 5626863,
+        "dish": "Fish"
       }
     ]
   },

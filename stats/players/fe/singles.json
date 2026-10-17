@@ -1176,8 +1176,8 @@
       "PJ"
     ],
     "runs": 1,
-    "bestRank": 858,
-    "worstRank": 858,
+    "bestRank": 992,
+    "worstRank": 992,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 858,
+        "rank": 992,
         "ms": 6546281,
         "dish": "Fish"
       }
@@ -1742,6 +1742,32 @@
     ]
   },
   {
+    "id": "fe7c8a06-99b0-4d22-8707-a61c8aa51c50",
+    "persona": "\u042F",
+    "names": [
+      "\u042F"
+    ],
+    "runs": 1,
+    "bestRank": 309,
+    "worstRank": 309,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3595100,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 309,
+        "ms": 3595100,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fe7d38c5-ffa9-4189-89af-20406b450002",
     "persona": "15 Pounds Deep",
     "names": [
@@ -1764,6 +1790,32 @@
         "rank": 281,
         "ms": 3874648,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "fe841741-5a94-4718-a323-3273ce75a61d",
+    "persona": "Special Sauce",
+    "names": [
+      "Special Sauce"
+    ],
+    "runs": 1,
+    "bestRank": 200,
+    "worstRank": 200,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3121970,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 200,
+        "ms": 3121970,
+        "dish": "Fish"
       }
     ]
   },
@@ -1982,8 +2034,8 @@
       "\u6BB5\u6BB5"
     ],
     "runs": 1,
-    "bestRank": 673,
-    "worstRank": 673,
+    "bestRank": 770,
+    "worstRank": 770,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 673,
+        "rank": 770,
         "ms": 5023084,
         "dish": "Fish"
       }
@@ -2398,8 +2450,8 @@
       "vthelym"
     ],
     "runs": 1,
-    "bestRank": 738,
-    "worstRank": 738,
+    "bestRank": 852,
+    "worstRank": 852,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2463,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 738,
+        "rank": 852,
         "ms": 5288081,
         "dish": "Fish"
       }

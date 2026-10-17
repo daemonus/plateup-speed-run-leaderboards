@@ -656,8 +656,8 @@
       "Bastikekse"
     ],
     "runs": 1,
-    "bestRank": 742,
-    "worstRank": 742,
+    "bestRank": 859,
+    "worstRank": 859,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 742,
+        "rank": 859,
         "ms": 5340870,
         "dish": "Fish"
       }
@@ -1956,8 +1956,8 @@
       "Michi"
     ],
     "runs": 1,
-    "bestRank": 269,
-    "worstRank": 269,
+    "bestRank": 291,
+    "worstRank": 291,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1969,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 269,
+        "rank": 291,
         "ms": 3518041,
         "dish": "Fish"
       }
@@ -2268,8 +2268,8 @@
       "Turtle Wrangler"
     ],
     "runs": 1,
-    "bestRank": 708,
-    "worstRank": 708,
+    "bestRank": 811,
+    "worstRank": 811,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 708,
+        "rank": 811,
         "ms": 5137533,
         "dish": "Fish"
       }
@@ -3428,6 +3428,32 @@
         "rank": 439,
         "ms": 5465630,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "93eceb3b-c922-49a8-9170-1ea52853690f",
+    "persona": "Sniper",
+    "names": [
+      "Sniper"
+    ],
+    "runs": 1,
+    "bestRank": 626,
+    "worstRank": 626,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4531452,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 626,
+        "ms": 4531452,
+        "dish": "Fish"
       }
     ]
   },

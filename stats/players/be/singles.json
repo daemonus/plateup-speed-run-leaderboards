@@ -422,8 +422,8 @@
       "sasongko"
     ],
     "runs": 1,
-    "bestRank": 191,
-    "worstRank": 191,
+    "bestRank": 206,
+    "worstRank": 206,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 191,
+        "rank": 206,
         "ms": 3144193,
         "dish": "Fish"
       }
@@ -448,8 +448,8 @@
       "Jacquie"
     ],
     "runs": 1,
-    "bestRank": 862,
-    "worstRank": 862,
+    "bestRank": 996,
+    "worstRank": 996,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 862,
+        "rank": 996,
         "ms": 6597366,
         "dish": "Fish"
       }
@@ -604,8 +604,8 @@
       "Minichymy"
     ],
     "runs": 1,
-    "bestRank": 267,
-    "worstRank": 267,
+    "bestRank": 288,
+    "worstRank": 288,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 267,
+        "rank": 288,
         "ms": 3515351,
         "dish": "Fish"
       }
@@ -1243,6 +1243,32 @@
         "start": "2024-04-22",
         "rank": 619,
         "ms": 3715390,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "be4469d9-246f-4106-ba07-b43024eb9603",
+    "persona": "pyyyyyyyyyyyyyyyyyyyyyyy",
+    "names": [
+      "pyyyyyyyyyyyyyyyyyyyyyyy"
+    ],
+    "runs": 1,
+    "bestRank": 463,
+    "worstRank": 463,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4062143,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 463,
+        "ms": 4062143,
         "dish": "Fish"
       }
     ]
@@ -3380,6 +3406,32 @@
     ]
   },
   {
+    "id": "bedf0fcf-dd29-428b-a80d-0b1fdabc7f36",
+    "persona": "Yukine",
+    "names": [
+      "Yukine"
+    ],
+    "runs": 1,
+    "bestRank": 509,
+    "worstRank": 509,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4187177,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 509,
+        "ms": 4187177,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "bedf5a18-8a14-4515-968a-7d924511c87e",
     "persona": "CowOnAUnicycle",
     "names": [
@@ -3672,8 +3724,8 @@
       "jonnyp11"
     ],
     "runs": 1,
-    "bestRank": 577,
-    "worstRank": 577,
+    "bestRank": 652,
+    "worstRank": 652,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3685,7 +3737,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 577,
+        "rank": 652,
         "ms": 4622159,
         "dish": "Fish"
       }

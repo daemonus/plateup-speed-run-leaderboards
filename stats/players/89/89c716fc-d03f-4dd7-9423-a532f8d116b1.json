@@ -1,0 +1,34 @@
+{
+  "id": "89c716fc-d03f-4dd7-9423-a532f8d116b1",
+  "persona": "Evaleone",
+  "names": [
+    "Evaleone"
+  ],
+  "runs": 2,
+  "bestRank": 761,
+  "worstRank": 1123,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4890673,
+  "weeksActive": [
+    -71,
+    92
+  ],
+  "history": [
+    {
+      "week": -71,
+      "start": "2023-08-28",
+      "rank": 1123,
+      "ms": 4890673,
+      "dish": "Turkey"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 761,
+      "ms": 4991631,
+      "dish": "Fish"
+    }
+  ]
+}

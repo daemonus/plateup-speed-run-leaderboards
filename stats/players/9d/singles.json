@@ -234,6 +234,32 @@
     ]
   },
   {
+    "id": "9d0a8d36-34c7-4a0d-9cf8-3ef5a96a1b46",
+    "persona": "andrewcuttlefish",
+    "names": [
+      "andrewcuttlefish"
+    ],
+    "runs": 1,
+    "bestRank": 589,
+    "worstRank": 589,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4434800,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 589,
+        "ms": 4434800,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "9d0d58dc-0c82-4a04-a7e6-6efd742e9541",
     "persona": "\u6298\u4E0A \u6CF0\u751F",
     "names": [
@@ -2788,8 +2814,8 @@
       "Charm"
     ],
     "runs": 1,
-    "bestRank": 569,
-    "worstRank": 569,
+    "bestRank": 642,
+    "worstRank": 642,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2827,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 569,
+        "rank": 642,
         "ms": 4588443,
         "dish": "Fish"
       }

@@ -6,8 +6,8 @@
       "HIKARUchan"
     ],
     "runs": 1,
-    "bestRank": 857,
-    "worstRank": 857,
+    "bestRank": 991,
+    "worstRank": 991,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 857,
+        "rank": 991,
         "ms": 6519916,
         "dish": "Fish"
       }
@@ -266,8 +266,8 @@
       "Starrr"
     ],
     "runs": 1,
-    "bestRank": 321,
-    "worstRank": 321,
+    "bestRank": 350,
+    "worstRank": 350,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -279,7 +279,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 321,
+        "rank": 350,
         "ms": 3744946,
         "dish": "Fish"
       }
@@ -3298,6 +3298,32 @@
         "rank": 803,
         "ms": 3680626,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "3ef66b42-f7b6-43f1-883d-6fb8d8db6345",
+    "persona": "cotton",
+    "names": [
+      "cotton"
+    ],
+    "runs": 1,
+    "bestRank": 790,
+    "worstRank": 790,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5074249,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 790,
+        "ms": 5074249,
+        "dish": "Fish"
       }
     ]
   },

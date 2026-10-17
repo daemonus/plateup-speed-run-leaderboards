@@ -1248,6 +1248,32 @@
     ]
   },
   {
+    "id": "3078c0ed-a24a-4544-b222-36fc75e0f588",
+    "persona": "\u6709\u8BDD\u597D\u8BF4\u522B\u7AEF\u7740\u9505",
+    "names": [
+      "\u6709\u8BDD\u597D\u8BF4\u522B\u7AEF\u7740\u9505"
+    ],
+    "runs": 1,
+    "bestRank": 580,
+    "worstRank": 580,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4401221,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 580,
+        "ms": 4401221,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "307b68e3-e53e-4508-9f5a-acd586afd87e",
     "persona": "Po0gi3",
     "names": [
@@ -1982,8 +2008,8 @@
       "AK"
     ],
     "runs": 1,
-    "bestRank": 480,
-    "worstRank": 480,
+    "bestRank": 540,
+    "worstRank": 540,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 480,
+        "rank": 540,
         "ms": 4281597,
         "dish": "Fish"
       }
@@ -2762,8 +2788,8 @@
       "simsc"
     ],
     "runs": 1,
-    "bestRank": 810,
-    "worstRank": 810,
+    "bestRank": 936,
+    "worstRank": 936,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2775,7 +2801,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 810,
+        "rank": 936,
         "ms": 5861094,
         "dish": "Fish"
       }

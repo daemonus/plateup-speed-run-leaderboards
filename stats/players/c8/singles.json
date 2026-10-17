@@ -1092,6 +1092,32 @@
     ]
   },
   {
+    "id": "c83c9237-f277-4f37-9eb0-1a92f0a8b6fc",
+    "persona": "penaldo",
+    "names": [
+      "penaldo"
+    ],
+    "runs": 1,
+    "bestRank": 712,
+    "worstRank": 712,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4808666,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 712,
+        "ms": 4808666,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "c83cd3e1-0a0c-4c2d-bc55-c457d880a855",
     "persona": "Yunzel",
     "names": [
@@ -1815,6 +1841,32 @@
         "start": "2025-11-03",
         "rank": 495,
         "ms": 3363584,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c870c67f-0e2f-40af-a7cb-a4f6c8164e36",
+    "persona": "\u6CB9\u8102\u5C64",
+    "names": [
+      "\u6CB9\u8102\u5C64"
+    ],
+    "runs": 1,
+    "bestRank": 1003,
+    "worstRank": 1003,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6834619,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1003,
+        "ms": 6834619,
         "dish": "Fish"
       }
     ]
@@ -3412,8 +3464,8 @@
       "No Ragrets"
     ],
     "runs": 1,
-    "bestRank": 325,
-    "worstRank": 325,
+    "bestRank": 355,
+    "worstRank": 355,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3477,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 325,
+        "rank": 355,
         "ms": 3760476,
         "dish": "Fish"
       }

@@ -4,16 +4,17 @@
   "names": [
     "Menduz \u003C3"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 168,
-  "worstRank": 339,
+  "worstRank": 563,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2874641,
   "weeksActive": [
     1,
-    3
+    3,
+    92
   ],
   "history": [
     {
@@ -28,6 +29,13 @@
       "start": "2025-01-27",
       "rank": 168,
       "ms": 2874641,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 563,
+      "ms": 4337856,
       "dish": "Fish"
     }
   ]

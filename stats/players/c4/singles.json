@@ -58,8 +58,8 @@
       "Charlie Click"
     ],
     "runs": 1,
-    "bestRank": 690,
-    "worstRank": 690,
+    "bestRank": 791,
+    "worstRank": 791,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -71,7 +71,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 690,
+        "rank": 791,
         "ms": 5078584,
         "dish": "Fish"
       }
@@ -3011,6 +3011,32 @@
         "start": "2023-05-29",
         "rank": 251,
         "ms": 2695497,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c4f337ec-eca6-4325-bb4d-db363d7f70cd",
+    "persona": "Alone",
+    "names": [
+      "Alone"
+    ],
+    "runs": 1,
+    "bestRank": 978,
+    "worstRank": 978,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6287786,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 978,
+        "ms": 6287786,
         "dish": "Fish"
       }
     ]

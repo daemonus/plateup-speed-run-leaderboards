@@ -4,9 +4,9 @@
   "names": [
     "S3HAM"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 190,
-  "worstRank": 752,
+  "worstRank": 1030,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -25,7 +25,8 @@
     54,
     56,
     57,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 752,
       "ms": 4400260,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1030,
+      "ms": 8565537,
+      "dish": "Fish"
     }
   ]
 }

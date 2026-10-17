@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "8b278836-17a9-418a-b400-5bef8b0b96c2",
+    "persona": "\u5679\u5679\u672C\u5679",
+    "names": [
+      "\u5679\u5679\u672C\u5679"
+    ],
+    "runs": 1,
+    "bestRank": 651,
+    "worstRank": 651,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4621913,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 651,
+        "ms": 4621913,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "8b29f57d-38dd-4164-821a-c7638c14c9b8",
     "persona": "papaya2",
     "names": [
@@ -1826,8 +1852,8 @@
       "\u5C0F\u6B23"
     ],
     "runs": 1,
-    "bestRank": 322,
-    "worstRank": 322,
+    "bestRank": 351,
+    "worstRank": 351,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 322,
+        "rank": 351,
         "ms": 3753855,
         "dish": "Fish"
       }
@@ -2294,8 +2320,8 @@
       "MoonShotWingman"
     ],
     "runs": 1,
-    "bestRank": 410,
-    "worstRank": 410,
+    "bestRank": 454,
+    "worstRank": 454,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 410,
+        "rank": 454,
         "ms": 4044941,
         "dish": "Fish"
       }

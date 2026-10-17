@@ -2138,8 +2138,8 @@
       "eastnolose17"
     ],
     "runs": 1,
-    "bestRank": 744,
-    "worstRank": 744,
+    "bestRank": 861,
+    "worstRank": 861,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2151,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 744,
+        "rank": 861,
         "ms": 5362865,
         "dish": "Fish"
       }
@@ -2258,6 +2258,32 @@
         "rank": 309,
         "ms": 6849416,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "f58f992a-b39a-4610-8b45-1ba9a324aeda",
+    "persona": "bepoh",
+    "names": [
+      "bepoh"
+    ],
+    "runs": 1,
+    "bestRank": 680,
+    "worstRank": 680,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4705384,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 680,
+        "ms": 4705384,
+        "dish": "Fish"
       }
     ]
   },

@@ -4,16 +4,17 @@
   "names": [
     "\u4E5D"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 145,
-  "worstRank": 184,
+  "worstRank": 423,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2553280,
   "weeksActive": [
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 184,
       "ms": 4192993,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 423,
+      "ms": 3946600,
+      "dish": "Fish"
     }
   ]
 }

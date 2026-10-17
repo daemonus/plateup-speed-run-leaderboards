@@ -188,8 +188,8 @@
       "Hopziv"
     ],
     "runs": 1,
-    "bestRank": 133,
-    "worstRank": 133,
+    "bestRank": 145,
+    "worstRank": 145,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -201,7 +201,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 133,
+        "rank": 145,
         "ms": 2859827,
         "dish": "Fish"
       }
@@ -526,8 +526,8 @@
       "2732812366"
     ],
     "runs": 1,
-    "bestRank": 880,
-    "worstRank": 880,
+    "bestRank": 1018,
+    "worstRank": 1018,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -539,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 880,
+        "rank": 1018,
         "ms": 7477642,
         "dish": "Fish"
       }
@@ -1118,6 +1118,32 @@
     ]
   },
   {
+    "id": "6e6f2664-1d40-4dc5-aab7-05f93fe90366",
+    "persona": "sato",
+    "names": [
+      "sato"
+    ],
+    "runs": 1,
+    "bestRank": 533,
+    "worstRank": 533,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4252365,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 533,
+        "ms": 4252365,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6e704715-837f-48eb-941a-3e0cb9009a66",
     "persona": "RA07",
     "names": [
@@ -1306,8 +1332,8 @@
       "\u4E8C\u4E09"
     ],
     "runs": 1,
-    "bestRank": 805,
-    "worstRank": 805,
+    "bestRank": 931,
+    "worstRank": 931,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 805,
+        "rank": 931,
         "ms": 5840179,
         "dish": "Fish"
       }
@@ -1514,8 +1540,8 @@
       "alina.denzer"
     ],
     "runs": 1,
-    "bestRank": 47,
-    "worstRank": 47,
+    "bestRank": 48,
+    "worstRank": 48,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 47,
+        "rank": 48,
         "ms": 2121617,
         "dish": "Fish"
       }
@@ -2008,8 +2034,8 @@
       "Coting"
     ],
     "runs": 1,
-    "bestRank": 406,
-    "worstRank": 406,
+    "bestRank": 449,
+    "worstRank": 449,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2021,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 406,
+        "rank": 449,
         "ms": 4027613,
         "dish": "Fish"
       }

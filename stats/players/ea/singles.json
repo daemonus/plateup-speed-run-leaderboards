@@ -890,8 +890,8 @@
       "\u7231\u73A9\u7684\u5DE6\u79CB"
     ],
     "runs": 1,
-    "bestRank": 350,
-    "worstRank": 350,
+    "bestRank": 385,
+    "worstRank": 385,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 350,
+        "rank": 385,
         "ms": 3842076,
         "dish": "Fish"
       }
@@ -2788,8 +2788,8 @@
       "camel99"
     ],
     "runs": 1,
-    "bestRank": 725,
-    "worstRank": 725,
+    "bestRank": 837,
+    "worstRank": 837,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2801,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 725,
+        "rank": 837,
         "ms": 5240091,
         "dish": "Fish"
       }
@@ -3168,6 +3168,32 @@
         "rank": 851,
         "ms": 4347964,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "eaf55404-0e26-4cde-9d81-ee5e0e58b35c",
+    "persona": "Liliyahorangi",
+    "names": [
+      "Liliyahorangi"
+    ],
+    "runs": 1,
+    "bestRank": 725,
+    "worstRank": 725,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4861884,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 725,
+        "ms": 4861884,
+        "dish": "Fish"
       }
     ]
   },

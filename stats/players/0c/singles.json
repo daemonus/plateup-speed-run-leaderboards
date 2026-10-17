@@ -604,8 +604,8 @@
       "skagen"
     ],
     "runs": 1,
-    "bestRank": 554,
-    "worstRank": 554,
+    "bestRank": 627,
+    "worstRank": 627,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 554,
+        "rank": 627,
         "ms": 4532763,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "Victor Papa"
     ],
     "runs": 1,
-    "bestRank": 721,
-    "worstRank": 721,
+    "bestRank": 831,
+    "worstRank": 831,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 721,
+        "rank": 831,
         "ms": 5214471,
         "dish": "Fish"
       }
@@ -1296,6 +1296,32 @@
         "rank": 504,
         "ms": 4989300,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "0c668a4e-0a05-42bf-a9e3-e95301e53190",
+    "persona": "TyconXx",
+    "names": [
+      "TyconXx"
+    ],
+    "runs": 1,
+    "bestRank": 681,
+    "worstRank": 681,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4713776,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 681,
+        "ms": 4713776,
+        "dish": "Fish"
       }
     ]
   },
@@ -2232,6 +2258,32 @@
         "rank": 708,
         "ms": 3941224,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "0ca4f376-d3c3-419c-88bb-a867f3602fd9",
+    "persona": "J\u00F8x;\u2661\u00D6",
+    "names": [
+      "J\u00F8x;\u2661\u00D6"
+    ],
+    "runs": 1,
+    "bestRank": 700,
+    "worstRank": 700,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4774422,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 700,
+        "ms": 4774422,
+        "dish": "Fish"
       }
     ]
   },

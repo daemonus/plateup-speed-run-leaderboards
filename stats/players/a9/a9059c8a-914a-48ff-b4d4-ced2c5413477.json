@@ -4,7 +4,7 @@
   "names": [
     "eletsia"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 253,
   "worstRank": 760,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     58,
     66,
     67,
-    86
+    86,
+    92
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 401,
       "ms": 3386805,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 748,
+      "ms": 4935056,
+      "dish": "Fish"
     }
   ]
 }

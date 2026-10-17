@@ -110,8 +110,8 @@
       "\u4E09\u5BAE\u3064\u3070\u304D"
     ],
     "runs": 1,
-    "bestRank": 328,
-    "worstRank": 328,
+    "bestRank": 359,
+    "worstRank": 359,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 328,
+        "rank": 359,
         "ms": 3769529,
         "dish": "Fish"
       }
@@ -630,8 +630,8 @@
       "6el1f"
     ],
     "runs": 1,
-    "bestRank": 802,
-    "worstRank": 802,
+    "bestRank": 928,
+    "worstRank": 928,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 802,
+        "rank": 928,
         "ms": 5794793,
         "dish": "Fish"
       }
@@ -1347,6 +1347,32 @@
         "start": "2024-09-23",
         "rank": 470,
         "ms": 4033120,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "6c7087e9-ee32-429f-bba9-f53dcacefff4",
+    "persona": "MyGrandma555",
+    "names": [
+      "MyGrandma555"
+    ],
+    "runs": 1,
+    "bestRank": 131,
+    "worstRank": 131,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2790380,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 131,
+        "ms": 2790380,
         "dish": "Fish"
       }
     ]
@@ -2684,8 +2710,8 @@
       "Mortkei"
     ],
     "runs": 1,
-    "bestRank": 899,
-    "worstRank": 899,
+    "bestRank": 1042,
+    "worstRank": 1042,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 899,
+        "rank": 1042,
         "ms": 10111825,
         "dish": "Fish"
       }

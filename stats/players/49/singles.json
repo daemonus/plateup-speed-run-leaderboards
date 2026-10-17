@@ -734,8 +734,8 @@
       "perorin"
     ],
     "runs": 1,
-    "bestRank": 804,
-    "worstRank": 804,
+    "bestRank": 930,
+    "worstRank": 930,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -747,7 +747,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 804,
+        "rank": 930,
         "ms": 5808236,
         "dish": "Fish"
       }
@@ -916,8 +916,8 @@
       "Kissa"
     ],
     "runs": 1,
-    "bestRank": 820,
-    "worstRank": 820,
+    "bestRank": 946,
+    "worstRank": 946,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 820,
+        "rank": 946,
         "ms": 5924387,
         "dish": "Fish"
       }
@@ -3324,6 +3324,32 @@
         "rank": 388,
         "ms": 3998386,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "49e3a86b-4310-490e-acd7-f107dda9e251",
+    "persona": "rizzowinatan57",
+    "names": [
+      "rizzowinatan57"
+    ],
+    "runs": 1,
+    "bestRank": 950,
+    "worstRank": 950,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5956598,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 950,
+        "ms": 5956598,
+        "dish": "Fish"
       }
     ]
   },

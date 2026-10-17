@@ -292,8 +292,8 @@
       "GluteusMaximus"
     ],
     "runs": 1,
-    "bestRank": 637,
-    "worstRank": 637,
+    "bestRank": 724,
+    "worstRank": 724,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 637,
+        "rank": 724,
         "ms": 4856866,
         "dish": "Fish"
       }
@@ -984,6 +984,32 @@
         "rank": 248,
         "ms": 5845783,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "e14fc9b5-65e6-4d25-a9ef-250c8fe969f6",
+    "persona": "\u5662",
+    "names": [
+      "\u5662"
+    ],
+    "runs": 1,
+    "bestRank": 784,
+    "worstRank": 784,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5066275,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 784,
+        "ms": 5066275,
+        "dish": "Fish"
       }
     ]
   },

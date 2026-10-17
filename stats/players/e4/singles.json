@@ -1768,6 +1768,32 @@
     ]
   },
   {
+    "id": "e49349db-3d50-409d-93bd-5d1d1072430f",
+    "persona": "Atuscus",
+    "names": [
+      "Atuscus"
+    ],
+    "runs": 1,
+    "bestRank": 699,
+    "worstRank": 699,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4772558,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 699,
+        "ms": 4772558,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "e4977fc0-ebf1-46bf-ab62-15f74f4617ac",
     "persona": "Elykeht",
     "names": [
@@ -2528,8 +2554,8 @@
       "\u82B1"
     ],
     "runs": 1,
-    "bestRank": 653,
-    "worstRank": 653,
+    "bestRank": 744,
+    "worstRank": 744,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 653,
+        "rank": 744,
         "ms": 4930405,
         "dish": "Fish"
       }

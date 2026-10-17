@@ -52,6 +52,32 @@
     ]
   },
   {
+    "id": "800be0dd-9c0f-4f2f-8124-cf6e685dc55f",
+    "persona": "Rouch",
+    "names": [
+      "Rouch"
+    ],
+    "runs": 1,
+    "bestRank": 133,
+    "worstRank": 133,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2812609,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 133,
+        "ms": 2812609,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "800ceebc-1ba2-4d20-8a5b-f94e2422781a",
     "persona": "dumpling",
     "names": [
@@ -1644,8 +1670,8 @@
       "PradoH55"
     ],
     "runs": 1,
-    "bestRank": 547,
-    "worstRank": 547,
+    "bestRank": 617,
+    "worstRank": 617,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1683,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 547,
+        "rank": 617,
         "ms": 4508585,
         "dish": "Fish"
       }
@@ -2180,6 +2206,32 @@
         "rank": 489,
         "ms": 4962625,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "80aaaf88-8807-47dd-b350-a05798f8c9a9",
+    "persona": "nanasuki",
+    "names": [
+      "nanasuki"
+    ],
+    "runs": 1,
+    "bestRank": 1035,
+    "worstRank": 1035,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9340901,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1035,
+        "ms": 9340901,
+        "dish": "Fish"
       }
     ]
   },
@@ -3360,8 +3412,8 @@
       "andrearodriguezemt"
     ],
     "runs": 1,
-    "bestRank": 791,
-    "worstRank": 791,
+    "bestRank": 914,
+    "worstRank": 914,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3373,7 +3425,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 791,
+        "rank": 914,
         "ms": 5663656,
         "dish": "Fish"
       }

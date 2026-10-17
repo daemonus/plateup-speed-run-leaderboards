@@ -4,7 +4,7 @@
   "names": [
     "whalingcrew"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 68,
   "worstRank": 1494,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -91,
     -71,
     -32,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 68,
       "ms": 2495661,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 107,
+      "ms": 2621084,
+      "dish": "Fish"
     }
   ]
 }

@@ -2730,32 +2730,6 @@
     ]
   },
   {
-    "id": "89c716fc-d03f-4dd7-9423-a532f8d116b1",
-    "persona": "Evaleone",
-    "names": [
-      "Evaleone"
-    ],
-    "runs": 1,
-    "bestRank": 1123,
-    "worstRank": 1123,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4890673,
-    "weeksActive": [
-      -71
-    ],
-    "history": [
-      {
-        "week": -71,
-        "start": "2023-08-28",
-        "rank": 1123,
-        "ms": 4890673,
-        "dish": "Turkey"
-      }
-    ]
-  },
-  {
     "id": "89c89d44-84d1-4b8d-90b9-0bb18f00c468",
     "persona": "bortor",
     "names": [
@@ -3412,8 +3386,8 @@
       "R0cketStars"
     ],
     "runs": 1,
-    "bestRank": 49,
-    "worstRank": 49,
+    "bestRank": 50,
+    "worstRank": 50,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3399,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 49,
+        "rank": 50,
         "ms": 2154510,
         "dish": "Fish"
       }

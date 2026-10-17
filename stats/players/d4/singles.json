@@ -110,8 +110,8 @@
       "louxiaxiaoyi"
     ],
     "runs": 1,
-    "bestRank": 574,
-    "worstRank": 574,
+    "bestRank": 647,
+    "worstRank": 647,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 574,
+        "rank": 647,
         "ms": 4596593,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "\u98CE\u5C3D"
     ],
     "runs": 1,
-    "bestRank": 335,
-    "worstRank": 335,
+    "bestRank": 367,
+    "worstRank": 367,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 335,
+        "rank": 367,
         "ms": 3790786,
         "dish": "Fish"
       }
@@ -1462,8 +1462,8 @@
       "\u696A\u7948Inory"
     ],
     "runs": 1,
-    "bestRank": 404,
-    "worstRank": 404,
+    "bestRank": 447,
+    "worstRank": 447,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1475,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 404,
+        "rank": 447,
         "ms": 4013098,
         "dish": "Fish"
       }
@@ -1488,8 +1488,8 @@
       "Holy Virgin"
     ],
     "runs": 1,
-    "bestRank": 477,
-    "worstRank": 477,
+    "bestRank": 537,
+    "worstRank": 537,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1501,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 477,
+        "rank": 537,
         "ms": 4261861,
         "dish": "Fish"
       }
@@ -1581,6 +1581,32 @@
         "start": "2025-01-27",
         "rank": 167,
         "ms": 2874135,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "d48b3b6d-813a-4df1-8a93-d55e6f0a6988",
+    "persona": "AbsoGames",
+    "names": [
+      "AbsoGames"
+    ],
+    "runs": 1,
+    "bestRank": 575,
+    "worstRank": 575,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4380855,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 575,
+        "ms": 4380855,
         "dish": "Fish"
       }
     ]

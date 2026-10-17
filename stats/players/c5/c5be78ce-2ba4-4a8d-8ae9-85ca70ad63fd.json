@@ -4,16 +4,17 @@
   "names": [
     "JanaKennedy"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 179,
-  "worstRank": 307,
+  "worstRank": 328,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4144970,
+  "bestMs": 3649798,
   "weeksActive": [
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 179,
       "ms": 4144970,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 328,
+      "ms": 3649798,
+      "dish": "Fish"
     }
   ]
 }

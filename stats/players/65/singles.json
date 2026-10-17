@@ -234,6 +234,32 @@
     ]
   },
   {
+    "id": "652907cf-32a1-4058-8843-a315e65d5235",
+    "persona": "vv",
+    "names": [
+      "vv"
+    ],
+    "runs": 1,
+    "bestRank": 975,
+    "worstRank": 975,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6270116,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 975,
+        "ms": 6270116,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "652ac982-9704-476f-ab5d-84e8e72327e1",
     "persona": "laurin.socher",
     "names": [
@@ -256,6 +282,32 @@
         "rank": 171,
         "ms": 2087740,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "652ce7b2-2b16-4eee-acd8-8cf86424a183",
+    "persona": "florszi",
+    "names": [
+      "florszi"
+    ],
+    "runs": 1,
+    "bestRank": 832,
+    "worstRank": 832,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5218327,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 832,
+        "ms": 5218327,
+        "dish": "Fish"
       }
     ]
   },
@@ -1306,8 +1358,8 @@
       "ann.ling77"
     ],
     "runs": 1,
-    "bestRank": 405,
-    "worstRank": 405,
+    "bestRank": 448,
+    "worstRank": 448,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 405,
+        "rank": 448,
         "ms": 4019963,
         "dish": "Fish"
       }
@@ -1358,8 +1410,8 @@
       "Mask."
     ],
     "runs": 1,
-    "bestRank": 344,
-    "worstRank": 344,
+    "bestRank": 376,
+    "worstRank": 376,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 344,
+        "rank": 376,
         "ms": 3815203,
         "dish": "Fish"
       }

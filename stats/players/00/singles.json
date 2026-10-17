@@ -1800,8 +1800,8 @@
       "justajacques"
     ],
     "runs": 1,
-    "bestRank": 509,
-    "worstRank": 509,
+    "bestRank": 572,
+    "worstRank": 572,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 509,
+        "rank": 572,
         "ms": 4366906,
         "dish": "Fish"
       }
@@ -2778,6 +2778,32 @@
         "rank": 122,
         "ms": 2466781,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "00ef36b1-8535-4e7e-b278-8bd45b65b0bd",
+    "persona": "I Would If I Would ehehe",
+    "names": [
+      "I Would If I Would ehehe"
+    ],
+    "runs": 1,
+    "bestRank": 854,
+    "worstRank": 854,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5299098,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 854,
+        "ms": 5299098,
+        "dish": "Fish"
       }
     ]
   },

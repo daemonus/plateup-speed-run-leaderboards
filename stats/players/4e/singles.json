@@ -2528,8 +2528,8 @@
       "Juan"
     ],
     "runs": 1,
-    "bestRank": 681,
-    "worstRank": 681,
+    "bestRank": 779,
+    "worstRank": 779,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2541,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 681,
+        "rank": 779,
         "ms": 5053549,
         "dish": "Fish"
       }
@@ -2959,6 +2959,32 @@
         "start": "2023-05-29",
         "rank": 595,
         "ms": 4013869,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "4edc5b37-72b0-47d7-a0ac-dcd90bee0733",
+    "persona": "NOT A GOOSE",
+    "names": [
+      "NOT A GOOSE"
+    ],
+    "runs": 1,
+    "bestRank": 86,
+    "worstRank": 86,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2462874,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 86,
+        "ms": 2462874,
         "dish": "Fish"
       }
     ]

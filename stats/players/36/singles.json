@@ -370,8 +370,8 @@
       "LouWho"
     ],
     "runs": 1,
-    "bestRank": 209,
-    "worstRank": 209,
+    "bestRank": 226,
+    "worstRank": 226,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 209,
+        "rank": 226,
         "ms": 3214717,
         "dish": "Fish"
       }
@@ -2190,8 +2190,8 @@
       "DayDreaMer459"
     ],
     "runs": 1,
-    "bestRank": 561,
-    "worstRank": 561,
+    "bestRank": 634,
+    "worstRank": 634,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2203,7 +2203,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 561,
+        "rank": 634,
         "ms": 4558318,
         "dish": "Fish"
       }
@@ -2320,8 +2320,8 @@
       "nkiupel"
     ],
     "runs": 1,
-    "bestRank": 678,
-    "worstRank": 678,
+    "bestRank": 776,
+    "worstRank": 776,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 678,
+        "rank": 776,
         "ms": 5041379,
         "dish": "Fish"
       }
@@ -2751,6 +2751,32 @@
         "start": "2026-01-05",
         "rank": 107,
         "ms": 2257590,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "36ab6de0-78d9-4fac-bf0b-4495e4141024",
+    "persona": "\u4E00\u5757\u70E4\u5E74\u7CD5",
+    "names": [
+      "\u4E00\u5757\u70E4\u5E74\u7CD5"
+    ],
+    "runs": 1,
+    "bestRank": 825,
+    "worstRank": 825,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5192842,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 825,
+        "ms": 5192842,
         "dish": "Fish"
       }
     ]

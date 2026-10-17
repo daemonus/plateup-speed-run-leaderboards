@@ -468,32 +468,6 @@
     ]
   },
   {
-    "id": "c5208d3b-1b39-4dae-b5e3-835da27f59a2",
-    "persona": "Nikolya81",
-    "names": [
-      "Nikolya81"
-    ],
-    "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4021128,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 176,
-        "ms": 4021128,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "c520e9ce-1f1e-4847-8bb6-45b1cb9c2ff6",
     "persona": "Vesibean",
     "names": [
@@ -1904,8 +1878,8 @@
       "Heath"
     ],
     "runs": 1,
-    "bestRank": 80,
-    "worstRank": 80,
+    "bestRank": 83,
+    "worstRank": 83,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1891,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 80,
+        "rank": 83,
         "ms": 2444027,
         "dish": "Fish"
       }
@@ -3505,6 +3479,32 @@
         "start": "2023-03-27",
         "rank": 552,
         "ms": 2145281,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c5fff2fc-c24c-48ce-968f-b0005c7e45a1",
+    "persona": "Croem",
+    "names": [
+      "Croem"
+    ],
+    "runs": 1,
+    "bestRank": 479,
+    "worstRank": 479,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4083565,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 479,
+        "ms": 4083565,
         "dish": "Fish"
       }
     ]

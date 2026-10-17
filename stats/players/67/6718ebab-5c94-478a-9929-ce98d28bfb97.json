@@ -4,7 +4,7 @@
   "names": [
     "MrsMcGeek"
   ],
-  "runs": 82,
+  "runs": 83,
   "bestRank": 58,
   "worstRank": 1469,
   "firstPlaces": 0,
@@ -93,7 +93,8 @@
     72,
     73,
     74,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -669,6 +670,13 @@
       "rank": 269,
       "ms": 2215063,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 902,
+      "ms": 5571641,
+      "dish": "Fish"
     }
   ]
 }

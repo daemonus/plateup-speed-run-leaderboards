@@ -110,8 +110,8 @@
       "Oi!"
     ],
     "runs": 1,
-    "bestRank": 372,
-    "worstRank": 372,
+    "bestRank": 408,
+    "worstRank": 408,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 372,
+        "rank": 408,
         "ms": 3901165,
         "dish": "Fish"
       }
@@ -968,8 +968,8 @@
       "Sinthrill"
     ],
     "runs": 1,
-    "bestRank": 449,
-    "worstRank": 449,
+    "bestRank": 503,
+    "worstRank": 503,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +981,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 449,
+        "rank": 503,
         "ms": 4166834,
         "dish": "Fish"
       }
@@ -1300,6 +1300,32 @@
     ]
   },
   {
+    "id": "026050a0-a8f9-4417-a848-7fde7725733b",
+    "persona": "\u041C\u044B\u0448",
+    "names": [
+      "\u041C\u044B\u0448"
+    ],
+    "runs": 1,
+    "bestRank": 650,
+    "worstRank": 650,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4619366,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 650,
+        "ms": 4619366,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0262a42d-54c7-4e44-8e5d-70a6a1ab7333",
     "persona": "Markii Boii",
     "names": [
@@ -1321,6 +1347,32 @@
         "start": "2023-03-27",
         "rank": 1731,
         "ms": 2956143,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "02655121-a920-4b2d-b37b-0b21706f6284",
+    "persona": "leseul69",
+    "names": [
+      "leseul69"
+    ],
+    "runs": 1,
+    "bestRank": 740,
+    "worstRank": 740,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4922072,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 740,
+        "ms": 4922072,
         "dish": "Fish"
       }
     ]

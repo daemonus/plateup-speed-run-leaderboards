@@ -422,8 +422,8 @@
       "Yoshicon"
     ],
     "runs": 1,
-    "bestRank": 336,
-    "worstRank": 336,
+    "bestRank": 368,
+    "worstRank": 368,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 336,
+        "rank": 368,
         "ms": 3797962,
         "dish": "Fish"
       }
@@ -682,8 +682,8 @@
       "moviendart"
     ],
     "runs": 1,
-    "bestRank": 421,
-    "worstRank": 421,
+    "bestRank": 467,
+    "worstRank": 467,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 421,
+        "rank": 467,
         "ms": 4068866,
         "dish": "Fish"
       }
@@ -1140,6 +1140,32 @@
         "rank": 734,
         "ms": 3661580,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "43653c82-b8b0-40cf-8492-1b42561df204",
+    "persona": "rain",
+    "names": [
+      "rain"
+    ],
+    "runs": 1,
+    "bestRank": 1005,
+    "worstRank": 1005,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6849841,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1005,
+        "ms": 6849841,
+        "dish": "Fish"
       }
     ]
   },
@@ -2034,8 +2060,8 @@
       "zzzzz"
     ],
     "runs": 1,
-    "bestRank": 609,
-    "worstRank": 609,
+    "bestRank": 691,
+    "worstRank": 691,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2073,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 609,
+        "rank": 691,
         "ms": 4746232,
         "dish": "Fish"
       }
@@ -2444,6 +2470,32 @@
     ]
   },
   {
+    "id": "43dc6974-9e1e-4280-bf56-26e757631f25",
+    "persona": "Gwi",
+    "names": [
+      "Gwi"
+    ],
+    "runs": 1,
+    "bestRank": 853,
+    "worstRank": 853,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5293695,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 853,
+        "ms": 5293695,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "43dcee0f-b6f7-4925-a590-ce4d74e92409",
     "persona": "Sirius",
     "names": [
@@ -2466,6 +2518,32 @@
         "rank": 442,
         "ms": 5508216,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "43ddc7a8-f01b-4a59-97b5-0b638cabcc86",
+    "persona": "Bingo_1899",
+    "names": [
+      "Bingo_1899"
+    ],
+    "runs": 1,
+    "bestRank": 875,
+    "worstRank": 875,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5447893,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 875,
+        "ms": 5447893,
+        "dish": "Fish"
       }
     ]
   },

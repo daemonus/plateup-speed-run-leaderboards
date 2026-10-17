@@ -84,8 +84,8 @@
       "16"
     ],
     "runs": 1,
-    "bestRank": 605,
-    "worstRank": 605,
+    "bestRank": 687,
+    "worstRank": 687,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 605,
+        "rank": 687,
         "ms": 4726917,
         "dish": "Fish"
       }
@@ -806,6 +806,32 @@
     ]
   },
   {
+    "id": "d550cb02-9143-4b2d-b9bb-212e231028b4",
+    "persona": "KatkaLinka",
+    "names": [
+      "KatkaLinka"
+    ],
+    "runs": 1,
+    "bestRank": 1034,
+    "worstRank": 1034,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9309788,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1034,
+        "ms": 9309788,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "d553237d-a01b-4ca9-a90e-63104d70238d",
     "persona": "fantasyfull",
     "names": [
@@ -879,6 +905,32 @@
         "start": "2023-04-10",
         "rank": 1517,
         "ms": 3864919,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "d55adb7d-8843-45d2-a696-d1937f4ababc",
+    "persona": "\u7A76\u6781\u5212\u6C34\u602A\u517D",
+    "names": [
+      "\u7A76\u6781\u5212\u6C34\u602A\u517D"
+    ],
+    "runs": 1,
+    "bestRank": 300,
+    "worstRank": 300,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3544272,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 300,
+        "ms": 3544272,
         "dish": "Fish"
       }
     ]
@@ -1852,8 +1904,8 @@
       "bubble1236"
     ],
     "runs": 1,
-    "bestRank": 782,
-    "worstRank": 782,
+    "bestRank": 903,
+    "worstRank": 903,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 782,
+        "rank": 903,
         "ms": 5572296,
         "dish": "Fish"
       }
@@ -2320,8 +2372,8 @@
       "Fugakawaki"
     ],
     "runs": 1,
-    "bestRank": 540,
-    "worstRank": 540,
+    "bestRank": 609,
+    "worstRank": 609,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2385,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 540,
+        "rank": 609,
         "ms": 4486061,
         "dish": "Fish"
       }

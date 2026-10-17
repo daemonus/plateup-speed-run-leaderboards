@@ -4,7 +4,7 @@
   "names": [
     "maggiekwok90"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 62,
   "worstRank": 347,
   "firstPlaces": 0,
@@ -40,7 +40,8 @@
     78,
     79,
     80,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 116,
       "ms": 2865673,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 302,
+      "ms": 3552034,
+      "dish": "Fish"
     }
   ]
 }

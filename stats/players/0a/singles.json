@@ -344,8 +344,8 @@
       "Ne"
     ],
     "runs": 1,
-    "bestRank": 495,
-    "worstRank": 495,
+    "bestRank": 556,
+    "worstRank": 556,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 495,
+        "rank": 556,
         "ms": 4317888,
         "dish": "Fish"
       }
@@ -2710,8 +2710,8 @@
       "yzwd617"
     ],
     "runs": 1,
-    "bestRank": 822,
-    "worstRank": 822,
+    "bestRank": 948,
+    "worstRank": 948,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 822,
+        "rank": 948,
         "ms": 5940539,
         "dish": "Fish"
       }
@@ -3090,6 +3090,32 @@
         "rank": 505,
         "ms": 3658958,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "0af56ff8-bd88-444b-9d46-d59b1b45e933",
+    "persona": "Kvln20113",
+    "names": [
+      "Kvln20113"
+    ],
+    "runs": 1,
+    "bestRank": 760,
+    "worstRank": 760,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4985805,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 760,
+        "ms": 4985805,
+        "dish": "Fish"
       }
     ]
   },

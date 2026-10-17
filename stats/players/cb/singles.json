@@ -890,8 +890,8 @@
       "LBY94822"
     ],
     "runs": 1,
-    "bestRank": 762,
-    "worstRank": 762,
+    "bestRank": 880,
+    "worstRank": 880,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 762,
+        "rank": 880,
         "ms": 5459097,
         "dish": "Fish"
       }
@@ -1581,6 +1581,32 @@
         "start": "2023-04-10",
         "rank": 1399,
         "ms": 3579403,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "cb854c20-f384-426a-9c77-8e7c8c2b78d5",
+    "persona": "\u91CD\u751F\u4E4B\u6211\u662F\u8F6E\u6905\u5927\u738B",
+    "names": [
+      "\u91CD\u751F\u4E4B\u6211\u662F\u8F6E\u6905\u5927\u738B"
+    ],
+    "runs": 1,
+    "bestRank": 452,
+    "worstRank": 452,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4034788,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 452,
+        "ms": 4034788,
         "dish": "Fish"
       }
     ]
@@ -2476,8 +2502,8 @@
       "yPhorus"
     ],
     "runs": 1,
-    "bestRank": 139,
-    "worstRank": 139,
+    "bestRank": 151,
+    "worstRank": 151,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2515,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 139,
+        "rank": 151,
         "ms": 2881472,
         "dish": "Fish"
       }

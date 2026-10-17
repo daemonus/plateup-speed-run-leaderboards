@@ -572,6 +572,32 @@
     ]
   },
   {
+    "id": "b819f6ea-e55d-4f32-afbe-16d056f9d37d",
+    "persona": "yohey66",
+    "names": [
+      "yohey66"
+    ],
+    "runs": 1,
+    "bestRank": 621,
+    "worstRank": 621,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4518558,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 621,
+        "ms": 4518558,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "b81f08e0-3071-41c8-b8e8-07b2bcbcadc3",
     "persona": "sharkie_ee",
     "names": [
@@ -3282,8 +3308,8 @@
       "40shots"
     ],
     "runs": 1,
-    "bestRank": 161,
-    "worstRank": 161,
+    "bestRank": 172,
+    "worstRank": 172,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3295,7 +3321,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 161,
+        "rank": 172,
         "ms": 2994243,
         "dish": "Fish"
       }

@@ -1644,8 +1644,8 @@
       "Faisal"
     ],
     "runs": 1,
-    "bestRank": 894,
-    "worstRank": 894,
+    "bestRank": 1037,
+    "worstRank": 1037,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1657,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 894,
+        "rank": 1037,
         "ms": 9642449,
         "dish": "Fish"
       }
@@ -2372,8 +2372,8 @@
       "shrynsb27"
     ],
     "runs": 1,
-    "bestRank": 381,
-    "worstRank": 381,
+    "bestRank": 418,
+    "worstRank": 418,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2385,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 381,
+        "rank": 418,
         "ms": 3927431,
         "dish": "Fish"
       }
@@ -2673,6 +2673,32 @@
         "start": "2024-04-22",
         "rank": 687,
         "ms": 3855488,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "99dccd77-f45f-497f-9cdc-dad428246404",
+    "persona": "R wei",
+    "names": [
+      "R wei"
+    ],
+    "runs": 1,
+    "bestRank": 472,
+    "worstRank": 472,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4077561,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 472,
+        "ms": 4077561,
         "dish": "Fish"
       }
     ]

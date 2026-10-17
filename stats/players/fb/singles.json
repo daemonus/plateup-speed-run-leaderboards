@@ -1066,6 +1066,32 @@
     ]
   },
   {
+    "id": "fb4a7451-42d4-4d6d-9ff4-666282b5c7aa",
+    "persona": "snow",
+    "names": [
+      "snow"
+    ],
+    "runs": 1,
+    "bestRank": 758,
+    "worstRank": 758,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4967578,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 758,
+        "ms": 4967578,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fb4fcc4d-2d2c-4ca1-bfd0-6a588ac23b44",
     "persona": "\u6A58\u5B50",
     "names": [
@@ -3412,8 +3438,8 @@
       "MONKEYC"
     ],
     "runs": 1,
-    "bestRank": 828,
-    "worstRank": 828,
+    "bestRank": 955,
+    "worstRank": 955,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3451,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 828,
+        "rank": 955,
         "ms": 6021534,
         "dish": "Fish"
       }

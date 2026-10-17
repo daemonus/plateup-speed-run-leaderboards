@@ -422,8 +422,8 @@
       "acoaco2008"
     ],
     "runs": 1,
-    "bestRank": 646,
-    "worstRank": 646,
+    "bestRank": 736,
+    "worstRank": 736,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 646,
+        "rank": 736,
         "ms": 4919863,
         "dish": "Fish"
       }
@@ -1842,6 +1842,32 @@
         "rank": 299,
         "ms": 3868570,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "32a29db3-df72-43fd-9f58-dcf1a3a5bb2c",
+    "persona": "\u795E\u673A\u5B50",
+    "names": [
+      "\u795E\u673A\u5B50"
+    ],
+    "runs": 1,
+    "bestRank": 424,
+    "worstRank": 424,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3947855,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 424,
+        "ms": 3947855,
+        "dish": "Fish"
       }
     ]
   },
