@@ -890,8 +890,8 @@
       "\u7389\u7C73\u7C92"
     ],
     "runs": 1,
-    "bestRank": 497,
-    "worstRank": 497,
+    "bestRank": 553,
+    "worstRank": 553,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 497,
+        "rank": 553,
         "ms": 4524288,
         "dish": "Fish"
       }
@@ -1826,8 +1826,8 @@
       "Pupper0ni"
     ],
     "runs": 1,
-    "bestRank": 476,
-    "worstRank": 476,
+    "bestRank": 529,
+    "worstRank": 529,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 476,
+        "rank": 529,
         "ms": 4452326,
         "dish": "Fish"
       }
@@ -2216,8 +2216,8 @@
       "zjensvold"
     ],
     "runs": 1,
-    "bestRank": 722,
-    "worstRank": 722,
+    "bestRank": 797,
+    "worstRank": 797,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2229,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 722,
+        "rank": 797,
         "ms": 5728854,
         "dish": "Fish"
       }
@@ -2543,6 +2543,32 @@
         "start": "2023-03-27",
         "rank": 2625,
         "ms": 3829348,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "6bc1dce4-0ef0-492b-a2a8-93bf07ff70af",
+    "persona": "Irisisnothere",
+    "names": [
+      "Irisisnothere"
+    ],
+    "runs": 1,
+    "bestRank": 890,
+    "worstRank": 890,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8758731,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 890,
+        "ms": 8758731,
         "dish": "Fish"
       }
     ]

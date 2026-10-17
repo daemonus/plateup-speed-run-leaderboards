@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "e9151d95-6832-4fe3-96e3-3864de663eba",
+    "persona": "\u65E0\u6EAA",
+    "names": [
+      "\u65E0\u6EAA"
+    ],
+    "runs": 1,
+    "bestRank": 433,
+    "worstRank": 433,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4093458,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 433,
+        "ms": 4093458,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "e915e6b3-15f0-43e8-b628-d87d60c52fda",
     "persona": "Fwostys",
     "names": [
@@ -2258,6 +2284,32 @@
         "rank": 164,
         "ms": 3454284,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "e9c57e45-3f5a-4e9d-9925-7125655a5ff3",
+    "persona": "tyr",
+    "names": [
+      "tyr"
+    ],
+    "runs": 1,
+    "bestRank": 515,
+    "worstRank": 515,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4399423,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 515,
+        "ms": 4399423,
+        "dish": "Fish"
       }
     ]
   },

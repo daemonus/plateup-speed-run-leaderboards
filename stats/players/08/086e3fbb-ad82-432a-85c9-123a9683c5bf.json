@@ -4,7 +4,7 @@
   "names": [
     "FrunBun"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 233,
   "worstRank": 578,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -47,
     2,
     3,
-    7
+    7,
+    92
   ],
   "history": [
     {
@@ -60,6 +61,13 @@
       "start": "2025-02-24",
       "rank": 243,
       "ms": 3277192,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 364,
+      "ms": 3884059,
       "dish": "Fish"
     }
   ]

@@ -1014,32 +1014,6 @@
     ]
   },
   {
-    "id": "af66454a-56f3-486b-98c4-e75c7f5a5568",
-    "persona": "\u3072\u3044\u308D\u3061\u3083\u308F\u3093\u305F\u3051",
-    "names": [
-      "\u3072\u3044\u308D\u3061\u3083\u308F\u3093\u305F\u3051"
-    ],
-    "runs": 1,
-    "bestRank": 273,
-    "worstRank": 273,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3595029,
-    "weeksActive": [
-      53
-    ],
-    "history": [
-      {
-        "week": 53,
-        "start": "2026-01-12",
-        "rank": 273,
-        "ms": 3595029,
-        "dish": "Pies"
-      }
-    ]
-  },
-  {
     "id": "af67e8ad-54c0-47cb-8b5c-08325a2c9501",
     "persona": "TeeJay",
     "names": [
@@ -1426,6 +1400,32 @@
         "rank": 43,
         "ms": 2329002,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "af8b8f45-6e8c-40bb-8678-b6ba7a54906e",
+    "persona": "Suba",
+    "names": [
+      "Suba"
+    ],
+    "runs": 1,
+    "bestRank": 96,
+    "worstRank": 96,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2544229,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 96,
+        "ms": 2544229,
+        "dish": "Fish"
       }
     ]
   },
@@ -2320,8 +2320,8 @@
       "Criss"
     ],
     "runs": 1,
-    "bestRank": 461,
-    "worstRank": 461,
+    "bestRank": 511,
+    "worstRank": 511,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 461,
+        "rank": 511,
         "ms": 4376874,
         "dish": "Fish"
       }

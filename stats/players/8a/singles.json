@@ -1956,8 +1956,8 @@
       "910445052"
     ],
     "runs": 1,
-    "bestRank": 665,
-    "worstRank": 665,
+    "bestRank": 736,
+    "worstRank": 736,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,8 +1969,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 665,
+        "rank": 736,
         "ms": 5276818,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "8ad05626-f543-4c44-b12e-d8100fa8eb7e",
+    "persona": "Suelly Stephany",
+    "names": [
+      "Suelly Stephany"
+    ],
+    "runs": 1,
+    "bestRank": 647,
+    "worstRank": 647,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4921098,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 647,
+        "ms": 4921098,
         "dish": "Fish"
       }
     ]

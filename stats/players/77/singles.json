@@ -1540,8 +1540,8 @@
       "Hal"
     ],
     "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
+    "bestRank": 270,
+    "worstRank": 270,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1553,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 252,
+        "rank": 270,
         "ms": 3518725,
         "dish": "Fish"
       }
@@ -2060,8 +2060,8 @@
       "541804473"
     ],
     "runs": 1,
-    "bestRank": 544,
-    "worstRank": 544,
+    "bestRank": 603,
+    "worstRank": 603,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2073,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 544,
+        "rank": 603,
         "ms": 4716366,
         "dish": "Fish"
       }
@@ -2335,6 +2335,32 @@
         "start": "2024-09-02",
         "rank": 599,
         "ms": 4503569,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "77b8d703-f74a-4a13-8626-6e60de993da5",
+    "persona": "chouye19910616",
+    "names": [
+      "chouye19910616"
+    ],
+    "runs": 1,
+    "bestRank": 891,
+    "worstRank": 891,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9113851,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 891,
+        "ms": 9113851,
         "dish": "Fish"
       }
     ]
@@ -3100,8 +3126,8 @@
       "harapeko"
     ],
     "runs": 1,
-    "bestRank": 233,
-    "worstRank": 233,
+    "bestRank": 250,
+    "worstRank": 250,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 233,
+        "rank": 250,
         "ms": 3452674,
         "dish": "Fish"
       }

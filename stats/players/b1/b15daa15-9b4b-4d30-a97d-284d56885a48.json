@@ -4,7 +4,7 @@
   "names": [
     "\uD835\uDE51 \uD835\uDE3C \uD835\uDE4B \uD835\uDE4A \uD835\uDE4D . \uD835\uDE52 \uD835\uDE3C \uD835\uDE51"
   ],
-  "runs": 33,
+  "runs": 34,
   "bestRank": 30,
   "worstRank": 287,
   "firstPlaces": 0,
@@ -44,7 +44,8 @@
     82,
     85,
     88,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 68,
       "ms": 2956192,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 93,
+      "ms": 2515655,
+      "dish": "Fish"
     }
   ]
 }

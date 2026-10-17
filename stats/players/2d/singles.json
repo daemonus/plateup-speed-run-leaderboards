@@ -838,8 +838,8 @@
       "DiskInserted"
     ],
     "runs": 1,
-    "bestRank": 712,
-    "worstRank": 712,
+    "bestRank": 786,
+    "worstRank": 786,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 712,
+        "rank": 786,
         "ms": 5619762,
         "dish": "Fish"
       }
@@ -1176,8 +1176,8 @@
       "\u8D85\u7EDD\u8089\u611F\u5C0F\u6BCD\u725B"
     ],
     "runs": 1,
-    "bestRank": 521,
-    "worstRank": 521,
+    "bestRank": 579,
+    "worstRank": 579,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 521,
+        "rank": 579,
         "ms": 4623875,
         "dish": "Fish"
       }
@@ -1618,8 +1618,8 @@
       "\u83E0\u841D\u5F88\u751C\u7684\u5594"
     ],
     "runs": 1,
-    "bestRank": 451,
-    "worstRank": 451,
+    "bestRank": 500,
+    "worstRank": 500,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1631,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 451,
+        "rank": 500,
         "ms": 4336620,
         "dish": "Fish"
       }
@@ -2418,6 +2418,32 @@
     ]
   },
   {
+    "id": "2dc52fbc-0f7e-4f56-a1a0-13f65a134502",
+    "persona": "oga",
+    "names": [
+      "oga"
+    ],
+    "runs": 1,
+    "bestRank": 155,
+    "worstRank": 155,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2965824,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 155,
+        "ms": 2965824,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2dcc65db-381f-4c72-a661-7b8600125d16",
     "persona": "\u0412\u043B\u0430\u0434 \u0421\u0443\u043F\u0440\u0435\u043D",
     "names": [
@@ -2450,8 +2476,8 @@
       "Zyleve"
     ],
     "runs": 1,
-    "bestRank": 755,
-    "worstRank": 755,
+    "bestRank": 831,
+    "worstRank": 831,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 755,
+        "rank": 831,
         "ms": 6060079,
         "dish": "Fish"
       }

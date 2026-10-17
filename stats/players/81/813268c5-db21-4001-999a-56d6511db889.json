@@ -4,7 +4,7 @@
   "names": [
     "Kittea"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 49,
   "worstRank": 366,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 69,
       "ms": 2964097,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 69,
+      "ms": 2363082,
+      "dish": "Fish"
     }
   ]
 }

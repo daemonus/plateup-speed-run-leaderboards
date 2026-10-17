@@ -318,8 +318,8 @@
       "Joson"
     ],
     "runs": 1,
-    "bestRank": 778,
-    "worstRank": 778,
+    "bestRank": 855,
+    "worstRank": 855,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 778,
+        "rank": 855,
         "ms": 6434909,
         "dish": "Fish"
       }
@@ -1176,8 +1176,8 @@
       "z\u82BD\u82BDa"
     ],
     "runs": 1,
-    "bestRank": 693,
-    "worstRank": 693,
+    "bestRank": 766,
+    "worstRank": 766,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 693,
+        "rank": 766,
         "ms": 5479671,
         "dish": "Fish"
       }
@@ -1826,8 +1826,8 @@
       "hekia"
     ],
     "runs": 1,
-    "bestRank": 203,
-    "worstRank": 203,
+    "bestRank": 221,
+    "worstRank": 221,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 203,
+        "rank": 221,
         "ms": 3298022,
         "dish": "Fish"
       }
@@ -2518,6 +2518,32 @@
         "rank": 516,
         "ms": 4514705,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "22eb30d7-38b1-4022-9fb6-f01758670e69",
+    "persona": "\u304F\u3082",
+    "names": [
+      "\u304F\u3082"
+    ],
+    "runs": 1,
+    "bestRank": 607,
+    "worstRank": 607,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4735454,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 607,
+        "ms": 4735454,
+        "dish": "Fish"
       }
     ]
   },

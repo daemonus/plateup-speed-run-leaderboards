@@ -4,16 +4,17 @@
   "names": [
     "raidar91"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 70,
-  "worstRank": 370,
+  "worstRank": 452,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2538025,
   "weeksActive": [
     5,
-    12
+    12,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 370,
       "ms": 3156878,
       "dish": "Turkey"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 452,
+      "ms": 4186396,
+      "dish": "Fish"
     }
   ]
 }

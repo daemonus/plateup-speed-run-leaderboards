@@ -1748,8 +1748,8 @@
       "playee233"
     ],
     "runs": 1,
-    "bestRank": 154,
-    "worstRank": 154,
+    "bestRank": 167,
+    "worstRank": 167,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1761,7 +1761,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 154,
+        "rank": 167,
         "ms": 3037510,
         "dish": "Fish"
       }
@@ -2674,6 +2674,32 @@
         "rank": 600,
         "ms": 4575333,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "50b04900-2254-4975-bc88-ba9d671a8d84",
+    "persona": "chifanfang",
+    "names": [
+      "chifanfang"
+    ],
+    "runs": 1,
+    "bestRank": 771,
+    "worstRank": 771,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5514820,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 771,
+        "ms": 5514820,
+        "dish": "Fish"
       }
     ]
   },

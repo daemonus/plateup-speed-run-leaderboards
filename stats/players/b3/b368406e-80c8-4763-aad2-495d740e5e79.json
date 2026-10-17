@@ -4,7 +4,7 @@
   "names": [
     "erinfox2546"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 136,
   "worstRank": 210,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     74,
     75,
-    84
+    84,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 161,
       "ms": 1821117,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 140,
+      "ms": 2885056,
+      "dish": "Fish"
     }
   ]
 }

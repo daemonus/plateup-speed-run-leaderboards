@@ -162,8 +162,8 @@
       "\u91CC\u5BC6\u96C6"
     ],
     "runs": 1,
-    "bestRank": 522,
-    "worstRank": 522,
+    "bestRank": 580,
+    "worstRank": 580,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 522,
+        "rank": 580,
         "ms": 4624937,
         "dish": "Fish"
       }
@@ -1332,8 +1332,8 @@
       "\u7F8E\u5C11\u5973\u6218\u58EB"
     ],
     "runs": 1,
-    "bestRank": 463,
-    "worstRank": 463,
+    "bestRank": 513,
+    "worstRank": 513,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 463,
+        "rank": 513,
         "ms": 4388965,
         "dish": "Fish"
       }
@@ -2320,8 +2320,8 @@
       "cool circle"
     ],
     "runs": 1,
-    "bestRank": 425,
-    "worstRank": 425,
+    "bestRank": 469,
+    "worstRank": 469,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 425,
+        "rank": 469,
         "ms": 4226533,
         "dish": "Fish"
       }
@@ -2362,6 +2362,32 @@
         "rank": 304,
         "ms": 3492846,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "dab27472-403a-4270-b3c1-5f9b9bb4a3ea",
+    "persona": "sunx",
+    "names": [
+      "sunx"
+    ],
+    "runs": 1,
+    "bestRank": 659,
+    "worstRank": 659,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4941559,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 659,
+        "ms": 4941559,
+        "dish": "Fish"
       }
     ]
   },

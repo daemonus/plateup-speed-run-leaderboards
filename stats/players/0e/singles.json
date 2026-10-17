@@ -598,6 +598,32 @@
     ]
   },
   {
+    "id": "0e2701c7-6c32-4035-a399-ddba3641c74b",
+    "persona": "\u20A3\u2C64\u00D8\u2C6B\u0246\u20A6\u0E3F\u00D8\u024E",
+    "names": [
+      "\u20A3\u2C64\u00D8\u2C6B\u0246\u20A6\u0E3F\u00D8\u024E"
+    ],
+    "runs": 1,
+    "bestRank": 877,
+    "worstRank": 877,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7169086,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 877,
+        "ms": 7169086,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0e279ad0-47ea-4002-92b2-2fb4fde2c3c4",
     "persona": "haohao",
     "names": [
@@ -3620,8 +3646,8 @@
       "STLZOU"
     ],
     "runs": 1,
-    "bestRank": 82,
-    "worstRank": 82,
+    "bestRank": 88,
+    "worstRank": 88,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3633,7 +3659,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 82,
+        "rank": 88,
         "ms": 2503064,
         "dish": "Fish"
       }

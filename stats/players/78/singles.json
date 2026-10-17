@@ -32,8 +32,8 @@
       "misstie6731-TTV-"
     ],
     "runs": 1,
-    "bestRank": 67,
-    "worstRank": 67,
+    "bestRank": 73,
+    "worstRank": 73,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 67,
+        "rank": 73,
         "ms": 2385440,
         "dish": "Fish"
       }
@@ -2648,6 +2648,32 @@
         "rank": 279,
         "ms": 4641262,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "78ef472e-18dc-4e7b-b3ba-87b211b947f2",
+    "persona": "kingslasher99",
+    "names": [
+      "kingslasher99"
+    ],
+    "runs": 1,
+    "bestRank": 393,
+    "worstRank": 393,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3979191,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 393,
+        "ms": 3979191,
+        "dish": "Fish"
       }
     ]
   },

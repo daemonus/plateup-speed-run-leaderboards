@@ -474,8 +474,8 @@
       "Bart"
     ],
     "runs": 1,
-    "bestRank": 767,
-    "worstRank": 767,
+    "bestRank": 843,
+    "worstRank": 843,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 767,
+        "rank": 843,
         "ms": 6235219,
         "dish": "Fish"
       }
@@ -578,8 +578,8 @@
       "mahony"
     ],
     "runs": 1,
-    "bestRank": 533,
-    "worstRank": 533,
+    "bestRank": 592,
+    "worstRank": 592,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 533,
+        "rank": 592,
         "ms": 4670854,
         "dish": "Fish"
       }
@@ -958,6 +958,32 @@
         "rank": 855,
         "ms": 4391431,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "2b48a098-ca35-4141-bdd4-ba8210819cfc",
+    "persona": "jakeallen2341",
+    "names": [
+      "jakeallen2341"
+    ],
+    "runs": 1,
+    "bestRank": 281,
+    "worstRank": 281,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3559692,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 281,
+        "ms": 3559692,
+        "dish": "Fish"
       }
     ]
   },
@@ -1462,8 +1488,8 @@
       "Larive"
     ],
     "runs": 1,
-    "bestRank": 428,
-    "worstRank": 428,
+    "bestRank": 472,
+    "worstRank": 472,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1501,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 428,
+        "rank": 472,
         "ms": 4237119,
         "dish": "Fish"
       }

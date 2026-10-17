@@ -344,8 +344,8 @@
       "Sunclxuds"
     ],
     "runs": 1,
-    "bestRank": 736,
-    "worstRank": 736,
+    "bestRank": 811,
+    "worstRank": 811,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 736,
+        "rank": 811,
         "ms": 5867039,
         "dish": "Fish"
       }
@@ -630,8 +630,8 @@
       "\u65B0\u7AF9\u7AF9"
     ],
     "runs": 1,
-    "bestRank": 644,
-    "worstRank": 644,
+    "bestRank": 715,
+    "worstRank": 715,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 644,
+        "rank": 715,
         "ms": 5169606,
         "dish": "Fish"
       }
@@ -2086,8 +2086,8 @@
       "TheRoundBird"
     ],
     "runs": 1,
-    "bestRank": 68,
-    "worstRank": 68,
+    "bestRank": 74,
+    "worstRank": 74,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 68,
+        "rank": 74,
         "ms": 2395898,
         "dish": "Fish"
       }
@@ -2570,6 +2570,32 @@
         "rank": 256,
         "ms": 3226381,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "c7a9d900-71bb-433c-87c8-45dcbea451ac",
+    "persona": "Sparks",
+    "names": [
+      "Sparks"
+    ],
+    "runs": 1,
+    "bestRank": 697,
+    "worstRank": 697,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5108186,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 697,
+        "ms": 5108186,
+        "dish": "Fish"
       }
     ]
   },

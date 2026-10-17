@@ -780,6 +780,32 @@
     ]
   },
   {
+    "id": "ee441a49-bf3b-4e6b-a075-1dd9b7833364",
+    "persona": "Kxz",
+    "names": [
+      "Kxz"
+    ],
+    "runs": 1,
+    "bestRank": 795,
+    "worstRank": 795,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5698493,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 795,
+        "ms": 5698493,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ee46f42f-2f4d-45cf-9832-46e6fdd86b7b",
     "persona": "Azograph",
     "names": [
@@ -1046,8 +1072,8 @@
       "\u5927\u725B"
     ],
     "runs": 1,
-    "bestRank": 656,
-    "worstRank": 656,
+    "bestRank": 727,
+    "worstRank": 727,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1059,7 +1085,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 656,
+        "rank": 727,
         "ms": 5246270,
         "dish": "Fish"
       }

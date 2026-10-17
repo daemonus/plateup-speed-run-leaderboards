@@ -734,8 +734,8 @@
       "\u4E00\u4E38\u4E39\u836F"
     ],
     "runs": 1,
-    "bestRank": 579,
-    "worstRank": 579,
+    "bestRank": 643,
+    "worstRank": 643,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -747,7 +747,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 579,
+        "rank": 643,
         "ms": 4903994,
         "dish": "Fish"
       }
@@ -1228,8 +1228,8 @@
       "Coffey"
     ],
     "runs": 1,
-    "bestRank": 134,
-    "worstRank": 134,
+    "bestRank": 146,
+    "worstRank": 146,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 134,
+        "rank": 146,
         "ms": 2923162,
         "dish": "Fish"
       }
@@ -2028,6 +2028,32 @@
     ]
   },
   {
+    "id": "5aadc362-0882-4864-bcb9-9b5fc4d7af4b",
+    "persona": "kuroto_52",
+    "names": [
+      "kuroto_52"
+    ],
+    "runs": 1,
+    "bestRank": 298,
+    "worstRank": 298,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3635133,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 298,
+        "ms": 3635133,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "5ab81426-d63e-4936-a97e-ac68763b1d5a",
     "persona": "lenaa333",
     "names": [
@@ -2284,6 +2310,32 @@
         "rank": 650,
         "ms": 3818920,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "5acd901e-9959-40eb-879f-1aa198856506",
+    "persona": "\u83DC\u9E21\u4E92\u5544",
+    "names": [
+      "\u83DC\u9E21\u4E92\u5544"
+    ],
+    "runs": 1,
+    "bestRank": 581,
+    "worstRank": 581,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4635335,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 581,
+        "ms": 4635335,
+        "dish": "Fish"
       }
     ]
   },

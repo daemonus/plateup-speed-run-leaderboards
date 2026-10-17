@@ -4,7 +4,7 @@
   "names": [
     "0731yn"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 15,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     88,
     89,
     90,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 139,
       "ms": 3559375,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 17,
+      "ms": 1583982,
+      "dish": "Fish"
     }
   ]
 }

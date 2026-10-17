@@ -234,6 +234,32 @@
     ]
   },
   {
+    "id": "8609d558-3e7c-4ef4-a2ab-269a619feaac",
+    "persona": "TerryOh",
+    "names": [
+      "TerryOh"
+    ],
+    "runs": 1,
+    "bestRank": 327,
+    "worstRank": 327,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3768333,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 327,
+        "ms": 3768333,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "86108119-95e0-4227-b199-42d69c5b51bf",
     "persona": "LomoRampkin",
     "names": [
@@ -2476,8 +2502,8 @@
       "OakTreeOW"
     ],
     "runs": 1,
-    "bestRank": 761,
-    "worstRank": 761,
+    "bestRank": 837,
+    "worstRank": 837,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2515,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 761,
+        "rank": 837,
         "ms": 6178685,
         "dish": "Fish"
       }

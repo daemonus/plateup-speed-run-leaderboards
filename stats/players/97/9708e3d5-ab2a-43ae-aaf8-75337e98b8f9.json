@@ -4,7 +4,7 @@
   "names": [
     "wiccarol"
   ],
-  "runs": 19,
+  "runs": 20,
   "bestRank": 88,
   "worstRank": 407,
   "firstPlaces": 0,
@@ -30,7 +30,8 @@
     -6,
     22,
     74,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 133,
       "ms": 2663983,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 145,
+      "ms": 2918409,
+      "dish": "Fish"
     }
   ]
 }

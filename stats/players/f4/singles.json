@@ -812,8 +812,8 @@
       "\u266A"
     ],
     "runs": 1,
-    "bestRank": 145,
-    "worstRank": 145,
+    "bestRank": 159,
+    "worstRank": 159,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -825,7 +825,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 145,
+        "rank": 159,
         "ms": 2981934,
         "dish": "Fish"
       }
@@ -1462,8 +1462,8 @@
       "\u522B\u6253\u4E5D\u4E5D\u5566"
     ],
     "runs": 1,
-    "bestRank": 805,
-    "worstRank": 805,
+    "bestRank": 885,
+    "worstRank": 885,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1475,7 +1475,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 805,
+        "rank": 885,
         "ms": 8118379,
         "dish": "Fish"
       }
@@ -1764,6 +1764,32 @@
         "rank": 341,
         "ms": 4292506,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "f482dd01-b62d-497d-9076-a7601fe4bc0d",
+    "persona": "Tizby",
+    "names": [
+      "Tizby"
+    ],
+    "runs": 1,
+    "bestRank": 194,
+    "worstRank": 194,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3160165,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 194,
+        "ms": 3160165,
+        "dish": "Fish"
       }
     ]
   },
@@ -3074,8 +3100,8 @@
       "Italian Roast"
     ],
     "runs": 1,
-    "bestRank": 464,
-    "worstRank": 464,
+    "bestRank": 514,
+    "worstRank": 514,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3087,7 +3113,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 464,
+        "rank": 514,
         "ms": 4396706,
         "dish": "Fish"
       }

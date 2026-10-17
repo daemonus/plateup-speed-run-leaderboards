@@ -500,8 +500,8 @@
       "cfe36265"
     ],
     "runs": 1,
-    "bestRank": 782,
-    "worstRank": 782,
+    "bestRank": 860,
+    "worstRank": 860,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +513,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 782,
+        "rank": 860,
         "ms": 6575427,
         "dish": "Fish"
       }
@@ -1956,8 +1956,8 @@
       "yy"
     ],
     "runs": 1,
-    "bestRank": 318,
-    "worstRank": 318,
+    "bestRank": 349,
+    "worstRank": 349,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1969,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 318,
+        "rank": 349,
         "ms": 3842000,
         "dish": "Fish"
       }
@@ -2050,6 +2050,32 @@
         "rank": 295,
         "ms": 2541692,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "66894f29-c255-4e23-b7a7-d67d33cb5400",
+    "persona": "Icetabetai",
+    "names": [
+      "Icetabetai"
+    ],
+    "runs": 1,
+    "bestRank": 367,
+    "worstRank": 367,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3897008,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 367,
+        "ms": 3897008,
+        "dish": "Fish"
       }
     ]
   },

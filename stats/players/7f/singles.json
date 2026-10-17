@@ -916,8 +916,8 @@
       "Q"
     ],
     "runs": 1,
-    "bestRank": 540,
-    "worstRank": 540,
+    "bestRank": 599,
+    "worstRank": 599,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 540,
+        "rank": 599,
         "ms": 4679880,
         "dish": "Fish"
       }
@@ -984,6 +984,32 @@
         "rank": 295,
         "ms": 4056041,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "7f4a116c-5b5b-43e8-924e-4caac11f1594",
+    "persona": "sushi",
+    "names": [
+      "sushi"
+    ],
+    "runs": 1,
+    "bestRank": 568,
+    "worstRank": 568,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4586729,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 568,
+        "ms": 4586729,
+        "dish": "Fish"
       }
     ]
   },
@@ -1982,8 +2008,8 @@
       "Stellar"
     ],
     "runs": 1,
-    "bestRank": 482,
-    "worstRank": 482,
+    "bestRank": 536,
+    "worstRank": 536,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 482,
+        "rank": 536,
         "ms": 4477820,
         "dish": "Fish"
       }
@@ -2450,8 +2476,8 @@
       "Gloinar"
     ],
     "runs": 1,
-    "bestRank": 301,
-    "worstRank": 301,
+    "bestRank": 330,
+    "worstRank": 330,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 301,
+        "rank": 330,
         "ms": 3772877,
         "dish": "Fish"
       }
@@ -2502,8 +2528,8 @@
       "3108622628"
     ],
     "runs": 1,
-    "bestRank": 543,
-    "worstRank": 543,
+    "bestRank": 602,
+    "worstRank": 602,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2541,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 543,
+        "rank": 602,
         "ms": 4701905,
         "dish": "Fish"
       }
@@ -3412,8 +3438,8 @@
       "apple54"
     ],
     "runs": 1,
-    "bestRank": 211,
-    "worstRank": 211,
+    "bestRank": 228,
+    "worstRank": 228,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3451,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 211,
+        "rank": 228,
         "ms": 3329374,
         "dish": "Fish"
       }

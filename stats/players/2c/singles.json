@@ -84,8 +84,8 @@
       "John Travolta"
     ],
     "runs": 1,
-    "bestRank": 648,
-    "worstRank": 648,
+    "bestRank": 719,
+    "worstRank": 719,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 648,
+        "rank": 719,
         "ms": 5206136,
         "dish": "Fish"
       }
@@ -1384,8 +1384,8 @@
       "f. as in f u."
     ],
     "runs": 1,
-    "bestRank": 759,
-    "worstRank": 759,
+    "bestRank": 835,
+    "worstRank": 835,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 759,
+        "rank": 835,
         "ms": 6156935,
         "dish": "Fish"
       }
@@ -1904,8 +1904,8 @@
       "PendR"
     ],
     "runs": 1,
-    "bestRank": 466,
-    "worstRank": 466,
+    "bestRank": 517,
+    "worstRank": 517,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 466,
+        "rank": 517,
         "ms": 4408339,
         "dish": "Fish"
       }
@@ -2856,6 +2856,32 @@
         "rank": 463,
         "ms": 3860595,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "2cf2cd8e-8265-48e0-a3cc-0e1e93d99396",
+    "persona": "Dark",
+    "names": [
+      "Dark"
+    ],
+    "runs": 1,
+    "bestRank": 292,
+    "worstRank": 292,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3618689,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 292,
+        "ms": 3618689,
+        "dish": "Fish"
       }
     ]
   },

@@ -1826,8 +1826,8 @@
       "\u5C0F\u6B23"
     ],
     "runs": 1,
-    "bestRank": 294,
-    "worstRank": 294,
+    "bestRank": 322,
+    "worstRank": 322,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 294,
+        "rank": 322,
         "ms": 3753855,
         "dish": "Fish"
       }
@@ -2284,6 +2284,32 @@
         "rank": 373,
         "ms": 4536604,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "8bac91e1-37db-4bd0-99ab-ec8c70828772",
+    "persona": "MoonShotWingman",
+    "names": [
+      "MoonShotWingman"
+    ],
+    "runs": 1,
+    "bestRank": 410,
+    "worstRank": 410,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4044941,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 410,
+        "ms": 4044941,
+        "dish": "Fish"
       }
     ]
   },

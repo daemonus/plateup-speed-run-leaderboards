@@ -84,8 +84,8 @@
       "\u9999\u714E\u54B8\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 642,
-    "worstRank": 642,
+    "bestRank": 712,
+    "worstRank": 712,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 642,
+        "rank": 712,
         "ms": 5151917,
         "dish": "Fish"
       }
@@ -1867,32 +1867,6 @@
         "start": "2023-06-12",
         "rank": 808,
         "ms": 5889528,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "aa8e9a0d-9899-4198-b130-eb56e248fef6",
-    "persona": "viah.mayuga",
-    "names": [
-      "viah.mayuga"
-    ],
-    "runs": 1,
-    "bestRank": 819,
-    "worstRank": 819,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 13616352,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 819,
-        "ms": 13616352,
         "dish": "Fish"
       }
     ]

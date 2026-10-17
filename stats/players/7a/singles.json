@@ -500,8 +500,8 @@
       "\u963F\u6BDB"
     ],
     "runs": 1,
-    "bestRank": 594,
-    "worstRank": 594,
+    "bestRank": 662,
+    "worstRank": 662,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +513,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 594,
+        "rank": 662,
         "ms": 4952653,
         "dish": "Fish"
       }
@@ -1946,6 +1946,32 @@
         "rank": 789,
         "ms": 4510294,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "7a9c738a-079f-476c-ba6e-7532ddd34392",
+    "persona": "The Almighty Duck",
+    "names": [
+      "The Almighty Duck"
+    ],
+    "runs": 1,
+    "bestRank": 482,
+    "worstRank": 482,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4286840,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 482,
+        "ms": 4286840,
+        "dish": "Fish"
       }
     ]
   },

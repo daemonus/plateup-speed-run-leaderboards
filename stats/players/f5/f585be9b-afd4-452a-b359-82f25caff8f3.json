@@ -4,7 +4,7 @@
   "names": [
     "Engvall"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 202,
   "worstRank": 448,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -93,
     -92,
-    -86
+    -86,
+    92
   ],
   "history": [
     {
@@ -36,6 +37,13 @@
       "start": "2023-05-15",
       "rank": 202,
       "ms": 2248361,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 241,
+      "ms": 3394094,
       "dish": "Fish"
     }
   ]

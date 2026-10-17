@@ -4,7 +4,7 @@
   "names": [
     "Willikers-Peak"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 23,
   "worstRank": 161,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     64,
     65,
     71,
-    73
+    73,
+    92
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 48,
       "ms": 2371214,
       "dish": "Burgers"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 85,
+      "ms": 2490976,
+      "dish": "Fish"
     }
   ]
 }

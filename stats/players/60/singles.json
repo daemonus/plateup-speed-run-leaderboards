@@ -1,13 +1,39 @@
 [
   {
+    "id": "6000f9c0-2764-4de6-9e09-47d9eca51192",
+    "persona": "RIG",
+    "names": [
+      "RIG"
+    ],
+    "runs": 1,
+    "bestRank": 562,
+    "worstRank": 562,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4559487,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 562,
+        "ms": 4559487,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "60015f34-4594-4d53-a71f-18cb5794b745",
     "persona": "siuhangfung",
     "names": [
       "siuhangfung"
     ],
     "runs": 1,
-    "bestRank": 447,
-    "worstRank": 447,
+    "bestRank": 496,
+    "worstRank": 496,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 447,
+        "rank": 496,
         "ms": 4321967,
         "dish": "Fish"
       }
@@ -1358,8 +1384,8 @@
       "\u68A6z\u5565\u90FD\u6709"
     ],
     "runs": 1,
-    "bestRank": 284,
-    "worstRank": 284,
+    "bestRank": 312,
+    "worstRank": 312,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 284,
+        "rank": 312,
         "ms": 3696016,
         "dish": "Fish"
       }
@@ -3334,8 +3360,8 @@
       "Tams"
     ],
     "runs": 1,
-    "bestRank": 402,
-    "worstRank": 402,
+    "bestRank": 442,
+    "worstRank": 442,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3347,7 +3373,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 402,
+        "rank": 442,
         "ms": 4134057,
         "dish": "Fish"
       }
@@ -3802,8 +3828,8 @@
       "Frasnae"
     ],
     "runs": 1,
-    "bestRank": 569,
-    "worstRank": 569,
+    "bestRank": 633,
+    "worstRank": 633,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3815,7 +3841,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 569,
+        "rank": 633,
         "ms": 4841089,
         "dish": "Fish"
       }

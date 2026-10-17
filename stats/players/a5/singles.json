@@ -162,8 +162,8 @@
       "\u68EE\u6797\u51B0\u706B\u4EBA\u65E0\u654C\u7248"
     ],
     "runs": 1,
-    "bestRank": 414,
-    "worstRank": 414,
+    "bestRank": 457,
+    "worstRank": 457,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 414,
+        "rank": 457,
         "ms": 4191303,
         "dish": "Fish"
       }
@@ -682,8 +682,8 @@
       "ssttv"
     ],
     "runs": 1,
-    "bestRank": 500,
-    "worstRank": 500,
+    "bestRank": 556,
+    "worstRank": 556,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 500,
+        "rank": 556,
         "ms": 4538125,
         "dish": "Fish"
       }
@@ -1332,8 +1332,8 @@
       "Lasio"
     ],
     "runs": 1,
-    "bestRank": 661,
-    "worstRank": 661,
+    "bestRank": 732,
+    "worstRank": 732,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 661,
+        "rank": 732,
         "ms": 5257896,
         "dish": "Fish"
       }
@@ -2414,6 +2414,32 @@
         "rank": 248,
         "ms": 4018337,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "a5d6423b-3da7-41f8-875b-5d6bf3e8f7d9",
+    "persona": "wait",
+    "names": [
+      "wait"
+    ],
+    "runs": 1,
+    "bestRank": 434,
+    "worstRank": 434,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4094511,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 434,
+        "ms": 4094511,
+        "dish": "Fish"
       }
     ]
   },

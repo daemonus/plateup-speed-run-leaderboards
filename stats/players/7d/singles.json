@@ -1800,8 +1800,8 @@
       "AutHectation"
     ],
     "runs": 1,
-    "bestRank": 725,
-    "worstRank": 725,
+    "bestRank": 800,
+    "worstRank": 800,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 725,
+        "rank": 800,
         "ms": 5752637,
         "dish": "Fish"
       }
@@ -1852,8 +1852,8 @@
       "Misuzu"
     ],
     "runs": 1,
-    "bestRank": 668,
-    "worstRank": 668,
+    "bestRank": 739,
+    "worstRank": 739,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 668,
+        "rank": 739,
         "ms": 5315643,
         "dish": "Fish"
       }
@@ -2518,6 +2518,32 @@
         "rank": 57,
         "ms": 2462510,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "7dbaf1da-01b4-4f41-ab93-48392b12caf6",
+    "persona": "panqueque",
+    "names": [
+      "panqueque"
+    ],
+    "runs": 1,
+    "bestRank": 548,
+    "worstRank": 548,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4511081,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 548,
+        "ms": 4511081,
+        "dish": "Fish"
       }
     ]
   },

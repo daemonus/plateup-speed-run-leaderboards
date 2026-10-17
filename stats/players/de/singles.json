@@ -474,8 +474,8 @@
       "ghostface\u0027s wife"
     ],
     "runs": 1,
-    "bestRank": 295,
-    "worstRank": 295,
+    "bestRank": 323,
+    "worstRank": 323,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 295,
+        "rank": 323,
         "ms": 3758658,
         "dish": "Fish"
       }
@@ -1852,8 +1852,8 @@
       "CPRV"
     ],
     "runs": 1,
-    "bestRank": 742,
-    "worstRank": 742,
+    "bestRank": 817,
+    "worstRank": 817,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 742,
+        "rank": 817,
         "ms": 5914128,
         "dish": "Fish"
       }
@@ -2648,6 +2648,32 @@
         "rank": 681,
         "ms": 8757081,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "dedbe56f-5bad-449c-a515-8fc658f34b01",
+    "persona": "Dawn",
+    "names": [
+      "Dawn"
+    ],
+    "runs": 1,
+    "bestRank": 713,
+    "worstRank": 713,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5154718,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 713,
+        "ms": 5154718,
+        "dish": "Fish"
       }
     ]
   },

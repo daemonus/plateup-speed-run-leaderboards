@@ -318,8 +318,8 @@
       "\u4F55\u5C0F\u767D"
     ],
     "runs": 1,
-    "bestRank": 170,
-    "worstRank": 170,
+    "bestRank": 184,
+    "worstRank": 184,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 170,
+        "rank": 184,
         "ms": 3109886,
         "dish": "Fish"
       }
@@ -516,6 +516,32 @@
         "rank": 966,
         "ms": 5313471,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "6f1a2cc9-5c55-4c9d-98ff-9951ae5e14d6",
+    "persona": "Crabmaker777",
+    "names": [
+      "Crabmaker777"
+    ],
+    "runs": 1,
+    "bestRank": 748,
+    "worstRank": 748,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5384483,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 748,
+        "ms": 5384483,
+        "dish": "Fish"
       }
     ]
   },
@@ -802,6 +828,32 @@
         "rank": 516,
         "ms": 4127787,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "6f372938-54ca-4f62-a090-f39c9bec4ee8",
+    "persona": "oosu",
+    "names": [
+      "oosu"
+    ],
+    "runs": 1,
+    "bestRank": 859,
+    "worstRank": 859,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6555979,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 859,
+        "ms": 6555979,
+        "dish": "Fish"
       }
     ]
   },
@@ -1332,8 +1384,8 @@
       "past"
     ],
     "runs": 1,
-    "bestRank": 561,
-    "worstRank": 561,
+    "bestRank": 624,
+    "worstRank": 624,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 561,
+        "rank": 624,
         "ms": 4805470,
         "dish": "Fish"
       }

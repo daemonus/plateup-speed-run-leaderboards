@@ -1644,8 +1644,8 @@
       "Faisal"
     ],
     "runs": 1,
-    "bestRank": 812,
-    "worstRank": 812,
+    "bestRank": 894,
+    "worstRank": 894,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1657,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 812,
+        "rank": 894,
         "ms": 9642449,
         "dish": "Fish"
       }
@@ -2362,6 +2362,32 @@
         "rank": 759,
         "ms": 5142937,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "99cce6c6-c28c-45b0-8e15-0b09526cb235",
+    "persona": "shrynsb27",
+    "names": [
+      "shrynsb27"
+    ],
+    "runs": 1,
+    "bestRank": 381,
+    "worstRank": 381,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3927431,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 381,
+        "ms": 3927431,
+        "dish": "Fish"
       }
     ]
   },

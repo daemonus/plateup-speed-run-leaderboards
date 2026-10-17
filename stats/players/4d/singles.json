@@ -1124,12 +1124,12 @@
       "businessbullying"
     ],
     "runs": 1,
-    "bestRank": 147,
-    "worstRank": 147,
+    "bestRank": 156,
+    "worstRank": 156,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 2988102,
+    "bestMs": 2978644,
     "weeksActive": [
       92
     ],
@@ -1137,8 +1137,8 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 147,
-        "ms": 2988102,
+        "rank": 156,
+        "ms": 2978644,
         "dish": "Fish"
       }
     ]
@@ -2002,6 +2002,32 @@
     ]
   },
   {
+    "id": "4da1dd55-7eed-4e51-afb0-73abf7cf8fbf",
+    "persona": "The Guy",
+    "names": [
+      "The Guy"
+    ],
+    "runs": 1,
+    "bestRank": 117,
+    "worstRank": 117,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2754127,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 117,
+        "ms": 2754127,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "4da3fa35-d831-4652-b04c-f642c5f04ffb",
     "persona": "Aliciel",
     "names": [
@@ -2164,8 +2190,8 @@
       "chensha\u03A3(\u3063 \u00B0\u0414 \u00B0;)\u3063"
     ],
     "runs": 1,
-    "bestRank": 323,
-    "worstRank": 323,
+    "bestRank": 354,
+    "worstRank": 354,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2177,7 +2203,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 323,
+        "rank": 354,
         "ms": 3864133,
         "dish": "Fish"
       }
@@ -2398,8 +2424,8 @@
       "\u8FD8\u6CA1\u60F3\u597D\uFF0C\u518D\u770B\u770B:)"
     ],
     "runs": 1,
-    "bestRank": 715,
-    "worstRank": 715,
+    "bestRank": 789,
+    "worstRank": 789,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 715,
+        "rank": 789,
         "ms": 5654644,
         "dish": "Fish"
       }

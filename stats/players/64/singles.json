@@ -500,8 +500,8 @@
       "danchaofan"
     ],
     "runs": 1,
-    "bestRank": 320,
-    "worstRank": 320,
+    "bestRank": 351,
+    "worstRank": 351,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +513,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 320,
+        "rank": 351,
         "ms": 3848656,
         "dish": "Fish"
       }
@@ -2210,6 +2210,32 @@
     ]
   },
   {
+    "id": "64aff602-9044-4f57-b17a-ce876f8757d4",
+    "persona": "TheFreyFather",
+    "names": [
+      "TheFreyFather"
+    ],
+    "runs": 1,
+    "bestRank": 271,
+    "worstRank": 271,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3523905,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 271,
+        "ms": 3523905,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "64b5626b-9d56-46cd-9713-6ad49cd3fcf3",
     "persona": "chiyue_0302",
     "names": [
@@ -2996,8 +3022,8 @@
       "\u591C\u96E8"
     ],
     "runs": 1,
-    "bestRank": 389,
-    "worstRank": 389,
+    "bestRank": 426,
+    "worstRank": 426,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3009,7 +3035,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 389,
+        "rank": 426,
         "ms": 4078068,
         "dish": "Fish"
       }
