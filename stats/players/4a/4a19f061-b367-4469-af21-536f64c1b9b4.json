@@ -4,9 +4,9 @@
   "names": [
     "KrillinIt"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 67,
-  "worstRank": 230,
+  "worstRank": 322,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -21,7 +21,8 @@
     81,
     84,
     86,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 203,
       "ms": 3079555,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 322,
+      "ms": 3558201,
+      "dish": "Fish"
     }
   ]
 }

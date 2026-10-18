@@ -84,8 +84,8 @@
       "Darius"
     ],
     "runs": 1,
-    "bestRank": 1028,
-    "worstRank": 1028,
+    "bestRank": 1100,
+    "worstRank": 1100,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1028,
+        "rank": 1100,
         "ms": 8228511,
         "dish": "Fish"
       }
@@ -1020,8 +1020,8 @@
       "TheTempest05"
     ],
     "runs": 1,
-    "bestRank": 456,
-    "worstRank": 456,
+    "bestRank": 485,
+    "worstRank": 485,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1033,7 +1033,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 456,
+        "rank": 485,
         "ms": 4045799,
         "dish": "Fish"
       }
@@ -1867,6 +1867,32 @@
         "start": "2024-04-22",
         "rank": 879,
         "ms": 4642900,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "37732ac2-e55b-4040-b239-217683230578",
+    "persona": "ItsDieter",
+    "names": [
+      "ItsDieter"
+    ],
+    "runs": 1,
+    "bestRank": 185,
+    "worstRank": 185,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3035608,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 185,
+        "ms": 3035608,
         "dish": "Fish"
       }
     ]
@@ -3334,8 +3360,8 @@
       "Tim_Artem"
     ],
     "runs": 1,
-    "bestRank": 290,
-    "worstRank": 290,
+    "bestRank": 306,
+    "worstRank": 306,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3347,7 +3373,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 290,
+        "rank": 306,
         "ms": 3517361,
         "dish": "Fish"
       }

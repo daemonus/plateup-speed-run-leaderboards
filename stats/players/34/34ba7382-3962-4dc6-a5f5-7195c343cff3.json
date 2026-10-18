@@ -4,9 +4,9 @@
   "names": [
     "peebee"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 181,
-  "worstRank": 238,
+  "worstRank": 248,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -17,7 +17,8 @@
     78,
     80,
     81,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 238,
       "ms": 3148228,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 248,
+      "ms": 3285481,
+      "dish": "Fish"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "1a5e1141-6650-4c72-bcfd-ba73ce960a82",
+  "persona": "Xing",
+  "names": [
+    "Xing"
+  ],
+  "runs": 2,
+  "bestRank": 116,
+  "worstRank": 290,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2651152,
+  "weeksActive": [
+    19,
+    92
+  ],
+  "history": [
+    {
+      "week": 19,
+      "start": "2025-05-19",
+      "rank": 290,
+      "ms": 4168480,
+      "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 116,
+      "ms": 2651152,
+      "dish": "Fish"
+    }
+  ]
+}

@@ -1150,8 +1150,8 @@
       "AWA"
     ],
     "runs": 1,
-    "bestRank": 438,
-    "worstRank": 438,
+    "bestRank": 466,
+    "worstRank": 466,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 438,
+        "rank": 466,
         "ms": 3984780,
         "dish": "Fish"
       }
@@ -2346,8 +2346,8 @@
       "photonem"
     ],
     "runs": 1,
-    "bestRank": 512,
-    "worstRank": 512,
+    "bestRank": 543,
+    "worstRank": 543,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2359,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 512,
+        "rank": 543,
         "ms": 4189199,
         "dish": "Fish"
       }
@@ -2934,6 +2934,32 @@
         "rank": 309,
         "ms": 3522021,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "42e52fc7-23bb-4f64-8800-2444fb938882",
+    "persona": "Goucc",
+    "names": [
+      "Goucc"
+    ],
+    "runs": 1,
+    "bestRank": 548,
+    "worstRank": 548,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4198213,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 548,
+        "ms": 4198213,
+        "dish": "Fish"
       }
     ]
   },

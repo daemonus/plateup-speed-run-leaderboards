@@ -6,8 +6,8 @@
       "RIG"
     ],
     "runs": 1,
-    "bestRank": 635,
-    "worstRank": 635,
+    "bestRank": 680,
+    "worstRank": 680,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 635,
+        "rank": 680,
         "ms": 4559487,
         "dish": "Fish"
       }
@@ -32,8 +32,8 @@
       "siuhangfung"
     ],
     "runs": 1,
-    "bestRank": 557,
-    "worstRank": 557,
+    "bestRank": 596,
+    "worstRank": 596,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 557,
+        "rank": 596,
         "ms": 4321967,
         "dish": "Fish"
       }
@@ -1384,8 +1384,8 @@
       "\u68A6z\u5565\u90FD\u6709"
     ],
     "runs": 1,
-    "bestRank": 341,
-    "worstRank": 341,
+    "bestRank": 362,
+    "worstRank": 362,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 341,
+        "rank": 362,
         "ms": 3696016,
         "dish": "Fish"
       }
@@ -1816,6 +1816,32 @@
         "rank": 274,
         "ms": 4363424,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "6074d990-ee98-453a-87b7-91c9439cd5b0",
+    "persona": "SWR",
+    "names": [
+      "SWR"
+    ],
+    "runs": 1,
+    "bestRank": 471,
+    "worstRank": 471,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3996656,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 471,
+        "ms": 3996656,
+        "dish": "Fish"
       }
     ]
   },
@@ -3360,8 +3386,8 @@
       "Tams"
     ],
     "runs": 1,
-    "bestRank": 495,
-    "worstRank": 495,
+    "bestRank": 526,
+    "worstRank": 526,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3373,7 +3399,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 495,
+        "rank": 526,
         "ms": 4134057,
         "dish": "Fish"
       }
@@ -3828,8 +3854,8 @@
       "Frasnae"
     ],
     "runs": 1,
-    "bestRank": 720,
-    "worstRank": 720,
+    "bestRank": 772,
+    "worstRank": 772,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3841,7 +3867,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 720,
+        "rank": 772,
         "ms": 4841089,
         "dish": "Fish"
       }

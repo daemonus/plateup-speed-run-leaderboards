@@ -4,16 +4,17 @@
   "names": [
     "GunsBlaiz"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 179,
-  "worstRank": 408,
+  "worstRank": 837,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 4352359,
   "weeksActive": [
     85,
-    87
+    87,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 179,
       "ms": 4352359,
       "dish": "Fajitas"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 837,
+      "ms": 5063689,
+      "dish": "Fish"
     }
   ]
 }

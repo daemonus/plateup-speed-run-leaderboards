@@ -2294,8 +2294,8 @@
       "Chumdumpster"
     ],
     "runs": 1,
-    "bestRank": 356,
-    "worstRank": 356,
+    "bestRank": 377,
+    "worstRank": 377,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 356,
+        "rank": 377,
         "ms": 3766302,
         "dish": "Fish"
       }
@@ -2762,8 +2762,8 @@
       "GroovySiss"
     ],
     "runs": 1,
-    "bestRank": 840,
-    "worstRank": 840,
+    "bestRank": 897,
+    "worstRank": 897,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2775,7 +2775,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 840,
+        "rank": 897,
         "ms": 5249426,
         "dish": "Fish"
       }
@@ -3142,6 +3142,32 @@
         "rank": 541,
         "ms": 4307863,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "d8f5dc72-2a2a-4a60-83b4-76c3f373cc36",
+    "persona": "\u8702\u871C\u725B\u5976",
+    "names": [
+      "\u8702\u871C\u725B\u5976"
+    ],
+    "runs": 1,
+    "bestRank": 742,
+    "worstRank": 742,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4756350,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 742,
+        "ms": 4756350,
+        "dish": "Fish"
       }
     ]
   },

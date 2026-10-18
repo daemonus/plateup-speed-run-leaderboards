@@ -4,7 +4,7 @@
   "names": [
     "adamdrinkslots"
   ],
-  "runs": 160,
+  "runs": 161,
   "bestRank": 5,
   "worstRank": 1068,
   "firstPlaces": 0,
@@ -171,7 +171,8 @@
     86,
     87,
     88,
-    91
+    91,
+    92
   ],
   "history": [
     {
@@ -1293,6 +1294,13 @@
       "rank": 27,
       "ms": 2379160,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 20,
+      "ms": 1678916,
+      "dish": "Fish"
     }
   ]
 }

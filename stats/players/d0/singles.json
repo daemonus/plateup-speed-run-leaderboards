@@ -604,8 +604,8 @@
       "Benis"
     ],
     "runs": 1,
-    "bestRank": 501,
-    "worstRank": 501,
+    "bestRank": 532,
+    "worstRank": 532,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 501,
+        "rank": 532,
         "ms": 4161308,
         "dish": "Fish"
       }
@@ -1686,6 +1686,32 @@
         "rank": 492,
         "ms": 2757367,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "d0734fde-dfe1-4d0f-bd72-ed4f01dad05a",
+    "persona": "2691483427",
+    "names": [
+      "2691483427"
+    ],
+    "runs": 1,
+    "bestRank": 452,
+    "worstRank": 452,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3955519,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 452,
+        "ms": 3955519,
+        "dish": "Fish"
       }
     ]
   },
@@ -2892,8 +2918,8 @@
       "\u4E09\u5C81\u7684\u7535\u7ADE\u65E5\u5E38"
     ],
     "runs": 1,
-    "bestRank": 547,
-    "worstRank": 547,
+    "bestRank": 585,
+    "worstRank": 585,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2905,7 +2931,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 547,
+        "rank": 585,
         "ms": 4299951,
         "dish": "Fish"
       }

@@ -84,8 +84,8 @@
       "40325118"
     ],
     "runs": 1,
-    "bestRank": 673,
-    "worstRank": 673,
+    "bestRank": 719,
+    "worstRank": 719,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 673,
+        "rank": 719,
         "ms": 4676729,
         "dish": "Fish"
       }
@@ -578,8 +578,8 @@
       "Kiwikou"
     ],
     "runs": 1,
-    "bestRank": 535,
-    "worstRank": 535,
+    "bestRank": 572,
+    "worstRank": 572,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 535,
+        "rank": 572,
         "ms": 4258295,
         "dish": "Fish"
       }
@@ -984,6 +984,32 @@
         "rank": 408,
         "ms": 4159357,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "975e20f2-8c46-4bec-bbab-9cbb094bde1d",
+    "persona": "\u4E8C\u7B49\u997C\u5E72",
+    "names": [
+      "\u4E8C\u7B49\u997C\u5E72"
+    ],
+    "runs": 1,
+    "bestRank": 750,
+    "worstRank": 750,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4778959,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 750,
+        "ms": 4778959,
+        "dish": "Fish"
       }
     ]
   },
@@ -2658,8 +2684,8 @@
       "DarkBB"
     ],
     "runs": 1,
-    "bestRank": 1009,
-    "worstRank": 1009,
+    "bestRank": 1081,
+    "worstRank": 1081,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1009,
+        "rank": 1081,
         "ms": 6962676,
         "dish": "Fish"
       }
@@ -2814,8 +2840,8 @@
       "CDOjr"
     ],
     "runs": 1,
-    "bestRank": 528,
-    "worstRank": 528,
+    "bestRank": 563,
+    "worstRank": 563,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2827,7 +2853,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 528,
+        "rank": 563,
         "ms": 4233432,
         "dish": "Fish"
       }

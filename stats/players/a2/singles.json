@@ -214,8 +214,8 @@
       "CIer1"
     ],
     "runs": 1,
-    "bestRank": 768,
-    "worstRank": 768,
+    "bestRank": 821,
+    "worstRank": 821,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 768,
+        "rank": 821,
         "ms": 5019488,
         "dish": "Fish"
       }
@@ -396,8 +396,8 @@
       "Sunkist"
     ],
     "runs": 1,
-    "bestRank": 567,
-    "worstRank": 567,
+    "bestRank": 608,
+    "worstRank": 608,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -409,7 +409,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 567,
+        "rank": 608,
         "ms": 4350439,
         "dish": "Fish"
       }
@@ -750,6 +750,32 @@
         "rank": 434,
         "ms": 3978234,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "a245377b-4d17-49c8-94ef-05ba50dd5b42",
+    "persona": "\u94F6\u5C71\u94F6\u6D77",
+    "names": [
+      "\u94F6\u5C71\u94F6\u6D77"
+    ],
+    "runs": 1,
+    "bestRank": 1024,
+    "worstRank": 1024,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6047143,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1024,
+        "ms": 6047143,
+        "dish": "Fish"
       }
     ]
   },

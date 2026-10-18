@@ -162,8 +162,8 @@
       "\u55B5\u4F50"
     ],
     "runs": 1,
-    "bestRank": 923,
-    "worstRank": 923,
+    "bestRank": 987,
+    "worstRank": 987,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 923,
+        "rank": 987,
         "ms": 5732871,
         "dish": "Fish"
       }
@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "4532285a-a23f-49ad-864b-1b6e39ee704e",
+    "persona": "Laties-DA*ZE",
+    "names": [
+      "Laties-DA*ZE"
+    ],
+    "runs": 1,
+    "bestRank": 672,
+    "worstRank": 672,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4535312,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 672,
+        "ms": 4535312,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "4532b3bd-6fcc-4cb1-9909-c1c502fcfb1c",
     "persona": "Harsh",
     "names": [
@@ -853,6 +879,32 @@
         "start": "2025-03-03",
         "rank": 680,
         "ms": 3719074,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "45438f9a-325c-421f-98ca-ecfb6d68adff",
+    "persona": "venus",
+    "names": [
+      "venus"
+    ],
+    "runs": 1,
+    "bestRank": 425,
+    "worstRank": 425,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3890390,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 425,
+        "ms": 3890390,
         "dish": "Fish"
       }
     ]
@@ -2190,8 +2242,8 @@
       "H.Eng"
     ],
     "runs": 1,
-    "bestRank": 214,
-    "worstRank": 214,
+    "bestRank": 224,
+    "worstRank": 224,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2203,7 +2255,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 214,
+        "rank": 224,
         "ms": 3177017,
         "dish": "Fish"
       }

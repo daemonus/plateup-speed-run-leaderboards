@@ -84,8 +84,8 @@
       "\u9999\u714E\u54B8\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 816,
-    "worstRank": 816,
+    "bestRank": 872,
+    "worstRank": 872,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 816,
+        "rank": 872,
         "ms": 5151917,
         "dish": "Fish"
       }
@@ -1560,6 +1560,32 @@
     ]
   },
   {
+    "id": "aa79d4b2-9933-4ecb-afda-c047b433d58c",
+    "persona": "\u5927\u5C3E\u5DF4\u63D0",
+    "names": [
+      "\u5927\u5C3E\u5DF4\u63D0"
+    ],
+    "runs": 1,
+    "bestRank": 570,
+    "worstRank": 570,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4256330,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 570,
+        "ms": 4256330,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "aa7b39a8-67f9-47a9-b57b-39ecb0b8eb8f",
     "persona": "Kalis",
     "names": [
@@ -1878,8 +1904,8 @@
       "viah.mayuga"
     ],
     "runs": 1,
-    "bestRank": 1046,
-    "worstRank": 1046,
+    "bestRank": 1119,
+    "worstRank": 1119,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1046,
+        "rank": 1119,
         "ms": 13616352,
         "dish": "Fish"
       }

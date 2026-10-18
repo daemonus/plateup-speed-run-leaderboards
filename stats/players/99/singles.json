@@ -1644,8 +1644,8 @@
       "Faisal"
     ],
     "runs": 1,
-    "bestRank": 1037,
-    "worstRank": 1037,
+    "bestRank": 1110,
+    "worstRank": 1110,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1657,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1037,
+        "rank": 1110,
         "ms": 9642449,
         "dish": "Fish"
       }
@@ -2372,8 +2372,8 @@
       "shrynsb27"
     ],
     "runs": 1,
-    "bestRank": 418,
-    "worstRank": 418,
+    "bestRank": 443,
+    "worstRank": 443,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2385,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 418,
+        "rank": 443,
         "ms": 3927431,
         "dish": "Fish"
       }
@@ -2684,8 +2684,8 @@
       "R wei"
     ],
     "runs": 1,
-    "bestRank": 472,
-    "worstRank": 472,
+    "bestRank": 502,
+    "worstRank": 502,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2697,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 472,
+        "rank": 502,
         "ms": 4077561,
         "dish": "Fish"
       }
@@ -2856,6 +2856,32 @@
         "rank": 522,
         "ms": 5899736,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "99e30d70-5d09-4253-b93f-2691b03efa81",
+    "persona": "z.85",
+    "names": [
+      "z.85"
+    ],
+    "runs": 1,
+    "bestRank": 364,
+    "worstRank": 364,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3705629,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 364,
+        "ms": 3705629,
+        "dish": "Fish"
       }
     ]
   },

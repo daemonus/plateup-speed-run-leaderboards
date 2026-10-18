@@ -604,8 +604,8 @@
       "\u20A3\u2C64\u00D8\u2C6B\u0246\u20A6\u0E3F\u00D8\u024E"
     ],
     "runs": 1,
-    "bestRank": 1015,
-    "worstRank": 1015,
+    "bestRank": 1087,
+    "worstRank": 1087,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1015,
+        "rank": 1087,
         "ms": 7169086,
         "dish": "Fish"
       }
@@ -1763,6 +1763,32 @@
         "start": "2026-01-05",
         "rank": 405,
         "ms": 3403370,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "0e718a72-b889-47cf-a3ab-932ff51201b9",
+    "persona": "l12366666_2022",
+    "names": [
+      "l12366666_2022"
+    ],
+    "runs": 1,
+    "bestRank": 549,
+    "worstRank": 549,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4198528,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 549,
+        "ms": 4198528,
         "dish": "Fish"
       }
     ]
@@ -3562,6 +3588,32 @@
     ]
   },
   {
+    "id": "0ee7b666-a02d-4e2b-979d-3f0766f98c2b",
+    "persona": "Fancyyyy~",
+    "names": [
+      "Fancyyyy~"
+    ],
+    "runs": 1,
+    "bestRank": 923,
+    "worstRank": 923,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5367551,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 923,
+        "ms": 5367551,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "0eeba15f-3cef-4560-9eb7-f1f23eb074b8",
     "persona": "jodeelayne_",
     "names": [
@@ -3646,8 +3698,8 @@
       "STLZOU"
     ],
     "runs": 1,
-    "bestRank": 92,
-    "worstRank": 92,
+    "bestRank": 96,
+    "worstRank": 96,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3659,7 +3711,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 92,
+        "rank": 96,
         "ms": 2503064,
         "dish": "Fish"
       }

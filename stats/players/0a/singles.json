@@ -344,8 +344,8 @@
       "Ne"
     ],
     "runs": 1,
-    "bestRank": 556,
-    "worstRank": 556,
+    "bestRank": 595,
+    "worstRank": 595,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 556,
+        "rank": 595,
         "ms": 4317888,
         "dish": "Fish"
       }
@@ -1400,6 +1400,32 @@
         "rank": 679,
         "ms": 5245875,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "0a717b82-446b-40b6-bd3c-8d8ed7173e8a",
+    "persona": "\u95F2\u4E8B***",
+    "names": [
+      "\u95F2\u4E8B***"
+    ],
+    "runs": 1,
+    "bestRank": 764,
+    "worstRank": 764,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4817591,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 764,
+        "ms": 4817591,
+        "dish": "Fish"
       }
     ]
   },
@@ -2710,8 +2736,8 @@
       "yzwd617"
     ],
     "runs": 1,
-    "bestRank": 948,
-    "worstRank": 948,
+    "bestRank": 1013,
+    "worstRank": 1013,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2749,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 948,
+        "rank": 1013,
         "ms": 5940539,
         "dish": "Fish"
       }
@@ -3100,8 +3126,8 @@
       "Kvln20113"
     ],
     "runs": 1,
-    "bestRank": 760,
-    "worstRank": 760,
+    "bestRank": 813,
+    "worstRank": 813,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 760,
+        "rank": 813,
         "ms": 4985805,
         "dish": "Fish"
       }

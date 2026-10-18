@@ -370,8 +370,8 @@
       "xiazi"
     ],
     "runs": 1,
-    "bestRank": 693,
-    "worstRank": 693,
+    "bestRank": 740,
+    "worstRank": 740,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 693,
+        "rank": 740,
         "ms": 4754726,
         "dish": "Fish"
       }
@@ -1358,8 +1358,8 @@
       "manon_o"
     ],
     "runs": 1,
-    "bestRank": 682,
-    "worstRank": 682,
+    "bestRank": 729,
+    "worstRank": 729,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 682,
+        "rank": 729,
         "ms": 4715975,
         "dish": "Fish"
       }
@@ -1904,8 +1904,8 @@
       "\u70AB\u9177\u9177\u9177\u9177"
     ],
     "runs": 1,
-    "bestRank": 321,
-    "worstRank": 321,
+    "bestRank": 340,
+    "worstRank": 340,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 321,
+        "rank": 340,
         "ms": 3619700,
         "dish": "Fish"
       }
@@ -2726,6 +2726,32 @@
         "rank": 274,
         "ms": 3763665,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "28dc4ea0-ddf3-4d3b-a15e-afb5fbbf4608",
+    "persona": "bunieni",
+    "names": [
+      "bunieni"
+    ],
+    "runs": 1,
+    "bestRank": 590,
+    "worstRank": 590,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4311528,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 590,
+        "ms": 4311528,
+        "dish": "Fish"
       }
     ]
   },

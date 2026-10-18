@@ -370,8 +370,8 @@
       "Choco"
     ],
     "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 258,
+        "rank": 273,
         "ms": 3387431,
         "dish": "Fish"
       }
@@ -1872,6 +1872,32 @@
     ]
   },
   {
+    "id": "878b595f-88a3-42a2-a397-42aabf3f31fe",
+    "persona": "korekyoumo",
+    "names": [
+      "korekyoumo"
+    ],
+    "runs": 1,
+    "bestRank": 603,
+    "worstRank": 603,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4337072,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 603,
+        "ms": 4337072,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "878cba3d-38a9-4952-9199-88ce92cbe538",
     "persona": "nayeonjeong910",
     "names": [
@@ -3256,8 +3282,8 @@
       "\u5919\u8C85"
     ],
     "runs": 1,
-    "bestRank": 879,
-    "worstRank": 879,
+    "bestRank": 943,
+    "worstRank": 943,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3269,7 +3295,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 879,
+        "rank": 943,
         "ms": 5458740,
         "dish": "Fish"
       }

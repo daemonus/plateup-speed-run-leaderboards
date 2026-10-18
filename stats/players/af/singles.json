@@ -58,8 +58,8 @@
       "grandjii"
     ],
     "runs": 1,
-    "bestRank": 381,
-    "worstRank": 381,
+    "bestRank": 406,
+    "worstRank": 406,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -71,7 +71,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 381,
+        "rank": 406,
         "ms": 3838199,
         "dish": "Fish"
       }
@@ -697,6 +697,32 @@
         "start": "2025-09-15",
         "rank": 301,
         "ms": 3247862,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "af4b53a7-60a4-482e-b693-5245602ff526",
+    "persona": "EinNicx",
+    "names": [
+      "EinNicx"
+    ],
+    "runs": 1,
+    "bestRank": 553,
+    "worstRank": 553,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4211880,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 553,
+        "ms": 4211880,
         "dish": "Fish"
       }
     ]
@@ -1436,8 +1462,8 @@
       "Suba"
     ],
     "runs": 1,
-    "bestRank": 101,
-    "worstRank": 101,
+    "bestRank": 106,
+    "worstRank": 106,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1475,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 101,
+        "rank": 106,
         "ms": 2544229,
         "dish": "Fish"
       }
@@ -2346,8 +2372,8 @@
       "Criss"
     ],
     "runs": 1,
-    "bestRank": 574,
-    "worstRank": 574,
+    "bestRank": 615,
+    "worstRank": 615,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2385,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 574,
+        "rank": 615,
         "ms": 4376874,
         "dish": "Fish"
       }

@@ -318,8 +318,8 @@
       "Fantasy"
     ],
     "runs": 1,
-    "bestRank": 887,
-    "worstRank": 887,
+    "bestRank": 951,
+    "worstRank": 951,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -331,7 +331,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 887,
+        "rank": 951,
         "ms": 5483098,
         "dish": "Fish"
       }
@@ -1306,8 +1306,8 @@
       "Megami"
     ],
     "runs": 1,
-    "bestRank": 610,
-    "worstRank": 610,
+    "bestRank": 654,
+    "worstRank": 654,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 610,
+        "rank": 654,
         "ms": 4487585,
         "dish": "Fish"
       }
@@ -1930,8 +1930,8 @@
       "novianyx"
     ],
     "runs": 1,
-    "bestRank": 1029,
-    "worstRank": 1029,
+    "bestRank": 1101,
+    "worstRank": 1101,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1943,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1029,
+        "rank": 1101,
         "ms": 8499759,
         "dish": "Fish"
       }
@@ -2102,6 +2102,32 @@
         "rank": 53,
         "ms": 2804353,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "5eca7282-bb34-49fd-9cdf-783f1a31df4a",
+    "persona": "17860099670",
+    "names": [
+      "17860099670"
+    ],
+    "runs": 1,
+    "bestRank": 908,
+    "worstRank": 908,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5278068,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 908,
+        "ms": 5278068,
+        "dish": "Fish"
       }
     ]
   },

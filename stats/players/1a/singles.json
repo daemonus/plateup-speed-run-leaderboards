@@ -1430,32 +1430,6 @@
     ]
   },
   {
-    "id": "1a5e1141-6650-4c72-bcfd-ba73ce960a82",
-    "persona": "Xing",
-    "names": [
-      "Xing"
-    ],
-    "runs": 1,
-    "bestRank": 290,
-    "worstRank": 290,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4168480,
-    "weeksActive": [
-      19
-    ],
-    "history": [
-      {
-        "week": 19,
-        "start": "2025-05-19",
-        "rank": 290,
-        "ms": 4168480,
-        "dish": "Pizza"
-      }
-    ]
-  },
-  {
     "id": "1a5f8c7b-3034-4f49-a60d-29119c663b63",
     "persona": "\u8354\u679D\u841D\u535C",
     "names": [
@@ -3480,6 +3454,32 @@
         "rank": 431,
         "ms": 5499232,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "1af36238-9821-474a-a607-243a4023dec5",
+    "persona": "carol.luong",
+    "names": [
+      "carol.luong"
+    ],
+    "runs": 1,
+    "bestRank": 313,
+    "worstRank": 313,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3535463,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 313,
+        "ms": 3535463,
+        "dish": "Fish"
       }
     ]
   },

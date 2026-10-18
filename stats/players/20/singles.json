@@ -702,6 +702,32 @@
     ]
   },
   {
+    "id": "2031971f-5cda-48f6-9867-4e5ce8f357ce",
+    "persona": "mohvacjr",
+    "names": [
+      "mohvacjr"
+    ],
+    "runs": 1,
+    "bestRank": 104,
+    "worstRank": 104,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2534325,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 104,
+        "ms": 2534325,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "2031d519-3519-4e11-b758-0e4f8ad99512",
     "persona": "Nycat",
     "names": [
@@ -1696,8 +1722,8 @@
       "Toy"
     ],
     "runs": 1,
-    "bestRank": 419,
-    "worstRank": 419,
+    "bestRank": 444,
+    "worstRank": 444,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1709,7 +1735,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 419,
+        "rank": 444,
         "ms": 3927904,
         "dish": "Fish"
       }

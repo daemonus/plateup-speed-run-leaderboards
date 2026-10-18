@@ -4,7 +4,7 @@
   "names": [
     "lschrist102"
   ],
-  "runs": 45,
+  "runs": 46,
   "bestRank": 44,
   "worstRank": 821,
   "firstPlaces": 0,
@@ -56,7 +56,8 @@
     83,
     84,
     86,
-    87
+    87,
+    92
   ],
   "history": [
     {
@@ -373,6 +374,13 @@
       "rank": 53,
       "ms": 2923086,
       "dish": "Fajitas"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 150,
+      "ms": 2848460,
+      "dish": "Fish"
     }
   ]
 }

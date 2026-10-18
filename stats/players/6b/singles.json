@@ -890,8 +890,8 @@
       "\u7389\u7C73\u7C92"
     ],
     "runs": 1,
-    "bestRank": 624,
-    "worstRank": 624,
+    "bestRank": 668,
+    "worstRank": 668,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 624,
+        "rank": 668,
         "ms": 4524288,
         "dish": "Fish"
       }
@@ -1742,6 +1742,32 @@
     ]
   },
   {
+    "id": "6b7dd75a-6b0d-40be-80d1-a80c82afb93f",
+    "persona": "chambra",
+    "names": [
+      "chambra"
+    ],
+    "runs": 1,
+    "bestRank": 928,
+    "worstRank": 928,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5382192,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 928,
+        "ms": 5382192,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6b7e473e-a359-4a80-babe-712b5d4274e3",
     "persona": "Jaki_Jaco",
     "names": [
@@ -1826,8 +1852,8 @@
       "Pupper0ni"
     ],
     "runs": 1,
-    "bestRank": 596,
-    "worstRank": 596,
+    "bestRank": 640,
+    "worstRank": 640,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 596,
+        "rank": 640,
         "ms": 4452326,
         "dish": "Fish"
       }
@@ -2216,8 +2242,8 @@
       "zjensvold"
     ],
     "runs": 1,
-    "bestRank": 922,
-    "worstRank": 922,
+    "bestRank": 986,
+    "worstRank": 986,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2255,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 922,
+        "rank": 986,
         "ms": 5728854,
         "dish": "Fish"
       }
@@ -2554,8 +2580,8 @@
       "Irisisnothere"
     ],
     "runs": 1,
-    "bestRank": 1031,
-    "worstRank": 1031,
+    "bestRank": 1103,
+    "worstRank": 1103,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2593,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1031,
+        "rank": 1103,
         "ms": 8758731,
         "dish": "Fish"
       }

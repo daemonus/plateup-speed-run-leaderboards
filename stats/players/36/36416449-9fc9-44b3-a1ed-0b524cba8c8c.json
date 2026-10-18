@@ -4,8 +4,8 @@
   "names": [
     "waterlinia"
   ],
-  "runs": 2,
-  "bestRank": 286,
+  "runs": 3,
+  "bestRank": 279,
   "worstRank": 298,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2684931,
   "weeksActive": [
     86,
-    88
+    88,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 298,
       "ms": 4220237,
       "dish": "Pies"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 279,
+      "ms": 3419822,
+      "dish": "Fish"
     }
   ]
 }

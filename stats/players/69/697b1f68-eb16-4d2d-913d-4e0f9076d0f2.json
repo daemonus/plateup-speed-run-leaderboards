@@ -4,9 +4,9 @@
   "names": [
     "branncakes"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 70,
-  "worstRank": 137,
+  "worstRank": 218,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -18,7 +18,8 @@
     42,
     43,
     72,
-    90
+    90,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 131,
       "ms": 2426046,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 218,
+      "ms": 3151661,
+      "dish": "Fish"
     }
   ]
 }

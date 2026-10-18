@@ -890,8 +890,8 @@
       "mariusz8672"
     ],
     "runs": 1,
-    "bestRank": 417,
-    "worstRank": 417,
+    "bestRank": 442,
+    "worstRank": 442,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 417,
+        "rank": 442,
         "ms": 3927283,
         "dish": "Fish"
       }
@@ -1686,6 +1686,32 @@
         "rank": 232,
         "ms": 3082451,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "ed7e109d-d127-4d0f-ab57-550b74df8e81",
+    "persona": "MR Kitten",
+    "names": [
+      "MR Kitten"
+    ],
+    "runs": 1,
+    "bestRank": 927,
+    "worstRank": 927,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5382014,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 927,
+        "ms": 5382014,
+        "dish": "Fish"
       }
     ]
   },

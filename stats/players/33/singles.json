@@ -552,8 +552,8 @@
       "rafaela.kyrie"
     ],
     "runs": 1,
-    "bestRank": 325,
-    "worstRank": 325,
+    "bestRank": 345,
+    "worstRank": 345,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 325,
+        "rank": 345,
         "ms": 3638968,
         "dish": "Fish"
       }
@@ -880,6 +880,32 @@
         "rank": 298,
         "ms": 3966340,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "33434265-07e6-4aa3-8d6c-69d5b873d3fc",
+    "persona": "Venice",
+    "names": [
+      "Venice"
+    ],
+    "runs": 1,
+    "bestRank": 160,
+    "worstRank": 160,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2883220,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 160,
+        "ms": 2883220,
+        "dish": "Fish"
       }
     ]
   },
@@ -1904,8 +1930,8 @@
       "\u96E8\u6735ANIKA"
     ],
     "runs": 1,
-    "bestRank": 623,
-    "worstRank": 623,
+    "bestRank": 667,
+    "worstRank": 667,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1943,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 623,
+        "rank": 667,
         "ms": 4523791,
         "dish": "Fish"
       }
@@ -2216,8 +2242,8 @@
       "_outofthemoney"
     ],
     "runs": 1,
-    "bestRank": 815,
-    "worstRank": 815,
+    "bestRank": 871,
+    "worstRank": 871,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2255,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 815,
+        "rank": 871,
         "ms": 5147159,
         "dish": "Fish"
       }
@@ -2268,8 +2294,8 @@
       "\u5927\u903C\u515C"
     ],
     "runs": 1,
-    "bestRank": 847,
-    "worstRank": 847,
+    "bestRank": 905,
+    "worstRank": 905,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 847,
+        "rank": 905,
         "ms": 5269192,
         "dish": "Fish"
       }

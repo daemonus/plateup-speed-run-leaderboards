@@ -58,8 +58,8 @@
       "Charlie Click"
     ],
     "runs": 1,
-    "bestRank": 791,
-    "worstRank": 791,
+    "bestRank": 846,
+    "worstRank": 846,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -71,7 +71,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 791,
+        "rank": 846,
         "ms": 5078584,
         "dish": "Fish"
       }
@@ -2054,6 +2054,32 @@
     ]
   },
   {
+    "id": "c497a468-0a0f-47db-a62f-b5ed98de9f23",
+    "persona": "\u795E\u79D8\u6570\u5B57",
+    "names": [
+      "\u795E\u79D8\u6570\u5B57"
+    ],
+    "runs": 1,
+    "bestRank": 496,
+    "worstRank": 496,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4067881,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 496,
+        "ms": 4067881,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "c498fadf-08d3-4010-9859-e037fd9a6fa9",
     "persona": "kaylarose",
     "names": [
@@ -3022,8 +3048,8 @@
       "Alone"
     ],
     "runs": 1,
-    "bestRank": 978,
-    "worstRank": 978,
+    "bestRank": 1045,
+    "worstRank": 1045,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3035,7 +3061,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 978,
+        "rank": 1045,
         "ms": 6287786,
         "dish": "Fish"
       }

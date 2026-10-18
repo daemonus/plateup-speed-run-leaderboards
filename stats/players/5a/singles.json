@@ -734,8 +734,8 @@
       "\u4E00\u4E38\u4E39\u836F"
     ],
     "runs": 1,
-    "bestRank": 733,
-    "worstRank": 733,
+    "bestRank": 785,
+    "worstRank": 785,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -747,7 +747,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 733,
+        "rank": 785,
         "ms": 4903994,
         "dish": "Fish"
       }
@@ -1228,8 +1228,8 @@
       "Coffey"
     ],
     "runs": 1,
-    "bestRank": 157,
-    "worstRank": 157,
+    "bestRank": 166,
+    "worstRank": 166,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 157,
+        "rank": 166,
         "ms": 2923162,
         "dish": "Fish"
       }
@@ -2034,8 +2034,8 @@
       "kuroto_52"
     ],
     "runs": 1,
-    "bestRank": 324,
-    "worstRank": 324,
+    "bestRank": 344,
+    "worstRank": 344,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2047,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 324,
+        "rank": 344,
         "ms": 3635133,
         "dish": "Fish"
       }
@@ -2320,8 +2320,8 @@
       "\u83DC\u9E21\u4E92\u5544"
     ],
     "runs": 1,
-    "bestRank": 658,
-    "worstRank": 658,
+    "bestRank": 703,
+    "worstRank": 703,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 658,
+        "rank": 703,
         "ms": 4635335,
         "dish": "Fish"
       }
@@ -2492,6 +2492,32 @@
         "rank": 214,
         "ms": 2610155,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "5adaa933-a24a-4227-823c-fe8fd40f57f9",
+    "persona": "KimPoppable",
+    "names": [
+      "KimPoppable"
+    ],
+    "runs": 1,
+    "bestRank": 829,
+    "worstRank": 829,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5039521,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 829,
+        "ms": 5039521,
+        "dish": "Fish"
       }
     ]
   },

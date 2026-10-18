@@ -2060,8 +2060,8 @@
       "\u4E1C\u5357\u4E9A\u4F5B\u6CE2\u5566"
     ],
     "runs": 1,
-    "bestRank": 827,
-    "worstRank": 827,
+    "bestRank": 884,
+    "worstRank": 884,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,8 +2073,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 827,
+        "rank": 884,
         "ms": 5198153,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "eb9c20dd-4c54-4544-baec-33d55d3fd8d5",
+    "persona": "Atla",
+    "names": [
+      "Atla"
+    ],
+    "runs": 1,
+    "bestRank": 445,
+    "worstRank": 445,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3937011,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 445,
+        "ms": 3937011,
         "dish": "Fish"
       }
     ]
@@ -2632,8 +2658,8 @@
       "chloeyau1114"
     ],
     "runs": 1,
-    "bestRank": 932,
-    "worstRank": 932,
+    "bestRank": 996,
+    "worstRank": 996,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2645,7 +2671,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 932,
+        "rank": 996,
         "ms": 5845261,
         "dish": "Fish"
       }
@@ -2892,8 +2918,8 @@
       "Akane"
     ],
     "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
+    "bestRank": 184,
+    "worstRank": 184,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2905,7 +2931,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 176,
+        "rank": 184,
         "ms": 3031708,
         "dish": "Fish"
       }
