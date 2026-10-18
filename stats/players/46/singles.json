@@ -1774,8 +1774,8 @@
       "Bagger \u0411\u0430\u0433\u0435\u0440"
     ],
     "runs": 1,
-    "bestRank": 1031,
-    "worstRank": 1031,
+    "bestRank": 1133,
+    "worstRank": 1133,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1787,7 +1787,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1031,
+        "rank": 1133,
         "ms": 6116986,
         "dish": "Fish"
       }
@@ -1982,8 +1982,8 @@
       "TazTobi"
     ],
     "runs": 1,
-    "bestRank": 915,
-    "worstRank": 915,
+    "bestRank": 1006,
+    "worstRank": 1006,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 915,
+        "rank": 1006,
         "ms": 5310029,
         "dish": "Fish"
       }
@@ -2470,6 +2470,32 @@
     ]
   },
   {
+    "id": "46b4ed2b-d124-474d-a996-0898d2daf30c",
+    "persona": "Depper",
+    "names": [
+      "Depper"
+    ],
+    "runs": 1,
+    "bestRank": 819,
+    "worstRank": 819,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4762854,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 819,
+        "ms": 4762854,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "46b59752-7194-4399-a15e-26bb563ece3f",
     "persona": "The Philosopher Dog",
     "names": [
@@ -2881,6 +2907,32 @@
         "start": "2023-07-31",
         "rank": 468,
         "ms": 2953953,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "46db476f-b856-40b8-a913-b401075dc1fc",
+    "persona": "Sakura",
+    "names": [
+      "Sakura"
+    ],
+    "runs": 1,
+    "bestRank": 1086,
+    "worstRank": 1086,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5757580,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1086,
+        "ms": 5757580,
         "dish": "Fish"
       }
     ]

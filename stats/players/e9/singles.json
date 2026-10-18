@@ -214,8 +214,8 @@
       "\u65E0\u6EAA"
     ],
     "runs": 1,
-    "bestRank": 513,
-    "worstRank": 513,
+    "bestRank": 558,
+    "worstRank": 558,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 513,
+        "rank": 558,
         "ms": 4093458,
         "dish": "Fish"
       }
@@ -698,6 +698,32 @@
         "rank": 215,
         "ms": 3061921,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "e9349654-5807-400b-88a5-c685d89ac0fd",
+    "persona": "chimken",
+    "names": [
+      "chimken"
+    ],
+    "runs": 1,
+    "bestRank": 280,
+    "worstRank": 280,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3323265,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 280,
+        "ms": 3323265,
+        "dish": "Fish"
       }
     ]
   },
@@ -2294,8 +2320,8 @@
       "tyr"
     ],
     "runs": 1,
-    "bestRank": 620,
-    "worstRank": 620,
+    "bestRank": 677,
+    "worstRank": 677,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 620,
+        "rank": 677,
         "ms": 4399423,
         "dish": "Fish"
       }

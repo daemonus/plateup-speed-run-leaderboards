@@ -84,8 +84,8 @@
       "KENAGA-SAN"
     ],
     "runs": 1,
-    "bestRank": 475,
-    "worstRank": 475,
+    "bestRank": 513,
+    "worstRank": 513,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 475,
+        "rank": 513,
         "ms": 4012815,
         "dish": "Fish"
       }
@@ -110,8 +110,8 @@
       "chansonmetw"
     ],
     "runs": 1,
-    "bestRank": 691,
-    "worstRank": 691,
+    "bestRank": 758,
+    "worstRank": 758,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 691,
+        "rank": 758,
         "ms": 4596354,
         "dish": "Fish"
       }
@@ -786,8 +786,8 @@
       "\u6854\u6897"
     ],
     "runs": 1,
-    "bestRank": 1084,
-    "worstRank": 1084,
+    "bestRank": 1194,
+    "worstRank": 1194,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -799,7 +799,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1084,
+        "rank": 1194,
         "ms": 7019219,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "VitaLai"
     ],
     "runs": 1,
-    "bestRank": 88,
-    "worstRank": 88,
+    "bestRank": 93,
+    "worstRank": 93,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 88,
+        "rank": 93,
         "ms": 2458391,
         "dish": "Fish"
       }
@@ -2476,8 +2476,8 @@
       "kts"
     ],
     "runs": 1,
-    "bestRank": 945,
-    "worstRank": 945,
+    "bestRank": 1038,
+    "worstRank": 1038,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2489,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 945,
+        "rank": 1038,
         "ms": 5462433,
         "dish": "Fish"
       }
@@ -2830,6 +2830,32 @@
         "rank": 1614,
         "ms": 4597985,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "26e2842b-e273-466b-a5ef-a2cdafc53b94",
+    "persona": "noisy",
+    "names": [
+      "noisy"
+    ],
+    "runs": 1,
+    "bestRank": 479,
+    "worstRank": 479,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3929865,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 479,
+        "ms": 3929865,
+        "dish": "Fish"
       }
     ]
   },

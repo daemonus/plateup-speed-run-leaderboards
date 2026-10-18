@@ -422,8 +422,8 @@
       "\u5149\u5C41\u5C41\u5C0F\u516C\u4E3B"
     ],
     "runs": 1,
-    "bestRank": 1096,
-    "worstRank": 1096,
+    "bestRank": 1210,
+    "worstRank": 1210,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1096,
+        "rank": 1210,
         "ms": 8062308,
         "dish": "Fish"
       }
@@ -1592,8 +1592,8 @@
       "Killv1x"
     ],
     "runs": 1,
-    "bestRank": 431,
-    "worstRank": 431,
+    "bestRank": 464,
+    "worstRank": 464,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1605,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 431,
+        "rank": 464,
         "ms": 3899012,
         "dish": "Fish"
       }
@@ -1982,8 +1982,8 @@
       "ALBAY RE\u015EAT \u00C7\u0130\u011E\u0130LTEPE"
     ],
     "runs": 1,
-    "bestRank": 1006,
-    "worstRank": 1006,
+    "bestRank": 1105,
+    "worstRank": 1105,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1006,
+        "rank": 1105,
         "ms": 5873579,
         "dish": "Fish"
       }
@@ -2752,6 +2752,32 @@
         "rank": 377,
         "ms": 10478833,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "cedaefa8-ab79-460f-8e7b-0a6c004797eb",
+    "persona": "The_almighty_potato",
+    "names": [
+      "The_almighty_potato"
+    ],
+    "runs": 1,
+    "bestRank": 1076,
+    "worstRank": 1076,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5670597,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1076,
+        "ms": 5670597,
+        "dish": "Fish"
       }
     ]
   },

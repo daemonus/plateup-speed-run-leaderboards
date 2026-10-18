@@ -32,8 +32,8 @@
       "misstie6731-TTV-"
     ],
     "runs": 1,
-    "bestRank": 80,
-    "worstRank": 80,
+    "bestRank": 85,
+    "worstRank": 85,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 80,
+        "rank": 85,
         "ms": 2385440,
         "dish": "Fish"
       }
@@ -1514,8 +1514,8 @@
       "zeyadbadr344"
     ],
     "runs": 1,
-    "bestRank": 621,
-    "worstRank": 621,
+    "bestRank": 678,
+    "worstRank": 678,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1527,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 621,
+        "rank": 678,
         "ms": 4401045,
         "dish": "Fish"
       }
@@ -2236,6 +2236,32 @@
     ]
   },
   {
+    "id": "78b48884-aafb-49b2-a3be-5d1334f246e4",
+    "persona": "Sting Ray",
+    "names": [
+      "Sting Ray"
+    ],
+    "runs": 1,
+    "bestRank": 1176,
+    "worstRank": 1176,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6768744,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1176,
+        "ms": 6768744,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "78b73155-78f7-40c4-ab2d-5c26c3a377a0",
     "persona": "jennmons",
     "names": [
@@ -2684,8 +2710,8 @@
       "kingslasher99"
     ],
     "runs": 1,
-    "bestRank": 463,
-    "worstRank": 463,
+    "bestRank": 500,
+    "worstRank": 500,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 463,
+        "rank": 500,
         "ms": 3979191,
         "dish": "Fish"
       }

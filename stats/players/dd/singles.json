@@ -682,8 +682,8 @@
       "RozyTime"
     ],
     "runs": 1,
-    "bestRank": 1067,
-    "worstRank": 1067,
+    "bestRank": 1173,
+    "worstRank": 1173,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1067,
+        "rank": 1173,
         "ms": 6693941,
         "dish": "Fish"
       }
@@ -1998,32 +1998,6 @@
         "rank": 415,
         "ms": 3030582,
         "dish": "Turkey"
-      }
-    ]
-  },
-  {
-    "id": "dd9cc49e-cd78-4548-9419-b9ea56f2a26c",
-    "persona": "sojade",
-    "names": [
-      "sojade"
-    ],
-    "runs": 1,
-    "bestRank": 83,
-    "worstRank": 83,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2656755,
-    "weeksActive": [
-      59
-    ],
-    "history": [
-      {
-        "week": 59,
-        "start": "2026-02-23",
-        "rank": 83,
-        "ms": 2656755,
-        "dish": "Salad"
       }
     ]
   },

@@ -630,8 +630,8 @@
       "J.a.c.k.i.e"
     ],
     "runs": 1,
-    "bestRank": 515,
-    "worstRank": 515,
+    "bestRank": 560,
+    "worstRank": 560,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 515,
+        "rank": 560,
         "ms": 4099734,
         "dish": "Fish"
       }
@@ -1664,6 +1664,32 @@
     ]
   },
   {
+    "id": "c37605fe-79fb-45a2-a92b-453cbfe145c6",
+    "persona": "^ \u0333. \u032B . \u0333^\u0E05\u309B",
+    "names": [
+      "^ \u0333. \u032B . \u0333^\u0E05\u309B"
+    ],
+    "runs": 1,
+    "bestRank": 1046,
+    "worstRank": 1046,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5498840,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1046,
+        "ms": 5498840,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "c376b433-e1ab-4839-aabc-19861292b4e7",
     "persona": "Z0MB!3",
     "names": [
@@ -2086,8 +2112,8 @@
       "Smiley_kun"
     ],
     "runs": 1,
-    "bestRank": 798,
-    "worstRank": 798,
+    "bestRank": 878,
+    "worstRank": 878,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 798,
+        "rank": 878,
         "ms": 4932229,
         "dish": "Fish"
       }

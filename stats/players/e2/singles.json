@@ -1150,8 +1150,8 @@
       "\u5929\u624D\u5947\u7537\u5B50"
     ],
     "runs": 1,
-    "bestRank": 1098,
-    "worstRank": 1098,
+    "bestRank": 1212,
+    "worstRank": 1212,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1098,
+        "rank": 1212,
         "ms": 8159866,
         "dish": "Fish"
       }
@@ -1868,6 +1868,32 @@
         "rank": 412,
         "ms": 3241497,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "e2a4a3f6-e943-452b-81bd-603e170462ce",
+    "persona": "moobloo",
+    "names": [
+      "moobloo"
+    ],
+    "runs": 1,
+    "bestRank": 861,
+    "worstRank": 861,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4888579,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 861,
+        "ms": 4888579,
+        "dish": "Fish"
       }
     ]
   },
@@ -3126,8 +3152,8 @@
       "\u043F\u0447\u0435\u043B\u0430 \u043C\u043E\u043D\u0433\u043E\u043B\u044C\u0441\u043A\u0430"
     ],
     "runs": 1,
-    "bestRank": 1049,
-    "worstRank": 1049,
+    "bestRank": 1151,
+    "worstRank": 1151,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3139,7 +3165,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1049,
+        "rank": 1151,
         "ms": 6345645,
         "dish": "Fish"
       }

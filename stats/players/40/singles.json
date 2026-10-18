@@ -214,8 +214,8 @@
       "\u70B9\u51FB\u8F93\u5165\u6587\u672C"
     ],
     "runs": 1,
-    "bestRank": 299,
-    "worstRank": 299,
+    "bestRank": 324,
+    "worstRank": 324,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 299,
+        "rank": 324,
         "ms": 3503364,
         "dish": "Fish"
       }
@@ -2652,6 +2652,32 @@
     ]
   },
   {
+    "id": "40c1a227-3aa8-4b2c-9afe-17876609229d",
+    "persona": "aet14206",
+    "names": [
+      "aet14206"
+    ],
+    "runs": 1,
+    "bestRank": 1087,
+    "worstRank": 1087,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5758631,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1087,
+        "ms": 5758631,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "40c22452-962c-42ac-b4b8-03af0e21ec79",
     "persona": "20ochs00",
     "names": [
@@ -3308,8 +3334,8 @@
       "Miss Wednesday"
     ],
     "runs": 1,
-    "bestRank": 368,
-    "worstRank": 368,
+    "bestRank": 399,
+    "worstRank": 399,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3347,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 368,
+        "rank": 399,
         "ms": 3733016,
         "dish": "Fish"
       }

@@ -32,8 +32,8 @@
       "UdeGoesLive"
     ],
     "runs": 1,
-    "bestRank": 511,
-    "worstRank": 511,
+    "bestRank": 556,
+    "worstRank": 556,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 511,
+        "rank": 556,
         "ms": 4091228,
         "dish": "Fish"
       }
@@ -568,6 +568,32 @@
         "rank": 112,
         "ms": 2477201,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "ef28e127-a909-4b7b-be01-4a5810b76ecc",
+    "persona": "Rez",
+    "names": [
+      "Rez"
+    ],
+    "runs": 1,
+    "bestRank": 875,
+    "worstRank": 875,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4927448,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 875,
+        "ms": 4927448,
+        "dish": "Fish"
       }
     ]
   },
@@ -1192,6 +1218,32 @@
         "rank": 115,
         "ms": 2969905,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "ef5d73ba-0300-4fab-aa49-417a9bbe606e",
+    "persona": "Kinooh_",
+    "names": [
+      "Kinooh_"
+    ],
+    "runs": 1,
+    "bestRank": 807,
+    "worstRank": 807,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4730760,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 807,
+        "ms": 4730760,
+        "dish": "Fish"
       }
     ]
   },
@@ -1852,8 +1904,8 @@
       "Secsu"
     ],
     "runs": 1,
-    "bestRank": 721,
-    "worstRank": 721,
+    "bestRank": 791,
+    "worstRank": 791,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 721,
+        "rank": 791,
         "ms": 4679384,
         "dish": "Fish"
       }
@@ -2034,8 +2086,8 @@
       "Sonne"
     ],
     "runs": 1,
-    "bestRank": 901,
-    "worstRank": 901,
+    "bestRank": 992,
+    "worstRank": 992,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 901,
+        "rank": 992,
         "ms": 5256243,
         "dish": "Fish"
       }
@@ -2996,8 +3048,8 @@
       "ROEN"
     ],
     "runs": 1,
-    "bestRank": 1091,
-    "worstRank": 1091,
+    "bestRank": 1203,
+    "worstRank": 1203,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3009,7 +3061,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1091,
+        "rank": 1203,
         "ms": 7556163,
         "dish": "Fish"
       }

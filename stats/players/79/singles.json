@@ -292,8 +292,8 @@
       "GreenJacket"
     ],
     "runs": 1,
-    "bestRank": 747,
-    "worstRank": 747,
+    "bestRank": 823,
+    "worstRank": 823,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 747,
+        "rank": 823,
         "ms": 4768340,
         "dish": "Fish"
       }
@@ -1826,8 +1826,8 @@
       "Saxophone"
     ],
     "runs": 1,
-    "bestRank": 341,
-    "worstRank": 341,
+    "bestRank": 368,
+    "worstRank": 368,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 341,
+        "rank": 368,
         "ms": 3628593,
         "dish": "Fish"
       }
@@ -2700,32 +2700,6 @@
         "rank": 309,
         "ms": 4840242,
         "dish": "Stir Fry"
-      }
-    ]
-  },
-  {
-    "id": "79c8bce0-ccdb-4823-ada7-f69160718e79",
-    "persona": "jakedruth",
-    "names": [
-      "jakedruth"
-    ],
-    "runs": 1,
-    "bestRank": 138,
-    "worstRank": 138,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3012602,
-    "weeksActive": [
-      88
-    ],
-    "history": [
-      {
-        "week": 88,
-        "start": "2026-09-14",
-        "rank": 138,
-        "ms": 3012602,
-        "dish": "Pies"
       }
     ]
   },

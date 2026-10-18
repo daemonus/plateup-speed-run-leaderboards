@@ -494,6 +494,32 @@
     ]
   },
   {
+    "id": "ad1eaa3f-5b04-46e3-90c9-ae568af2676a",
+    "persona": "1477228632",
+    "names": [
+      "1477228632"
+    ],
+    "runs": 1,
+    "bestRank": 1201,
+    "worstRank": 1201,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7322070,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1201,
+        "ms": 7322070,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "ad220ca5-6c1e-42e5-a9cc-8c99e9a185fa",
     "persona": "Veoxy",
     "names": [
@@ -2684,8 +2710,8 @@
       "ikutu192"
     ],
     "runs": 1,
-    "bestRank": 169,
-    "worstRank": 169,
+    "bestRank": 181,
+    "worstRank": 181,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 169,
+        "rank": 181,
         "ms": 2938218,
         "dish": "Fish"
       }
@@ -2762,8 +2788,8 @@
       "s0ftboiled"
     ],
     "runs": 1,
-    "bestRank": 1066,
-    "worstRank": 1066,
+    "bestRank": 1172,
+    "worstRank": 1172,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2775,7 +2801,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1066,
+        "rank": 1172,
         "ms": 6686118,
         "dish": "Fish"
       }

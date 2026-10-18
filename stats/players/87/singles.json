@@ -370,8 +370,8 @@
       "Choco"
     ],
     "runs": 1,
-    "bestRank": 273,
-    "worstRank": 273,
+    "bestRank": 295,
+    "worstRank": 295,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 273,
+        "rank": 295,
         "ms": 3387431,
         "dish": "Fish"
       }
@@ -1878,8 +1878,8 @@
       "korekyoumo"
     ],
     "runs": 1,
-    "bestRank": 603,
-    "worstRank": 603,
+    "bestRank": 660,
+    "worstRank": 660,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1891,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 603,
+        "rank": 660,
         "ms": 4337072,
         "dish": "Fish"
       }
@@ -2310,6 +2310,32 @@
         "rank": 315,
         "ms": 4103309,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "87b070ee-28b9-4212-8ed2-3910083ebe69",
+    "persona": "jjunl",
+    "names": [
+      "jjunl"
+    ],
+    "runs": 1,
+    "bestRank": 898,
+    "worstRank": 898,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4996605,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 898,
+        "ms": 4996605,
+        "dish": "Fish"
       }
     ]
   },
@@ -3282,8 +3308,8 @@
       "\u5919\u8C85"
     ],
     "runs": 1,
-    "bestRank": 943,
-    "worstRank": 943,
+    "bestRank": 1036,
+    "worstRank": 1036,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3295,7 +3321,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 943,
+        "rank": 1036,
         "ms": 5458740,
         "dish": "Fish"
       }

@@ -188,8 +188,8 @@
       "\u4E00\u62F3\u6253\u5012\u8001\u5E72\u7239"
     ],
     "runs": 1,
-    "bestRank": 883,
-    "worstRank": 883,
+    "bestRank": 973,
+    "worstRank": 973,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -201,7 +201,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 883,
+        "rank": 973,
         "ms": 5193485,
         "dish": "Fish"
       }
@@ -1410,8 +1410,8 @@
       "rajla_55"
     ],
     "runs": 1,
-    "bestRank": 413,
-    "worstRank": 413,
+    "bestRank": 446,
+    "worstRank": 446,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 413,
+        "rank": 446,
         "ms": 3849220,
         "dish": "Fish"
       }
@@ -1504,6 +1504,32 @@
         "rank": 159,
         "ms": 2636923,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "01876629-d3ef-451b-b2e4-f17f8771e5f5",
+    "persona": "ada",
+    "names": [
+      "ada"
+    ],
+    "runs": 1,
+    "bestRank": 598,
+    "worstRank": 598,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4196821,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 598,
+        "ms": 4196821,
+        "dish": "Fish"
       }
     ]
   },
@@ -2470,40 +2496,14 @@
     ]
   },
   {
-    "id": "01bc0dea-9374-40b6-8808-0d9a173fda0c",
-    "persona": "Armin",
-    "names": [
-      "Armin"
-    ],
-    "runs": 1,
-    "bestRank": 854,
-    "worstRank": 854,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3267282,
-    "weeksActive": [
-      -94
-    ],
-    "history": [
-      {
-        "week": -94,
-        "start": "2023-03-20",
-        "rank": 854,
-        "ms": 3267282,
-        "dish": "Stir Fry"
-      }
-    ]
-  },
-  {
     "id": "01bdb3e0-7003-49cf-8f9e-8afcfc567cda",
     "persona": "k9tao",
     "names": [
       "k9tao"
     ],
     "runs": 1,
-    "bestRank": 812,
-    "worstRank": 812,
+    "bestRank": 893,
+    "worstRank": 893,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2515,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 812,
+        "rank": 893,
         "ms": 4980262,
         "dish": "Fish"
       }
@@ -3100,8 +3100,8 @@
       "gatsbymou_\u857E\u7C73"
     ],
     "runs": 1,
-    "bestRank": 128,
-    "worstRank": 128,
+    "bestRank": 136,
+    "worstRank": 136,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3113,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 128,
+        "rank": 136,
         "ms": 2717214,
         "dish": "Fish"
       }

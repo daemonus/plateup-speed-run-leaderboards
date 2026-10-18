@@ -832,6 +832,32 @@
     ]
   },
   {
+    "id": "443a82b2-20ac-45fe-b459-56066ab4e37d",
+    "persona": "jenny200220135",
+    "names": [
+      "jenny200220135"
+    ],
+    "runs": 1,
+    "bestRank": 1234,
+    "worstRank": 1234,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 11709498,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1234,
+        "ms": 11709498,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "443bf393-ba29-4d11-9907-4a98f84f7471",
     "persona": "PandaComeGetMe",
     "names": [
@@ -1228,8 +1254,8 @@
       "Ko_Di"
     ],
     "runs": 1,
-    "bestRank": 1028,
-    "worstRank": 1028,
+    "bestRank": 1130,
+    "worstRank": 1130,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1267,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1028,
+        "rank": 1130,
         "ms": 6108397,
         "dish": "Fish"
       }
@@ -2398,8 +2424,8 @@
       "\u6CDB\u5446\u5446"
     ],
     "runs": 1,
-    "bestRank": 891,
-    "worstRank": 891,
+    "bestRank": 981,
+    "worstRank": 981,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 891,
+        "rank": 981,
         "ms": 5232521,
         "dish": "Fish"
       }
@@ -3142,6 +3168,32 @@
         "rank": 307,
         "ms": 6889429,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "44df09fe-06f7-46d8-bf98-6fe874982597",
+    "persona": "PREDATOR",
+    "names": [
+      "PREDATOR"
+    ],
+    "runs": 1,
+    "bestRank": 616,
+    "worstRank": 616,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4243791,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 616,
+        "ms": 4243791,
+        "dish": "Fish"
       }
     ]
   },

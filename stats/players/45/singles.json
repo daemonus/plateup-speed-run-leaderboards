@@ -162,8 +162,8 @@
       "\u55B5\u4F50"
     ],
     "runs": 1,
-    "bestRank": 987,
-    "worstRank": 987,
+    "bestRank": 1083,
+    "worstRank": 1083,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 987,
+        "rank": 1083,
         "ms": 5732871,
         "dish": "Fish"
       }
@@ -230,6 +230,32 @@
         "rank": 468,
         "ms": 4640532,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "450ab257-cd55-4811-859a-025b6a1deff7",
+    "persona": "Georgia",
+    "names": [
+      "Georgia"
+    ],
+    "runs": 1,
+    "bestRank": 1200,
+    "worstRank": 1200,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7306870,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1200,
+        "ms": 7306870,
+        "dish": "Fish"
       }
     ]
   },
@@ -682,8 +708,8 @@
       "Laties-DA*ZE"
     ],
     "runs": 1,
-    "bestRank": 672,
-    "worstRank": 672,
+    "bestRank": 733,
+    "worstRank": 733,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 672,
+        "rank": 733,
         "ms": 4535312,
         "dish": "Fish"
       }
@@ -890,8 +916,8 @@
       "venus"
     ],
     "runs": 1,
-    "bestRank": 425,
-    "worstRank": 425,
+    "bestRank": 458,
+    "worstRank": 458,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 425,
+        "rank": 458,
         "ms": 3890390,
         "dish": "Fish"
       }
@@ -2242,8 +2268,8 @@
       "H.Eng"
     ],
     "runs": 1,
-    "bestRank": 224,
-    "worstRank": 224,
+    "bestRank": 240,
+    "worstRank": 240,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2281,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 224,
+        "rank": 240,
         "ms": 3177017,
         "dish": "Fish"
       }

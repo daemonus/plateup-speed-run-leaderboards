@@ -214,8 +214,8 @@
       "Supaida-Man"
     ],
     "runs": 1,
-    "bestRank": 972,
-    "worstRank": 972,
+    "bestRank": 1066,
+    "worstRank": 1066,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 972,
+        "rank": 1066,
         "ms": 5625552,
         "dish": "Fish"
       }
@@ -864,8 +864,8 @@
       "\u5411\u5317"
     ],
     "runs": 1,
-    "bestRank": 432,
-    "worstRank": 432,
+    "bestRank": 465,
+    "worstRank": 465,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 432,
+        "rank": 465,
         "ms": 3899125,
         "dish": "Fish"
       }
@@ -1722,8 +1722,8 @@
       "xMistyx"
     ],
     "runs": 1,
-    "bestRank": 1071,
-    "worstRank": 1071,
+    "bestRank": 1179,
+    "worstRank": 1179,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1735,7 +1735,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1071,
+        "rank": 1179,
         "ms": 6785913,
         "dish": "Fish"
       }
@@ -2086,8 +2086,8 @@
       "haskiiii0607"
     ],
     "runs": 1,
-    "bestRank": 292,
-    "worstRank": 292,
+    "bestRank": 316,
+    "worstRank": 316,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 292,
+        "rank": 316,
         "ms": 3480991,
         "dish": "Fish"
       }
@@ -2570,6 +2570,32 @@
         "rank": 292,
         "ms": 2632236,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "4b9b1a93-cec6-410f-b4e6-0763647455a9",
+    "persona": "KeNo",
+    "names": [
+      "KeNo"
+    ],
+    "runs": 1,
+    "bestRank": 581,
+    "worstRank": 581,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4163264,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 581,
+        "ms": 4163264,
+        "dish": "Fish"
       }
     ]
   },

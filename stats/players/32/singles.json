@@ -422,8 +422,8 @@
       "acoaco2008"
     ],
     "runs": 1,
-    "bestRank": 788,
-    "worstRank": 788,
+    "bestRank": 868,
+    "worstRank": 868,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 788,
+        "rank": 868,
         "ms": 4919863,
         "dish": "Fish"
       }
@@ -1852,8 +1852,8 @@
       "\u795E\u673A\u5B50"
     ],
     "runs": 1,
-    "bestRank": 450,
-    "worstRank": 450,
+    "bestRank": 486,
+    "worstRank": 486,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1865,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 450,
+        "rank": 486,
         "ms": 3947855,
         "dish": "Fish"
       }
@@ -2414,6 +2414,32 @@
         "rank": 663,
         "ms": 4377448,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "32d10989-ce50-4e44-a9f5-7db1e987f6b4",
+    "persona": "Dikirakomunis",
+    "names": [
+      "Dikirakomunis"
+    ],
+    "runs": 1,
+    "bestRank": 987,
+    "worstRank": 987,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5247699,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 987,
+        "ms": 5247699,
+        "dish": "Fish"
       }
     ]
   },

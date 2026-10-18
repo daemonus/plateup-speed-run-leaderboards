@@ -4,7 +4,7 @@
   "names": [
     "Pastiquo"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 117,
   "worstRank": 218,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     23,
     24,
-    26
+    26,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 218,
       "ms": 3587611,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 146,
+      "ms": 2801041,
+      "dish": "Fish"
     }
   ]
 }

@@ -84,8 +84,8 @@
       "mystic_ways"
     ],
     "runs": 1,
-    "bestRank": 177,
-    "worstRank": 177,
+    "bestRank": 190,
+    "worstRank": 190,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 177,
+        "rank": 190,
         "ms": 2980781,
         "dish": "Fish"
       }
@@ -916,8 +916,8 @@
       "E.B.O.T"
     ],
     "runs": 1,
-    "bestRank": 361,
-    "worstRank": 361,
+    "bestRank": 390,
+    "worstRank": 390,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 361,
+        "rank": 390,
         "ms": 3694791,
         "dish": "Fish"
       }
@@ -2008,8 +2008,8 @@
       "GearPaladin"
     ],
     "runs": 1,
-    "bestRank": 773,
-    "worstRank": 773,
+    "bestRank": 852,
+    "worstRank": 852,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2021,7 +2021,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 773,
+        "rank": 852,
         "ms": 4847931,
         "dish": "Fish"
       }
@@ -3464,8 +3464,8 @@
       "RossiBop"
     ],
     "runs": 1,
-    "bestRank": 323,
-    "worstRank": 323,
+    "bestRank": 348,
+    "worstRank": 348,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3477,7 +3477,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 323,
+        "rank": 348,
         "ms": 3559518,
         "dish": "Fish"
       }
@@ -3558,6 +3558,32 @@
         "rank": 429,
         "ms": 3965306,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "abf17f5b-4ef7-4a2b-b9fb-dc053108f3d4",
+    "persona": "iceberg",
+    "names": [
+      "iceberg"
+    ],
+    "runs": 1,
+    "bestRank": 431,
+    "worstRank": 431,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3812508,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 431,
+        "ms": 3812508,
+        "dish": "Fish"
       }
     ]
   },

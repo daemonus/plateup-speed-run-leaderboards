@@ -240,8 +240,8 @@
       "\u6155\u70CA"
     ],
     "runs": 1,
-    "bestRank": 542,
-    "worstRank": 542,
+    "bestRank": 592,
+    "worstRank": 592,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -253,7 +253,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 542,
+        "rank": 592,
         "ms": 4188758,
         "dish": "Fish"
       }
@@ -812,8 +812,8 @@
       "AnonuseR"
     ],
     "runs": 1,
-    "bestRank": 643,
-    "worstRank": 643,
+    "bestRank": 703,
+    "worstRank": 703,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -825,7 +825,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 643,
+        "rank": 703,
         "ms": 4471454,
         "dish": "Fish"
       }
@@ -916,8 +916,8 @@
       "\u5C0F\u68EE\u552F"
     ],
     "runs": 1,
-    "bestRank": 1029,
-    "worstRank": 1029,
+    "bestRank": 1131,
+    "worstRank": 1131,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1029,
+        "rank": 1131,
         "ms": 6114631,
         "dish": "Fish"
       }
@@ -1514,8 +1514,8 @@
       "vacban"
     ],
     "runs": 1,
-    "bestRank": 1037,
-    "worstRank": 1037,
+    "bestRank": 1139,
+    "worstRank": 1139,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1527,7 +1527,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1037,
+        "rank": 1139,
         "ms": 6186022,
         "dish": "Fish"
       }
@@ -1608,6 +1608,32 @@
         "rank": 572,
         "ms": 2941590,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "57680b6a-3700-49d7-8403-076402244ea7",
+    "persona": "Quoji",
+    "names": [
+      "Quoji"
+    ],
+    "runs": 1,
+    "bestRank": 517,
+    "worstRank": 517,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4020415,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 517,
+        "ms": 4020415,
+        "dish": "Fish"
       }
     ]
   },
@@ -2060,8 +2086,8 @@
       "Odaria"
     ],
     "runs": 1,
-    "bestRank": 1043,
-    "worstRank": 1043,
+    "bestRank": 1145,
+    "worstRank": 1145,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1043,
+        "rank": 1145,
         "ms": 6276723,
         "dish": "Fish"
       }
@@ -3412,8 +3438,8 @@
       "\u96E8\u5929"
     ],
     "runs": 1,
-    "bestRank": 1058,
-    "worstRank": 1058,
+    "bestRank": 1161,
+    "worstRank": 1161,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3451,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1058,
+        "rank": 1161,
         "ms": 6435590,
         "dish": "Fish"
       }

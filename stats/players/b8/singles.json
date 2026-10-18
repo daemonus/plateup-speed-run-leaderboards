@@ -578,8 +578,8 @@
       "yohey66"
     ],
     "runs": 1,
-    "bestRank": 665,
-    "worstRank": 665,
+    "bestRank": 726,
+    "worstRank": 726,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 665,
+        "rank": 726,
         "ms": 4518558,
         "dish": "Fish"
       }
@@ -1296,6 +1296,32 @@
         "rank": 542,
         "ms": 4309695,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "b84bb26e-2eb2-4727-b378-cce5f8121e14",
+    "persona": "Cthulhu",
+    "names": [
+      "Cthulhu"
+    ],
+    "runs": 1,
+    "bestRank": 205,
+    "worstRank": 205,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3051843,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 205,
+        "ms": 3051843,
+        "dish": "Fish"
       }
     ]
   },
@@ -3308,8 +3334,8 @@
       "40shots"
     ],
     "runs": 1,
-    "bestRank": 180,
-    "worstRank": 180,
+    "bestRank": 193,
+    "worstRank": 193,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3347,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 180,
+        "rank": 193,
         "ms": 2994243,
         "dish": "Fish"
       }

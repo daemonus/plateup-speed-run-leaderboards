@@ -1332,8 +1332,8 @@
       "ROGUE"
     ],
     "runs": 1,
-    "bestRank": 523,
-    "worstRank": 523,
+    "bestRank": 568,
+    "worstRank": 568,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 523,
+        "rank": 568,
         "ms": 4121415,
         "dish": "Fish"
       }
@@ -1566,8 +1566,8 @@
       "\u53EA\u4F1A\u9760\u961F\u53CB\u7684\u5B95\u673A\u5927\u8111"
     ],
     "runs": 1,
-    "bestRank": 489,
-    "worstRank": 489,
+    "bestRank": 530,
+    "worstRank": 530,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1579,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 489,
+        "rank": 530,
         "ms": 4055931,
         "dish": "Fish"
       }
@@ -1826,8 +1826,8 @@
       "didoudugame"
     ],
     "runs": 1,
-    "bestRank": 801,
-    "worstRank": 801,
+    "bestRank": 882,
+    "worstRank": 882,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 801,
+        "rank": 882,
         "ms": 4935819,
         "dish": "Fish"
       }
@@ -1920,6 +1920,32 @@
         "rank": 475,
         "ms": 4127122,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "b38670b6-6ab7-4f3d-b69e-c9d1b5dca191",
+    "persona": "\u6A31\u9E93",
+    "names": [
+      "\u6A31\u9E93"
+    ],
+    "runs": 1,
+    "bestRank": 900,
+    "worstRank": 900,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5000668,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 900,
+        "ms": 5000668,
+        "dish": "Fish"
       }
     ]
   },
@@ -3256,8 +3282,8 @@
       "asdf_yep"
     ],
     "runs": 1,
-    "bestRank": 868,
-    "worstRank": 868,
+    "bestRank": 957,
+    "worstRank": 957,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3269,7 +3295,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 868,
+        "rank": 957,
         "ms": 5138193,
         "dish": "Fish"
       }

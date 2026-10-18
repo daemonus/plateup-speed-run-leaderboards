@@ -650,6 +650,32 @@
     ]
   },
   {
+    "id": "3527d04f-912d-450b-ac29-d011b7b0e571",
+    "persona": "\u4F20\u5947\u9E45",
+    "names": [
+      "\u4F20\u5947\u9E45"
+    ],
+    "runs": 1,
+    "bestRank": 739,
+    "worstRank": 739,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4550105,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 739,
+        "ms": 4550105,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "352909cb-797e-4be5-ab5f-31f86d837e8e",
     "persona": "mtg.lukas",
     "names": [
@@ -3360,8 +3386,8 @@
       "DoKGB"
     ],
     "runs": 1,
-    "bestRank": 506,
-    "worstRank": 506,
+    "bestRank": 549,
+    "worstRank": 549,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3373,7 +3399,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 506,
+        "rank": 549,
         "ms": 4081056,
         "dish": "Fish"
       }
@@ -3818,6 +3844,32 @@
         "rank": 699,
         "ms": 4334668,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "35fad399-4fda-4c22-94b5-72a4eef4c144",
+    "persona": "iMaTT",
+    "names": [
+      "iMaTT"
+    ],
+    "runs": 1,
+    "bestRank": 1164,
+    "worstRank": 1164,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6511618,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1164,
+        "ms": 6511618,
+        "dish": "Fish"
       }
     ]
   },

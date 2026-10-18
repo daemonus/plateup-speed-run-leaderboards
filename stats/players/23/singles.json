@@ -708,8 +708,8 @@
       "KOKISEMPAI"
     ],
     "runs": 1,
-    "bestRank": 946,
-    "worstRank": 946,
+    "bestRank": 1039,
+    "worstRank": 1039,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 946,
+        "rank": 1039,
         "ms": 5465628,
         "dish": "Fish"
       }
@@ -932,6 +932,32 @@
         "rank": 375,
         "ms": 5016229,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "2353716f-c060-43e9-b3e6-6e9d154540bb",
+    "persona": "cl15978",
+    "names": [
+      "cl15978"
+    ],
+    "runs": 1,
+    "bestRank": 637,
+    "worstRank": 637,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4287368,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 637,
+        "ms": 4287368,
+        "dish": "Fish"
       }
     ]
   },

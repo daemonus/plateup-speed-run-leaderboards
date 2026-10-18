@@ -58,8 +58,8 @@
       "Charlie Click"
     ],
     "runs": 1,
-    "bestRank": 846,
-    "worstRank": 846,
+    "bestRank": 931,
+    "worstRank": 931,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -71,7 +71,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 846,
+        "rank": 931,
         "ms": 5078584,
         "dish": "Fish"
       }
@@ -2060,8 +2060,8 @@
       "\u795E\u79D8\u6570\u5B57"
     ],
     "runs": 1,
-    "bestRank": 496,
-    "worstRank": 496,
+    "bestRank": 539,
+    "worstRank": 539,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2073,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 496,
+        "rank": 539,
         "ms": 4067881,
         "dish": "Fish"
       }
@@ -2574,6 +2574,32 @@
     ]
   },
   {
+    "id": "c4cc4086-3f1a-4cdd-9267-04f8b6074790",
+    "persona": "NullZeal",
+    "names": [
+      "NullZeal"
+    ],
+    "runs": 1,
+    "bestRank": 837,
+    "worstRank": 837,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4806618,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 837,
+        "ms": 4806618,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "c4cc610a-092e-448b-9d96-31d7db8de4d4",
     "persona": "Soyleep",
     "names": [
@@ -3048,8 +3074,8 @@
       "Alone"
     ],
     "runs": 1,
-    "bestRank": 1045,
-    "worstRank": 1045,
+    "bestRank": 1147,
+    "worstRank": 1147,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3061,7 +3087,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1045,
+        "rank": 1147,
         "ms": 6287786,
         "dish": "Fish"
       }

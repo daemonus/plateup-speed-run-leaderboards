@@ -136,8 +136,8 @@
       "uwuhannguyen"
     ],
     "runs": 1,
-    "bestRank": 1050,
-    "worstRank": 1050,
+    "bestRank": 1152,
+    "worstRank": 1152,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1050,
+        "rank": 1152,
         "ms": 6373780,
         "dish": "Fish"
       }
@@ -1170,6 +1170,32 @@
     ]
   },
   {
+    "id": "cd5898f5-4146-492e-a950-626b07c17c6d",
+    "persona": "Oggie",
+    "names": [
+      "Oggie"
+    ],
+    "runs": 1,
+    "bestRank": 653,
+    "worstRank": 653,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4322470,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 653,
+        "ms": 4322470,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "cd5cde5f-77da-4c2e-b74f-71de5ab48953",
     "persona": "gary99liu",
     "names": [
@@ -1878,8 +1904,8 @@
       "adolfzazsa"
     ],
     "runs": 1,
-    "bestRank": 651,
-    "worstRank": 651,
+    "bestRank": 711,
+    "worstRank": 711,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 651,
+        "rank": 711,
         "ms": 4483681,
         "dish": "Fish"
       }
@@ -1904,8 +1930,8 @@
       "AcesUp82"
     ],
     "runs": 1,
-    "bestRank": 365,
-    "worstRank": 365,
+    "bestRank": 394,
+    "worstRank": 394,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1943,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 365,
+        "rank": 394,
         "ms": 3709061,
         "dish": "Fish"
       }
@@ -2424,8 +2450,8 @@
       "Colbalt"
     ],
     "runs": 1,
-    "bestRank": 961,
-    "worstRank": 961,
+    "bestRank": 1055,
+    "worstRank": 1055,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2437,7 +2463,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 961,
+        "rank": 1055,
         "ms": 5561082,
         "dish": "Fish"
       }

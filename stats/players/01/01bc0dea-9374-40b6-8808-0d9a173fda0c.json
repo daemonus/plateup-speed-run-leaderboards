@@ -1,0 +1,34 @@
+{
+  "id": "01bc0dea-9374-40b6-8808-0d9a173fda0c",
+  "persona": "Armin",
+  "names": [
+    "Armin"
+  ],
+  "runs": 2,
+  "bestRank": 854,
+  "worstRank": 879,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3267282,
+  "weeksActive": [
+    -94,
+    92
+  ],
+  "history": [
+    {
+      "week": -94,
+      "start": "2023-03-20",
+      "rank": 854,
+      "ms": 3267282,
+      "dish": "Stir Fry"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 879,
+      "ms": 4932469,
+      "dish": "Fish"
+    }
+  ]
+}

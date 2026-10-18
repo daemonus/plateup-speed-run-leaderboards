@@ -526,8 +526,8 @@
       "Erevent"
     ],
     "runs": 1,
-    "bestRank": 775,
-    "worstRank": 775,
+    "bestRank": 854,
+    "worstRank": 854,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -539,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 775,
+        "rank": 854,
         "ms": 4856285,
         "dish": "Fish"
       }
@@ -1820,6 +1820,32 @@
     ]
   },
   {
+    "id": "8c80f8e7-dd84-40ef-bc62-dc660351a245",
+    "persona": "K\u0131pchak",
+    "names": [
+      "K\u0131pchak"
+    ],
+    "runs": 1,
+    "bestRank": 964,
+    "worstRank": 964,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5166393,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 964,
+        "ms": 5166393,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "8c817d28-1847-4ff5-b5c3-d15c6ddb91f3",
     "persona": "smunit",
     "names": [
@@ -2881,6 +2907,32 @@
         "start": "2026-01-05",
         "rank": 152,
         "ms": 2480203,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "8cdd1e3f-6824-403f-bbc1-3ef40668614b",
+    "persona": "Marumitai",
+    "names": [
+      "Marumitai"
+    ],
+    "runs": 1,
+    "bestRank": 795,
+    "worstRank": 795,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4688432,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 795,
+        "ms": 4688432,
         "dish": "Fish"
       }
     ]

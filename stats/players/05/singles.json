@@ -1202,8 +1202,8 @@
       "\u003C3"
     ],
     "runs": 1,
-    "bestRank": 1092,
-    "worstRank": 1092,
+    "bestRank": 1204,
+    "worstRank": 1204,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1092,
+        "rank": 1204,
         "ms": 7557126,
         "dish": "Fish"
       }
@@ -1280,8 +1280,8 @@
       "weiwei\u5230\u4F86"
     ],
     "runs": 1,
-    "bestRank": 985,
-    "worstRank": 985,
+    "bestRank": 1081,
+    "worstRank": 1081,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 985,
+        "rank": 1081,
         "ms": 5716104,
         "dish": "Fish"
       }
@@ -1800,8 +1800,8 @@
       "Fireflake70"
     ],
     "runs": 1,
-    "bestRank": 484,
-    "worstRank": 484,
+    "bestRank": 525,
+    "worstRank": 525,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 484,
+        "rank": 525,
         "ms": 4045482,
         "dish": "Fish"
       }
@@ -1868,6 +1868,32 @@
         "rank": 378,
         "ms": 4783945,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "05981f6a-506b-4609-938b-a90d26e489f9",
+    "persona": "cindy98705",
+    "names": [
+      "cindy98705"
+    ],
+    "runs": 1,
+    "bestRank": 935,
+    "worstRank": 935,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5096109,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 935,
+        "ms": 5096109,
+        "dish": "Fish"
       }
     ]
   },

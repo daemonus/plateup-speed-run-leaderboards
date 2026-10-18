@@ -2392,6 +2392,32 @@
     ]
   },
   {
+    "id": "08af9ddf-67c5-4d10-ad95-a605d841dcdf",
+    "persona": "S-000",
+    "names": [
+      "S-000"
+    ],
+    "runs": 1,
+    "bestRank": 745,
+    "worstRank": 745,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4569344,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 745,
+        "ms": 4569344,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "08b0664d-e846-4be2-b952-a159608ffbaf",
     "persona": "Mantou",
     "names": [
@@ -2502,8 +2528,8 @@
       "1736866687"
     ],
     "runs": 1,
-    "bestRank": 843,
-    "worstRank": 843,
+    "bestRank": 928,
+    "worstRank": 928,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2541,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 843,
+        "rank": 928,
         "ms": 5072278,
         "dish": "Fish"
       }
@@ -2580,8 +2606,8 @@
       "Zotsu"
     ],
     "runs": 1,
-    "bestRank": 334,
-    "worstRank": 334,
+    "bestRank": 361,
+    "worstRank": 361,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2593,7 +2619,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 334,
+        "rank": 361,
         "ms": 3612906,
         "dish": "Fish"
       }

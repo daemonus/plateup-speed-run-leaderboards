@@ -110,8 +110,8 @@
       "Oi!"
     ],
     "runs": 1,
-    "bestRank": 433,
-    "worstRank": 433,
+    "bestRank": 466,
+    "worstRank": 466,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 433,
+        "rank": 466,
         "ms": 3901165,
         "dish": "Fish"
       }
@@ -968,8 +968,8 @@
       "Sinthrill"
     ],
     "runs": 1,
-    "bestRank": 534,
-    "worstRank": 534,
+    "bestRank": 583,
+    "worstRank": 583,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +981,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 534,
+        "rank": 583,
         "ms": 4166834,
         "dish": "Fish"
       }
@@ -1306,8 +1306,8 @@
       "\u041C\u044B\u0448"
     ],
     "runs": 1,
-    "bestRank": 695,
-    "worstRank": 695,
+    "bestRank": 763,
+    "worstRank": 763,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 695,
+        "rank": 763,
         "ms": 4619366,
         "dish": "Fish"
       }
@@ -1358,8 +1358,8 @@
       "leseul69"
     ],
     "runs": 1,
-    "bestRank": 792,
-    "worstRank": 792,
+    "bestRank": 872,
+    "worstRank": 872,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 792,
+        "rank": 872,
         "ms": 4922072,
         "dish": "Fish"
       }
@@ -3246,6 +3246,32 @@
         "rank": 31,
         "ms": 1419414,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "02e3044d-483c-430c-8855-46b94a145a16",
+    "persona": "\u043A\u043E\u0442",
+    "names": [
+      "\u043A\u043E\u0442"
+    ],
+    "runs": 1,
+    "bestRank": 632,
+    "worstRank": 632,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4283254,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 632,
+        "ms": 4283254,
+        "dish": "Fish"
       }
     ]
   },

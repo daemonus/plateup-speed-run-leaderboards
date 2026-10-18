@@ -4,16 +4,17 @@
   "names": [
     "young032530"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 172,
-  "worstRank": 195,
+  "worstRank": 230,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4128483,
+  "bestMs": 3142376,
   "weeksActive": [
     79,
-    87
+    87,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 172,
       "ms": 4259952,
       "dish": "Fajitas"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 230,
+      "ms": 3142376,
+      "dish": "Fish"
     }
   ]
 }

@@ -84,8 +84,8 @@
       "40325118"
     ],
     "runs": 1,
-    "bestRank": 719,
-    "worstRank": 719,
+    "bestRank": 789,
+    "worstRank": 789,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 719,
+        "rank": 789,
         "ms": 4676729,
         "dish": "Fish"
       }
@@ -578,8 +578,8 @@
       "Kiwikou"
     ],
     "runs": 1,
-    "bestRank": 572,
-    "worstRank": 572,
+    "bestRank": 625,
+    "worstRank": 625,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,8 +591,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 572,
+        "rank": 625,
         "ms": 4258295,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "973e0c30-19b2-4c06-92d4-c9de092a6dd1",
+    "persona": "jennyqiuqiu",
+    "names": [
+      "jennyqiuqiu"
+    ],
+    "runs": 1,
+    "bestRank": 1163,
+    "worstRank": 1163,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6495824,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1163,
+        "ms": 6495824,
         "dish": "Fish"
       }
     ]
@@ -994,8 +1020,8 @@
       "\u4E8C\u7B49\u997C\u5E72"
     ],
     "runs": 1,
-    "bestRank": 750,
-    "worstRank": 750,
+    "bestRank": 826,
+    "worstRank": 826,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1033,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 750,
+        "rank": 826,
         "ms": 4778959,
         "dish": "Fish"
       }
@@ -1556,6 +1582,32 @@
         "rank": 256,
         "ms": 2959850,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "97855da7-fc2b-414e-93b9-c0c152d9fcfc",
+    "persona": "gry34",
+    "names": [
+      "gry34"
+    ],
+    "runs": 1,
+    "bestRank": 946,
+    "worstRank": 946,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5116928,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 946,
+        "ms": 5116928,
+        "dish": "Fish"
       }
     ]
   },
@@ -2684,8 +2736,8 @@
       "DarkBB"
     ],
     "runs": 1,
-    "bestRank": 1081,
-    "worstRank": 1081,
+    "bestRank": 1190,
+    "worstRank": 1190,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2749,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1081,
+        "rank": 1190,
         "ms": 6962676,
         "dish": "Fish"
       }
@@ -2840,8 +2892,8 @@
       "CDOjr"
     ],
     "runs": 1,
-    "bestRank": 563,
-    "worstRank": 563,
+    "bestRank": 614,
+    "worstRank": 614,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2905,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 563,
+        "rank": 614,
         "ms": 4233432,
         "dish": "Fish"
       }

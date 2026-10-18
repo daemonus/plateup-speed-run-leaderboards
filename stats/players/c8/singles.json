@@ -916,8 +916,8 @@
       "\u6613\u5EFA\u8054\uFF1F\u6613\u5EFA\u8054\uFF1F"
     ],
     "runs": 1,
-    "bestRank": 249,
-    "worstRank": 249,
+    "bestRank": 269,
+    "worstRank": 269,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 249,
+        "rank": 269,
         "ms": 3292226,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "penaldo"
     ],
     "runs": 1,
-    "bestRank": 762,
-    "worstRank": 762,
+    "bestRank": 839,
+    "worstRank": 839,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 762,
+        "rank": 839,
         "ms": 4808666,
         "dish": "Fish"
       }
@@ -1217,6 +1217,32 @@
         "start": "2025-11-03",
         "rank": 521,
         "ms": 3451975,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c840f2ac-5cd4-444b-89cf-2c36eec9a2cc",
+    "persona": "krokodili4k",
+    "names": [
+      "krokodili4k"
+    ],
+    "runs": 1,
+    "bestRank": 908,
+    "worstRank": 908,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5026777,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 908,
+        "ms": 5026777,
         "dish": "Fish"
       }
     ]
@@ -1878,8 +1904,8 @@
       "\u6CB9\u8102\u5C64"
     ],
     "runs": 1,
-    "bestRank": 1072,
-    "worstRank": 1072,
+    "bestRank": 1180,
+    "worstRank": 1180,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1072,
+        "rank": 1180,
         "ms": 6834619,
         "dish": "Fish"
       }
@@ -3490,8 +3516,8 @@
       "No Ragrets"
     ],
     "runs": 1,
-    "bestRank": 376,
-    "worstRank": 376,
+    "bestRank": 407,
+    "worstRank": 407,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3503,7 +3529,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 376,
+        "rank": 407,
         "ms": 3760476,
         "dish": "Fish"
       }

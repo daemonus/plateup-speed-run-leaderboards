@@ -4,16 +4,17 @@
   "names": [
     "Skywalker8108"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 176,
-  "worstRank": 244,
+  "worstRank": 501,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 3238901,
   "weeksActive": [
     88,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 176,
       "ms": 3238901,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 501,
+      "ms": 3980190,
+      "dish": "Fish"
     }
   ]
 }

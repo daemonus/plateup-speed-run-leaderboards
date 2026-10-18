@@ -4,7 +4,7 @@
   "names": [
     "Scarlett"
   ],
-  "runs": 15,
+  "runs": 16,
   "bestRank": 115,
   "worstRank": 774,
   "firstPlaces": 0,
@@ -26,7 +26,8 @@
     78,
     79,
     80,
-    82
+    82,
+    92
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 280,
       "ms": 3373722,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 186,
+      "ms": 2957541,
+      "dish": "Fish"
     }
   ]
 }

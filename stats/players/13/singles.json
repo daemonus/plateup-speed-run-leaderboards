@@ -292,8 +292,8 @@
       "\u5154\u5B50\u5927\u5927"
     ],
     "runs": 1,
-    "bestRank": 964,
-    "worstRank": 964,
+    "bestRank": 1058,
+    "worstRank": 1058,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 964,
+        "rank": 1058,
         "ms": 5569117,
         "dish": "Fish"
       }
@@ -1904,8 +1904,8 @@
       "Pablo27"
     ],
     "runs": 1,
-    "bestRank": 869,
-    "worstRank": 869,
+    "bestRank": 958,
+    "worstRank": 958,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 869,
+        "rank": 958,
         "ms": 5139245,
         "dish": "Fish"
       }
@@ -2882,6 +2882,32 @@
         "rank": 308,
         "ms": 4159947,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "13e02d10-fcea-490c-9bc3-c9da4acf28fc",
+    "persona": "\u0448\u0438\u0437\u0438\u043A",
+    "names": [
+      "\u0448\u0438\u0437\u0438\u043A"
+    ],
+    "runs": 1,
+    "bestRank": 578,
+    "worstRank": 578,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4158695,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 578,
+        "ms": 4158695,
+        "dish": "Fish"
       }
     ]
   },

@@ -422,8 +422,8 @@
       "\u4FEEHsiu"
     ],
     "runs": 1,
-    "bestRank": 938,
-    "worstRank": 938,
+    "bestRank": 1031,
+    "worstRank": 1031,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 938,
+        "rank": 1031,
         "ms": 5445621,
         "dish": "Fish"
       }
@@ -552,8 +552,8 @@
       "\u664F\u664F\u5B50"
     ],
     "runs": 1,
-    "bestRank": 810,
-    "worstRank": 810,
+    "bestRank": 891,
+    "worstRank": 891,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 810,
+        "rank": 891,
         "ms": 4963168,
         "dish": "Fish"
       }
@@ -1124,8 +1124,8 @@
       "Massica"
     ],
     "runs": 1,
-    "bestRank": 635,
-    "worstRank": 635,
+    "bestRank": 693,
+    "worstRank": 693,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 635,
+        "rank": 693,
         "ms": 4442140,
         "dish": "Fish"
       }
@@ -1503,6 +1503,32 @@
         "start": "2023-11-06",
         "rank": 533,
         "ms": 6294163,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "8873e988-0730-4a10-b04c-14781824517a",
+    "persona": "\u51B0\u6E90",
+    "names": [
+      "\u51B0\u6E90"
+    ],
+    "runs": 1,
+    "bestRank": 572,
+    "worstRank": 572,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4144080,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 572,
+        "ms": 4144080,
         "dish": "Fish"
       }
     ]
@@ -2830,6 +2856,32 @@
         "rank": 515,
         "ms": 6360351,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "88ea851f-4c71-4125-8b84-beb255d8cee6",
+    "persona": "sally940301",
+    "names": [
+      "sally940301"
+    ],
+    "runs": 1,
+    "bestRank": 694,
+    "worstRank": 694,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4443930,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 694,
+        "ms": 4443930,
+        "dish": "Fish"
       }
     ]
   },

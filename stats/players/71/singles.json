@@ -1202,8 +1202,8 @@
       "Yulle"
     ],
     "runs": 1,
-    "bestRank": 598,
-    "worstRank": 598,
+    "bestRank": 655,
+    "worstRank": 655,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 598,
+        "rank": 655,
         "ms": 4329254,
         "dish": "Fish"
       }
@@ -1722,8 +1722,8 @@
       "sarcop"
     ],
     "runs": 1,
-    "bestRank": 109,
-    "worstRank": 109,
+    "bestRank": 116,
+    "worstRank": 116,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1735,7 +1735,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 109,
+        "rank": 116,
         "ms": 2573758,
         "dish": "Fish"
       }
@@ -2294,8 +2294,8 @@
       "3671024868"
     ],
     "runs": 1,
-    "bestRank": 1054,
-    "worstRank": 1054,
+    "bestRank": 1156,
+    "worstRank": 1156,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2307,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1054,
+        "rank": 1156,
         "ms": 6416093,
         "dish": "Fish"
       }
@@ -2830,6 +2830,32 @@
         "rank": 204,
         "ms": 3803993,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "71e4c137-590d-4875-8b3c-c34becea3b4b",
+    "persona": "DXY",
+    "names": [
+      "DXY"
+    ],
+    "runs": 1,
+    "bestRank": 1026,
+    "worstRank": 1026,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5416897,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1026,
+        "ms": 5416897,
+        "dish": "Fish"
       }
     ]
   },

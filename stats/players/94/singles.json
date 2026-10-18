@@ -1306,8 +1306,8 @@
       "\u0E2A \u0E2D \u0E1A \u0E1B \u0E32 \u0E01 C U M"
     ],
     "runs": 1,
-    "bestRank": 675,
-    "worstRank": 675,
+    "bestRank": 736,
+    "worstRank": 736,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 675,
+        "rank": 736,
         "ms": 4540192,
         "dish": "Fish"
       }
@@ -2288,6 +2288,32 @@
     ]
   },
   {
+    "id": "94a62108-43e5-41e3-9ece-2eec4283b56a",
+    "persona": "\u516B\u767E\u6807\u5175\u5954\u5317\u5761",
+    "names": [
+      "\u516B\u767E\u6807\u5175\u5954\u5317\u5761"
+    ],
+    "runs": 1,
+    "bestRank": 1209,
+    "worstRank": 1209,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7952701,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1209,
+        "ms": 7952701,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "94a986fa-65da-4087-b71a-8d91b482dba6",
     "persona": "julianxsyrz",
     "names": [
@@ -2996,8 +3022,8 @@
       "eritanos"
     ],
     "runs": 1,
-    "bestRank": 975,
-    "worstRank": 975,
+    "bestRank": 1070,
+    "worstRank": 1070,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3009,7 +3035,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 975,
+        "rank": 1070,
         "ms": 5646516,
         "dish": "Fish"
       }

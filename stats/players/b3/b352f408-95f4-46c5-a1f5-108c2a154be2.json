@@ -4,7 +4,7 @@
   "names": [
     "Nebulaze"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 220,
   "worstRank": 413,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3131668,
   "weeksActive": [
     43,
-    89
+    89,
+    92
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 220,
       "ms": 3477710,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 261,
+      "ms": 3246405,
+      "dish": "Fish"
     }
   ]
 }

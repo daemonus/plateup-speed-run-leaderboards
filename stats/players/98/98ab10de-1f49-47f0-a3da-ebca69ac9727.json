@@ -4,7 +4,7 @@
   "names": [
     "_J0_J0_"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 34,
   "worstRank": 444,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     73,
     75,
     79,
-    80
+    80,
+    92
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 114,
       "ms": 2732001,
       "dish": "Pizza"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 112,
+      "ms": 2546181,
+      "dish": "Fish"
     }
   ]
 }

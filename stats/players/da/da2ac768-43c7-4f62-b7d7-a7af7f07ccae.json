@@ -4,7 +4,7 @@
   "names": [
     "PaperKnave"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 228,
   "worstRank": 558,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     80,
     81,
     82,
-    83
+    83,
+    92
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 422,
       "ms": 2751440,
       "dish": "Sundaes"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 359,
+      "ms": 3611690,
+      "dish": "Fish"
     }
   ]
 }

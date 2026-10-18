@@ -1540,8 +1540,8 @@
       "mrmannmr"
     ],
     "runs": 1,
-    "bestRank": 1001,
-    "worstRank": 1001,
+    "bestRank": 1100,
+    "worstRank": 1100,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1553,7 +1553,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1001,
+        "rank": 1100,
         "ms": 5863440,
         "dish": "Fish"
       }
@@ -1566,8 +1566,8 @@
       "Hal"
     ],
     "runs": 1,
-    "bestRank": 308,
-    "worstRank": 308,
+    "bestRank": 333,
+    "worstRank": 333,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,8 +1579,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 308,
+        "rank": 333,
         "ms": 3518725,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "776eb028-c7ab-4eab-851b-74e02fd5875f",
+    "persona": "vildan.yilmazer",
+    "names": [
+      "vildan.yilmazer"
+    ],
+    "runs": 1,
+    "bestRank": 1208,
+    "worstRank": 1208,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7909415,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1208,
+        "ms": 7909415,
         "dish": "Fish"
       }
     ]
@@ -2086,8 +2112,8 @@
       "541804473"
     ],
     "runs": 1,
-    "bestRank": 730,
-    "worstRank": 730,
+    "bestRank": 802,
+    "worstRank": 802,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 730,
+        "rank": 802,
         "ms": 4716366,
         "dish": "Fish"
       }
@@ -2372,8 +2398,8 @@
       "chouye19910616"
     ],
     "runs": 1,
-    "bestRank": 1104,
-    "worstRank": 1104,
+    "bestRank": 1219,
+    "worstRank": 1219,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2411,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1104,
+        "rank": 1219,
         "ms": 9113851,
         "dish": "Fish"
       }
@@ -2518,6 +2544,32 @@
         "rank": 195,
         "ms": 5624987,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "77c55d64-df48-4603-b1f6-4d1a485df6f8",
+    "persona": "Nana",
+    "names": [
+      "Nana"
+    ],
+    "runs": 1,
+    "bestRank": 323,
+    "worstRank": 323,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3497774,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 323,
+        "ms": 3497774,
+        "dish": "Fish"
       }
     ]
   },
@@ -3152,8 +3204,8 @@
       "harapeko"
     ],
     "runs": 1,
-    "bestRank": 286,
-    "worstRank": 286,
+    "bestRank": 310,
+    "worstRank": 310,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3165,7 +3217,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 286,
+        "rank": 310,
         "ms": 3452674,
         "dish": "Fish"
       }

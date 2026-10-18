@@ -552,8 +552,8 @@
       "Crispy"
     ],
     "runs": 1,
-    "bestRank": 420,
-    "worstRank": 420,
+    "bestRank": 453,
+    "worstRank": 453,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 420,
+        "rank": 453,
         "ms": 3878806,
         "dish": "Fish"
       }
@@ -2346,8 +2346,8 @@
       "\u611B\u7D20\u8089\u7684\u68D2\u7537\u5B69"
     ],
     "runs": 1,
-    "bestRank": 148,
-    "worstRank": 148,
+    "bestRank": 157,
+    "worstRank": 157,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2359,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 148,
+        "rank": 157,
         "ms": 2844603,
         "dish": "Fish"
       }
@@ -2986,6 +2986,32 @@
         "rank": 86,
         "ms": 3031500,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "07cf38eb-7645-487b-83af-6b064c78e50d",
+    "persona": "GOL1ATHHH",
+    "names": [
+      "GOL1ATHHH"
+    ],
+    "runs": 1,
+    "bestRank": 1228,
+    "worstRank": 1228,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9921670,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1228,
+        "ms": 9921670,
+        "dish": "Fish"
       }
     ]
   },

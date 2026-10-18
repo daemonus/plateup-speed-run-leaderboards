@@ -240,8 +240,8 @@
       "andrewcuttlefish"
     ],
     "runs": 1,
-    "bestRank": 633,
-    "worstRank": 633,
+    "bestRank": 691,
+    "worstRank": 691,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -253,7 +253,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 633,
+        "rank": 691,
         "ms": 4434800,
         "dish": "Fish"
       }
@@ -1114,6 +1114,32 @@
         "rank": 420,
         "ms": 4078284,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "9d569166-ff65-42b4-b23d-5463928ea868",
+    "persona": "George",
+    "names": [
+      "George"
+    ],
+    "runs": 1,
+    "bestRank": 814,
+    "worstRank": 814,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4750166,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 814,
+        "ms": 4750166,
+        "dish": "Fish"
       }
     ]
   },
@@ -2814,8 +2840,8 @@
       "Charm"
     ],
     "runs": 1,
-    "bestRank": 687,
-    "worstRank": 687,
+    "bestRank": 754,
+    "worstRank": 754,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2827,7 +2853,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 687,
+        "rank": 754,
         "ms": 4588443,
         "dish": "Fish"
       }

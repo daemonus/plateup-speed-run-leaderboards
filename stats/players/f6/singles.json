@@ -604,8 +604,8 @@
       "Moumousse"
     ],
     "runs": 1,
-    "bestRank": 759,
-    "worstRank": 759,
+    "bestRank": 835,
+    "worstRank": 835,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 759,
+        "rank": 835,
         "ms": 4804942,
         "dish": "Fish"
       }
@@ -672,6 +672,32 @@
         "rank": 639,
         "ms": 3569243,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "f6355816-e1b0-497e-a916-be2c7f1c4e64",
+    "persona": "\u00AF\\_(\u30C4)_/\u00AF",
+    "names": [
+      "\u00AF\\_(\u30C4)_/\u00AF"
+    ],
+    "runs": 1,
+    "bestRank": 617,
+    "worstRank": 617,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4244280,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 617,
+        "ms": 4244280,
+        "dish": "Fish"
       }
     ]
   },
@@ -1592,8 +1618,8 @@
       "\u5999\u5999"
     ],
     "runs": 1,
-    "bestRank": 926,
-    "worstRank": 926,
+    "bestRank": 1017,
+    "worstRank": 1017,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,8 +1631,34 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 926,
+        "rank": 1017,
         "ms": 5379545,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "f6751da3-158b-4422-b72e-e8e4182ed0ef",
+    "persona": "ChairBourne",
+    "names": [
+      "ChairBourne"
+    ],
+    "runs": 1,
+    "bestRank": 178,
+    "worstRank": 178,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2931708,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 178,
+        "ms": 2931708,
         "dish": "Fish"
       }
     ]
@@ -2075,6 +2127,32 @@
         "start": "2024-04-22",
         "rank": 505,
         "ms": 3505645,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "f6a2bcef-bf9f-41c7-bd53-6c32b3f50e0c",
+    "persona": "MatheusMD",
+    "names": [
+      "MatheusMD"
+    ],
+    "runs": 1,
+    "bestRank": 554,
+    "worstRank": 554,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4087874,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 554,
+        "ms": 4087874,
         "dish": "Fish"
       }
     ]

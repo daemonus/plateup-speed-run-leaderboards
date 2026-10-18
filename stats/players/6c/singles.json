@@ -84,8 +84,8 @@
       "songmin443"
     ],
     "runs": 1,
-    "bestRank": 881,
-    "worstRank": 881,
+    "bestRank": 971,
+    "worstRank": 971,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 881,
+        "rank": 971,
         "ms": 5185772,
         "dish": "Fish"
       }
@@ -136,8 +136,8 @@
       "\u4E09\u5BAE\u3064\u3070\u304D"
     ],
     "runs": 1,
-    "bestRank": 380,
-    "worstRank": 380,
+    "bestRank": 411,
+    "worstRank": 411,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 380,
+        "rank": 411,
         "ms": 3769529,
         "dish": "Fish"
       }
@@ -656,8 +656,8 @@
       "6el1f"
     ],
     "runs": 1,
-    "bestRank": 992,
-    "worstRank": 992,
+    "bestRank": 1090,
+    "worstRank": 1090,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 992,
+        "rank": 1090,
         "ms": 5794793,
         "dish": "Fish"
       }
@@ -1040,6 +1040,32 @@
     ]
   },
   {
+    "id": "6c540982-c961-48a9-a21c-408344567e8c",
+    "persona": "Bean",
+    "names": [
+      "Bean"
+    ],
+    "runs": 1,
+    "bestRank": 901,
+    "worstRank": 901,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5006661,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 901,
+        "ms": 5006661,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "6c557af5-bbb5-461c-ab25-9e6a4b37ed09",
     "persona": "CupCakeKillers",
     "names": [
@@ -1384,8 +1410,8 @@
       "MyGrandma555"
     ],
     "runs": 1,
-    "bestRank": 137,
-    "worstRank": 137,
+    "bestRank": 145,
+    "worstRank": 145,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1423,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 137,
+        "rank": 145,
         "ms": 2790380,
         "dish": "Fish"
       }
@@ -2736,8 +2762,8 @@
       "Mortkei"
     ],
     "runs": 1,
-    "bestRank": 1115,
-    "worstRank": 1115,
+    "bestRank": 1231,
+    "worstRank": 1231,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2749,7 +2775,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1115,
+        "rank": 1231,
         "ms": 10111825,
         "dish": "Fish"
       }
@@ -2778,6 +2804,32 @@
         "rank": 258,
         "ms": 3855372,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "6cd38abd-bd25-4e20-ad37-fef484fb4c35",
+    "persona": "myr070318",
+    "names": [
+      "myr070318"
+    ],
+    "runs": 1,
+    "bestRank": 484,
+    "worstRank": 484,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3944310,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 484,
+        "ms": 3944310,
+        "dish": "Fish"
       }
     ]
   },

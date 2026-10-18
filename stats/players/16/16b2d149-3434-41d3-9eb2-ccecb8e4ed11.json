@@ -4,7 +4,7 @@
   "names": [
     "Professor_PYG"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 54,
   "worstRank": 122,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     43,
     44,
-    45
+    45,
+    92
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 122,
       "ms": 3544516,
       "dish": "Salad"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 64,
+      "ms": 2221894,
+      "dish": "Fish"
     }
   ]
 }

@@ -4,9 +4,9 @@
   "names": [
     "rene.chritoffel"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 370,
-  "worstRank": 901,
+  "worstRank": 1117,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -15,7 +15,8 @@
     63,
     64,
     65,
-    66
+    66,
+    92
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 370,
       "ms": 4104176,
       "dish": "Breakfast"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1117,
+      "ms": 5983905,
+      "dish": "Fish"
     }
   ]
 }

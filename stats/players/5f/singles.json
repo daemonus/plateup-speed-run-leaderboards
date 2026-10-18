@@ -474,8 +474,8 @@
       "Thaniloan"
     ],
     "runs": 1,
-    "bestRank": 918,
-    "worstRank": 918,
+    "bestRank": 1009,
+    "worstRank": 1009,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -487,7 +487,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 918,
+        "rank": 1009,
         "ms": 5333781,
         "dish": "Fish"
       }
@@ -1306,8 +1306,8 @@
       "Nitramus"
     ],
     "runs": 1,
-    "bestRank": 1030,
-    "worstRank": 1030,
+    "bestRank": 1132,
+    "worstRank": 1132,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1030,
+        "rank": 1132,
         "ms": 6116489,
         "dish": "Fish"
       }
@@ -1904,8 +1904,8 @@
       "HuanYue"
     ],
     "runs": 1,
-    "bestRank": 254,
-    "worstRank": 254,
+    "bestRank": 274,
+    "worstRank": 274,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1917,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 254,
+        "rank": 274,
         "ms": 3307064,
         "dish": "Fish"
       }
@@ -2418,6 +2418,32 @@
     ]
   },
   {
+    "id": "5fb2eaaa-83ce-406b-a3e9-2e827dc23320",
+    "persona": "hcln-24",
+    "names": [
+      "hcln-24"
+    ],
+    "runs": 1,
+    "bestRank": 308,
+    "worstRank": 308,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3450166,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 308,
+        "ms": 3450166,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "5fb39811-993e-484d-97d0-77d37b504857",
     "persona": "MemeBurner",
     "names": [
@@ -2606,8 +2632,8 @@
       "sero"
     ],
     "runs": 1,
-    "bestRank": 767,
-    "worstRank": 767,
+    "bestRank": 844,
+    "worstRank": 844,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2619,7 +2645,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 767,
+        "rank": 844,
         "ms": 4826765,
         "dish": "Fish"
       }

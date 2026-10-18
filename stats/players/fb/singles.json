@@ -78,6 +78,32 @@
     ]
   },
   {
+    "id": "fb11e3d2-6c46-4f43-afde-7e615c465ebd",
+    "persona": "Jay",
+    "names": [
+      "Jay"
+    ],
+    "runs": 1,
+    "bestRank": 194,
+    "worstRank": 194,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2998532,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 194,
+        "ms": 2998532,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "fb1333df-8ed1-4627-b51d-840c100a93c9",
     "persona": "DWADE0330",
     "names": [
@@ -1072,8 +1098,8 @@
       "snow"
     ],
     "runs": 1,
-    "bestRank": 811,
-    "worstRank": 811,
+    "bestRank": 892,
+    "worstRank": 892,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1111,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 811,
+        "rank": 892,
         "ms": 4967578,
         "dish": "Fish"
       }
@@ -3438,8 +3464,8 @@
       "MONKEYC"
     ],
     "runs": 1,
-    "bestRank": 1021,
-    "worstRank": 1021,
+    "bestRank": 1123,
+    "worstRank": 1123,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3451,7 +3477,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1021,
+        "rank": 1123,
         "ms": 6021534,
         "dish": "Fish"
       }

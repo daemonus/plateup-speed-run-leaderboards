@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "661bf439-7258-4b46-971b-5904b0dd992a",
+    "persona": "Seppel",
+    "names": [
+      "Seppel"
+    ],
+    "runs": 1,
+    "bestRank": 1029,
+    "worstRank": 1029,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5437229,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1029,
+        "ms": 5437229,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "66241c84-1567-405e-8591-af92ad7636f4",
     "persona": "immattsteven",
     "names": [
@@ -500,8 +526,8 @@
       "cfe36265"
     ],
     "runs": 1,
-    "bestRank": 1062,
-    "worstRank": 1062,
+    "bestRank": 1168,
+    "worstRank": 1168,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +539,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 1062,
+        "rank": 1168,
         "ms": 6575427,
         "dish": "Fish"
       }
@@ -1956,8 +1982,8 @@
       "yy"
     ],
     "runs": 1,
-    "bestRank": 409,
-    "worstRank": 409,
+    "bestRank": 441,
+    "worstRank": 441,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 409,
+        "rank": 441,
         "ms": 3842000,
         "dish": "Fish"
       }
@@ -2060,8 +2086,8 @@
       "Icetabetai"
     ],
     "runs": 1,
-    "bestRank": 428,
-    "worstRank": 428,
+    "bestRank": 461,
+    "worstRank": 461,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2099,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 428,
+        "rank": 461,
         "ms": 3897008,
         "dish": "Fish"
       }
@@ -3428,6 +3454,32 @@
         "rank": 54,
         "ms": 2207803,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "66ef57b1-e097-45f7-a316-3bf023691d4c",
+    "persona": "2166879950",
+    "names": [
+      "2166879950"
+    ],
+    "runs": 1,
+    "bestRank": 851,
+    "worstRank": 851,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4846776,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 851,
+        "ms": 4846776,
+        "dish": "Fish"
       }
     ]
   },

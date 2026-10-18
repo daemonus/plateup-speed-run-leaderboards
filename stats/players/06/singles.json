@@ -136,8 +136,8 @@
       "bihe"
     ],
     "runs": 1,
-    "bestRank": 694,
-    "worstRank": 694,
+    "bestRank": 761,
+    "worstRank": 761,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 92,
         "start": "2026-10-12",
-        "rank": 694,
+        "rank": 761,
         "ms": 4609223,
         "dish": "Fish"
       }
@@ -646,6 +646,32 @@
         "rank": 430,
         "ms": 3965978,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "061fec57-8b47-43ce-a586-7efecb62b9f3",
+    "persona": "L1uCh3n",
+    "names": [
+      "L1uCh3n"
+    ],
+    "runs": 1,
+    "bestRank": 515,
+    "worstRank": 515,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4014312,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 515,
+        "ms": 4014312,
+        "dish": "Fish"
       }
     ]
   },
@@ -1374,6 +1400,32 @@
         "rank": 639,
         "ms": 4946220,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "06603404-2d0e-4886-8a33-b06e360a6692",
+    "persona": "warr\u0131or",
+    "names": [
+      "warr\u0131or"
+    ],
+    "runs": 1,
+    "bestRank": 1182,
+    "worstRank": 1182,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6845497,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1182,
+        "ms": 6845497,
+        "dish": "Fish"
       }
     ]
   },

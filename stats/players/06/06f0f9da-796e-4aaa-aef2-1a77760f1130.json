@@ -4,7 +4,7 @@
   "names": [
     "AL3x"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 122,
   "worstRank": 2422,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     38,
     40,
     41,
-    43
+    43,
+    92
   ],
   "history": [
     {
@@ -116,6 +117,13 @@
       "start": "2025-11-03",
       "rank": 219,
       "ms": 2517299,
+      "dish": "Fish"
+    },
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 171,
+      "ms": 2885736,
       "dish": "Fish"
     }
   ]
