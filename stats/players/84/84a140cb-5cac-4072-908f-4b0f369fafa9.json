@@ -4,12 +4,12 @@
   "names": [
     "shin.eisenhart"
   ],
-  "runs": 107,
+  "runs": 108,
   "bestRank": 1,
   "worstRank": 213,
   "firstPlaces": 21,
-  "top3": 48,
-  "top10": 86,
+  "top3": 49,
+  "top10": 87,
   "bestMs": 902784,
   "weeksActive": [
     -76,
@@ -118,7 +118,8 @@
     82,
     84,
     85,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -869,6 +870,13 @@
       "rank": 8,
       "ms": 1159640,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 2,
+      "ms": 1285026,
+      "dish": "Salad"
     }
   ]
 }

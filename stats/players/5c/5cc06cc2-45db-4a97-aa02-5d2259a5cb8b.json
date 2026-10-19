@@ -4,12 +4,12 @@
   "names": [
     "mcksteelet"
   ],
-  "runs": 87,
-  "bestRank": 10,
+  "runs": 88,
+  "bestRank": 8,
   "worstRank": 709,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 945807,
   "weeksActive": [
     -7,
@@ -98,7 +98,8 @@
     88,
     89,
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -709,6 +710,13 @@
       "rank": 149,
       "ms": 2813063,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 8,
+      "ms": 2824916,
+      "dish": "Salad"
     }
   ]
 }

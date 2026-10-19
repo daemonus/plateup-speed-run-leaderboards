@@ -4,8 +4,8 @@
   "names": [
     "kobalt"
   ],
-  "runs": 22,
-  "bestRank": 98,
+  "runs": 23,
+  "bestRank": 19,
   "worstRank": 421,
   "firstPlaces": 0,
   "top3": 0,
@@ -33,7 +33,8 @@
     22,
     61,
     62,
-    84
+    84,
+    93
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 385,
       "ms": 2746921,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 19,
+      "ms": 3907960,
+      "dish": "Salad"
     }
   ]
 }

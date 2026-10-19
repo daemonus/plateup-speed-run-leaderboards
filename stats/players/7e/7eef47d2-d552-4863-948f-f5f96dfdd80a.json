@@ -4,12 +4,12 @@
   "names": [
     "baja.kite.boy"
   ],
-  "runs": 36,
-  "bestRank": 12,
+  "runs": 37,
+  "bestRank": 6,
   "worstRank": 180,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1437382,
   "weeksActive": [
     26,
@@ -47,7 +47,8 @@
     87,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 46,
       "ms": 2083002,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 6,
+      "ms": 2295012,
+      "dish": "Salad"
     }
   ]
 }

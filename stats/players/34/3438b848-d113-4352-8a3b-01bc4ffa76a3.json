@@ -4,12 +4,12 @@
   "names": [
     "spuff"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 1,
   "worstRank": 214,
-  "firstPlaces": 1,
-  "top3": 13,
-  "top10": 20,
+  "firstPlaces": 2,
+  "top3": 14,
+  "top10": 21,
   "bestMs": 471310,
   "weeksActive": [
     -94,
@@ -41,7 +41,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 2,
       "ms": 797974,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 1,
+      "ms": 1097493,
+      "dish": "Salad"
     }
   ]
 }

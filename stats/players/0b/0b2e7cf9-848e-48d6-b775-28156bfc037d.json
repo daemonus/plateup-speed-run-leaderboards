@@ -4,12 +4,12 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 84,
+  "runs": 85,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 1400706,
   "weeksActive": [
     -61,
@@ -95,7 +95,8 @@
     88,
     89,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -685,6 +686,13 @@
       "rank": 36,
       "ms": 1974118,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 10,
+      "ms": 2939323,
+      "dish": "Salad"
     }
   ]
 }

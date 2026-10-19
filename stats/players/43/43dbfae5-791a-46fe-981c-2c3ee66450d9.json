@@ -4,8 +4,8 @@
   "names": [
     "sen"
   ],
-  "runs": 39,
-  "bestRank": 17,
+  "runs": 40,
+  "bestRank": 15,
   "worstRank": 814,
   "firstPlaces": 0,
   "top3": 0,
@@ -50,7 +50,8 @@
     77,
     78,
     79,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 125,
       "ms": 2660856,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 15,
+      "ms": 3261510,
+      "dish": "Salad"
     }
   ]
 }

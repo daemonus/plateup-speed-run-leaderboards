@@ -4,8 +4,8 @@
   "names": [
     "Petalcaster"
   ],
-  "runs": 159,
-  "bestRank": 49,
+  "runs": 160,
+  "bestRank": 24,
   "worstRank": 1571,
   "firstPlaces": 0,
   "top3": 0,
@@ -170,7 +170,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -1285,6 +1286,13 @@
       "rank": 227,
       "ms": 3130732,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 24,
+      "ms": 4306282,
+      "dish": "Salad"
     }
   ]
 }
