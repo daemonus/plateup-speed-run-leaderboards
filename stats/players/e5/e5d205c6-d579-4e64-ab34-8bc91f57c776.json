@@ -4,12 +4,12 @@
   "names": [
     "KVT"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 1,
   "worstRank": 126,
-  "firstPlaces": 13,
-  "top3": 15,
-  "top10": 15,
+  "firstPlaces": 14,
+  "top3": 16,
+  "top10": 16,
   "bestMs": 425057,
   "weeksActive": [
     64,
@@ -29,7 +29,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 1,
       "ms": 761185,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 1,
+      "ms": 1033512,
+      "dish": "Salad"
     }
   ]
 }

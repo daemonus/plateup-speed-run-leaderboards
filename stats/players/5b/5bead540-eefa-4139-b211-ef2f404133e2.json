@@ -4,8 +4,8 @@
   "names": [
     "Aanku"
   ],
-  "runs": 5,
-  "bestRank": 125,
+  "runs": 6,
+  "bestRank": 29,
   "worstRank": 273,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -4,
     -3,
     84,
-    85
+    85,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 182,
       "ms": 2872739,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 29,
+      "ms": 3197638,
+      "dish": "Salad"
     }
   ]
 }

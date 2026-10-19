@@ -4,8 +4,8 @@
   "names": [
     "phoenixmarauder12"
   ],
-  "runs": 3,
-  "bestRank": 253,
+  "runs": 4,
+  "bestRank": 38,
   "worstRank": 857,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -94,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 857,
       "ms": 4872007,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 38,
+      "ms": 3471817,
+      "dish": "Salad"
     }
   ]
 }

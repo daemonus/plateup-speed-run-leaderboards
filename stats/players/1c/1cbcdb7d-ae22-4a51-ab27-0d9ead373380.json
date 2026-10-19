@@ -4,19 +4,20 @@
   "names": [
     "Henney"
   ],
-  "runs": 5,
-  "bestRank": 128,
+  "runs": 6,
+  "bestRank": 17,
   "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2836276,
+  "bestMs": 2716656,
   "weeksActive": [
     88,
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 155,
       "ms": 2836276,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 17,
+      "ms": 2716656,
+      "dish": "Salad"
     }
   ]
 }

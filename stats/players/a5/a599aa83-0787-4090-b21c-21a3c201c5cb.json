@@ -4,12 +4,12 @@
   "names": [
     "jinx"
   ],
-  "runs": 110,
+  "runs": 111,
   "bestRank": 1,
   "worstRank": 1190,
   "firstPlaces": 1,
   "top3": 11,
-  "top10": 38,
+  "top10": 39,
   "bestMs": 687293,
   "weeksActive": [
     -92,
@@ -121,7 +121,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -893,6 +894,13 @@
       "rank": 12,
       "ms": 1444788,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 8,
+      "ms": 1733907,
+      "dish": "Salad"
     }
   ]
 }

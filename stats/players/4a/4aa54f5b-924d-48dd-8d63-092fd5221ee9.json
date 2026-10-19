@@ -4,8 +4,8 @@
   "names": [
     "eda"
   ],
-  "runs": 5,
-  "bestRank": 181,
+  "runs": 6,
+  "bestRank": 25,
   "worstRank": 503,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     54,
     58,
     62,
-    63
+    63,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 468,
       "ms": 3758539,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 25,
+      "ms": 3096828,
+      "dish": "Salad"
     }
   ]
 }

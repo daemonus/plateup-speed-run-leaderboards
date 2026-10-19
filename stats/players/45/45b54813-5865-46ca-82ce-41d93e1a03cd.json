@@ -1,16 +1,16 @@
 {
-  "id": "fd821984-92ae-4e50-8d97-b0726f51f4f2",
-  "persona": "Roguezilla",
+  "id": "45b54813-5865-46ca-82ce-41d93e1a03cd",
+  "persona": "H.Eng",
   "names": [
-    "Roguezilla"
+    "H.Eng"
   ],
   "runs": 2,
-  "bestRank": 33,
-  "worstRank": 1041,
+  "bestRank": 43,
+  "worstRank": 240,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5473625,
+  "bestMs": 3177017,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 1041,
-      "ms": 5473625,
+      "rank": 240,
+      "ms": 3177017,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 33,
-      "ms": 5492383,
+      "rank": 43,
+      "ms": 3793104,
       "dish": "Salad"
     }
   ]

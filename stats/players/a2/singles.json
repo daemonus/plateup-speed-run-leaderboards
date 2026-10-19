@@ -754,6 +754,32 @@
     ]
   },
   {
+    "id": "a245377b-4d17-49c8-94ef-05ba50dd5b42",
+    "persona": "\u94F6\u5C71\u94F6\u6D77",
+    "names": [
+      "\u94F6\u5C71\u94F6\u6D77"
+    ],
+    "runs": 1,
+    "bestRank": 1126,
+    "worstRank": 1126,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6047143,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 1126,
+        "ms": 6047143,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
     "id": "a2460bdd-eabe-4428-848f-601446c08378",
     "persona": "masterofpie14",
     "names": [
@@ -1088,32 +1114,6 @@
         "rank": 152,
         "ms": 2263300,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "a258370f-6803-4344-8d95-487fa0930ad7",
-    "persona": "rao.enzo",
-    "names": [
-      "rao.enzo"
-    ],
-    "runs": 1,
-    "bestRank": 22,
-    "worstRank": 22,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3999758,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 22,
-        "ms": 3999758,
-        "dish": "Salad"
       }
     ]
   },

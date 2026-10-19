@@ -4,12 +4,12 @@
   "names": [
     "onom_nom"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 2,
   "worstRank": 524,
   "firstPlaces": 0,
-  "top3": 3,
-  "top10": 16,
+  "top3": 4,
+  "top10": 17,
   "bestMs": 548696,
   "weeksActive": [
     -77,
@@ -36,7 +36,8 @@
     87,
     88,
     89,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 4,
       "ms": 923507,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 3,
+      "ms": 1161714,
+      "dish": "Salad"
     }
   ]
 }

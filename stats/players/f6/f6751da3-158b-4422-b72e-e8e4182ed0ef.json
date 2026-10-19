@@ -1,16 +1,16 @@
 {
-  "id": "6e27c966-1727-44d6-acf1-1885f8f9e956",
-  "persona": "2732812366",
+  "id": "f6751da3-158b-4422-b72e-e8e4182ed0ef",
+  "persona": "ChairBourne",
   "names": [
-    "2732812366"
+    "ChairBourne"
   ],
   "runs": 2,
-  "bestRank": 36,
-  "worstRank": 1202,
+  "bestRank": 15,
+  "worstRank": 178,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 6358329,
+  "bestMs": 2611749,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 1202,
-      "ms": 7477642,
+      "rank": 178,
+      "ms": 2931708,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 36,
-      "ms": 6358329,
+      "rank": 15,
+      "ms": 2611749,
       "dish": "Salad"
     }
   ]

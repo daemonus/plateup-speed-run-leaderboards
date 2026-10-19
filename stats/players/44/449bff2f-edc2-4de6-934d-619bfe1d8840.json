@@ -4,8 +4,8 @@
   "names": [
     "DFAT"
   ],
-  "runs": 2,
-  "bestRank": 51,
+  "runs": 3,
+  "bestRank": 23,
   "worstRank": 125,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2112322,
   "weeksActive": [
     77,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 51,
       "ms": 2112322,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 23,
+      "ms": 2941044,
+      "dish": "Salad"
     }
   ]
 }

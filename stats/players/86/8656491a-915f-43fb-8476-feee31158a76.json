@@ -4,7 +4,7 @@
   "names": [
     "Gaar\u00E1"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 26,
   "worstRank": 375,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     60,
     88,
     89,
-    90
+    90,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 86,
       "ms": 2089777,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 32,
+      "ms": 3259406,
+      "dish": "Salad"
     }
   ]
 }
