@@ -4,8 +4,8 @@
   "names": [
     "Omni"
   ],
-  "runs": 8,
-  "bestRank": 67,
+  "runs": 9,
+  "bestRank": 27,
   "worstRank": 1528,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     -89,
     -88,
     -62,
-    89
+    89,
+    93
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 156,
       "ms": 3129133,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 27,
+      "ms": 2777754,
+      "dish": "Salad"
     }
   ]
 }

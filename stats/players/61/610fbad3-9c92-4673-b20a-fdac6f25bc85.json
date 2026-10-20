@@ -4,7 +4,7 @@
   "names": [
     "immortlraven"
   ],
-  "runs": 48,
+  "runs": 49,
   "bestRank": 10,
   "worstRank": 216,
   "firstPlaces": 0,
@@ -59,7 +59,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -397,6 +398,13 @@
       "rank": 45,
       "ms": 2057833,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 22,
+      "ms": 2608661,
+      "dish": "Salad"
     }
   ]
 }

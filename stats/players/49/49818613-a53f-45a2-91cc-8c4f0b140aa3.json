@@ -4,7 +4,7 @@
   "names": [
     "Flat"
   ],
-  "runs": 165,
+  "runs": 166,
   "bestRank": 15,
   "worstRank": 854,
   "firstPlaces": 0,
@@ -176,7 +176,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -1333,6 +1334,13 @@
       "rank": 69,
       "ms": 2265116,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 18,
+      "ms": 2457299,
+      "dish": "Salad"
     }
   ]
 }

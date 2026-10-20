@@ -4,17 +4,18 @@
   "names": [
     "Hocktor"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 3,
   "worstRank": 4,
   "firstPlaces": 0,
   "top3": 2,
-  "top10": 3,
+  "top10": 4,
   "bestMs": 912866,
   "weeksActive": [
     89,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 3,
       "ms": 912866,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 4,
+      "ms": 1161809,
+      "dish": "Salad"
     }
   ]
 }

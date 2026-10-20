@@ -4,8 +4,8 @@
   "names": [
     "\uC54C\uD0C0"
   ],
-  "runs": 2,
-  "bestRank": 302,
+  "runs": 3,
+  "bestRank": 107,
   "worstRank": 347,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4064451,
   "weeksActive": [
     88,
-    89
+    89,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 302,
       "ms": 4064451,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 107,
+      "ms": 5166350,
+      "dish": "Salad"
     }
   ]
 }

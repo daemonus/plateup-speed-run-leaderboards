@@ -858,6 +858,32 @@
     ]
   },
   {
+    "id": "ae489cd7-f90d-4eef-826b-0155144de108",
+    "persona": "\u843D\u5C18",
+    "names": [
+      "\u843D\u5C18"
+    ],
+    "runs": 1,
+    "bestRank": 103,
+    "worstRank": 103,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4987042,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 103,
+        "ms": 4987042,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "ae4fce2e-fea4-4b05-9f63-7d94e3893c77",
     "persona": "Malen\u0027kiy Pisuun",
     "names": [
@@ -1920,6 +1946,32 @@
         "rank": 840,
         "ms": 6016170,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "ae9d69a1-c96e-4ddc-acf7-dcf85225a7ae",
+    "persona": "mariegre",
+    "names": [
+      "mariegre"
+    ],
+    "runs": 1,
+    "bestRank": 105,
+    "worstRank": 105,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5043872,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 105,
+        "ms": 5043872,
+        "dish": "Salad"
       }
     ]
   },

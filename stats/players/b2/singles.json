@@ -2756,6 +2756,32 @@
     ]
   },
   {
+    "id": "b2c8dc22-8798-4c9f-9daf-c338b7a0cdd5",
+    "persona": "Mens_6899",
+    "names": [
+      "Mens_6899"
+    ],
+    "runs": 1,
+    "bestRank": 71,
+    "worstRank": 71,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4037835,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 71,
+        "ms": 4037835,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "b2c9a9f8-2c5b-4677-a849-2ebf687eda91",
     "persona": "Shigaruji",
     "names": [
@@ -3193,32 +3219,6 @@
         "start": "2026-10-12",
         "rank": 388,
         "ms": 3688584,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "b2df84e3-8c0a-4f8a-ae02-b643e942d097",
-    "persona": "Kurobadayoo",
-    "names": [
-      "Kurobadayoo"
-    ],
-    "runs": 1,
-    "bestRank": 687,
-    "worstRank": 687,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4423716,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 687,
-        "ms": 4423716,
         "dish": "Fish"
       }
     ]

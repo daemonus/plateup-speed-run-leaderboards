@@ -4,7 +4,7 @@
   "names": [
     "Selene_Russell"
   ],
-  "runs": 67,
+  "runs": 68,
   "bestRank": 2,
   "worstRank": 239,
   "firstPlaces": 0,
@@ -78,7 +78,8 @@
     88,
     89,
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -549,6 +550,13 @@
       "rank": 14,
       "ms": 1474131,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 26,
+      "ms": 2773238,
+      "dish": "Salad"
     }
   ]
 }

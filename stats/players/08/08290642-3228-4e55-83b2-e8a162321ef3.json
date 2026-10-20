@@ -4,8 +4,8 @@
   "names": [
     "gl0c0"
   ],
-  "runs": 2,
-  "bestRank": 289,
+  "runs": 3,
+  "bestRank": 119,
   "worstRank": 1104,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4000911,
   "weeksActive": [
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 1104,
       "ms": 5870913,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 119,
+      "ms": 5979988,
+      "dish": "Salad"
     }
   ]
 }

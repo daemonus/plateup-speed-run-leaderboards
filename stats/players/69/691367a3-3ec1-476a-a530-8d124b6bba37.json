@@ -4,8 +4,8 @@
   "names": [
     "stebe"
   ],
-  "runs": 13,
-  "bestRank": 51,
+  "runs": 14,
+  "bestRank": 35,
   "worstRank": 159,
   "firstPlaces": 0,
   "top3": 0,
@@ -24,7 +24,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 83,
       "ms": 2363972,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 35,
+      "ms": 3016233,
+      "dish": "Salad"
     }
   ]
 }

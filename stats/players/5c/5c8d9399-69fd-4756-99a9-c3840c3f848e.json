@@ -4,7 +4,7 @@
   "names": [
     "Xenalia"
   ],
-  "runs": 19,
+  "runs": 20,
   "bestRank": 38,
   "worstRank": 246,
   "firstPlaces": 0,
@@ -30,7 +30,8 @@
     25,
     48,
     63,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 63,
       "ms": 2216534,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 67,
+      "ms": 3984001,
+      "dish": "Salad"
     }
   ]
 }
