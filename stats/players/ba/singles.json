@@ -130,6 +130,32 @@
     ]
   },
   {
+    "id": "ba0780a6-1338-4123-8c93-c431840388b6",
+    "persona": "\u6485\u7A7F\u808B\u9AA8",
+    "names": [
+      "\u6485\u7A7F\u808B\u9AA8"
+    ],
+    "runs": 1,
+    "bestRank": 104,
+    "worstRank": 104,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4209243,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 104,
+        "ms": 4209243,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "ba07f477-ffbc-4f1c-82df-4af58cef2c52",
     "persona": "King",
     "names": [
@@ -1592,8 +1618,8 @@
       "Blue"
     ],
     "runs": 1,
-    "bestRank": 64,
-    "worstRank": 64,
+    "bestRank": 86,
+    "worstRank": 86,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1631,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 64,
+        "rank": 86,
         "ms": 3965450,
         "dish": "Salad"
       }

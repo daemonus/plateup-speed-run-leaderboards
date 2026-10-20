@@ -4,7 +4,7 @@
   "names": [
     "Polymental"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 93,
   "worstRank": 426,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     77,
     78,
     80,
-    82
+    82,
+    93
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 232,
       "ms": 3101303,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 122,
+      "ms": 4520146,
+      "dish": "Salad"
     }
   ]
 }

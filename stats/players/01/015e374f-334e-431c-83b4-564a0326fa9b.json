@@ -4,8 +4,8 @@
   "names": [
     "melimelmelmel"
   ],
-  "runs": 12,
-  "bestRank": 111,
+  "runs": 13,
+  "bestRank": 105,
   "worstRank": 676,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     -40,
     -27,
     22,
-    80
+    80,
+    93
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 183,
       "ms": 3144945,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 105,
+      "ms": 4240058,
+      "dish": "Salad"
     }
   ]
 }

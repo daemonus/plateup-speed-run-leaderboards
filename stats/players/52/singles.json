@@ -32,8 +32,8 @@
       "SindreJohan"
     ],
     "runs": 1,
-    "bestRank": 73,
-    "worstRank": 73,
+    "bestRank": 97,
+    "worstRank": 97,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 73,
+        "rank": 97,
         "ms": 4129523,
         "dish": "Salad"
       }
@@ -1202,8 +1202,8 @@
       "SheGoesRawwr"
     ],
     "runs": 1,
-    "bestRank": 100,
-    "worstRank": 100,
+    "bestRank": 140,
+    "worstRank": 140,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 100,
+        "rank": 140,
         "ms": 4910612,
         "dish": "Salad"
       }
@@ -1660,6 +1660,32 @@
         "rank": 739,
         "ms": 3128326,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "527625a6-78c3-487f-af40-b1b4534b05db",
+    "persona": "quanghuy6e",
+    "names": [
+      "quanghuy6e"
+    ],
+    "runs": 1,
+    "bestRank": 36,
+    "worstRank": 36,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2853360,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 36,
+        "ms": 2853360,
+        "dish": "Salad"
       }
     ]
   },

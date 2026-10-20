@@ -1566,8 +1566,8 @@
       "Jack91al"
     ],
     "runs": 1,
-    "bestRank": 93,
-    "worstRank": 93,
+    "bestRank": 131,
+    "worstRank": 131,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1579,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 93,
+        "rank": 131,
         "ms": 4710285,
         "dish": "Salad"
       }
@@ -1816,32 +1816,6 @@
         "rank": 341,
         "ms": 4292506,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "f482dd01-b62d-497d-9076-a7601fe4bc0d",
-    "persona": "Tizby",
-    "names": [
-      "Tizby"
-    ],
-    "runs": 1,
-    "bestRank": 235,
-    "worstRank": 235,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3160165,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 235,
-        "ms": 3160165,
-        "dish": "Fish"
       }
     ]
   },

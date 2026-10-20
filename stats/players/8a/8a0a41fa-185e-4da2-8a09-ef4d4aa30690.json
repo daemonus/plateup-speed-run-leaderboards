@@ -4,8 +4,8 @@
   "names": [
     "Valbou"
   ],
-  "runs": 4,
-  "bestRank": 401,
+  "runs": 5,
+  "bestRank": 156,
   "worstRank": 757,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     64,
     68,
     82,
-    83
+    83,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 407,
       "ms": 2698864,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 156,
+      "ms": 5329477,
+      "dish": "Salad"
     }
   ]
 }

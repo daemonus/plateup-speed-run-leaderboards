@@ -1,0 +1,34 @@
+{
+  "id": "45438f9a-325c-421f-98ca-ecfb6d68adff",
+  "persona": "venus",
+  "names": [
+    "venus"
+  ],
+  "runs": 2,
+  "bestRank": 109,
+  "worstRank": 458,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3890390,
+  "weeksActive": [
+    92,
+    93
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 458,
+      "ms": 3890390,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 109,
+      "ms": 4260866,
+      "dish": "Salad"
+    }
+  ]
+}

@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "f129ec91-2fab-49c2-b842-f1117ddf0436",
+    "persona": "Z-",
+    "names": [
+      "Z-"
+    ],
+    "runs": 1,
+    "bestRank": 82,
+    "worstRank": 82,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3864641,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 82,
+        "ms": 3864641,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "f12b17ff-f1dc-4ad1-9279-24ce1ab28fab",
     "persona": "\u8679\u590F\u5FAE\u51C9",
     "names": [
@@ -2034,8 +2060,8 @@
       "Yankees27"
     ],
     "runs": 1,
-    "bestRank": 85,
-    "worstRank": 85,
+    "bestRank": 119,
+    "worstRank": 119,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2047,7 +2073,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 85,
+        "rank": 119,
         "ms": 4381147,
         "dish": "Salad"
       }
@@ -2674,6 +2700,32 @@
         "rank": 520,
         "ms": 4928264,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "f1abfc79-3b7a-4b3a-8bd8-7765a0cabfc9",
+    "persona": "[SKS] E_n_t_e_r_p_r_i_s_e",
+    "names": [
+      "[SKS] E_n_t_e_r_p_r_i_s_e"
+    ],
+    "runs": 1,
+    "bestRank": 168,
+    "worstRank": 168,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5985893,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 168,
+        "ms": 5985893,
+        "dish": "Salad"
       }
     ]
   },

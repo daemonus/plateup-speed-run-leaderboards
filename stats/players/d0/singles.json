@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "d02a4c92-2aab-4126-a6aa-4f90f901d459",
+    "persona": "momoro",
+    "names": [
+      "momoro"
+    ],
+    "runs": 1,
+    "bestRank": 68,
+    "worstRank": 68,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3447755,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 68,
+        "ms": 3447755,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "d02f7846-5c32-4e03-aa19-1650754e78aa",
     "persona": "ehumes10",
     "names": [
@@ -864,8 +890,8 @@
       "RibittyRabit"
     ],
     "runs": 1,
-    "bestRank": 92,
-    "worstRank": 92,
+    "bestRank": 130,
+    "worstRank": 130,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +903,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 92,
+        "rank": 130,
         "ms": 4683079,
         "dish": "Salad"
       }

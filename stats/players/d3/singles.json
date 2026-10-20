@@ -2522,6 +2522,32 @@
     ]
   },
   {
+    "id": "d3b56e1f-d24a-45f6-a81a-1cf5d5b6ab8c",
+    "persona": "mika",
+    "names": [
+      "mika"
+    ],
+    "runs": 1,
+    "bestRank": 125,
+    "worstRank": 125,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4588912,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 125,
+        "ms": 4588912,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "d3b6fbc0-4b06-4216-a145-d5c3046e61e4",
     "persona": "park",
     "names": [
@@ -2622,6 +2648,32 @@
         "rank": 392,
         "ms": 3925158,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "d3c35227-7213-4106-ac75-0577183c125c",
+    "persona": "\u5565\u90FD\u53D6\u540D\u95F2\u7684",
+    "names": [
+      "\u5565\u90FD\u53D6\u540D\u95F2\u7684"
+    ],
+    "runs": 1,
+    "bestRank": 194,
+    "worstRank": 194,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8837078,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 194,
+        "ms": 8837078,
+        "dish": "Salad"
       }
     ]
   },

@@ -390,32 +390,6 @@
     ]
   },
   {
-    "id": "a222e0eb-df94-43c1-bb17-42bf236b9d35",
-    "persona": "Sunkist",
-    "names": [
-      "Sunkist"
-    ],
-    "runs": 1,
-    "bestRank": 665,
-    "worstRank": 665,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4350439,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 665,
-        "ms": 4350439,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "a222e33c-e7a7-4b64-8393-c2d61001e885",
     "persona": "Nuke",
     "names": [
@@ -1098,8 +1072,8 @@
       "rao.enzo"
     ],
     "runs": 1,
-    "bestRank": 70,
-    "worstRank": 70,
+    "bestRank": 92,
+    "worstRank": 92,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1111,7 +1085,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 70,
+        "rank": 92,
         "ms": 3999758,
         "dish": "Salad"
       }
@@ -1826,8 +1800,8 @@
       "\u5C0F\u9E64"
     ],
     "runs": 1,
-    "bestRank": 99,
-    "worstRank": 99,
+    "bestRank": 138,
+    "worstRank": 138,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1813,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 99,
+        "rank": 138,
         "ms": 4890569,
         "dish": "Salad"
       }

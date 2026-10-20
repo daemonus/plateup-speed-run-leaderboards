@@ -864,8 +864,8 @@
       "\u843D\u5C18"
     ],
     "runs": 1,
-    "bestRank": 103,
-    "worstRank": 103,
+    "bestRank": 142,
+    "worstRank": 142,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 103,
+        "rank": 142,
         "ms": 4987042,
         "dish": "Salad"
       }
@@ -1322,6 +1322,32 @@
         "rank": 2240,
         "ms": 3335513,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "ae6ec2ab-6495-44c7-bbd4-767433edbdc1",
+    "persona": "Noda",
+    "names": [
+      "Noda"
+    ],
+    "runs": 1,
+    "bestRank": 166,
+    "worstRank": 166,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5906596,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 166,
+        "ms": 5906596,
+        "dish": "Salad"
       }
     ]
   },
@@ -1956,8 +1982,8 @@
       "mariegre"
     ],
     "runs": 1,
-    "bestRank": 105,
-    "worstRank": 105,
+    "bestRank": 144,
+    "worstRank": 144,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 105,
+        "rank": 144,
         "ms": 5043872,
         "dish": "Salad"
       }

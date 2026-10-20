@@ -4,7 +4,7 @@
   "names": [
     "Majestic Sea Flap Flap"
   ],
-  "runs": 107,
+  "runs": 108,
   "bestRank": 5,
   "worstRank": 221,
   "firstPlaces": 0,
@@ -118,7 +118,8 @@
     87,
     88,
     89,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -869,6 +870,13 @@
       "rank": 22,
       "ms": 1706044,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 19,
+      "ms": 2345542,
+      "dish": "Salad"
     }
   ]
 }

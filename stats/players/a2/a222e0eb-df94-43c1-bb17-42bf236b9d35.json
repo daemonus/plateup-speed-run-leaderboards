@@ -1,0 +1,34 @@
+{
+  "id": "a222e0eb-df94-43c1-bb17-42bf236b9d35",
+  "persona": "Sunkist",
+  "names": [
+    "Sunkist"
+  ],
+  "runs": 2,
+  "bestRank": 101,
+  "worstRank": 665,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4165049,
+  "weeksActive": [
+    92,
+    93
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 665,
+      "ms": 4350439,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 101,
+      "ms": 4165049,
+      "dish": "Salad"
+    }
+  ]
+}

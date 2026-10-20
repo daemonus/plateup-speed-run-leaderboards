@@ -4,7 +4,7 @@
   "names": [
     "sftbllstorm13"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 42,
   "worstRank": 463,
   "firstPlaces": 0,
@@ -54,7 +54,8 @@
     -23,
     -22,
     -1,
-    43
+    43,
+    93
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 133,
       "ms": 2248745,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 72,
+      "ms": 3512182,
+      "dish": "Salad"
     }
   ]
 }
