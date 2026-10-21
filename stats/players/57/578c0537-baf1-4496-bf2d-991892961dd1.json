@@ -4,8 +4,8 @@
   "names": [
     "deyyn"
   ],
-  "runs": 2,
-  "bestRank": 277,
+  "runs": 3,
+  "bestRank": 128,
   "worstRank": 321,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2639589,
   "weeksActive": [
     86,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 321,
       "ms": 3491981,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 128,
+      "ms": 4054832,
+      "dish": "Salad"
     }
   ]
 }

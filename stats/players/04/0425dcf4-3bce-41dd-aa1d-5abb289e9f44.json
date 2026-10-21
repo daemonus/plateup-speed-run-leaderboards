@@ -4,7 +4,7 @@
   "names": [
     "DoomBunny"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 113,
   "worstRank": 761,
   "firstPlaces": 0,
@@ -54,7 +54,8 @@
     80,
     81,
     84,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 381,
       "ms": 3662481,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 124,
+      "ms": 4026383,
+      "dish": "Salad"
     }
   ]
 }

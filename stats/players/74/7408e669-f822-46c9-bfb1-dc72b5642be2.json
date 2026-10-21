@@ -4,8 +4,8 @@
   "names": [
     "bayrho"
   ],
-  "runs": 4,
-  "bestRank": 290,
+  "runs": 5,
+  "bestRank": 207,
   "worstRank": 746,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     81,
     83,
     86,
-    88
+    88,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 407,
       "ms": 7604628,
       "dish": "Pies"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 207,
+      "ms": 5212030,
+      "dish": "Salad"
     }
   ]
 }

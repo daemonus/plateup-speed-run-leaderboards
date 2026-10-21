@@ -916,8 +916,8 @@
       "Gharbzadegi"
     ],
     "runs": 1,
-    "bestRank": 228,
-    "worstRank": 228,
+    "bestRank": 266,
+    "worstRank": 266,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 228,
+        "rank": 266,
         "ms": 7363141,
         "dish": "Salad"
       }
@@ -2804,6 +2804,32 @@
         "rank": 840,
         "ms": 3894260,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "bbba8295-a1dd-4746-9663-4c48c025bbcc",
+    "persona": "Dusk",
+    "names": [
+      "Dusk"
+    ],
+    "runs": 1,
+    "bestRank": 141,
+    "worstRank": 141,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4225323,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 141,
+        "ms": 4225323,
+        "dish": "Salad"
       }
     ]
   },

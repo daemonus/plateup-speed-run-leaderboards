@@ -4,8 +4,8 @@
   "names": [
     "\u3061\u3061\u3076"
   ],
-  "runs": 4,
-  "bestRank": 78,
+  "runs": 5,
+  "bestRank": 62,
   "worstRank": 228,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 228,
       "ms": 3131994,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 62,
+      "ms": 3076374,
+      "dish": "Salad"
     }
   ]
 }

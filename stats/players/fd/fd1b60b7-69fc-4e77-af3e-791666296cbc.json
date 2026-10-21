@@ -1,0 +1,34 @@
+{
+  "id": "fd1b60b7-69fc-4e77-af3e-791666296cbc",
+  "persona": "\uB3C4\uD1A8\uB2E4\uD310\uB2E4",
+  "names": [
+    "\uB3C4\uD1A8\uB2E4\uD310\uB2E4"
+  ],
+  "runs": 2,
+  "bestRank": 106,
+  "worstRank": 193,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3764549,
+  "weeksActive": [
+    -42,
+    93
+  ],
+  "history": [
+    {
+      "week": -42,
+      "start": "2024-03-18",
+      "rank": 193,
+      "ms": 4371547,
+      "dish": "Burgers"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 106,
+      "ms": 3764549,
+      "dish": "Salad"
+    }
+  ]
+}

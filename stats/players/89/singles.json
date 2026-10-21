@@ -578,8 +578,8 @@
       "Azvelof"
     ],
     "runs": 1,
-    "bestRank": 101,
-    "worstRank": 101,
+    "bestRank": 108,
+    "worstRank": 108,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,8 +591,34 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 101,
+        "rank": 108,
         "ms": 3795229,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "892b315c-799c-4c2f-a7a7-82ab4fd478df",
+    "persona": "\uC5D0\uB8E8",
+    "names": [
+      "\uC5D0\uB8E8"
+    ],
+    "runs": 1,
+    "bestRank": 214,
+    "worstRank": 214,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5312246,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 214,
+        "ms": 5312246,
         "dish": "Salad"
       }
     ]

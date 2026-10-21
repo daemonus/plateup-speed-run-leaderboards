@@ -1020,8 +1020,8 @@
       "Ruby Morji"
     ],
     "runs": 1,
-    "bestRank": 94,
-    "worstRank": 94,
+    "bestRank": 100,
+    "worstRank": 100,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1033,7 +1033,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 94,
+        "rank": 100,
         "ms": 3603198,
         "dish": "Salad"
       }
@@ -1322,6 +1322,32 @@
         "rank": 376,
         "ms": 3247226,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "9668ce3c-aac5-4225-9f33-c61a4d2ad813",
+    "persona": "Yvonne\u8BFA\u6D6E",
+    "names": [
+      "Yvonne\u8BFA\u6D6E"
+    ],
+    "runs": 1,
+    "bestRank": 151,
+    "worstRank": 151,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4296220,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 151,
+        "ms": 4296220,
+        "dish": "Salad"
       }
     ]
   },
