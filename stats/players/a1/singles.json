@@ -2502,8 +2502,8 @@
       "SheffDogOmama"
     ],
     "runs": 1,
-    "bestRank": 59,
-    "worstRank": 59,
+    "bestRank": 71,
+    "worstRank": 71,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2515,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 59,
+        "rank": 71,
         "ms": 3246398,
         "dish": "Salad"
       }
@@ -2907,6 +2907,32 @@
         "start": "2023-10-16",
         "rank": 302,
         "ms": 4104699,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "a1c58a9e-c681-410e-bbb0-aca90271989a",
+    "persona": "NAH I\u0027D WIN",
+    "names": [
+      "NAH I\u0027D WIN"
+    ],
+    "runs": 1,
+    "bestRank": 115,
+    "worstRank": 115,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4029957,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 115,
+        "ms": 4029957,
         "dish": "Salad"
       }
     ]

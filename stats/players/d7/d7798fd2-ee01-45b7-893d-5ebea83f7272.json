@@ -4,8 +4,8 @@
   "names": [
     "lizzoli"
   ],
-  "runs": 4,
-  "bestRank": 210,
+  "runs": 5,
+  "bestRank": 82,
   "worstRank": 283,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     88,
     89,
     90,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 239,
       "ms": 5442625,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 82,
+      "ms": 3439672,
+      "dish": "Salad"
     }
   ]
 }

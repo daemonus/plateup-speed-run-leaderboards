@@ -4,7 +4,7 @@
   "names": [
     "Batman the Rock"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 8,
   "worstRank": 479,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     74,
     83,
     84,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 106,
       "ms": 2523739,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 24,
+      "ms": 2474391,
+      "dish": "Salad"
     }
   ]
 }

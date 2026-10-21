@@ -4,8 +4,8 @@
   "names": [
     "wham12"
   ],
-  "runs": 27,
-  "bestRank": 147,
+  "runs": 28,
+  "bestRank": 76,
   "worstRank": 651,
   "firstPlaces": 0,
   "top3": 0,
@@ -38,7 +38,8 @@
     87,
     88,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 254,
       "ms": 3214764,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 76,
+      "ms": 3314279,
+      "dish": "Salad"
     }
   ]
 }

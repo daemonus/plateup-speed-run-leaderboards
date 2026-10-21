@@ -4,7 +4,7 @@
   "names": [
     "x_Sc00byD00_x"
   ],
-  "runs": 20,
+  "runs": 21,
   "bestRank": 4,
   "worstRank": 100,
   "firstPlaces": 0,
@@ -31,7 +31,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 24,
       "ms": 1732862,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 27,
+      "ms": 2536337,
+      "dish": "Salad"
     }
   ]
 }

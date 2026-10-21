@@ -1124,8 +1124,8 @@
       "\u732B\u6D3E\u7487\u9171"
     ],
     "runs": 1,
-    "bestRank": 149,
-    "worstRank": 149,
+    "bestRank": 181,
+    "worstRank": 181,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 149,
+        "rank": 181,
         "ms": 5168762,
         "dish": "Salad"
       }
@@ -2518,6 +2518,32 @@
         "rank": 687,
         "ms": 4272913,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "90d5287a-5e35-47fb-b844-0748b44c84b6",
+    "persona": "erl1x",
+    "names": [
+      "erl1x"
+    ],
+    "runs": 1,
+    "bestRank": 149,
+    "worstRank": 149,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4505199,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 149,
+        "ms": 4505199,
+        "dish": "Salad"
       }
     ]
   },

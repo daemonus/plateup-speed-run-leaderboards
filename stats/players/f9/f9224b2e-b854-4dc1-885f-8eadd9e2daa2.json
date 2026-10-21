@@ -4,8 +4,8 @@
   "names": [
     "Skywalker8108"
   ],
-  "runs": 3,
-  "bestRank": 176,
+  "runs": 4,
+  "bestRank": 98,
   "worstRank": 501,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     88,
     89,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 501,
       "ms": 3980190,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 98,
+      "ms": 3674642,
+      "dish": "Salad"
     }
   ]
 }

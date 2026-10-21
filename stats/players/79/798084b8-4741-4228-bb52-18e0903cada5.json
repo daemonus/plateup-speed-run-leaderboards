@@ -4,7 +4,7 @@
   "names": [
     "shannon.stone4418"
   ],
-  "runs": 41,
+  "runs": 42,
   "bestRank": 48,
   "worstRank": 512,
   "firstPlaces": 0,
@@ -52,7 +52,8 @@
     79,
     80,
     90,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -341,6 +342,13 @@
       "rank": 151,
       "ms": 3664516,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 86,
+      "ms": 3473297,
+      "dish": "Salad"
     }
   ]
 }

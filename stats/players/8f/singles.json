@@ -1716,6 +1716,32 @@
     ]
   },
   {
+    "id": "8f6818ed-15ca-441f-84fe-e5021635a9b6",
+    "persona": "bingus pringus",
+    "names": [
+      "bingus pringus"
+    ],
+    "runs": 1,
+    "bestRank": 56,
+    "worstRank": 56,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3050498,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 56,
+        "ms": 3050498,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "8f686189-681c-4363-af45-d4a98401311a",
     "persona": "SpookyJones",
     "names": [
@@ -2580,8 +2606,8 @@
       "\u718A\u718A"
     ],
     "runs": 1,
-    "bestRank": 175,
-    "worstRank": 175,
+    "bestRank": 211,
+    "worstRank": 211,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2593,7 +2619,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 175,
+        "rank": 211,
         "ms": 6218906,
         "dish": "Salad"
       }

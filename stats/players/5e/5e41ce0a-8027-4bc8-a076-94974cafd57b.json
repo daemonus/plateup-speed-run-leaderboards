@@ -4,7 +4,7 @@
   "names": [
     "pugnoir"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 71,
   "worstRank": 325,
   "firstPlaces": 0,
@@ -40,7 +40,8 @@
     81,
     82,
     84,
-    86
+    86,
+    93
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 269,
       "ms": 2574095,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 117,
+      "ms": 4044727,
+      "dish": "Salad"
     }
   ]
 }
