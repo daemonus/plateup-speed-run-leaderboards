@@ -1,16 +1,16 @@
 {
-  "id": "2353716f-c060-43e9-b3e6-6e9d154540bb",
-  "persona": "cl15978",
+  "id": "507ab86b-b6f4-4ebf-8e50-28478730e98a",
+  "persona": "\u58EB\u591A\u5564\u68A8\u86CB\u7CD5",
   "names": [
-    "cl15978"
+    "\u58EB\u591A\u5564\u68A8\u86CB\u7CD5"
   ],
   "runs": 2,
-  "bestRank": 293,
-  "worstRank": 637,
+  "bestRank": 46,
+  "worstRank": 300,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4287368,
+  "bestMs": 2715409,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 637,
-      "ms": 4287368,
+      "rank": 300,
+      "ms": 3414023,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 293,
-      "ms": 7044096,
+      "rank": 46,
+      "ms": 2715409,
       "dish": "Salad"
     }
   ]

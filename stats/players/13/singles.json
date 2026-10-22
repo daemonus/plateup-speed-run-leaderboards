@@ -858,6 +858,32 @@
     ]
   },
   {
+    "id": "134e92b7-176f-4e5e-b445-29ff16a7aeea",
+    "persona": "\u9E2D\u5634\u517D10086",
+    "names": [
+      "\u9E2D\u5634\u517D10086"
+    ],
+    "runs": 1,
+    "bestRank": 166,
+    "worstRank": 166,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4135273,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 166,
+        "ms": 4135273,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "134ed33c-482d-444d-abdc-0a419c635a4f",
     "persona": "unlevel",
     "names": [
@@ -1072,8 +1098,8 @@
       "evandolf"
     ],
     "runs": 1,
-    "bestRank": 261,
-    "worstRank": 261,
+    "bestRank": 292,
+    "worstRank": 292,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1111,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 261,
+        "rank": 292,
         "ms": 5817829,
         "dish": "Salad"
       }

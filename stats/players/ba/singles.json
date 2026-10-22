@@ -136,8 +136,8 @@
       "\u6485\u7A7F\u808B\u9AA8"
     ],
     "runs": 1,
-    "bestRank": 156,
-    "worstRank": 156,
+    "bestRank": 174,
+    "worstRank": 174,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -149,7 +149,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 156,
+        "rank": 174,
         "ms": 4209243,
         "dish": "Salad"
       }
@@ -776,6 +776,32 @@
         "rank": 624,
         "ms": 3402129,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "ba2fb614-9cee-40f9-a6cf-441f72f239fd",
+    "persona": "ValeB",
+    "names": [
+      "ValeB"
+    ],
+    "runs": 1,
+    "bestRank": 248,
+    "worstRank": 248,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5035603,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 248,
+        "ms": 5035603,
+        "dish": "Salad"
       }
     ]
   },
@@ -1618,8 +1644,8 @@
       "Blue"
     ],
     "runs": 1,
-    "bestRank": 131,
-    "worstRank": 131,
+    "bestRank": 145,
+    "worstRank": 145,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1657,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 131,
+        "rank": 145,
         "ms": 3965450,
         "dish": "Salad"
       }

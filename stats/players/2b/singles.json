@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "2b19a638-8f62-433e-91ca-84fbbb69a653",
+    "persona": "Erlolapek",
+    "names": [
+      "Erlolapek"
+    ],
+    "runs": 1,
+    "bestRank": 69,
+    "worstRank": 69,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2986846,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 69,
+        "ms": 2986846,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "2b1a7ae5-6fcd-482e-82f0-afec8b620e52",
     "persona": "Agaku Antares",
     "names": [
@@ -1488,8 +1514,8 @@
       "andrea.ringstad"
     ],
     "runs": 1,
-    "bestRank": 167,
-    "worstRank": 167,
+    "bestRank": 185,
+    "worstRank": 185,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1527,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 167,
+        "rank": 185,
         "ms": 4281023,
         "dish": "Salad"
       }

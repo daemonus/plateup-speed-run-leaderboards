@@ -4,8 +4,8 @@
   "names": [
     "bennet.stormfire"
   ],
-  "runs": 6,
-  "bestRank": 224,
+  "runs": 7,
+  "bestRank": 204,
   "worstRank": 705,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     -32,
     82,
     83,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 251,
       "ms": 3214193,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 204,
+      "ms": 4396117,
+      "dish": "Salad"
     }
   ]
 }

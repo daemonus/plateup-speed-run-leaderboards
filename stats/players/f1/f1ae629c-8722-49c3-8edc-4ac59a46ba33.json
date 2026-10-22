@@ -4,8 +4,8 @@
   "names": [
     "marie2004_93"
   ],
-  "runs": 8,
-  "bestRank": 189,
+  "runs": 9,
+  "bestRank": 173,
   "worstRank": 471,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     34,
     35,
     36,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 471,
       "ms": 3909593,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 173,
+      "ms": 4204920,
+      "dish": "Salad"
     }
   ]
 }

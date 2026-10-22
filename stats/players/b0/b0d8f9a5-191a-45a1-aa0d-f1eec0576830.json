@@ -4,8 +4,8 @@
   "names": [
     "rice"
   ],
-  "runs": 3,
-  "bestRank": 342,
+  "runs": 4,
+  "bestRank": 152,
   "worstRank": 629,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     85,
     86,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 629,
       "ms": 4277701,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 152,
+      "ms": 4021187,
+      "dish": "Salad"
     }
   ]
 }

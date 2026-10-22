@@ -1768,6 +1768,32 @@
     ]
   },
   {
+    "id": "dd88ad2f-5a1a-482c-8de7-c8a46e0023ee",
+    "persona": "puchi",
+    "names": [
+      "puchi"
+    ],
+    "runs": 1,
+    "bestRank": 207,
+    "worstRank": 207,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4408578,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 207,
+        "ms": 4408578,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "dd896ee2-2b9d-4b02-ad03-e22e01f1aede",
     "persona": "bezao",
     "names": [
@@ -2294,8 +2320,8 @@
       "\u6C5F\u5E74"
     ],
     "runs": 1,
-    "bestRank": 122,
-    "worstRank": 122,
+    "bestRank": 134,
+    "worstRank": 134,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 122,
+        "rank": 134,
         "ms": 3796726,
         "dish": "Salad"
       }

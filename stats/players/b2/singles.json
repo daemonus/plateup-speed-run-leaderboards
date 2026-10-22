@@ -2762,8 +2762,8 @@
       "Mens_6899"
     ],
     "runs": 1,
-    "bestRank": 140,
-    "worstRank": 140,
+    "bestRank": 155,
+    "worstRank": 155,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2775,7 +2775,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 140,
+        "rank": 155,
         "ms": 4037835,
         "dish": "Salad"
       }
@@ -3219,6 +3219,32 @@
         "start": "2026-10-12",
         "rank": 388,
         "ms": 3688584,
+        "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "b2df84e3-8c0a-4f8a-ae02-b643e942d097",
+    "persona": "Kurobadayoo",
+    "names": [
+      "Kurobadayoo"
+    ],
+    "runs": 1,
+    "bestRank": 687,
+    "worstRank": 687,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4423716,
+    "weeksActive": [
+      92
+    ],
+    "history": [
+      {
+        "week": 92,
+        "start": "2026-10-12",
+        "rank": 687,
+        "ms": 4423716,
         "dish": "Fish"
       }
     ]

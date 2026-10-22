@@ -1768,6 +1768,32 @@
     ]
   },
   {
+    "id": "799390e0-2ffb-4842-8a51-44b293940664",
+    "persona": "\u732B\u4E03ii",
+    "names": [
+      "\u732B\u4E03ii"
+    ],
+    "runs": 1,
+    "bestRank": 269,
+    "worstRank": 269,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5323403,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 269,
+        "ms": 5323403,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "79942022-e49d-4b51-937b-ff7af5cdf819",
     "persona": "Soie",
     "names": [
@@ -3360,8 +3386,8 @@
       "The Crimson King"
     ],
     "runs": 1,
-    "bestRank": 221,
-    "worstRank": 221,
+    "bestRank": 247,
+    "worstRank": 247,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3373,7 +3399,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 221,
+        "rank": 247,
         "ms": 5023628,
         "dish": "Salad"
       }

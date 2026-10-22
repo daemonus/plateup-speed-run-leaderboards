@@ -4,7 +4,7 @@
   "names": [
     "\u8F6F\u9999"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 205,
   "worstRank": 808,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4498723,
   "weeksActive": [
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 808,
       "ms": 4734853,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 236,
+      "ms": 4855604,
+      "dish": "Salad"
     }
   ]
 }

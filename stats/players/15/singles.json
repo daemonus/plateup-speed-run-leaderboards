@@ -1332,8 +1332,8 @@
       "RJ"
     ],
     "runs": 1,
-    "bestRank": 168,
-    "worstRank": 168,
+    "bestRank": 186,
+    "worstRank": 186,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 168,
+        "rank": 186,
         "ms": 4292547,
         "dish": "Salad"
       }
@@ -1764,6 +1764,32 @@
         "rank": 260,
         "ms": 3272085,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "15a2c055-265c-4b33-81a3-b6700804a60a",
+    "persona": "\u5955",
+    "names": [
+      "\u5955"
+    ],
+    "runs": 1,
+    "bestRank": 260,
+    "worstRank": 260,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5224751,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 260,
+        "ms": 5224751,
+        "dish": "Salad"
       }
     ]
   },

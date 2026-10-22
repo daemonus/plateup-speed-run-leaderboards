@@ -1930,8 +1930,8 @@
       "Sahb"
     ],
     "runs": 1,
-    "bestRank": 117,
-    "worstRank": 117,
+    "bestRank": 129,
+    "worstRank": 129,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1943,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 117,
+        "rank": 129,
         "ms": 3759003,
         "dish": "Salad"
       }
@@ -2466,32 +2466,6 @@
         "rank": 473,
         "ms": 4413860,
         "dish": "Pizza"
-      }
-    ]
-  },
-  {
-    "id": "a3c018e3-5794-4c04-a836-0e985f5cb75d",
-    "persona": "67lc",
-    "names": [
-      "67lc"
-    ],
-    "runs": 1,
-    "bestRank": 274,
-    "worstRank": 274,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6203824,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 274,
-        "ms": 6203824,
-        "dish": "Salad"
       }
     ]
   },

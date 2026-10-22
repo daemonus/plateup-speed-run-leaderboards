@@ -1,16 +1,16 @@
 {
-  "id": "6e27c966-1727-44d6-acf1-1885f8f9e956",
-  "persona": "2732812366",
+  "id": "6e1ddeae-4b50-41bc-aa4a-0fea350b2a4c",
+  "persona": "SOH CAH TOA",
   "names": [
-    "2732812366"
+    "SOH CAH TOA"
   ],
   "runs": 2,
-  "bestRank": 279,
-  "worstRank": 1202,
+  "bestRank": 139,
+  "worstRank": 298,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 6358329,
+  "bestMs": 3400824,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 1202,
-      "ms": 7477642,
+      "rank": 298,
+      "ms": 3400824,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 279,
-      "ms": 6358329,
+      "rank": 139,
+      "ms": 3856726,
       "dish": "Salad"
     }
   ]

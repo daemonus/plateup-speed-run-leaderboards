@@ -4,7 +4,7 @@
   "names": [
     "Bydi"
   ],
-  "runs": 26,
+  "runs": 25,
   "bestRank": 99,
   "worstRank": 498,
   "firstPlaces": 0,
@@ -36,8 +36,7 @@
     84,
     88,
     90,
-    91,
-    93
+    91
   ],
   "history": [
     {
@@ -214,13 +213,6 @@
       "rank": 210,
       "ms": 4613104,
       "dish": "Hot Dogs"
-    },
-    {
-      "week": 93,
-      "start": "2026-10-19",
-      "rank": 299,
-      "ms": 8523053,
-      "dish": "Salad"
     }
   ]
 }

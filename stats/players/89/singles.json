@@ -578,8 +578,8 @@
       "Azvelof"
     ],
     "runs": 1,
-    "bestRank": 121,
-    "worstRank": 121,
+    "bestRank": 133,
+    "worstRank": 133,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 121,
+        "rank": 133,
         "ms": 3795229,
         "dish": "Salad"
       }
@@ -604,8 +604,8 @@
       "\uC5D0\uB8E8"
     ],
     "runs": 1,
-    "bestRank": 240,
-    "worstRank": 240,
+    "bestRank": 268,
+    "worstRank": 268,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 240,
+        "rank": 268,
         "ms": 5312246,
         "dish": "Salad"
       }
@@ -2180,6 +2180,32 @@
         "rank": 812,
         "ms": 2321717,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "89a3fdc5-4f56-4ca9-afbe-5334b5702fe6",
+    "persona": "DDDLDDDD",
+    "names": [
+      "DDDLDDDD"
+    ],
+    "runs": 1,
+    "bestRank": 118,
+    "worstRank": 118,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3549753,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 118,
+        "ms": 3549753,
+        "dish": "Salad"
       }
     ]
   },
