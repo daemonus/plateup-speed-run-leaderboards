@@ -4,8 +4,8 @@
   "names": [
     "cathyisvu"
   ],
-  "runs": 29,
-  "bestRank": 37,
+  "runs": 30,
+  "bestRank": 36,
   "worstRank": 259,
   "firstPlaces": 0,
   "top3": 0,
@@ -40,7 +40,8 @@
     86,
     87,
     88,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 72,
       "ms": 2286078,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 36,
+      "ms": 2602261,
+      "dish": "Salad"
     }
   ]
 }

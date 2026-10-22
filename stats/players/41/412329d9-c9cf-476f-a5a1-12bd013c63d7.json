@@ -4,8 +4,8 @@
   "names": [
     "Harold 1"
   ],
-  "runs": 2,
-  "bestRank": 291,
+  "runs": 3,
+  "bestRank": 151,
   "worstRank": 590,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2994231,
   "weeksActive": [
     60,
-    64
+    64,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 590,
       "ms": 2994231,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 151,
+      "ms": 4144884,
+      "dish": "Salad"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "ccec6cbb-ac69-49b4-aa1e-2d5b7c45ec1c",
+  "persona": "\u53F2\u5446\u82AC\u8D85\u53EF\u7231",
+  "names": [
+    "\u53F2\u5446\u82AC\u8D85\u53EF\u7231"
+  ],
+  "runs": 2,
+  "bestRank": 110,
+  "worstRank": 472,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3593773,
+  "weeksActive": [
+    31,
+    93
+  ],
+  "history": [
+    {
+      "week": 31,
+      "start": "2025-08-11",
+      "rank": 472,
+      "ms": 4073125,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 110,
+      "ms": 3593773,
+      "dish": "Salad"
+    }
+  ]
+}

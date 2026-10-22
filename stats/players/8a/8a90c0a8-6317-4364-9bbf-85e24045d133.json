@@ -4,8 +4,8 @@
   "names": [
     "PotatoCheesMonk"
   ],
-  "runs": 5,
-  "bestRank": 141,
+  "runs": 6,
+  "bestRank": 90,
   "worstRank": 208,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     72,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 195,
       "ms": 3001414,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 90,
+      "ms": 3336789,
+      "dish": "Salad"
     }
   ]
 }

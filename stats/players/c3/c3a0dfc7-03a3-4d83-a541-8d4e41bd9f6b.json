@@ -4,7 +4,7 @@
   "names": [
     "OwlPrincess"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 147,
   "worstRank": 455,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     87,
     89,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 317,
       "ms": 3484434,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 147,
+      "ms": 4128553,
+      "dish": "Salad"
     }
   ]
 }

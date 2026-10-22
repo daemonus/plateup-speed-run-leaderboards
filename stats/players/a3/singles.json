@@ -1924,6 +1924,32 @@
     ]
   },
   {
+    "id": "a394d9ab-7f22-436f-a752-c521031b4fb8",
+    "persona": "Sahb",
+    "names": [
+      "Sahb"
+    ],
+    "runs": 1,
+    "bestRank": 117,
+    "worstRank": 117,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3759003,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 117,
+        "ms": 3759003,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "a3990500-21dd-46e8-9b74-e04bcfc35ed6",
     "persona": "GAY\u62C9\u5927\u548C",
     "names": [
@@ -2450,8 +2476,8 @@
       "67lc"
     ],
     "runs": 1,
-    "bestRank": 244,
-    "worstRank": 244,
+    "bestRank": 274,
+    "worstRank": 274,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 244,
+        "rank": 274,
         "ms": 6203824,
         "dish": "Salad"
       }

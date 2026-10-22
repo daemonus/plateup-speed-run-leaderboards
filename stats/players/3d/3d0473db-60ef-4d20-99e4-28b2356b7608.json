@@ -4,7 +4,7 @@
   "names": [
     "ao"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 67,
   "worstRank": 701,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     32,
     33,
     36,
-    37
+    37,
+    93
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 67,
       "ms": 3113674,
       "dish": "Burgers"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 126,
+      "ms": 3854374,
+      "dish": "Salad"
     }
   ]
 }

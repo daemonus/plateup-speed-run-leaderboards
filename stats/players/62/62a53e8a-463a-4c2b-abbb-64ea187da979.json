@@ -4,7 +4,7 @@
   "names": [
     "diegoandresjay"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 169,
   "worstRank": 2048,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -10,
     -7,
     2,
-    12
+    12,
+    93
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 457,
       "ms": 3693997,
       "dish": "Turkey"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 219,
+      "ms": 4989709,
+      "dish": "Salad"
     }
   ]
 }
