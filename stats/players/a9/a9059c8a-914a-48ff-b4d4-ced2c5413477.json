@@ -4,8 +4,8 @@
   "names": [
     "eletsia"
   ],
-  "runs": 6,
-  "bestRank": 253,
+  "runs": 7,
+  "bestRank": 243,
   "worstRank": 881,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     66,
     67,
     86,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 881,
       "ms": 4935056,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 243,
+      "ms": 4712718,
+      "dish": "Salad"
     }
   ]
 }

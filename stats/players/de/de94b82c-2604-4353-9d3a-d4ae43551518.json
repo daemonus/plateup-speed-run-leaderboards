@@ -1,0 +1,34 @@
+{
+  "id": "de94b82c-2604-4353-9d3a-d4ae43551518",
+  "persona": "CPRV",
+  "names": [
+    "CPRV"
+  ],
+  "runs": 2,
+  "bestRank": 296,
+  "worstRank": 1107,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5381830,
+  "weeksActive": [
+    92,
+    93
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1107,
+      "ms": 5914128,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 296,
+      "ms": 5381830,
+      "dish": "Salad"
+    }
+  ]
+}

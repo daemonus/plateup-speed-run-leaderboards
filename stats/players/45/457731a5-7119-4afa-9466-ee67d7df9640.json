@@ -4,7 +4,7 @@
   "names": [
     "Starsayr"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 11,
   "worstRank": 385,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     84,
     85,
     86,
-    88
+    88,
+    93
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 158,
       "ms": 3144870,
       "dish": "Pies"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 135,
+      "ms": 3627296,
+      "dish": "Salad"
     }
   ]
 }

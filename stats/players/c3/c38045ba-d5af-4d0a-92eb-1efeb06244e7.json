@@ -4,7 +4,7 @@
   "names": [
     "petiten00b"
   ],
-  "runs": 67,
+  "runs": 68,
   "bestRank": 16,
   "worstRank": 328,
   "firstPlaces": 0,
@@ -78,7 +78,8 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -549,6 +550,13 @@
       "rank": 30,
       "ms": 1859812,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 57,
+      "ms": 2820243,
+      "dish": "Salad"
     }
   ]
 }

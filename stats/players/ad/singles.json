@@ -1228,12 +1228,12 @@
       "D1stortedV1s1on"
     ],
     "runs": 1,
-    "bestRank": 264,
-    "worstRank": 264,
+    "bestRank": 91,
+    "worstRank": 91,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
-    "bestMs": 5264716,
+    "bestMs": 3160135,
     "weeksActive": [
       93
     ],
@@ -1241,8 +1241,8 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 264,
-        "ms": 5264716,
+        "rank": 91,
+        "ms": 3160135,
         "dish": "Salad"
       }
     ]
@@ -2726,32 +2726,6 @@
         "rank": 507,
         "ms": 6055350,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "adbdbec4-77d3-44bb-84c6-0c403487082f",
-    "persona": "ikutu192",
-    "names": [
-      "ikutu192"
-    ],
-    "runs": 1,
-    "bestRank": 181,
-    "worstRank": 181,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2938218,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 181,
-        "ms": 2938218,
-        "dish": "Fish"
       }
     ]
   },

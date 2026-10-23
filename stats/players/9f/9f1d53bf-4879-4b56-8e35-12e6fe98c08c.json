@@ -4,7 +4,7 @@
   "names": [
     "Lil_Kinky_Pinata"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 137,
   "worstRank": 364,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     79,
     86,
     88,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 294,
       "ms": 3384389,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 185,
+      "ms": 4171847,
+      "dish": "Salad"
     }
   ]
 }

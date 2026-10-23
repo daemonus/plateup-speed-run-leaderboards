@@ -1118,6 +1118,32 @@
     ]
   },
   {
+    "id": "3c655dd0-b579-4028-b4f5-d3647b734239",
+    "persona": "\u9AD8\u5E0C\u97F3\u5A1C",
+    "names": [
+      "\u9AD8\u5E0C\u97F3\u5A1C"
+    ],
+    "runs": 1,
+    "bestRank": 258,
+    "worstRank": 258,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4909331,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 258,
+        "ms": 4909331,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "3c70fe07-b7af-4687-8dd7-76ed8fea1adf",
     "persona": "\u594B\u53D1\u56FE\u5F3A\u9648\u4E8C\u72D7",
     "names": [
@@ -2060,8 +2086,8 @@
       "mida520"
     ],
     "runs": 1,
-    "bestRank": 175,
-    "worstRank": 175,
+    "bestRank": 191,
+    "worstRank": 191,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2099,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 175,
+        "rank": 191,
         "ms": 4218932,
         "dish": "Salad"
       }

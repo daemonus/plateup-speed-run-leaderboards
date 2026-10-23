@@ -2964,6 +2964,32 @@
     ]
   },
   {
+    "id": "70d5abf2-0589-42de-a97c-330ec5ed802c",
+    "persona": "3144609358",
+    "names": [
+      "3144609358"
+    ],
+    "runs": 1,
+    "bestRank": 341,
+    "worstRank": 341,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6556212,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 341,
+        "ms": 6556212,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "70d6d2b8-fb18-4733-a785-e2025f90e739",
     "persona": "ziratia",
     "names": [
@@ -3074,8 +3100,8 @@
       "yat61016"
     ],
     "runs": 1,
-    "bestRank": 188,
-    "worstRank": 188,
+    "bestRank": 204,
+    "worstRank": 204,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3087,7 +3113,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 188,
+        "rank": 204,
         "ms": 4298935,
         "dish": "Salad"
       }

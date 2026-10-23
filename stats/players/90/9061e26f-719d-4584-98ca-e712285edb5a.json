@@ -4,7 +4,7 @@
   "names": [
     "\u0C07\u25DD\u203F\u25DC\u0C07"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 118,
   "worstRank": 201,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     88,
     89,
     90,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 201,
       "ms": 4449339,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 144,
+      "ms": 3768624,
+      "dish": "Salad"
     }
   ]
 }

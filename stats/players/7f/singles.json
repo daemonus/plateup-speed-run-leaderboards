@@ -2554,8 +2554,8 @@
       "Schizo"
     ],
     "runs": 1,
-    "bestRank": 239,
-    "worstRank": 239,
+    "bestRank": 256,
+    "worstRank": 256,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2567,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 239,
+        "rank": 256,
         "ms": 4894960,
         "dish": "Salad"
       }
@@ -2596,6 +2596,32 @@
         "rank": 796,
         "ms": 4701905,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "7fafed61-2a70-4714-acb8-5e22288fd92a",
+    "persona": "hi1117karu",
+    "names": [
+      "hi1117karu"
+    ],
+    "runs": 1,
+    "bestRank": 187,
+    "worstRank": 187,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4189702,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 187,
+        "ms": 4189702,
+        "dish": "Salad"
       }
     ]
   },

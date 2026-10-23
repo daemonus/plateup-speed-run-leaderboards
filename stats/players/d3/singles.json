@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "d30ab69d-b145-431d-b7d4-2bdf2c9465b9",
+    "persona": "\u6709\u5BB9",
+    "names": [
+      "\u6709\u5BB9"
+    ],
+    "runs": 1,
+    "bestRank": 274,
+    "worstRank": 274,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5147752,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 274,
+        "ms": 5147752,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "d30b699d-9615-49b0-8a7b-2043630cf3b3",
     "persona": "Ikarus",
     "names": [
@@ -2528,8 +2554,8 @@
       "mika"
     ],
     "runs": 1,
-    "bestRank": 218,
-    "worstRank": 218,
+    "bestRank": 234,
+    "worstRank": 234,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 218,
+        "rank": 234,
         "ms": 4588912,
         "dish": "Salad"
       }

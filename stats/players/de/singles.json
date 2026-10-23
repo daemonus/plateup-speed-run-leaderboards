@@ -1872,32 +1872,6 @@
     ]
   },
   {
-    "id": "de94b82c-2604-4353-9d3a-d4ae43551518",
-    "persona": "CPRV",
-    "names": [
-      "CPRV"
-    ],
-    "runs": 1,
-    "bestRank": 1107,
-    "worstRank": 1107,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5914128,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 1107,
-        "ms": 5914128,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "de9552fa-cd18-4c28-b3d2-c10b656b52ac",
     "persona": "Svenn",
     "names": [
@@ -2440,6 +2414,32 @@
         "rank": 399,
         "ms": 3382435,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "deba5967-97b4-440f-9419-561f347a88eb",
+    "persona": "\u4E3A\u667A\u6167\u4EBA\u6C11\u670D\u52A1",
+    "names": [
+      "\u4E3A\u667A\u6167\u4EBA\u6C11\u670D\u52A1"
+    ],
+    "runs": 1,
+    "bestRank": 287,
+    "worstRank": 287,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5307642,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 287,
+        "ms": 5307642,
+        "dish": "Salad"
       }
     ]
   },

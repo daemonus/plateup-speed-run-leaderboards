@@ -1072,8 +1072,8 @@
       "rao.enzo"
     ],
     "runs": 1,
-    "bestRank": 151,
-    "worstRank": 151,
+    "bestRank": 165,
+    "worstRank": 165,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1085,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 151,
+        "rank": 165,
         "ms": 3999758,
         "dish": "Salad"
       }
@@ -1800,8 +1800,8 @@
       "\u5C0F\u9E64"
     ],
     "runs": 1,
-    "bestRank": 238,
-    "worstRank": 238,
+    "bestRank": 255,
+    "worstRank": 255,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1813,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 238,
+        "rank": 255,
         "ms": 4890569,
         "dish": "Salad"
       }
@@ -2596,6 +2596,32 @@
         "rank": 583,
         "ms": 3452305,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "a2c5b790-a99a-48a3-8a52-42e6dbe2528e",
+    "persona": "cassie",
+    "names": [
+      "cassie"
+    ],
+    "runs": 1,
+    "bestRank": 269,
+    "worstRank": 269,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5046118,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 269,
+        "ms": 5046118,
+        "dish": "Salad"
       }
     ]
   },
