@@ -4,18 +4,19 @@
   "names": [
     "Nostraa"
   ],
-  "runs": 4,
-  "bestRank": 227,
+  "runs": 5,
+  "bestRank": 141,
   "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3811351,
+  "bestMs": 3595633,
   "weeksActive": [
     16,
     28,
     44,
-    47
+    47,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 307,
       "ms": 4473099,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 141,
+      "ms": 3595633,
+      "dish": "Salad"
     }
   ]
 }

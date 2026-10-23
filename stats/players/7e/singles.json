@@ -1456,6 +1456,32 @@
     ]
   },
   {
+    "id": "7e6453ae-1bf2-405e-a733-891078b0cc7d",
+    "persona": "atheuxM",
+    "names": [
+      "atheuxM"
+    ],
+    "runs": 1,
+    "bestRank": 149,
+    "worstRank": 149,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3637906,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 149,
+        "ms": 3637906,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "7e6988c8-6fde-4661-b046-9e3620dd0cf3",
     "persona": "hiromu.0530",
     "names": [
@@ -2840,8 +2866,8 @@
       "lord"
     ],
     "runs": 1,
-    "bestRank": 238,
-    "worstRank": 238,
+    "bestRank": 263,
+    "worstRank": 263,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2879,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 238,
+        "rank": 263,
         "ms": 4647949,
         "dish": "Salad"
       }

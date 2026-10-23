@@ -1332,8 +1332,8 @@
       "RJ"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 225,
+    "worstRank": 225,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 202,
+        "rank": 225,
         "ms": 4292547,
         "dish": "Salad"
       }
@@ -1774,8 +1774,8 @@
       "\u5955"
     ],
     "runs": 1,
-    "bestRank": 281,
-    "worstRank": 281,
+    "bestRank": 314,
+    "worstRank": 314,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1787,7 +1787,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 281,
+        "rank": 314,
         "ms": 5224751,
         "dish": "Salad"
       }
@@ -2882,6 +2882,32 @@
         "rank": 697,
         "ms": 3441720,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "15fcf2c2-1409-4ad3-99a0-a20c96d191cc",
+    "persona": "Roboute Guilliman\u0027s loyal dog",
+    "names": [
+      "Roboute Guilliman\u0027s loyal dog"
+    ],
+    "runs": 1,
+    "bestRank": 281,
+    "worstRank": 281,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4839931,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 281,
+        "ms": 4839931,
+        "dish": "Salad"
       }
     ]
   },

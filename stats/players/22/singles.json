@@ -390,6 +390,32 @@
     ]
   },
   {
+    "id": "2223a5b4-1c75-416e-ad77-a98a28cb43ed",
+    "persona": "jutexx",
+    "names": [
+      "jutexx"
+    ],
+    "runs": 1,
+    "bestRank": 352,
+    "worstRank": 352,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5662471,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 352,
+        "ms": 5662471,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "2224edfa-e315-473a-8ddf-d4e19b7854eb",
     "persona": "TooHuman",
     "names": [
@@ -1452,6 +1478,32 @@
         "rank": 223,
         "ms": 3634879,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "228cfb00-05e6-4c33-ac38-316f2d2d52fd",
+    "persona": "inhalexhale",
+    "names": [
+      "inhalexhale"
+    ],
+    "runs": 1,
+    "bestRank": 148,
+    "worstRank": 148,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3634230,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 148,
+        "ms": 3634230,
+        "dish": "Salad"
       }
     ]
   },

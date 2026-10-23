@@ -1,16 +1,16 @@
 {
-  "id": "68810f27-9c8d-4bdc-8f99-4f9caeaab95a",
-  "persona": "Elina",
+  "id": "65956ed6-1989-4bb3-914a-b2649dc59ac0",
+  "persona": "Mask.",
   "names": [
-    "Elina"
+    "Mask."
   ],
   "runs": 2,
-  "bestRank": 328,
-  "worstRank": 943,
+  "bestRank": 136,
+  "worstRank": 433,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5108677,
+  "bestMs": 3558956,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 943,
-      "ms": 5108677,
+      "rank": 433,
+      "ms": 3815203,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 328,
-      "ms": 6175789,
+      "rank": 136,
+      "ms": 3558956,
       "dish": "Salad"
     }
   ]

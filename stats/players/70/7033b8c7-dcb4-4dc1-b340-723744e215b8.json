@@ -4,7 +4,7 @@
   "names": [
     "Pushur59"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 177,
   "worstRank": 772,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     64,
     89,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 772,
       "ms": 4641695,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 276,
+      "ms": 4778435,
+      "dish": "Salad"
     }
   ]
 }

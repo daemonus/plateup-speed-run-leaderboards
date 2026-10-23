@@ -1898,6 +1898,32 @@
     ]
   },
   {
+    "id": "f6952743-748d-4587-afdb-c0132203ab69",
+    "persona": "labbit",
+    "names": [
+      "labbit"
+    ],
+    "runs": 1,
+    "bestRank": 338,
+    "worstRank": 338,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5434897,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 338,
+        "ms": 5434897,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "f6963d0c-400f-4d0b-93a0-fd7133f9fc66",
     "persona": "Pingu on a Motorcycle",
     "names": [
@@ -2086,8 +2112,8 @@
       "Falling Down"
     ],
     "runs": 1,
-    "bestRank": 250,
-    "worstRank": 250,
+    "bestRank": 278,
+    "worstRank": 278,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 250,
+        "rank": 278,
         "ms": 4800818,
         "dish": "Salad"
       }

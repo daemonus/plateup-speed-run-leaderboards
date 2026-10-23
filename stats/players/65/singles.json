@@ -1306,8 +1306,8 @@
       "koivie"
     ],
     "runs": 1,
-    "bestRank": 161,
-    "worstRank": 161,
+    "bestRank": 181,
+    "worstRank": 181,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 161,
+        "rank": 181,
         "ms": 3976228,
         "dish": "Salad"
       }
@@ -1400,32 +1400,6 @@
         "rank": 347,
         "ms": 5515990,
         "dish": "Salad"
-      }
-    ]
-  },
-  {
-    "id": "65956ed6-1989-4bb3-914a-b2649dc59ac0",
-    "persona": "Mask.",
-    "names": [
-      "Mask."
-    ],
-    "runs": 1,
-    "bestRank": 433,
-    "worstRank": 433,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3815203,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 433,
-        "ms": 3815203,
-        "dish": "Fish"
       }
     ]
   },

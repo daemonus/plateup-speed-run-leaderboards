@@ -1664,6 +1664,32 @@
     ]
   },
   {
+    "id": "dd7dd3fc-48d5-45d6-9f50-8c4c2a45ac0c",
+    "persona": "minilemon",
+    "names": [
+      "minilemon"
+    ],
+    "runs": 1,
+    "bestRank": 305,
+    "worstRank": 305,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5118851,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 305,
+        "ms": 5118851,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "dd7df15d-a5d1-4417-8443-adc2b664dcd5",
     "persona": "Deam",
     "names": [
@@ -1774,8 +1800,8 @@
       "puchi"
     ],
     "runs": 1,
-    "bestRank": 222,
-    "worstRank": 222,
+    "bestRank": 246,
+    "worstRank": 246,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1787,7 +1813,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 222,
+        "rank": 246,
         "ms": 4408578,
         "dish": "Salad"
       }
@@ -2320,8 +2346,8 @@
       "\u6C5F\u5E74"
     ],
     "runs": 1,
-    "bestRank": 147,
-    "worstRank": 147,
+    "bestRank": 164,
+    "worstRank": 164,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 147,
+        "rank": 164,
         "ms": 3796726,
         "dish": "Salad"
       }

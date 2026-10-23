@@ -832,32 +832,6 @@
     ]
   },
   {
-    "id": "443a82b2-20ac-45fe-b459-56066ab4e37d",
-    "persona": "jenny200220135",
-    "names": [
-      "jenny200220135"
-    ],
-    "runs": 1,
-    "bestRank": 1234,
-    "worstRank": 1234,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 11709498,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 1234,
-        "ms": 11709498,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "443bf393-ba29-4d11-9907-4a98f84f7471",
     "persona": "PandaComeGetMe",
     "names": [
@@ -2606,8 +2580,8 @@
       "Nopperabou"
     ],
     "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
+    "bestRank": 280,
+    "worstRank": 280,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2619,7 +2593,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 252,
+        "rank": 280,
         "ms": 4818781,
         "dish": "Salad"
       }

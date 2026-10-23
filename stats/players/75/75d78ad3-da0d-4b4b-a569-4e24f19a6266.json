@@ -4,7 +4,7 @@
   "names": [
     "hipposnavos"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 10,
   "worstRank": 280,
   "firstPlaces": 0,
@@ -34,7 +34,8 @@
     86,
     88,
     90,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 11,
       "ms": 1971561,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 14,
+      "ms": 1981889,
+      "dish": "Salad"
     }
   ]
 }

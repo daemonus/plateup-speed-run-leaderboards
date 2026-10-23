@@ -4,7 +4,7 @@
   "names": [
     "kilo3700"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 90,
   "worstRank": 500,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     -21,
     -20,
     -16,
-    -12
+    -12,
+    93
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 164,
       "ms": 3327672,
       "dish": "Breakfast"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 151,
+      "ms": 3661356,
+      "dish": "Salad"
     }
   ]
 }

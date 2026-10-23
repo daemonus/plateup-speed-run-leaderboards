@@ -4,7 +4,7 @@
   "names": [
     "ClerionLex [GER]"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 30,
   "worstRank": 257,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     88,
     89,
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 257,
       "ms": 3227603,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 49,
+      "ms": 2675038,
+      "dish": "Salad"
     }
   ]
 }

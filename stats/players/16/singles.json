@@ -2372,8 +2372,8 @@
       "C\u00E9lyia"
     ],
     "runs": 1,
-    "bestRank": 279,
-    "worstRank": 279,
+    "bestRank": 312,
+    "worstRank": 312,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2385,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 279,
+        "rank": 312,
         "ms": 5201433,
         "dish": "Salad"
       }
@@ -2934,6 +2934,32 @@
         "rank": 359,
         "ms": 3815473,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "16f6edb1-d4d0-42fd-8333-919def15b3ee",
+    "persona": "MGD",
+    "names": [
+      "MGD"
+    ],
+    "runs": 1,
+    "bestRank": 131,
+    "worstRank": 131,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3496603,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 131,
+        "ms": 3496603,
+        "dish": "Salad"
       }
     ]
   },

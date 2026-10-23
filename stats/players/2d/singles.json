@@ -292,8 +292,8 @@
       "R1CE CO0KER"
     ],
     "runs": 1,
-    "bestRank": 101,
-    "worstRank": 101,
+    "bestRank": 107,
+    "worstRank": 107,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 101,
+        "rank": 107,
         "ms": 3254133,
         "dish": "Salad"
       }
@@ -1036,6 +1036,32 @@
         "rank": 161,
         "ms": 3089999,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "2d514281-6b93-4ab6-adf6-b4fa2c57ae5f",
+    "persona": "TheSadGame",
+    "names": [
+      "TheSadGame"
+    ],
+    "runs": 1,
+    "bestRank": 289,
+    "worstRank": 289,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4939092,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 289,
+        "ms": 4939092,
+        "dish": "Salad"
       }
     ]
   },
@@ -2310,6 +2336,32 @@
         "rank": 410,
         "ms": 3642884,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "2db6a570-9ed9-481f-969f-d4ae23437367",
+    "persona": "thijsvrij05",
+    "names": [
+      "thijsvrij05"
+    ],
+    "runs": 1,
+    "bestRank": 172,
+    "worstRank": 172,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3875475,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 172,
+        "ms": 3875475,
+        "dish": "Salad"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "\u5DF4\u5FB7\u59C6\u5E7C\u5152\u5712\u7562\u696D\u4EE3\u8868"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 54,
   "worstRank": 440,
   "firstPlaces": 0,
@@ -36,7 +36,8 @@
     -17,
     -16,
     -15,
-    11
+    11,
+    93
   ],
   "history": [
     {
@@ -212,6 +213,13 @@
       "start": "2025-03-24",
       "rank": 101,
       "ms": 2942052,
+      "dish": "Salad"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 80,
+      "ms": 3014700,
       "dish": "Salad"
     }
   ]

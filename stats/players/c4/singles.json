@@ -1202,8 +1202,8 @@
       "Kittysoftpaaaws"
     ],
     "runs": 1,
-    "bestRank": 156,
-    "worstRank": 156,
+    "bestRank": 176,
+    "worstRank": 176,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 156,
+        "rank": 176,
         "ms": 3926482,
         "dish": "Salad"
       }
@@ -1878,8 +1878,8 @@
       "HugglesNL"
     ],
     "runs": 1,
-    "bestRank": 244,
-    "worstRank": 244,
+    "bestRank": 270,
+    "worstRank": 270,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1891,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 244,
+        "rank": 270,
         "ms": 4716123,
         "dish": "Salad"
       }
@@ -2310,6 +2310,32 @@
         "rank": 326,
         "ms": 2849863,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c4b34ef5-790d-42ae-84a9-0545976dd8f3",
+    "persona": "Incraylex",
+    "names": [
+      "Incraylex"
+    ],
+    "runs": 1,
+    "bestRank": 336,
+    "worstRank": 336,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5416814,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 336,
+        "ms": 5416814,
+        "dish": "Salad"
       }
     ]
   },
