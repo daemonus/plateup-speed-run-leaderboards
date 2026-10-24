@@ -4,7 +4,7 @@
   "names": [
     "Vestele"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 63,
   "worstRank": 455,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     74,
     75,
     76,
-    77
+    77,
+    93
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 151,
       "ms": 2340811,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 255,
+      "ms": 4206973,
+      "dish": "Salad"
     }
   ]
 }

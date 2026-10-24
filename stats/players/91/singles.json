@@ -162,8 +162,8 @@
       "Gilbert Bougainvillea"
     ],
     "runs": 1,
-    "bestRank": 145,
-    "worstRank": 145,
+    "bestRank": 162,
+    "worstRank": 162,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 145,
+        "rank": 162,
         "ms": 3559111,
         "dish": "Salad"
       }
@@ -2466,6 +2466,32 @@
         "rank": 1575,
         "ms": 2842846,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "91af6a71-fe31-48b1-a9e9-236fb9f684f5",
+    "persona": "papidacbiet",
+    "names": [
+      "papidacbiet"
+    ],
+    "runs": 1,
+    "bestRank": 230,
+    "worstRank": 230,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4064467,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 230,
+        "ms": 4064467,
+        "dish": "Salad"
       }
     ]
   },

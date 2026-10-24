@@ -4,7 +4,7 @@
   "names": [
     "ellentee"
   ],
-  "runs": 82,
+  "runs": 83,
   "bestRank": 1,
   "worstRank": 1658,
   "firstPlaces": 1,
@@ -93,7 +93,8 @@
     69,
     72,
     84,
-    85
+    85,
+    93
   ],
   "history": [
     {
@@ -669,6 +670,13 @@
       "rank": 8,
       "ms": 1382118,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 13,
+      "ms": 1885948,
+      "dish": "Salad"
     }
   ]
 }

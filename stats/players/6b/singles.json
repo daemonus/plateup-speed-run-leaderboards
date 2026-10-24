@@ -754,6 +754,32 @@
     ]
   },
   {
+    "id": "6b337460-2f55-413f-bd91-cea011231c29",
+    "persona": "DomiNo",
+    "names": [
+      "DomiNo"
+    ],
+    "runs": 1,
+    "bestRank": 429,
+    "worstRank": 429,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5620320,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 429,
+        "ms": 5620320,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "6b357e89-dabd-4690-80d8-dd61f2683319",
     "persona": "Dooori",
     "names": [
@@ -994,8 +1020,8 @@
       "\u517B\u6B96\u6237"
     ],
     "runs": 1,
-    "bestRank": 282,
-    "worstRank": 282,
+    "bestRank": 315,
+    "worstRank": 315,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1007,7 +1033,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 282,
+        "rank": 315,
         "ms": 4571665,
         "dish": "Salad"
       }

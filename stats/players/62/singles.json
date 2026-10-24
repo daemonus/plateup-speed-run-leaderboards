@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "621fff12-5f86-4998-b5a0-5f2e515cf3be",
+    "persona": "che",
+    "names": [
+      "che"
+    ],
+    "runs": 1,
+    "bestRank": 332,
+    "worstRank": 332,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4756891,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 332,
+        "ms": 4756891,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "62206a09-0acb-4974-b728-a2172e428424",
     "persona": "GrizzlyNight",
     "names": [
@@ -1800,8 +1826,8 @@
       "miliezer"
     ],
     "runs": 1,
-    "bestRank": 165,
-    "worstRank": 165,
+    "bestRank": 183,
+    "worstRank": 183,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1839,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 165,
+        "rank": 183,
         "ms": 3680547,
         "dish": "Salad"
       }
@@ -2684,8 +2710,8 @@
       "Makit"
     ],
     "runs": 1,
-    "bestRank": 281,
-    "worstRank": 281,
+    "bestRank": 314,
+    "worstRank": 314,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 281,
+        "rank": 314,
         "ms": 4569508,
         "dish": "Salad"
       }

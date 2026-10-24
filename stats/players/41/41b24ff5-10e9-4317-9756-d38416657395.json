@@ -4,8 +4,8 @@
   "names": [
     "ilufa"
   ],
-  "runs": 2,
-  "bestRank": 417,
+  "runs": 3,
+  "bestRank": 395,
   "worstRank": 470,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3467681,
   "weeksActive": [
     57,
-    86
+    86,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 417,
       "ms": 3467681,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 395,
+      "ms": 5290685,
+      "dish": "Salad"
     }
   ]
 }

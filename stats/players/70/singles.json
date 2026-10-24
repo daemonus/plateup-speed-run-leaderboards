@@ -1664,6 +1664,32 @@
     ]
   },
   {
+    "id": "707bdcc7-9f1b-4a03-bc71-4f6e5f7c9596",
+    "persona": "Warmwinter",
+    "names": [
+      "Warmwinter"
+    ],
+    "runs": 1,
+    "bestRank": 98,
+    "worstRank": 98,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3108101,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 98,
+        "ms": 3108101,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "707d4efc-c541-43de-8b86-a41ae72e4575",
     "persona": "yukihiro_kaito",
     "names": [
@@ -3074,8 +3100,8 @@
       "yat61016"
     ],
     "runs": 1,
-    "bestRank": 246,
-    "worstRank": 246,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3087,7 +3113,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 246,
+        "rank": 273,
         "ms": 4298935,
         "dish": "Salad"
       }

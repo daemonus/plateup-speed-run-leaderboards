@@ -1930,8 +1930,8 @@
       "\u0442\u043E\u043A\u0441\u0438\u043A"
     ],
     "runs": 1,
-    "bestRank": 393,
-    "worstRank": 393,
+    "bestRank": 442,
+    "worstRank": 442,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1943,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 393,
+        "rank": 442,
         "ms": 5866309,
         "dish": "Salad"
       }
@@ -3038,6 +3038,32 @@
         "rank": 58,
         "ms": 2195961,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "6dd3ac66-71e0-4dfa-a9ff-0906d887f1dd",
+    "persona": "YYLL",
+    "names": [
+      "YYLL"
+    ],
+    "runs": 1,
+    "bestRank": 359,
+    "worstRank": 359,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4975371,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 359,
+        "ms": 4975371,
+        "dish": "Salad"
       }
     ]
   },

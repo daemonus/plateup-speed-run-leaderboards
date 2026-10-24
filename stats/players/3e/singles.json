@@ -1404,32 +1404,6 @@
     ]
   },
   {
-    "id": "3e4f25d3-a458-499d-8720-3bd8538685c1",
-    "persona": "yanagi",
-    "names": [
-      "yanagi"
-    ],
-    "runs": 1,
-    "bestRank": 213,
-    "worstRank": 213,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3160667,
-    "weeksActive": [
-      90
-    ],
-    "history": [
-      {
-        "week": 90,
-        "start": "2026-09-28",
-        "rank": 213,
-        "ms": 3160667,
-        "dish": "Sundaes"
-      }
-    ]
-  },
-  {
     "id": "3e4fb7f2-dd1d-49f4-bb3a-4ad789c67eff",
     "persona": "louiswu",
     "names": [
@@ -1488,8 +1462,8 @@
       "Running Dutchman"
     ],
     "runs": 1,
-    "bestRank": 352,
-    "worstRank": 352,
+    "bestRank": 394,
+    "worstRank": 394,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1475,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 352,
+        "rank": 394,
         "ms": 5279785,
         "dish": "Salad"
       }

@@ -1092,6 +1092,32 @@
     ]
   },
   {
+    "id": "a949786c-7b37-4116-8c35-795c424a4fdf",
+    "persona": "\u5C0F\u9C7C",
+    "names": [
+      "\u5C0F\u9C7C"
+    ],
+    "runs": 1,
+    "bestRank": 441,
+    "worstRank": 441,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5859875,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 441,
+        "ms": 5859875,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "a94c5eb0-d68d-476c-b8b1-73f25d5f7089",
     "persona": "alyssalynursal",
     "names": [
@@ -2554,8 +2580,8 @@
       "Hill_n02"
     ],
     "runs": 1,
-    "bestRank": 332,
-    "worstRank": 332,
+    "bestRank": 372,
+    "worstRank": 372,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2593,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 332,
+        "rank": 372,
         "ms": 5111976,
         "dish": "Salad"
       }

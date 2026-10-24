@@ -1,16 +1,16 @@
 {
-  "id": "68810f27-9c8d-4bdc-8f99-4f9caeaab95a",
-  "persona": "Elina",
+  "id": "fb11e3d2-6c46-4f43-afde-7e615c465ebd",
+  "persona": "Jay",
   "names": [
-    "Elina"
+    "Jay"
   ],
   "runs": 2,
-  "bestRank": 409,
-  "worstRank": 943,
+  "bestRank": 95,
+  "worstRank": 194,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5108677,
+  "bestMs": 2998532,
   "weeksActive": [
     92,
     93
@@ -19,15 +19,15 @@
     {
       "week": 92,
       "start": "2026-10-12",
-      "rank": 943,
-      "ms": 5108677,
+      "rank": 194,
+      "ms": 2998532,
       "dish": "Fish"
     },
     {
       "week": 93,
       "start": "2026-10-19",
-      "rank": 409,
-      "ms": 6175789,
+      "rank": 95,
+      "ms": 3090160,
       "dish": "Salad"
     }
   ]

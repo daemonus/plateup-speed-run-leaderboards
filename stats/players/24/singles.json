@@ -864,8 +864,8 @@
       "DR.grossMERDE"
     ],
     "runs": 1,
-    "bestRank": 257,
-    "worstRank": 257,
+    "bestRank": 285,
+    "worstRank": 285,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 257,
+        "rank": 285,
         "ms": 4372256,
         "dish": "Salad"
       }
@@ -1582,6 +1582,32 @@
         "rank": 699,
         "ms": 10858975,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "248112b4-5edb-4941-95b4-502cbca42c14",
+    "persona": "13417637960",
+    "names": [
+      "13417637960"
+    ],
+    "runs": 1,
+    "bestRank": 235,
+    "worstRank": 235,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4095295,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 235,
+        "ms": 4095295,
+        "dish": "Salad"
       }
     ]
   },

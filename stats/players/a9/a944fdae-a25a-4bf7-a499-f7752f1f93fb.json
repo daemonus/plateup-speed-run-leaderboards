@@ -4,9 +4,9 @@
   "names": [
     "Matrix"
   ],
-  "runs": 6,
+  "runs": 5,
   "bestRank": 196,
-  "worstRank": 407,
+  "worstRank": 360,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -16,8 +16,7 @@
     89,
     90,
     91,
-    92,
-    93
+    92
   ],
   "history": [
     {
@@ -54,13 +53,6 @@
       "rank": 360,
       "ms": 3612637,
       "dish": "Fish"
-    },
-    {
-      "week": 93,
-      "start": "2026-10-19",
-      "rank": 407,
-      "ms": 6124697,
-      "dish": "Salad"
     }
   ]
 }

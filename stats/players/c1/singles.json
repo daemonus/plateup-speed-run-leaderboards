@@ -448,8 +448,8 @@
       "Dromb"
     ],
     "runs": 1,
-    "bestRank": 169,
-    "worstRank": 169,
+    "bestRank": 188,
+    "worstRank": 188,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 169,
+        "rank": 188,
         "ms": 3696398,
         "dish": "Salad"
       }
@@ -880,6 +880,32 @@
         "rank": 390,
         "ms": 3235497,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c152daf5-17f9-43b2-9389-161891166738",
+    "persona": "329926613",
+    "names": [
+      "329926613"
+    ],
+    "runs": 1,
+    "bestRank": 348,
+    "worstRank": 348,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4894903,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 348,
+        "ms": 4894903,
+        "dish": "Salad"
       }
     ]
   },
@@ -1644,8 +1670,8 @@
       "\u897F\u897F\u6B6A\u6B6A"
     ],
     "runs": 1,
-    "bestRank": 284,
-    "worstRank": 284,
+    "bestRank": 317,
+    "worstRank": 317,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1683,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 284,
+        "rank": 317,
         "ms": 4603108,
         "dish": "Salad"
       }

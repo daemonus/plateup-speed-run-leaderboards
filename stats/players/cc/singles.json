@@ -1716,6 +1716,32 @@
     ]
   },
   {
+    "id": "cc8a35ee-8242-4231-b510-dff8b4816a88",
+    "persona": "\u0414\u0430\u0448\u0443\u043B\u044F",
+    "names": [
+      "\u0414\u0430\u0448\u0443\u043B\u044F"
+    ],
+    "runs": 1,
+    "bestRank": 437,
+    "worstRank": 437,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5745732,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 437,
+        "ms": 5745732,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "cc8f6983-804c-4af6-a15c-b0a2484aad45",
     "persona": "dou_bi",
     "names": [
@@ -2856,6 +2882,32 @@
         "rank": 418,
         "ms": 3907351,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "cce0761e-218a-4568-8c76-3e1b071b5822",
+    "persona": "Ar Paul",
+    "names": [
+      "Ar Paul"
+    ],
+    "runs": 1,
+    "bestRank": 444,
+    "worstRank": 444,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5904808,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 444,
+        "ms": 5904808,
+        "dish": "Salad"
       }
     ]
   },

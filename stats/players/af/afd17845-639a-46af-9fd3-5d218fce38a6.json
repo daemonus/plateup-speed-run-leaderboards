@@ -4,16 +4,17 @@
   "names": [
     "2923305309"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 129,
-  "worstRank": 176,
+  "worstRank": 212,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2922342,
   "weeksActive": [
     87,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 176,
       "ms": 2922342,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 212,
+      "ms": 3935621,
+      "dish": "Salad"
     }
   ]
 }

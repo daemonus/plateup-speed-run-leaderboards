@@ -4,7 +4,7 @@
   "names": [
     "eskarabajo6.0"
   ],
-  "runs": 35,
+  "runs": 36,
   "bestRank": 99,
   "worstRank": 541,
   "firstPlaces": 0,
@@ -46,7 +46,8 @@
     86,
     89,
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 150,
       "ms": 2813287,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 160,
+      "ms": 3558611,
+      "dish": "Salad"
     }
   ]
 }
