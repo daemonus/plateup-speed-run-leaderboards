@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "c124233a-27a7-4212-953f-fe24f0d9163a",
+    "persona": "Dromb",
+    "names": [
+      "Dromb"
+    ],
+    "runs": 1,
+    "bestRank": 169,
+    "worstRank": 169,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3696398,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 169,
+        "ms": 3696398,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "c125bf05-c414-45bf-a609-867e82ff6f5a",
     "persona": "BurntdeathTOAST",
     "names": [
@@ -1618,8 +1644,8 @@
       "\u897F\u897F\u6B6A\u6B6A"
     ],
     "runs": 1,
-    "bestRank": 260,
-    "worstRank": 260,
+    "bestRank": 284,
+    "worstRank": 284,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1657,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 260,
+        "rank": 284,
         "ms": 4603108,
         "dish": "Salad"
       }

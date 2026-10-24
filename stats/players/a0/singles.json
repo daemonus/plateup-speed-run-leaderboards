@@ -370,8 +370,8 @@
       "BeamInYourFace"
     ],
     "runs": 1,
-    "bestRank": 279,
-    "worstRank": 279,
+    "bestRank": 304,
+    "worstRank": 304,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 279,
+        "rank": 304,
         "ms": 4817473,
         "dish": "Salad"
       }
@@ -2622,6 +2622,32 @@
         "rank": 701,
         "ms": 6652380,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "a0ca61a6-879e-4ec4-89fd-35c738f4b8aa",
+    "persona": "gladz321",
+    "names": [
+      "gladz321"
+    ],
+    "runs": 1,
+    "bestRank": 414,
+    "worstRank": 414,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6225741,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 414,
+        "ms": 6225741,
+        "dish": "Salad"
       }
     ]
   },

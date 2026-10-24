@@ -4,16 +4,17 @@
   "names": [
     "maxene"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 118,
-  "worstRank": 147,
+  "worstRank": 199,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2803139,
   "weeksActive": [
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 147,
       "ms": 2803139,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 199,
+      "ms": 3995038,
+      "dish": "Salad"
     }
   ]
 }

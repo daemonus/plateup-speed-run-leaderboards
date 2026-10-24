@@ -4,7 +4,7 @@
   "names": [
     "GunsBlaiz"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 179,
   "worstRank": 922,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     85,
     87,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 922,
       "ms": 5063689,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 365,
+      "ms": 5363210,
+      "dish": "Salad"
     }
   ]
 }

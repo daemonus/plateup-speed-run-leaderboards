@@ -4,7 +4,7 @@
   "names": [
     "whitnack"
   ],
-  "runs": 99,
+  "runs": 100,
   "bestRank": 11,
   "worstRank": 649,
   "firstPlaces": 0,
@@ -110,7 +110,8 @@
     86,
     87,
     90,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -805,6 +806,13 @@
       "rank": 51,
       "ms": 2766377,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 125,
+      "ms": 3370990,
+      "dish": "Salad"
     }
   ]
 }

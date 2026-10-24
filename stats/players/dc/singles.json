@@ -78,6 +78,32 @@
     ]
   },
   {
+    "id": "dc08f429-ee8c-45dd-82f8-28b7ec1df7b1",
+    "persona": "t_alchemist",
+    "names": [
+      "t_alchemist"
+    ],
+    "runs": 1,
+    "bestRank": 337,
+    "worstRank": 337,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5145193,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 337,
+        "ms": 5145193,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "dc09b1bc-2aac-4379-8f1c-f65d3a340f68",
     "persona": "Maru",
     "names": [
@@ -3308,8 +3334,8 @@
       "Kenjirosan"
     ],
     "runs": 1,
-    "bestRank": 329,
-    "worstRank": 329,
+    "bestRank": 363,
+    "worstRank": 363,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3347,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 329,
+        "rank": 363,
         "ms": 5361425,
         "dish": "Salad"
       }

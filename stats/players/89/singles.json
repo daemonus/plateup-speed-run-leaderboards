@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "890ffe74-f7d5-476a-9e10-b2ec0f065fad",
+    "persona": "Pamper",
+    "names": [
+      "Pamper"
+    ],
+    "runs": 1,
+    "bestRank": 394,
+    "worstRank": 394,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5879878,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 394,
+        "ms": 5879878,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "8910f1d2-1d2d-4361-9212-551003a0f784",
     "persona": "Manzilla",
     "names": [
@@ -578,8 +604,8 @@
       "Azvelof"
     ],
     "runs": 1,
-    "bestRank": 163,
-    "worstRank": 163,
+    "bestRank": 176,
+    "worstRank": 176,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +617,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 163,
+        "rank": 176,
         "ms": 3795229,
         "dish": "Salad"
       }
@@ -604,8 +630,8 @@
       "\uC5D0\uB8E8"
     ],
     "runs": 1,
-    "bestRank": 322,
-    "worstRank": 322,
+    "bestRank": 355,
+    "worstRank": 355,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +643,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 322,
+        "rank": 355,
         "ms": 5312246,
         "dish": "Salad"
       }
@@ -2190,8 +2216,8 @@
       "DDDLDDDD"
     ],
     "runs": 1,
-    "bestRank": 135,
-    "worstRank": 135,
+    "bestRank": 143,
+    "worstRank": 143,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2203,7 +2229,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 135,
+        "rank": 143,
         "ms": 3549753,
         "dish": "Salad"
       }

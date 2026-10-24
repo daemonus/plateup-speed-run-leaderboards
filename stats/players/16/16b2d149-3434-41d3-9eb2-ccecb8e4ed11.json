@@ -4,7 +4,7 @@
   "names": [
     "Professor_PYG"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 54,
   "worstRank": 122,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     43,
     44,
     45,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 64,
       "ms": 2221894,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 76,
+      "ms": 2939136,
+      "dish": "Salad"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "uvp_vxv"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 100,
   "worstRank": 511,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     86,
     89,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 184,
       "ms": 2946538,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 174,
+      "ms": 3785301,
+      "dish": "Salad"
     }
   ]
 }

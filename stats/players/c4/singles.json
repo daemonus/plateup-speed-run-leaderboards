@@ -1202,8 +1202,8 @@
       "Kittysoftpaaaws"
     ],
     "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
+    "bestRank": 190,
+    "worstRank": 190,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 176,
+        "rank": 190,
         "ms": 3926482,
         "dish": "Salad"
       }
@@ -1404,6 +1404,32 @@
     ]
   },
   {
+    "id": "c45eab5f-da28-442e-904a-2321322c7886",
+    "persona": "kittybird",
+    "names": [
+      "kittybird"
+    ],
+    "runs": 1,
+    "bestRank": 146,
+    "worstRank": 146,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3564006,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 146,
+        "ms": 3564006,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "c45ef8b3-6a38-43e4-bfd9-52546cb5e79e",
     "persona": "Rentsch",
     "names": [
@@ -1504,6 +1530,32 @@
         "rank": 296,
         "ms": 6173248,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "c46b1871-7517-4b64-a04f-b419bc40b027",
+    "persona": "Wild Bill",
+    "names": [
+      "Wild Bill"
+    ],
+    "runs": 1,
+    "bestRank": 275,
+    "worstRank": 275,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4515842,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 275,
+        "ms": 4515842,
+        "dish": "Salad"
       }
     ]
   },
@@ -1878,8 +1930,8 @@
       "HugglesNL"
     ],
     "runs": 1,
-    "bestRank": 270,
-    "worstRank": 270,
+    "bestRank": 295,
+    "worstRank": 295,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1943,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 270,
+        "rank": 295,
         "ms": 4716123,
         "dish": "Salad"
       }
@@ -2320,8 +2372,8 @@
       "Incraylex"
     ],
     "runs": 1,
-    "bestRank": 336,
-    "worstRank": 336,
+    "bestRank": 371,
+    "worstRank": 371,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2385,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 336,
+        "rank": 371,
         "ms": 5416814,
         "dish": "Salad"
       }

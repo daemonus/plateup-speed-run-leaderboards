@@ -916,8 +916,8 @@
       "\u0417\u044F\u0431\u043B\u0438\u043A"
     ],
     "runs": 1,
-    "bestRank": 197,
-    "worstRank": 197,
+    "bestRank": 214,
+    "worstRank": 214,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 197,
+        "rank": 214,
         "ms": 4108701,
         "dish": "Salad"
       }
@@ -1712,6 +1712,32 @@
         "rank": 641,
         "ms": 3653400,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "cd847bbb-31bf-47b8-86e0-79f31b04ea6e",
+    "persona": "K\u306E.",
+    "names": [
+      "K\u306E."
+    ],
+    "runs": 1,
+    "bestRank": 397,
+    "worstRank": 397,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5925951,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 397,
+        "ms": 5925951,
+        "dish": "Salad"
       }
     ]
   },

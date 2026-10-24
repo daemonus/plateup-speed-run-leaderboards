@@ -32,8 +32,8 @@
       "SindreJohan"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 216,
+    "worstRank": 216,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 199,
+        "rank": 216,
         "ms": 4129523,
         "dish": "Salad"
       }
@@ -386,6 +386,32 @@
         "rank": 812,
         "ms": 4445815,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "521e08e7-ea6f-41a2-8046-7fcb683ee187",
+    "persona": "\u7396\u5FF5",
+    "names": [
+      "\u7396\u5FF5"
+    ],
+    "runs": 1,
+    "bestRank": 205,
+    "worstRank": 205,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4034263,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 205,
+        "ms": 4034263,
+        "dish": "Salad"
       }
     ]
   },
@@ -1202,8 +1228,8 @@
       "SheGoesRawwr"
     ],
     "runs": 1,
-    "bestRank": 288,
-    "worstRank": 288,
+    "bestRank": 315,
+    "worstRank": 315,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1241,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 288,
+        "rank": 315,
         "ms": 4910612,
         "dish": "Salad"
       }
@@ -1670,8 +1696,8 @@
       "quanghuy6e"
     ],
     "runs": 1,
-    "bestRank": 44,
-    "worstRank": 44,
+    "bestRank": 45,
+    "worstRank": 45,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1683,7 +1709,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 44,
+        "rank": 45,
         "ms": 2594731,
         "dish": "Salad"
       }

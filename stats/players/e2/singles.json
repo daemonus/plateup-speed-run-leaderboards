@@ -1332,8 +1332,8 @@
       "Belial"
     ],
     "runs": 1,
-    "bestRank": 177,
-    "worstRank": 177,
+    "bestRank": 191,
+    "worstRank": 191,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 177,
+        "rank": 191,
         "ms": 3928215,
         "dish": "Salad"
       }
@@ -2362,6 +2362,32 @@
         "rank": 582,
         "ms": 3946919,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "e2c69aeb-c690-42a6-850f-003514a7debe",
+    "persona": "Jerry",
+    "names": [
+      "Jerry"
+    ],
+    "runs": 1,
+    "bestRank": 335,
+    "worstRank": 335,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5119022,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 335,
+        "ms": 5119022,
+        "dish": "Salad"
       }
     ]
   },

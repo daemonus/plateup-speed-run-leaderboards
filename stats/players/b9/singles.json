@@ -682,8 +682,8 @@
       "alpha"
     ],
     "runs": 1,
-    "bestRank": 147,
-    "worstRank": 147,
+    "bestRank": 156,
+    "worstRank": 156,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 147,
+        "rank": 156,
         "ms": 3631753,
         "dish": "Salad"
       }
@@ -2050,6 +2050,32 @@
         "rank": 644,
         "ms": 3778312,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "b99e9aeb-4cc5-4092-8970-5a7db8f828d2",
+    "persona": "\u518D\u95F9\u5C31\u6253\u4F60",
+    "names": [
+      "\u518D\u95F9\u5C31\u6253\u4F60"
+    ],
+    "runs": 1,
+    "bestRank": 277,
+    "worstRank": 277,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4541077,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 277,
+        "ms": 4541077,
+        "dish": "Salad"
       }
     ]
   },
