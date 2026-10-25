@@ -1274,6 +1274,32 @@
     ]
   },
   {
+    "id": "ea68a7ac-bd2b-4370-a8db-fe0c08bd8a5b",
+    "persona": "Coco Puffs",
+    "names": [
+      "Coco Puffs"
+    ],
+    "runs": 1,
+    "bestRank": 250,
+    "worstRank": 250,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3991987,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 250,
+        "ms": 3991987,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "ea6c18e9-f62e-4df6-9ecc-ceba06be26f7",
     "persona": "\u59AE\u59AE\u5B50",
     "names": [
@@ -3168,32 +3194,6 @@
         "rank": 851,
         "ms": 4347964,
         "dish": "Turkey"
-      }
-    ]
-  },
-  {
-    "id": "eaf55404-0e26-4cde-9d81-ee5e0e58b35c",
-    "persona": "Liliyahorangi",
-    "names": [
-      "Liliyahorangi"
-    ],
-    "runs": 1,
-    "bestRank": 856,
-    "worstRank": 856,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4861884,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 856,
-        "ms": 4861884,
-        "dish": "Fish"
       }
     ]
   },

@@ -1384,8 +1384,8 @@
       "Yee"
     ],
     "runs": 1,
-    "bestRank": 397,
-    "worstRank": 397,
+    "bestRank": 435,
+    "worstRank": 435,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1397,7 +1397,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 397,
+        "rank": 435,
         "ms": 5128280,
         "dish": "Salad"
       }
@@ -2284,6 +2284,32 @@
         "rank": 2000,
         "ms": 3130696,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "e1b7ee4e-ed5b-4936-acc9-3492c7ee8ee7",
+    "persona": "abugraaydn",
+    "names": [
+      "abugraaydn"
+    ],
+    "runs": 1,
+    "bestRank": 456,
+    "worstRank": 456,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5290552,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 456,
+        "ms": 5290552,
+        "dish": "Salad"
       }
     ]
   },

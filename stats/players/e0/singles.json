@@ -2710,8 +2710,8 @@
       "tonaobroc"
     ],
     "runs": 1,
-    "bestRank": 247,
-    "worstRank": 247,
+    "bestRank": 268,
+    "worstRank": 268,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2723,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 247,
+        "rank": 268,
         "ms": 4087816,
         "dish": "Salad"
       }
@@ -2856,6 +2856,32 @@
         "rank": 231,
         "ms": 4897726,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "e0c8bbc4-1507-4eab-988d-382d9af1a390",
+    "persona": "\u7409\u7483\u5A03\u5A03",
+    "names": [
+      "\u7409\u7483\u5A03\u5A03"
+    ],
+    "runs": 1,
+    "bestRank": 249,
+    "worstRank": 249,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3991219,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 249,
+        "ms": 3991219,
+        "dish": "Salad"
       }
     ]
   },

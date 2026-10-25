@@ -630,8 +630,8 @@
       "\u7FB2\u548C"
     ],
     "runs": 1,
-    "bestRank": 465,
-    "worstRank": 465,
+    "bestRank": 512,
+    "worstRank": 512,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 465,
+        "rank": 512,
         "ms": 5840946,
         "dish": "Salad"
       }
@@ -2918,8 +2918,8 @@
       "YUtofu099"
     ],
     "runs": 1,
-    "bestRank": 315,
-    "worstRank": 315,
+    "bestRank": 341,
+    "worstRank": 341,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2931,7 +2931,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 315,
+        "rank": 341,
         "ms": 4476180,
         "dish": "Salad"
       }
@@ -3037,32 +3037,6 @@
         "start": "2023-05-29",
         "rank": 595,
         "ms": 4013869,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "4edc5b37-72b0-47d7-a0ac-dcd90bee0733",
-    "persona": "NOT A GOOSE",
-    "names": [
-      "NOT A GOOSE"
-    ],
-    "runs": 1,
-    "bestRank": 95,
-    "worstRank": 95,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2462874,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 95,
-        "ms": 2462874,
         "dish": "Fish"
       }
     ]

@@ -338,14 +338,40 @@
     ]
   },
   {
+    "id": "da23f04e-e22a-4ca3-a1e9-3af242793d87",
+    "persona": "X",
+    "names": [
+      "X"
+    ],
+    "runs": 1,
+    "bestRank": 601,
+    "worstRank": 601,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8977131,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 601,
+        "ms": 8977131,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "da23f49f-c70a-4563-9831-f30a57bab0cc",
     "persona": "Blu-Bread88",
     "names": [
       "Blu-Bread88"
     ],
     "runs": 1,
-    "bestRank": 516,
-    "worstRank": 516,
+    "bestRank": 569,
+    "worstRank": 569,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +383,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 516,
+        "rank": 569,
         "ms": 6716868,
         "dish": "Salad"
       }

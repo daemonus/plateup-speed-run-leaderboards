@@ -4,9 +4,9 @@
   "names": [
     "Fredcoq"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 185,
-  "worstRank": 341,
+  "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -15,
     -10,
-    26
+    26,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 269,
       "ms": 3929333,
       "dish": "Pizza"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 371,
+      "ms": 4697255,
+      "dish": "Salad"
     }
   ]
 }

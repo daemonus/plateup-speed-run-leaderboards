@@ -292,8 +292,8 @@
       "ele"
     ],
     "runs": 1,
-    "bestRank": 349,
-    "worstRank": 349,
+    "bestRank": 379,
+    "worstRank": 379,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 349,
+        "rank": 379,
         "ms": 4738682,
         "dish": "Salad"
       }
@@ -1165,32 +1165,6 @@
         "start": "2025-11-03",
         "rank": 415,
         "ms": 3132405,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "fe57c555-e670-4a06-b2e3-e7e4473b1c32",
-    "persona": "mOchiOuO",
-    "names": [
-      "mOchiOuO"
-    ],
-    "runs": 1,
-    "bestRank": 746,
-    "worstRank": 746,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4569580,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 746,
-        "ms": 4569580,
         "dish": "Fish"
       }
     ]

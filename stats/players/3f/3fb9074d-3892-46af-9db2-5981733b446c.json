@@ -4,7 +4,7 @@
   "names": [
     "Diabol_"
   ],
-  "runs": 15,
+  "runs": 16,
   "bestRank": 31,
   "worstRank": 267,
   "firstPlaces": 0,
@@ -26,7 +26,8 @@
     15,
     56,
     57,
-    64
+    64,
+    93
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 177,
       "ms": 1862268,
       "dish": "Sundaes"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 68,
+      "ms": 2738335,
+      "dish": "Salad"
     }
   ]
 }

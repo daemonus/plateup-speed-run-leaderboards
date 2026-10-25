@@ -32,8 +32,8 @@
       "SindreJohan"
     ],
     "runs": 1,
-    "bestRank": 253,
-    "worstRank": 253,
+    "bestRank": 276,
+    "worstRank": 276,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 253,
+        "rank": 276,
         "ms": 4129523,
         "dish": "Salad"
       }
@@ -396,8 +396,8 @@
       "\u7396\u5FF5"
     ],
     "runs": 1,
-    "bestRank": 239,
-    "worstRank": 239,
+    "bestRank": 260,
+    "worstRank": 260,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -409,8 +409,34 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 239,
+        "rank": 260,
         "ms": 4034263,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "52201e8a-dd4c-4034-8774-f75cfd9ede79",
+    "persona": "Me0wl\u2122 \u0D9E",
+    "names": [
+      "Me0wl\u2122 \u0D9E"
+    ],
+    "runs": 1,
+    "bestRank": 585,
+    "worstRank": 585,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7453011,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 585,
+        "ms": 7453011,
         "dish": "Salad"
       }
     ]
@@ -1228,8 +1254,8 @@
       "SheGoesRawwr"
     ],
     "runs": 1,
-    "bestRank": 372,
-    "worstRank": 372,
+    "bestRank": 405,
+    "worstRank": 405,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1267,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 372,
+        "rank": 405,
         "ms": 4910612,
         "dish": "Salad"
       }
@@ -1696,8 +1722,8 @@
       "quanghuy6e"
     ],
     "runs": 1,
-    "bestRank": 49,
-    "worstRank": 49,
+    "bestRank": 50,
+    "worstRank": 50,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1709,7 +1735,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 49,
+        "rank": 50,
         "ms": 2594731,
         "dish": "Salad"
       }

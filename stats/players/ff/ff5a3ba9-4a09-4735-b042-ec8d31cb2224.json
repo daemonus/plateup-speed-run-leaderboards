@@ -4,16 +4,17 @@
   "names": [
     "anvessa"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 183,
   "worstRank": 256,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4072921,
+  "bestMs": 3631180,
   "weeksActive": [
     34,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 183,
       "ms": 4174926,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 199,
+      "ms": 3631180,
+      "dish": "Salad"
     }
   ]
 }

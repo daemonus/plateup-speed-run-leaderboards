@@ -4,7 +4,7 @@
   "names": [
     "slayerofallevil"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 97,
   "worstRank": 279,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     89,
     90,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 97,
       "ms": 2477032,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 186,
+      "ms": 3561027,
+      "dish": "Salad"
     }
   ]
 }

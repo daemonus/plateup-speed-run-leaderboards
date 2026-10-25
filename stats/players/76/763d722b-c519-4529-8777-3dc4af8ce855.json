@@ -4,7 +4,7 @@
   "names": [
     "LadyMantis98"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 98,
   "worstRank": 211,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 1633185,
   "weeksActive": [
     86,
-    88
+    88,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 211,
       "ms": 3491382,
       "dish": "Pies"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 135,
+      "ms": 3199115,
+      "dish": "Salad"
     }
   ]
 }

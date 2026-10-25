@@ -370,8 +370,8 @@
       "\u7A3B\u82B1\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 165,
-    "worstRank": 165,
+    "bestRank": 179,
+    "worstRank": 179,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 165,
+        "rank": 179,
         "ms": 3512279,
         "dish": "Salad"
       }
@@ -2830,32 +2830,6 @@
         "rank": 395,
         "ms": 3935837,
         "dish": "Pizza"
-      }
-    ]
-  },
-  {
-    "id": "19e28143-cb36-49b3-9396-8210824e5946",
-    "persona": "\u8D77\u73A9",
-    "names": [
-      "\u8D77\u73A9"
-    ],
-    "runs": 1,
-    "bestRank": 980,
-    "worstRank": 980,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5226573,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 980,
-        "ms": 5226573,
-        "dish": "Fish"
       }
     ]
   },

@@ -4,16 +4,17 @@
   "names": [
     "GenitoBB"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 216,
-  "worstRank": 245,
+  "worstRank": 273,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 3194245,
   "weeksActive": [
     88,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 245,
       "ms": 3194245,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 273,
+      "ms": 4119387,
+      "dish": "Salad"
     }
   ]
 }

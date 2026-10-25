@@ -708,8 +708,8 @@
       "Prison Mike"
     ],
     "runs": 1,
-    "bestRank": 450,
-    "worstRank": 450,
+    "bestRank": 494,
+    "worstRank": 494,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -721,7 +721,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 450,
+        "rank": 494,
         "ms": 5576864,
         "dish": "Salad"
       }
@@ -2596,6 +2596,32 @@
         "rank": 381,
         "ms": 3774227,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "45c34483-869b-41a5-8203-2680fc13cd4a",
+    "persona": "John Shepard",
+    "names": [
+      "John Shepard"
+    ],
+    "runs": 1,
+    "bestRank": 505,
+    "worstRank": 505,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5728863,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 505,
+        "ms": 5728863,
+        "dish": "Salad"
       }
     ]
   },

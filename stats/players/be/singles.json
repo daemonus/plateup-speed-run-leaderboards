@@ -552,8 +552,8 @@
       "Mifalopulos"
     ],
     "runs": 1,
-    "bestRank": 351,
-    "worstRank": 351,
+    "bestRank": 382,
+    "worstRank": 382,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 351,
+        "rank": 382,
         "ms": 4764727,
         "dish": "Salad"
       }
@@ -1976,6 +1976,32 @@
     ]
   },
   {
+    "id": "be7c7bc3-67d6-42cd-b1d8-358956fedd7e",
+    "persona": "\u96EA\u997C",
+    "names": [
+      "\u96EA\u997C"
+    ],
+    "runs": 1,
+    "bestRank": 458,
+    "worstRank": 458,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5302903,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 458,
+        "ms": 5302903,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "be7d2e51-77ed-4648-b0fa-7451776763ab",
     "persona": "SilentOwl",
     "names": [
@@ -2934,6 +2960,32 @@
         "rank": 470,
         "ms": 2895094,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "bebba55f-029c-4d19-b089-1bb947f64788",
+    "persona": "\u6750\u6599\u6C92\u6232\u82B1",
+    "names": [
+      "\u6750\u6599\u6C92\u6232\u82B1"
+    ],
+    "runs": 1,
+    "bestRank": 560,
+    "worstRank": 560,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6546650,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 560,
+        "ms": 6546650,
+        "dish": "Salad"
       }
     ]
   },

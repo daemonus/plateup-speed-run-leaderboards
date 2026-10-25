@@ -4,7 +4,7 @@
   "names": [
     "wonderwhiskey"
   ],
-  "runs": 76,
+  "runs": 77,
   "bestRank": 27,
   "worstRank": 285,
   "firstPlaces": 0,
@@ -87,7 +87,8 @@
     -2,
     -1,
     1,
-    5
+    5,
+    93
   ],
   "history": [
     {
@@ -621,6 +622,13 @@
       "rank": 55,
       "ms": 2388681,
       "dish": "Breakfast"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 103,
+      "ms": 3005310,
+      "dish": "Salad"
     }
   ]
 }

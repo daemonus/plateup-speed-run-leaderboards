@@ -4,7 +4,7 @@
   "names": [
     "Vanzard"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 253,
   "worstRank": 862,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     90,
     91,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 862,
       "ms": 4889141,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 421,
+      "ms": 5022171,
+      "dish": "Salad"
     }
   ]
 }

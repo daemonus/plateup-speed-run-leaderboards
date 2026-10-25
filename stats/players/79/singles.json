@@ -890,8 +890,8 @@
       "titania_maia"
     ],
     "runs": 1,
-    "bestRank": 197,
-    "worstRank": 197,
+    "bestRank": 212,
+    "worstRank": 212,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 197,
+        "rank": 212,
         "ms": 3688053,
         "dish": "Salad"
       }
@@ -1150,8 +1150,8 @@
       "\u810F\u76D8\u4EA4\u7ED9\u6211\u597D\u5417\u597D\u7684"
     ],
     "runs": 1,
-    "bestRank": 501,
-    "worstRank": 501,
+    "bestRank": 552,
+    "worstRank": 552,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 501,
+        "rank": 552,
         "ms": 6336570,
         "dish": "Salad"
       }
@@ -1826,8 +1826,8 @@
       "\u732B\u4E03ii"
     ],
     "runs": 1,
-    "bestRank": 421,
-    "worstRank": 421,
+    "bestRank": 462,
+    "worstRank": 462,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 421,
+        "rank": 462,
         "ms": 5323403,
         "dish": "Salad"
       }
@@ -3380,6 +3380,32 @@
     ]
   },
   {
+    "id": "79effc1c-5bfc-4897-880e-d4fb6fda725d",
+    "persona": "\u521D\u4E5D\u5927\u738B",
+    "names": [
+      "\u521D\u4E5D\u5927\u738B"
+    ],
+    "runs": 1,
+    "bestRank": 555,
+    "worstRank": 555,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6378642,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 555,
+        "ms": 6378642,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "79f0b251-dac0-4e36-bad3-ca7dc6f4ce7b",
     "persona": "LePikachu",
     "names": [
@@ -3438,8 +3464,8 @@
       "The Crimson King"
     ],
     "runs": 1,
-    "bestRank": 385,
-    "worstRank": 385,
+    "bestRank": 423,
+    "worstRank": 423,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3451,7 +3477,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 385,
+        "rank": 423,
         "ms": 5023628,
         "dish": "Salad"
       }

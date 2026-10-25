@@ -1722,8 +1722,8 @@
       "bingus pringus"
     ],
     "runs": 1,
-    "bestRank": 100,
-    "worstRank": 100,
+    "bestRank": 109,
+    "worstRank": 109,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1735,7 +1735,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 100,
+        "rank": 109,
         "ms": 3050498,
         "dish": "Salad"
       }
@@ -1920,6 +1920,32 @@
         "rank": 158,
         "ms": 2831928,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "8f6fb8f6-227a-4a64-9a5b-94775624269e",
+    "persona": "SkyTear",
+    "names": [
+      "SkyTear"
+    ],
+    "runs": 1,
+    "bestRank": 446,
+    "worstRank": 446,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5219240,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 446,
+        "ms": 5219240,
+        "dish": "Salad"
       }
     ]
   },
@@ -2606,8 +2632,8 @@
       "\u718A\u718A"
     ],
     "runs": 1,
-    "bestRank": 495,
-    "worstRank": 495,
+    "bestRank": 546,
+    "worstRank": 546,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2619,7 +2645,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 495,
+        "rank": 546,
         "ms": 6218906,
         "dish": "Salad"
       }
@@ -2726,6 +2752,32 @@
         "rank": 956,
         "ms": 5043530,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "8fb1307b-2346-419f-8dea-f1b8fe6bcac9",
+    "persona": "\u966A\u4F60\u53BB\u770B\u7329\u7329\u96E8",
+    "names": [
+      "\u966A\u4F60\u53BB\u770B\u7329\u7329\u96E8"
+    ],
+    "runs": 1,
+    "bestRank": 539,
+    "worstRank": 539,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6168694,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 539,
+        "ms": 6168694,
+        "dish": "Salad"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "nece"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 272,
   "worstRank": 395,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3984726,
   "weeksActive": [
     59,
-    61
+    61,
+    93
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 272,
       "ms": 3984726,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 370,
+      "ms": 4684415,
+      "dish": "Salad"
     }
   ]
 }

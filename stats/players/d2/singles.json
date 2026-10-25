@@ -1976,6 +1976,32 @@
     ]
   },
   {
+    "id": "d274b3f9-3867-4a58-9b56-1471fcd31222",
+    "persona": "Glitch",
+    "names": [
+      "Glitch"
+    ],
+    "runs": 1,
+    "bestRank": 316,
+    "worstRank": 316,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4321729,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 316,
+        "ms": 4321729,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "d27741c4-c97f-40ef-a78a-2c5864b348a4",
     "persona": "BabyPanda",
     "names": [
@@ -3152,8 +3178,8 @@
       "\u6CA1\u9519\u5C31\u662F\u6211"
     ],
     "runs": 1,
-    "bestRank": 316,
-    "worstRank": 316,
+    "bestRank": 343,
+    "worstRank": 343,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3165,7 +3191,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 316,
+        "rank": 343,
         "ms": 4478782,
         "dish": "Salad"
       }

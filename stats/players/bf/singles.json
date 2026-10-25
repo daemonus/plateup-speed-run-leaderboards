@@ -786,8 +786,8 @@
       "Dark Sheep"
     ],
     "runs": 1,
-    "bestRank": 376,
-    "worstRank": 376,
+    "bestRank": 410,
+    "worstRank": 410,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -799,7 +799,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 376,
+        "rank": 410,
         "ms": 4943607,
         "dish": "Salad"
       }
@@ -2908,6 +2908,32 @@
         "rank": 451,
         "ms": 4511481,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "bfd9e2a8-8f7e-4d58-b6ea-2070855d3bfc",
+    "persona": "Omeme",
+    "names": [
+      "Omeme"
+    ],
+    "runs": 1,
+    "bestRank": 335,
+    "worstRank": 335,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4442455,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 335,
+        "ms": 4442455,
+        "dish": "Salad"
       }
     ]
   },

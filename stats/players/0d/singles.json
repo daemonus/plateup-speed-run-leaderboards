@@ -578,8 +578,8 @@
       "Wythe"
     ],
     "runs": 1,
-    "bestRank": 523,
-    "worstRank": 523,
+    "bestRank": 576,
+    "worstRank": 576,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 523,
+        "rank": 576,
         "ms": 6998788,
         "dish": "Salad"
       }
@@ -2086,8 +2086,8 @@
       "Starry"
     ],
     "runs": 1,
-    "bestRank": 486,
-    "worstRank": 486,
+    "bestRank": 534,
+    "worstRank": 534,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2099,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 486,
+        "rank": 534,
         "ms": 6042023,
         "dish": "Salad"
       }
@@ -2622,6 +2622,32 @@
         "rank": 438,
         "ms": 3133127,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "0dc0c7a7-b97c-436b-ba4a-29442b8d2014",
+    "persona": "\u8003\u62C9",
+    "names": [
+      "\u8003\u62C9"
+    ],
+    "runs": 1,
+    "bestRank": 155,
+    "worstRank": 155,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3357519,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 155,
+        "ms": 3357519,
+        "dish": "Salad"
       }
     ]
   },

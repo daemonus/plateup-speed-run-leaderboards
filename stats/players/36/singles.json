@@ -1592,8 +1592,8 @@
       "Socra"
     ],
     "runs": 1,
-    "bestRank": 478,
-    "worstRank": 478,
+    "bestRank": 526,
+    "worstRank": 526,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1605,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 478,
+        "rank": 526,
         "ms": 6008657,
         "dish": "Salad"
       }
@@ -2060,8 +2060,8 @@
       "\u5C3C\u739B\u8001\u7239"
     ],
     "runs": 1,
-    "bestRank": 404,
-    "worstRank": 404,
+    "bestRank": 442,
+    "worstRank": 442,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2073,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 404,
+        "rank": 442,
         "ms": 5193698,
         "dish": "Salad"
       }
@@ -2803,32 +2803,6 @@
         "start": "2026-01-05",
         "rank": 107,
         "ms": 2257590,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "36ab6de0-78d9-4fac-bf0b-4495e4141024",
-    "persona": "\u4E00\u5757\u70E4\u5E74\u7CD5",
-    "names": [
-      "\u4E00\u5757\u70E4\u5E74\u7CD5"
-    ],
-    "runs": 1,
-    "bestRank": 972,
-    "worstRank": 972,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5192842,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 972,
-        "ms": 5192842,
         "dish": "Fish"
       }
     ]

@@ -552,8 +552,8 @@
       "Appleandapple"
     ],
     "runs": 1,
-    "bestRank": 536,
-    "worstRank": 536,
+    "bestRank": 592,
+    "worstRank": 592,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -565,7 +565,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 536,
+        "rank": 592,
         "ms": 7754046,
         "dish": "Salad"
       }
@@ -1358,8 +1358,8 @@
       "Belial"
     ],
     "runs": 1,
-    "bestRank": 223,
-    "worstRank": 223,
+    "bestRank": 241,
+    "worstRank": 241,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1371,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 223,
+        "rank": 241,
         "ms": 3928215,
         "dish": "Salad"
       }
@@ -1400,6 +1400,32 @@
         "rank": 847,
         "ms": 3256257,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "e27b4b11-4490-45ed-9f44-5ff2eac49ddb",
+    "persona": "SleepyKitten \u2665",
+    "names": [
+      "SleepyKitten \u2665"
+    ],
+    "runs": 1,
+    "bestRank": 342,
+    "worstRank": 342,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4478230,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 342,
+        "ms": 4478230,
+        "dish": "Salad"
       }
     ]
   },
@@ -2398,8 +2424,8 @@
       "Jerry"
     ],
     "runs": 1,
-    "bestRank": 396,
-    "worstRank": 396,
+    "bestRank": 434,
+    "worstRank": 434,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 396,
+        "rank": 434,
         "ms": 5119022,
         "dish": "Salad"
       }

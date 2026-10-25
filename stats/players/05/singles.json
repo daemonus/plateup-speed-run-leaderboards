@@ -1228,8 +1228,8 @@
       "1956703097"
     ],
     "runs": 1,
-    "bestRank": 514,
-    "worstRank": 514,
+    "bestRank": 567,
+    "worstRank": 567,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 514,
+        "rank": 567,
         "ms": 6709817,
         "dish": "Salad"
       }
@@ -1456,6 +1456,32 @@
     ]
   },
   {
+    "id": "056eb20f-0eca-4481-9462-a41f9cd4bd41",
+    "persona": "Patscherl",
+    "names": [
+      "Patscherl"
+    ],
+    "runs": 1,
+    "bestRank": 214,
+    "worstRank": 214,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3713775,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 214,
+        "ms": 3713775,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "0570e010-8090-44e6-b7be-71d6fc077ca9",
     "persona": "Moonpuff",
     "names": [
@@ -1488,8 +1514,8 @@
       "\u70EB\u5934\u5C0F\u4E38\u5B50"
     ],
     "runs": 1,
-    "bestRank": 295,
-    "worstRank": 295,
+    "bestRank": 320,
+    "worstRank": 320,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1527,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 295,
+        "rank": 320,
         "ms": 4346344,
         "dish": "Salad"
       }
@@ -1764,6 +1790,32 @@
         "rank": 421,
         "ms": 5069000,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "05871cdf-ab38-4235-8a5e-7767f266834a",
+    "persona": "\u795E\u622Ea",
+    "names": [
+      "\u795E\u622Ea"
+    ],
+    "runs": 1,
+    "bestRank": 537,
+    "worstRank": 537,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6130145,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 537,
+        "ms": 6130145,
+        "dish": "Salad"
       }
     ]
   },

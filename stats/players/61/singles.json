@@ -884,6 +884,32 @@
     ]
   },
   {
+    "id": "61527233-b629-4140-bd9d-36476bfdecdd",
+    "persona": "Non State Actor",
+    "names": [
+      "Non State Actor"
+    ],
+    "runs": 1,
+    "bestRank": 281,
+    "worstRank": 281,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4153272,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 281,
+        "ms": 4153272,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "61569d0c-a799-4943-9cd7-04e1f9737760",
     "persona": "Dextless",
     "names": [
@@ -1202,8 +1228,8 @@
       "El Galvo"
     ],
     "runs": 1,
-    "bestRank": 81,
-    "worstRank": 81,
+    "bestRank": 87,
+    "worstRank": 87,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1241,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 81,
+        "rank": 87,
         "ms": 2898449,
         "dish": "Salad"
       }
@@ -2346,8 +2372,8 @@
       "Hash"
     ],
     "runs": 1,
-    "bestRank": 245,
-    "worstRank": 245,
+    "bestRank": 266,
+    "worstRank": 266,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2385,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 245,
+        "rank": 266,
         "ms": 4080675,
         "dish": "Salad"
       }
