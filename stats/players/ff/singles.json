@@ -84,8 +84,8 @@
       "Cards"
     ],
     "runs": 1,
-    "bestRank": 438,
-    "worstRank": 438,
+    "bestRank": 462,
+    "worstRank": 462,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 438,
+        "rank": 462,
         "ms": 5758939,
         "dish": "Salad"
       }
@@ -2132,14 +2132,40 @@
     ]
   },
   {
+    "id": "ff8e08c2-b07d-40c4-a5ee-2c3cd856ed6f",
+    "persona": "2196115600",
+    "names": [
+      "2196115600"
+    ],
+    "runs": 1,
+    "bestRank": 515,
+    "worstRank": 515,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6711732,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 515,
+        "ms": 6711732,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "ff904e98-7da8-45d0-8916-b92e21f09068",
     "persona": "yannick.rehn",
     "names": [
       "yannick.rehn"
     ],
     "runs": 1,
-    "bestRank": 292,
-    "worstRank": 292,
+    "bestRank": 306,
+    "worstRank": 306,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2177,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 292,
+        "rank": 306,
         "ms": 4401847,
         "dish": "Salad"
       }

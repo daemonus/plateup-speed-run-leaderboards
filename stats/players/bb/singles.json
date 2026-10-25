@@ -910,6 +910,32 @@
     ]
   },
   {
+    "id": "bb4b174c-2e0b-4d23-9f1d-ef6b8d9cca89",
+    "persona": "Gharbzadegi",
+    "names": [
+      "Gharbzadegi"
+    ],
+    "runs": 1,
+    "bestRank": 529,
+    "worstRank": 529,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7363141,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 529,
+        "ms": 7363141,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "bb4ce866-f845-4ac5-be21-4fe61817e432",
     "persona": "Michel_AuCanac",
     "names": [
@@ -2788,8 +2814,8 @@
       "Dusk"
     ],
     "runs": 1,
-    "bestRank": 258,
-    "worstRank": 258,
+    "bestRank": 272,
+    "worstRank": 272,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2801,7 +2827,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 258,
+        "rank": 272,
         "ms": 4225323,
         "dish": "Salad"
       }

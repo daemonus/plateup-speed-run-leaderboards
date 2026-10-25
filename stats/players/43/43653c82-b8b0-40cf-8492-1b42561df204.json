@@ -1,0 +1,34 @@
+{
+  "id": "43653c82-b8b0-40cf-8492-1b42561df204",
+  "persona": "rain",
+  "names": [
+    "rain"
+  ],
+  "runs": 2,
+  "bestRank": 511,
+  "worstRank": 1183,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6586307,
+  "weeksActive": [
+    92,
+    93
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1183,
+      "ms": 6849841,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 511,
+      "ms": 6586307,
+      "dish": "Salad"
+    }
+  ]
+}

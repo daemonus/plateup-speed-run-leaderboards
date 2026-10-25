@@ -214,8 +214,8 @@
       "\u6709\u5BB9"
     ],
     "runs": 1,
-    "bestRank": 378,
-    "worstRank": 378,
+    "bestRank": 399,
+    "worstRank": 399,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 378,
+        "rank": 399,
         "ms": 5147752,
         "dish": "Salad"
       }
@@ -2554,8 +2554,8 @@
       "mika"
     ],
     "runs": 1,
-    "bestRank": 316,
-    "worstRank": 316,
+    "bestRank": 330,
+    "worstRank": 330,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2567,7 +2567,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 316,
+        "rank": 330,
         "ms": 4588912,
         "dish": "Salad"
       }
@@ -2674,6 +2674,32 @@
         "rank": 392,
         "ms": 3925158,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "d3c35227-7213-4106-ac75-0577183c125c",
+    "persona": "\u5565\u90FD\u53D6\u540D\u95F2\u7684",
+    "names": [
+      "\u5565\u90FD\u53D6\u540D\u95F2\u7684"
+    ],
+    "runs": 1,
+    "bestRank": 541,
+    "worstRank": 541,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8837078,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 541,
+        "ms": 8837078,
+        "dish": "Salad"
       }
     ]
   },

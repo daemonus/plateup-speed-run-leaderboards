@@ -884,32 +884,6 @@
     ]
   },
   {
-    "id": "33434265-07e6-4aa3-8d6c-69d5b873d3fc",
-    "persona": "Venice",
-    "names": [
-      "Venice"
-    ],
-    "runs": 1,
-    "bestRank": 169,
-    "worstRank": 169,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2883220,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 169,
-        "ms": 2883220,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "3345bbf7-5bb0-4a53-9662-9cc17f00e20a",
     "persona": "Tawkea",
     "names": [
@@ -2570,6 +2544,32 @@
         "rank": 216,
         "ms": 6190854,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "33cf639b-3da9-43a1-8ab8-aa3cd686cee5",
+    "persona": "l2582839976",
+    "names": [
+      "l2582839976"
+    ],
+    "runs": 1,
+    "bestRank": 538,
+    "worstRank": 538,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8046893,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 538,
+        "ms": 8046893,
+        "dish": "Salad"
       }
     ]
   },

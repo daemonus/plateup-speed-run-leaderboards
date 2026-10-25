@@ -442,6 +442,32 @@
     ]
   },
   {
+    "id": "3122cfc4-7be8-46f6-b40d-5986a25d12f3",
+    "persona": "ShwiftySpoOks",
+    "names": [
+      "ShwiftySpoOks"
+    ],
+    "runs": 1,
+    "bestRank": 499,
+    "worstRank": 499,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6309578,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 499,
+        "ms": 6309578,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "31235113-8550-4144-8f80-39521ccbe033",
     "persona": "Owenisalake",
     "names": [
@@ -968,8 +994,8 @@
       "KnyazDmitry"
     ],
     "runs": 1,
-    "bestRank": 309,
-    "worstRank": 309,
+    "bestRank": 323,
+    "worstRank": 323,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +1007,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 309,
+        "rank": 323,
         "ms": 4525533,
         "dish": "Salad"
       }

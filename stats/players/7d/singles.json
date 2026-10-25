@@ -110,8 +110,8 @@
       "\u5C0F\u8FB0\u5728\u65E5\u5E38emo"
     ],
     "runs": 1,
-    "bestRank": 370,
-    "worstRank": 370,
+    "bestRank": 390,
+    "worstRank": 390,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 370,
+        "rank": 390,
         "ms": 5051568,
         "dish": "Salad"
       }
@@ -1920,6 +1920,32 @@
         "rank": 311,
         "ms": 2917249,
         "dish": "Steak"
+      }
+    ]
+  },
+  {
+    "id": "7d91f429-d1cc-4e59-99fd-a2b66496d697",
+    "persona": "\u5927\u9F3B\u6D95",
+    "names": [
+      "\u5927\u9F3B\u6D95"
+    ],
+    "runs": 1,
+    "bestRank": 543,
+    "worstRank": 543,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8865006,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 543,
+        "ms": 8865006,
+        "dish": "Salad"
       }
     ]
   },

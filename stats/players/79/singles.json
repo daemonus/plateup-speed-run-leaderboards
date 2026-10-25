@@ -890,8 +890,8 @@
       "titania_maia"
     ],
     "runs": 1,
-    "bestRank": 187,
-    "worstRank": 187,
+    "bestRank": 197,
+    "worstRank": 197,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 187,
+        "rank": 197,
         "ms": 3688053,
         "dish": "Salad"
       }
@@ -1140,6 +1140,32 @@
         "rank": 480,
         "ms": 5232748,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "795b81d8-9bc0-4788-a97f-f0ee434e383a",
+    "persona": "\u810F\u76D8\u4EA4\u7ED9\u6211\u597D\u5417\u597D\u7684",
+    "names": [
+      "\u810F\u76D8\u4EA4\u7ED9\u6211\u597D\u5417\u597D\u7684"
+    ],
+    "runs": 1,
+    "bestRank": 501,
+    "worstRank": 501,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6336570,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 501,
+        "ms": 6336570,
+        "dish": "Salad"
       }
     ]
   },
@@ -1800,8 +1826,8 @@
       "\u732B\u4E03ii"
     ],
     "runs": 1,
-    "bestRank": 399,
-    "worstRank": 399,
+    "bestRank": 421,
+    "worstRank": 421,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1839,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 399,
+        "rank": 421,
         "ms": 5323403,
         "dish": "Salad"
       }
@@ -3412,8 +3438,8 @@
       "The Crimson King"
     ],
     "runs": 1,
-    "bestRank": 365,
-    "worstRank": 365,
+    "bestRank": 385,
+    "worstRank": 385,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3425,7 +3451,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 365,
+        "rank": 385,
         "ms": 5023628,
         "dish": "Salad"
       }

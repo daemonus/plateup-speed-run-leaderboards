@@ -2340,32 +2340,6 @@
     ]
   },
   {
-    "id": "37a165bf-20e0-4eac-a09c-901ea243ed37",
-    "persona": "Himawari_",
-    "names": [
-      "Himawari_"
-    ],
-    "runs": 1,
-    "bestRank": 216,
-    "worstRank": 216,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4777346,
-    "weeksActive": [
-      91
-    ],
-    "history": [
-      {
-        "week": 91,
-        "start": "2026-10-05",
-        "rank": 216,
-        "ms": 4777346,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "37a271e6-a002-4dfa-a6f7-8822bc9ae08e",
     "persona": "Bean",
     "names": [
@@ -2866,8 +2840,8 @@
       "Passi"
     ],
     "runs": 1,
-    "bestRank": 261,
-    "worstRank": 261,
+    "bestRank": 275,
+    "worstRank": 275,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2879,7 +2853,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 261,
+        "rank": 275,
         "ms": 4240493,
         "dish": "Salad"
       }
@@ -3038,6 +3012,32 @@
         "rank": 209,
         "ms": 3411466,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "37c7cd68-635b-4158-ae9d-ab8d55dda738",
+    "persona": "Eledurion",
+    "names": [
+      "Eledurion"
+    ],
+    "runs": 1,
+    "bestRank": 508,
+    "worstRank": 508,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6548749,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 508,
+        "ms": 6548749,
+        "dish": "Salad"
       }
     ]
   },

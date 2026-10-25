@@ -2060,8 +2060,8 @@
       "ImYourType"
     ],
     "runs": 1,
-    "bestRank": 283,
-    "worstRank": 283,
+    "bestRank": 297,
+    "worstRank": 297,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2073,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 283,
+        "rank": 297,
         "ms": 4369519,
         "dish": "Salad"
       }
@@ -2336,6 +2336,32 @@
         "rank": 935,
         "ms": 4120785,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "cec601cd-f7b9-4fb4-a1be-50e8d92d09bf",
+    "persona": "Sir Lancelot",
+    "names": [
+      "Sir Lancelot"
+    ],
+    "runs": 1,
+    "bestRank": 520,
+    "worstRank": 520,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6876854,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 520,
+        "ms": 6876854,
+        "dish": "Salad"
       }
     ]
   },
@@ -3022,8 +3048,8 @@
       "theasiandunk"
     ],
     "runs": 1,
-    "bestRank": 324,
-    "worstRank": 324,
+    "bestRank": 340,
+    "worstRank": 340,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3035,7 +3061,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 324,
+        "rank": 340,
         "ms": 4682429,
         "dish": "Salad"
       }

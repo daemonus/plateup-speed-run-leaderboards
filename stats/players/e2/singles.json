@@ -546,6 +546,32 @@
     ]
   },
   {
+    "id": "e23036d2-875e-4a99-bb3d-6afc74e2ddb4",
+    "persona": "Appleandapple",
+    "names": [
+      "Appleandapple"
+    ],
+    "runs": 1,
+    "bestRank": 536,
+    "worstRank": 536,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7754046,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 536,
+        "ms": 7754046,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "e2308d09-6d3f-42e1-b801-a8ae9f252c12",
     "persona": "\u93E1\u82B1",
     "names": [
@@ -1332,8 +1358,8 @@
       "Belial"
     ],
     "runs": 1,
-    "bestRank": 210,
-    "worstRank": 210,
+    "bestRank": 223,
+    "worstRank": 223,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1371,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 210,
+        "rank": 223,
         "ms": 3928215,
         "dish": "Salad"
       }
@@ -2372,8 +2398,8 @@
       "Jerry"
     ],
     "runs": 1,
-    "bestRank": 375,
-    "worstRank": 375,
+    "bestRank": 396,
+    "worstRank": 396,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2411,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 375,
+        "rank": 396,
         "ms": 5119022,
         "dish": "Salad"
       }

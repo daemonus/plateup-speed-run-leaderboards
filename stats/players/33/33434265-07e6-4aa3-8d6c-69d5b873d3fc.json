@@ -1,0 +1,34 @@
+{
+  "id": "33434265-07e6-4aa3-8d6c-69d5b873d3fc",
+  "persona": "Venice",
+  "names": [
+    "Venice"
+  ],
+  "runs": 2,
+  "bestRank": 149,
+  "worstRank": 169,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2883220,
+  "weeksActive": [
+    92,
+    93
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 169,
+      "ms": 2883220,
+      "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 149,
+      "ms": 3404717,
+      "dish": "Salad"
+    }
+  ]
+}

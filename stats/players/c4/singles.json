@@ -1202,8 +1202,8 @@
       "Kittysoftpaaaws"
     ],
     "runs": 1,
-    "bestRank": 209,
-    "worstRank": 209,
+    "bestRank": 222,
+    "worstRank": 222,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 209,
+        "rank": 222,
         "ms": 3926482,
         "dish": "Salad"
       }
@@ -1410,8 +1410,8 @@
       "kittybird"
     ],
     "runs": 1,
-    "bestRank": 164,
-    "worstRank": 164,
+    "bestRank": 173,
+    "worstRank": 173,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1423,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 164,
+        "rank": 173,
         "ms": 3564006,
         "dish": "Salad"
       }
@@ -1540,8 +1540,8 @@
       "Wild Bill"
     ],
     "runs": 1,
-    "bestRank": 307,
-    "worstRank": 307,
+    "bestRank": 321,
+    "worstRank": 321,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1553,7 +1553,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 307,
+        "rank": 321,
         "ms": 4515842,
         "dish": "Salad"
       }
@@ -1930,8 +1930,8 @@
       "HugglesNL"
     ],
     "runs": 1,
-    "bestRank": 328,
-    "worstRank": 328,
+    "bestRank": 344,
+    "worstRank": 344,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1943,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 328,
+        "rank": 344,
         "ms": 4716123,
         "dish": "Salad"
       }
@@ -2210,6 +2210,32 @@
     ]
   },
   {
+    "id": "c49c6c71-05a8-48f4-8c33-d2230cff512c",
+    "persona": "minashafira06",
+    "names": [
+      "minashafira06"
+    ],
+    "runs": 1,
+    "bestRank": 512,
+    "worstRank": 512,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6616084,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 512,
+        "ms": 6616084,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "c49e133b-2bd8-449d-b649-c87987eb1fff",
     "persona": "yan1444676459",
     "names": [
@@ -2372,8 +2398,8 @@
       "Incraylex"
     ],
     "runs": 1,
-    "bestRank": 415,
-    "worstRank": 415,
+    "bestRank": 438,
+    "worstRank": 438,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2385,7 +2411,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 415,
+        "rank": 438,
         "ms": 5416814,
         "dish": "Salad"
       }

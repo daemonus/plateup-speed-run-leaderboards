@@ -520,6 +520,32 @@
     ]
   },
   {
+    "id": "692a8e33-ed92-476d-9c73-95d6758deac7",
+    "persona": "Shiroi",
+    "names": [
+      "Shiroi"
+    ],
+    "runs": 1,
+    "bestRank": 411,
+    "worstRank": 411,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5237995,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 411,
+        "ms": 5237995,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "692b1ef7-c53a-4adb-a589-c5b58e809cf2",
     "persona": "Quirrel",
     "names": [
@@ -2008,8 +2034,8 @@
       "SkandalNudel"
     ],
     "runs": 1,
-    "bestRank": 81,
-    "worstRank": 81,
+    "bestRank": 88,
+    "worstRank": 88,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2021,7 +2047,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 81,
+        "rank": 88,
         "ms": 2961047,
         "dish": "Salad"
       }

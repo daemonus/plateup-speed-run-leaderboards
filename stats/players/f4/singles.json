@@ -1566,8 +1566,8 @@
       "Jack91al"
     ],
     "runs": 1,
-    "bestRank": 326,
-    "worstRank": 326,
+    "bestRank": 342,
+    "worstRank": 342,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1579,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 326,
+        "rank": 342,
         "ms": 4710285,
         "dish": "Salad"
       }
@@ -2076,6 +2076,32 @@
         "rank": 535,
         "ms": 3772559,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "f4a19c1a-bc29-434f-8e65-f09ca5ec2cb8",
+    "persona": "VladAdGad",
+    "names": [
+      "VladAdGad"
+    ],
+    "runs": 1,
+    "bestRank": 522,
+    "worstRank": 522,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6912112,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 522,
+        "ms": 6912112,
+        "dish": "Salad"
       }
     ]
   },

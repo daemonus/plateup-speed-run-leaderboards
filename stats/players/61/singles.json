@@ -1196,6 +1196,32 @@
     ]
   },
   {
+    "id": "6161a8b0-c05c-4897-9e43-9dbe3abfd853",
+    "persona": "El Galvo",
+    "names": [
+      "El Galvo"
+    ],
+    "runs": 1,
+    "bestRank": 81,
+    "worstRank": 81,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2898449,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 81,
+        "ms": 2898449,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "61666045-e241-4c00-9c40-45642cf024df",
     "persona": "PaulchenP * NeverNotGiveUp",
     "names": [
@@ -2320,8 +2346,8 @@
       "Hash"
     ],
     "runs": 1,
-    "bestRank": 232,
-    "worstRank": 232,
+    "bestRank": 245,
+    "worstRank": 245,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 232,
+        "rank": 245,
         "ms": 4080675,
         "dish": "Salad"
       }

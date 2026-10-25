@@ -286,6 +286,32 @@
     ]
   },
   {
+    "id": "7521ff55-3a48-47c1-8bdd-80782778d20c",
+    "persona": "sandwich2015",
+    "names": [
+      "sandwich2015"
+    ],
+    "runs": 1,
+    "bestRank": 338,
+    "worstRank": 338,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4659083,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 338,
+        "ms": 4659083,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "75268314-4ec7-4558-b8ce-f0c3d28d65c5",
     "persona": "DalDuck",
     "names": [
@@ -344,8 +370,8 @@
       "\u6BDB\u6BDB\u5927\u738B"
     ],
     "runs": 1,
-    "bestRank": 451,
-    "worstRank": 451,
+    "bestRank": 477,
+    "worstRank": 477,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +383,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 451,
+        "rank": 477,
         "ms": 5993904,
         "dish": "Salad"
       }

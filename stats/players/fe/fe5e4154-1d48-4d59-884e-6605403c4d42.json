@@ -4,8 +4,8 @@
   "names": [
     "Z 5ifty"
   ],
-  "runs": 5,
-  "bestRank": 74,
+  "runs": 6,
+  "bestRank": 65,
   "worstRank": 243,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -16,
     -15,
     -14,
-    91
+    91,
+    93
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 74,
       "ms": 2999397,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 65,
+      "ms": 2745871,
+      "dish": "Salad"
     }
   ]
 }

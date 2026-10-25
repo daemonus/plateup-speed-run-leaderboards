@@ -624,6 +624,32 @@
     ]
   },
   {
+    "id": "4337b041-2c76-4a7b-a84f-6f1caa509f62",
+    "persona": "\u665A\u4E00\u70B9\u7761\u89C9",
+    "names": [
+      "\u665A\u4E00\u70B9\u7761\u89C9"
+    ],
+    "runs": 1,
+    "bestRank": 533,
+    "worstRank": 533,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7595736,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 533,
+        "ms": 7595736,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "433bcc30-78a3-4b0b-9e5c-e0bab8117d72",
     "persona": "Mcfay",
     "names": [
@@ -1140,32 +1166,6 @@
         "rank": 734,
         "ms": 3661580,
         "dish": "Pies"
-      }
-    ]
-  },
-  {
-    "id": "43653c82-b8b0-40cf-8492-1b42561df204",
-    "persona": "rain",
-    "names": [
-      "rain"
-    ],
-    "runs": 1,
-    "bestRank": 1183,
-    "worstRank": 1183,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6849841,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 1183,
-        "ms": 6849841,
-        "dish": "Fish"
       }
     ]
   },

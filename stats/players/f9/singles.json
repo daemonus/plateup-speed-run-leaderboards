@@ -188,8 +188,8 @@
       "Herr_Corves"
     ],
     "runs": 1,
-    "bestRank": 405,
-    "worstRank": 405,
+    "bestRank": 427,
+    "worstRank": 427,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -201,7 +201,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 405,
+        "rank": 427,
         "ms": 5360925,
         "dish": "Salad"
       }
@@ -568,6 +568,32 @@
         "rank": 283,
         "ms": 3774458,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "f92cdd41-ba74-4675-be52-9559ec5eeb8f",
+    "persona": "1244729250",
+    "names": [
+      "1244729250"
+    ],
+    "runs": 1,
+    "bestRank": 505,
+    "worstRank": 505,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6432206,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 505,
+        "ms": 6432206,
+        "dish": "Salad"
       }
     ]
   },

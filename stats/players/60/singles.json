@@ -2496,6 +2496,32 @@
     ]
   },
   {
+    "id": "60a022b2-55b9-440a-beb2-50154e47f989",
+    "persona": "bernoulli",
+    "names": [
+      "bernoulli"
+    ],
+    "runs": 1,
+    "bestRank": 55,
+    "worstRank": 55,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2633618,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 55,
+        "ms": 2633618,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "60a260e1-3826-4cab-8a6f-99a5b9386192",
     "persona": "frangipane",
     "names": [

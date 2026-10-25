@@ -864,8 +864,8 @@
       "\u843D\u5C18"
     ],
     "runs": 1,
-    "bestRank": 362,
-    "worstRank": 362,
+    "bestRank": 382,
+    "worstRank": 382,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 362,
+        "rank": 382,
         "ms": 4987042,
         "dish": "Salad"
       }
@@ -1332,8 +1332,8 @@
       "Noda"
     ],
     "runs": 1,
-    "bestRank": 445,
-    "worstRank": 445,
+    "bestRank": 471,
+    "worstRank": 471,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1345,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 445,
+        "rank": 471,
         "ms": 5906596,
         "dish": "Salad"
       }
@@ -1982,8 +1982,8 @@
       "mariegre"
     ],
     "runs": 1,
-    "bestRank": 367,
-    "worstRank": 367,
+    "bestRank": 387,
+    "worstRank": 387,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 367,
+        "rank": 387,
         "ms": 5043872,
         "dish": "Salad"
       }
@@ -3038,6 +3038,32 @@
         "rank": 607,
         "ms": 3727337,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "aee0d246-59b6-4565-b6eb-7faa6956c4bd",
+    "persona": "agocsa18",
+    "names": [
+      "agocsa18"
+    ],
+    "runs": 1,
+    "bestRank": 547,
+    "worstRank": 547,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 10214735,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 547,
+        "ms": 10214735,
+        "dish": "Salad"
       }
     ]
   },

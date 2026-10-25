@@ -4,7 +4,7 @@
   "names": [
     "Mish"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 46,
   "worstRank": 299,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     63,
     64,
     85,
-    88
+    88,
+    93
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 180,
       "ms": 3255510,
       "dish": "Pies"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 95,
+      "ms": 3011001,
+      "dish": "Salad"
     }
   ]
 }

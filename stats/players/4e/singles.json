@@ -624,6 +624,32 @@
     ]
   },
   {
+    "id": "4e29d08e-736b-4012-9bf3-a45b4434398c",
+    "persona": "\u7FB2\u548C",
+    "names": [
+      "\u7FB2\u548C"
+    ],
+    "runs": 1,
+    "bestRank": 465,
+    "worstRank": 465,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5840946,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 465,
+        "ms": 5840946,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "4e2b5b7f-8235-49db-ab53-67b5e27ae9eb",
     "persona": "bot_cosarara",
     "names": [
@@ -2892,8 +2918,8 @@
       "YUtofu099"
     ],
     "runs": 1,
-    "bestRank": 301,
-    "worstRank": 301,
+    "bestRank": 315,
+    "worstRank": 315,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2905,7 +2931,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 301,
+        "rank": 315,
         "ms": 4476180,
         "dish": "Salad"
       }

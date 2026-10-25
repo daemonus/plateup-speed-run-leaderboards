@@ -624,6 +624,32 @@
     ]
   },
   {
+    "id": "04257a47-3add-4612-97df-084db9601cb9",
+    "persona": "jiushu",
+    "names": [
+      "jiushu"
+    ],
+    "runs": 1,
+    "bestRank": 507,
+    "worstRank": 507,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6494027,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 507,
+        "ms": 6494027,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "0425b061-895e-449f-9077-95eac5cbb3d9",
     "persona": "arendfeller",
     "names": [
@@ -2684,8 +2710,8 @@
       "\u0422\u0443\u0442 \u0442\u0443\u0440\u043E\u043A"
     ],
     "runs": 1,
-    "bestRank": 291,
-    "worstRank": 291,
+    "bestRank": 305,
+    "worstRank": 305,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 291,
+        "rank": 305,
         "ms": 4401378,
         "dish": "Salad"
       }

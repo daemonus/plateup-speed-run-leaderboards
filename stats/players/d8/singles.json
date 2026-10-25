@@ -864,8 +864,8 @@
       "Eirysus"
     ],
     "runs": 1,
-    "bestRank": 446,
-    "worstRank": 446,
+    "bestRank": 472,
+    "worstRank": 472,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 446,
+        "rank": 472,
         "ms": 5910969,
         "dish": "Salad"
       }
@@ -1347,32 +1347,6 @@
         "start": "2023-12-18",
         "rank": 367,
         "ms": 3996167,
-        "dish": "Pizza"
-      }
-    ]
-  },
-  {
-    "id": "d873b1a1-7087-4683-9ea8-5b6aca9366f1",
-    "persona": "Fero :)",
-    "names": [
-      "Fero :)"
-    ],
-    "runs": 1,
-    "bestRank": 290,
-    "worstRank": 290,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3972162,
-    "weeksActive": [
-      89
-    ],
-    "history": [
-      {
-        "week": 89,
-        "start": "2026-09-21",
-        "rank": 290,
-        "ms": 3972162,
         "dish": "Pizza"
       }
     ]

@@ -1670,8 +1670,8 @@
       "Warmwinter"
     ],
     "runs": 1,
-    "bestRank": 98,
-    "worstRank": 98,
+    "bestRank": 107,
+    "worstRank": 107,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1683,7 +1683,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 98,
+        "rank": 107,
         "ms": 3108101,
         "dish": "Salad"
       }
@@ -2990,6 +2990,32 @@
     ]
   },
   {
+    "id": "70d5abf2-0589-42de-a97c-330ec5ed802c",
+    "persona": "3144609358",
+    "names": [
+      "3144609358"
+    ],
+    "runs": 1,
+    "bestRank": 509,
+    "worstRank": 509,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6556212,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 509,
+        "ms": 6556212,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
     "id": "70d6d2b8-fb18-4733-a785-e2025f90e739",
     "persona": "ziratia",
     "names": [
@@ -3100,8 +3126,8 @@
       "yat61016"
     ],
     "runs": 1,
-    "bestRank": 273,
-    "worstRank": 273,
+    "bestRank": 287,
+    "worstRank": 287,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 273,
+        "rank": 287,
         "ms": 4298935,
         "dish": "Salad"
       }
@@ -3480,6 +3506,32 @@
         "rank": 370,
         "ms": 3837666,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "70e9303a-7964-437d-be13-d7fc39ac14d6",
+    "persona": "XXGLSIS",
+    "names": [
+      "XXGLSIS"
+    ],
+    "runs": 1,
+    "bestRank": 483,
+    "worstRank": 483,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6030522,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 483,
+        "ms": 6030522,
+        "dish": "Salad"
       }
     ]
   },

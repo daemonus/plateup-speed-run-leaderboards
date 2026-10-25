@@ -2528,8 +2528,8 @@
       "Schizo"
     ],
     "runs": 1,
-    "bestRank": 349,
-    "worstRank": 349,
+    "bestRank": 368,
+    "worstRank": 368,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,8 +2541,34 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 349,
+        "rank": 368,
         "ms": 4894960,
+        "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "7fa81718-e9b0-40da-99a2-0d26db186de3",
+    "persona": "Nifelis",
+    "names": [
+      "Nifelis"
+    ],
+    "runs": 1,
+    "bestRank": 331,
+    "worstRank": 331,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4601161,
+    "weeksActive": [
+      93
+    ],
+    "history": [
+      {
+        "week": 93,
+        "start": "2026-10-19",
+        "rank": 331,
+        "ms": 4601161,
         "dish": "Salad"
       }
     ]
@@ -2580,8 +2606,8 @@
       "hi1117karu"
     ],
     "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
+    "bestRank": 266,
+    "worstRank": 266,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2593,7 +2619,7 @@
       {
         "week": 93,
         "start": "2026-10-19",
-        "rank": 252,
+        "rank": 266,
         "ms": 4189702,
         "dish": "Salad"
       }

@@ -1,10 +1,11 @@
 {
   "id": "83db425c-a870-442c-b7cb-1826db0d5e49",
-  "persona": "[VII] Cpt. Nezbus [6th Co.]",
+  "persona": "Professional Arse",
   "names": [
+    "Professional Arse",
     "[VII] Cpt. Nezbus [6th Co.]"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 47,
   "worstRank": 286,
   "firstPlaces": 0,
@@ -18,7 +19,8 @@
     84,
     85,
     86,
-    92
+    92,
+    93
   ],
   "history": [
     {
@@ -69,6 +71,13 @@
       "rank": 84,
       "ms": 2375328,
       "dish": "Fish"
+    },
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 50,
+      "ms": 2598574,
+      "dish": "Salad"
     }
   ]
 }
