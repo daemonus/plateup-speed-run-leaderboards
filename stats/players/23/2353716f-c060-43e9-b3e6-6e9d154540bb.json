@@ -4,16 +4,17 @@
   "names": [
     "cl15978"
   ],
-  "runs": 2,
-  "bestRank": 577,
+  "runs": 3,
+  "bestRank": 34,
   "worstRank": 637,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4287368,
+  "bestMs": 4123336,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 577,
       "ms": 7044096,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 34,
+      "ms": 4123336,
+      "dish": "Fajitas"
     }
   ]
 }

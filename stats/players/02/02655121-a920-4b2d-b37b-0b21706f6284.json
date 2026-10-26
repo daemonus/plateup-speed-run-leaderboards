@@ -4,16 +4,17 @@
   "names": [
     "leseul69"
   ],
-  "runs": 2,
-  "bestRank": 470,
+  "runs": 3,
+  "bestRank": 32,
   "worstRank": 872,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4922072,
+  "bestMs": 3831985,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 470,
       "ms": 5363027,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 32,
+      "ms": 3831985,
+      "dish": "Fajitas"
     }
   ]
 }
