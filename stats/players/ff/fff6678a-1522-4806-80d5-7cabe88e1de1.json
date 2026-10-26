@@ -4,8 +4,8 @@
   "names": [
     "lauralouise93"
   ],
-  "runs": 9,
-  "bestRank": 76,
+  "runs": 10,
+  "bestRank": 29,
   "worstRank": 448,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 162,
       "ms": 3387588,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 29,
+      "ms": 3313443,
+      "dish": "Fajitas"
     }
   ]
 }
