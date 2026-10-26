@@ -4,8 +4,8 @@
   "names": [
     "Bydi"
   ],
-  "runs": 26,
-  "bestRank": 99,
+  "runs": 27,
+  "bestRank": 74,
   "worstRank": 596,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     88,
     90,
     91,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 596,
       "ms": 8523053,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 74,
+      "ms": 4064147,
+      "dish": "Fajitas"
     }
   ]
 }

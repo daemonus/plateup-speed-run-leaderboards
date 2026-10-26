@@ -4,8 +4,8 @@
   "names": [
     "shrynsb27"
   ],
-  "runs": 2,
-  "bestRank": 383,
+  "runs": 3,
+  "bestRank": 96,
   "worstRank": 477,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3927431,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 383,
       "ms": 4769171,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 96,
+      "ms": 5630094,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Jenniekkkkkk"
   ],
-  "runs": 2,
-  "bestRank": 318,
+  "runs": 3,
+  "bestRank": 81,
   "worstRank": 899,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4328851,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 318,
       "ms": 4328851,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 81,
+      "ms": 4380231,
+      "dish": "Fajitas"
     }
   ]
 }

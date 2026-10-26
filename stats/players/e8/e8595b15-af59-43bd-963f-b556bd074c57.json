@@ -4,8 +4,8 @@
   "names": [
     "aditya_55"
   ],
-  "runs": 5,
-  "bestRank": 73,
+  "runs": 6,
+  "bestRank": 62,
   "worstRank": 369,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     -37,
     66,
     89,
-    90
+    90,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 73,
       "ms": 1949925,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 62,
+      "ms": 3475887,
+      "dish": "Fajitas"
     }
   ]
 }

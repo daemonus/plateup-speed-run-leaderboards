@@ -1872,6 +1872,32 @@
     ]
   },
   {
+    "id": "5aa231a4-b4ea-438a-9084-03e2f228bdc7",
+    "persona": "Nausicaa57",
+    "names": [
+      "Nausicaa57"
+    ],
+    "runs": 1,
+    "bestRank": 70,
+    "worstRank": 70,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3891729,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 70,
+        "ms": 3891729,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "5aa39780-1e71-4ca5-a4e1-9c3c15043d94",
     "persona": "Potato",
     "names": [
@@ -2840,8 +2866,8 @@
       "pwrcmdr"
     ],
     "runs": 1,
-    "bestRank": 41,
-    "worstRank": 41,
+    "bestRank": 93,
+    "worstRank": 93,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2879,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 41,
+        "rank": 93,
         "ms": 5382443,
         "dish": "Fajitas"
       }

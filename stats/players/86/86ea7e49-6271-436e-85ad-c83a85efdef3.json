@@ -4,7 +4,7 @@
   "names": [
     "Raagentreg"
   ],
-  "runs": 60,
+  "runs": 61,
   "bestRank": 39,
   "worstRank": 508,
   "firstPlaces": 0,
@@ -71,7 +71,8 @@
     88,
     90,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -493,6 +494,13 @@
       "rank": 301,
       "ms": 3415643,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 41,
+      "ms": 2853692,
+      "dish": "Fajitas"
     }
   ]
 }

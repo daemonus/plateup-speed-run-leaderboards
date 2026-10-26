@@ -4,7 +4,7 @@
   "names": [
     "Spooki Cucumber"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 32,
   "worstRank": 104,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -56,
     -25,
     -24,
-    -23
+    -23,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 32,
       "ms": 2262799,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 60,
+      "ms": 3465512,
+      "dish": "Fajitas"
     }
   ]
 }

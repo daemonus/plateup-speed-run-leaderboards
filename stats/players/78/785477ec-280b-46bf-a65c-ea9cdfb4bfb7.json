@@ -4,16 +4,17 @@
   "names": [
     "L-RaK"
   ],
-  "runs": 2,
-  "bestRank": 288,
+  "runs": 3,
+  "bestRank": 48,
   "worstRank": 332,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3969585,
+  "bestMs": 3079377,
   "weeksActive": [
     70,
-    72
+    72,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 288,
       "ms": 3969585,
       "dish": "Breakfast"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 48,
+      "ms": 3079377,
+      "dish": "Fajitas"
     }
   ]
 }

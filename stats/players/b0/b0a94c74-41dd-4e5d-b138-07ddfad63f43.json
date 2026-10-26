@@ -4,8 +4,8 @@
   "names": [
     "AmbersTini"
   ],
-  "runs": 24,
-  "bestRank": 76,
+  "runs": 25,
+  "bestRank": 31,
   "worstRank": 411,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     86,
     87,
     88,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 133,
       "ms": 3193185,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 31,
+      "ms": 2684920,
+      "dish": "Fajitas"
     }
   ]
 }

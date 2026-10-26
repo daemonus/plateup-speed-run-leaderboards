@@ -4,16 +4,17 @@
   "names": [
     "SOH CAH TOA"
   ],
-  "runs": 2,
-  "bestRank": 233,
+  "runs": 3,
+  "bestRank": 45,
   "worstRank": 298,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3400824,
+  "bestMs": 3019811,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 233,
       "ms": 3856726,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 45,
+      "ms": 3019811,
+      "dish": "Fajitas"
     }
   ]
 }

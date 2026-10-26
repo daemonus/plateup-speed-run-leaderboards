@@ -4,8 +4,8 @@
   "names": [
     "Charliebonce"
   ],
-  "runs": 7,
-  "bestRank": 228,
+  "runs": 8,
+  "bestRank": 79,
   "worstRank": 752,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     88,
     89,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 498,
       "ms": 5635632,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 79,
+      "ms": 4219458,
+      "dish": "Fajitas"
     }
   ]
 }
