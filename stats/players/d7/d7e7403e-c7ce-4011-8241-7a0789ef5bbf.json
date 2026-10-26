@@ -4,18 +4,19 @@
   "names": [
     "phoenixmarauder12"
   ],
-  "runs": 4,
-  "bestRank": 173,
+  "runs": 5,
+  "bestRank": 12,
   "worstRank": 857,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2649401,
+  "bestMs": 2401310,
   "weeksActive": [
     -94,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 173,
       "ms": 3471817,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 12,
+      "ms": 2401310,
+      "dish": "Fajitas"
     }
   ]
 }

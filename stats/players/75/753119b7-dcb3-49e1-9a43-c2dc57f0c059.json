@@ -4,8 +4,8 @@
   "names": [
     "nuria.kasdan"
   ],
-  "runs": 10,
-  "bestRank": 49,
+  "runs": 11,
+  "bestRank": 22,
   "worstRank": 327,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     89,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 148,
       "ms": 3269562,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 22,
+      "ms": 2810062,
+      "dish": "Fajitas"
     }
   ]
 }

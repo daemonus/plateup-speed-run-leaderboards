@@ -4,8 +4,8 @@
   "names": [
     "hometemme"
   ],
-  "runs": 21,
-  "bestRank": 92,
+  "runs": 22,
+  "bestRank": 29,
   "worstRank": 573,
   "firstPlaces": 0,
   "top3": 0,
@@ -32,7 +32,8 @@
     40,
     41,
     42,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 573,
       "ms": 4144712,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 29,
+      "ms": 3465258,
+      "dish": "Fajitas"
     }
   ]
 }

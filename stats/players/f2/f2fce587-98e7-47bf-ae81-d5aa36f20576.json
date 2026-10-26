@@ -4,8 +4,8 @@
   "names": [
     "jblub324"
   ],
-  "runs": 8,
-  "bestRank": 79,
+  "runs": 9,
+  "bestRank": 24,
   "worstRank": 242,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     81,
     90,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 169,
       "ms": 3450319,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 24,
+      "ms": 3064260,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,19 +4,20 @@
   "names": [
     "GingerKim"
   ],
-  "runs": 5,
-  "bestRank": 69,
+  "runs": 6,
+  "bestRank": 4,
   "worstRank": 764,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
-  "bestMs": 2432608,
+  "top10": 1,
+  "bestMs": 2057283,
   "weeksActive": [
     60,
     63,
     83,
     88,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 77,
       "ms": 2824410,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 4,
+      "ms": 2057283,
+      "dish": "Fajitas"
     }
   ]
 }

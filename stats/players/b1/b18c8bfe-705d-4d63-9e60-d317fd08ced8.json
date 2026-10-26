@@ -4,7 +4,7 @@
   "names": [
     "chabel"
   ],
-  "runs": 124,
+  "runs": 125,
   "bestRank": 9,
   "worstRank": 778,
   "firstPlaces": 0,
@@ -135,7 +135,8 @@
     89,
     90,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -1005,6 +1006,13 @@
       "rank": 123,
       "ms": 3143697,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 17,
+      "ms": 2639324,
+      "dish": "Fajitas"
     }
   ]
 }

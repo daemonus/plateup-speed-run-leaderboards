@@ -4,12 +4,12 @@
   "names": [
     "Selene_Russell"
   ],
-  "runs": 68,
+  "runs": 69,
   "bestRank": 2,
   "worstRank": 239,
   "firstPlaces": 0,
-  "top3": 6,
-  "top10": 26,
+  "top3": 7,
+  "top10": 27,
   "bestMs": 929812,
   "weeksActive": [
     -15,
@@ -79,7 +79,8 @@
     89,
     90,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -557,6 +558,13 @@
       "rank": 7,
       "ms": 1466987,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 3,
+      "ms": 1308527,
+      "dish": "Fajitas"
     }
   ]
 }
