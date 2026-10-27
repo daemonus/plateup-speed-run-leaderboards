@@ -4,8 +4,8 @@
   "names": [
     "TheAngryDuck"
   ],
-  "runs": 2,
-  "bestRank": 242,
+  "runs": 3,
+  "bestRank": 92,
   "worstRank": 261,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3181241,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 261,
       "ms": 4037809,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 92,
+      "ms": 3503857,
+      "dish": "Fajitas"
     }
   ]
 }

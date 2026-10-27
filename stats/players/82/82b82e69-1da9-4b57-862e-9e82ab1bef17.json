@@ -4,7 +4,7 @@
   "names": [
     "Kalle"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 51,
   "worstRank": 160,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     85,
     89,
     90,
-    91
+    91,
+    94
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 160,
       "ms": 3739622,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 62,
+      "ms": 3020300,
+      "dish": "Fajitas"
     }
   ]
 }

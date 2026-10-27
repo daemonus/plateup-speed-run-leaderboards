@@ -4,8 +4,8 @@
   "names": [
     "Branflakes234"
   ],
-  "runs": 3,
-  "bestRank": 463,
+  "runs": 4,
+  "bestRank": 129,
   "worstRank": 841,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     30,
     36,
-    56
+    56,
+    94
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 841,
       "ms": 4106260,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 129,
+      "ms": 4392900,
+      "dish": "Fajitas"
     }
   ]
 }

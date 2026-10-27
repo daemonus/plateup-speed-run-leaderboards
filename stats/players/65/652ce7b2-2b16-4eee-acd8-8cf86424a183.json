@@ -4,8 +4,8 @@
   "names": [
     "florszi"
   ],
-  "runs": 2,
-  "bestRank": 527,
+  "runs": 3,
+  "bestRank": 148,
   "worstRank": 979,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 5218327,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 527,
       "ms": 6009284,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 148,
+      "ms": 5269649,
+      "dish": "Fajitas"
     }
   ]
 }

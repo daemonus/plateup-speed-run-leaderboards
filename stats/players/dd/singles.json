@@ -162,8 +162,8 @@
       "\u3055\u3063\u304F\u308A"
     ],
     "runs": 1,
-    "bestRank": 40,
-    "worstRank": 40,
+    "bestRank": 54,
+    "worstRank": 54,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 40,
+        "rank": 54,
         "ms": 2837262,
         "dish": "Fajitas"
       }
@@ -1348,32 +1348,6 @@
         "rank": 452,
         "ms": 6316757,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "dd59589f-cc70-49d1-a4f3-cc087208bab6",
-    "persona": "\u51B0\u9547\u897F\u74DC",
-    "names": [
-      "\u51B0\u9547\u897F\u74DC"
-    ],
-    "runs": 1,
-    "bestRank": 380,
-    "worstRank": 380,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4743878,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 380,
-        "ms": 4743878,
-        "dish": "Salad"
       }
     ]
   },

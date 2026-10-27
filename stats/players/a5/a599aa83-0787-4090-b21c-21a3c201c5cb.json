@@ -4,7 +4,7 @@
   "names": [
     "jinx"
   ],
-  "runs": 111,
+  "runs": 112,
   "bestRank": 1,
   "worstRank": 1190,
   "firstPlaces": 1,
@@ -122,7 +122,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -901,6 +902,13 @@
       "rank": 11,
       "ms": 1706316,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 18,
+      "ms": 2076255,
+      "dish": "Fajitas"
     }
   ]
 }

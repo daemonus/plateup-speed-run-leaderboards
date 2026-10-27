@@ -4,7 +4,7 @@
   "names": [
     "ForeverMash"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 49,
   "worstRank": 566,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 190,
       "ms": 3577924,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 78,
+      "ms": 3311203,
+      "dish": "Fajitas"
     }
   ]
 }

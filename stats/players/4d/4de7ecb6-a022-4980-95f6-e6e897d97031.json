@@ -4,8 +4,8 @@
   "names": [
     "0-\u003C"
   ],
-  "runs": 5,
-  "bestRank": 100,
+  "runs": 6,
+  "bestRank": 81,
   "worstRank": 238,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     77,
     78,
     80,
-    81
+    81,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 141,
       "ms": 3230617,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 81,
+      "ms": 3360711,
+      "dish": "Fajitas"
     }
   ]
 }

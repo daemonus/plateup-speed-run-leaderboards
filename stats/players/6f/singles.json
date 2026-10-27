@@ -1352,32 +1352,6 @@
     ]
   },
   {
-    "id": "6f663ab7-8eea-493b-b795-1d9bf000b371",
-    "persona": "past",
-    "names": [
-      "past"
-    ],
-    "runs": 1,
-    "bestRank": 836,
-    "worstRank": 836,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4805470,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 836,
-        "ms": 4805470,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "6f66f6a8-ade3-46ac-b033-c341aaeefd75",
     "persona": "Akuma",
     "names": [
@@ -3230,8 +3204,8 @@
       "Sunward"
     ],
     "runs": 1,
-    "bestRank": 78,
-    "worstRank": 78,
+    "bestRank": 124,
+    "worstRank": 124,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3243,7 +3217,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 78,
+        "rank": 124,
         "ms": 4217388,
         "dish": "Fajitas"
       }

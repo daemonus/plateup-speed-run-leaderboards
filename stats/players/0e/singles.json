@@ -292,8 +292,8 @@
       "kiri"
     ],
     "runs": 1,
-    "bestRank": 84,
-    "worstRank": 84,
+    "bestRank": 133,
+    "worstRank": 133,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 84,
+        "rank": 133,
         "ms": 4554688,
         "dish": "Fajitas"
       }
@@ -3090,6 +3090,32 @@
         "rank": 1201,
         "ms": 2595344,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "0ec41907-f719-48a5-8d59-6f61b0d47714",
+    "persona": "IlyaXa",
+    "names": [
+      "IlyaXa"
+    ],
+    "runs": 1,
+    "bestRank": 117,
+    "worstRank": 117,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4106932,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 117,
+        "ms": 4106932,
+        "dish": "Fajitas"
       }
     ]
   },

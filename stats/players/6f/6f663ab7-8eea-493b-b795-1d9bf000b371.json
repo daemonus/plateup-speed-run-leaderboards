@@ -1,0 +1,35 @@
+{
+  "id": "6f663ab7-8eea-493b-b795-1d9bf000b371",
+  "persona": "rain",
+  "names": [
+    "rain",
+    "past"
+  ],
+  "runs": 2,
+  "bestRank": 171,
+  "worstRank": 836,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4805470,
+  "weeksActive": [
+    92,
+    94
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 836,
+      "ms": 4805470,
+      "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 171,
+      "ms": 9072415,
+      "dish": "Fajitas"
+    }
+  ]
+}

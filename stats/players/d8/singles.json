@@ -1794,6 +1794,32 @@
     ]
   },
   {
+    "id": "d89059a9-2e0c-4478-b623-8f1eb131d3ab",
+    "persona": "\u304A\u3055\u304B\u306A\u30D1\u30B8\u30E3\u30DE",
+    "names": [
+      "\u304A\u3055\u304B\u306A\u30D1\u30B8\u30E3\u30DE"
+    ],
+    "runs": 1,
+    "bestRank": 153,
+    "worstRank": 153,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5581821,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 153,
+        "ms": 5581821,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "d8916e19-5692-46dd-8a95-2f1a26dbd796",
     "persona": "Urmel",
     "names": [
@@ -2138,8 +2164,8 @@
       "\u58A8\u837B\u82BD"
     ],
     "runs": 1,
-    "bestRank": 91,
-    "worstRank": 91,
+    "bestRank": 146,
+    "worstRank": 146,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2177,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 91,
+        "rank": 146,
         "ms": 5187958,
         "dish": "Fajitas"
       }

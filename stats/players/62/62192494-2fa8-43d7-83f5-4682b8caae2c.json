@@ -4,7 +4,7 @@
   "names": [
     "wonderwhiskey"
   ],
-  "runs": 77,
+  "runs": 78,
   "bestRank": 27,
   "worstRank": 285,
   "firstPlaces": 0,
@@ -88,7 +88,8 @@
     -1,
     1,
     5,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -629,6 +630,13 @@
       "rank": 103,
       "ms": 3005310,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 80,
+      "ms": 3337035,
+      "dish": "Fajitas"
     }
   ]
 }

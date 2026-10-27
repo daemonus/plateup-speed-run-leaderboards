@@ -4,7 +4,7 @@
   "names": [
     "Philtheeee"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 2,
   "worstRank": 175,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 36,
       "ms": 2454697,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 16,
+      "ms": 1990502,
+      "dish": "Fajitas"
     }
   ]
 }
