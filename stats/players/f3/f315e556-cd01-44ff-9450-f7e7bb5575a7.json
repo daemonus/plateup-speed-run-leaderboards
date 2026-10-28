@@ -4,16 +4,17 @@
   "names": [
     "atsu2ryu"
   ],
-  "runs": 2,
-  "bestRank": 243,
+  "runs": 3,
+  "bestRank": 163,
   "worstRank": 953,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5126895,
+  "bestMs": 4024569,
   "weeksActive": [
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 953,
       "ms": 5126895,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 163,
+      "ms": 4024569,
+      "dish": "Fajitas"
     }
   ]
 }

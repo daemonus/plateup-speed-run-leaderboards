@@ -4,18 +4,19 @@
   "names": [
     "Hocktor"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 3,
   "worstRank": 4,
   "firstPlaces": 0,
-  "top3": 3,
-  "top10": 4,
+  "top3": 4,
+  "top10": 5,
   "bestMs": 912866,
   "weeksActive": [
     89,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 3,
       "ms": 991766,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 3,
+      "ms": 998670,
+      "dish": "Fajitas"
     }
   ]
 }

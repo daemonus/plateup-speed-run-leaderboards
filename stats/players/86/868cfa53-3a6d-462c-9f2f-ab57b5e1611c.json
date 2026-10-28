@@ -4,8 +4,8 @@
   "names": [
     "pinsir22"
   ],
-  "runs": 33,
-  "bestRank": 59,
+  "runs": 34,
+  "bestRank": 36,
   "worstRank": 870,
   "firstPlaces": 0,
   "top3": 0,
@@ -44,7 +44,8 @@
     70,
     90,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 122,
       "ms": 2649831,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 36,
+      "ms": 2301357,
+      "dish": "Fajitas"
     }
   ]
 }

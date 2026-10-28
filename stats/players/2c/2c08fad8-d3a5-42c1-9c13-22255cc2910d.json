@@ -4,7 +4,7 @@
   "names": [
     "963"
   ],
-  "runs": 47,
+  "runs": 48,
   "bestRank": 33,
   "worstRank": 376,
   "firstPlaces": 0,
@@ -58,7 +58,8 @@
     87,
     88,
     89,
-    91
+    91,
+    94
   ],
   "history": [
     {
@@ -389,6 +390,13 @@
       "rank": 72,
       "ms": 2981724,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 66,
+      "ms": 2783758,
+      "dish": "Fajitas"
     }
   ]
 }

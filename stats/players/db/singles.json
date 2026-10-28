@@ -1,5 +1,31 @@
 [
   {
+    "id": "db02178b-6b26-4164-a27e-ac25d9e45785",
+    "persona": "\u732B\u30AD\u30CE\u30B3\u30D5\u30EC\u30F3\u30BA\uFF20twitc",
+    "names": [
+      "\u732B\u30AD\u30CE\u30B3\u30D5\u30EC\u30F3\u30BA\uFF20twitc"
+    ],
+    "runs": 1,
+    "bestRank": 146,
+    "worstRank": 146,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3810708,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 146,
+        "ms": 3810708,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "db024c2d-77a4-48d9-b156-c359dbdfc1e6",
     "persona": "shinbokyong",
     "names": [
@@ -1618,8 +1644,8 @@
       "248385509"
     ],
     "runs": 1,
-    "bestRank": 60,
-    "worstRank": 60,
+    "bestRank": 64,
+    "worstRank": 64,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1657,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 60,
+        "rank": 64,
         "ms": 2757138,
         "dish": "Fajitas"
       }

@@ -4,16 +4,17 @@
   "names": [
     "Mask."
   ],
-  "runs": 2,
-  "bestRank": 184,
+  "runs": 3,
+  "bestRank": 102,
   "worstRank": 433,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3558956,
+  "bestMs": 3265947,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 184,
       "ms": 3558956,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 102,
+      "ms": 3265947,
+      "dish": "Fajitas"
     }
   ]
 }

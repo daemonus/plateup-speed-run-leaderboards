@@ -4,7 +4,7 @@
   "names": [
     "beth_web04"
   ],
-  "runs": 84,
+  "runs": 85,
   "bestRank": 38,
   "worstRank": 1170,
   "firstPlaces": 0,
@@ -95,7 +95,8 @@
     89,
     90,
     91,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -685,6 +686,13 @@
       "rank": 125,
       "ms": 3153399,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 95,
+      "ms": 3175578,
+      "dish": "Fajitas"
     }
   ]
 }

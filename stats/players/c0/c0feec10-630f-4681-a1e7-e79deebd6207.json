@@ -4,17 +4,18 @@
   "names": [
     "PetiteChiqui"
   ],
-  "runs": 3,
-  "bestRank": 162,
+  "runs": 4,
+  "bestRank": 87,
   "worstRank": 491,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3214858,
+  "bestMs": 3064579,
   "weeksActive": [
     90,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 491,
       "ms": 3965233,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 87,
+      "ms": 3064579,
+      "dish": "Fajitas"
     }
   ]
 }

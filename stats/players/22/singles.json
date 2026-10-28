@@ -2832,5 +2832,31 @@
         "dish": "Sundaes"
       }
     ]
+  },
+  {
+    "id": "22fbc9a9-95f8-4dcc-a800-1dcc2350247f",
+    "persona": "\u795E\u5A01\u661F\u6708",
+    "names": [
+      "\u795E\u5A01\u661F\u6708"
+    ],
+    "runs": 1,
+    "bestRank": 112,
+    "worstRank": 112,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3340455,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 112,
+        "ms": 3340455,
+        "dish": "Fajitas"
+      }
+    ]
   }
 ]
