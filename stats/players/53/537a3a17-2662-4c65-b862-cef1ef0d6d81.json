@@ -4,8 +4,8 @@
   "names": [
     "Catgirl"
   ],
-  "runs": 19,
-  "bestRank": 144,
+  "runs": 20,
+  "bestRank": 97,
   "worstRank": 567,
   "firstPlaces": 0,
   "top3": 0,
@@ -30,7 +30,8 @@
     79,
     80,
     83,
-    88
+    88,
+    94
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 199,
       "ms": 3403334,
       "dish": "Pies"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 97,
+      "ms": 3341616,
+      "dish": "Fajitas"
     }
   ]
 }

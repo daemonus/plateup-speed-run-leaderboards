@@ -676,6 +676,32 @@
     ]
   },
   {
+    "id": "0235325b-ddd2-4fd3-84a1-5892b39ea5bf",
+    "persona": "kirito123san",
+    "names": [
+      "kirito123san"
+    ],
+    "runs": 1,
+    "bestRank": 187,
+    "worstRank": 187,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5622223,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 187,
+        "ms": 5622223,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "02355c3f-597f-4ee2-aed2-a7dfccc5ecc8",
     "persona": "[FR] Zicuriens",
     "names": [
@@ -942,8 +968,8 @@
       "el_cat"
     ],
     "runs": 1,
-    "bestRank": 64,
-    "worstRank": 64,
+    "bestRank": 77,
+    "worstRank": 77,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -955,7 +981,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 64,
+        "rank": 77,
         "ms": 3064105,
         "dish": "Fajitas"
       }

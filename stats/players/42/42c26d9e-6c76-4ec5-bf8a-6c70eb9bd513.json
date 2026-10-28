@@ -4,16 +4,17 @@
   "names": [
     "photonem"
   ],
-  "runs": 2,
-  "bestRank": 82,
+  "runs": 3,
+  "bestRank": 51,
   "worstRank": 593,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2846832,
+  "bestMs": 2653974,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 82,
       "ms": 2846832,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 51,
+      "ms": 2653974,
+      "dish": "Fajitas"
     }
   ]
 }

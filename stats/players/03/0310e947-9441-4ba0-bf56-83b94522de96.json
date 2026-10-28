@@ -4,16 +4,17 @@
   "names": [
     "X666"
   ],
-  "runs": 2,
-  "bestRank": 290,
+  "runs": 3,
+  "bestRank": 137,
   "worstRank": 904,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4197412,
+  "bestMs": 4010151,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 290,
       "ms": 4197412,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 137,
+      "ms": 4010151,
+      "dish": "Fajitas"
     }
   ]
 }

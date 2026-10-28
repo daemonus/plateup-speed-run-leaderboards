@@ -4,12 +4,12 @@
   "names": [
     "d5shen"
   ],
-  "runs": 43,
+  "runs": 44,
   "bestRank": 4,
   "worstRank": 405,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 7,
+  "top10": 8,
   "bestMs": 964240,
   "weeksActive": [
     -56,
@@ -54,7 +54,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 13,
       "ms": 1878454,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 8,
+      "ms": 1635342,
+      "dish": "Fajitas"
     }
   ]
 }

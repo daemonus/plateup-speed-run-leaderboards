@@ -4,8 +4,8 @@
   "names": [
     "tekka"
   ],
-  "runs": 8,
-  "bestRank": 78,
+  "runs": 9,
+  "bestRank": 50,
   "worstRank": 196,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     88,
     90,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 196,
       "ms": 3013816,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 50,
+      "ms": 2624580,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "SwimSwamSwum"
   ],
-  "runs": 7,
-  "bestRank": 112,
+  "runs": 8,
+  "bestRank": 56,
   "worstRank": 157,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     72,
     73,
     74,
-    75
+    75,
+    94
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 113,
       "ms": 2836102,
       "dish": "Pies"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 56,
+      "ms": 2686932,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "I.T Guy"
   ],
-  "runs": 117,
+  "runs": 118,
   "bestRank": 9,
   "worstRank": 771,
   "firstPlaces": 0,
@@ -128,7 +128,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -949,6 +950,13 @@
       "rank": 31,
       "ms": 2349013,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 11,
+      "ms": 1727337,
+      "dish": "Fajitas"
     }
   ]
 }

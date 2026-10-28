@@ -4,7 +4,7 @@
   "names": [
     "Ely"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 20,
   "worstRank": 478,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     66,
     84,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 101,
       "ms": 2996842,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 34,
+      "ms": 2351294,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "tashagorath"
   ],
-  "runs": 9,
-  "bestRank": 101,
+  "runs": 10,
+  "bestRank": 69,
   "worstRank": 508,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     88,
     89,
     90,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 131,
       "ms": 2685756,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 69,
+      "ms": 2929048,
+      "dish": "Fajitas"
     }
   ]
 }

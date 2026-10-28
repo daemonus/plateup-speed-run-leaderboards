@@ -6,8 +6,8 @@
       "Diaryy"
     ],
     "runs": 1,
-    "bestRank": 168,
-    "worstRank": 168,
+    "bestRank": 202,
+    "worstRank": 202,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 168,
+        "rank": 202,
         "ms": 7762971,
         "dish": "Fajitas"
       }
@@ -48,6 +48,32 @@
         "rank": 190,
         "ms": 3258450,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "61050047-ca8a-4808-a7a1-79d1579c1211",
+    "persona": "Fane",
+    "names": [
+      "Fane"
+    ],
+    "runs": 1,
+    "bestRank": 178,
+    "worstRank": 178,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5191183,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 178,
+        "ms": 5191183,
+        "dish": "Fajitas"
       }
     ]
   },

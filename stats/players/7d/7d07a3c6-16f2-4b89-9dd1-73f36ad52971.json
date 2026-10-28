@@ -4,7 +4,7 @@
   "names": [
     "amatukiserika"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 21,
   "worstRank": 120,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     81,
     82,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 42,
       "ms": 2041545,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 65,
+      "ms": 2817653,
+      "dish": "Fajitas"
     }
   ]
 }
