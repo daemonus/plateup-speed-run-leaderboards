@@ -4,8 +4,8 @@
   "names": [
     "ao"
   ],
-  "runs": 11,
-  "bestRank": 67,
+  "runs": 12,
+  "bestRank": 48,
   "worstRank": 701,
   "firstPlaces": 0,
   "top3": 0,
@@ -22,7 +22,8 @@
     33,
     36,
     37,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 232,
       "ms": 3854374,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 48,
+      "ms": 2436906,
+      "dish": "Fajitas"
     }
   ]
 }

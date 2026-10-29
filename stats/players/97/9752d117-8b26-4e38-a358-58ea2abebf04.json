@@ -4,7 +4,7 @@
   "names": [
     "Savage_Jenny"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 146,
   "worstRank": 489,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     86,
     87,
     88,
-    89
+    89,
+    94
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 268,
       "ms": 3810247,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 177,
+      "ms": 4006248,
+      "dish": "Fajitas"
     }
   ]
 }

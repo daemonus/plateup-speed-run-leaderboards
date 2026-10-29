@@ -630,8 +630,8 @@
       "Nat"
     ],
     "runs": 1,
-    "bestRank": 217,
-    "worstRank": 217,
+    "bestRank": 239,
+    "worstRank": 239,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 217,
+        "rank": 239,
         "ms": 5568274,
         "dish": "Fajitas"
       }
@@ -1738,6 +1738,32 @@
         "rank": 426,
         "ms": 2860038,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "8886b44e-e7af-42c8-961b-275b855849ec",
+    "persona": "\u9E92\u9E9F\u5927\u806A\u660E",
+    "names": [
+      "\u9E92\u9E9F\u5927\u806A\u660E"
+    ],
+    "runs": 1,
+    "bestRank": 115,
+    "worstRank": 115,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3305305,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 115,
+        "ms": 3305305,
+        "dish": "Fajitas"
       }
     ]
   },

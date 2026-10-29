@@ -4,8 +4,8 @@
   "names": [
     "koumori144"
   ],
-  "runs": 31,
-  "bestRank": 59,
+  "runs": 32,
+  "bestRank": 50,
   "worstRank": 339,
   "firstPlaces": 0,
   "top3": 0,
@@ -42,7 +42,8 @@
     80,
     81,
     82,
-    85
+    85,
+    94
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 176,
       "ms": 2851481,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 50,
+      "ms": 2464757,
+      "dish": "Fajitas"
     }
   ]
 }

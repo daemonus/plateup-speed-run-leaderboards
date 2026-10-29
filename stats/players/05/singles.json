@@ -1222,32 +1222,6 @@
     ]
   },
   {
-    "id": "0557b1e7-9257-45e6-88d7-581a7ae17863",
-    "persona": "1956703097",
-    "names": [
-      "1956703097"
-    ],
-    "runs": 1,
-    "bestRank": 567,
-    "worstRank": 567,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6709817,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 567,
-        "ms": 6709817,
-        "dish": "Salad"
-      }
-    ]
-  },
-  {
     "id": "055c2c73-4660-4c22-a2aa-3008aa15a6e4",
     "persona": "Eiscream",
     "names": [
@@ -2476,8 +2450,8 @@
       "max_thsn"
     ],
     "runs": 1,
-    "bestRank": 182,
-    "worstRank": 182,
+    "bestRank": 199,
+    "worstRank": 199,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2463,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 182,
+        "rank": 199,
         "ms": 4230016,
         "dish": "Fajitas"
       }

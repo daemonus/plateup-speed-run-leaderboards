@@ -4,7 +4,7 @@
   "names": [
     "koshian"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 60,
   "worstRank": 138,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 128,
       "ms": 3167770,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 73,
+      "ms": 2810037,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Krouton"
   ],
-  "runs": 12,
-  "bestRank": 143,
+  "runs": 13,
+  "bestRank": 112,
   "worstRank": 405,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     68,
     69,
     70,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 223,
       "ms": 3116611,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 112,
+      "ms": 3295155,
+      "dish": "Fajitas"
     }
   ]
 }
