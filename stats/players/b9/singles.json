@@ -1872,6 +1872,32 @@
     ]
   },
   {
+    "id": "b990c6e9-f466-4844-bcb4-8d009842fe10",
+    "persona": "jollof rice",
+    "names": [
+      "jollof rice"
+    ],
+    "runs": 1,
+    "bestRank": 123,
+    "worstRank": 123,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3238693,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 123,
+        "ms": 3238693,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "b991ea34-9f1a-4c6b-b94e-f066e33ff0e3",
     "persona": "CrystalFreeze",
     "names": [
@@ -1930,8 +1956,8 @@
       "2974631769"
     ],
     "runs": 1,
-    "bestRank": 223,
-    "worstRank": 223,
+    "bestRank": 256,
+    "worstRank": 256,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1969,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 223,
+        "rank": 256,
         "ms": 4843862,
         "dish": "Fajitas"
       }

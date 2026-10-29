@@ -4,16 +4,17 @@
   "names": [
     "\u53F2\u5446\u82AC\u8D85\u53EF\u7231"
   ],
-  "runs": 2,
-  "bestRank": 193,
+  "runs": 3,
+  "bestRank": 143,
   "worstRank": 472,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3593773,
+  "bestMs": 3373039,
   "weeksActive": [
     31,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 193,
       "ms": 3593773,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 143,
+      "ms": 3373039,
+      "dish": "Fajitas"
     }
   ]
 }

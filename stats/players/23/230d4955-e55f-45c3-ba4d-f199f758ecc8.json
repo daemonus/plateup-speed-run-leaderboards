@@ -4,7 +4,7 @@
   "names": [
     "\u30DE\u30A4\u30F3"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 55,
   "worstRank": 290,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     56,
     58,
     59,
-    67
+    67,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 55,
       "ms": 2298125,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 60,
+      "ms": 2503433,
+      "dish": "Fajitas"
     }
   ]
 }

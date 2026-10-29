@@ -260,6 +260,32 @@
     ]
   },
   {
+    "id": "5a12609e-ee7d-4054-9b60-ce5d961ec7ab",
+    "persona": ":\uFF09",
+    "names": [
+      ":\uFF09"
+    ],
+    "runs": 1,
+    "bestRank": 253,
+    "worstRank": 253,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4757377,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 253,
+        "ms": 4757377,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "5a14ee79-a695-4036-8fdb-7a07cade3368",
     "persona": "Toaster",
     "names": [
@@ -1878,8 +1904,8 @@
       "Nausicaa57"
     ],
     "runs": 1,
-    "bestRank": 165,
-    "worstRank": 165,
+    "bestRank": 189,
+    "worstRank": 189,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 165,
+        "rank": 189,
         "ms": 3891729,
         "dish": "Fajitas"
       }
@@ -2866,8 +2892,8 @@
       "pwrcmdr"
     ],
     "runs": 1,
-    "bestRank": 236,
-    "worstRank": 236,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2879,7 +2905,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 236,
+        "rank": 273,
         "ms": 5382443,
         "dish": "Fajitas"
       }

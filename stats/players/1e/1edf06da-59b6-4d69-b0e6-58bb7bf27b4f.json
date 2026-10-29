@@ -4,7 +4,7 @@
   "names": [
     "beccaaaaaa"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 3,
   "worstRank": 820,
   "firstPlaces": 0,
@@ -47,7 +47,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 20,
       "ms": 2112429,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 13,
+      "ms": 1654353,
+      "dish": "Fajitas"
     }
   ]
 }

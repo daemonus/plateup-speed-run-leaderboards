@@ -4,7 +4,7 @@
   "names": [
     "bebesue"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 11,
   "worstRank": 399,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     77,
     82,
     85,
-    86
+    86,
+    94
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 56,
       "ms": 1342611,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 43,
+      "ms": 2293737,
+      "dish": "Fajitas"
     }
   ]
 }

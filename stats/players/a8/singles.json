@@ -2918,8 +2918,8 @@
       "wl02916035"
     ],
     "runs": 1,
-    "bestRank": 174,
-    "worstRank": 174,
+    "bestRank": 198,
+    "worstRank": 198,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2931,7 +2931,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 174,
+        "rank": 198,
         "ms": 3970190,
         "dish": "Fajitas"
       }
@@ -3350,6 +3350,32 @@
         "rank": 209,
         "ms": 3895073,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "a8ffd491-1626-4884-a7ca-c1b7f29e7e69",
+    "persona": "blue",
+    "names": [
+      "blue"
+    ],
+    "runs": 1,
+    "bestRank": 255,
+    "worstRank": 255,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4781490,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 255,
+        "ms": 4781490,
+        "dish": "Fajitas"
       }
     ]
   }

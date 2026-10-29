@@ -4,7 +4,7 @@
   "names": [
     "MISOIRAN"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 3,
   "worstRank": 392,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 9,
       "ms": 1591701,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 24,
+      "ms": 1883898,
+      "dish": "Fajitas"
     }
   ]
 }

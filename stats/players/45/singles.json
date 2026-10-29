@@ -624,6 +624,32 @@
     ]
   },
   {
+    "id": "4529087b-5259-43bd-aa9c-eb779e0c7bd6",
+    "persona": "buzzz3",
+    "names": [
+      "buzzz3"
+    ],
+    "runs": 1,
+    "bestRank": 164,
+    "worstRank": 164,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3636808,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 164,
+        "ms": 3636808,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "452a894b-01c3-4c1f-bb4b-13ee89cd6b4b",
     "persona": "Pockii",
     "names": [
@@ -3126,8 +3152,8 @@
       "TreeTV"
     ],
     "runs": 1,
-    "bestRank": 217,
-    "worstRank": 217,
+    "bestRank": 247,
+    "worstRank": 247,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3139,7 +3165,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 217,
+        "rank": 247,
         "ms": 4683926,
         "dish": "Fajitas"
       }

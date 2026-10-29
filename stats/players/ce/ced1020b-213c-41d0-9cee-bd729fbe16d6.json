@@ -4,7 +4,7 @@
   "names": [
     "Algue"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 237,
   "worstRank": 601,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     61,
     62,
     63,
-    91
+    91,
+    94
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 252,
       "ms": 6097158,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 298,
+      "ms": 7580466,
+      "dish": "Fajitas"
     }
   ]
 }

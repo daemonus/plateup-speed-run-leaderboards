@@ -1586,6 +1586,32 @@
     ]
   },
   {
+    "id": "057cbded-9068-4883-b31b-37255fb8fc5f",
+    "persona": "Syzng",
+    "names": [
+      "Syzng"
+    ],
+    "runs": 1,
+    "bestRank": 279,
+    "worstRank": 279,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5621765,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 279,
+        "ms": 5621765,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "057e4d36-fabf-4c2e-ad7b-c97d10824c46",
     "persona": "olybeastproton",
     "names": [
@@ -2450,8 +2476,8 @@
       "max_thsn"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 226,
+    "worstRank": 226,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 199,
+        "rank": 226,
         "ms": 4230016,
         "dish": "Fajitas"
       }

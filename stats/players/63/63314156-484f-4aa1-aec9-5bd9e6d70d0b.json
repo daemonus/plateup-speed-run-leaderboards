@@ -4,7 +4,7 @@
   "names": [
     "jackiemoon"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 11,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     66,
     67,
     69,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 74,
       "ms": 2304452,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 68,
+      "ms": 2647439,
+      "dish": "Fajitas"
     }
   ]
 }

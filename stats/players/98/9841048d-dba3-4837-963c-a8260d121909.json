@@ -4,7 +4,7 @@
   "names": [
     "keiko202"
   ],
-  "runs": 117,
+  "runs": 118,
   "bestRank": 8,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -128,7 +128,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -949,6 +950,13 @@
       "rank": 122,
       "ms": 3141127,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 66,
+      "ms": 2591141,
+      "dish": "Fajitas"
     }
   ]
 }

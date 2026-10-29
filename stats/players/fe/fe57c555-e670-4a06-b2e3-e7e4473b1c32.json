@@ -4,16 +4,17 @@
   "names": [
     "mOchiOuO"
   ],
-  "runs": 2,
-  "bestRank": 351,
+  "runs": 3,
+  "bestRank": 186,
   "worstRank": 746,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4536205,
+  "bestMs": 3877874,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 351,
       "ms": 4536205,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 186,
+      "ms": 3877874,
+      "dish": "Fajitas"
     }
   ]
 }

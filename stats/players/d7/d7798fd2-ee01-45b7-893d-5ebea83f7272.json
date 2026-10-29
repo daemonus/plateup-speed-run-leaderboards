@@ -4,7 +4,7 @@
   "names": [
     "lizzoli"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 166,
   "worstRank": 283,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     89,
     90,
     91,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 166,
       "ms": 3439672,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 199,
+      "ms": 3974673,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "saku"
   ],
-  "runs": 2,
-  "bestRank": 232,
+  "runs": 3,
+  "bestRank": 162,
   "worstRank": 378,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3281554,
   "weeksActive": [
     52,
-    65
+    65,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 232,
       "ms": 3524924,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 162,
+      "ms": 3602344,
+      "dish": "Fajitas"
     }
   ]
 }
