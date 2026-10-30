@@ -4,7 +4,7 @@
   "names": [
     "wham12"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 147,
   "worstRank": 651,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     88,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 149,
       "ms": 3314279,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 180,
+      "ms": 3723638,
+      "dish": "Fajitas"
     }
   ]
 }

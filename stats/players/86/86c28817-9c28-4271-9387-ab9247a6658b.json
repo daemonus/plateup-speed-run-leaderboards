@@ -4,7 +4,7 @@
   "names": [
     "LG"
   ],
-  "runs": 80,
+  "runs": 81,
   "bestRank": 23,
   "worstRank": 834,
   "firstPlaces": 0,
@@ -91,7 +91,8 @@
     85,
     86,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -653,6 +654,13 @@
       "rank": 207,
       "ms": 3055573,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 62,
+      "ms": 2516812,
+      "dish": "Fajitas"
     }
   ]
 }

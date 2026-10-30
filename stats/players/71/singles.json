@@ -702,6 +702,32 @@
     ]
   },
   {
+    "id": "71397ec4-5556-4816-ad80-4b54f9d12950",
+    "persona": "\u7345\u5B50\u4E38",
+    "names": [
+      "\u7345\u5B50\u4E38"
+    ],
+    "runs": 1,
+    "bestRank": 279,
+    "worstRank": 279,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4827831,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 279,
+        "ms": 4827831,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "713da510-7e9f-4aa5-9d0f-c099d856a30e",
     "persona": "Deatheater Ilhan",
     "names": [
@@ -2060,8 +2086,8 @@
       "Vazquez Provisionalmente"
     ],
     "runs": 1,
-    "bestRank": 200,
-    "worstRank": 200,
+    "bestRank": 213,
+    "worstRank": 213,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2099,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 200,
+        "rank": 213,
         "ms": 3987238,
         "dish": "Fajitas"
       }

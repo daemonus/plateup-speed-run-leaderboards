@@ -1436,8 +1436,8 @@
       "sio"
     ],
     "runs": 1,
-    "bestRank": 194,
-    "worstRank": 194,
+    "bestRank": 206,
+    "worstRank": 206,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1449,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 194,
+        "rank": 206,
         "ms": 3946564,
         "dish": "Fajitas"
       }
@@ -2986,32 +2986,6 @@
         "rank": 811,
         "ms": 4594550,
         "dish": "Pies"
-      }
-    ]
-  },
-  {
-    "id": "f6eb10a0-85fb-421a-bc54-a0507a5e87aa",
-    "persona": "Xesda",
-    "names": [
-      "Xesda"
-    ],
-    "runs": 1,
-    "bestRank": 467,
-    "worstRank": 467,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4482892,
-    "weeksActive": [
-      -25
-    ],
-    "history": [
-      {
-        "week": -25,
-        "start": "2024-07-15",
-        "rank": 467,
-        "ms": 4482892,
-        "dish": "Breakfast"
       }
     ]
   },

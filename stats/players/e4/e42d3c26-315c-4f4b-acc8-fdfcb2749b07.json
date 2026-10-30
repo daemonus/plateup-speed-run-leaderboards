@@ -4,8 +4,8 @@
   "names": [
     "belledella"
   ],
-  "runs": 2,
-  "bestRank": 340,
+  "runs": 3,
+  "bestRank": 207,
   "worstRank": 356,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3103061,
   "weeksActive": [
     86,
-    89
+    89,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 340,
       "ms": 4786596,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 207,
+      "ms": 3948093,
+      "dish": "Fajitas"
     }
   ]
 }

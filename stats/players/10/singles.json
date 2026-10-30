@@ -182,6 +182,32 @@
     ]
   },
   {
+    "id": "100c3aa6-9880-45c9-b0b4-2c21369e7cf3",
+    "persona": "TheSlightlyAngryCow",
+    "names": [
+      "TheSlightlyAngryCow"
+    ],
+    "runs": 1,
+    "bestRank": 248,
+    "worstRank": 248,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4410486,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 248,
+        "ms": 4410486,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "100ee8e0-6646-4ad1-89c6-94b1d8d404cd",
     "persona": "FranklinsHand",
     "names": [
@@ -3246,6 +3272,32 @@
         "rank": 522,
         "ms": 2700748,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "10e7337e-d5e5-4777-8fae-fe0b6ce3c32d",
+    "persona": "Mell",
+    "names": [
+      "Mell"
+    ],
+    "runs": 1,
+    "bestRank": 116,
+    "worstRank": 116,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3090307,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 116,
+        "ms": 3090307,
+        "dish": "Fajitas"
       }
     ]
   },

@@ -4,16 +4,17 @@
   "names": [
     "\u5543\u6CE5"
   ],
-  "runs": 2,
-  "bestRank": 495,
+  "runs": 3,
+  "bestRank": 100,
   "worstRank": 516,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3774152,
+  "bestMs": 2996896,
   "weeksActive": [
     -3,
-    53
+    53,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 495,
       "ms": 6789403,
       "dish": "Pies"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 100,
+      "ms": 2996896,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -422,8 +422,8 @@
       "\u304F\u308D\u308C\u3059"
     ],
     "runs": 1,
-    "bestRank": 159,
-    "worstRank": 159,
+    "bestRank": 165,
+    "worstRank": 165,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 159,
+        "rank": 165,
         "ms": 3587238,
         "dish": "Fajitas"
       }
@@ -1716,6 +1716,32 @@
     ]
   },
   {
+    "id": "50798dba-736e-4fbd-8c0b-5597b846d1ce",
+    "persona": "\u72D0\u4E30",
+    "names": [
+      "\u72D0\u4E30"
+    ],
+    "runs": 1,
+    "bestRank": 72,
+    "worstRank": 72,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2649967,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 72,
+        "ms": 2649967,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "5079a822-ffb8-408f-a176-e62a77bd34be",
     "persona": "Brodo",
     "names": [
@@ -2320,8 +2346,8 @@
       "\u307E\u3063\u3061\u3083\u30B3\u30FC\u30D2\u30FC"
     ],
     "runs": 1,
-    "bestRank": 262,
-    "worstRank": 262,
+    "bestRank": 287,
+    "worstRank": 287,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 262,
+        "rank": 287,
         "ms": 4992654,
         "dish": "Fajitas"
       }
@@ -2632,8 +2658,8 @@
       "pocochan0414"
     ],
     "runs": 1,
-    "bestRank": 49,
-    "worstRank": 49,
+    "bestRank": 50,
+    "worstRank": 50,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2645,7 +2671,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 49,
+        "rank": 50,
         "ms": 2380976,
         "dish": "Fajitas"
       }

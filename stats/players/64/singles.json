@@ -1404,6 +1404,32 @@
     ]
   },
   {
+    "id": "64698ff6-e68c-46a5-9193-ec85abe913b6",
+    "persona": "ThaBoy",
+    "names": [
+      "ThaBoy"
+    ],
+    "runs": 1,
+    "bestRank": 319,
+    "worstRank": 319,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6599036,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 319,
+        "ms": 6599036,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "646c96c5-3fe4-46f6-9b4b-19de0e19a375",
     "persona": ".cee",
     "names": [
@@ -2450,8 +2476,8 @@
       "366217619"
     ],
     "runs": 1,
-    "bestRank": 157,
-    "worstRank": 157,
+    "bestRank": 163,
+    "worstRank": 163,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2463,7 +2489,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 157,
+        "rank": 163,
         "ms": 3546490,
         "dish": "Fajitas"
       }

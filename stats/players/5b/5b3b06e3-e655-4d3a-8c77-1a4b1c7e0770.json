@@ -4,16 +4,17 @@
   "names": [
     "dot_com__15"
   ],
-  "runs": 2,
-  "bestRank": 445,
+  "runs": 3,
+  "bestRank": 217,
   "worstRank": 897,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4996025,
+  "bestMs": 4007395,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 445,
       "ms": 5217263,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 217,
+      "ms": 4007395,
+      "dish": "Fajitas"
     }
   ]
 }
