@@ -4,7 +4,7 @@
   "names": [
     "yevfurman"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 66,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 66,
       "ms": 2718927,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 80,
+      "ms": 2683581,
+      "dish": "Fajitas"
     }
   ]
 }

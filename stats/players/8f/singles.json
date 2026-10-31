@@ -1202,8 +1202,8 @@
       "\u963F\u525B"
     ],
     "runs": 1,
-    "bestRank": 152,
-    "worstRank": 152,
+    "bestRank": 172,
+    "worstRank": 172,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 152,
+        "rank": 172,
         "ms": 3438577,
         "dish": "Fajitas"
       }
@@ -3324,6 +3324,32 @@
         "rank": 825,
         "ms": 4263298,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "8fd65359-1e7a-4490-a949-9982dcd712db",
+    "persona": "e.",
+    "names": [
+      "e."
+    ],
+    "runs": 1,
+    "bestRank": 92,
+    "worstRank": 92,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2770948,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 92,
+        "ms": 2770948,
+        "dish": "Fajitas"
       }
     ]
   },

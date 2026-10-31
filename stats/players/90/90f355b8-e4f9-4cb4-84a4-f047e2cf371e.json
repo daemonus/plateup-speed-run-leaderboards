@@ -4,7 +4,7 @@
   "names": [
     "Badgerstaff"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 110,
   "worstRank": 876,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     88,
     89,
     90,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 521,
       "ms": 4033833,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 223,
+      "ms": 3821736,
+      "dish": "Fajitas"
     }
   ]
 }

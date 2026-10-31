@@ -4,7 +4,7 @@
   "names": [
     "Nit.L"
   ],
-  "runs": 19,
+  "runs": 20,
   "bestRank": 38,
   "worstRank": 317,
   "firstPlaces": 0,
@@ -30,7 +30,8 @@
     83,
     84,
     88,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -165,6 +166,13 @@
       "rank": 156,
       "ms": 2839937,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 176,
+      "ms": 3466680,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -177,6 +177,14 @@
       "dish": "Sundaes"
     },
     {
+      "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+      "persona": "Hocktor",
+      "ms": 867836,
+      "week": 94,
+      "rank": 2,
+      "dish": "Fajitas"
+    },
+    {
       "id": "8d2f9470-eab1-4fd7-beec-76755d1b347b",
       "persona": "Quadse",
       "ms": 867957,
@@ -190,14 +198,6 @@
       "ms": 871640,
       "week": 84,
       "rank": 13,
-      "dish": "Sundaes"
-    },
-    {
-      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
-      "persona": "ducttapegirl369",
-      "ms": 878103,
-      "week": 84,
-      "rank": 14,
       "dish": "Sundaes"
     }
   ],
@@ -534,7 +534,7 @@
     {
       "id": "01311f25-54f7-4bc5-88ba-23d3826f1c3d",
       "persona": "Robin",
-      "count": 118
+      "count": 119
     },
     {
       "id": "400c39d5-b42c-4ee6-92c8-f7c678cf882b",

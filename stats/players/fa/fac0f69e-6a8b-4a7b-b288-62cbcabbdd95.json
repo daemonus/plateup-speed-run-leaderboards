@@ -4,7 +4,7 @@
   "names": [
     "0731yn"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 15,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 131,
       "ms": 3186427,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 170,
+      "ms": 3410544,
+      "dish": "Fajitas"
     }
   ]
 }

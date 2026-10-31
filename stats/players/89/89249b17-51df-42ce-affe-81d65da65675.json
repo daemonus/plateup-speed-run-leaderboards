@@ -4,7 +4,7 @@
   "names": [
     "creakalicious"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 86,
   "worstRank": 456,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     87,
     88,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 86,
       "ms": 2389843,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 236,
+      "ms": 3917873,
+      "dish": "Fajitas"
     }
   ]
 }

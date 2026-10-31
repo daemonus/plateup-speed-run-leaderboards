@@ -468,6 +468,32 @@
     ]
   },
   {
+    "id": "f6251789-2b01-406e-aadb-75e594d120ec",
+    "persona": "kuchren",
+    "names": [
+      "kuchren"
+    ],
+    "runs": 1,
+    "bestRank": 185,
+    "worstRank": 185,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3505803,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 185,
+        "ms": 3505803,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "f627fa92-c8aa-4055-8da0-3a02e3fa6fdb",
     "persona": "TurnipTheBase",
     "names": [
@@ -1436,8 +1462,8 @@
       "sio"
     ],
     "runs": 1,
-    "bestRank": 206,
-    "worstRank": 206,
+    "bestRank": 240,
+    "worstRank": 240,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1475,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 206,
+        "rank": 240,
         "ms": 3946564,
         "dish": "Fajitas"
       }

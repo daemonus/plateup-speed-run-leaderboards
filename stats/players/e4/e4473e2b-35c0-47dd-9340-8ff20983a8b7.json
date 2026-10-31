@@ -4,7 +4,7 @@
   "names": [
     "Twisty"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 126,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     68,
     89,
     90,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 163,
       "ms": 2865561,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 129,
+      "ms": 3075852,
+      "dish": "Fajitas"
     }
   ]
 }

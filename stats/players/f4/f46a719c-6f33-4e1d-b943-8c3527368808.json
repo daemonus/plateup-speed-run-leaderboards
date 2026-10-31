@@ -4,7 +4,7 @@
   "names": [
     "whitnack"
   ],
-  "runs": 100,
+  "runs": 101,
   "bestRank": 11,
   "worstRank": 649,
   "firstPlaces": 0,
@@ -111,7 +111,8 @@
     87,
     90,
     91,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -813,6 +814,13 @@
       "rank": 158,
       "ms": 3370990,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 121,
+      "ms": 3048186,
+      "dish": "Fajitas"
     }
   ]
 }

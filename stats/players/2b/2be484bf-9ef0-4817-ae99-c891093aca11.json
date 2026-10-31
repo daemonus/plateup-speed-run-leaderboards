@@ -4,7 +4,7 @@
   "names": [
     "BryanL64"
   ],
-  "runs": 81,
+  "runs": 82,
   "bestRank": 81,
   "worstRank": 1142,
   "firstPlaces": 0,
@@ -92,7 +92,8 @@
     89,
     90,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -661,6 +662,13 @@
       "rank": 376,
       "ms": 4737824,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 163,
+      "ms": 3361418,
+      "dish": "Fajitas"
     }
   ]
 }

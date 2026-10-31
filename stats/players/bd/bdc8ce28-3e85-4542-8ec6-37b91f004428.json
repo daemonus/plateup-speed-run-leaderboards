@@ -4,7 +4,7 @@
   "names": [
     "Danzose"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 16,
   "worstRank": 326,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     77,
     81,
     82,
-    91
+    91,
+    94
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 104,
       "ms": 3164811,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 106,
+      "ms": 2912579,
+      "dish": "Fajitas"
     }
   ]
 }

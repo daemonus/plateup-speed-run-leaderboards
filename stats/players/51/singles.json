@@ -1482,6 +1482,32 @@
     ]
   },
   {
+    "id": "51752edd-10f4-4a1a-92b8-085487c4c1c0",
+    "persona": "\u963F\u9686",
+    "names": [
+      "\u963F\u9686"
+    ],
+    "runs": 1,
+    "bestRank": 258,
+    "worstRank": 258,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4055464,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 258,
+        "ms": 4055464,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "5176a757-407e-442b-8fe3-9d1b94dfcea0",
     "persona": "Kiki",
     "names": [
@@ -3100,8 +3126,8 @@
       "\u541B\u5F52\u4ECA\u5929\u6CA1\u5403\u996D"
     ],
     "runs": 1,
-    "bestRank": 310,
-    "worstRank": 310,
+    "bestRank": 369,
+    "worstRank": 369,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 310,
+        "rank": 369,
         "ms": 5840156,
         "dish": "Fajitas"
       }

@@ -1794,6 +1794,32 @@
     ]
   },
   {
+    "id": "7693882a-cce3-4eb0-8dd9-c434102ccdcd",
+    "persona": "shattered",
+    "names": [
+      "shattered"
+    ],
+    "runs": 1,
+    "bestRank": 181,
+    "worstRank": 181,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3488469,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 181,
+        "ms": 3488469,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "769563a0-b928-45bd-93b7-07b8e055198e",
     "persona": "Counter-Quack",
     "names": [
@@ -1904,8 +1930,8 @@
       "TerrorMisu"
     ],
     "runs": 1,
-    "bestRank": 181,
-    "worstRank": 181,
+    "bestRank": 211,
+    "worstRank": 211,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1917,7 +1943,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 181,
+        "rank": 211,
         "ms": 3733862,
         "dish": "Fajitas"
       }

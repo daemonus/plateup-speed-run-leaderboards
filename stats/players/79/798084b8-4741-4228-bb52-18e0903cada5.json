@@ -4,7 +4,7 @@
   "names": [
     "shannon.stone4418"
   ],
-  "runs": 42,
+  "runs": 43,
   "bestRank": 48,
   "worstRank": 512,
   "firstPlaces": 0,
@@ -53,7 +53,8 @@
     80,
     90,
     91,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -349,6 +350,13 @@
       "rank": 174,
       "ms": 3473297,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 248,
+      "ms": 3974724,
+      "dish": "Fajitas"
     }
   ]
 }

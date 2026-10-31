@@ -4,16 +4,17 @@
   "names": [
     "oga"
   ],
-  "runs": 2,
-  "bestRank": 121,
+  "runs": 3,
+  "bestRank": 74,
   "worstRank": 188,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2965824,
+  "bestMs": 2614683,
   "weeksActive": [
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 121,
       "ms": 3137876,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 74,
+      "ms": 2614683,
+      "dish": "Fajitas"
     }
   ]
 }
