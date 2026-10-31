@@ -4,16 +4,17 @@
   "names": [
     "lysypolpot"
   ],
-  "runs": 2,
-  "bestRank": 151,
+  "runs": 3,
+  "bestRank": 150,
   "worstRank": 280,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3331265,
+  "bestMs": 3187035,
   "weeksActive": [
     62,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 151,
       "ms": 3331265,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 150,
+      "ms": 3187035,
+      "dish": "Fajitas"
     }
   ]
 }

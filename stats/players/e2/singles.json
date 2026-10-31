@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "e211ec45-0f0e-4cf2-9e75-198526a49961",
+    "persona": "Chewbacca",
+    "names": [
+      "Chewbacca"
+    ],
+    "runs": 1,
+    "bestRank": 424,
+    "worstRank": 424,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9327359,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 424,
+        "ms": 9327359,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "e2127626-7f53-4c3b-a2f2-4f98402f30fc",
     "persona": "rapsc4llion",
     "names": [
@@ -2502,8 +2528,8 @@
       "SkySlay7"
     ],
     "runs": 1,
-    "bestRank": 134,
-    "worstRank": 134,
+    "bestRank": 141,
+    "worstRank": 141,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2541,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 134,
+        "rank": 141,
         "ms": 3098635,
         "dish": "Fajitas"
       }

@@ -4,7 +4,7 @@
   "names": [
     "artemisthegamer40"
   ],
-  "runs": 74,
+  "runs": 75,
   "bestRank": 54,
   "worstRank": 278,
   "firstPlaces": 0,
@@ -85,7 +85,8 @@
     88,
     89,
     90,
-    91
+    91,
+    94
   ],
   "history": [
     {
@@ -605,6 +606,13 @@
       "rank": 123,
       "ms": 3400095,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 111,
+      "ms": 2898731,
+      "dish": "Fajitas"
     }
   ]
 }

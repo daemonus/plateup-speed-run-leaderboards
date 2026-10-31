@@ -448,8 +448,8 @@
       "PaisyBoy"
     ],
     "runs": 1,
-    "bestRank": 368,
-    "worstRank": 368,
+    "bestRank": 397,
+    "worstRank": 397,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -461,7 +461,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 368,
+        "rank": 397,
         "ms": 5832241,
         "dish": "Fajitas"
       }
@@ -2960,6 +2960,32 @@
         "rank": 599,
         "ms": 4198213,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "42e70529-3e3f-4eab-888f-6add47bf8e74",
+    "persona": "rbsuleymenov",
+    "names": [
+      "rbsuleymenov"
+    ],
+    "runs": 1,
+    "bestRank": 307,
+    "worstRank": 307,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4254256,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 307,
+        "ms": 4254256,
+        "dish": "Fajitas"
       }
     ]
   },

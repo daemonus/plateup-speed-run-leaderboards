@@ -4,8 +4,8 @@
   "names": [
     "shu"
   ],
-  "runs": 6,
-  "bestRank": 368,
+  "runs": 7,
+  "bestRank": 338,
   "worstRank": 676,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     58,
     62,
     63,
-    64
+    64,
+    94
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 368,
       "ms": 2417996,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 338,
+      "ms": 4575685,
+      "dish": "Fajitas"
     }
   ]
 }

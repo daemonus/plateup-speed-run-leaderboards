@@ -630,8 +630,8 @@
       "buzzz3"
     ],
     "runs": 1,
-    "bestRank": 200,
-    "worstRank": 200,
+    "bestRank": 213,
+    "worstRank": 213,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -643,7 +643,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 200,
+        "rank": 213,
         "ms": 3636808,
         "dish": "Fajitas"
       }
@@ -724,32 +724,6 @@
         "rank": 260,
         "ms": 5022490,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "452ef41a-1b44-47a8-b5ee-06e184e340c2",
-    "persona": "Prison Mike",
-    "names": [
-      "Prison Mike"
-    ],
-    "runs": 1,
-    "bestRank": 494,
-    "worstRank": 494,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5576864,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 494,
-        "ms": 5576864,
-        "dish": "Salad"
       }
     ]
   },
@@ -3152,8 +3126,8 @@
       "TreeTV"
     ],
     "runs": 1,
-    "bestRank": 321,
-    "worstRank": 321,
+    "bestRank": 346,
+    "worstRank": 346,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3165,7 +3139,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 321,
+        "rank": 346,
         "ms": 4683926,
         "dish": "Fajitas"
       }

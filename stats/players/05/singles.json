@@ -1228,8 +1228,8 @@
       "Bashar"
     ],
     "runs": 1,
-    "bestRank": 287,
-    "worstRank": 287,
+    "bestRank": 304,
+    "worstRank": 304,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1241,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 287,
+        "rank": 304,
         "ms": 4234051,
         "dish": "Fajitas"
       }
@@ -1322,6 +1322,32 @@
         "rank": 1081,
         "ms": 5716104,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "0560f04d-bc82-4f50-bd8b-7bfa8d7974e3",
+    "persona": "603455807",
+    "names": [
+      "603455807"
+    ],
+    "runs": 1,
+    "bestRank": 410,
+    "worstRank": 410,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6597092,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 410,
+        "ms": 6597092,
+        "dish": "Fajitas"
       }
     ]
   },
@@ -1618,8 +1644,8 @@
       "Syzng"
     ],
     "runs": 1,
-    "bestRank": 364,
-    "worstRank": 364,
+    "bestRank": 394,
+    "worstRank": 394,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1657,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 364,
+        "rank": 394,
         "ms": 5621765,
         "dish": "Fajitas"
       }
@@ -2502,8 +2528,8 @@
       "max_thsn"
     ],
     "runs": 1,
-    "bestRank": 285,
-    "worstRank": 285,
+    "bestRank": 302,
+    "worstRank": 302,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2515,7 +2541,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 285,
+        "rank": 302,
         "ms": 4230016,
         "dish": "Fajitas"
       }

@@ -208,6 +208,32 @@
     ]
   },
   {
+    "id": "ee1503a0-c9d7-4f06-832c-9a0b48d8ff31",
+    "persona": "EatTomato",
+    "names": [
+      "EatTomato"
+    ],
+    "runs": 1,
+    "bestRank": 417,
+    "worstRank": 417,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7194131,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 417,
+        "ms": 7194131,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "ee17e4a1-52c8-43b1-907c-bec39b2e2297",
     "persona": "\u6BD4\u5947\u5821\u5FC3\u788E\u8717\u725B",
     "names": [
@@ -1228,8 +1254,8 @@
       "hhjjkk0926"
     ],
     "runs": 1,
-    "bestRank": 150,
-    "worstRank": 150,
+    "bestRank": 160,
+    "worstRank": 160,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1267,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 150,
+        "rank": 160,
         "ms": 3300042,
         "dish": "Fajitas"
       }

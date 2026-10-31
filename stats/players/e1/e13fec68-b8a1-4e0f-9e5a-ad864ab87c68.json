@@ -4,18 +4,19 @@
   "names": [
     "andereik11"
   ],
-  "runs": 4,
-  "bestRank": 155,
+  "runs": 5,
+  "bestRank": 104,
   "worstRank": 366,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3169315,
+  "bestMs": 2836630,
   "weeksActive": [
     81,
     89,
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 366,
       "ms": 3618895,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 104,
+      "ms": 2836630,
+      "dish": "Fajitas"
     }
   ]
 }

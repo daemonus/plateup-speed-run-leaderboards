@@ -1696,8 +1696,8 @@
       "Tank_852"
     ],
     "runs": 1,
-    "bestRank": 374,
-    "worstRank": 374,
+    "bestRank": 403,
+    "worstRank": 403,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1709,7 +1709,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 374,
+        "rank": 403,
         "ms": 6035513,
         "dish": "Fajitas"
       }
@@ -1842,6 +1842,32 @@
         "rank": 722,
         "ms": 3846488,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "84791796-af8d-4a9e-a2bd-6b4ef76d0a47",
+    "persona": "SlenderCam",
+    "names": [
+      "SlenderCam"
+    ],
+    "runs": 1,
+    "bestRank": 409,
+    "worstRank": 409,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6556603,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 409,
+        "ms": 6556603,
+        "dish": "Fajitas"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "DUO"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 152,
   "worstRank": 400,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -49,
     -14,
     77,
-    78
+    78,
+    94
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 287,
       "ms": 3817158,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 239,
+      "ms": 3850398,
+      "dish": "Fajitas"
     }
   ]
 }

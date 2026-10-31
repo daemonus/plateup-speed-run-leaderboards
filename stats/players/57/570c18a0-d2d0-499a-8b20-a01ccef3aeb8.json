@@ -4,7 +4,7 @@
   "names": [
     "Rockstar | Anthony :\u00FE"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 135,
   "worstRank": 653,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     74,
     80,
     81,
-    83
+    83,
+    94
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 549,
       "ms": 3154302,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 291,
+      "ms": 4184859,
+      "dish": "Fajitas"
     }
   ]
 }

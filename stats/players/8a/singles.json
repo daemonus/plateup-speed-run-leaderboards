@@ -2572,5 +2572,31 @@
         "dish": "Fish"
       }
     ]
+  },
+  {
+    "id": "8afdf624-9937-4892-8369-b3eace134203",
+    "persona": "\u795E\u9053\u95BB\u9B54",
+    "names": [
+      "\u795E\u9053\u95BB\u9B54"
+    ],
+    "runs": 1,
+    "bestRank": 164,
+    "worstRank": 164,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3305518,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 164,
+        "ms": 3305518,
+        "dish": "Fajitas"
+      }
+    ]
   }
 ]

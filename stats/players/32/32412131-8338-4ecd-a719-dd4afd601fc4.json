@@ -4,7 +4,7 @@
   "names": [
     "Cocobear"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 67,
   "worstRank": 315,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 117,
       "ms": 3108753,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 145,
+      "ms": 3134528,
+      "dish": "Fajitas"
     }
   ]
 }

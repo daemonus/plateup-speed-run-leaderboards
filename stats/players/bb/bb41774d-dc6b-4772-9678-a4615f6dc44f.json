@@ -4,8 +4,8 @@
   "names": [
     "LinXiaoAi"
   ],
-  "runs": 26,
-  "bestRank": 201,
+  "runs": 27,
+  "bestRank": 143,
   "worstRank": 677,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 453,
       "ms": 5265502,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 143,
+      "ms": 3130980,
+      "dish": "Fajitas"
     }
   ]
 }

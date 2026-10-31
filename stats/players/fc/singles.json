@@ -1508,6 +1508,32 @@
     ]
   },
   {
+    "id": "fc7f1002-ac0e-4d59-b5fe-ddfc6e986c8a",
+    "persona": "tantaiyi1",
+    "names": [
+      "tantaiyi1"
+    ],
+    "runs": 1,
+    "bestRank": 363,
+    "worstRank": 363,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4865951,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 363,
+        "ms": 4865951,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "fc7ff6fc-79d4-4178-892e-f267d2369de3",
     "persona": "\u3070\u306A\u306A",
     "names": [
@@ -1566,8 +1592,8 @@
       "Adman"
     ],
     "runs": 1,
-    "bestRank": 126,
-    "worstRank": 126,
+    "bestRank": 133,
+    "worstRank": 133,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1579,7 +1605,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 126,
+        "rank": 133,
         "ms": 3068880,
         "dish": "Fajitas"
       }
@@ -2700,32 +2726,6 @@
         "rank": 327,
         "ms": 4334741,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "fcdf5394-825a-4b19-b094-cdfccc226ebf",
-    "persona": "anissanuraini05",
-    "names": [
-      "anissanuraini05"
-    ],
-    "runs": 1,
-    "bestRank": 464,
-    "worstRank": 464,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5330109,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 464,
-        "ms": 5330109,
-        "dish": "Salad"
       }
     ]
   },
