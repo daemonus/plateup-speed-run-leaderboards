@@ -578,8 +578,8 @@
       ".-."
     ],
     "runs": 1,
-    "bestRank": 270,
-    "worstRank": 270,
+    "bestRank": 282,
+    "worstRank": 282,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 270,
+        "rank": 282,
         "ms": 4035006,
         "dish": "Fajitas"
       }
@@ -1712,32 +1712,6 @@
         "rank": 417,
         "ms": 5265147,
         "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "356b6716-3086-49b2-90ec-1367ceb0dfe8",
-    "persona": "greatstrides.megan",
-    "names": [
-      "greatstrides.megan"
-    ],
-    "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3998458,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 252,
-        "ms": 3998458,
-        "dish": "Salad"
       }
     ]
   },

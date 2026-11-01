@@ -4,7 +4,7 @@
   "names": [
     "MyST"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 55,
   "worstRank": 397,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     64,
     65,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 159,
       "ms": 3376260,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 112,
+      "ms": 2865939,
+      "dish": "Fajitas"
     }
   ]
 }

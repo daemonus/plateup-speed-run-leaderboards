@@ -494,6 +494,32 @@
     ]
   },
   {
+    "id": "3a2a7db5-5c8e-409c-b16f-202a8fa0a42a",
+    "persona": "mayruWu",
+    "names": [
+      "mayruWu"
+    ],
+    "runs": 1,
+    "bestRank": 324,
+    "worstRank": 324,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4350637,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 324,
+        "ms": 4350637,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "3a2c41c0-9834-4d54-a916-6db5f4b1936d",
     "persona": "Fmor",
     "names": [
@@ -2492,6 +2518,32 @@
         "rank": 1462,
         "ms": 4137171,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "3ac03504-7ddc-4427-b178-d0ce9cc8b918",
+    "persona": "Mibs",
+    "names": [
+      "Mibs"
+    ],
+    "runs": 1,
+    "bestRank": 118,
+    "worstRank": 118,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2904819,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 118,
+        "ms": 2904819,
+        "dish": "Fajitas"
       }
     ]
   },

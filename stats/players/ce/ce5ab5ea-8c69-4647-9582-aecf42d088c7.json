@@ -4,7 +4,7 @@
   "names": [
     "VoLya"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 202,
   "worstRank": 496,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3972404,
   "weeksActive": [
     91,
-    92
+    92,
+    94
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 496,
       "ms": 3972404,
       "dish": "Fish"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 334,
+      "ms": 4442725,
+      "dish": "Fajitas"
     }
   ]
 }

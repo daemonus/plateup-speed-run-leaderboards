@@ -4,7 +4,7 @@
   "names": [
     "nemuandayaya"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 103,
   "worstRank": 589,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     80,
     83,
     84,
-    86
+    86,
+    94
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 103,
       "ms": 1666457,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 216,
+      "ms": 3592609,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "cathy"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 109,
   "worstRank": 248,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     86,
     87,
-    88
+    88,
+    94
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 248,
       "ms": 3810296,
       "dish": "Pies"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 219,
+      "ms": 3611170,
+      "dish": "Fajitas"
     }
   ]
 }

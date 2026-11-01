@@ -1410,8 +1410,8 @@
       "nightstar"
     ],
     "runs": 1,
-    "bestRank": 373,
-    "worstRank": 373,
+    "bestRank": 390,
+    "worstRank": 390,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1423,7 +1423,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 373,
+        "rank": 390,
         "ms": 5100641,
         "dish": "Fajitas"
       }
@@ -1872,6 +1872,32 @@
     ]
   },
   {
+    "id": "ae911aa8-5b17-4480-97ee-83f878928d61",
+    "persona": "Manma",
+    "names": [
+      "Manma"
+    ],
+    "runs": 1,
+    "bestRank": 33,
+    "worstRank": 33,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2029890,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 33,
+        "ms": 2029890,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "ae91df50-05d9-41d8-a835-3f5b97952571",
     "persona": "ilmatthias",
     "names": [
@@ -1930,8 +1956,8 @@
       "LIOUS2054"
     ],
     "runs": 1,
-    "bestRank": 351,
-    "worstRank": 351,
+    "bestRank": 367,
+    "worstRank": 367,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1969,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 351,
+        "rank": 367,
         "ms": 4742052,
         "dish": "Fajitas"
       }
@@ -2086,8 +2112,8 @@
       "exquisitecorpse"
     ],
     "runs": 1,
-    "bestRank": 401,
-    "worstRank": 401,
+    "bestRank": 420,
+    "worstRank": 420,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 401,
+        "rank": 420,
         "ms": 6018760,
         "dish": "Fajitas"
       }
