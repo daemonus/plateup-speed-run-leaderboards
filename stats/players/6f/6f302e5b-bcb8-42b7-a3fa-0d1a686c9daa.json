@@ -4,9 +4,9 @@
   "names": [
     "pablofol2003"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 118,
-  "worstRank": 303,
+  "worstRank": 341,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -15,7 +15,8 @@
     39,
     49,
     55,
-    56
+    56,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 303,
       "ms": 2181051,
       "dish": "Sundaes"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 341,
+      "ms": 4328431,
+      "dish": "Fajitas"
     }
   ]
 }

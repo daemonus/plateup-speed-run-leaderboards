@@ -4,7 +4,7 @@
   "names": [
     "Nebulaze"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 98,
   "worstRank": 413,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     43,
     89,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 98,
       "ms": 2983373,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 166,
+      "ms": 3251245,
+      "dish": "Fajitas"
     }
   ]
 }

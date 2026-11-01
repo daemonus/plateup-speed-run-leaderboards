@@ -4,7 +4,7 @@
   "names": [
     "zoon"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 180,
   "worstRank": 1642,
   "firstPlaces": 0,
@@ -34,7 +34,8 @@
     64,
     65,
     68,
-    74
+    74,
+    94
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 325,
       "ms": 5433064,
       "dish": "Breakfast"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 444,
+      "ms": 5962699,
+      "dish": "Fajitas"
     }
   ]
 }

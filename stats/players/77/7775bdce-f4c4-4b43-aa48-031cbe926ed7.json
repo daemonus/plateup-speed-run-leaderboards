@@ -4,7 +4,7 @@
   "names": [
     "peppermintlady"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 100,
   "worstRank": 1012,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     82,
     86,
     88,
-    89
+    89,
+    94
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 110,
       "ms": 2828090,
       "dish": "Pizza"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 475,
+      "ms": 11672505,
+      "dish": "Fajitas"
     }
   ]
 }

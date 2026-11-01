@@ -4,7 +4,7 @@
   "names": [
     "Skywalker8108"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 176,
   "worstRank": 501,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     88,
     89,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 206,
       "ms": 3674642,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 376,
+      "ms": 4625761,
+      "dish": "Fajitas"
     }
   ]
 }

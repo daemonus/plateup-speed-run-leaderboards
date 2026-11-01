@@ -4,8 +4,8 @@
   "names": [
     "Vertica"
   ],
-  "runs": 8,
-  "bestRank": 310,
+  "runs": 9,
+  "bestRank": 138,
   "worstRank": 825,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     -89,
     -87,
     -86,
-    -78
+    -78,
+    94
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 310,
       "ms": 3371148,
       "dish": "Burgers"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 138,
+      "ms": 3038759,
+      "dish": "Fajitas"
     }
   ]
 }

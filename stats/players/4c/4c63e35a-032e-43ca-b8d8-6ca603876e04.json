@@ -4,7 +4,7 @@
   "names": [
     "Jones"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 27,
   "worstRank": 255,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     90,
     91,
     92,
-    93
+    93,
+    94
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 60,
       "ms": 2688101,
       "dish": "Salad"
+    },
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 54,
+      "ms": 2324660,
+      "dish": "Fajitas"
     }
   ]
 }

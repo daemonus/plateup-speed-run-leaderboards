@@ -578,8 +578,8 @@
       "Frog Expert"
     ],
     "runs": 1,
-    "bestRank": 403,
-    "worstRank": 403,
+    "bestRank": 425,
+    "worstRank": 425,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -591,7 +591,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 403,
+        "rank": 425,
         "ms": 5414989,
         "dish": "Fajitas"
       }
@@ -1088,6 +1088,32 @@
         "rank": 340,
         "ms": 3437344,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "5e66fd47-d331-4d95-b59e-c5dfc54f0d84",
+    "persona": "daria.lagiewka913",
+    "names": [
+      "daria.lagiewka913"
+    ],
+    "runs": 1,
+    "bestRank": 301,
+    "worstRank": 301,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4080113,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 301,
+        "ms": 4080113,
+        "dish": "Fajitas"
       }
     ]
   },

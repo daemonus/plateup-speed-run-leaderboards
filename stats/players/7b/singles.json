@@ -1742,6 +1742,32 @@
     ]
   },
   {
+    "id": "7b6b8724-cd09-49d7-b34a-d97ffc1ce98f",
+    "persona": "\uD835\uDC07\uD835\uDC33\uD835\uDC24\uD835\uDC2E\uD835\uDC22",
+    "names": [
+      "\uD835\uDC07\uD835\uDC33\uD835\uDC24\uD835\uDC2E\uD835\uDC22"
+    ],
+    "runs": 1,
+    "bestRank": 442,
+    "worstRank": 442,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5932804,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 442,
+        "ms": 5932804,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "7b6ba20b-d0f2-425d-b067-46502bfed474",
     "persona": "\u4F60\u600E\u9EBC\u9023\u8A71\u90FD\u591A\u5E03\u4E01\u8CED",
     "names": [
@@ -1956,8 +1982,8 @@
       "14475078"
     ],
     "runs": 1,
-    "bestRank": 321,
-    "worstRank": 321,
+    "bestRank": 338,
+    "worstRank": 338,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1995,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 321,
+        "rank": 338,
         "ms": 4260252,
         "dish": "Fajitas"
       }

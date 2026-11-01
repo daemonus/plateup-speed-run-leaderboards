@@ -214,8 +214,8 @@
       "Chewbacca"
     ],
     "runs": 1,
-    "bestRank": 446,
-    "worstRank": 446,
+    "bestRank": 473,
+    "worstRank": 473,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 446,
+        "rank": 473,
         "ms": 9327359,
         "dish": "Fajitas"
       }
@@ -1898,6 +1898,32 @@
     ]
   },
   {
+    "id": "e29edb22-f071-46b2-8918-1c0bd22de5c5",
+    "persona": "Old Man Dog",
+    "names": [
+      "Old Man Dog"
+    ],
+    "runs": 1,
+    "bestRank": 248,
+    "worstRank": 248,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3755090,
+    "weeksActive": [
+      94
+    ],
+    "history": [
+      {
+        "week": 94,
+        "start": "2026-10-26",
+        "rank": 248,
+        "ms": 3755090,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "e2a01a92-bf88-44fd-86c5-52169448ab96",
     "persona": "\u54E9\u560E\u73B2\u5317\u53F0",
     "names": [
@@ -2528,8 +2554,8 @@
       "SkySlay7"
     ],
     "runs": 1,
-    "bestRank": 149,
-    "worstRank": 149,
+    "bestRank": 152,
+    "worstRank": 152,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 94,
         "start": "2026-10-26",
-        "rank": 149,
+        "rank": 152,
         "ms": 3098635,
         "dish": "Fajitas"
       }
