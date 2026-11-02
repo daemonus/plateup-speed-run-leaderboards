@@ -4,12 +4,12 @@
   "names": [
     "jinx"
   ],
-  "runs": 112,
+  "runs": 113,
   "bestRank": 1,
   "worstRank": 1190,
   "firstPlaces": 1,
   "top3": 11,
-  "top10": 38,
+  "top10": 39,
   "bestMs": 687293,
   "weeksActive": [
     -92,
@@ -123,7 +123,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -909,6 +910,13 @@
       "rank": 35,
       "ms": 2076255,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 7,
+      "ms": 1852986,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "koshian"
   ],
-  "runs": 5,
-  "bestRank": 60,
+  "runs": 6,
+  "bestRank": 28,
   "worstRank": 138,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 107,
       "ms": 2810037,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 28,
+      "ms": 2855669,
+      "dish": "Hot Dogs"
     }
   ]
 }

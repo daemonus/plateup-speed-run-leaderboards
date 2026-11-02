@@ -4,12 +4,12 @@
   "names": [
     "beccaaaaaa"
   ],
-  "runs": 37,
+  "runs": 38,
   "bestRank": 3,
   "worstRank": 820,
   "firstPlaces": 0,
-  "top3": 1,
-  "top10": 13,
+  "top3": 2,
+  "top10": 14,
   "bestMs": 654911,
   "weeksActive": [
     -77,
@@ -48,7 +48,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -309,6 +310,13 @@
       "rank": 14,
       "ms": 1654353,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 3,
+      "ms": 1627012,
+      "dish": "Hot Dogs"
     }
   ]
 }

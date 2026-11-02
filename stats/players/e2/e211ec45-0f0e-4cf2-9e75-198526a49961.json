@@ -1,0 +1,34 @@
+{
+  "id": "e211ec45-0f0e-4cf2-9e75-198526a49961",
+  "persona": "Chewbacca",
+  "names": [
+    "Chewbacca"
+  ],
+  "runs": 2,
+  "bestRank": 93,
+  "worstRank": 473,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 7357409,
+  "weeksActive": [
+    94,
+    95
+  ],
+  "history": [
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 473,
+      "ms": 9327359,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 93,
+      "ms": 7357409,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

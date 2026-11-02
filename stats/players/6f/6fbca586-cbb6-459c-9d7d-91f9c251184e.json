@@ -4,7 +4,7 @@
   "names": [
     "RoNight"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 15,
   "worstRank": 400,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     3,
     38,
     91,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 57,
       "ms": 2176422,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 21,
+      "ms": 2339788,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "3mmber"
   ],
-  "runs": 37,
+  "runs": 38,
   "bestRank": 7,
   "worstRank": 295,
   "firstPlaces": 0,
@@ -48,7 +48,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -309,6 +310,13 @@
       "rank": 11,
       "ms": 1544686,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 11,
+      "ms": 2068364,
+      "dish": "Hot Dogs"
     }
   ]
 }

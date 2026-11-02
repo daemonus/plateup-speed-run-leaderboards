@@ -4,7 +4,7 @@
   "names": [
     "Shaini"
   ],
-  "runs": 131,
+  "runs": 132,
   "bestRank": 19,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -142,7 +142,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -1061,6 +1062,13 @@
       "rank": 42,
       "ms": 2173596,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 54,
+      "ms": 3573384,
+      "dish": "Hot Dogs"
     }
   ]
 }

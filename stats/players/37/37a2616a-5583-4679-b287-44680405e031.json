@@ -4,8 +4,8 @@
   "names": [
     "zephyrchen"
   ],
-  "runs": 10,
-  "bestRank": 53,
+  "runs": 11,
+  "bestRank": 35,
   "worstRank": 436,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     90,
     91,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 53,
       "ms": 2607207,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 35,
+      "ms": 3000112,
+      "dish": "Hot Dogs"
     }
   ]
 }

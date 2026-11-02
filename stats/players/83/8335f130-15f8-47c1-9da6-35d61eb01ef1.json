@@ -4,7 +4,7 @@
   "names": [
     "elitesP"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 27,
   "worstRank": 137,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     90,
     91,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 137,
       "ms": 3217148,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 32,
+      "ms": 2965908,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "shrynsb27"
   ],
-  "runs": 3,
-  "bestRank": 313,
+  "runs": 4,
+  "bestRank": 78,
   "worstRank": 477,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 313,
       "ms": 4134584,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 78,
+      "ms": 4610674,
+      "dish": "Hot Dogs"
     }
   ]
 }

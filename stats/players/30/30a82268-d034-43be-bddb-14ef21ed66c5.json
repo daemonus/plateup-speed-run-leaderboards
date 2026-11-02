@@ -4,8 +4,8 @@
   "names": [
     "nyx.auris"
   ],
-  "runs": 4,
-  "bestRank": 84,
+  "runs": 5,
+  "bestRank": 66,
   "worstRank": 270,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     -29,
     -26,
     -25,
-    51
+    51,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 270,
       "ms": 4374784,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 66,
+      "ms": 4105560,
+      "dish": "Hot Dogs"
     }
   ]
 }

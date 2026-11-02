@@ -4,7 +4,7 @@
   "names": [
     "TheGreenRoom212"
   ],
-  "runs": 85,
+  "runs": 86,
   "bestRank": 32,
   "worstRank": 330,
   "firstPlaces": 0,
@@ -96,7 +96,8 @@
     47,
     51,
     52,
-    84
+    84,
+    95
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 218,
       "ms": 2000725,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 41,
+      "ms": 3199368,
+      "dish": "Hot Dogs"
     }
   ]
 }

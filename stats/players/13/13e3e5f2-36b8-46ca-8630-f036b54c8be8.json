@@ -4,8 +4,8 @@
   "names": [
     "toranosuke.ko"
   ],
-  "runs": 25,
-  "bestRank": 103,
+  "runs": 26,
+  "bestRank": 75,
   "worstRank": 334,
   "firstPlaces": 0,
   "top3": 0,
@@ -36,7 +36,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 125,
       "ms": 2928054,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 75,
+      "ms": 4405875,
+      "dish": "Hot Dogs"
     }
   ]
 }
