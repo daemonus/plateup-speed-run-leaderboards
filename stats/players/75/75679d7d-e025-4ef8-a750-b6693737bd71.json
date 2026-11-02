@@ -4,7 +4,7 @@
   "names": [
     "kurosatochi"
   ],
-  "runs": 15,
+  "runs": 16,
   "bestRank": 21,
   "worstRank": 81,
   "firstPlaces": 0,
@@ -26,7 +26,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -133,6 +134,13 @@
       "rank": 45,
       "ms": 2200560,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 27,
+      "ms": 3406608,
+      "dish": "Hot Dogs"
     }
   ]
 }

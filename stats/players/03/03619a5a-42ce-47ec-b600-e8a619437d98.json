@@ -4,8 +4,8 @@
   "names": [
     "yadushige"
   ],
-  "runs": 51,
-  "bestRank": 88,
+  "runs": 52,
+  "bestRank": 24,
   "worstRank": 707,
   "firstPlaces": 0,
   "top3": 0,
@@ -62,7 +62,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -421,6 +422,13 @@
       "rank": 129,
       "ms": 2990460,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 24,
+      "ms": 3232266,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Jimbos Monkey"
   ],
-  "runs": 185,
+  "runs": 186,
   "bestRank": 10,
   "worstRank": 1205,
   "firstPlaces": 0,
@@ -196,7 +196,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -1493,6 +1494,13 @@
       "rank": 29,
       "ms": 1939086,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 14,
+      "ms": 2469592,
+      "dish": "Hot Dogs"
     }
   ]
 }

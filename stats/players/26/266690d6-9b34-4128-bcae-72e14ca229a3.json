@@ -4,8 +4,8 @@
   "names": [
     "SHEL\u0130A"
   ],
-  "runs": 8,
-  "bestRank": 116,
+  "runs": 9,
+  "bestRank": 19,
   "worstRank": 437,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     59,
     75,
     82,
-    83
+    83,
+    95
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 437,
       "ms": 2799927,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 19,
+      "ms": 2987167,
+      "dish": "Hot Dogs"
     }
   ]
 }

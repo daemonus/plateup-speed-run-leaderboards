@@ -4,8 +4,8 @@
   "names": [
     "shannon.stone4418"
   ],
-  "runs": 43,
-  "bestRank": 48,
+  "runs": 44,
+  "bestRank": 31,
   "worstRank": 512,
   "firstPlaces": 0,
   "top3": 0,
@@ -54,7 +54,8 @@
     90,
     91,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -357,6 +358,13 @@
       "rank": 288,
       "ms": 3974724,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 31,
+      "ms": 3505351,
+      "dish": "Hot Dogs"
     }
   ]
 }

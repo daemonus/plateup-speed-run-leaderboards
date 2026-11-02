@@ -4,12 +4,12 @@
   "names": [
     "Scotty2Hotty17"
   ],
-  "runs": 174,
+  "runs": 175,
   "bestRank": 2,
   "worstRank": 304,
   "firstPlaces": 0,
   "top3": 3,
-  "top10": 37,
+  "top10": 38,
   "bestMs": 1130917,
   "weeksActive": [
     -94,
@@ -185,7 +185,8 @@
     89,
     90,
     91,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -1405,6 +1406,13 @@
       "rank": 16,
       "ms": 1974087,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 5,
+      "ms": 1906020,
+      "dish": "Hot Dogs"
     }
   ]
 }

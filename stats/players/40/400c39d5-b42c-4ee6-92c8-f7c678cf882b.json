@@ -4,12 +4,12 @@
   "names": [
     "I.T Guy"
   ],
-  "runs": 118,
-  "bestRank": 9,
+  "runs": 119,
+  "bestRank": 8,
   "worstRank": 771,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 3,
+  "top10": 4,
   "bestMs": 1034130,
   "weeksActive": [
     -91,
@@ -129,7 +129,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -957,6 +958,13 @@
       "rank": 19,
       "ms": 1727337,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 8,
+      "ms": 2221010,
+      "dish": "Hot Dogs"
     }
   ]
 }

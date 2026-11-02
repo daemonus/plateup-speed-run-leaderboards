@@ -4,16 +4,17 @@
   "names": [
     "klamango0108"
   ],
-  "runs": 2,
-  "bestRank": 318,
+  "runs": 3,
+  "bestRank": 29,
   "worstRank": 685,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4421423,
+  "bestMs": 3429229,
   "weeksActive": [
     90,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 685,
       "ms": 4421423,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 29,
+      "ms": 3429229,
+      "dish": "Hot Dogs"
     }
   ]
 }

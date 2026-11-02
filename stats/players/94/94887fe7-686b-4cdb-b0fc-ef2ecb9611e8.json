@@ -4,7 +4,7 @@
   "names": [
     "kayamja"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 9,
   "worstRank": 431,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 78,
       "ms": 2582931,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 15,
+      "ms": 2779315,
+      "dish": "Hot Dogs"
     }
   ]
 }

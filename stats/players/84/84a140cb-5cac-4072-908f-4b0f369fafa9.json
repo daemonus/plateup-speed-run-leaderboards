@@ -4,12 +4,12 @@
   "names": [
     "shin.eisenhart"
   ],
-  "runs": 109,
+  "runs": 110,
   "bestRank": 1,
   "worstRank": 213,
   "firstPlaces": 21,
-  "top3": 48,
-  "top10": 88,
+  "top3": 49,
+  "top10": 89,
   "bestMs": 902784,
   "weeksActive": [
     -76,
@@ -120,7 +120,8 @@
     85,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -885,6 +886,13 @@
       "rank": 9,
       "ms": 1362739,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 3,
+      "ms": 1726326,
+      "dish": "Hot Dogs"
     }
   ]
 }

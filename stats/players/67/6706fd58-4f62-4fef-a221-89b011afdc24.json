@@ -4,7 +4,7 @@
   "names": [
     "bicky-_-"
   ],
-  "runs": 134,
+  "runs": 135,
   "bestRank": 11,
   "worstRank": 605,
   "firstPlaces": 0,
@@ -145,7 +145,8 @@
     90,
     91,
     92,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -1085,6 +1086,13 @@
       "rank": 76,
       "ms": 2555499,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 20,
+      "ms": 3093013,
+      "dish": "Hot Dogs"
     }
   ]
 }
