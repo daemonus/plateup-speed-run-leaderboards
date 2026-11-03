@@ -4,7 +4,7 @@
   "names": [
     "SwimInThunder"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 47,
   "worstRank": 71,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 47,
       "ms": 2254271,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 68,
+      "ms": 3504315,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "lumina03"
   ],
-  "runs": 94,
+  "runs": 95,
   "bestRank": 2,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -105,7 +105,8 @@
     88,
     89,
     90,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -765,6 +766,13 @@
       "rank": 35,
       "ms": 2452438,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 24,
+      "ms": 2280625,
+      "dish": "Hot Dogs"
     }
   ]
 }

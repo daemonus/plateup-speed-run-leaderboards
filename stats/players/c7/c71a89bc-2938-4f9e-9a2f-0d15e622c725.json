@@ -4,7 +4,7 @@
   "names": [
     "leilani.peake"
   ],
-  "runs": 17,
+  "runs": 18,
   "bestRank": 31,
   "worstRank": 295,
   "firstPlaces": 0,
@@ -28,7 +28,8 @@
     88,
     90,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 74,
       "ms": 2779624,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 50,
+      "ms": 2993889,
+      "dish": "Hot Dogs"
     }
   ]
 }
