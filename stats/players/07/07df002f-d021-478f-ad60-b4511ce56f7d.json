@@ -1,0 +1,34 @@
+{
+  "id": "07df002f-d021-478f-ad60-b4511ce56f7d",
+  "persona": "\u6B6A",
+  "names": [
+    "\u6B6A"
+  ],
+  "runs": 2,
+  "bestRank": 120,
+  "worstRank": 218,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2432259,
+  "weeksActive": [
+    -38,
+    95
+  ],
+  "history": [
+    {
+      "week": -38,
+      "start": "2024-04-15",
+      "rank": 218,
+      "ms": 2432259,
+      "dish": "Turkey"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 120,
+      "ms": 4215081,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

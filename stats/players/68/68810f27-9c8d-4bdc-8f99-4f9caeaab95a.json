@@ -4,8 +4,8 @@
   "names": [
     "Elina"
   ],
-  "runs": 2,
-  "bestRank": 541,
+  "runs": 3,
+  "bestRank": 169,
   "worstRank": 943,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 5108677,
   "weeksActive": [
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 541,
       "ms": 6175789,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 169,
+      "ms": 6097721,
+      "dish": "Hot Dogs"
     }
   ]
 }

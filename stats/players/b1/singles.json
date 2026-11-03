@@ -1690,6 +1690,32 @@
     ]
   },
   {
+    "id": "b17fa996-eb0d-4c00-85d5-253d6c6018bb",
+    "persona": "rinaaaa",
+    "names": [
+      "rinaaaa"
+    ],
+    "runs": 1,
+    "bestRank": 106,
+    "worstRank": 106,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3934172,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 106,
+        "ms": 3934172,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "b17fed46-3ab9-4b7c-89ae-ee3b4e9a174c",
     "persona": "Galactic",
     "names": [
@@ -3074,8 +3100,8 @@
       "Lazy Fangs"
     ],
     "runs": 1,
-    "bestRank": 95,
-    "worstRank": 95,
+    "bestRank": 125,
+    "worstRank": 125,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3087,7 +3113,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 95,
+        "rank": 125,
         "ms": 4330727,
         "dish": "Hot Dogs"
       }

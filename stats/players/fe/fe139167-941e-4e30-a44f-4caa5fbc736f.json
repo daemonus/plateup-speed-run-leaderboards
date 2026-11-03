@@ -4,8 +4,8 @@
   "names": [
     "ele"
   ],
-  "runs": 2,
-  "bestRank": 315,
+  "runs": 3,
+  "bestRank": 124,
   "worstRank": 379,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4140104,
   "weeksActive": [
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 315,
       "ms": 4140104,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 124,
+      "ms": 4322402,
+      "dish": "Hot Dogs"
     }
   ]
 }

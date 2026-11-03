@@ -656,8 +656,8 @@
       "Ms. K"
     ],
     "runs": 1,
-    "bestRank": 70,
-    "worstRank": 70,
+    "bestRank": 86,
+    "worstRank": 86,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +669,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 70,
+        "rank": 86,
         "ms": 3515943,
         "dish": "Hot Dogs"
       }
@@ -1894,6 +1894,32 @@
         "rank": 57,
         "ms": 1854764,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "c3803ef2-5483-414c-be94-28414955eb55",
+    "persona": "Fu1ven",
+    "names": [
+      "Fu1ven"
+    ],
+    "runs": 1,
+    "bestRank": 147,
+    "worstRank": 147,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4835905,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 147,
+        "ms": 4835905,
+        "dish": "Hot Dogs"
       }
     ]
   },

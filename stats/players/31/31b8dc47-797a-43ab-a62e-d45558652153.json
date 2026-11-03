@@ -4,8 +4,8 @@
   "names": [
     "maria"
   ],
-  "runs": 8,
-  "bestRank": 186,
+  "runs": 9,
+  "bestRank": 88,
   "worstRank": 582,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     -73,
     69,
     73,
-    80
+    80,
+    95
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 186,
       "ms": 3167653,
       "dish": "Pizza"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 88,
+      "ms": 3533706,
+      "dish": "Hot Dogs"
     }
   ]
 }

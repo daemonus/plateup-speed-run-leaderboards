@@ -4,17 +4,18 @@
   "names": [
     "leseul69"
   ],
-  "runs": 3,
-  "bestRank": 260,
+  "runs": 4,
+  "bestRank": 94,
   "worstRank": 872,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3831985,
+  "bestMs": 3642058,
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 260,
       "ms": 3831985,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 94,
+      "ms": 3642058,
+      "dish": "Hot Dogs"
     }
   ]
 }
