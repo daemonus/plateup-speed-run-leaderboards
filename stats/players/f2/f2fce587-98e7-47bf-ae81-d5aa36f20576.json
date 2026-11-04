@@ -4,8 +4,8 @@
   "names": [
     "jblub324"
   ],
-  "runs": 9,
-  "bestRank": 75,
+  "runs": 10,
+  "bestRank": 65,
   "worstRank": 242,
   "firstPlaces": 0,
   "top3": 0,
@@ -20,7 +20,8 @@
     90,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 75,
       "ms": 2545669,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 65,
+      "ms": 3059298,
+      "dish": "Hot Dogs"
     }
   ]
 }

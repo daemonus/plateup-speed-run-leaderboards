@@ -4,7 +4,7 @@
   "names": [
     "cathyisvu"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 37,
   "worstRank": 259,
   "firstPlaces": 0,
@@ -41,7 +41,8 @@
     87,
     88,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 52,
       "ms": 2602261,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 66,
+      "ms": 3087184,
+      "dish": "Hot Dogs"
     }
   ]
 }

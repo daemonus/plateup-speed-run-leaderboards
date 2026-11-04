@@ -864,8 +864,8 @@
       "chinelu4"
     ],
     "runs": 1,
-    "bestRank": 112,
-    "worstRank": 112,
+    "bestRank": 122,
+    "worstRank": 122,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -877,7 +877,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 112,
+        "rank": 122,
         "ms": 4029924,
         "dish": "Hot Dogs"
       }
@@ -3246,6 +3246,32 @@
         "rank": 314,
         "ms": 4207057,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "10df382a-5e2d-4aeb-bc14-d0d1814af51f",
+    "persona": "HEDY",
+    "names": [
+      "HEDY"
+    ],
+    "runs": 1,
+    "bestRank": 199,
+    "worstRank": 199,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6925227,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 199,
+        "ms": 6925227,
+        "dish": "Hot Dogs"
       }
     ]
   },

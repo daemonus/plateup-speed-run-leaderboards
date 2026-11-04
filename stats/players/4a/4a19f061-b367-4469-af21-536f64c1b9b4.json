@@ -4,7 +4,7 @@
   "names": [
     "KrillinIt"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 67,
   "worstRank": 347,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     84,
     86,
     90,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 347,
       "ms": 3558201,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 76,
+      "ms": 3279525,
+      "dish": "Hot Dogs"
     }
   ]
 }
