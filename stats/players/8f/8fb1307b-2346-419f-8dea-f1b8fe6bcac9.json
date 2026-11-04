@@ -4,16 +4,17 @@
   "names": [
     "\u966A\u4F60\u53BB\u770B\u7329\u7329\u96E8"
   ],
-  "runs": 2,
-  "bestRank": 321,
+  "runs": 3,
+  "bestRank": 151,
   "worstRank": 539,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4195934,
+  "bestMs": 4179596,
   "weeksActive": [
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 321,
       "ms": 4195934,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 151,
+      "ms": 4179596,
+      "dish": "Hot Dogs"
     }
   ]
 }

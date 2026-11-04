@@ -4,7 +4,7 @@
   "names": [
     "Gaar\u00E1"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 26,
   "worstRank": 375,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     89,
     90,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 149,
       "ms": 3081188,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 75,
+      "ms": 3055360,
+      "dish": "Hot Dogs"
     }
   ]
 }

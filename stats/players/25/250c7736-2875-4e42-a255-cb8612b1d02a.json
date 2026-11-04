@@ -4,7 +4,7 @@
   "names": [
     "Pandahimechan"
   ],
-  "runs": 33,
+  "runs": 34,
   "bestRank": 13,
   "worstRank": 892,
   "firstPlaces": 0,
@@ -44,7 +44,8 @@
     53,
     59,
     69,
-    70
+    70,
+    95
   ],
   "history": [
     {
@@ -276,6 +277,13 @@
       "start": "2026-05-11",
       "rank": 84,
       "ms": 2739173,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 44,
+      "ms": 2604037,
       "dish": "Hot Dogs"
     }
   ]

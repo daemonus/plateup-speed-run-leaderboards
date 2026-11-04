@@ -1300,32 +1300,6 @@
     ]
   },
   {
-    "id": "d86f2dbf-2e79-4500-8fd4-3ba8ac8a4bbd",
-    "persona": "\u6211\u662F\u5927\u5410\u53F8",
-    "names": [
-      "\u6211\u662F\u5927\u5410\u53F8"
-    ],
-    "runs": 1,
-    "bestRank": 359,
-    "worstRank": 359,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4472562,
-    "weeksActive": [
-      94
-    ],
-    "history": [
-      {
-        "week": 94,
-        "start": "2026-10-26",
-        "rank": 359,
-        "ms": 4472562,
-        "dish": "Fajitas"
-      }
-    ]
-  },
-  {
     "id": "d870cad8-de65-4d5b-ba52-1a530c54fcb4",
     "persona": "Dwight",
     "names": [
@@ -1800,8 +1774,8 @@
       "Yuki"
     ],
     "runs": 1,
-    "bestRank": 171,
-    "worstRank": 171,
+    "bestRank": 200,
+    "worstRank": 200,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1813,7 +1787,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 171,
+        "rank": 200,
         "ms": 4987821,
         "dish": "Hot Dogs"
       }

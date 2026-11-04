@@ -2106,6 +2106,32 @@
     ]
   },
   {
+    "id": "dc8b2761-a4d4-41c8-8f23-4cd5f0f6816b",
+    "persona": "YUT",
+    "names": [
+      "YUT"
+    ],
+    "runs": 1,
+    "bestRank": 224,
+    "worstRank": 224,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5858561,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 224,
+        "ms": 5858561,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "dc8c605c-5f6f-4efe-84e5-03b06bedc5d8",
     "persona": "Shane",
     "names": [
@@ -2180,6 +2206,32 @@
         "rank": 476,
         "ms": 9604542,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "dc941a44-2340-4f8c-a95a-603220b5086b",
+    "persona": "\u041C\u0430\u043D\u0443\u0440\u0443\u043D\u0435\u0447\u043A\u0430",
+    "names": [
+      "\u041C\u0430\u043D\u0443\u0440\u0443\u043D\u0435\u0447\u043A\u0430"
+    ],
+    "runs": 1,
+    "bestRank": 236,
+    "worstRank": 236,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7845473,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 236,
+        "ms": 7845473,
+        "dish": "Hot Dogs"
       }
     ]
   },

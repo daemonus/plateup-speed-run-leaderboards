@@ -4,7 +4,7 @@
   "names": [
     "MissMadame"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 19,
   "worstRank": 268,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     88,
     89,
     90,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 36,
       "ms": 2091408,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 39,
+      "ms": 2416011,
+      "dish": "Hot Dogs"
     }
   ]
 }

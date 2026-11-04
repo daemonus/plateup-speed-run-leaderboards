@@ -1488,8 +1488,8 @@
       "raem"
     ],
     "runs": 1,
-    "bestRank": 111,
-    "worstRank": 111,
+    "bestRank": 129,
+    "worstRank": 129,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1501,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 111,
+        "rank": 129,
         "ms": 3822895,
         "dish": "Hot Dogs"
       }
@@ -2024,6 +2024,32 @@
         "rank": 1032,
         "ms": 3484483,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "599c60b5-3605-452c-91d0-5d1a2ab1cd8e",
+    "persona": "HanQi0311",
+    "names": [
+      "HanQi0311"
+    ],
+    "runs": 1,
+    "bestRank": 149,
+    "worstRank": 149,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4127516,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 149,
+        "ms": 4127516,
+        "dish": "Hot Dogs"
       }
     ]
   },
