@@ -4,8 +4,8 @@
   "names": [
     "Goblin"
   ],
-  "runs": 4,
-  "bestRank": 71,
+  "runs": 5,
+  "bestRank": 67,
   "worstRank": 281,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     43,
     50,
     53,
-    90
+    90,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 71,
       "ms": 1932315,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 67,
+      "ms": 2895756,
+      "dish": "Hot Dogs"
     }
   ]
 }

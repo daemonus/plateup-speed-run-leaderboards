@@ -4,7 +4,7 @@
   "names": [
     "SUTO"
   ],
-  "runs": 34,
+  "runs": 35,
   "bestRank": 137,
   "worstRank": 618,
   "firstPlaces": 0,
@@ -45,7 +45,8 @@
     90,
     91,
     92,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -285,6 +286,13 @@
       "rank": 153,
       "ms": 3116658,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 144,
+      "ms": 3758864,
+      "dish": "Hot Dogs"
     }
   ]
 }

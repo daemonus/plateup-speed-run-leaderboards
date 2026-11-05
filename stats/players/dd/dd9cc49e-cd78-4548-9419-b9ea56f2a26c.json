@@ -4,7 +4,7 @@
   "names": [
     "sojade"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 48,
   "worstRank": 83,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     59,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 48,
       "ms": 2266374,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 74,
+      "ms": 2936036,
+      "dish": "Hot Dogs"
     }
   ]
 }

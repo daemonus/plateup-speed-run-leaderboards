@@ -4,7 +4,7 @@
   "names": [
     "Viderix"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 107,
   "worstRank": 1247,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -71,
     -70,
     -58,
-    -56
+    -56,
+    95
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 415,
       "ms": 4049991,
       "dish": "Breakfast"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 213,
+      "ms": 4672419,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "kilo3700"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 90,
   "worstRank": 500,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     -16,
     -12,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 169,
       "ms": 3266138,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 130,
+      "ms": 3520518,
+      "dish": "Hot Dogs"
     }
   ]
 }

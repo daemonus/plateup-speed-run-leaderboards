@@ -4,7 +4,7 @@
   "names": [
     "oga"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 82,
   "worstRank": 188,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 82,
       "ms": 2614683,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 104,
+      "ms": 3272776,
+      "dish": "Hot Dogs"
     }
   ]
 }
