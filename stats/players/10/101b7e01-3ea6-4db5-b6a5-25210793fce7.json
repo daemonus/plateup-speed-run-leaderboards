@@ -1,0 +1,34 @@
+{
+  "id": "101b7e01-3ea6-4db5-b6a5-25210793fce7",
+  "persona": "tesseractbifrost",
+  "names": [
+    "tesseractbifrost"
+  ],
+  "runs": 2,
+  "bestRank": 100,
+  "worstRank": 247,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3285052,
+  "weeksActive": [
+    51,
+    95
+  ],
+  "history": [
+    {
+      "week": 51,
+      "start": "2025-12-29",
+      "rank": 247,
+      "ms": 4197875,
+      "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 100,
+      "ms": 3285052,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "names": [
     "vdka"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 27,
   "worstRank": 218,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     73,
     75,
     85,
-    86
+    86,
+    95
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 162,
       "ms": 1974869,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 54,
+      "ms": 2758371,
+      "dish": "Hot Dogs"
     }
   ]
 }

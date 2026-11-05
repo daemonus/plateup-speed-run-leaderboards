@@ -32,8 +32,8 @@
       "\u03FBa\u1D1A\u0F04"
     ],
     "runs": 1,
-    "bestRank": 225,
-    "worstRank": 225,
+    "bestRank": 246,
+    "worstRank": 246,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 225,
+        "rank": 246,
         "ms": 5934141,
         "dish": "Hot Dogs"
       }
@@ -2830,6 +2830,32 @@
         "rank": 467,
         "ms": 3794226,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "70c03ae9-37cc-4d84-a1ab-9d2de424cf0b",
+    "persona": "superboss49",
+    "names": [
+      "superboss49"
+    ],
+    "runs": 1,
+    "bestRank": 164,
+    "worstRank": 164,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4146717,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 164,
+        "ms": 4146717,
+        "dish": "Hot Dogs"
       }
     ]
   },

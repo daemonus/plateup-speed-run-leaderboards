@@ -780,6 +780,32 @@
     ]
   },
   {
+    "id": "1f4267b8-6db5-43ca-ac71-0c6cfbaa19aa",
+    "persona": "\u5C0F\u6050\u9F99",
+    "names": [
+      "\u5C0F\u6050\u9F99"
+    ],
+    "runs": 1,
+    "bestRank": 251,
+    "worstRank": 251,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6250276,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 251,
+        "ms": 6250276,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "1f4617a1-ab94-4c3c-9f57-5df7ca538c78",
     "persona": "IThinkMyNameIsWill",
     "names": [
@@ -1176,8 +1202,8 @@
       "GudeXx"
     ],
     "runs": 1,
-    "bestRank": 74,
-    "worstRank": 74,
+    "bestRank": 82,
+    "worstRank": 82,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1215,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 74,
+        "rank": 82,
         "ms": 3051163,
         "dish": "Hot Dogs"
       }

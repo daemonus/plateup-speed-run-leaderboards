@@ -2762,8 +2762,8 @@
       "\u65E0\u7ECE"
     ],
     "runs": 1,
-    "bestRank": 238,
-    "worstRank": 238,
+    "bestRank": 263,
+    "worstRank": 263,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2775,7 +2775,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 238,
+        "rank": 263,
         "ms": 15467188,
         "dish": "Hot Dogs"
       }
@@ -3168,32 +3168,6 @@
         "rank": 607,
         "ms": 3727337,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "aee0d246-59b6-4565-b6eb-7faa6956c4bd",
-    "persona": "agocsa18",
-    "names": [
-      "agocsa18"
-    ],
-    "runs": 1,
-    "bestRank": 605,
-    "worstRank": 605,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 10214735,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 605,
-        "ms": 10214735,
-        "dish": "Salad"
       }
     ]
   },

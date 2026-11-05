@@ -4,7 +4,7 @@
   "names": [
     "brittle"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 14,
   "worstRank": 282,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     84,
     85,
     86,
-    87
+    87,
+    95
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 18,
       "ms": 2249425,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 47,
+      "ms": 2621394,
+      "dish": "Hot Dogs"
     }
   ]
 }

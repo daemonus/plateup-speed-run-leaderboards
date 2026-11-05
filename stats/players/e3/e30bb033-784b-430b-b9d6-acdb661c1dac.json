@@ -4,7 +4,7 @@
   "names": [
     "HAL"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 186,
   "worstRank": 572,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     36,
     37,
     41,
-    84
+    84,
+    95
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 351,
       "ms": 2598887,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 232,
+      "ms": 5304472,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "ikutu192"
   ],
-  "runs": 3,
-  "bestRank": 44,
+  "runs": 4,
+  "bestRank": 43,
   "worstRank": 181,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 44,
       "ms": 2197024,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 43,
+      "ms": 2517127,
+      "dish": "Hot Dogs"
     }
   ]
 }

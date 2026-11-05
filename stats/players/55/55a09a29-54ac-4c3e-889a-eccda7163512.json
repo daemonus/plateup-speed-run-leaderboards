@@ -4,7 +4,7 @@
   "names": [
     "cathy"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 109,
   "worstRank": 248,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     86,
     87,
     88,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 227,
       "ms": 3611170,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 149,
+      "ms": 3951681,
+      "dish": "Hot Dogs"
     }
   ]
 }

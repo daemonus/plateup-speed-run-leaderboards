@@ -1124,8 +1124,8 @@
       "\u5C0F\u5409"
     ],
     "runs": 1,
-    "bestRank": 210,
-    "worstRank": 210,
+    "bestRank": 228,
+    "worstRank": 228,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 210,
+        "rank": 228,
         "ms": 5197547,
         "dish": "Hot Dogs"
       }
@@ -2310,6 +2310,32 @@
         "rank": 345,
         "ms": 3679531,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "eea47529-ec75-4bfa-8a6d-e9a697efb06f",
+    "persona": "kino",
+    "names": [
+      "kino"
+    ],
+    "runs": 1,
+    "bestRank": 214,
+    "worstRank": 214,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4915859,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 214,
+        "ms": 4915859,
+        "dish": "Hot Dogs"
       }
     ]
   },
