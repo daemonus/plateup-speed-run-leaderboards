@@ -1,10 +1,11 @@
 {
   "id": "f4f6a233-4e3c-47e2-a1b5-a56fc4f5942a",
-  "persona": "\u84B8\u84B8\u84B8\u9C7C_",
+  "persona": "\u6211\u6765\u5077\u4F60\u5BB6\u9A6C\u6876\u5566",
   "names": [
+    "\u6211\u6765\u5077\u4F60\u5BB6\u9A6C\u6876\u5566",
     "\u84B8\u84B8\u84B8\u9C7C_"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 73,
   "worstRank": 273,
   "firstPlaces": 0,
@@ -13,7 +14,8 @@
   "bestMs": 2967967,
   "weeksActive": [
     -39,
-    -10
+    -10,
+    95
   ],
   "history": [
     {
@@ -29,6 +31,13 @@
       "rank": 73,
       "ms": 3140109,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 165,
+      "ms": 3845584,
+      "dish": "Hot Dogs"
     }
   ]
 }

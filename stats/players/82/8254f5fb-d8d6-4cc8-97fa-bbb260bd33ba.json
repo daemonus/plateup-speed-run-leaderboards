@@ -1,0 +1,34 @@
+{
+  "id": "8254f5fb-d8d6-4cc8-97fa-bbb260bd33ba",
+  "persona": "The_Machine_Bull",
+  "names": [
+    "The_Machine_Bull"
+  ],
+  "runs": 2,
+  "bestRank": 291,
+  "worstRank": 809,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5404568,
+  "weeksActive": [
+    13,
+    95
+  ],
+  "history": [
+    {
+      "week": 13,
+      "start": "2025-04-07",
+      "rank": 809,
+      "ms": 7366256,
+      "dish": "Turkey"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 291,
+      "ms": 5404568,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

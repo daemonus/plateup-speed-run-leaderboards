@@ -1670,8 +1670,8 @@
       "Teuzeka"
     ],
     "runs": 1,
-    "bestRank": 252,
-    "worstRank": 252,
+    "bestRank": 272,
+    "worstRank": 272,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1683,7 +1683,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 252,
+        "rank": 272,
         "ms": 5029734,
         "dish": "Hot Dogs"
       }
@@ -1790,6 +1790,32 @@
         "rank": 134,
         "ms": 3503484,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "e991127a-bc20-497c-835e-eed0c1049ea6",
+    "persona": "1450467802",
+    "names": [
+      "1450467802"
+    ],
+    "runs": 1,
+    "bestRank": 215,
+    "worstRank": 215,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4320901,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 215,
+        "ms": 4320901,
+        "dish": "Hot Dogs"
       }
     ]
   },

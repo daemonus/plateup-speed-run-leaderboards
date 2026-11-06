@@ -32,8 +32,8 @@
       "\u03FBa\u1D1A\u0F04"
     ],
     "runs": 1,
-    "bestRank": 283,
-    "worstRank": 283,
+    "bestRank": 309,
+    "worstRank": 309,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -45,7 +45,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 283,
+        "rank": 309,
         "ms": 5934141,
         "dish": "Hot Dogs"
       }
@@ -2496,6 +2496,32 @@
     ]
   },
   {
+    "id": "70aeb19f-8251-4232-ba96-9f5500a9cc44",
+    "persona": "Phylox",
+    "names": [
+      "Phylox"
+    ],
+    "runs": 1,
+    "bestRank": 44,
+    "worstRank": 44,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2435480,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 44,
+        "ms": 2435480,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "70afa0c5-50a7-4089-8ee7-e851a610f142",
     "persona": "Wasted",
     "names": [
@@ -2840,8 +2866,8 @@
       "superboss49"
     ],
     "runs": 1,
-    "bestRank": 187,
-    "worstRank": 187,
+    "bestRank": 196,
+    "worstRank": 196,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2879,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 187,
+        "rank": 196,
         "ms": 4146717,
         "dish": "Hot Dogs"
       }

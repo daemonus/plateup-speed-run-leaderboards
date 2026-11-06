@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "3c75c926-8ee0-4671-9074-0c2f2cc7640c",
+    "persona": "\u4ECA\u665A\u6253\u8001\u864E",
+    "names": [
+      "\u4ECA\u665A\u6253\u8001\u864E"
+    ],
+    "runs": 1,
+    "bestRank": 277,
+    "worstRank": 277,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5065080,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 277,
+        "ms": 5065080,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "3c77f045-438c-4a3f-8e87-35ced3e30670",
     "persona": "ArthurDemaria",
     "names": [
@@ -2054,32 +2080,6 @@
     ]
   },
   {
-    "id": "3cafb28d-b625-4965-b3b5-2dbc3004e18b",
-    "persona": "mida520",
-    "names": [
-      "mida520"
-    ],
-    "runs": 1,
-    "bestRank": 294,
-    "worstRank": 294,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4218932,
-    "weeksActive": [
-      93
-    ],
-    "history": [
-      {
-        "week": 93,
-        "start": "2026-10-19",
-        "rank": 294,
-        "ms": 4218932,
-        "dish": "Salad"
-      }
-    ]
-  },
-  {
     "id": "3cb0e16b-3462-4d15-8292-24dff4c01bca",
     "persona": "BigBossJuicey",
     "names": [
@@ -2528,8 +2528,8 @@
       "wwlyy2010"
     ],
     "runs": 1,
-    "bestRank": 175,
-    "worstRank": 175,
+    "bestRank": 184,
+    "worstRank": 184,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2541,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 175,
+        "rank": 184,
         "ms": 4017137,
         "dish": "Hot Dogs"
       }

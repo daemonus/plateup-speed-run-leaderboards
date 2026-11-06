@@ -4,16 +4,17 @@
   "names": [
     "\u5931\u65BC"
   ],
-  "runs": 2,
-  "bestRank": 346,
+  "runs": 3,
+  "bestRank": 217,
   "worstRank": 578,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4408323,
+  "bestMs": 4325353,
   "weeksActive": [
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 346,
       "ms": 4408323,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 217,
+      "ms": 4325353,
+      "dish": "Hot Dogs"
     }
   ]
 }

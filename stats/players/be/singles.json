@@ -2216,8 +2216,8 @@
       "Mobzaz"
     ],
     "runs": 1,
-    "bestRank": 163,
-    "worstRank": 163,
+    "bestRank": 170,
+    "worstRank": 170,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2229,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 163,
+        "rank": 170,
         "ms": 3895625,
         "dish": "Hot Dogs"
       }
@@ -3090,6 +3090,32 @@
         "rank": 250,
         "ms": 2952200,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "bec71319-46b8-4f03-90ce-ec4453112d14",
+    "persona": "TonyTacoShop",
+    "names": [
+      "TonyTacoShop"
+    ],
+    "runs": 1,
+    "bestRank": 206,
+    "worstRank": 206,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4228922,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 206,
+        "ms": 4228922,
+        "dish": "Hot Dogs"
       }
     ]
   },

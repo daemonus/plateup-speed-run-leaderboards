@@ -4,16 +4,17 @@
   "names": [
     "Toastedloaf32"
   ],
-  "runs": 2,
-  "bestRank": 359,
+  "runs": 3,
+  "bestRank": 265,
   "worstRank": 460,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5104124,
+  "bestMs": 4922528,
   "weeksActive": [
     89,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 460,
       "ms": 5311852,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 265,
+      "ms": 4922528,
+      "dish": "Hot Dogs"
     }
   ]
 }

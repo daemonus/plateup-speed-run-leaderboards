@@ -2060,8 +2060,8 @@
       "chaos"
     ],
     "runs": 1,
-    "bestRank": 253,
-    "worstRank": 253,
+    "bestRank": 273,
+    "worstRank": 273,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2073,7 +2073,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 253,
+        "rank": 273,
         "ms": 5031718,
         "dish": "Hot Dogs"
       }
@@ -2518,6 +2518,32 @@
         "rank": 250,
         "ms": 3636516,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "6abbfe7d-b71c-446e-b1b1-dcfa83c0f719",
+    "persona": "\u662F\u98CE",
+    "names": [
+      "\u662F\u98CE"
+    ],
+    "runs": 1,
+    "bestRank": 146,
+    "worstRank": 146,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3565517,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 146,
+        "ms": 3565517,
+        "dish": "Hot Dogs"
       }
     ]
   },
