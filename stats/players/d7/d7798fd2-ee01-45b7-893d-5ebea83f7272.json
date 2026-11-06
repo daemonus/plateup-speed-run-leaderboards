@@ -4,8 +4,8 @@
   "names": [
     "lizzoli"
   ],
-  "runs": 6,
-  "bestRank": 166,
+  "runs": 7,
+  "bestRank": 120,
   "worstRank": 287,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     90,
     91,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 287,
       "ms": 3974673,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 120,
+      "ms": 3359721,
+      "dish": "Hot Dogs"
     }
   ]
 }

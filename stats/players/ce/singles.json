@@ -2028,6 +2028,32 @@
     ]
   },
   {
+    "id": "ceab0d53-7325-4507-80fb-c5993ba8ffae",
+    "persona": "emily",
+    "names": [
+      "emily"
+    ],
+    "runs": 1,
+    "bestRank": 242,
+    "worstRank": 242,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4859122,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 242,
+        "ms": 4859122,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "ceafcc51-8572-4b86-bb6d-3e68e4adf2d1",
     "persona": "SphinxyGyptian",
     "names": [
@@ -2398,8 +2424,8 @@
       "sammyxxlee11"
     ],
     "runs": 1,
-    "bestRank": 199,
-    "worstRank": 199,
+    "bestRank": 212,
+    "worstRank": 212,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 199,
+        "rank": 212,
         "ms": 4455455,
         "dish": "Hot Dogs"
       }

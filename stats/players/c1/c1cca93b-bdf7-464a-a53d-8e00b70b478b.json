@@ -4,7 +4,7 @@
   "names": [
     "Cappybarakun"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 20,
   "worstRank": 289,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 38,
       "ms": 2108938,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 67,
+      "ms": 2829131,
+      "dish": "Hot Dogs"
     }
   ]
 }

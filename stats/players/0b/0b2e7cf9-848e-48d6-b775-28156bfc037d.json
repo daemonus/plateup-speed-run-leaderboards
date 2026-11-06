@@ -4,7 +4,7 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 86,
+  "runs": 87,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
@@ -97,7 +97,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -701,6 +702,13 @@
       "rank": 51,
       "ms": 2285757,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 56,
+      "ms": 2724043,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -1072,8 +1072,8 @@
       "Hsun"
     ],
     "runs": 1,
-    "bestRank": 163,
-    "worstRank": 163,
+    "bestRank": 174,
+    "worstRank": 174,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1085,7 +1085,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 163,
+        "rank": 174,
         "ms": 4011531,
         "dish": "Hot Dogs"
       }
@@ -3220,32 +3220,6 @@
         "rank": 453,
         "ms": 5833478,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "f4f72d5f-4c88-4f22-8011-d469ec954077",
-    "persona": "Italian Roast",
-    "names": [
-      "Italian Roast"
-    ],
-    "runs": 1,
-    "bestRank": 676,
-    "worstRank": 676,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4396706,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 676,
-        "ms": 4396706,
-        "dish": "Fish"
       }
     ]
   },
