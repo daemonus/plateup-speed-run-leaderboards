@@ -4,8 +4,8 @@
   "names": [
     "Bandison"
   ],
-  "runs": 23,
-  "bestRank": 116,
+  "runs": 24,
+  "bestRank": 86,
   "worstRank": 371,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     30,
     58,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 181,
       "ms": 3541150,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 86,
+      "ms": 2912767,
+      "dish": "Hot Dogs"
     }
   ]
 }

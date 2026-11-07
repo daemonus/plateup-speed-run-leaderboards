@@ -1592,8 +1592,8 @@
       "\u90AA\u738B\u771F\u773C\u5929\u4E0B\u65E0\u654C1"
     ],
     "runs": 1,
-    "bestRank": 247,
-    "worstRank": 247,
+    "bestRank": 270,
+    "worstRank": 270,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1605,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 247,
+        "rank": 270,
         "ms": 4692641,
         "dish": "Hot Dogs"
       }
@@ -1920,6 +1920,32 @@
         "rank": 487,
         "ms": 6529496,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "ca82a252-0c3a-46b0-9ae9-c51285160300",
+    "persona": "\u4E5D\u5C0F\u7EC7",
+    "names": [
+      "\u4E5D\u5C0F\u7EC7"
+    ],
+    "runs": 1,
+    "bestRank": 218,
+    "worstRank": 218,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4165688,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 218,
+        "ms": 4165688,
+        "dish": "Hot Dogs"
       }
     ]
   },

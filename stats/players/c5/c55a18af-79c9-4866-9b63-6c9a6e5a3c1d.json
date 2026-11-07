@@ -4,7 +4,7 @@
   "names": [
     "Dulcius"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 29,
   "worstRank": 95,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -82,
     -19,
-    -12
+    -12,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 29,
       "ms": 2261708,
       "dish": "Breakfast"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 40,
+      "ms": 2368762,
+      "dish": "Hot Dogs"
     }
   ]
 }

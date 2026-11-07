@@ -4,7 +4,7 @@
   "names": [
     "Chrystophir"
   ],
-  "runs": 71,
+  "runs": 72,
   "bestRank": 7,
   "worstRank": 436,
   "firstPlaces": 0,
@@ -82,7 +82,8 @@
     83,
     84,
     87,
-    88
+    88,
+    95
   ],
   "history": [
     {
@@ -581,6 +582,13 @@
       "rank": 42,
       "ms": 2127196,
       "dish": "Pies"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 52,
+      "ms": 2596444,
+      "dish": "Hot Dogs"
     }
   ]
 }

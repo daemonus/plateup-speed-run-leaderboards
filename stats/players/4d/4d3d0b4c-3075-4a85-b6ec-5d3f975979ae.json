@@ -4,7 +4,7 @@
   "names": [
     "qflame"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 61,
   "worstRank": 274,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -42,
     -40,
     90,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 103,
       "ms": 2507603,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 149,
+      "ms": 3462104,
+      "dish": "Hot Dogs"
     }
   ]
 }

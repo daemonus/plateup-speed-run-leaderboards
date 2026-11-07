@@ -4,7 +4,7 @@
   "names": [
     "Formaldehyde"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 193,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 1929724,
   "weeksActive": [
     84,
-    85
+    85,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 348,
       "ms": 4031080,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 221,
+      "ms": 4194653,
+      "dish": "Hot Dogs"
     }
   ]
 }

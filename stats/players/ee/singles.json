@@ -1124,8 +1124,8 @@
       "\u5C0F\u5409"
     ],
     "runs": 1,
-    "bestRank": 283,
-    "worstRank": 283,
+    "bestRank": 306,
+    "worstRank": 306,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1137,7 +1137,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 283,
+        "rank": 306,
         "ms": 5197547,
         "dish": "Hot Dogs"
       }
@@ -2158,6 +2158,32 @@
     ]
   },
   {
+    "id": "ee92f339-6a28-4feb-a991-48e4da0dfae9",
+    "persona": "hygge",
+    "names": [
+      "hygge"
+    ],
+    "runs": 1,
+    "bestRank": 364,
+    "worstRank": 364,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 8770542,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 364,
+        "ms": 8770542,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "ee94446e-eca5-40d3-bc0a-c0ce3a95248a",
     "persona": "Severus",
     "names": [
@@ -2320,8 +2346,8 @@
       "kino"
     ],
     "runs": 1,
-    "bestRank": 263,
-    "worstRank": 263,
+    "bestRank": 286,
+    "worstRank": 286,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2333,7 +2359,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 263,
+        "rank": 286,
         "ms": 4915859,
         "dish": "Hot Dogs"
       }

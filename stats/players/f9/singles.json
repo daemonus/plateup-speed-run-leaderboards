@@ -1222,6 +1222,32 @@
     ]
   },
   {
+    "id": "f95ddf9c-5930-4769-9754-4d31a245e4a6",
+    "persona": "SeeZla",
+    "names": [
+      "SeeZla"
+    ],
+    "runs": 1,
+    "bestRank": 321,
+    "worstRank": 321,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5569460,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 321,
+        "ms": 5569460,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "f964e9d3-fcba-4e8c-9235-92228cb89c55",
     "persona": "5oma3",
     "names": [
@@ -3152,8 +3178,8 @@
       "everaldo.s.cyrino"
     ],
     "runs": 1,
-    "bestRank": 266,
-    "worstRank": 266,
+    "bestRank": 289,
+    "worstRank": 289,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3165,7 +3191,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 266,
+        "rank": 289,
         "ms": 4928456,
         "dish": "Hot Dogs"
       }

@@ -2216,8 +2216,8 @@
       "\u4F50\u5A1C"
     ],
     "runs": 1,
-    "bestRank": 310,
-    "worstRank": 310,
+    "bestRank": 336,
+    "worstRank": 336,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2229,7 +2229,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 310,
+        "rank": 336,
         "ms": 6003152,
         "dish": "Hot Dogs"
       }
@@ -2726,6 +2726,32 @@
         "rank": 325,
         "ms": 3949323,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "30e92fa9-e03f-43b6-9958-b7c2c160f4ff",
+    "persona": "moshi.mochi.mochi",
+    "names": [
+      "moshi.mochi.mochi"
+    ],
+    "runs": 1,
+    "bestRank": 204,
+    "worstRank": 204,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4033874,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 204,
+        "ms": 4033874,
+        "dish": "Hot Dogs"
       }
     ]
   },

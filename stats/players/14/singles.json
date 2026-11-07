@@ -1202,8 +1202,8 @@
       "Fr3shAnomalys"
     ],
     "runs": 1,
-    "bestRank": 300,
-    "worstRank": 300,
+    "bestRank": 326,
+    "worstRank": 326,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 300,
+        "rank": 326,
         "ms": 5656099,
         "dish": "Hot Dogs"
       }
@@ -1296,6 +1296,32 @@
         "rank": 373,
         "ms": 4809907,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "146561a1-2e49-43aa-aeae-1b87160fad5c",
+    "persona": "Rodneydex",
+    "names": [
+      "Rodneydex"
+    ],
+    "runs": 1,
+    "bestRank": 122,
+    "worstRank": 122,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3219924,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 122,
+        "ms": 3219924,
+        "dish": "Hot Dogs"
       }
     ]
   },

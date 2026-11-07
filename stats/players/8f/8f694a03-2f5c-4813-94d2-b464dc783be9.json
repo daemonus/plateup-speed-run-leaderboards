@@ -4,7 +4,7 @@
   "names": [
     "Chiggi"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 63,
   "worstRank": 290,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -4,
     -2,
     0,
-    4
+    4,
+    95
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 167,
       "ms": 3136994,
       "dish": "Breakfast"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 135,
+      "ms": 3329984,
+      "dish": "Hot Dogs"
     }
   ]
 }
