@@ -4,7 +4,7 @@
   "names": [
     "MISOIRAN"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 3,
   "worstRank": 392,
   "firstPlaces": 0,
@@ -34,7 +34,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 12,
       "ms": 1571694,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 35,
+      "ms": 2262588,
+      "dish": "Hot Dogs"
     }
   ]
 }

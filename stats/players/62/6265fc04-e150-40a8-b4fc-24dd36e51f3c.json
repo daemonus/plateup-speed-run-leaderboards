@@ -4,7 +4,7 @@
   "names": [
     "eskarabajo6.0"
   ],
-  "runs": 37,
+  "runs": 38,
   "bestRank": 99,
   "worstRank": 541,
   "firstPlaces": 0,
@@ -48,7 +48,8 @@
     90,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -309,6 +310,13 @@
       "rank": 104,
       "ms": 2779662,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 149,
+      "ms": 3382849,
+      "dish": "Hot Dogs"
     }
   ]
 }

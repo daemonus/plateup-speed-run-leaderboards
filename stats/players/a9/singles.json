@@ -2840,8 +2840,8 @@
       "whosabe"
     ],
     "runs": 1,
-    "bestRank": 302,
-    "worstRank": 302,
+    "bestRank": 332,
+    "worstRank": 332,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2853,7 +2853,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 302,
+        "rank": 332,
         "ms": 5080543,
         "dish": "Hot Dogs"
       }
@@ -3194,6 +3194,32 @@
         "rank": 528,
         "ms": 5165052,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "a9d21b76-4e72-4893-bbfe-39bb1c6fa335",
+    "persona": "nZ",
+    "names": [
+      "nZ"
+    ],
+    "runs": 1,
+    "bestRank": 87,
+    "worstRank": 87,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2873708,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 87,
+        "ms": 2873708,
+        "dish": "Hot Dogs"
       }
     ]
   },

@@ -214,8 +214,8 @@
       "lil pillow menace"
     ],
     "runs": 1,
-    "bestRank": 254,
-    "worstRank": 254,
+    "bestRank": 280,
+    "worstRank": 280,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 254,
+        "rank": 280,
         "ms": 4498995,
         "dish": "Hot Dogs"
       }
@@ -802,6 +802,32 @@
         "rank": 363,
         "ms": 4886660,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "df344b5d-57c1-4aa8-8737-ae3bcc8c0471",
+    "persona": "maklyn7baley",
+    "names": [
+      "maklyn7baley"
+    ],
+    "runs": 1,
+    "bestRank": 262,
+    "worstRank": 262,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4324302,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 262,
+        "ms": 4324302,
+        "dish": "Hot Dogs"
       }
     ]
   },

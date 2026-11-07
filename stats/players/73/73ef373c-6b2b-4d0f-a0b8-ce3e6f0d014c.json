@@ -4,7 +4,7 @@
   "names": [
     "Derky"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 46,
   "worstRank": 238,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2238032,
   "weeksActive": [
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 46,
       "ms": 2238032,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 66,
+      "ms": 2666765,
+      "dish": "Hot Dogs"
     }
   ]
 }

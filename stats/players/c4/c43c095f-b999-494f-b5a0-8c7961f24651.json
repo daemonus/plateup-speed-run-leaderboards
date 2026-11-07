@@ -4,7 +4,7 @@
   "names": [
     "martiaL"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 41,
   "worstRank": 112,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     63,
     64,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 68,
       "ms": 2257444,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 41,
+      "ms": 2353632,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -2632,8 +2632,8 @@
       "mar3martinmm22"
     ],
     "runs": 1,
-    "bestRank": 308,
-    "worstRank": 308,
+    "bestRank": 340,
+    "worstRank": 340,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2645,7 +2645,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 308,
+        "rank": 340,
         "ms": 5212152,
         "dish": "Hot Dogs"
       }
@@ -2752,6 +2752,32 @@
         "rank": 423,
         "ms": 3669421,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "77cf89e1-b747-434b-af27-ef4e9288fd88",
+    "persona": "2963624297",
+    "names": [
+      "2963624297"
+    ],
+    "runs": 1,
+    "bestRank": 172,
+    "worstRank": 172,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3556806,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 172,
+        "ms": 3556806,
+        "dish": "Hot Dogs"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "WalkstheSky"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 164,
   "worstRank": 323,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     60,
     63,
     64,
-    78
+    78,
+    95
   ],
   "history": [
     {
@@ -52,6 +53,13 @@
       "start": "2026-07-06",
       "rank": 164,
       "ms": 2943555,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 181,
+      "ms": 3707747,
       "dish": "Hot Dogs"
     }
   ]

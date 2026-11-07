@@ -4,7 +4,7 @@
   "names": [
     "LinXiaoAi"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 154,
   "worstRank": 677,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 154,
       "ms": 3130980,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 226,
+      "ms": 4075396,
+      "dish": "Hot Dogs"
     }
   ]
 }

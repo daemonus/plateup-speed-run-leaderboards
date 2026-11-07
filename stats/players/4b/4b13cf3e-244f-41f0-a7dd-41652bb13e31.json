@@ -4,7 +4,7 @@
   "names": [
     "zoon"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 180,
   "worstRank": 1642,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     65,
     68,
     74,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 444,
       "ms": 5962699,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 367,
+      "ms": 5825414,
+      "dish": "Hot Dogs"
     }
   ]
 }

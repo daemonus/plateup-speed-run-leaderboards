@@ -1,5 +1,31 @@
 [
   {
+    "id": "81010707-a732-49ac-813b-c0a079c49237",
+    "persona": "tomaito",
+    "names": [
+      "tomaito"
+    ],
+    "runs": 1,
+    "bestRank": 306,
+    "worstRank": 306,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4799276,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 306,
+        "ms": 4799276,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "8105f5dc-b1b1-4c45-89ab-d9f7dfe3b3ca",
     "persona": "\uC778\uC808\uBBF8",
     "names": [
@@ -2128,6 +2154,32 @@
         "rank": 60,
         "ms": 2385384,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "81be8378-2e0c-41f3-8443-12ed1d4e6898",
+    "persona": "Yoi",
+    "names": [
+      "Yoi"
+    ],
+    "runs": 1,
+    "bestRank": 221,
+    "worstRank": 221,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4044213,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 221,
+        "ms": 4044213,
+        "dish": "Hot Dogs"
       }
     ]
   },
