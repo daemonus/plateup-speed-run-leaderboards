@@ -4,7 +4,7 @@
   "names": [
     "ClerionLex [GER]"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 30,
   "worstRank": 257,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     90,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 117,
       "ms": 2879338,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 51,
+      "ms": 2483835,
+      "dish": "Hot Dogs"
     }
   ]
 }

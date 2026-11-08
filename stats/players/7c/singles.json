@@ -1020,8 +1020,8 @@
       "p.h."
     ],
     "runs": 1,
-    "bestRank": 235,
-    "worstRank": 235,
+    "bestRank": 253,
+    "worstRank": 253,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1033,7 +1033,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 235,
+        "rank": 253,
         "ms": 4073146,
         "dish": "Hot Dogs"
       }
@@ -3584,6 +3584,32 @@
         "rank": 304,
         "ms": 2881013,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "7ceed5a3-832d-4615-93e1-85b48811b8e4",
+    "persona": "dragmire",
+    "names": [
+      "dragmire"
+    ],
+    "runs": 1,
+    "bestRank": 456,
+    "worstRank": 456,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7165229,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 456,
+        "ms": 7165229,
+        "dish": "Hot Dogs"
       }
     ]
   },

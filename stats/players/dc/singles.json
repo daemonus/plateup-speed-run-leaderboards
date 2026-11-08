@@ -838,8 +838,8 @@
       "Shadow05"
     ],
     "runs": 1,
-    "bestRank": 294,
-    "worstRank": 294,
+    "bestRank": 316,
+    "worstRank": 316,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 294,
+        "rank": 316,
         "ms": 4500157,
         "dish": "Hot Dogs"
       }
@@ -2138,8 +2138,8 @@
       "YUT"
     ],
     "runs": 1,
-    "bestRank": 393,
-    "worstRank": 393,
+    "bestRank": 426,
+    "worstRank": 426,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2151,7 +2151,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 393,
+        "rank": 426,
         "ms": 5858561,
         "dish": "Hot Dogs"
       }
@@ -2242,8 +2242,8 @@
       "\u041C\u0430\u043D\u0443\u0440\u0443\u043D\u0435\u0447\u043A\u0430"
     ],
     "runs": 1,
-    "bestRank": 421,
-    "worstRank": 421,
+    "bestRank": 459,
+    "worstRank": 459,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2255,7 +2255,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 421,
+        "rank": 459,
         "ms": 7845473,
         "dish": "Hot Dogs"
       }
@@ -3662,6 +3662,32 @@
         "rank": 315,
         "ms": 6078221,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "dcf43555-f4e4-409b-97e5-e692dd36926e",
+    "persona": "leafyyeziii",
+    "names": [
+      "leafyyeziii"
+    ],
+    "runs": 1,
+    "bestRank": 455,
+    "worstRank": 455,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7018351,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 455,
+        "ms": 7018351,
+        "dish": "Hot Dogs"
       }
     ]
   },

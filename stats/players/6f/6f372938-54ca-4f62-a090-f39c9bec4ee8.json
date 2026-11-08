@@ -4,8 +4,8 @@
   "names": [
     "oosu"
   ],
-  "runs": 2,
-  "bestRank": 451,
+  "runs": 3,
+  "bestRank": 434,
   "worstRank": 1167,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 5238055,
   "weeksActive": [
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 451,
       "ms": 5238055,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 434,
+      "ms": 6169834,
+      "dish": "Hot Dogs"
     }
   ]
 }

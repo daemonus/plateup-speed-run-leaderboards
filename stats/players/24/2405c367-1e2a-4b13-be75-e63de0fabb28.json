@@ -4,8 +4,8 @@
   "names": [
     "wp171"
   ],
-  "runs": 3,
-  "bestRank": 361,
+  "runs": 4,
+  "bestRank": 296,
   "worstRank": 402,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     -2,
     4,
-    82
+    82,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 399,
       "ms": 3942783,
       "dish": "Pizza"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 296,
+      "ms": 4352593,
+      "dish": "Hot Dogs"
     }
   ]
 }

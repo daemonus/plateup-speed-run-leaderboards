@@ -2210,6 +2210,32 @@
     ]
   },
   {
+    "id": "0697b22e-ca91-4f5b-bb26-75f6f78119f8",
+    "persona": "Kawon00",
+    "names": [
+      "Kawon00"
+    ],
+    "runs": 1,
+    "bestRank": 331,
+    "worstRank": 331,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4621365,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 331,
+        "ms": 4621365,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "0697e8f5-3f48-417b-bfb8-d8824324d751",
     "persona": "Debris_09",
     "names": [
@@ -2684,8 +2710,8 @@
       "Anantsuki"
     ],
     "runs": 1,
-    "bestRank": 301,
-    "worstRank": 301,
+    "bestRank": 323,
+    "worstRank": 323,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 301,
+        "rank": 323,
         "ms": 4551518,
         "dish": "Hot Dogs"
       }

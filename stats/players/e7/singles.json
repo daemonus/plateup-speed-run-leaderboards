@@ -968,8 +968,8 @@
       "Nath0n"
     ],
     "runs": 1,
-    "bestRank": 422,
-    "worstRank": 422,
+    "bestRank": 460,
+    "worstRank": 460,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +981,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 422,
+        "rank": 460,
         "ms": 7894862,
         "dish": "Hot Dogs"
       }
@@ -1790,6 +1790,32 @@
         "rank": 343,
         "ms": 4518342,
         "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "e7858927-eeff-4098-92fd-db60098cfaf2",
+    "persona": "Echo",
+    "names": [
+      "Echo"
+    ],
+    "runs": 1,
+    "bestRank": 394,
+    "worstRank": 394,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5246903,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 394,
+        "ms": 5246903,
+        "dish": "Hot Dogs"
       }
     ]
   },

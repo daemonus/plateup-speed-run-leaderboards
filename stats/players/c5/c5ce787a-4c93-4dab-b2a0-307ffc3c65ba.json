@@ -4,16 +4,17 @@
   "names": [
     "the_curly"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 87,
-  "worstRank": 103,
+  "worstRank": 139,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
   "bestMs": 2090526,
   "weeksActive": [
     89,
-    90
+    90,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 87,
       "ms": 2090526,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 139,
+      "ms": 3216707,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Erevent"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 195,
   "worstRank": 854,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3599799,
   "weeksActive": [
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 195,
       "ms": 3599799,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 209,
+      "ms": 3786433,
+      "dish": "Hot Dogs"
     }
   ]
 }

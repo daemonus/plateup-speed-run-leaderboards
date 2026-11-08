@@ -4,7 +4,7 @@
   "names": [
     "Newnumahey"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 60,
   "worstRank": 1377,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     -32,
     -31,
     -30,
-    -29
+    -29,
+    95
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 60,
       "ms": 2871395,
       "dish": "Burgers"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 158,
+      "ms": 3332667,
+      "dish": "Hot Dogs"
     }
   ]
 }

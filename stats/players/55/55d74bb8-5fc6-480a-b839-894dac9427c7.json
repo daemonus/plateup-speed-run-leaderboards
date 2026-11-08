@@ -4,7 +4,7 @@
   "names": [
     "bumblefumble"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 102,
   "worstRank": 272,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     49,
     57,
     64,
-    69
+    69,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 133,
       "ms": 3200008,
       "dish": "Burgers"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 150,
+      "ms": 3289409,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "immortlraven"
   ],
-  "runs": 50,
+  "runs": 51,
   "bestRank": 10,
   "worstRank": 216,
   "firstPlaces": 0,
@@ -61,7 +61,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -413,6 +414,13 @@
       "rank": 37,
       "ms": 2094990,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 52,
+      "ms": 2505859,
+      "dish": "Hot Dogs"
     }
   ]
 }

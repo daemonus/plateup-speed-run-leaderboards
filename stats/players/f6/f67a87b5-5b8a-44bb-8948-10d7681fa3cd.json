@@ -4,7 +4,7 @@
   "names": [
     "jaelma24"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 276,
   "worstRank": 1160,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     31,
     33,
     34,
-    80
+    80,
+    95
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 276,
       "ms": 3786502,
       "dish": "Pizza"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 364,
+      "ms": 4939521,
+      "dish": "Hot Dogs"
     }
   ]
 }

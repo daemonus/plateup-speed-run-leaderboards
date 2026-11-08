@@ -4,7 +4,7 @@
   "names": [
     "yapei84127"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 72,
   "worstRank": 599,
   "firstPlaces": 0,
@@ -47,7 +47,8 @@
     91,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 187,
       "ms": 3349739,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 189,
+      "ms": 3567528,
+      "dish": "Hot Dogs"
     }
   ]
 }

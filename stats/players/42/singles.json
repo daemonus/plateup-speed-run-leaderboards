@@ -1488,8 +1488,8 @@
       "FlyvendeBus"
     ],
     "runs": 1,
-    "bestRank": 148,
-    "worstRank": 148,
+    "bestRank": 155,
+    "worstRank": 155,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1501,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 148,
+        "rank": 155,
         "ms": 3328404,
         "dish": "Hot Dogs"
       }
@@ -2570,6 +2570,32 @@
         "rank": 283,
         "ms": 5586489,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "42d31011-3b76-4652-a13e-87557184538c",
+    "persona": "1065479318",
+    "names": [
+      "1065479318"
+    ],
+    "runs": 1,
+    "bestRank": 297,
+    "worstRank": 297,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4362938,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 297,
+        "ms": 4362938,
+        "dish": "Hot Dogs"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "OuniWixh"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 199,
   "worstRank": 569,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     66,
     72,
     77,
-    83
+    83,
+    95
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 569,
       "ms": 3232129,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 341,
+      "ms": 4739664,
+      "dish": "Hot Dogs"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "sua"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 85,
   "worstRank": 292,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     -39,
     -38,
     -32,
-    -6
+    -6,
+    95
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 85,
       "ms": 2799311,
       "dish": "Breakfast"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 138,
+      "ms": 3201708,
+      "dish": "Hot Dogs"
     }
   ]
 }

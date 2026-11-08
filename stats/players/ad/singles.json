@@ -2658,8 +2658,8 @@
       "JENIFFER LOPZ"
     ],
     "runs": 1,
-    "bestRank": 374,
-    "worstRank": 374,
+    "bestRank": 406,
+    "worstRank": 406,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2671,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 374,
+        "rank": 406,
         "ms": 5470706,
         "dish": "Hot Dogs"
       }
@@ -3428,6 +3428,32 @@
         "rank": 351,
         "ms": 5618429,
         "dish": "Salad"
+      }
+    ]
+  },
+  {
+    "id": "adf55970-0dca-4faf-85ff-640c35be3d2c",
+    "persona": "kalguksu",
+    "names": [
+      "kalguksu"
+    ],
+    "runs": 1,
+    "bestRank": 243,
+    "worstRank": 243,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3984272,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 243,
+        "ms": 3984272,
+        "dish": "Hot Dogs"
       }
     ]
   },

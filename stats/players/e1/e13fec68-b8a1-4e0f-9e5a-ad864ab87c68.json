@@ -4,7 +4,7 @@
   "names": [
     "andereik11"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 111,
   "worstRank": 366,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     89,
     91,
     92,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 111,
       "ms": 2836630,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 168,
+      "ms": 3412752,
+      "dish": "Hot Dogs"
     }
   ]
 }
