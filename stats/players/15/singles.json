@@ -1248,6 +1248,32 @@
     ]
   },
   {
+    "id": "157a84f7-3f5f-4b21-b0f0-84221d7420c1",
+    "persona": "piggyjoblin",
+    "names": [
+      "piggyjoblin"
+    ],
+    "runs": 1,
+    "bestRank": 191,
+    "worstRank": 191,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3732229,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 191,
+        "ms": 3732229,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "157b8a55-262b-40a1-85fe-450bde52b2f3",
     "persona": "asdgrhtjukil",
     "names": [
@@ -1436,8 +1462,8 @@
       "ENIMIKU"
     ],
     "runs": 1,
-    "bestRank": 67,
-    "worstRank": 67,
+    "bestRank": 68,
+    "worstRank": 68,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1449,7 +1475,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 67,
+        "rank": 68,
         "ms": 2697359,
         "dish": "Hot Dogs"
       }

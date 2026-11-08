@@ -4,7 +4,7 @@
   "names": [
     "An iPhone 4"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 187,
   "worstRank": 490,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     76,
     89,
     92,
-    93
+    93,
+    95
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 285,
       "ms": 4171807,
       "dish": "Salad"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 281,
+      "ms": 4396432,
+      "dish": "Hot Dogs"
     }
   ]
 }

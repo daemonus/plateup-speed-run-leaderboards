@@ -1430,6 +1430,32 @@
     ]
   },
   {
+    "id": "db83c684-cbbd-45d4-8ac5-f2747782cb81",
+    "persona": "soupykambing",
+    "names": [
+      "soupykambing"
+    ],
+    "runs": 1,
+    "bestRank": 372,
+    "worstRank": 372,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5425615,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 372,
+        "ms": 5425615,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "db853175-718f-48b5-926d-0781f89e5371",
     "persona": "diamond d",
     "names": [
@@ -1592,8 +1618,8 @@
       "Birdo"
     ],
     "runs": 1,
-    "bestRank": 299,
-    "worstRank": 299,
+    "bestRank": 313,
+    "worstRank": 313,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1631,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 299,
+        "rank": 313,
         "ms": 4702356,
         "dish": "Hot Dogs"
       }

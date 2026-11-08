@@ -4,7 +4,7 @@
   "names": [
     "Ebastian"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 121,
   "worstRank": 541,
   "firstPlaces": 0,
@@ -34,7 +34,8 @@
     9,
     16,
     76,
-    83
+    83,
+    95
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 313,
       "ms": 2337302,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 184,
+      "ms": 3638024,
+      "dish": "Hot Dogs"
     }
   ]
 }

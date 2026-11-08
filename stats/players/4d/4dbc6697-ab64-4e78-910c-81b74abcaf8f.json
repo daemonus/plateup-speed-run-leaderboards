@@ -4,7 +4,7 @@
   "names": [
     "Selene_Russell"
   ],
-  "runs": 69,
+  "runs": 70,
   "bestRank": 2,
   "worstRank": 239,
   "firstPlaces": 0,
@@ -80,7 +80,8 @@
     90,
     92,
     93,
-    94
+    94,
+    95
   ],
   "history": [
     {
@@ -565,6 +566,13 @@
       "rank": 6,
       "ms": 1213539,
       "dish": "Fajitas"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 57,
+      "ms": 2599709,
+      "dish": "Hot Dogs"
     }
   ]
 }

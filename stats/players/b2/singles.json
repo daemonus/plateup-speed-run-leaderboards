@@ -214,8 +214,8 @@
       "Azuria"
     ],
     "runs": 1,
-    "bestRank": 76,
-    "worstRank": 76,
+    "bestRank": 80,
+    "worstRank": 80,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -227,7 +227,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 76,
+        "rank": 80,
         "ms": 2805063,
         "dish": "Hot Dogs"
       }
@@ -3402,32 +3402,6 @@
         "rank": 306,
         "ms": 5462383,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "b2eb26ee-5b09-4dda-aa56-b1d33685bd41",
-    "persona": "K1llable",
-    "names": [
-      "K1llable"
-    ],
-    "runs": 1,
-    "bestRank": 333,
-    "worstRank": 333,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2863267,
-    "weeksActive": [
-      8
-    ],
-    "history": [
-      {
-        "week": 8,
-        "start": "2025-03-03",
-        "rank": 333,
-        "ms": 2863267,
-        "dish": "Fish"
       }
     ]
   },

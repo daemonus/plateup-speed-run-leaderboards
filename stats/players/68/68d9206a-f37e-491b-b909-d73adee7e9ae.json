@@ -4,7 +4,7 @@
   "names": [
     "Lilyzz"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 195,
   "worstRank": 240,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     47,
     67,
-    86
+    86,
+    95
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 195,
       "ms": 2131280,
       "dish": "Sundaes"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 197,
+      "ms": 3811214,
+      "dish": "Hot Dogs"
     }
   ]
 }

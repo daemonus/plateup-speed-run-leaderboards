@@ -1534,6 +1534,32 @@
     ]
   },
   {
+    "id": "fe6c2e77-ec6f-4ba0-94ac-9d276e3aa696",
+    "persona": "R0wangem",
+    "names": [
+      "R0wangem"
+    ],
+    "runs": 1,
+    "bestRank": 342,
+    "worstRank": 342,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4994638,
+    "weeksActive": [
+      95
+    ],
+    "history": [
+      {
+        "week": 95,
+        "start": "2026-11-02",
+        "rank": 342,
+        "ms": 4994638,
+        "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
     "id": "fe6cb275-2ca9-43d1-9270-ed3d853dd6d7",
     "persona": "MakrisJr",
     "names": [
@@ -2086,8 +2112,8 @@
       "1603157092"
     ],
     "runs": 1,
-    "bestRank": 370,
-    "worstRank": 370,
+    "bestRank": 394,
+    "worstRank": 394,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2099,7 +2125,7 @@
       {
         "week": 95,
         "start": "2026-11-02",
-        "rank": 370,
+        "rank": 394,
         "ms": 5861952,
         "dish": "Hot Dogs"
       }

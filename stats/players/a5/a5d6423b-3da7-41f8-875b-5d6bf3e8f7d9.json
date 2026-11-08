@@ -1,0 +1,34 @@
+{
+  "id": "a5d6423b-3da7-41f8-875b-5d6bf3e8f7d9",
+  "persona": "wait",
+  "names": [
+    "wait"
+  ],
+  "runs": 2,
+  "bestRank": 378,
+  "worstRank": 559,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4094511,
+  "weeksActive": [
+    92,
+    95
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 559,
+      "ms": 4094511,
+      "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 378,
+      "ms": 5574020,
+      "dish": "Hot Dogs"
+    }
+  ]
+}

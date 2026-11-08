@@ -4,7 +4,7 @@
   "names": [
     "Max Power doesn\u0027t abbreviate"
   ],
-  "runs": 54,
+  "runs": 55,
   "bestRank": 28,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -65,7 +65,8 @@
     82,
     83,
     84,
-    92
+    92,
+    95
   ],
   "history": [
     {
@@ -445,6 +446,13 @@
       "rank": 104,
       "ms": 2509429,
       "dish": "Fish"
+    },
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 70,
+      "ms": 2724052,
+      "dish": "Hot Dogs"
     }
   ]
 }
