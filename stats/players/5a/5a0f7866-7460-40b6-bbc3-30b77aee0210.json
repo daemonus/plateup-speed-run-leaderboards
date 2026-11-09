@@ -4,7 +4,7 @@
   "names": [
     "kilo3700"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 90,
   "worstRank": 500,
   "firstPlaces": 0,
@@ -40,7 +40,8 @@
     -12,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 182,
       "ms": 3520518,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 90,
+      "ms": 4338237,
+      "dish": "Pies"
     }
   ]
 }

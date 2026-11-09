@@ -4,8 +4,8 @@
   "names": [
     "AmbersTini"
   ],
-  "runs": 26,
-  "bestRank": 76,
+  "runs": 27,
+  "bestRank": 54,
   "worstRank": 411,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     88,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 174,
       "ms": 3462740,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 54,
+      "ms": 3269829,
+      "dish": "Pies"
     }
   ]
 }

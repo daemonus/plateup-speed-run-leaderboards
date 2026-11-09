@@ -5,12 +5,12 @@
     "Nepovezlo",
     "Stefan"
   ],
-  "runs": 82,
+  "runs": 83,
   "bestRank": 1,
   "worstRank": 170,
   "firstPlaces": 5,
   "top3": 20,
-  "top10": 61,
+  "top10": 62,
   "bestMs": 794980,
   "weeksActive": [
     -94,
@@ -94,7 +94,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -670,6 +671,13 @@
       "rank": 7,
       "ms": 1376286,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 5,
+      "ms": 1394041,
+      "dish": "Pies"
     }
   ]
 }

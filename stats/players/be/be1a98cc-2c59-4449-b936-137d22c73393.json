@@ -1,0 +1,34 @@
+{
+  "id": "be1a98cc-2c59-4449-b936-137d22c73393",
+  "persona": "Jacquie",
+  "names": [
+    "Jacquie"
+  ],
+  "runs": 2,
+  "bestRank": 114,
+  "worstRank": 1170,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5876965,
+  "weeksActive": [
+    92,
+    96
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1170,
+      "ms": 6597366,
+      "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 114,
+      "ms": 5876965,
+      "dish": "Pies"
+    }
+  ]
+}

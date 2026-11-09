@@ -4,8 +4,8 @@
   "names": [
     "sharonterhaar94"
   ],
-  "runs": 8,
-  "bestRank": 70,
+  "runs": 9,
+  "bestRank": 53,
   "worstRank": 530,
   "firstPlaces": 0,
   "top3": 0,
@@ -19,7 +19,8 @@
     88,
     91,
     92,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 70,
       "ms": 2753054,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 53,
+      "ms": 3264408,
+      "dish": "Pies"
     }
   ]
 }

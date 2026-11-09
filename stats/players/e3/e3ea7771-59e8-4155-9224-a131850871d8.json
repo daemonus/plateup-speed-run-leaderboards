@@ -4,16 +4,17 @@
   "names": [
     "realag2"
   ],
-  "runs": 2,
-  "bestRank": 374,
+  "runs": 3,
+  "bestRank": 99,
   "worstRank": 437,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 5037681,
+  "bestMs": 4592077,
   "weeksActive": [
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 374,
       "ms": 5037681,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 99,
+      "ms": 4592077,
+      "dish": "Pies"
     }
   ]
 }

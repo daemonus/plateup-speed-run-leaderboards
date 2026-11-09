@@ -4,8 +4,8 @@
   "names": [
     "\uB3C8\uB9CC\uC138"
   ],
-  "runs": 2,
-  "bestRank": 190,
+  "runs": 3,
+  "bestRank": 67,
   "worstRank": 241,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3364406,
   "weeksActive": [
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 241,
       "ms": 3976146,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 67,
+      "ms": 3542986,
+      "dish": "Pies"
     }
   ]
 }

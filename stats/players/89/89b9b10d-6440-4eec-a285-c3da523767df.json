@@ -4,12 +4,12 @@
   "names": [
     "3mmber"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 7,
   "worstRank": 295,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 5,
+  "top10": 6,
   "bestMs": 892621,
   "weeksActive": [
     -64,
@@ -49,7 +49,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 9,
       "ms": 1579793,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 8,
+      "ms": 2011518,
+      "dish": "Pies"
     }
   ]
 }

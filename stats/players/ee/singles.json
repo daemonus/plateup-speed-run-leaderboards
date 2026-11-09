@@ -1976,6 +1976,32 @@
     ]
   },
   {
+    "id": "ee8685bc-fdb9-46c9-8d74-b28742285833",
+    "persona": "MR\u54C8\u5E03",
+    "names": [
+      "MR\u54C8\u5E03"
+    ],
+    "runs": 1,
+    "bestRank": 96,
+    "worstRank": 96,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4483036,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 96,
+        "ms": 4483036,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "ee87e354-0a3e-4512-bf24-78bc050695af",
     "persona": "edenscloud",
     "names": [
@@ -2268,8 +2294,8 @@
       "Crimsyn"
     ],
     "runs": 1,
-    "bestRank": 42,
-    "worstRank": 42,
+    "bestRank": 104,
+    "worstRank": 104,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 42,
+        "rank": 104,
         "ms": 4885634,
         "dish": "Pies"
       }
