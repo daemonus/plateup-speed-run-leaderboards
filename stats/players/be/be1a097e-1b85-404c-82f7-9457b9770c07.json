@@ -4,8 +4,8 @@
   "names": [
     "sasongko"
   ],
-  "runs": 3,
-  "bestRank": 20,
+  "runs": 4,
+  "bestRank": 19,
   "worstRank": 231,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 20,
       "ms": 2024872,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 19,
+      "ms": 2727317,
+      "dish": "Pies"
     }
   ]
 }
