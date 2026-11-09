@@ -4,7 +4,7 @@
   "names": [
     "Arkine6"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 28,
   "worstRank": 446,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     9,
     14,
     43,
-    47
+    47,
+    96
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 142,
       "ms": 3167768,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 30,
+      "ms": 3531880,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "uvp_vxv"
   ],
-  "runs": 4,
-  "bestRank": 100,
+  "runs": 5,
+  "bestRank": 24,
   "worstRank": 511,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     86,
     89,
     92,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 223,
       "ms": 3785301,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 24,
+      "ms": 3102061,
+      "dish": "Pies"
     }
   ]
 }

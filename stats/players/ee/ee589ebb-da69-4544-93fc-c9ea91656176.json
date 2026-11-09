@@ -1,0 +1,34 @@
+{
+  "id": "ee589ebb-da69-4544-93fc-c9ea91656176",
+  "persona": "\u5C0F\u5409",
+  "names": [
+    "\u5C0F\u5409"
+  ],
+  "runs": 2,
+  "bestRank": 37,
+  "worstRank": 386,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4392990,
+  "weeksActive": [
+    95,
+    96
+  ],
+  "history": [
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 386,
+      "ms": 5197547,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 37,
+      "ms": 4392990,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "boards": 191,
-  "players": 46679,
-  "entries": 102839,
+  "boards": 192,
+  "players": 46691,
+  "entries": 102884,
   "firstWeek": -95,
-  "lastWeek": 95,
+  "lastWeek": 96,
   "firstStart": "2023-03-13",
-  "lastStart": "2026-11-02",
+  "lastStart": "2026-11-09",
   "boardFiles": [
     "archive/2023_11.json",
     "archive/2023_12.json",
@@ -197,6 +197,7 @@
     "weeks/0000_92.json",
     "weeks/0000_93.json",
     "weeks/0000_94.json",
-    "weeks/0000_95.json"
+    "weeks/0000_95.json",
+    "weeks/0000_96.json"
   ]
 }

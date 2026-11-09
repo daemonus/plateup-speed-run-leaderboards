@@ -4,8 +4,8 @@
   "names": [
     "belledella"
   ],
-  "runs": 4,
-  "bestRank": 280,
+  "runs": 5,
+  "bestRank": 35,
   "worstRank": 359,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     86,
     89,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 359,
       "ms": 4880500,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 35,
+      "ms": 4229125,
+      "dish": "Pies"
     }
   ]
 }

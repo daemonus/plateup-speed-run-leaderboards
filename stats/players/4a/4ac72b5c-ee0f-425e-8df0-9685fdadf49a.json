@@ -4,7 +4,7 @@
   "names": [
     "Chezy"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 13,
   "worstRank": 264,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 13,
       "ms": 1750982,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 17,
+      "ms": 2596275,
+      "dish": "Pies"
     }
   ]
 }

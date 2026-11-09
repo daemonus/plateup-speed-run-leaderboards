@@ -1,0 +1,34 @@
+{
+  "id": "f6251789-2b01-406e-aadb-75e594d120ec",
+  "persona": "kuchren",
+  "names": [
+    "kuchren"
+  ],
+  "runs": 2,
+  "bestRank": 31,
+  "worstRank": 211,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3505803,
+  "weeksActive": [
+    94,
+    96
+  ],
+  "history": [
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 211,
+      "ms": 3505803,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 31,
+      "ms": 3534569,
+      "dish": "Pies"
+    }
+  ]
+}

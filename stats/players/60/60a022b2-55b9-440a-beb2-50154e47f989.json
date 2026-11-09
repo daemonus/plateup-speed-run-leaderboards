@@ -1,0 +1,34 @@
+{
+  "id": "60a022b2-55b9-440a-beb2-50154e47f989",
+  "persona": "bernoulli",
+  "names": [
+    "bernoulli"
+  ],
+  "runs": 2,
+  "bestRank": 13,
+  "worstRank": 56,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2571633,
+  "weeksActive": [
+    93,
+    96
+  ],
+  "history": [
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 56,
+      "ms": 2633618,
+      "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 13,
+      "ms": 2571633,
+      "dish": "Pies"
+    }
+  ]
+}

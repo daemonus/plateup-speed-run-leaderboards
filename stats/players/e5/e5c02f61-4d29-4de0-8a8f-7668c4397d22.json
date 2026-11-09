@@ -4,12 +4,12 @@
   "names": [
     "[rpx]candy"
   ],
-  "runs": 76,
+  "runs": 77,
   "bestRank": 1,
   "worstRank": 208,
   "firstPlaces": 5,
-  "top3": 17,
-  "top10": 33,
+  "top3": 18,
+  "top10": 34,
   "bestMs": 522066,
   "weeksActive": [
     8,
@@ -87,7 +87,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -621,6 +622,13 @@
       "rank": 6,
       "ms": 1304147,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 2,
+      "ms": 1206658,
+      "dish": "Pies"
     }
   ]
 }

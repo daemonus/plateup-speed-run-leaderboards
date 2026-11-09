@@ -4,12 +4,12 @@
   "names": [
     "Cappybarakun"
   ],
-  "runs": 13,
-  "bestRank": 20,
+  "runs": 14,
+  "bestRank": 5,
   "worstRank": 289,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1058956,
   "weeksActive": [
     -94,
@@ -24,7 +24,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 36,
       "ms": 2257969,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 5,
+      "ms": 2107033,
+      "dish": "Pies"
     }
   ]
 }

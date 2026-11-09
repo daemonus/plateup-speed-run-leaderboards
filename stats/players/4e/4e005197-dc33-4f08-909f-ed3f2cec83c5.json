@@ -4,12 +4,12 @@
   "names": [
     "Flip"
   ],
-  "runs": 45,
-  "bestRank": 42,
+  "runs": 46,
+  "bestRank": 7,
   "worstRank": 406,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 2056226,
   "weeksActive": [
     46,
@@ -56,7 +56,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -373,6 +374,13 @@
       "rank": 96,
       "ms": 2906474,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 7,
+      "ms": 2250549,
+      "dish": "Pies"
     }
   ]
 }

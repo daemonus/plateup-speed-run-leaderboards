@@ -4,8 +4,8 @@
   "names": [
     "maxene"
   ],
-  "runs": 5,
-  "bestRank": 103,
+  "runs": 6,
+  "bestRank": 26,
   "worstRank": 175,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 128,
       "ms": 3122958,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 26,
+      "ms": 3212866,
+      "dish": "Pies"
     }
   ]
 }
