@@ -4,7 +4,7 @@
   "names": [
     "neoline"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 18,
   "worstRank": 206,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 77,
       "ms": 2765455,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 40,
+      "ms": 2545362,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "\uD584\uD584"
   ],
-  "runs": 6,
-  "bestRank": 200,
+  "runs": 7,
+  "bestRank": 128,
   "worstRank": 428,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     47,
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 227,
       "ms": 3887854,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 128,
+      "ms": 3649810,
+      "dish": "Pies"
     }
   ]
 }

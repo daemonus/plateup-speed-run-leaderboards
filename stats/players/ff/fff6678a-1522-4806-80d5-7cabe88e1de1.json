@@ -4,7 +4,7 @@
   "names": [
     "lauralouise93"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 76,
   "worstRank": 448,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 102,
       "ms": 2927445,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 86,
+      "ms": 3140452,
+      "dish": "Pies"
     }
   ]
 }

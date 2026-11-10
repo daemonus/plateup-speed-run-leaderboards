@@ -4,8 +4,8 @@
   "names": [
     "oga"
   ],
-  "runs": 4,
-  "bestRank": 82,
+  "runs": 5,
+  "bestRank": 63,
   "worstRank": 188,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 147,
       "ms": 3272776,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 63,
+      "ms": 2816291,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "names": [
     "Moncoft"
   ],
-  "runs": 117,
+  "runs": 118,
   "bestRank": 2,
   "worstRank": 247,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 30,
+  "top10": 31,
   "bestMs": 987507,
   "weeksActive": [
     -78,
@@ -128,7 +128,8 @@
     88,
     90,
     92,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -949,6 +950,13 @@
       "rank": 21,
       "ms": 1732694,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 7,
+      "ms": 1593942,
+      "dish": "Pies"
     }
   ]
 }

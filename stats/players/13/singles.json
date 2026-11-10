@@ -6,8 +6,8 @@
       "zeropoint"
     ],
     "runs": 1,
-    "bestRank": 149,
-    "worstRank": 149,
+    "bestRank": 197,
+    "worstRank": 197,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -19,7 +19,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 149,
+        "rank": 197,
         "ms": 5448459,
         "dish": "Pies"
       }
@@ -1036,6 +1036,32 @@
         "rank": 330,
         "ms": 6103288,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "135ac936-7390-45af-97d3-29723825a14a",
+    "persona": "shouriouken",
+    "names": [
+      "shouriouken"
+    ],
+    "runs": 1,
+    "bestRank": 188,
+    "worstRank": 188,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4947053,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 188,
+        "ms": 4947053,
+        "dish": "Pies"
       }
     ]
   },

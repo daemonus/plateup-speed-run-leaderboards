@@ -4,7 +4,7 @@
   "names": [
     "\u5149"
   ],
-  "runs": 65,
+  "runs": 66,
   "bestRank": 120,
   "worstRank": 556,
   "firstPlaces": 0,
@@ -76,7 +76,8 @@
     89,
     91,
     92,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -533,6 +534,13 @@
       "rank": 193,
       "ms": 3374409,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 126,
+      "ms": 3628313,
+      "dish": "Pies"
     }
   ]
 }

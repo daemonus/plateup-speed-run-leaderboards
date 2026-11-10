@@ -4,7 +4,7 @@
   "names": [
     "Chey"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 131,
   "worstRank": 344,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     59,
     61,
     68,
-    69
+    69,
+    96
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 188,
       "ms": 3503899,
       "dish": "Burgers"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 133,
+      "ms": 3759912,
+      "dish": "Pies"
     }
   ]
 }

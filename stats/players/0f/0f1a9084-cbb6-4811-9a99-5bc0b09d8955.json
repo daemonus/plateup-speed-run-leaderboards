@@ -1,0 +1,34 @@
+{
+  "id": "0f1a9084-cbb6-4811-9a99-5bc0b09d8955",
+  "persona": "aneligna",
+  "names": [
+    "aneligna"
+  ],
+  "runs": 2,
+  "bestRank": 123,
+  "worstRank": 989,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3615736,
+  "weeksActive": [
+    92,
+    96
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 989,
+      "ms": 5250282,
+      "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 123,
+      "ms": 3615736,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -604,8 +604,8 @@
       "MsToria"
     ],
     "runs": 1,
-    "bestRank": 55,
-    "worstRank": 55,
+    "bestRank": 72,
+    "worstRank": 72,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -617,7 +617,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 55,
+        "rank": 72,
         "ms": 2950089,
         "dish": "Pies"
       }
@@ -2466,6 +2466,32 @@
         "rank": 222,
         "ms": 3696476,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "6cba070c-3b70-47f5-873a-9c237805b011",
+    "persona": "whatcanisay",
+    "names": [
+      "whatcanisay"
+    ],
+    "runs": 1,
+    "bestRank": 187,
+    "worstRank": 187,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4926605,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 187,
+        "ms": 4926605,
+        "dish": "Pies"
       }
     ]
   },

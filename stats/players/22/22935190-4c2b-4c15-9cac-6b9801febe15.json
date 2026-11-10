@@ -4,7 +4,7 @@
   "names": [
     "Iceland"
   ],
-  "runs": 53,
+  "runs": 54,
   "bestRank": 43,
   "worstRank": 592,
   "firstPlaces": 0,
@@ -64,7 +64,8 @@
     83,
     84,
     85,
-    87
+    87,
+    96
   ],
   "history": [
     {
@@ -437,6 +438,13 @@
       "rank": 102,
       "ms": 3375525,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 48,
+      "ms": 2623615,
+      "dish": "Pies"
     }
   ]
 }

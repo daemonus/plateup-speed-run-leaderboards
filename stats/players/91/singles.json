@@ -104,6 +104,32 @@
     ]
   },
   {
+    "id": "91057c88-ca71-4e6c-b341-df97ab18b850",
+    "persona": "elektrische matratze :)",
+    "names": [
+      "elektrische matratze :)"
+    ],
+    "runs": 1,
+    "bestRank": 79,
+    "worstRank": 79,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3027158,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 79,
+        "ms": 3027158,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "91059ff1-6e1c-4385-83c3-a98510a12a8f",
     "persona": "\u305F\u304B\u3083",
     "names": [
@@ -3427,6 +3453,32 @@
         "start": "2023-08-21",
         "rank": 789,
         "ms": 5500858,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "91f220a7-0b30-4c3b-8c95-9c36fb75a4cc",
+    "persona": "Popkaster",
+    "names": [
+      "Popkaster"
+    ],
+    "runs": 1,
+    "bestRank": 206,
+    "worstRank": 206,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6197293,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 206,
+        "ms": 6197293,
         "dish": "Pies"
       }
     ]

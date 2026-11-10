@@ -338,32 +338,6 @@
     ]
   },
   {
-    "id": "9a26e1b7-4bb5-420f-ba80-406d4d70fb86",
-    "persona": "yuu",
-    "names": [
-      "yuu"
-    ],
-    "runs": 1,
-    "bestRank": 69,
-    "worstRank": 69,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2662252,
-    "weeksActive": [
-      95
-    ],
-    "history": [
-      {
-        "week": 95,
-        "start": "2026-11-02",
-        "rank": 69,
-        "ms": 2662252,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "9a299b03-4e4d-4f7d-adbb-46090f2668bd",
     "persona": "satxrnn",
     "names": [
@@ -2112,8 +2086,8 @@
       "Yurri"
     ],
     "runs": 1,
-    "bestRank": 154,
-    "worstRank": 154,
+    "bestRank": 204,
+    "worstRank": 204,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2125,7 +2099,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 154,
+        "rank": 204,
         "ms": 5851931,
         "dish": "Pies"
       }

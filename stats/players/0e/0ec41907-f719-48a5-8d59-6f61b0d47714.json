@@ -4,16 +4,17 @@
   "names": [
     "IlyaXa"
   ],
-  "runs": 2,
-  "bestRank": 242,
+  "runs": 3,
+  "bestRank": 104,
   "worstRank": 307,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3976671,
+  "bestMs": 3390211,
   "weeksActive": [
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 242,
       "ms": 3976671,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 104,
+      "ms": 3390211,
+      "dish": "Pies"
     }
   ]
 }

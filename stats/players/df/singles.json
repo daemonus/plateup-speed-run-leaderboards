@@ -1098,8 +1098,8 @@
       "crown1019"
     ],
     "runs": 1,
-    "bestRank": 112,
-    "worstRank": 112,
+    "bestRank": 147,
+    "worstRank": 147,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1111,7 +1111,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 112,
+        "rank": 147,
         "ms": 4052512,
         "dish": "Pies"
       }
@@ -1930,8 +1930,8 @@
       "\u518D\u7EED\u7F18"
     ],
     "runs": 1,
-    "bestRank": 130,
-    "worstRank": 130,
+    "bestRank": 168,
+    "worstRank": 168,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1943,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 130,
+        "rank": 168,
         "ms": 4446631,
         "dish": "Pies"
       }
@@ -3116,6 +3116,32 @@
         "rank": 323,
         "ms": 3505737,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "dff68b29-dfdb-4999-bb3a-9950cf24ff25",
+    "persona": "Rowina",
+    "names": [
+      "Rowina"
+    ],
+    "runs": 1,
+    "bestRank": 208,
+    "worstRank": 208,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6503161,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 208,
+        "ms": 6503161,
+        "dish": "Pies"
       }
     ]
   },

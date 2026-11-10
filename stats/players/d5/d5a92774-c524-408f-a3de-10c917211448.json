@@ -4,8 +4,8 @@
   "names": [
     "tekka"
   ],
-  "runs": 10,
-  "bestRank": 78,
+  "runs": 11,
+  "bestRank": 52,
   "worstRank": 196,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     91,
     92,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 94,
       "ms": 2877449,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 52,
+      "ms": 2701872,
+      "dish": "Pies"
     }
   ]
 }

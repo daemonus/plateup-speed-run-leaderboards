@@ -4,8 +4,8 @@
   "names": [
     "lemon8tree"
   ],
-  "runs": 2,
-  "bestRank": 219,
+  "runs": 3,
+  "bestRank": 109,
   "worstRank": 286,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3351006,
   "weeksActive": [
     89,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 286,
       "ms": 3351006,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 109,
+      "ms": 3452325,
+      "dish": "Pies"
     }
   ]
 }
