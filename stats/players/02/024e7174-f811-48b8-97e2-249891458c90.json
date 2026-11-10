@@ -4,8 +4,8 @@
   "names": [
     "DELL"
   ],
-  "runs": 2,
-  "bestRank": 333,
+  "runs": 3,
+  "bestRank": 92,
   "worstRank": 384,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3042316,
   "weeksActive": [
     43,
-    52
+    52,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 333,
       "ms": 3144266,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 92,
+      "ms": 3551257,
+      "dish": "Pies"
     }
   ]
 }

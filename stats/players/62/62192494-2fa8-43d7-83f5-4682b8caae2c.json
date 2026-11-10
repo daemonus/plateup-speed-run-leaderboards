@@ -4,7 +4,7 @@
   "names": [
     "wonderwhiskey"
   ],
-  "runs": 79,
+  "runs": 80,
   "bestRank": 27,
   "worstRank": 285,
   "firstPlaces": 0,
@@ -90,7 +90,8 @@
     5,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -645,6 +646,13 @@
       "rank": 145,
       "ms": 3247127,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 43,
+      "ms": 2666016,
+      "dish": "Pies"
     }
   ]
 }

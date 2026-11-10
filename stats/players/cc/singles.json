@@ -682,8 +682,8 @@
       "Professorn"
     ],
     "runs": 1,
-    "bestRank": 101,
-    "worstRank": 101,
+    "bestRank": 136,
+    "worstRank": 136,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 101,
+        "rank": 136,
         "ms": 4662974,
         "dish": "Pies"
       }
@@ -984,32 +984,6 @@
         "rank": 593,
         "ms": 4613589,
         "dish": "Pies"
-      }
-    ]
-  },
-  {
-    "id": "cc5d388c-8deb-44b0-8fd5-9754aa4a0077",
-    "persona": "Zelda Cloud",
-    "names": [
-      "Zelda Cloud"
-    ],
-    "runs": 1,
-    "bestRank": 299,
-    "worstRank": 299,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4382416,
-    "weeksActive": [
-      95
-    ],
-    "history": [
-      {
-        "week": 95,
-        "start": "2026-11-02",
-        "rank": 299,
-        "ms": 4382416,
-        "dish": "Hot Dogs"
       }
     ]
   },

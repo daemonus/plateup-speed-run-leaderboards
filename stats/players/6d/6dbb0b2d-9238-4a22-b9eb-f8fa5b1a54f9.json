@@ -4,8 +4,8 @@
   "names": [
     "Silverberg"
   ],
-  "runs": 2,
-  "bestRank": 226,
+  "runs": 3,
+  "bestRank": 107,
   "worstRank": 553,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3665244,
   "weeksActive": [
     -20,
-    -19
+    -19,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 226,
       "ms": 3665244,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 107,
+      "ms": 3919685,
+      "dish": "Pies"
     }
   ]
 }

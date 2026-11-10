@@ -4,7 +4,7 @@
   "names": [
     "beth_web04"
   ],
-  "runs": 86,
+  "runs": 87,
   "bestRank": 38,
   "worstRank": 1170,
   "firstPlaces": 0,
@@ -97,7 +97,8 @@
     91,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -701,6 +702,13 @@
       "rank": 81,
       "ms": 2781001,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 53,
+      "ms": 2880898,
+      "dish": "Pies"
     }
   ]
 }

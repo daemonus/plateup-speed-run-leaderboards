@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "7f1a8790-c6a1-4eb0-ae6a-66a06cb59f9b",
+    "persona": "Jian",
+    "names": [
+      "Jian"
+    ],
+    "runs": 1,
+    "bestRank": 102,
+    "worstRank": 102,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3753597,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 102,
+        "ms": 3753597,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "7f1badca-01dd-4424-853b-3ae6c53b6a1b",
     "persona": "I Love Honeyberry",
     "names": [
@@ -1452,6 +1478,32 @@
         "rank": 594,
         "ms": 6133773,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "7f6dc07d-aaa6-4323-9aac-a87b4902aed3",
+    "persona": "Dragonfly",
+    "names": [
+      "Dragonfly"
+    ],
+    "runs": 1,
+    "bestRank": 158,
+    "worstRank": 158,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 11585136,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 158,
+        "ms": 11585136,
+        "dish": "Pies"
       }
     ]
   },

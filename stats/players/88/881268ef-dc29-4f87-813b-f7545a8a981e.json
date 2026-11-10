@@ -4,7 +4,7 @@
   "names": [
     "Bickibok4444"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 21,
   "worstRank": 395,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     72,
     74,
     77,
-    84
+    84,
+    96
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 59,
       "ms": 1302309,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 59,
+      "ms": 3009190,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "Menace"
   ],
-  "runs": 2,
-  "bestRank": 225,
+  "runs": 3,
+  "bestRank": 77,
   "worstRank": 241,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3180595,
   "weeksActive": [
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 225,
       "ms": 3860120,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 77,
+      "ms": 3369075,
+      "dish": "Pies"
     }
   ]
 }

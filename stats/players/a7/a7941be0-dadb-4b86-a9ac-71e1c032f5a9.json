@@ -4,8 +4,8 @@
   "names": [
     "magitechxinc"
   ],
-  "runs": 5,
-  "bestRank": 217,
+  "runs": 6,
+  "bestRank": 86,
   "worstRank": 258,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     67,
     79,
     85,
-    89
+    89,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 258,
       "ms": 3748230,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 86,
+      "ms": 3489569,
+      "dish": "Pies"
     }
   ]
 }

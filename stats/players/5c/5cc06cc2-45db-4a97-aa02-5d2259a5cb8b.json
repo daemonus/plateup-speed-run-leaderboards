@@ -4,7 +4,7 @@
   "names": [
     "mcksteelet"
   ],
-  "runs": 89,
+  "runs": 90,
   "bestRank": 10,
   "worstRank": 709,
   "firstPlaces": 0,
@@ -100,7 +100,8 @@
     90,
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -725,6 +726,13 @@
       "rank": 101,
       "ms": 2918890,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 63,
+      "ms": 3108401,
+      "dish": "Pies"
     }
   ]
 }

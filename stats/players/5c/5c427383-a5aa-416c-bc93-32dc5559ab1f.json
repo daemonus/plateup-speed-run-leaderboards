@@ -4,8 +4,8 @@
   "names": [
     "Master AJ"
   ],
-  "runs": 2,
-  "bestRank": 283,
+  "runs": 3,
+  "bestRank": 142,
   "worstRank": 375,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3733539,
   "weeksActive": [
     36,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 283,
       "ms": 4278966,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 142,
+      "ms": 5020400,
+      "dish": "Pies"
     }
   ]
 }

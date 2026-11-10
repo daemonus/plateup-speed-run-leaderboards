@@ -4,19 +4,20 @@
   "names": [
     "Kelt"
   ],
-  "runs": 5,
-  "bestRank": 154,
+  "runs": 6,
+  "bestRank": 57,
   "worstRank": 1063,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3318016,
+  "bestMs": 2975766,
   "weeksActive": [
     91,
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 154,
       "ms": 3318016,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 57,
+      "ms": 2975766,
+      "dish": "Pies"
     }
   ]
 }

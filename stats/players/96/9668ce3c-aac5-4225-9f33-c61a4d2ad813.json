@@ -4,8 +4,8 @@
   "names": [
     "Yvonne\u8BFA\u6D6E"
   ],
-  "runs": 3,
-  "bestRank": 134,
+  "runs": 4,
+  "bestRank": 73,
   "worstRank": 308,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 184,
       "ms": 3537944,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 73,
+      "ms": 3266265,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Petalcaster"
   ],
-  "runs": 162,
+  "runs": 163,
   "bestRank": 49,
   "worstRank": 1571,
   "firstPlaces": 0,
@@ -173,7 +173,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -1309,6 +1310,13 @@
       "rank": 318,
       "ms": 4500419,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 52,
+      "ms": 2872338,
+      "dish": "Pies"
     }
   ]
 }
