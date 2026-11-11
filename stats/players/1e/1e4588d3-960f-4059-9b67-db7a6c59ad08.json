@@ -4,8 +4,8 @@
   "names": [
     "umami69"
   ],
-  "runs": 26,
-  "bestRank": 159,
+  "runs": 27,
+  "bestRank": 143,
   "worstRank": 485,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     50,
     51,
     52,
-    88
+    88,
+    96
   ],
   "history": [
     {
@@ -220,6 +221,13 @@
       "start": "2026-09-14",
       "rank": 284,
       "ms": 4119769,
+      "dish": "Pies"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 143,
+      "ms": 3672234,
       "dish": "Pies"
     }
   ]

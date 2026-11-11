@@ -4,16 +4,17 @@
   "names": [
     "ghostface\u0027s wife"
   ],
-  "runs": 2,
-  "bestRank": 221,
+  "runs": 3,
+  "bestRank": 89,
   "worstRank": 404,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3758658,
+  "bestMs": 3045269,
   "weeksActive": [
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 221,
       "ms": 3829467,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 89,
+      "ms": 3045269,
+      "dish": "Pies"
     }
   ]
 }

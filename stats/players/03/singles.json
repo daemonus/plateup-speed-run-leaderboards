@@ -260,6 +260,32 @@
     ]
   },
   {
+    "id": "0318e60d-6eb1-4218-b208-964e22fc7d5c",
+    "persona": "\u9EA6\u82BD\u7684\u9999\u6C14",
+    "names": [
+      "\u9EA6\u82BD\u7684\u9999\u6C14"
+    ],
+    "runs": 1,
+    "bestRank": 194,
+    "worstRank": 194,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4487062,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 194,
+        "ms": 4487062,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "0318fef7-0131-4d70-811f-47f71a2c947d",
     "persona": "Max",
     "names": [
@@ -1945,6 +1971,32 @@
         "start": "2024-09-16",
         "rank": 508,
         "ms": 4062738,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "03802ad6-36a1-4e50-b0c0-cfedfbe4d7ad",
+    "persona": "lin-yongqian",
+    "names": [
+      "lin-yongqian"
+    ],
+    "runs": 1,
+    "bestRank": 205,
+    "worstRank": 205,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4715735,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 205,
+        "ms": 4715735,
         "dish": "Pies"
       }
     ]

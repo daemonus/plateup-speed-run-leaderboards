@@ -4,7 +4,7 @@
   "names": [
     "Raging Glizzy"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 126,
   "worstRank": 2152,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     88,
     89,
     90,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 238,
       "ms": 3166289,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 201,
+      "ms": 4661161,
+      "dish": "Pies"
     }
   ]
 }

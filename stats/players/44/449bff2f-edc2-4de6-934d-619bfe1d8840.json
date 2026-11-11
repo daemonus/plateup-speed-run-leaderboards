@@ -4,7 +4,7 @@
   "names": [
     "DFAT"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 51,
   "worstRank": 125,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     77,
     92,
     93,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 88,
       "ms": 2657807,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 75,
+      "ms": 2910695,
+      "dish": "Pies"
     }
   ]
 }

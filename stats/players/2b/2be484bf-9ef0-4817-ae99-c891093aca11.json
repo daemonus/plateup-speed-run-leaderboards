@@ -4,7 +4,7 @@
   "names": [
     "BryanL64"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 81,
   "worstRank": 1142,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 306,
       "ms": 4430108,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 234,
+      "ms": 5674836,
+      "dish": "Pies"
     }
   ]
 }

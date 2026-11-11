@@ -4,8 +4,8 @@
   "names": [
     "ManicHispanic"
   ],
-  "runs": 5,
-  "bestRank": 367,
+  "runs": 6,
+  "bestRank": 184,
   "worstRank": 936,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     84,
     89,
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 367,
       "ms": 4975046,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 184,
+      "ms": 4343279,
+      "dish": "Pies"
     }
   ]
 }

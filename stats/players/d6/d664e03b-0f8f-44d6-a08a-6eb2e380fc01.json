@@ -4,9 +4,9 @@
   "names": [
     "SwimInThunder"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 47,
-  "worstRank": 83,
+  "worstRank": 134,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -15,7 +15,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 83,
       "ms": 2801850,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 134,
+      "ms": 3599267,
+      "dish": "Pies"
     }
   ]
 }

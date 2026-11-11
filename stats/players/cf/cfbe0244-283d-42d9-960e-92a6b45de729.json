@@ -4,8 +4,8 @@
   "names": [
     "dana_may"
   ],
-  "runs": 5,
-  "bestRank": 217,
+  "runs": 6,
+  "bestRank": 145,
   "worstRank": 748,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     84,
     88,
     90,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 748,
       "ms": 4576154,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 145,
+      "ms": 3720430,
+      "dish": "Pies"
     }
   ]
 }

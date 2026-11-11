@@ -4,8 +4,8 @@
   "names": [
     "Lucina"
   ],
-  "runs": 6,
-  "bestRank": 223,
+  "runs": 7,
+  "bestRank": 159,
   "worstRank": 846,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     -60,
     -59,
     -43,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 846,
       "ms": 4836223,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 159,
+      "ms": 3955457,
+      "dish": "Pies"
     }
   ]
 }

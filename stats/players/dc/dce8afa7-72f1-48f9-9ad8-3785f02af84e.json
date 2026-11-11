@@ -4,7 +4,7 @@
   "names": [
     "x_Sc00byD00_x"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 4,
   "worstRank": 100,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     91,
     92,
     93,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 28,
       "ms": 1922332,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 20,
+      "ms": 2006160,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Savage_Jenny"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 146,
   "worstRank": 489,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     88,
     89,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 218,
       "ms": 3821792,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 175,
+      "ms": 4243800,
+      "dish": "Pies"
     }
   ]
 }
