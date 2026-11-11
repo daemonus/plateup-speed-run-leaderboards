@@ -4,7 +4,7 @@
   "names": [
     "Audy_157"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 9,
   "worstRank": 87,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 19,
       "ms": 1999726,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 23,
+      "ms": 2042159,
+      "dish": "Pies"
     }
   ]
 }

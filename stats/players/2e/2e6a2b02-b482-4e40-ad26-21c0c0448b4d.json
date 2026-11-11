@@ -4,8 +4,8 @@
   "names": [
     "nameko07"
   ],
-  "runs": 3,
-  "bestRank": 174,
+  "runs": 4,
+  "bestRank": 154,
   "worstRank": 269,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     52,
     53,
-    77
+    77,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 269,
       "ms": 2966283,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 154,
+      "ms": 3589049,
+      "dish": "Pies"
     }
   ]
 }

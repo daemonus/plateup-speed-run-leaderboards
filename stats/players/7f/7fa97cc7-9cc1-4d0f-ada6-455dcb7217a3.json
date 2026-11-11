@@ -4,7 +4,7 @@
   "names": [
     "Bandison"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 99,
   "worstRank": 371,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     58,
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 99,
       "ms": 2912767,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 107,
+      "ms": 3071218,
+      "dish": "Pies"
     }
   ]
 }

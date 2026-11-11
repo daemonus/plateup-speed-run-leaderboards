@@ -4,7 +4,7 @@
   "names": [
     "mta02*****"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 96,
   "worstRank": 282,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     78,
     91,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 282,
       "ms": 3331259,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 105,
+      "ms": 3064484,
+      "dish": "Pies"
     }
   ]
 }

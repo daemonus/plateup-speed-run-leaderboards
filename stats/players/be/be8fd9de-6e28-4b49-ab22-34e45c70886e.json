@@ -4,7 +4,7 @@
   "names": [
     "AAA\u5C0F\u73CD\u73E0\u6279\u53D1\u5546AAA"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 189,
   "worstRank": 1601,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     -89,
     -76,
     -57,
-    0
+    0,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 248,
       "ms": 4228356,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 256,
+      "ms": 5035923,
+      "dish": "Pies"
     }
   ]
 }

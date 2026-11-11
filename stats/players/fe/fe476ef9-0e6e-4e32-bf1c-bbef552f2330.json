@@ -4,7 +4,7 @@
   "names": [
     "alc"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 50,
   "worstRank": 432,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     79,
     80,
     82,
-    83
+    83,
+    96
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 432,
       "ms": 2786224,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 74,
+      "ms": 2796513,
+      "dish": "Pies"
     }
   ]
 }

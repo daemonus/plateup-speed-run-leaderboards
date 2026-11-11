@@ -4,7 +4,7 @@
   "names": [
     "Asteyni"
   ],
-  "runs": 82,
+  "runs": 83,
   "bestRank": 27,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -93,7 +93,8 @@
     43,
     52,
     53,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -669,6 +670,13 @@
       "rank": 97,
       "ms": 2907096,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 108,
+      "ms": 3075266,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "leseul69"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 197,
   "worstRank": 872,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 197,
       "ms": 3642058,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 253,
+      "ms": 5020322,
+      "dish": "Pies"
     }
   ]
 }

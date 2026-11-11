@@ -468,6 +468,32 @@
     ]
   },
   {
+    "id": "f923e843-cbd3-4d22-a79a-f1b5abd50922",
+    "persona": "c",
+    "names": [
+      "c"
+    ],
+    "runs": 1,
+    "bestRank": 248,
+    "worstRank": 248,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4894658,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 248,
+        "ms": 4894658,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "f9247e76-c70f-4b5d-99e1-f81b25e8db17",
     "persona": "Harambe",
     "names": [
@@ -2268,8 +2294,8 @@
       "KSNY"
     ],
     "runs": 1,
-    "bestRank": 176,
-    "worstRank": 176,
+    "bestRank": 206,
+    "worstRank": 206,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 176,
+        "rank": 206,
         "ms": 4261666,
         "dish": "Pies"
       }

@@ -4,7 +4,7 @@
   "names": [
     "zoon"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 180,
   "worstRank": 1642,
   "firstPlaces": 0,
@@ -36,7 +36,8 @@
     68,
     74,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 424,
       "ms": 5825414,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 257,
+      "ms": 5092743,
+      "dish": "Pies"
     }
   ]
 }

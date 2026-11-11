@@ -682,8 +682,8 @@
       "Professorn"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 235,
+    "worstRank": 235,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +695,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 202,
+        "rank": 235,
         "ms": 4662974,
         "dish": "Pies"
       }
@@ -958,6 +958,32 @@
         "rank": 513,
         "ms": 3243161,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "cc5b65f9-0294-4a2b-9381-408c43103ea9",
+    "persona": "ded",
+    "names": [
+      "ded"
+    ],
+    "runs": 1,
+    "bestRank": 202,
+    "worstRank": 202,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4226025,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 202,
+        "ms": 4226025,
+        "dish": "Pies"
       }
     ]
   },

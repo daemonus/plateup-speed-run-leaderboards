@@ -572,6 +572,32 @@
     ]
   },
   {
+    "id": "0525125b-d7e7-4da4-845d-6b841572ef65",
+    "persona": "casualtrash",
+    "names": [
+      "casualtrash"
+    ],
+    "runs": 1,
+    "bestRank": 230,
+    "worstRank": 230,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4604503,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 230,
+        "ms": 4604503,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "0526c618-3a14-49ce-9034-dc28d94097c8",
     "persona": "GingerTea",
     "names": [
@@ -3308,8 +3334,8 @@
       "SirSilver"
     ],
     "runs": 1,
-    "bestRank": 221,
-    "worstRank": 221,
+    "bestRank": 262,
+    "worstRank": 262,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3321,7 +3347,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 221,
+        "rank": 262,
         "ms": 5228336,
         "dish": "Pies"
       }

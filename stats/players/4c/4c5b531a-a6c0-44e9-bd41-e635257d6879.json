@@ -4,7 +4,7 @@
   "names": [
     "callidissime"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 172,
   "worstRank": 790,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     -23,
     -20,
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 423,
       "ms": 5812780,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 245,
+      "ms": 4866682,
+      "dish": "Pies"
     }
   ]
 }

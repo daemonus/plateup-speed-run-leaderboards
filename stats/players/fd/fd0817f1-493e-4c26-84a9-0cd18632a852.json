@@ -4,7 +4,7 @@
   "names": [
     "c0de"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 18,
   "worstRank": 232,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     45,
     46,
     85,
-    87
+    87,
+    96
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 77,
       "ms": 3157237,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 97,
+      "ms": 2993549,
+      "dish": "Pies"
     }
   ]
 }

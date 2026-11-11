@@ -4,7 +4,7 @@
   "names": [
     "Airwalk"
   ],
-  "runs": 36,
+  "runs": 37,
   "bestRank": 13,
   "worstRank": 1167,
   "firstPlaces": 0,
@@ -47,7 +47,8 @@
     88,
     89,
     90,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -301,6 +302,13 @@
       "rank": 32,
       "ms": 2241661,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 34,
+      "ms": 2254433,
+      "dish": "Pies"
     }
   ]
 }

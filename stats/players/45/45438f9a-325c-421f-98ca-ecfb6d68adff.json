@@ -4,7 +4,7 @@
   "names": [
     "venus"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 255,
   "worstRank": 458,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 255,
       "ms": 4077980,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 285,
+      "ms": 6568711,
+      "dish": "Pies"
     }
   ]
 }
