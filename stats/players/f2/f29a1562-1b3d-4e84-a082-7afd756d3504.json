@@ -4,7 +4,7 @@
   "names": [
     "BaddieBulldog"
   ],
-  "runs": 40,
+  "runs": 41,
   "bestRank": 44,
   "worstRank": 1413,
   "firstPlaces": 0,
@@ -51,7 +51,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -333,6 +334,13 @@
       "rank": 65,
       "ms": 2630895,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 101,
+      "ms": 2888594,
+      "dish": "Pies"
     }
   ]
 }

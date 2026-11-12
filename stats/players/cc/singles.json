@@ -338,6 +338,32 @@
     ]
   },
   {
+    "id": "cc266a84-5511-4bf0-b2cb-66222e76fb0b",
+    "persona": "\u30D6\u30C9\u30A6\u7CD6",
+    "names": [
+      "\u30D6\u30C9\u30A6\u7CD6"
+    ],
+    "runs": 1,
+    "bestRank": 150,
+    "worstRank": 150,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3279146,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 150,
+        "ms": 3279146,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "cc26ac1a-5a72-4a49-9b2f-acc986f99198",
     "persona": "Dangeldanger",
     "names": [
@@ -682,8 +708,8 @@
       "Professorn"
     ],
     "runs": 1,
-    "bestRank": 235,
-    "worstRank": 235,
+    "bestRank": 297,
+    "worstRank": 297,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +721,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 235,
+        "rank": 297,
         "ms": 4662974,
         "dish": "Pies"
       }
@@ -968,8 +994,8 @@
       "ded"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 249,
+    "worstRank": 249,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +1007,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 202,
+        "rank": 249,
         "ms": 4226025,
         "dish": "Pies"
       }
@@ -2024,32 +2050,6 @@
         "rank": 202,
         "ms": 4515532,
         "dish": "Breakfast"
-      }
-    ]
-  },
-  {
-    "id": "cca3c05d-b7aa-4c07-97a0-ddea0d9dab2b",
-    "persona": "\u65E9\u7761\u65E9\u8D77\u5C0F\u5929\u624D",
-    "names": [
-      "\u65E9\u7761\u65E9\u8D77\u5C0F\u5929\u624D"
-    ],
-    "runs": 1,
-    "bestRank": 366,
-    "worstRank": 366,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4549604,
-    "weeksActive": [
-      94
-    ],
-    "history": [
-      {
-        "week": 94,
-        "start": "2026-10-26",
-        "rank": 366,
-        "ms": 4549604,
-        "dish": "Fajitas"
       }
     ]
   },

@@ -1618,8 +1618,8 @@
       "Sam2962"
     ],
     "runs": 1,
-    "bestRank": 289,
-    "worstRank": 289,
+    "bestRank": 367,
+    "worstRank": 367,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1631,7 +1631,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 289,
+        "rank": 367,
         "ms": 9449071,
         "dish": "Pies"
       }
@@ -1842,32 +1842,6 @@
         "rank": 857,
         "ms": 4936193,
         "dish": "Pies"
-      }
-    ]
-  },
-  {
-    "id": "4e83c435-8a3c-4e38-bd88-bc01c6e6d4e6",
-    "persona": "MoistCakes95",
-    "names": [
-      "MoistCakes95"
-    ],
-    "runs": 1,
-    "bestRank": 515,
-    "worstRank": 515,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4230585,
-    "weeksActive": [
-      -62
-    ],
-    "history": [
-      {
-        "week": -62,
-        "start": "2023-10-30",
-        "rank": 515,
-        "ms": 4230585,
-        "dish": "Breakfast"
       }
     ]
   },

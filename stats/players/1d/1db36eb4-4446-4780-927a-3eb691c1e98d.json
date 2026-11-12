@@ -4,7 +4,7 @@
   "names": [
     "Jamm"
   ],
-  "runs": 30,
+  "runs": 31,
   "bestRank": 25,
   "worstRank": 400,
   "firstPlaces": 0,
@@ -41,7 +41,8 @@
     87,
     89,
     90,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -253,6 +254,13 @@
       "rank": 94,
       "ms": 2706810,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 25,
+      "ms": 2005237,
+      "dish": "Pies"
     }
   ]
 }

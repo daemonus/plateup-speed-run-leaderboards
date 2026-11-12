@@ -4,7 +4,7 @@
   "names": [
     "RYFA1122"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 111,
   "worstRank": 288,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 144,
       "ms": 3239259,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 138,
+      "ms": 3177072,
+      "dish": "Pies"
     }
   ]
 }

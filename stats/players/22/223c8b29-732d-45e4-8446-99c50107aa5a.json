@@ -4,7 +4,7 @@
   "names": [
     "fatmagamalgalal"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 211,
   "worstRank": 723,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     83,
     85,
     86,
-    90
+    90,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 211,
       "ms": 3155280,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 290,
+      "ms": 4615413,
+      "dish": "Pies"
     }
   ]
 }

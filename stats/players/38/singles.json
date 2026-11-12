@@ -1274,32 +1274,6 @@
     ]
   },
   {
-    "id": "386b7b10-c18f-480f-b6c4-e87dee298474",
-    "persona": "winkle",
-    "names": [
-      "winkle"
-    ],
-    "runs": 1,
-    "bestRank": 153,
-    "worstRank": 153,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3302517,
-    "weeksActive": [
-      95
-    ],
-    "history": [
-      {
-        "week": 95,
-        "start": "2026-11-02",
-        "rank": 153,
-        "ms": 3302517,
-        "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
     "id": "386c2cb8-cb7f-47d6-9630-095f3fd4018c",
     "persona": "Captain Lenahan",
     "names": [
@@ -1358,8 +1332,8 @@
       "shrimpostor"
     ],
     "runs": 1,
-    "bestRank": 282,
-    "worstRank": 282,
+    "bestRank": 360,
+    "worstRank": 360,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1371,7 +1345,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 282,
+        "rank": 360,
         "ms": 6227998,
         "dish": "Pies"
       }

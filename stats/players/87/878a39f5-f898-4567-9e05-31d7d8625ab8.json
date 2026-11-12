@@ -4,7 +4,7 @@
   "names": [
     "Charone"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 244,
   "worstRank": 968,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     -66,
     -16,
     38,
-    65
+    65,
+    96
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 408,
       "ms": 7175033,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 252,
+      "ms": 4254775,
+      "dish": "Pies"
     }
   ]
 }

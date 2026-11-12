@@ -416,6 +416,32 @@
     ]
   },
   {
+    "id": "2327712f-9e0b-43e0-becb-91c22f8bffc6",
+    "persona": "DHC-2 B e a v e r",
+    "names": [
+      "DHC-2 B e a v e r"
+    ],
+    "runs": 1,
+    "bestRank": 276,
+    "worstRank": 276,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4408812,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 276,
+        "ms": 4408812,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "232c4632-540e-4414-8f77-77acb09a88c4",
     "persona": "\u4E00\u53EA\u5927tt",
     "names": [
@@ -2492,6 +2518,32 @@
         "rank": 102,
         "ms": 3713255,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "23cf4815-6f4a-4ad6-a1d6-eeea8e11a4b9",
+    "persona": "letter",
+    "names": [
+      "letter"
+    ],
+    "runs": 1,
+    "bestRank": 295,
+    "worstRank": 295,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4642360,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 295,
+        "ms": 4642360,
+        "dish": "Pies"
       }
     ]
   },

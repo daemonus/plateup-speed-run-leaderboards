@@ -1202,8 +1202,8 @@
       "\u6E9F\u5C9B"
     ],
     "runs": 1,
-    "bestRank": 219,
-    "worstRank": 219,
+    "bestRank": 269,
+    "worstRank": 269,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 219,
+        "rank": 269,
         "ms": 4368206,
         "dish": "Pies"
       }
@@ -1868,6 +1868,32 @@
         "rank": 698,
         "ms": 3848614,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "b086d854-5dcc-4286-bb30-467b4b552acb",
+    "persona": "CamperBr",
+    "names": [
+      "CamperBr"
+    ],
+    "runs": 1,
+    "bestRank": 368,
+    "worstRank": 368,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 9775931,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 368,
+        "ms": 9775931,
+        "dish": "Pies"
       }
     ]
   },

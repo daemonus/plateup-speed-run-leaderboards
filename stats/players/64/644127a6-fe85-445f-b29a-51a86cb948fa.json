@@ -4,7 +4,7 @@
   "names": [
     "chrysannek"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 48,
   "worstRank": 213,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     43,
     60,
     80,
-    81
+    81,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 114,
       "ms": 2999922,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 57,
+      "ms": 2423717,
+      "dish": "Pies"
     }
   ]
 }

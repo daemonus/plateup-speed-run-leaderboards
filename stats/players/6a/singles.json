@@ -1982,8 +1982,8 @@
       "poopy"
     ],
     "runs": 1,
-    "bestRank": 213,
-    "worstRank": 213,
+    "bestRank": 261,
+    "worstRank": 261,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 213,
+        "rank": 261,
         "ms": 4317992,
         "dish": "Pies"
       }
@@ -3350,6 +3350,32 @@
         "rank": 220,
         "ms": 5047497,
         "dish": "Burgers"
+      }
+    ]
+  },
+  {
+    "id": "6ae5f96b-6b6f-4e13-928d-b7cb7fbbdd48",
+    "persona": "QwQ",
+    "names": [
+      "QwQ"
+    ],
+    "runs": 1,
+    "bestRank": 272,
+    "worstRank": 272,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4390649,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 272,
+        "ms": 4390649,
+        "dish": "Pies"
       }
     ]
   },

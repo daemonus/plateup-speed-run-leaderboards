@@ -4,7 +4,7 @@
   "names": [
     "omn9310"
   ],
-  "runs": 50,
+  "runs": 51,
   "bestRank": 2,
   "worstRank": 193,
   "firstPlaces": 0,
@@ -61,7 +61,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -413,6 +414,13 @@
       "rank": 29,
       "ms": 2203444,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 34,
+      "ms": 2132662,
+      "dish": "Pies"
     }
   ]
 }

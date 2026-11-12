@@ -832,6 +832,32 @@
     ]
   },
   {
+    "id": "6f36f878-a801-49e3-a772-00044de7760a",
+    "persona": "StoneMalone",
+    "names": [
+      "StoneMalone"
+    ],
+    "runs": 1,
+    "bestRank": 154,
+    "worstRank": 154,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3327156,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 154,
+        "ms": 3327156,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "6f37f814-e91b-47e5-9632-d324458c4477",
     "persona": "SilverMoonXoXo",
     "names": [
@@ -1280,8 +1306,8 @@
       "NY_Gentleman"
     ],
     "runs": 1,
-    "bestRank": 264,
-    "worstRank": 264,
+    "bestRank": 339,
+    "worstRank": 339,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1319,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 264,
+        "rank": 339,
         "ms": 5330770,
         "dish": "Pies"
       }

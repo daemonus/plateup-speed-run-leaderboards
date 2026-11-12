@@ -4,7 +4,7 @@
   "names": [
     "a2beans"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 163,
   "worstRank": 656,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     68,
     71,
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 163,
       "ms": 3390350,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 199,
+      "ms": 3711740,
+      "dish": "Pies"
     }
   ]
 }

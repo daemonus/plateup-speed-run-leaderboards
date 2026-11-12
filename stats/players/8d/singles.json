@@ -266,8 +266,8 @@
       "kikid"
     ],
     "runs": 1,
-    "bestRank": 161,
-    "worstRank": 161,
+    "bestRank": 192,
+    "worstRank": 192,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -279,7 +279,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 161,
+        "rank": 192,
         "ms": 3648129,
         "dish": "Pies"
       }
@@ -1633,32 +1633,6 @@
         "start": "2025-03-03",
         "rank": 448,
         "ms": 3163332,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "8d8a5b9a-25ed-4720-8a82-f2e172868c61",
-    "persona": "Elly",
-    "names": [
-      "Elly"
-    ],
-    "runs": 1,
-    "bestRank": 148,
-    "worstRank": 148,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2487247,
-    "weeksActive": [
-      -37
-    ],
-    "history": [
-      {
-        "week": -37,
-        "start": "2024-04-22",
-        "rank": 148,
-        "ms": 2487247,
         "dish": "Fish"
       }
     ]

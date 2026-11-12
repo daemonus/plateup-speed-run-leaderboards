@@ -4,7 +4,7 @@
   "names": [
     "Peridote"
   ],
-  "runs": 105,
+  "runs": 106,
   "bestRank": 37,
   "worstRank": 591,
   "firstPlaces": 0,
@@ -116,7 +116,8 @@
     88,
     90,
     91,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -853,6 +854,13 @@
       "rank": 79,
       "ms": 2780036,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 41,
+      "ms": 2260931,
+      "dish": "Pies"
     }
   ]
 }

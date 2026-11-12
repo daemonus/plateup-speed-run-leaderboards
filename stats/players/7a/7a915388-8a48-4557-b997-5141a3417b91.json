@@ -4,7 +4,7 @@
   "names": [
     "TrinityRose"
   ],
-  "runs": 52,
+  "runs": 53,
   "bestRank": 15,
   "worstRank": 340,
   "firstPlaces": 0,
@@ -63,7 +63,8 @@
     54,
     55,
     57,
-    61
+    61,
+    96
   ],
   "history": [
     {
@@ -429,6 +430,13 @@
       "rank": 153,
       "ms": 2960591,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 139,
+      "ms": 3183995,
+      "dish": "Pies"
     }
   ]
 }

@@ -2112,8 +2112,8 @@
       "miss lunita"
     ],
     "runs": 1,
-    "bestRank": 226,
-    "worstRank": 226,
+    "bestRank": 283,
+    "worstRank": 283,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2125,7 +2125,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 226,
+        "rank": 283,
         "ms": 4498351,
         "dish": "Pies"
       }
@@ -2648,32 +2648,6 @@
         "rank": 622,
         "ms": 4842686,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "cdd27af4-d49d-473b-b058-5abbcca17128",
-    "persona": "SSlayer",
-    "names": [
-      "SSlayer"
-    ],
-    "runs": 1,
-    "bestRank": 230,
-    "worstRank": 230,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3629371,
-    "weeksActive": [
-      94
-    ],
-    "history": [
-      {
-        "week": 94,
-        "start": "2026-10-26",
-        "rank": 230,
-        "ms": 3629371,
-        "dish": "Fajitas"
       }
     ]
   },

@@ -1,0 +1,34 @@
+{
+  "id": "8d8a5b9a-25ed-4720-8a82-f2e172868c61",
+  "persona": "Elly",
+  "names": [
+    "Elly"
+  ],
+  "runs": 2,
+  "bestRank": 148,
+  "worstRank": 156,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2487247,
+  "weeksActive": [
+    -37,
+    96
+  ],
+  "history": [
+    {
+      "week": -37,
+      "start": "2024-04-22",
+      "rank": 148,
+      "ms": 2487247,
+      "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 156,
+      "ms": 3359968,
+      "dish": "Pies"
+    }
+  ]
+}

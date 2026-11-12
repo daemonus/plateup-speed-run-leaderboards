@@ -1248,32 +1248,6 @@
     ]
   },
   {
-    "id": "7170836d-ab40-4ad4-ab45-62a3088ff472",
-    "persona": "Yulle",
-    "names": [
-      "Yulle"
-    ],
-    "runs": 1,
-    "bestRank": 655,
-    "worstRank": 655,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4329254,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 655,
-        "ms": 4329254,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "7173e302-80a6-4bad-b321-da01edf02218",
     "persona": "SSF",
     "names": [
@@ -2726,6 +2700,32 @@
         "rank": 478,
         "ms": 5138157,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "71d94341-7ab2-49c3-a7a7-d0c5671c3b43",
+    "persona": "morijellyfish",
+    "names": [
+      "morijellyfish"
+    ],
+    "runs": 1,
+    "bestRank": 119,
+    "worstRank": 119,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3012626,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 119,
+        "ms": 3012626,
+        "dish": "Pies"
       }
     ]
   },

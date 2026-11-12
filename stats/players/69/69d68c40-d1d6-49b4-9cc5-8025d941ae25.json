@@ -4,12 +4,12 @@
   "names": [
     "onom_nom"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 2,
   "worstRank": 524,
   "firstPlaces": 0,
   "top3": 3,
-  "top10": 19,
+  "top10": 20,
   "bestMs": 548696,
   "weeksActive": [
     -77,
@@ -39,7 +39,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 4,
       "ms": 1192331,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 6,
+      "ms": 1130811,
+      "dish": "Pies"
     }
   ]
 }
