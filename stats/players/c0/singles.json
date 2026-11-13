@@ -1488,8 +1488,8 @@
       "Gasmask"
     ],
     "runs": 1,
-    "bestRank": 341,
-    "worstRank": 341,
+    "bestRank": 367,
+    "worstRank": 367,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1501,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 341,
+        "rank": 367,
         "ms": 5366734,
         "dish": "Pies"
       }
@@ -2491,32 +2491,6 @@
         "start": "2023-07-31",
         "rank": 537,
         "ms": 3145299,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "c0bc1250-1588-4a5b-8c27-42239024036a",
-    "persona": "Dustred",
-    "names": [
-      "Dustred"
-    ],
-    "runs": 1,
-    "bestRank": 422,
-    "worstRank": 422,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3795525,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 422,
-        "ms": 3795525,
         "dish": "Fish"
       }
     ]

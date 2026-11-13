@@ -1,0 +1,34 @@
+{
+  "id": "2e1b4bdb-21f3-4de6-8907-0953c06a3244",
+  "persona": "England",
+  "names": [
+    "England"
+  ],
+  "runs": 2,
+  "bestRank": 302,
+  "worstRank": 728,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4121942,
+  "weeksActive": [
+    83,
+    96
+  ],
+  "history": [
+    {
+      "week": 83,
+      "start": "2026-08-10",
+      "rank": 728,
+      "ms": 4121942,
+      "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 302,
+      "ms": 4488050,
+      "dish": "Pies"
+    }
+  ]
+}

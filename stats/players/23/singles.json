@@ -422,8 +422,8 @@
       "DHC-2 B e a v e r"
     ],
     "runs": 1,
-    "bestRank": 276,
-    "worstRank": 276,
+    "bestRank": 293,
+    "worstRank": 293,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 276,
+        "rank": 293,
         "ms": 4408812,
         "dish": "Pies"
       }
@@ -1690,6 +1690,32 @@
     ]
   },
   {
+    "id": "238ac187-3f29-4550-86e3-908e48283b84",
+    "persona": "Onedayday",
+    "names": [
+      "Onedayday"
+    ],
+    "runs": 1,
+    "bestRank": 211,
+    "worstRank": 211,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3663606,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 211,
+        "ms": 3663606,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "238ae4e4-40b8-44cf-8719-12e54357a0e3",
     "persona": "alea.pouthier",
     "names": [
@@ -2528,8 +2554,8 @@
       "letter"
     ],
     "runs": 1,
-    "bestRank": 295,
-    "worstRank": 295,
+    "bestRank": 316,
+    "worstRank": 316,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 295,
+        "rank": 316,
         "ms": 4642360,
         "dish": "Pies"
       }

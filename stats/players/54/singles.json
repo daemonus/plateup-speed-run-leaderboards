@@ -338,6 +338,32 @@
     ]
   },
   {
+    "id": "5419507a-7780-4c86-903b-dade9235d25f",
+    "persona": "CMPDaKid",
+    "names": [
+      "CMPDaKid"
+    ],
+    "runs": 1,
+    "bestRank": 362,
+    "worstRank": 362,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5236580,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 362,
+        "ms": 5236580,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "5419a756-250c-45be-acef-4f355c6e8a1e",
     "persona": "Phahrenhyte",
     "names": [
@@ -1228,8 +1254,8 @@
       "Rika"
     ],
     "runs": 1,
-    "bestRank": 292,
-    "worstRank": 292,
+    "bestRank": 313,
+    "worstRank": 313,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1241,7 +1267,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 292,
+        "rank": 313,
         "ms": 4633601,
         "dish": "Pies"
       }
@@ -2492,6 +2518,32 @@
         "rank": 868,
         "ms": 3957132,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "54cee847-d89f-4bfc-905c-eafc7b203ebb",
+    "persona": "Gblnv",
+    "names": [
+      "Gblnv"
+    ],
+    "runs": 1,
+    "bestRank": 243,
+    "worstRank": 243,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3961433,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 243,
+        "ms": 3961433,
+        "dish": "Pies"
       }
     ]
   },

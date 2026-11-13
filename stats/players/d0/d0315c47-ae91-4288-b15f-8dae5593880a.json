@@ -4,7 +4,7 @@
   "names": [
     "Sycoloon"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 88,
   "worstRank": 507,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     45,
     46,
     47,
-    50
+    50,
+    96
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 175,
       "ms": 4327634,
       "dish": "Stir Fry"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 372,
+      "ms": 5455922,
+      "dish": "Pies"
     }
   ]
 }

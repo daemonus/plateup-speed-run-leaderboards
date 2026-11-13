@@ -4,7 +4,7 @@
   "names": [
     "Jackalrabbitac"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 213,
   "worstRank": 489,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     15,
     16,
     62,
-    69
+    69,
+    96
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 289,
       "ms": 5068229,
       "dish": "Burgers"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 382,
+      "ms": 5803145,
+      "dish": "Pies"
     }
   ]
 }

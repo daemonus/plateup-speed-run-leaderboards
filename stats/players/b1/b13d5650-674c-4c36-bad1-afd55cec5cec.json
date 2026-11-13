@@ -4,7 +4,7 @@
   "names": [
     "jackodon15"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 30,
   "worstRank": 299,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     48,
     58,
     60,
-    65
+    65,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 32,
       "ms": 2066140,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 167,
+      "ms": 3366106,
+      "dish": "Pies"
     }
   ]
 }

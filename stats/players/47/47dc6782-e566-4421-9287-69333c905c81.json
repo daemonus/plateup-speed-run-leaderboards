@@ -4,8 +4,8 @@
   "names": [
     "thegreeneyedalpha"
   ],
-  "runs": 3,
-  "bestRank": 508,
+  "runs": 4,
+  "bestRank": 395,
   "worstRank": 726,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     12,
     83,
-    86
+    86,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 544,
       "ms": 8053211,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 395,
+      "ms": 7432618,
+      "dish": "Pies"
     }
   ]
 }

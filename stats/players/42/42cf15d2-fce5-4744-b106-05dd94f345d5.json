@@ -4,7 +4,7 @@
   "names": [
     "bartolomea"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 133,
   "worstRank": 580,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     84,
     85,
     86,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 224,
       "ms": 3859154,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 195,
+      "ms": 3568086,
+      "dish": "Pies"
     }
   ]
 }

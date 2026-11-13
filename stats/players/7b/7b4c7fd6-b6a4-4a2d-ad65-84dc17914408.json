@@ -4,7 +4,7 @@
   "names": [
     "TheGamersBuffet"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 39,
   "worstRank": 236,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     -3,
     -2,
     51,
-    62
+    62,
+    96
   ],
   "history": [
     {
@@ -52,6 +53,13 @@
       "start": "2026-03-16",
       "rank": 39,
       "ms": 2004190,
+      "dish": "Pies"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 61,
+      "ms": 2442632,
       "dish": "Pies"
     }
   ]
