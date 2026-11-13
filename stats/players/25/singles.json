@@ -110,8 +110,8 @@
       "Baron von Merdna (Ger)"
     ],
     "runs": 1,
-    "bestRank": 336,
-    "worstRank": 336,
+    "bestRank": 374,
+    "worstRank": 374,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -123,7 +123,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 336,
+        "rank": 374,
         "ms": 4878413,
         "dish": "Pies"
       }
@@ -776,6 +776,32 @@
         "rank": 1108,
         "ms": 4190232,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "2542e637-98f3-47ed-a1bf-ead73b4199a2",
+    "persona": "\u767D\u591C",
+    "names": [
+      "\u767D\u591C"
+    ],
+    "runs": 1,
+    "bestRank": 386,
+    "worstRank": 386,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4998119,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 386,
+        "ms": 4998119,
+        "dish": "Pies"
       }
     ]
   },

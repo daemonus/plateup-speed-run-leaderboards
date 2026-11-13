@@ -4,7 +4,7 @@
   "names": [
     "Sunkist"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 282,
   "worstRank": 665,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 282,
       "ms": 4274510,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 325,
+      "ms": 4423870,
+      "dish": "Pies"
     }
   ]
 }

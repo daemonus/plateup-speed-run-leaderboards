@@ -1202,8 +1202,8 @@
       "\u6E9F\u5C9B"
     ],
     "runs": 1,
-    "bestRank": 286,
-    "worstRank": 286,
+    "bestRank": 315,
+    "worstRank": 315,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1215,7 +1215,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 286,
+        "rank": 315,
         "ms": 4368206,
         "dish": "Pies"
       }
@@ -1347,6 +1347,32 @@
         "start": "2024-06-03",
         "rank": 626,
         "ms": 4164289,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "b054a0be-31d6-4930-a30d-b19e4dddbf33",
+    "persona": "The Father",
+    "names": [
+      "The Father"
+    ],
+    "runs": 1,
+    "bestRank": 297,
+    "worstRank": 297,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4255210,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 297,
+        "ms": 4255210,
         "dish": "Pies"
       }
     ]
@@ -1878,8 +1904,8 @@
       "CamperBr"
     ],
     "runs": 1,
-    "bestRank": 398,
-    "worstRank": 398,
+    "bestRank": 445,
+    "worstRank": 445,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 398,
+        "rank": 445,
         "ms": 9775931,
         "dish": "Pies"
       }

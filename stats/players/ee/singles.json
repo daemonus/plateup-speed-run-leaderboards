@@ -1982,8 +1982,8 @@
       "MR\u54C8\u5E03"
     ],
     "runs": 1,
-    "bestRank": 300,
-    "worstRank": 300,
+    "bestRank": 333,
+    "worstRank": 333,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 300,
+        "rank": 333,
         "ms": 4483036,
         "dish": "Pies"
       }
@@ -2288,14 +2288,40 @@
     ]
   },
   {
+    "id": "ee9abc64-945b-42ed-a25e-675bf76856f0",
+    "persona": "zxc005097",
+    "names": [
+      "zxc005097"
+    ],
+    "runs": 1,
+    "bestRank": 304,
+    "worstRank": 304,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4299360,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 304,
+        "ms": 4299360,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "ee9c7edb-83fb-4354-8501-dbcd3744ceaf",
     "persona": "Crimsyn",
     "names": [
       "Crimsyn"
     ],
     "runs": 1,
-    "bestRank": 337,
-    "worstRank": 337,
+    "bestRank": 375,
+    "worstRank": 375,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2307,7 +2333,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 337,
+        "rank": 375,
         "ms": 4885634,
         "dish": "Pies"
       }

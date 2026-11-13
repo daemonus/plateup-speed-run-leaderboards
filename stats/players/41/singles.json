@@ -292,8 +292,8 @@
       "ianpeterson"
     ],
     "runs": 1,
-    "bestRank": 253,
-    "worstRank": 253,
+    "bestRank": 277,
+    "worstRank": 277,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -305,7 +305,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 253,
+        "rank": 277,
         "ms": 4037960,
         "dish": "Pies"
       }
@@ -1842,6 +1842,32 @@
         "rank": 382,
         "ms": 2417861,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "419ec883-8d64-4a7a-9d8d-b3cea680bb64",
+    "persona": "Wen",
+    "names": [
+      "Wen"
+    ],
+    "runs": 1,
+    "bestRank": 254,
+    "worstRank": 254,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3869721,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 254,
+        "ms": 3869721,
+        "dish": "Pies"
       }
     ]
   },

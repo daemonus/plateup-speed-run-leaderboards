@@ -916,8 +916,8 @@
       "\u6CE5\u4E0D\u8981\u8FC7\u6765\u554A\u554A\u554A\u554A"
     ],
     "runs": 1,
-    "bestRank": 274,
-    "worstRank": 274,
+    "bestRank": 302,
+    "worstRank": 302,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -929,7 +929,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 274,
+        "rank": 302,
         "ms": 4287258,
         "dish": "Pies"
       }
@@ -1946,32 +1946,6 @@
         "rank": 487,
         "ms": 6529496,
         "dish": "Pizza"
-      }
-    ]
-  },
-  {
-    "id": "ca82a252-0c3a-46b0-9ae9-c51285160300",
-    "persona": "\u4E5D\u5C0F\u7EC7",
-    "names": [
-      "\u4E5D\u5C0F\u7EC7"
-    ],
-    "runs": 1,
-    "bestRank": 267,
-    "worstRank": 267,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4165688,
-    "weeksActive": [
-      95
-    ],
-    "history": [
-      {
-        "week": 95,
-        "start": "2026-11-02",
-        "rank": 267,
-        "ms": 4165688,
-        "dish": "Hot Dogs"
       }
     ]
   },

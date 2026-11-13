@@ -4,7 +4,7 @@
   "names": [
     "Kokosnuss"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 152,
   "worstRank": 605,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     78,
     84,
     89,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 577,
       "ms": 4157303,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 330,
+      "ms": 4461602,
+      "dish": "Pies"
     }
   ]
 }

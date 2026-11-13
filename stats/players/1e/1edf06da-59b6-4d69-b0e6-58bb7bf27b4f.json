@@ -4,12 +4,12 @@
   "names": [
     "beccaaaaaa"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 3,
   "worstRank": 820,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 14,
+  "top10": 15,
   "bestMs": 654911,
   "weeksActive": [
     -77,
@@ -49,7 +49,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 10,
       "ms": 1581486,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 9,
+      "ms": 1422333,
+      "dish": "Pies"
     }
   ]
 }

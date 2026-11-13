@@ -1638,32 +1638,6 @@
     ]
   },
   {
-    "id": "999b4d54-f047-4fd2-8e23-7838686d17f4",
-    "persona": "AnnGen",
-    "names": [
-      "AnnGen"
-    ],
-    "runs": 1,
-    "bestRank": 395,
-    "worstRank": 395,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 4802341,
-    "weeksActive": [
-      94
-    ],
-    "history": [
-      {
-        "week": 94,
-        "start": "2026-10-26",
-        "rank": 395,
-        "ms": 4802341,
-        "dish": "Fajitas"
-      }
-    ]
-  },
-  {
     "id": "999bf400-4fea-4c79-95d2-9779e928f328",
     "persona": "Faisal",
     "names": [
@@ -1956,8 +1930,8 @@
       "spooky scary skeleton"
     ],
     "runs": 1,
-    "bestRank": 100,
-    "worstRank": 100,
+    "bestRank": 111,
+    "worstRank": 111,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1969,7 +1943,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 100,
+        "rank": 111,
         "ms": 2862413,
         "dish": "Pies"
       }

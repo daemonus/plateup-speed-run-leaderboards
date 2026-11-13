@@ -4,16 +4,17 @@
   "names": [
     "Alby"
   ],
-  "runs": 2,
-  "bestRank": 248,
+  "runs": 3,
+  "bestRank": 184,
   "worstRank": 436,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4191583,
+  "bestMs": 3388457,
   "weeksActive": [
     38,
-    69
+    69,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 248,
       "ms": 4191583,
       "dish": "Burgers"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 184,
+      "ms": 3388457,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "names": [
     "JazzBomb"
   ],
-  "runs": 100,
+  "runs": 101,
   "bestRank": 1,
   "worstRank": 55,
   "firstPlaces": 11,
   "top3": 38,
-  "top10": 79,
+  "top10": 80,
   "bestMs": 973424,
   "weeksActive": [
     -91,
@@ -111,7 +111,8 @@
     30,
     35,
     83,
-    85
+    85,
+    96
   ],
   "history": [
     {
@@ -813,6 +814,13 @@
       "rank": 26,
       "ms": 1737478,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 7,
+      "ms": 1281565,
+      "dish": "Pies"
     }
   ]
 }

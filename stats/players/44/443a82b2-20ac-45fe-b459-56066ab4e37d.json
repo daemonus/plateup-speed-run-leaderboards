@@ -4,7 +4,7 @@
   "names": [
     "jenny200220135"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 384,
   "worstRank": 1234,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4772098,
   "weeksActive": [
     92,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 384,
       "ms": 4772098,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 421,
+      "ms": 5610353,
+      "dish": "Pies"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Aka"
   ],
-  "runs": 26,
+  "runs": 27,
   "bestRank": 7,
   "worstRank": 181,
   "firstPlaces": 0,
@@ -37,7 +37,8 @@
     -12,
     -6,
     15,
-    82
+    82,
+    96
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 132,
       "ms": 2659212,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 71,
+      "ms": 2487450,
+      "dish": "Pies"
     }
   ]
 }

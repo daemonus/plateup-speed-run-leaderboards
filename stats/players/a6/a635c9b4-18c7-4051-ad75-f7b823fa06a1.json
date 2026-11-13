@@ -4,7 +4,7 @@
   "names": [
     "sticky"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 207,
   "worstRank": 610,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     65,
     90,
     91,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 357,
       "ms": 3604330,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 290,
+      "ms": 4206036,
+      "dish": "Pies"
     }
   ]
 }

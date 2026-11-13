@@ -4,7 +4,7 @@
   "names": [
     "Keiruha"
   ],
-  "runs": 131,
+  "runs": 132,
   "bestRank": 10,
   "worstRank": 348,
   "firstPlaces": 0,
@@ -142,7 +142,8 @@
     90,
     91,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -1061,6 +1062,13 @@
       "rank": 80,
       "ms": 2780680,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 47,
+      "ms": 2283614,
+      "dish": "Pies"
     }
   ]
 }

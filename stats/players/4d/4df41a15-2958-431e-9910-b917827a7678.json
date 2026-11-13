@@ -1,0 +1,34 @@
+{
+  "id": "4df41a15-2958-431e-9910-b917827a7678",
+  "persona": "MuleBin",
+  "names": [
+    "MuleBin"
+  ],
+  "runs": 2,
+  "bestRank": 225,
+  "worstRank": 397,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3640520,
+  "weeksActive": [
+    95,
+    96
+  ],
+  "history": [
+    {
+      "week": 95,
+      "start": "2026-11-02",
+      "rank": 397,
+      "ms": 5341429,
+      "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 225,
+      "ms": 3640520,
+      "dish": "Pies"
+    }
+  ]
+}

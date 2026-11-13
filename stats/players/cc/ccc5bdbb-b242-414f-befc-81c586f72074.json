@@ -4,7 +4,7 @@
   "names": [
     "chrsmv"
   ],
-  "runs": 32,
+  "runs": 33,
   "bestRank": 56,
   "worstRank": 409,
   "firstPlaces": 0,
@@ -43,7 +43,8 @@
     92,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -269,6 +270,13 @@
       "rank": 100,
       "ms": 2917419,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 156,
+      "ms": 3171333,
+      "dish": "Pies"
     }
   ]
 }

@@ -1092,6 +1092,32 @@
     ]
   },
   {
+    "id": "115445b6-e675-4bc2-ac19-9473c478e361",
+    "persona": "teri",
+    "names": [
+      "teri"
+    ],
+    "runs": 1,
+    "bestRank": 160,
+    "worstRank": 160,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3192058,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 160,
+        "ms": 3192058,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "11557ba5-99cd-4ca7-b74a-b6b1788d3132",
     "persona": "wahoojunior",
     "names": [
@@ -1852,8 +1878,8 @@
       "ChuSenpai"
     ],
     "runs": 1,
-    "bestRank": 283,
-    "worstRank": 283,
+    "bestRank": 312,
+    "worstRank": 312,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1865,7 +1891,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 283,
+        "rank": 312,
         "ms": 4344943,
         "dish": "Pies"
       }
