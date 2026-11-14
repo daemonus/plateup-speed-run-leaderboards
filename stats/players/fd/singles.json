@@ -370,8 +370,8 @@
       "biancaqtie"
     ],
     "runs": 1,
-    "bestRank": 167,
-    "worstRank": 167,
+    "bestRank": 177,
+    "worstRank": 177,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 167,
+        "rank": 177,
         "ms": 3246124,
         "dish": "Pies"
       }
@@ -1150,8 +1150,8 @@
       "LemonZest"
     ],
     "runs": 1,
-    "bestRank": 168,
-    "worstRank": 168,
+    "bestRank": 178,
+    "worstRank": 178,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1163,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 168,
+        "rank": 178,
         "ms": 3249951,
         "dish": "Pies"
       }
@@ -2414,32 +2414,6 @@
         "rank": 565,
         "ms": 4473663,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "fdbbd88b-90f9-449c-b44b-f3c532ed7d4c",
-    "persona": "Nh\u00E2n",
-    "names": [
-      "Nh\u00E2n"
-    ],
-    "runs": 1,
-    "bestRank": 480,
-    "worstRank": 480,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3953267,
-    "weeksActive": [
-      58
-    ],
-    "history": [
-      {
-        "week": 58,
-        "start": "2026-02-16",
-        "rank": 480,
-        "ms": 3953267,
-        "dish": "Turkey"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "names": [
     "Himawari_"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 216,
   "worstRank": 535,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     91,
     93,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 330,
       "ms": 4220173,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 426,
+      "ms": 5070876,
+      "dish": "Pies"
     }
   ]
 }

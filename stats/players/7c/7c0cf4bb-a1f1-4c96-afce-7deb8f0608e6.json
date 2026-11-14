@@ -4,7 +4,7 @@
   "names": [
     "julie.steranka"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 230,
   "worstRank": 2233,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     9,
     36,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 230,
       "ms": 3909181,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 233,
+      "ms": 3605542,
+      "dish": "Pies"
     }
   ]
 }

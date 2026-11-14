@@ -4,7 +4,7 @@
   "names": [
     "deyyn"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 263,
   "worstRank": 419,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     86,
     92,
     93,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 419,
       "ms": 5236770,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 306,
+      "ms": 4111544,
+      "dish": "Pies"
     }
   ]
 }

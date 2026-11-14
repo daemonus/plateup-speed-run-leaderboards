@@ -4,8 +4,8 @@
   "names": [
     "LouWho"
   ],
-  "runs": 2,
-  "bestRank": 253,
+  "runs": 3,
+  "bestRank": 201,
   "worstRank": 284,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3214717,
   "weeksActive": [
     92,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 284,
       "ms": 3962586,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 201,
+      "ms": 3414580,
+      "dish": "Pies"
     }
   ]
 }

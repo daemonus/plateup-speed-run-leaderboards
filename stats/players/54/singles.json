@@ -344,8 +344,8 @@
       "CMPDaKid"
     ],
     "runs": 1,
-    "bestRank": 405,
-    "worstRank": 405,
+    "bestRank": 439,
+    "worstRank": 439,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -357,7 +357,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 405,
+        "rank": 439,
         "ms": 5236580,
         "dish": "Pies"
       }
@@ -936,6 +936,32 @@
     ]
   },
   {
+    "id": "543839a5-dafb-4c9d-938a-c48cd4537ae4",
+    "persona": "Disnejar",
+    "names": [
+      "Disnejar"
+    ],
+    "runs": 1,
+    "bestRank": 312,
+    "worstRank": 312,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4188974,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 312,
+        "ms": 4188974,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "5438a0e9-2416-44e6-a9b0-ce3bed2eae4f",
     "persona": "\uD638\uBC00\uBE75",
     "names": [
@@ -1254,8 +1280,8 @@
       "Rika"
     ],
     "runs": 1,
-    "bestRank": 347,
-    "worstRank": 347,
+    "bestRank": 374,
+    "worstRank": 374,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1293,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 347,
+        "rank": 374,
         "ms": 4633601,
         "dish": "Pies"
       }
@@ -2528,8 +2554,8 @@
       "Gblnv"
     ],
     "runs": 1,
-    "bestRank": 265,
-    "worstRank": 265,
+    "bestRank": 284,
+    "worstRank": 284,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 265,
+        "rank": 284,
         "ms": 3961433,
         "dish": "Pies"
       }

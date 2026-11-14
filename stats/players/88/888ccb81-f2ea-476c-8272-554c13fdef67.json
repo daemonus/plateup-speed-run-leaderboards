@@ -4,7 +4,7 @@
   "names": [
     "Kava"
   ],
-  "runs": 103,
+  "runs": 104,
   "bestRank": 16,
   "worstRank": 1319,
   "firstPlaces": 0,
@@ -114,7 +114,8 @@
     86,
     87,
     91,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -837,6 +838,13 @@
       "rank": 113,
       "ms": 2561389,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 40,
+      "ms": 2214270,
+      "dish": "Pies"
     }
   ]
 }

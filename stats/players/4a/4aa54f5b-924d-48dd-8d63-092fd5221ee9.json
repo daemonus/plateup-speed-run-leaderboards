@@ -4,7 +4,7 @@
   "names": [
     "eda"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 98,
   "worstRank": 503,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     63,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 135,
       "ms": 3186756,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 150,
+      "ms": 3055274,
+      "dish": "Pies"
     }
   ]
 }

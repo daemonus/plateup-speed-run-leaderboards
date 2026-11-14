@@ -4,8 +4,8 @@
   "names": [
     "Prod Uktiv"
   ],
-  "runs": 2,
-  "bestRank": 124,
+  "runs": 3,
+  "bestRank": 98,
   "worstRank": 141,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2692498,
   "weeksActive": [
     72,
-    82
+    82,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 141,
       "ms": 2692498,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 98,
+      "ms": 2703959,
+      "dish": "Pies"
     }
   ]
 }

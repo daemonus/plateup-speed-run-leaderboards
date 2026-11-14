@@ -2938,6 +2938,32 @@
     ]
   },
   {
+    "id": "a6dab234-81e3-48ce-a0ac-b4f214badc67",
+    "persona": "Bloom as I",
+    "names": [
+      "Bloom as I"
+    ],
+    "runs": 1,
+    "bestRank": 290,
+    "worstRank": 290,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3996528,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 290,
+        "ms": 3996528,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "a6db3436-413c-4b6b-98a0-03c76d88180d",
     "persona": "yukicat",
     "names": [
@@ -3100,8 +3126,8 @@
       "le_veilleur_"
     ],
     "runs": 1,
-    "bestRank": 357,
-    "worstRank": 357,
+    "bestRank": 386,
+    "worstRank": 386,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3113,7 +3139,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 357,
+        "rank": 386,
         "ms": 4706473,
         "dish": "Pies"
       }

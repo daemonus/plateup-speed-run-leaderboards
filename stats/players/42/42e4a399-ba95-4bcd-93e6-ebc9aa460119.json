@@ -4,7 +4,7 @@
   "names": [
     "ramee"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 226,
   "worstRank": 555,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     83,
     85,
     86,
-    89
+    89,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 226,
       "ms": 3514751,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 245,
+      "ms": 3669685,
+      "dish": "Pies"
     }
   ]
 }
