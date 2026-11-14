@@ -4,7 +4,7 @@
   "names": [
     "SoavDannom"
   ],
-  "runs": 67,
+  "runs": 68,
   "bestRank": 18,
   "worstRank": 1232,
   "firstPlaces": 0,
@@ -78,7 +78,8 @@
     89,
     91,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -549,6 +550,13 @@
       "rank": 130,
       "ms": 3134844,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 209,
+      "ms": 3353353,
+      "dish": "Pies"
     }
   ]
 }

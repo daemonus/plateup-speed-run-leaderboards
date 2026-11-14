@@ -4,7 +4,7 @@
   "names": [
     "LucasScooter"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 323,
   "worstRank": 630,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     52,
     56,
     71,
-    72
+    72,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 354,
       "ms": 4745597,
       "dish": "Breakfast"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 415,
+      "ms": 4678918,
+      "dish": "Pies"
     }
   ]
 }

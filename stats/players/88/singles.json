@@ -624,40 +624,14 @@
     ]
   },
   {
-    "id": "882491a1-ded7-4eac-ac73-3a95846f82bd",
-    "persona": "Nat",
-    "names": [
-      "Nat"
-    ],
-    "runs": 1,
-    "bestRank": 430,
-    "worstRank": 430,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 5568274,
-    "weeksActive": [
-      94
-    ],
-    "history": [
-      {
-        "week": 94,
-        "start": "2026-10-26",
-        "rank": 430,
-        "ms": 5568274,
-        "dish": "Fajitas"
-      }
-    ]
-  },
-  {
     "id": "8826e358-309e-432b-8506-b72ad663f6de",
     "persona": "KaGrBon",
     "names": [
       "KaGrBon"
     ],
     "runs": 1,
-    "bestRank": 294,
-    "worstRank": 294,
+    "bestRank": 323,
+    "worstRank": 323,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -669,7 +643,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 294,
+        "rank": 323,
         "ms": 4010394,
         "dish": "Pies"
       }
@@ -2362,6 +2336,32 @@
         "rank": 457,
         "ms": 4773513,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "88b881b0-2912-4b3a-a6d2-90b2616f0e18",
+    "persona": "RaquelLiria",
+    "names": [
+      "RaquelLiria"
+    ],
+    "runs": 1,
+    "bestRank": 233,
+    "worstRank": 233,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3483968,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 233,
+        "ms": 3483968,
+        "dish": "Pies"
       }
     ]
   },

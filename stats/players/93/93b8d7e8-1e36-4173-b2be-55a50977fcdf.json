@@ -4,9 +4,9 @@
   "names": [
     "AsherahBock"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 178,
-  "worstRank": 453,
+  "worstRank": 525,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
@@ -18,7 +18,8 @@
     80,
     81,
     90,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 337,
       "ms": 3532284,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 525,
+      "ms": 29849109,
+      "dish": "Pies"
     }
   ]
 }

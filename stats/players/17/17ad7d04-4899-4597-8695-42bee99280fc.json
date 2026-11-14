@@ -4,7 +4,7 @@
   "names": [
     "HiTomY77"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 86,
   "worstRank": 294,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     24,
     26,
     68,
-    69
+    69,
+    96
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 124,
       "ms": 3173270,
       "dish": "Burgers"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 201,
+      "ms": 3284441,
+      "dish": "Pies"
     }
   ]
 }

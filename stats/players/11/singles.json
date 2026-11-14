@@ -1098,8 +1098,8 @@
       "teri"
     ],
     "runs": 1,
-    "bestRank": 169,
-    "worstRank": 169,
+    "bestRank": 182,
+    "worstRank": 182,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1111,7 +1111,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 169,
+        "rank": 182,
         "ms": 3192058,
         "dish": "Pies"
       }
@@ -1244,6 +1244,32 @@
         "rank": 174,
         "ms": 4436158,
         "dish": "Stir Fry"
+      }
+    ]
+  },
+  {
+    "id": "11657999-b2e7-419f-b721-e094da71222d",
+    "persona": "\u0427\u0435\u0440\u043D\u044B\u0439 \u0410\u043B\u044C\u0444\u0430",
+    "names": [
+      "\u0427\u0435\u0440\u043D\u044B\u0439 \u0410\u043B\u044C\u0444\u0430"
+    ],
+    "runs": 1,
+    "bestRank": 265,
+    "worstRank": 265,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3640871,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 265,
+        "ms": 3640871,
+        "dish": "Pies"
       }
     ]
   },
@@ -1878,8 +1904,8 @@
       "ChuSenpai"
     ],
     "runs": 1,
-    "bestRank": 338,
-    "worstRank": 338,
+    "bestRank": 369,
+    "worstRank": 369,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1891,7 +1917,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 338,
+        "rank": 369,
         "ms": 4344943,
         "dish": "Pies"
       }

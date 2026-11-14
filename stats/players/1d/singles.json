@@ -1826,8 +1826,8 @@
       "jiji"
     ],
     "runs": 1,
-    "bestRank": 434,
-    "worstRank": 434,
+    "bestRank": 472,
+    "worstRank": 472,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1839,7 +1839,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 434,
+        "rank": 472,
         "ms": 5162562,
         "dish": "Pies"
       }
@@ -2388,6 +2388,32 @@
         "rank": 274,
         "ms": 2903609,
         "dish": "Turkey"
+      }
+    ]
+  },
+  {
+    "id": "1daee1c4-fa33-42b1-b04b-9af320597389",
+    "persona": "Hung",
+    "names": [
+      "Hung"
+    ],
+    "runs": 1,
+    "bestRank": 310,
+    "worstRank": 310,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3947714,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 310,
+        "ms": 3947714,
+        "dish": "Pies"
       }
     ]
   },

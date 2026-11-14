@@ -1144,6 +1144,32 @@
     ]
   },
   {
+    "id": "cb56712c-fb20-4a7c-a13a-e89219b2d974",
+    "persona": "\u5973\u660E\u661F",
+    "names": [
+      "\u5973\u660E\u661F"
+    ],
+    "runs": 1,
+    "bestRank": 476,
+    "worstRank": 476,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5220778,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 476,
+        "ms": 5220778,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "cb5911f4-f6bb-4d2a-bd71-a5024da98e8b",
     "persona": "Kennwae",
     "names": [
@@ -1930,8 +1956,8 @@
       "iron deficient"
     ],
     "runs": 1,
-    "bestRank": 280,
-    "worstRank": 280,
+    "bestRank": 308,
+    "worstRank": 308,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1943,7 +1969,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 280,
+        "rank": 308,
         "ms": 3911053,
         "dish": "Pies"
       }

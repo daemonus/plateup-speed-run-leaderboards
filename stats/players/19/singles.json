@@ -702,6 +702,32 @@
     ]
   },
   {
+    "id": "192f609e-e808-4368-9130-b4024bbce034",
+    "persona": "Bin Kun",
+    "names": [
+      "Bin Kun"
+    ],
+    "runs": 1,
+    "bestRank": 447,
+    "worstRank": 447,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4941150,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 447,
+        "ms": 4941150,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "19316ccf-e026-4469-824d-ebed16eeb871",
     "persona": "Himurato",
     "names": [
@@ -3178,8 +3204,8 @@
       "\u4E91\u67D2\u67D2\u67D2\u67D2\u67D2\u5B50"
     ],
     "runs": 1,
-    "bestRank": 402,
-    "worstRank": 402,
+    "bestRank": 435,
+    "worstRank": 435,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3191,7 +3217,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 402,
+        "rank": 435,
         "ms": 4846318,
         "dish": "Pies"
       }

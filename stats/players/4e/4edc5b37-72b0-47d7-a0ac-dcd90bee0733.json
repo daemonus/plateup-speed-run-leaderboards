@@ -4,7 +4,7 @@
   "names": [
     "NOT A GOOSE"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 72,
   "worstRank": 127,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 127,
       "ms": 3120056,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 77,
+      "ms": 2466045,
+      "dish": "Pies"
     }
   ]
 }

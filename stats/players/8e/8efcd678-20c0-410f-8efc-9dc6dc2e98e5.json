@@ -4,16 +4,17 @@
   "names": [
     "seachelle"
   ],
-  "runs": 2,
-  "bestRank": 261,
+  "runs": 3,
+  "bestRank": 204,
   "worstRank": 290,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3327212,
+  "bestMs": 3301510,
   "weeksActive": [
     31,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 261,
       "ms": 4125166,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 204,
+      "ms": 3301510,
+      "dish": "Pies"
     }
   ]
 }

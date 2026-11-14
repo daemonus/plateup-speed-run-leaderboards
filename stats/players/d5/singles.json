@@ -1040,6 +1040,32 @@
     ]
   },
   {
+    "id": "d5638d5a-ee74-4ba0-9885-2671d450d5df",
+    "persona": "Coisa",
+    "names": [
+      "Coisa"
+    ],
+    "runs": 1,
+    "bestRank": 75,
+    "worstRank": 75,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2445532,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 75,
+        "ms": 2445532,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "d5638f57-64b3-4628-b639-e958a2aa1c8c",
     "persona": "Tung Tung Saheer",
     "names": [
@@ -1150,8 +1176,8 @@
       "Best Girl"
     ],
     "runs": 1,
-    "bestRank": 136,
-    "worstRank": 136,
+    "bestRank": 148,
+    "worstRank": 148,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1163,7 +1189,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 136,
+        "rank": 148,
         "ms": 2963214,
         "dish": "Pies"
       }

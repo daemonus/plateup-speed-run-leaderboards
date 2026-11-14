@@ -702,6 +702,32 @@
     ]
   },
   {
+    "id": "382d4a5e-9a54-4011-bacd-b8f3cfc630a1",
+    "persona": "dANY",
+    "names": [
+      "dANY"
+    ],
+    "runs": 1,
+    "bestRank": 285,
+    "worstRank": 285,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3739407,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 285,
+        "ms": 3739407,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "382d717c-58fe-4305-b288-d9611e7fb863",
     "persona": "Jules",
     "names": [
@@ -1332,8 +1358,8 @@
       "shrimpostor"
     ],
     "runs": 1,
-    "bestRank": 470,
-    "worstRank": 470,
+    "bestRank": 511,
+    "worstRank": 511,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1345,7 +1371,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 470,
+        "rank": 511,
         "ms": 6227998,
         "dish": "Pies"
       }

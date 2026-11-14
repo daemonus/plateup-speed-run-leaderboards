@@ -182,6 +182,32 @@
     ]
   },
   {
+    "id": "2211315c-3a56-4602-ad59-c060ceab5799",
+    "persona": "\u53EA\u662F\u4E00\u53EA\u5C0F\u732B\u54AA",
+    "names": [
+      "\u53EA\u662F\u4E00\u53EA\u5C0F\u732B\u54AA"
+    ],
+    "runs": 1,
+    "bestRank": 489,
+    "worstRank": 489,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5448562,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 489,
+        "ms": 5448562,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "2213e8b4-7fce-482f-9a4f-8d664d84d968",
     "persona": "Shourtzo",
     "names": [
@@ -1254,8 +1280,8 @@
       "ariniisma03"
     ],
     "runs": 1,
-    "bestRank": 202,
-    "worstRank": 202,
+    "bestRank": 222,
+    "worstRank": 222,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1267,7 +1293,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 202,
+        "rank": 222,
         "ms": 3419724,
         "dish": "Pies"
       }

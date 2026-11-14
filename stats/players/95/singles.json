@@ -890,8 +890,8 @@
       "UselessLesbian"
     ],
     "runs": 1,
-    "bestRank": 229,
-    "worstRank": 229,
+    "bestRank": 253,
+    "worstRank": 253,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -903,7 +903,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 229,
+        "rank": 253,
         "ms": 3584974,
         "dish": "Pies"
       }
@@ -1452,6 +1452,32 @@
         "rank": 520,
         "ms": 2347395,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "957545e8-9d27-4fd6-b230-cc1994ac1257",
+    "persona": "OneTrueSalmon",
+    "names": [
+      "OneTrueSalmon"
+    ],
+    "runs": 1,
+    "bestRank": 462,
+    "worstRank": 462,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5044663,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 462,
+        "ms": 5044663,
+        "dish": "Pies"
       }
     ]
   },

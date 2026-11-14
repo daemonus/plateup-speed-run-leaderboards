@@ -4,7 +4,7 @@
   "names": [
     "Kittea"
   ],
-  "runs": 85,
+  "runs": 86,
   "bestRank": 49,
   "worstRank": 366,
   "firstPlaces": 0,
@@ -96,7 +96,8 @@
     90,
     91,
     92,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 71,
       "ms": 2517047,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 97,
+      "ms": 2602860,
+      "dish": "Pies"
     }
   ]
 }

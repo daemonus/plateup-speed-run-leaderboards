@@ -182,32 +182,6 @@
     ]
   },
   {
-    "id": "6e125937-5fd9-4a6a-88ce-f8857ea41bcb",
-    "persona": "Hopziv",
-    "names": [
-      "Hopziv"
-    ],
-    "runs": 1,
-    "bestRank": 161,
-    "worstRank": 161,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2859827,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 161,
-        "ms": 2859827,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "6e12bc07-edde-4e74-a350-731457c78ac7",
     "persona": "Teracin",
     "names": [
@@ -2336,6 +2310,32 @@
         "rank": 377,
         "ms": 3847530,
         "dish": "Pizza"
+      }
+    ]
+  },
+  {
+    "id": "6eccb9e5-9128-44e6-9348-eb21a2ef8d7f",
+    "persona": "kkaadd",
+    "names": [
+      "kkaadd"
+    ],
+    "runs": 1,
+    "bestRank": 62,
+    "worstRank": 62,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2379982,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 62,
+        "ms": 2379982,
+        "dish": "Pies"
       }
     ]
   },

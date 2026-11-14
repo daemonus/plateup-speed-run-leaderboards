@@ -4,7 +4,7 @@
   "names": [
     "cathy"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 109,
   "worstRank": 248,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     87,
     88,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 240,
       "ms": 3951681,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 162,
+      "ms": 3045982,
+      "dish": "Pies"
     }
   ]
 }

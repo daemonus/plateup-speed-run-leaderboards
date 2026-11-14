@@ -4,7 +4,7 @@
   "names": [
     "Kalle"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 51,
   "worstRank": 160,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     89,
     90,
     91,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 136,
       "ms": 3020300,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 68,
+      "ms": 2410309,
+      "dish": "Pies"
     }
   ]
 }

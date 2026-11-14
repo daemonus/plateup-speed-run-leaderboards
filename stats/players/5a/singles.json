@@ -84,8 +84,8 @@
       "United States \u0022B\u0022 cable"
     ],
     "runs": 1,
-    "bestRank": 409,
-    "worstRank": 409,
+    "bestRank": 443,
+    "worstRank": 443,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -97,7 +97,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 409,
+        "rank": 443,
         "ms": 4907939,
         "dish": "Pies"
       }
@@ -1920,32 +1920,6 @@
         "rank": 89,
         "ms": 2730743,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "5a9fe010-e3bf-452b-9ea7-9ef7c85a60e0",
-    "persona": "Bananaman1_1",
-    "names": [
-      "Bananaman1_1"
-    ],
-    "runs": 1,
-    "bestRank": 190,
-    "worstRank": 190,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 2894377,
-    "weeksActive": [
-      -34
-    ],
-    "history": [
-      {
-        "week": -34,
-        "start": "2024-05-13",
-        "rank": 190,
-        "ms": 2894377,
-        "dish": "Pies"
       }
     ]
   },
