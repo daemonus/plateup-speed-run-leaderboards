@@ -4,7 +4,7 @@
   "names": [
     "kaitodogawa_thief"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 323,
   "worstRank": 526,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     23,
     24,
     58,
-    86
+    86,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 323,
       "ms": 2911257,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 470,
+      "ms": 4521841,
+      "dish": "Pies"
     }
   ]
 }

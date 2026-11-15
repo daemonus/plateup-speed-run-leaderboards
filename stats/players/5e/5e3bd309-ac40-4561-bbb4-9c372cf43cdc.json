@@ -4,7 +4,7 @@
   "names": [
     "Kirsebaer"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 87,
   "worstRank": 277,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     12,
     14,
     16,
-    18
+    18,
+    96
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 87,
       "ms": 2913656,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 262,
+      "ms": 3467572,
+      "dish": "Pies"
     }
   ]
 }

@@ -422,8 +422,8 @@
       "Ronin"
     ],
     "runs": 1,
-    "bestRank": 101,
-    "worstRank": 101,
+    "bestRank": 104,
+    "worstRank": 104,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -435,7 +435,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 101,
+        "rank": 104,
         "ms": 2588413,
         "dish": "Pies"
       }
@@ -463,6 +463,32 @@
         "start": "2023-07-17",
         "rank": 443,
         "ms": 3453318,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
+    "id": "1022a102-3337-4ca4-99e6-9d080dcebc11",
+    "persona": "Dee",
+    "names": [
+      "Dee"
+    ],
+    "runs": 1,
+    "bestRank": 486,
+    "worstRank": 486,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4648917,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 486,
+        "ms": 4648917,
         "dish": "Pies"
       }
     ]
@@ -2710,8 +2736,8 @@
       "jas"
     ],
     "runs": 1,
-    "bestRank": 392,
-    "worstRank": 392,
+    "bestRank": 425,
+    "worstRank": 425,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2723,7 +2749,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 392,
+        "rank": 425,
         "ms": 4297305,
         "dish": "Pies"
       }
@@ -3272,32 +3298,6 @@
         "rank": 314,
         "ms": 4207057,
         "dish": "Salad"
-      }
-    ]
-  },
-  {
-    "id": "10df382a-5e2d-4aeb-bc14-d0d1814af51f",
-    "persona": "HEDY",
-    "names": [
-      "HEDY"
-    ],
-    "runs": 1,
-    "bestRank": 453,
-    "worstRank": 453,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6925227,
-    "weeksActive": [
-      95
-    ],
-    "history": [
-      {
-        "week": 95,
-        "start": "2026-11-02",
-        "rank": 453,
-        "ms": 6925227,
-        "dish": "Hot Dogs"
       }
     ]
   },

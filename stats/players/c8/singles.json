@@ -3432,6 +3432,32 @@
     ]
   },
   {
+    "id": "c8f0ffe4-e8ad-48de-a856-c3f65f1c5edf",
+    "persona": "Allice",
+    "names": [
+      "Allice"
+    ],
+    "runs": 1,
+    "bestRank": 167,
+    "worstRank": 167,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2985781,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 167,
+        "ms": 2985781,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "c8f2c804-d6c4-43e8-8c3d-3c0cbea0082b",
     "persona": "SJHM",
     "names": [
@@ -3568,8 +3594,8 @@
       "taboka"
     ],
     "runs": 1,
-    "bestRank": 471,
-    "worstRank": 471,
+    "bestRank": 512,
+    "worstRank": 512,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3581,7 +3607,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 471,
+        "rank": 512,
         "ms": 4809543,
         "dish": "Pies"
       }

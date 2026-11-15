@@ -4,7 +4,7 @@
   "names": [
     "Mstryoda"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 145,
   "worstRank": 852,
   "firstPlaces": 0,
@@ -36,7 +36,8 @@
     67,
     68,
     69,
-    70
+    70,
+    96
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 188,
       "ms": 3488902,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 536,
+      "ms": 4959228,
+      "dish": "Pies"
     }
   ]
 }

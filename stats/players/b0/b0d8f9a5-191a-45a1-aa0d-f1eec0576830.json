@@ -4,7 +4,7 @@
   "names": [
     "rice"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 256,
   "worstRank": 629,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     85,
     86,
     92,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 256,
       "ms": 4021187,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 344,
+      "ms": 3840207,
+      "dish": "Pies"
     }
   ]
 }

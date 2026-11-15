@@ -370,8 +370,8 @@
       "banana"
     ],
     "runs": 1,
-    "bestRank": 234,
-    "worstRank": 234,
+    "bestRank": 246,
+    "worstRank": 246,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -383,7 +383,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 234,
+        "rank": 246,
         "ms": 3392412,
         "dish": "Pies"
       }
@@ -3349,32 +3349,6 @@
         "start": "2023-11-06",
         "rank": 334,
         "ms": 3616918,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
-    "id": "40eec45d-a50d-4de6-82d6-30b81ccffb00",
-    "persona": "Miss Wednesday",
-    "names": [
-      "Miss Wednesday"
-    ],
-    "runs": 1,
-    "bestRank": 399,
-    "worstRank": 399,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3733016,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 399,
-        "ms": 3733016,
         "dish": "Fish"
       }
     ]

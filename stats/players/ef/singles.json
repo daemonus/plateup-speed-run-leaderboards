@@ -624,6 +624,32 @@
     ]
   },
   {
+    "id": "ef2b638c-88e7-476e-b806-dff563481b86",
+    "persona": "\u4E0B\u6B21\u4E00\u5B9A.",
+    "names": [
+      "\u4E0B\u6B21\u4E00\u5B9A."
+    ],
+    "runs": 1,
+    "bestRank": 336,
+    "worstRank": 336,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3790142,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 336,
+        "ms": 3790142,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "ef2ce626-dfc8-4ddf-a02d-7742fd9e2528",
     "persona": "GiveMeCookies",
     "names": [
@@ -2528,8 +2554,8 @@
       "\u987E\u8F9E"
     ],
     "runs": 1,
-    "bestRank": 300,
-    "worstRank": 300,
+    "bestRank": 322,
+    "worstRank": 322,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2541,7 +2567,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 300,
+        "rank": 322,
         "ms": 3708591,
         "dish": "Pies"
       }

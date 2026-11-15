@@ -2054,6 +2054,32 @@
     ]
   },
   {
+    "id": "d27c0679-a21c-4841-827b-3e8a3ea0f8f6",
+    "persona": "michael",
+    "names": [
+      "michael"
+    ],
+    "runs": 1,
+    "bestRank": 607,
+    "worstRank": 607,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6619660,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 607,
+        "ms": 6619660,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "d28281b2-3b3f-4469-a568-f1293d354e7f",
     "persona": "Seagull",
     "names": [
@@ -3464,8 +3490,8 @@
       "Dodger"
     ],
     "runs": 1,
-    "bestRank": 514,
-    "worstRank": 514,
+    "bestRank": 558,
+    "worstRank": 558,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3477,7 +3503,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 514,
+        "rank": 558,
         "ms": 5123026,
         "dish": "Pies"
       }

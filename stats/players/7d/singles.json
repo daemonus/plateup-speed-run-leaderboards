@@ -1592,8 +1592,8 @@
       "Wizard"
     ],
     "runs": 1,
-    "bestRank": 424,
-    "worstRank": 424,
+    "bestRank": 459,
+    "worstRank": 459,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1605,7 +1605,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 424,
+        "rank": 459,
         "ms": 4479662,
         "dish": "Pies"
       }
@@ -3298,6 +3298,32 @@
         "rank": 173,
         "ms": 2770896,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "7df8b57b-220a-4b4b-9aef-b17602933f7f",
+    "persona": "\u30D8\u30C3\u30C9\u30FB\u30B7\u30E7\u30C3\u30C8",
+    "names": [
+      "\u30D8\u30C3\u30C9\u30FB\u30B7\u30E7\u30C3\u30C8"
+    ],
+    "runs": 1,
+    "bestRank": 275,
+    "worstRank": 275,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3525205,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 275,
+        "ms": 3525205,
+        "dish": "Pies"
       }
     ]
   },

@@ -162,8 +162,8 @@
       "damian2198"
     ],
     "runs": 1,
-    "bestRank": 259,
-    "worstRank": 259,
+    "bestRank": 274,
+    "worstRank": 274,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -175,7 +175,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 259,
+        "rank": 274,
         "ms": 3519415,
         "dish": "Pies"
       }
@@ -1634,6 +1634,32 @@
         "rank": 224,
         "ms": 3182198,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "a08bdf2b-7db8-4959-a52b-24631b6c51ef",
+    "persona": "Cuaraa",
+    "names": [
+      "Cuaraa"
+    ],
+    "runs": 1,
+    "bestRank": 331,
+    "worstRank": 331,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3745040,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 331,
+        "ms": 3745040,
+        "dish": "Pies"
       }
     ]
   },

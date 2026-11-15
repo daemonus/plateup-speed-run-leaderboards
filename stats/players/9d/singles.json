@@ -1872,6 +1872,32 @@
     ]
   },
   {
+    "id": "9da094eb-3fb6-4a71-a836-0410eebbec0d",
+    "persona": "\u8FD8\u5F97\u770B\u6211\u51A0\u519B\u4FAF",
+    "names": [
+      "\u8FD8\u5F97\u770B\u6211\u51A0\u519B\u4FAF"
+    ],
+    "runs": 1,
+    "bestRank": 535,
+    "worstRank": 535,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4952948,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 535,
+        "ms": 4952948,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "9da0bf10-e8e8-4822-8345-cb9b4b39db1d",
     "persona": "danicimo",
     "names": [
@@ -2632,8 +2658,8 @@
       "\u65B9\u6708"
     ],
     "runs": 1,
-    "bestRank": 354,
-    "worstRank": 354,
+    "bestRank": 382,
+    "worstRank": 382,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2645,7 +2671,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 354,
+        "rank": 382,
         "ms": 4028464,
         "dish": "Pies"
       }

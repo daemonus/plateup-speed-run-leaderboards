@@ -2184,6 +2184,32 @@
     ]
   },
   {
+    "id": "7ab0ede3-49ac-4706-8c12-866be3ba5643",
+    "persona": "twist",
+    "names": [
+      "twist"
+    ],
+    "runs": 1,
+    "bestRank": 480,
+    "worstRank": 480,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4624971,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 480,
+        "ms": 4624971,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "7ab32356-f22f-42e7-b3e7-9819975743ab",
     "persona": "Alys",
     "names": [
@@ -2632,8 +2658,8 @@
       "593471912"
     ],
     "runs": 1,
-    "bestRank": 377,
-    "worstRank": 377,
+    "bestRank": 409,
+    "worstRank": 409,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2645,7 +2671,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 377,
+        "rank": 409,
         "ms": 4213648,
         "dish": "Pies"
       }

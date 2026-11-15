@@ -4,7 +4,7 @@
   "names": [
     "Quely Brand\u00E3o"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 298,
   "worstRank": 727,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     52,
     63,
     64,
-    94
+    94,
+    96
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 448,
       "ms": 6082578,
       "dish": "Fajitas"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 394,
+      "ms": 4104574,
+      "dish": "Pies"
     }
   ]
 }

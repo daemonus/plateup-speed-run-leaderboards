@@ -4,16 +4,17 @@
   "names": [
     "sally940301"
   ],
-  "runs": 2,
-  "bestRank": 339,
+  "runs": 3,
+  "bestRank": 309,
   "worstRank": 694,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4443930,
+  "bestMs": 3651837,
   "weeksActive": [
     92,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 339,
       "ms": 4720708,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 309,
+      "ms": 3651837,
+      "dish": "Pies"
     }
   ]
 }

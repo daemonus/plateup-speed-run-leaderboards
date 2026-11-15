@@ -1092,6 +1092,32 @@
     ]
   },
   {
+    "id": "c0462ffe-2c4f-4136-8069-c30cff46d997",
+    "persona": "WI\u2020CH",
+    "names": [
+      "WI\u2020CH"
+    ],
+    "runs": 1,
+    "bestRank": 200,
+    "worstRank": 200,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3164285,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 200,
+        "ms": 3164285,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "c04652c9-f0c1-4173-812a-af3c9aa1ea15",
     "persona": "thinlama",
     "names": [
@@ -1488,8 +1514,8 @@
       "Gasmask"
     ],
     "runs": 1,
-    "bestRank": 528,
-    "worstRank": 528,
+    "bestRank": 572,
+    "worstRank": 572,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1501,7 +1527,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 528,
+        "rank": 572,
         "ms": 5366734,
         "dish": "Pies"
       }

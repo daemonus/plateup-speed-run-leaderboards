@@ -4,7 +4,7 @@
   "names": [
     "cawalters2"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 320,
   "worstRank": 829,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     68,
     83,
     86,
-    88
+    88,
+    96
   ],
   "history": [
     {
@@ -68,6 +69,13 @@
       "start": "2026-09-14",
       "rank": 320,
       "ms": 4481810,
+      "dish": "Pies"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 621,
+      "ms": 16462068,
       "dish": "Pies"
     }
   ]

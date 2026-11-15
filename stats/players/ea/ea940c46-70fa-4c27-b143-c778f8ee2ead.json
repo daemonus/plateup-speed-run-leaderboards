@@ -4,7 +4,7 @@
   "names": [
     "."
   ],
-  "runs": 42,
+  "runs": 43,
   "bestRank": 11,
   "worstRank": 402,
   "firstPlaces": 0,
@@ -53,7 +53,8 @@
     84,
     89,
     90,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -349,6 +350,13 @@
       "rank": 85,
       "ms": 2889055,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 107,
+      "ms": 2596992,
+      "dish": "Pies"
     }
   ]
 }

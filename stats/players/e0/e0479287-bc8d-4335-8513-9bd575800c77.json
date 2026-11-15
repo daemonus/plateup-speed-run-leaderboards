@@ -4,7 +4,7 @@
   "names": [
     "Aminity"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 96,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     71,
     80,
     82,
-    83
+    83,
+    96
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 96,
       "ms": 1593617,
       "dish": "Sundaes"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 241,
+      "ms": 3372194,
+      "dish": "Pies"
     }
   ]
 }
