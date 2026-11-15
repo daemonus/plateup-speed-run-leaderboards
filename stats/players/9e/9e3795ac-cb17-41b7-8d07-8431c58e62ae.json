@@ -4,7 +4,7 @@
   "names": [
     "goopster69"
   ],
-  "runs": 7,
+  "runs": 8,
   "bestRank": 204,
   "worstRank": 509,
   "firstPlaces": 0,
@@ -18,7 +18,8 @@
     63,
     64,
     67,
-    71
+    71,
+    96
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 379,
       "ms": 4376634,
       "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 438,
+      "ms": 4562120,
+      "dish": "Pies"
     }
   ]
 }

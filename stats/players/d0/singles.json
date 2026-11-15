@@ -1248,6 +1248,32 @@
     ]
   },
   {
+    "id": "d05cafe2-9648-4d31-b770-3f9e8c7853b4",
+    "persona": "Crazydvd",
+    "names": [
+      "Crazydvd"
+    ],
+    "runs": 1,
+    "bestRank": 497,
+    "worstRank": 497,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 5016078,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 497,
+        "ms": 5016078,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "d05dd6d7-ae3b-480d-af87-99173f40064e",
     "persona": "\u6696\u6696",
     "names": [
@@ -2398,8 +2424,8 @@
       "\u94C1\u677F\u9C7F\u9C7C"
     ],
     "runs": 1,
-    "bestRank": 512,
-    "worstRank": 512,
+    "bestRank": 558,
+    "worstRank": 558,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2411,7 +2437,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 512,
+        "rank": 558,
         "ms": 6432457,
         "dish": "Pies"
       }

@@ -760,8 +760,8 @@
       "abigail.shields011"
     ],
     "runs": 1,
-    "bestRank": 416,
-    "worstRank": 416,
+    "bestRank": 455,
+    "worstRank": 455,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -773,7 +773,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 416,
+        "rank": 455,
         "ms": 4688309,
         "dish": "Pies"
       }
@@ -1014,6 +1014,32 @@
     ]
   },
   {
+    "id": "1568edf8-c591-4d42-93f3-89985459afff",
+    "persona": "kr1s",
+    "names": [
+      "kr1s"
+    ],
+    "runs": 1,
+    "bestRank": 475,
+    "worstRank": 475,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4836478,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 475,
+        "ms": 4836478,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "156c1b64-d2eb-49d4-a86b-769123c0019e",
     "persona": "\u591C\u732B\u9171",
     "names": [
@@ -1046,8 +1072,8 @@
       "Michael2848"
     ],
     "runs": 1,
-    "bestRank": 228,
-    "worstRank": 228,
+    "bestRank": 247,
+    "worstRank": 247,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1059,7 +1085,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 228,
+        "rank": 247,
         "ms": 3465587,
         "dish": "Pies"
       }

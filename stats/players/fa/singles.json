@@ -702,6 +702,32 @@
     ]
   },
   {
+    "id": "fa380956-5ac3-4545-894c-98b134a81940",
+    "persona": "\u677F\u51F3\u9577\u677F\u51F3\u5BEC\u8001\u4E8C\u653E\u5728",
+    "names": [
+      "\u677F\u51F3\u9577\u677F\u51F3\u5BEC\u8001\u4E8C\u653E\u5728"
+    ],
+    "runs": 1,
+    "bestRank": 492,
+    "worstRank": 492,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4950464,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 492,
+        "ms": 4950464,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "fa39def8-36c2-4aa6-a1bc-487f73bac7d6",
     "persona": "aleixBY23",
     "names": [
@@ -1270,6 +1296,32 @@
         "rank": 499,
         "ms": 3039026,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "fa6423cc-5688-4309-8663-6bf7f1579706",
+    "persona": "Lee Min Hao",
+    "names": [
+      "Lee Min Hao"
+    ],
+    "runs": 1,
+    "bestRank": 152,
+    "worstRank": 152,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2923204,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 152,
+        "ms": 2923204,
+        "dish": "Pies"
       }
     ]
   },

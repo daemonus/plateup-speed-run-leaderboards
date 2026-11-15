@@ -4,7 +4,7 @@
   "names": [
     "alyaizzati01.ai35"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 277,
   "worstRank": 793,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     84,
     89,
     90,
-    92
+    92,
+    96
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 793,
       "ms": 4684799,
       "dish": "Fish"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 336,
+      "ms": 3946581,
+      "dish": "Pies"
     }
   ]
 }

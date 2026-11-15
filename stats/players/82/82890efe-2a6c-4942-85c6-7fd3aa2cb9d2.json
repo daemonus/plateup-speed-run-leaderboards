@@ -1,0 +1,34 @@
+{
+  "id": "82890efe-2a6c-4942-85c6-7fd3aa2cb9d2",
+  "persona": "HandBanana",
+  "names": [
+    "HandBanana"
+  ],
+  "runs": 2,
+  "bestRank": 278,
+  "worstRank": 636,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3605022,
+  "weeksActive": [
+    63,
+    96
+  ],
+  "history": [
+    {
+      "week": 63,
+      "start": "2026-03-23",
+      "rank": 636,
+      "ms": 4475605,
+      "dish": "Pizza"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 278,
+      "ms": 3605022,
+      "dish": "Pies"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "names": [
     "\u66B4\u8E81\u9ED1\u59B9\uFF08\u53CC\u6D4B\u8BF7\uFF0B\u6211\u4E00\u8D77\u73A9\uFF01"
   ],
-  "runs": 21,
+  "runs": 22,
   "bestRank": 36,
   "worstRank": 229,
   "firstPlaces": 0,
@@ -32,7 +32,8 @@
     87,
     93,
     94,
-    95
+    95,
+    96
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 66,
       "ms": 2636504,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 176,
+      "ms": 3048304,
+      "dish": "Pies"
     }
   ]
 }

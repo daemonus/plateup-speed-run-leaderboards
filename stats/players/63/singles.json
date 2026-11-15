@@ -2470,6 +2470,32 @@
     ]
   },
   {
+    "id": "63a3339e-479b-402f-a515-f8af61a1d766",
+    "persona": "ha_beans",
+    "names": [
+      "ha_beans"
+    ],
+    "runs": 1,
+    "bestRank": 312,
+    "worstRank": 312,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3790796,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 312,
+        "ms": 3790796,
+        "dish": "Pies"
+      }
+    ]
+  },
+  {
     "id": "63a54028-3a38-4abe-8bf4-67364db10f62",
     "persona": "Anj_Athena",
     "names": [
@@ -3542,8 +3568,8 @@
       "Tinwian"
     ],
     "runs": 1,
-    "bestRank": 377,
-    "worstRank": 377,
+    "bestRank": 409,
+    "worstRank": 409,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3555,7 +3581,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 377,
+        "rank": 409,
         "ms": 4387383,
         "dish": "Pies"
       }

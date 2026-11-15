@@ -1644,8 +1644,8 @@
       "Foxfyre"
     ],
     "runs": 1,
-    "bestRank": 303,
-    "worstRank": 303,
+    "bestRank": 329,
+    "worstRank": 329,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1657,7 +1657,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 303,
+        "rank": 329,
         "ms": 3890336,
         "dish": "Pies"
       }
@@ -1764,6 +1764,32 @@
         "rank": 762,
         "ms": 4517005,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "e19bc141-e4de-471f-b31a-7bc02590e989",
+    "persona": "ShadowsSkaterGirl",
+    "names": [
+      "ShadowsSkaterGirl"
+    ],
+    "runs": 1,
+    "bestRank": 557,
+    "worstRank": 557,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6418434,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 557,
+        "ms": 6418434,
+        "dish": "Pies"
       }
     ]
   },

@@ -838,8 +838,8 @@
       "StoneMalone"
     ],
     "runs": 1,
-    "bestRank": 206,
-    "worstRank": 206,
+    "bestRank": 223,
+    "worstRank": 223,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -851,7 +851,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 206,
+        "rank": 223,
         "ms": 3327156,
         "dish": "Pies"
       }
@@ -1306,8 +1306,8 @@
       "NY_Gentleman"
     ],
     "runs": 1,
-    "bestRank": 480,
-    "worstRank": 480,
+    "bestRank": 525,
+    "worstRank": 525,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1319,7 +1319,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 480,
+        "rank": 525,
         "ms": 5330770,
         "dish": "Pies"
       }
@@ -2856,6 +2856,32 @@
         "rank": 114,
         "ms": 2577082,
         "dish": "Fish"
+      }
+    ]
+  },
+  {
+    "id": "6fd6be6e-a48a-48cd-9ed8-9f9a598143c1",
+    "persona": "toncatsun",
+    "names": [
+      "toncatsun"
+    ],
+    "runs": 1,
+    "bestRank": 566,
+    "worstRank": 566,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6761666,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 566,
+        "ms": 6761666,
+        "dish": "Pies"
       }
     ]
   },

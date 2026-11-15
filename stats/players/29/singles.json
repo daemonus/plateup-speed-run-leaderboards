@@ -1222,32 +1222,6 @@
     ]
   },
   {
-    "id": "296b3d00-2261-4df8-979c-e7c22647b05d",
-    "persona": "areyouabot v0",
-    "names": [
-      "areyouabot v0"
-    ],
-    "runs": 1,
-    "bestRank": 332,
-    "worstRank": 332,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 3137771,
-    "weeksActive": [
-      52
-    ],
-    "history": [
-      {
-        "week": 52,
-        "start": "2026-01-05",
-        "rank": 332,
-        "ms": 3137771,
-        "dish": "Fish"
-      }
-    ]
-  },
-  {
     "id": "296d16f8-ad4a-4c76-adfc-4532e5c0b3bc",
     "persona": "\u97D3\u5047\u653E\u4E86",
     "names": [
@@ -2658,8 +2632,8 @@
       "flying fritz"
     ],
     "runs": 1,
-    "bestRank": 414,
-    "worstRank": 414,
+    "bestRank": 452,
+    "worstRank": 452,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2671,7 +2645,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 414,
+        "rank": 452,
         "ms": 4678245,
         "dish": "Pies"
       }

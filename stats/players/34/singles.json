@@ -1176,8 +1176,8 @@
       "Pank Dussy"
     ],
     "runs": 1,
-    "bestRank": 126,
-    "worstRank": 126,
+    "bestRank": 135,
+    "worstRank": 135,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 126,
+        "rank": 135,
         "ms": 2818436,
         "dish": "Pies"
       }
@@ -2648,6 +2648,32 @@
         "rank": 506,
         "ms": 3456164,
         "dish": "Sundaes"
+      }
+    ]
+  },
+  {
+    "id": "34c6b8b0-93a8-4945-a237-23615c25258a",
+    "persona": "Martinski",
+    "names": [
+      "Martinski"
+    ],
+    "runs": 1,
+    "bestRank": 568,
+    "worstRank": 568,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7017405,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 568,
+        "ms": 7017405,
+        "dish": "Pies"
       }
     ]
   },

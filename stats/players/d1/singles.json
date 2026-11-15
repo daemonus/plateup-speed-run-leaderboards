@@ -1176,8 +1176,8 @@
       "H_Mitch"
     ],
     "runs": 1,
-    "bestRank": 22,
-    "worstRank": 22,
+    "bestRank": 24,
+    "worstRank": 24,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1189,7 +1189,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 22,
+        "rank": 24,
         "ms": 1797746,
         "dish": "Pies"
       }
@@ -1634,6 +1634,32 @@
         "rank": 243,
         "ms": 5521475,
         "dish": "Breakfast"
+      }
+    ]
+  },
+  {
+    "id": "d1803da8-44fb-4c58-b3fb-d37c2465d565",
+    "persona": "Jakesnake",
+    "names": [
+      "Jakesnake"
+    ],
+    "runs": 1,
+    "bestRank": 342,
+    "worstRank": 342,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3965564,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 342,
+        "ms": 3965564,
+        "dish": "Pies"
       }
     ]
   },

@@ -266,8 +266,8 @@
       "\u9EA6\u82BD\u7684\u9999\u6C14"
     ],
     "runs": 1,
-    "bestRank": 393,
-    "worstRank": 393,
+    "bestRank": 428,
+    "worstRank": 428,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -279,7 +279,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 393,
+        "rank": 428,
         "ms": 4487062,
         "dish": "Pies"
       }
@@ -1982,8 +1982,8 @@
       "lin-yongqian"
     ],
     "runs": 1,
-    "bestRank": 421,
-    "worstRank": 421,
+    "bestRank": 460,
+    "worstRank": 460,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1995,7 +1995,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 421,
+        "rank": 460,
         "ms": 4715735,
         "dish": "Pies"
       }
@@ -2674,6 +2674,32 @@
         "rank": 382,
         "ms": 6480115,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "03c451b6-8612-4981-9931-58bc26b34cf4",
+    "persona": "Sheera",
+    "names": [
+      "Sheera"
+    ],
+    "runs": 1,
+    "bestRank": 563,
+    "worstRank": 563,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6692142,
+    "weeksActive": [
+      96
+    ],
+    "history": [
+      {
+        "week": 96,
+        "start": "2026-11-09",
+        "rank": 563,
+        "ms": 6692142,
+        "dish": "Pies"
       }
     ]
   },

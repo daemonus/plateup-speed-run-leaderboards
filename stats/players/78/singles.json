@@ -1280,8 +1280,8 @@
       "KittehSayzRawr"
     ],
     "runs": 1,
-    "bestRank": 474,
-    "worstRank": 474,
+    "bestRank": 518,
+    "worstRank": 518,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -1293,7 +1293,7 @@
       {
         "week": 96,
         "start": "2026-11-09",
-        "rank": 474,
+        "rank": 518,
         "ms": 5179576,
         "dish": "Pies"
       }
@@ -2232,32 +2232,6 @@
         "rank": 297,
         "ms": 6111189,
         "dish": "Hot Dogs"
-      }
-    ]
-  },
-  {
-    "id": "78b48884-aafb-49b2-a3be-5d1334f246e4",
-    "persona": "Sting Ray",
-    "names": [
-      "Sting Ray"
-    ],
-    "runs": 1,
-    "bestRank": 1176,
-    "worstRank": 1176,
-    "firstPlaces": 0,
-    "top3": 0,
-    "top10": 0,
-    "bestMs": 6768744,
-    "weeksActive": [
-      92
-    ],
-    "history": [
-      {
-        "week": 92,
-        "start": "2026-10-12",
-        "rank": 1176,
-        "ms": 6768744,
-        "dish": "Fish"
       }
     ]
   },

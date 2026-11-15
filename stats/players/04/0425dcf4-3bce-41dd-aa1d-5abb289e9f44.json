@@ -4,7 +4,7 @@
   "names": [
     "DoomBunny"
   ],
-  "runs": 44,
+  "runs": 45,
   "bestRank": 113,
   "worstRank": 761,
   "firstPlaces": 0,
@@ -55,7 +55,8 @@
     81,
     84,
     92,
-    93
+    93,
+    96
   ],
   "history": [
     {
@@ -365,6 +366,13 @@
       "rank": 257,
       "ms": 4026383,
       "dish": "Salad"
+    },
+    {
+      "week": 96,
+      "start": "2026-11-09",
+      "rank": 163,
+      "ms": 2989294,
+      "dish": "Pies"
     }
   ]
 }
