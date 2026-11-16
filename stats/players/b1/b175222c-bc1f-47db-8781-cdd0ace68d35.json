@@ -4,7 +4,7 @@
   "names": [
     "DJCarysmatic"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 9,
   "worstRank": 144,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 15,
       "ms": 1600465,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 14,
+      "ms": 2480715,
+      "dish": "Fajitas"
     }
   ]
 }

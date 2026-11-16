@@ -4,7 +4,7 @@
   "names": [
     "AFoolishHero"
   ],
-  "runs": 37,
+  "runs": 38,
   "bestRank": 13,
   "worstRank": 727,
   "firstPlaces": 0,
@@ -48,7 +48,8 @@
     87,
     88,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -309,6 +310,13 @@
       "rank": 116,
       "ms": 2663888,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 30,
+      "ms": 3253638,
+      "dish": "Fajitas"
     }
   ]
 }

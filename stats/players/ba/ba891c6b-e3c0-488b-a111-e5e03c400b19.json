@@ -4,12 +4,12 @@
   "names": [
     "Audy_157"
   ],
-  "runs": 17,
-  "bestRank": 9,
+  "runs": 18,
+  "bestRank": 6,
   "worstRank": 87,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 1033431,
   "weeksActive": [
     -64,
@@ -28,7 +28,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 13,
       "ms": 1590349,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 6,
+      "ms": 2114355,
+      "dish": "Fajitas"
     }
   ]
 }

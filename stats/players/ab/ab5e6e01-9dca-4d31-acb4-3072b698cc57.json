@@ -4,7 +4,7 @@
   "names": [
     "tiffuh"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 19,
   "worstRank": 141,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     91,
     92,
     93,
-    94
+    94,
+    97
   ],
   "history": [
     {
@@ -204,6 +205,13 @@
       "start": "2026-10-26",
       "rank": 73,
       "ms": 2537802,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 19,
+      "ms": 2799382,
       "dish": "Fajitas"
     }
   ]

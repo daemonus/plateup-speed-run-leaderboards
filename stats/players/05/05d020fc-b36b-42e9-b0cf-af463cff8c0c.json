@@ -4,12 +4,12 @@
   "names": [
     "EvanDude0511"
   ],
-  "runs": 12,
-  "bestRank": 4,
+  "runs": 13,
+  "bestRank": 2,
   "worstRank": 969,
   "firstPlaces": 0,
-  "top3": 0,
-  "top10": 4,
+  "top3": 1,
+  "top10": 5,
   "bestMs": 977012,
   "weeksActive": [
     -94,
@@ -23,7 +23,8 @@
     56,
     91,
     92,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 4,
       "ms": 1012811,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 2,
+      "ms": 1172154,
+      "dish": "Fajitas"
     }
   ]
 }

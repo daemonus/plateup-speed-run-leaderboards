@@ -4,8 +4,8 @@
   "names": [
     "yadushige"
   ],
-  "runs": 53,
-  "bestRank": 88,
+  "runs": 54,
+  "bestRank": 26,
   "worstRank": 707,
   "firstPlaces": 0,
   "top3": 0,
@@ -64,7 +64,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -437,6 +438,13 @@
       "rank": 222,
       "ms": 3267298,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 26,
+      "ms": 3191555,
+      "dish": "Fajitas"
     }
   ]
 }

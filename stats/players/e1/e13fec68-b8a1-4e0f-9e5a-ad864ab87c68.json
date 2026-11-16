@@ -4,8 +4,8 @@
   "names": [
     "andereik11"
   ],
-  "runs": 7,
-  "bestRank": 111,
+  "runs": 8,
+  "bestRank": 32,
   "worstRank": 366,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     92,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 111,
       "ms": 2620407,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 32,
+      "ms": 3384309,
+      "dish": "Fajitas"
     }
   ]
 }

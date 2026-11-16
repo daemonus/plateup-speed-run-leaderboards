@@ -4,8 +4,8 @@
   "names": [
     "businessbullying"
   ],
-  "runs": 5,
-  "bestRank": 54,
+  "runs": 6,
+  "bestRank": 24,
   "worstRank": 177,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 62,
       "ms": 2310178,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 24,
+      "ms": 3047760,
+      "dish": "Fajitas"
     }
   ]
 }
