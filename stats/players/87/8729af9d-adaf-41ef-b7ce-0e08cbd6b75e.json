@@ -4,12 +4,12 @@
   "names": [
     "adamdrinkslots"
   ],
-  "runs": 165,
+  "runs": 166,
   "bestRank": 5,
   "worstRank": 1068,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 7,
+  "top10": 8,
   "bestMs": 1205768,
   "weeksActive": [
     -94,
@@ -176,7 +176,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -1333,6 +1334,13 @@
       "rank": 25,
       "ms": 1786015,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 5,
+      "ms": 2387901,
+      "dish": "Fajitas"
     }
   ]
 }

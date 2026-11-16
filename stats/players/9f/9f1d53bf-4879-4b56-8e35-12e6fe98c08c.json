@@ -4,8 +4,8 @@
   "names": [
     "Lil_Kinky_Pinata"
   ],
-  "runs": 10,
-  "bestRank": 137,
+  "runs": 11,
+  "bestRank": 13,
   "worstRank": 364,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     88,
     92,
     93,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 361,
       "ms": 3903628,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 13,
+      "ms": 2875696,
+      "dish": "Fajitas"
     }
   ]
 }

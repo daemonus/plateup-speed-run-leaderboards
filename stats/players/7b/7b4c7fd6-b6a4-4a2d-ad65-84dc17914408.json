@@ -4,8 +4,8 @@
   "names": [
     "TheGamersBuffet"
   ],
-  "runs": 6,
-  "bestRank": 39,
+  "runs": 7,
+  "bestRank": 16,
   "worstRank": 236,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     -2,
     51,
     62,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 84,
       "ms": 2442632,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 16,
+      "ms": 3400310,
+      "dish": "Fajitas"
     }
   ]
 }

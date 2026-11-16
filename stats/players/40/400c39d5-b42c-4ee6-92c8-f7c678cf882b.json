@@ -4,12 +4,12 @@
   "names": [
     "I.T Guy"
   ],
-  "runs": 120,
-  "bestRank": 9,
+  "runs": 121,
+  "bestRank": 6,
   "worstRank": 771,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 3,
+  "top10": 4,
   "bestMs": 1034130,
   "weeksActive": [
     -91,
@@ -131,7 +131,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -973,6 +974,13 @@
       "rank": 20,
       "ms": 1746178,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 6,
+      "ms": 2447638,
+      "dish": "Fajitas"
     }
   ]
 }

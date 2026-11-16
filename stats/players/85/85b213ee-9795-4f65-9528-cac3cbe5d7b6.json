@@ -4,7 +4,7 @@
   "names": [
     "The Sabah"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 17,
   "worstRank": 164,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 17,
       "ms": 1665977,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 21,
+      "ms": 4510487,
+      "dish": "Fajitas"
     }
   ]
 }

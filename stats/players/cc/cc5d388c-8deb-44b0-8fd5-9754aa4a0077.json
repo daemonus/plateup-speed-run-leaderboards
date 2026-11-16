@@ -4,8 +4,8 @@
   "names": [
     "Zelda Cloud"
   ],
-  "runs": 2,
-  "bestRank": 259,
+  "runs": 3,
+  "bestRank": 19,
   "worstRank": 299,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3446067,
   "weeksActive": [
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 259,
       "ms": 3446067,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 19,
+      "ms": 4076216,
+      "dish": "Fajitas"
     }
   ]
 }

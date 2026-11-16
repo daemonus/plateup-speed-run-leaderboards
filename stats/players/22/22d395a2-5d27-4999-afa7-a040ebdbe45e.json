@@ -4,8 +4,8 @@
   "names": [
     "Peridote"
   ],
-  "runs": 106,
-  "bestRank": 37,
+  "runs": 107,
+  "bestRank": 12,
   "worstRank": 591,
   "firstPlaces": 0,
   "top3": 0,
@@ -117,7 +117,8 @@
     90,
     91,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -861,6 +862,13 @@
       "rank": 56,
       "ms": 2260931,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 12,
+      "ms": 2828945,
+      "dish": "Fajitas"
     }
   ]
 }
