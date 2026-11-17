@@ -4,8 +4,8 @@
   "names": [
     "syg14"
   ],
-  "runs": 21,
-  "bestRank": 71,
+  "runs": 22,
+  "bestRank": 53,
   "worstRank": 523,
   "firstPlaces": 0,
   "top3": 0,
@@ -32,7 +32,8 @@
     92,
     93,
     94,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -181,6 +182,13 @@
       "rank": 114,
       "ms": 2990364,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 53,
+      "ms": 3455533,
+      "dish": "Fajitas"
     }
   ]
 }

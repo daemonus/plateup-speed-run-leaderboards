@@ -4,7 +4,7 @@
   "names": [
     "chrsmv"
   ],
-  "runs": 33,
+  "runs": 34,
   "bestRank": 56,
   "worstRank": 409,
   "firstPlaces": 0,
@@ -44,7 +44,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 201,
       "ms": 3171333,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 69,
+      "ms": 4082538,
+      "dish": "Fajitas"
     }
   ]
 }

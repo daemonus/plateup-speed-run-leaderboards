@@ -4,8 +4,8 @@
   "names": [
     "Aminity"
   ],
-  "runs": 12,
-  "bestRank": 96,
+  "runs": 13,
+  "bestRank": 32,
   "worstRank": 477,
   "firstPlaces": 0,
   "top3": 0,
@@ -23,7 +23,8 @@
     80,
     82,
     83,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 241,
       "ms": 3372194,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 32,
+      "ms": 2965764,
+      "dish": "Fajitas"
     }
   ]
 }

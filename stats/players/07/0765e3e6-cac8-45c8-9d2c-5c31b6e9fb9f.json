@@ -4,8 +4,8 @@
   "names": [
     "Mstryoda"
   ],
-  "runs": 26,
-  "bestRank": 145,
+  "runs": 27,
+  "bestRank": 78,
   "worstRank": 852,
   "firstPlaces": 0,
   "top3": 0,
@@ -37,7 +37,8 @@
     68,
     69,
     70,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -221,6 +222,13 @@
       "rank": 536,
       "ms": 4959228,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 78,
+      "ms": 5153123,
+      "dish": "Fajitas"
     }
   ]
 }

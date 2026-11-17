@@ -4,7 +4,7 @@
   "names": [
     "Saho"
   ],
-  "runs": 24,
+  "runs": 25,
   "bestRank": 34,
   "worstRank": 495,
   "firstPlaces": 0,
@@ -35,7 +35,8 @@
     89,
     90,
     91,
-    94
+    94,
+    97
   ],
   "history": [
     {
@@ -204,6 +205,13 @@
       "start": "2026-10-26",
       "rank": 132,
       "ms": 3010657,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 70,
+      "ms": 4145520,
       "dish": "Fajitas"
     }
   ]
