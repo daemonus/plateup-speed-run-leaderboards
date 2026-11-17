@@ -4,8 +4,8 @@
   "names": [
     "Nat"
   ],
-  "runs": 2,
-  "bestRank": 281,
+  "runs": 3,
+  "bestRank": 68,
   "worstRank": 430,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3540426,
   "weeksActive": [
     94,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 281,
       "ms": 3540426,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 68,
+      "ms": 5804364,
+      "dish": "Fajitas"
     }
   ]
 }

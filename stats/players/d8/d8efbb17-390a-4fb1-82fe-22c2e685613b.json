@@ -4,7 +4,7 @@
   "names": [
     "w0rdpainter"
   ],
-  "runs": 81,
+  "runs": 82,
   "bestRank": 22,
   "worstRank": 347,
   "firstPlaces": 0,
@@ -92,7 +92,8 @@
     84,
     85,
     86,
-    91
+    91,
+    97
   ],
   "history": [
     {
@@ -661,6 +662,13 @@
       "rank": 95,
       "ms": 3105697,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 40,
+      "ms": 3328123,
+      "dish": "Fajitas"
     }
   ]
 }

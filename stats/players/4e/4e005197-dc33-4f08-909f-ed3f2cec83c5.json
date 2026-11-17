@@ -4,8 +4,8 @@
   "names": [
     "Flip"
   ],
-  "runs": 46,
-  "bestRank": 42,
+  "runs": 47,
+  "bestRank": 31,
   "worstRank": 406,
   "firstPlaces": 0,
   "top3": 0,
@@ -57,7 +57,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -381,6 +382,13 @@
       "rank": 53,
       "ms": 2250549,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 31,
+      "ms": 3007492,
+      "dish": "Fajitas"
     }
   ]
 }

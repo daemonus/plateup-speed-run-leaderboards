@@ -4,7 +4,7 @@
   "names": [
     "vaguelyfinite"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 10,
   "worstRank": 202,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     86,
     91,
     94,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 23,
       "ms": 2086347,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 16,
+      "ms": 2437000,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "kevkat27"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 34,
   "worstRank": 509,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 279,
       "ms": 3532856,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 50,
+      "ms": 3612919,
+      "dish": "Fajitas"
     }
   ]
 }

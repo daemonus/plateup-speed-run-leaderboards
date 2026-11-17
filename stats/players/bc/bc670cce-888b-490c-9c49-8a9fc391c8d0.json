@@ -4,8 +4,8 @@
   "names": [
     "hometemme"
   ],
-  "runs": 23,
-  "bestRank": 92,
+  "runs": 24,
+  "bestRank": 55,
   "worstRank": 573,
   "firstPlaces": 0,
   "top3": 0,
@@ -34,7 +34,8 @@
     42,
     92,
     94,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 266,
       "ms": 3481122,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 55,
+      "ms": 3838245,
+      "dish": "Fajitas"
     }
   ]
 }

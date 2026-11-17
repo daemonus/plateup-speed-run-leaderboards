@@ -4,17 +4,18 @@
   "names": [
     "Freethenstein"
   ],
-  "runs": 3,
-  "bestRank": 23,
+  "runs": 4,
+  "bestRank": 5,
   "worstRank": 59,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1781092,
   "weeksActive": [
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 59,
       "ms": 2288371,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 5,
+      "ms": 1978683,
+      "dish": "Fajitas"
     }
   ]
 }
