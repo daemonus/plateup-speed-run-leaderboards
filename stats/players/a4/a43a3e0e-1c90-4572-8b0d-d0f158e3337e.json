@@ -1,0 +1,34 @@
+{
+  "id": "a43a3e0e-1c90-4572-8b0d-d0f158e3337e",
+  "persona": "Caca",
+  "names": [
+    "Caca"
+  ],
+  "runs": 2,
+  "bestRank": 98,
+  "worstRank": 563,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 6568777,
+  "weeksActive": [
+    93,
+    97
+  ],
+  "history": [
+    {
+      "week": 93,
+      "start": "2026-10-19",
+      "rank": 563,
+      "ms": 6568777,
+      "dish": "Salad"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 98,
+      "ms": 7070252,
+      "dish": "Fajitas"
+    }
+  ]
+}

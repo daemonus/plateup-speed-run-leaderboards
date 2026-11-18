@@ -4,7 +4,7 @@
   "names": [
     "Mpyr"
   ],
-  "runs": 88,
+  "runs": 89,
   "bestRank": 8,
   "worstRank": 129,
   "firstPlaces": 0,
@@ -99,7 +99,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -717,6 +718,13 @@
       "rank": 66,
       "ms": 2332119,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 28,
+      "ms": 2666088,
+      "dish": "Fajitas"
     }
   ]
 }

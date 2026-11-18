@@ -4,19 +4,20 @@
   "names": [
     "ikutu192"
   ],
-  "runs": 5,
-  "bestRank": 44,
+  "runs": 6,
+  "bestRank": 12,
   "worstRank": 181,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 2197024,
+  "bestMs": 2142698,
   "weeksActive": [
     92,
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 97,
       "ms": 2531920,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 12,
+      "ms": 2142698,
+      "dish": "Fajitas"
     }
   ]
 }

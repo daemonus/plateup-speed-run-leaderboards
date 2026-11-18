@@ -4,7 +4,7 @@
   "names": [
     "EllaOFrail"
   ],
-  "runs": 133,
+  "runs": 134,
   "bestRank": 15,
   "worstRank": 1023,
   "firstPlaces": 0,
@@ -144,7 +144,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -1077,6 +1078,13 @@
       "rank": 35,
       "ms": 1975467,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 39,
+      "ms": 3012552,
+      "dish": "Fajitas"
     }
   ]
 }
