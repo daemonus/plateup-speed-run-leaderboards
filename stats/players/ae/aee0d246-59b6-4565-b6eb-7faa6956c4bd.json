@@ -4,16 +4,17 @@
   "names": [
     "agocsa18"
   ],
-  "runs": 2,
-  "bestRank": 458,
+  "runs": 3,
+  "bestRank": 100,
   "worstRank": 605,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 7789325,
+  "bestMs": 4725905,
   "weeksActive": [
     93,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 458,
       "ms": 7789325,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 100,
+      "ms": 4725905,
+      "dish": "Fajitas"
     }
   ]
 }

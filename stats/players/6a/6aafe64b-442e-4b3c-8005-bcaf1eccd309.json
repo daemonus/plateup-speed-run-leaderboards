@@ -4,8 +4,8 @@
   "names": [
     "smol fish"
   ],
-  "runs": 6,
-  "bestRank": 69,
+  "runs": 7,
+  "bestRank": 63,
   "worstRank": 185,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     91,
     92,
     93,
-    94
+    94,
+    97
   ],
   "history": [
     {
@@ -60,6 +61,13 @@
       "start": "2026-10-26",
       "rank": 171,
       "ms": 3291010,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 63,
+      "ms": 3376307,
       "dish": "Fajitas"
     }
   ]

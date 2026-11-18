@@ -4,12 +4,12 @@
   "names": [
     "onom_nom"
   ],
-  "runs": 29,
+  "runs": 30,
   "bestRank": 2,
   "worstRank": 524,
   "firstPlaces": 0,
   "top3": 3,
-  "top10": 20,
+  "top10": 21,
   "bestMs": 548696,
   "weeksActive": [
     -77,
@@ -40,7 +40,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -245,6 +246,13 @@
       "rank": 5,
       "ms": 1026119,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 4,
+      "ms": 1432974,
+      "dish": "Fajitas"
     }
   ]
 }

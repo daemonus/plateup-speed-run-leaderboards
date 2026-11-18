@@ -4,7 +4,7 @@
   "names": [
     "\u5C11"
   ],
-  "runs": 23,
+  "runs": 24,
   "bestRank": 9,
   "worstRank": 306,
   "firstPlaces": 0,
@@ -34,7 +34,8 @@
     91,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -197,6 +198,13 @@
       "rank": 42,
       "ms": 2103433,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 18,
+      "ms": 2300417,
+      "dish": "Fajitas"
     }
   ]
 }
