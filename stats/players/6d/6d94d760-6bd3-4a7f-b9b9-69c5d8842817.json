@@ -4,7 +4,7 @@
   "names": [
     "Scotty2Hotty17"
   ],
-  "runs": 176,
+  "runs": 177,
   "bestRank": 2,
   "worstRank": 304,
   "firstPlaces": 0,
@@ -187,7 +187,8 @@
     91,
     93,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -1421,6 +1422,13 @@
       "rank": 18,
       "ms": 1679935,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 26,
+      "ms": 2409074,
+      "dish": "Fajitas"
     }
   ]
 }

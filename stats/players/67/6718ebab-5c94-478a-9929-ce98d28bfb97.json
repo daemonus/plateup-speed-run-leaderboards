@@ -4,7 +4,7 @@
   "names": [
     "MrsMcGeek"
   ],
-  "runs": 84,
+  "runs": 85,
   "bestRank": 58,
   "worstRank": 1469,
   "firstPlaces": 0,
@@ -95,7 +95,8 @@
     74,
     83,
     92,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -685,6 +686,13 @@
       "rank": 197,
       "ms": 3147963,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 114,
+      "ms": 4423691,
+      "dish": "Fajitas"
     }
   ]
 }

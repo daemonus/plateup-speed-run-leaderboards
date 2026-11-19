@@ -4,7 +4,7 @@
   "names": [
     "welcome2mylife"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 44,
   "worstRank": 218,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     85,
     86,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 128,
       "ms": 2780826,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 68,
+      "ms": 3300339,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "nataliepontillo"
   ],
-  "runs": 31,
+  "runs": 32,
   "bestRank": 51,
   "worstRank": 698,
   "firstPlaces": 0,
@@ -42,7 +42,8 @@
     0,
     2,
     34,
-    36
+    36,
+    97
   ],
   "history": [
     {
@@ -261,6 +262,13 @@
       "rank": 85,
       "ms": 2181730,
       "dish": "Fish"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 84,
+      "ms": 3569312,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "names": [
     "ojisan2023"
   ],
-  "runs": 42,
+  "runs": 43,
   "bestRank": 8,
   "worstRank": 199,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 4,
+  "top10": 5,
   "bestMs": 851264,
   "weeksActive": [
     7,
@@ -53,7 +53,8 @@
     87,
     88,
     90,
-    92
+    92,
+    97
   ],
   "history": [
     {
@@ -349,6 +350,13 @@
       "rank": 27,
       "ms": 1776899,
       "dish": "Fish"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 9,
+      "ms": 1901699,
+      "dish": "Fajitas"
     }
   ]
 }

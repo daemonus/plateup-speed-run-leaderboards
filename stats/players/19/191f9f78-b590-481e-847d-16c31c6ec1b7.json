@@ -4,8 +4,8 @@
   "names": [
     "cosmocraft"
   ],
-  "runs": 7,
-  "bestRank": 75,
+  "runs": 8,
+  "bestRank": 70,
   "worstRank": 287,
   "firstPlaces": 0,
   "top3": 0,
@@ -18,7 +18,8 @@
     65,
     69,
     72,
-    73
+    73,
+    97
   ],
   "history": [
     {
@@ -69,6 +70,13 @@
       "rank": 117,
       "ms": 2882074,
       "dish": "Burgers"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 70,
+      "ms": 3332417,
+      "dish": "Fajitas"
     }
   ]
 }
