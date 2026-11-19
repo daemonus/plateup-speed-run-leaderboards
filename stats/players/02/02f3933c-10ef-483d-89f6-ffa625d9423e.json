@@ -5,7 +5,7 @@
     "Nepovezlo",
     "Stefan"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 1,
   "worstRank": 170,
   "firstPlaces": 5,
@@ -95,7 +95,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -678,6 +679,13 @@
       "rank": 7,
       "ms": 1278704,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 16,
+      "ms": 2024319,
+      "dish": "Fajitas"
     }
   ]
 }

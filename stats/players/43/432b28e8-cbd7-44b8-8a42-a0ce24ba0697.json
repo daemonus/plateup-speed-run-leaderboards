@@ -4,8 +4,8 @@
   "names": [
     "KL Clarion"
   ],
-  "runs": 18,
-  "bestRank": 167,
+  "runs": 19,
+  "bestRank": 101,
   "worstRank": 2475,
   "firstPlaces": 0,
   "top3": 0,
@@ -29,7 +29,8 @@
     74,
     75,
     90,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 297,
       "ms": 3611989,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 101,
+      "ms": 3663584,
+      "dish": "Fajitas"
     }
   ]
 }

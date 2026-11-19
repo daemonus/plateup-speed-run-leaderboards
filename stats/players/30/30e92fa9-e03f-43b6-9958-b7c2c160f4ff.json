@@ -4,7 +4,7 @@
   "names": [
     "moshi.mochi.mochi"
   ],
-  "runs": 2,
+  "runs": 3,
   "bestRank": 94,
   "worstRank": 195,
   "firstPlaces": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2521491,
   "weeksActive": [
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 94,
       "ms": 2521491,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 126,
+      "ms": 4336203,
+      "dish": "Fajitas"
     }
   ]
 }
