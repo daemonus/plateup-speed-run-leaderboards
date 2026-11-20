@@ -4,7 +4,7 @@
   "names": [
     "lypater11"
   ],
-  "runs": 22,
+  "runs": 23,
   "bestRank": 47,
   "worstRank": 455,
   "firstPlaces": 0,
@@ -33,7 +33,8 @@
     89,
     90,
     92,
-    93
+    93,
+    97
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 282,
       "ms": 4153493,
       "dish": "Salad"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 131,
+      "ms": 3998343,
+      "dish": "Fajitas"
     }
   ]
 }

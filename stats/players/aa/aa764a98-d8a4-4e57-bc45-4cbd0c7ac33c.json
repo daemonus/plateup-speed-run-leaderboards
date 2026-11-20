@@ -4,7 +4,7 @@
   "names": [
     "Bathrobe Hero"
   ],
-  "runs": 10,
+  "runs": 11,
   "bestRank": 33,
   "worstRank": 147,
   "firstPlaces": 0,
@@ -21,7 +21,8 @@
     68,
     75,
     76,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 134,
       "ms": 2806295,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 66,
+      "ms": 3034675,
+      "dish": "Fajitas"
     }
   ]
 }
