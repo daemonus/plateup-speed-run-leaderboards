@@ -4,7 +4,7 @@
   "names": [
     "Cocobear"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 22,
   "worstRank": 315,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 28,
       "ms": 1803600,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 50,
+      "ms": 2781474,
+      "dish": "Fajitas"
     }
   ]
 }

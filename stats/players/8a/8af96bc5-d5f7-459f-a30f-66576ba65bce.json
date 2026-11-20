@@ -4,19 +4,20 @@
   "names": [
     "Ralig"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 3,
   "worstRank": 72,
   "firstPlaces": 0,
   "top3": 1,
-  "top10": 1,
+  "top10": 2,
   "bestMs": 915066,
   "weeksActive": [
     -84,
     -83,
     -82,
     -78,
-    41
+    41,
+    97
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 3,
       "ms": 915066,
       "dish": "Turkey"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 4,
+      "ms": 1306695,
+      "dish": "Fajitas"
     }
   ]
 }

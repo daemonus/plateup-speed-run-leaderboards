@@ -4,7 +4,7 @@
   "names": [
     "Asteyni"
   ],
-  "runs": 83,
+  "runs": 84,
   "bestRank": 27,
   "worstRank": 477,
   "firstPlaces": 0,
@@ -94,7 +94,8 @@
     52,
     53,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -677,6 +678,13 @@
       "rank": 191,
       "ms": 3075266,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 120,
+      "ms": 3945071,
+      "dish": "Fajitas"
     }
   ]
 }

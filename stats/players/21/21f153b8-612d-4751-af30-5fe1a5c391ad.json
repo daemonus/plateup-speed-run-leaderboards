@@ -4,7 +4,7 @@
   "names": [
     "nostalkersplzkthnxbye"
   ],
-  "runs": 47,
+  "runs": 48,
   "bestRank": 18,
   "worstRank": 415,
   "firstPlaces": 0,
@@ -58,7 +58,8 @@
     58,
     59,
     71,
-    88
+    88,
+    97
   ],
   "history": [
     {
@@ -389,6 +390,13 @@
       "rank": 83,
       "ms": 2617844,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 73,
+      "ms": 3201350,
+      "dish": "Fajitas"
     }
   ]
 }
