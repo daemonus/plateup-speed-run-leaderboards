@@ -4,8 +4,8 @@
   "names": [
     "Larive"
   ],
-  "runs": 2,
-  "bestRank": 436,
+  "runs": 3,
+  "bestRank": 187,
   "worstRank": 615,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4237119,
   "weeksActive": [
     92,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 436,
       "ms": 6190287,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 187,
+      "ms": 4887689,
+      "dish": "Fajitas"
     }
   ]
 }

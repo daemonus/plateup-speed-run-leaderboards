@@ -4,8 +4,8 @@
   "names": [
     "Mask."
   ],
-  "runs": 3,
-  "bestRank": 168,
+  "runs": 4,
+  "bestRank": 145,
   "worstRank": 433,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     93,
-    94
+    94,
+    97
   ],
   "history": [
     {
@@ -36,6 +37,13 @@
       "start": "2026-10-26",
       "rank": 168,
       "ms": 3265947,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 145,
+      "ms": 3915032,
       "dish": "Fajitas"
     }
   ]

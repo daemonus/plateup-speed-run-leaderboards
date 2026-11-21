@@ -4,7 +4,7 @@
   "names": [
     "sharonterhaar94"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 70,
   "worstRank": 530,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     91,
     92,
     93,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 220,
       "ms": 3264408,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 118,
+      "ms": 3487547,
+      "dish": "Fajitas"
     }
   ]
 }

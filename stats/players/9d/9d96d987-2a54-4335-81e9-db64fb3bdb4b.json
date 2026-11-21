@@ -4,8 +4,8 @@
   "names": [
     "Hawki"
   ],
-  "runs": 2,
-  "bestRank": 231,
+  "runs": 3,
+  "bestRank": 176,
   "worstRank": 303,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3426942,
   "weeksActive": [
     91,
-    92
+    92,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 303,
       "ms": 3426942,
       "dish": "Fish"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 176,
+      "ms": 4477060,
+      "dish": "Fajitas"
     }
   ]
 }

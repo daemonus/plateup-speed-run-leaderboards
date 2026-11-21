@@ -4,7 +4,7 @@
   "names": [
     "nicodelion"
   ],
-  "runs": 25,
+  "runs": 26,
   "bestRank": 70,
   "worstRank": 425,
   "firstPlaces": 0,
@@ -36,7 +36,8 @@
     88,
     89,
     90,
-    92
+    92,
+    97
   ],
   "history": [
     {
@@ -213,6 +214,13 @@
       "rank": 121,
       "ms": 2626016,
       "dish": "Fish"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 101,
+      "ms": 3326107,
+      "dish": "Fajitas"
     }
   ]
 }

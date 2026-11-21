@@ -4,7 +4,7 @@
   "names": [
     "alc"
   ],
-  "runs": 28,
+  "runs": 29,
   "bestRank": 50,
   "worstRank": 432,
   "firstPlaces": 0,
@@ -39,7 +39,8 @@
     80,
     82,
     83,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -237,6 +238,13 @@
       "rank": 133,
       "ms": 2796513,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 93,
+      "ms": 3242880,
+      "dish": "Fajitas"
     }
   ]
 }
