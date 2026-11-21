@@ -4,8 +4,8 @@
   "names": [
     "Laideen"
   ],
-  "runs": 2,
-  "bestRank": 337,
+  "runs": 3,
+  "bestRank": 154,
   "worstRank": 495,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 4260110,
   "weeksActive": [
     94,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 495,
       "ms": 4679237,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 154,
+      "ms": 4422520,
+      "dish": "Fajitas"
     }
   ]
 }

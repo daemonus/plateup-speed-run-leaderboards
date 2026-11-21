@@ -4,7 +4,7 @@
   "names": [
     "Majestic Sea Flap Flap"
   ],
-  "runs": 111,
+  "runs": 112,
   "bestRank": 5,
   "worstRank": 221,
   "firstPlaces": 0,
@@ -122,7 +122,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -901,6 +902,13 @@
       "rank": 24,
       "ms": 1783831,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 26,
+      "ms": 2206318,
+      "dish": "Fajitas"
     }
   ]
 }
