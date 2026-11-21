@@ -4,7 +4,7 @@
   "names": [
     "vdka"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 27,
   "worstRank": 218,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     75,
     85,
     86,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 76,
       "ms": 2758371,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 64,
+      "ms": 2956157,
+      "dish": "Fajitas"
     }
   ]
 }

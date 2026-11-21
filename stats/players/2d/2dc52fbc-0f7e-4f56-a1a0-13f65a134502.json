@@ -4,8 +4,8 @@
   "names": [
     "oga"
   ],
-  "runs": 5,
-  "bestRank": 82,
+  "runs": 6,
+  "bestRank": 79,
   "worstRank": 188,
   "firstPlaces": 0,
   "top3": 0,
@@ -16,7 +16,8 @@
     93,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 137,
       "ms": 2816291,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 79,
+      "ms": 3061977,
+      "dish": "Fajitas"
     }
   ]
 }

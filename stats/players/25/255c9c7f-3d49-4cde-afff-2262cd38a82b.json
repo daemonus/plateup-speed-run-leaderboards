@@ -4,8 +4,8 @@
   "names": [
     "XIAOP"
   ],
-  "runs": 2,
-  "bestRank": 521,
+  "runs": 3,
+  "bestRank": 166,
   "worstRank": 605,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3866371,
   "weeksActive": [
     -82,
-    -55
+    -55,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 521,
       "ms": 5870264,
       "dish": "Pizza"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 166,
+      "ms": 4667349,
+      "dish": "Fajitas"
     }
   ]
 }

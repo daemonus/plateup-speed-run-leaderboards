@@ -4,7 +4,7 @@
   "names": [
     "jojo"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 166,
   "worstRank": 930,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     91,
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 328,
       "ms": 3735341,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 174,
+      "ms": 5035847,
+      "dish": "Fajitas"
     }
   ]
 }

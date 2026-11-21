@@ -4,7 +4,7 @@
   "names": [
     "n.tk.lee"
   ],
-  "runs": 76,
+  "runs": 77,
   "bestRank": 10,
   "worstRank": 527,
   "firstPlaces": 0,
@@ -87,7 +87,8 @@
     83,
     84,
     88,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -621,6 +622,13 @@
       "rank": 89,
       "ms": 2839970,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 46,
+      "ms": 2563191,
+      "dish": "Fajitas"
     }
   ]
 }
