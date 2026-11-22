@@ -4,7 +4,7 @@
   "names": [
     "kousaka_rico"
   ],
-  "runs": 133,
+  "runs": 134,
   "bestRank": 14,
   "worstRank": 353,
   "firstPlaces": 0,
@@ -144,7 +144,8 @@
     91,
     92,
     93,
-    94
+    94,
+    97
   ],
   "history": [
     {
@@ -1076,6 +1077,13 @@
       "start": "2026-10-26",
       "rank": 66,
       "ms": 2474887,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 68,
+      "ms": 2933783,
       "dish": "Fajitas"
     }
   ]

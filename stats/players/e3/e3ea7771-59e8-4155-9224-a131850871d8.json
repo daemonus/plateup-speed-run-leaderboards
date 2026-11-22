@@ -4,8 +4,8 @@
   "names": [
     "realag2"
   ],
-  "runs": 3,
-  "bestRank": 374,
+  "runs": 4,
+  "bestRank": 191,
   "worstRank": 476,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     94,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 476,
       "ms": 4592077,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 191,
+      "ms": 4654443,
+      "dish": "Fajitas"
     }
   ]
 }

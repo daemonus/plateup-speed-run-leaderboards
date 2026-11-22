@@ -4,7 +4,7 @@
   "names": [
     "King"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 98,
   "worstRank": 321,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     46,
     48,
-    56
+    56,
+    97
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 300,
       "ms": 2158146,
       "dish": "Sundaes"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 167,
+      "ms": 4133441,
+      "dish": "Fajitas"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "emommy01"
   ],
-  "runs": 2,
-  "bestRank": 203,
+  "runs": 3,
+  "bestRank": 156,
   "worstRank": 240,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3435847,
   "weeksActive": [
     59,
-    91
+    91,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 203,
       "ms": 4470307,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 156,
+      "ms": 3987410,
+      "dish": "Fajitas"
     }
   ]
 }

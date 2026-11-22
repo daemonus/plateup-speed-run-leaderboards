@@ -4,7 +4,7 @@
   "names": [
     "BriarShade"
   ],
-  "runs": 51,
+  "runs": 52,
   "bestRank": 6,
   "worstRank": 790,
   "firstPlaces": 0,
@@ -62,7 +62,8 @@
     75,
     77,
     83,
-    84
+    84,
+    97
   ],
   "history": [
     {
@@ -421,6 +422,13 @@
       "rank": 6,
       "ms": 831503,
       "dish": "Sundaes"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 100,
+      "ms": 3245186,
+      "dish": "Fajitas"
     }
   ]
 }

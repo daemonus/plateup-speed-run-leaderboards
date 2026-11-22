@@ -4,8 +4,8 @@
   "names": [
     "ghostface\u0027s wife"
   ],
-  "runs": 3,
-  "bestRank": 182,
+  "runs": 4,
+  "bestRank": 119,
   "worstRank": 404,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 182,
       "ms": 3045269,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 119,
+      "ms": 3414654,
+      "dish": "Fajitas"
     }
   ]
 }
