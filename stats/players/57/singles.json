@@ -1586,6 +1586,32 @@
     ]
   },
   {
+    "id": "5766c06c-89ba-4b5c-ad5c-fe06b4627fcb",
+    "persona": "GUOZI",
+    "names": [
+      "GUOZI"
+    ],
+    "runs": 1,
+    "bestRank": 188,
+    "worstRank": 188,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4335788,
+    "weeksActive": [
+      97
+    ],
+    "history": [
+      {
+        "week": 97,
+        "start": "2026-11-16",
+        "rank": 188,
+        "ms": 4335788,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "5767469c-d091-4ff7-89ee-0139dff6fbdc",
     "persona": "Rua",
     "names": [
@@ -2346,8 +2372,8 @@
       "niu que"
     ],
     "runs": 1,
-    "bestRank": 204,
-    "worstRank": 204,
+    "bestRank": 213,
+    "worstRank": 213,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2359,7 +2385,7 @@
       {
         "week": 97,
         "start": "2026-11-16",
-        "rank": 204,
+        "rank": 213,
         "ms": 4916883,
         "dish": "Fajitas"
       }

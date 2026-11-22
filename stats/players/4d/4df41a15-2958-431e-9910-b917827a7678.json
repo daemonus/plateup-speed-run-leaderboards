@@ -4,8 +4,8 @@
   "names": [
     "MuleBin"
   ],
-  "runs": 2,
-  "bestRank": 304,
+  "runs": 3,
+  "bestRank": 239,
   "worstRank": 397,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 3640520,
   "weeksActive": [
     95,
-    96
+    96,
+    97
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 304,
       "ms": 3640520,
       "dish": "Pies"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 239,
+      "ms": 6424682,
+      "dish": "Fajitas"
     }
   ]
 }

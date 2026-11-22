@@ -4,7 +4,7 @@
   "names": [
     "ROA"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 46,
   "worstRank": 230,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     69,
     70,
     72,
-    95
+    95,
+    97
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 107,
       "ms": 2965207,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 138,
+      "ms": 3631038,
+      "dish": "Fajitas"
     }
   ]
 }

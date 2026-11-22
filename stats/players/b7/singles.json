@@ -312,6 +312,32 @@
     ]
   },
   {
+    "id": "b719c3e9-cf0a-45cb-8ef6-82b1708fa16c",
+    "persona": "dani_sc30",
+    "names": [
+      "dani_sc30"
+    ],
+    "runs": 1,
+    "bestRank": 205,
+    "worstRank": 205,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4740351,
+    "weeksActive": [
+      97
+    ],
+    "history": [
+      {
+        "week": 97,
+        "start": "2026-11-16",
+        "rank": 205,
+        "ms": 4740351,
+        "dish": "Fajitas"
+      }
+    ]
+  },
+  {
     "id": "b71a6445-7478-4e78-a25a-1617c37905c4",
     "persona": "Fish",
     "names": [
@@ -968,8 +994,8 @@
       "nictiong2003"
     ],
     "runs": 1,
-    "bestRank": 173,
-    "worstRank": 173,
+    "bestRank": 179,
+    "worstRank": 179,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -981,7 +1007,7 @@
       {
         "week": 97,
         "start": "2026-11-16",
-        "rank": 173,
+        "rank": 179,
         "ms": 4222828,
         "dish": "Fajitas"
       }
