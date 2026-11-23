@@ -4,8 +4,8 @@
   "names": [
     "nostalkersplzkthnxbye"
   ],
-  "runs": 48,
-  "bestRank": 18,
+  "runs": 49,
+  "bestRank": 17,
   "worstRank": 415,
   "firstPlaces": 0,
   "top3": 0,
@@ -59,7 +59,8 @@
     59,
     71,
     88,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -397,6 +398,13 @@
       "rank": 58,
       "ms": 2735697,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 17,
+      "ms": 2880012,
+      "dish": "Burgers"
     }
   ]
 }

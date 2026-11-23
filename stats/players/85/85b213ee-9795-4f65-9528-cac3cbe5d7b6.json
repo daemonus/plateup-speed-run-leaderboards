@@ -4,19 +4,20 @@
   "names": [
     "The Sabah"
   ],
-  "runs": 5,
-  "bestRank": 11,
+  "runs": 6,
+  "bestRank": 6,
   "worstRank": 164,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1665977,
   "weeksActive": [
     93,
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 11,
       "ms": 1745255,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 6,
+      "ms": 2033294,
+      "dish": "Burgers"
     }
   ]
 }

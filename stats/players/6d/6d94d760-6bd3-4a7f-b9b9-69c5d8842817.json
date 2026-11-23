@@ -4,12 +4,12 @@
   "names": [
     "Scotty2Hotty17"
   ],
-  "runs": 177,
+  "runs": 178,
   "bestRank": 2,
   "worstRank": 304,
   "firstPlaces": 0,
-  "top3": 3,
-  "top10": 37,
+  "top3": 4,
+  "top10": 38,
   "bestMs": 1130917,
   "weeksActive": [
     -94,
@@ -188,7 +188,8 @@
     93,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -1429,6 +1430,13 @@
       "rank": 34,
       "ms": 2265797,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 3,
+      "ms": 1817479,
+      "dish": "Burgers"
     }
   ]
 }

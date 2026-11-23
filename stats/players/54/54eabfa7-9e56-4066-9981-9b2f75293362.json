@@ -1,11 +1,12 @@
 {
   "id": "54eabfa7-9e56-4066-9981-9b2f75293362",
-  "persona": "\u8336\u7897\u84B8\u306D\u3053",
+  "persona": "\u8336\u7897\u84B8 Neko",
   "names": [
+    "\u8336\u7897\u84B8 Neko",
     "\u8336\u7897\u84B8\u306D\u3053"
   ],
-  "runs": 17,
-  "bestRank": 58,
+  "runs": 18,
+  "bestRank": 23,
   "worstRank": 304,
   "firstPlaces": 0,
   "top3": 0,
@@ -28,7 +29,8 @@
     23,
     30,
     31,
-    82
+    82,
+    98
   ],
   "history": [
     {
@@ -149,6 +151,13 @@
       "rank": 108,
       "ms": 2544908,
       "dish": "Pizza"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 23,
+      "ms": 3211654,
+      "dish": "Burgers"
     }
   ]
 }

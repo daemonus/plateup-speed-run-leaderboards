@@ -4,13 +4,13 @@
   "names": [
     "Chezy"
   ],
-  "runs": 11,
-  "bestRank": 13,
+  "runs": 12,
+  "bestRank": 1,
   "worstRank": 264,
-  "firstPlaces": 0,
-  "top3": 0,
-  "top10": 0,
-  "bestMs": 1750982,
+  "firstPlaces": 1,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1509196,
   "weeksActive": [
     87,
     88,
@@ -22,7 +22,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 45,
       "ms": 2472045,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 1,
+      "ms": 1509196,
+      "dish": "Burgers"
     }
   ]
 }

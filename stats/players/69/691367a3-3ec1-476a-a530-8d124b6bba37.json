@@ -4,8 +4,8 @@
   "names": [
     "stebe"
   ],
-  "runs": 16,
-  "bestRank": 33,
+  "runs": 17,
+  "bestRank": 11,
   "worstRank": 159,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     92,
     93,
     94,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 33,
       "ms": 2249682,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 11,
+      "ms": 2239482,
+      "dish": "Burgers"
     }
   ]
 }

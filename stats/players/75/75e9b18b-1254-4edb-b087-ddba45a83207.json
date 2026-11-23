@@ -4,8 +4,8 @@
   "names": [
     "artemisthegamer40"
   ],
-  "runs": 77,
-  "bestRank": 54,
+  "runs": 78,
+  "bestRank": 20,
   "worstRank": 278,
   "firstPlaces": 0,
   "top3": 0,
@@ -88,7 +88,8 @@
     91,
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -629,6 +630,13 @@
       "rank": 206,
       "ms": 3190089,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 20,
+      "ms": 2978965,
+      "dish": "Burgers"
     }
   ]
 }

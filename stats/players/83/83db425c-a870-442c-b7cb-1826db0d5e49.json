@@ -5,12 +5,12 @@
     "Professional Arse",
     "[VII] Cpt. Nezbus [6th Co.]"
   ],
-  "runs": 12,
-  "bestRank": 34,
+  "runs": 13,
+  "bestRank": 10,
   "worstRank": 286,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1245658,
   "weeksActive": [
     81,
@@ -24,7 +24,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -110,6 +111,13 @@
       "rank": 39,
       "ms": 2376622,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 10,
+      "ms": 2219725,
+      "dish": "Burgers"
     }
   ]
 }

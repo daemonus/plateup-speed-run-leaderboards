@@ -4,8 +4,8 @@
   "names": [
     "MrsMcGeek"
   ],
-  "runs": 85,
-  "bestRank": 58,
+  "runs": 86,
+  "bestRank": 27,
   "worstRank": 1469,
   "firstPlaces": 0,
   "top3": 0,
@@ -96,7 +96,8 @@
     83,
     92,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -693,6 +694,13 @@
       "rank": 194,
       "ms": 4423691,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 27,
+      "ms": 3731280,
+      "dish": "Burgers"
     }
   ]
 }

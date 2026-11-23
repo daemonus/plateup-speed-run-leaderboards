@@ -4,12 +4,12 @@
   "names": [
     "Samph"
   ],
-  "runs": 92,
-  "bestRank": 21,
+  "runs": 93,
+  "bestRank": 8,
   "worstRank": 729,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
+  "top10": 1,
   "bestMs": 1654520,
   "weeksActive": [
     -45,
@@ -103,7 +103,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -749,6 +750,13 @@
       "rank": 52,
       "ms": 2635741,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 8,
+      "ms": 2068119,
+      "dish": "Burgers"
     }
   ]
 }

@@ -4,19 +4,20 @@
   "names": [
     "sasongko"
   ],
-  "runs": 5,
-  "bestRank": 20,
+  "runs": 6,
+  "bestRank": 2,
   "worstRank": 231,
   "firstPlaces": 0,
-  "top3": 0,
-  "top10": 0,
-  "bestMs": 1791525,
+  "top3": 1,
+  "top10": 1,
+  "bestMs": 1697230,
   "weeksActive": [
     92,
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 38,
       "ms": 2370607,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 2,
+      "ms": 1697230,
+      "dish": "Burgers"
     }
   ]
 }
