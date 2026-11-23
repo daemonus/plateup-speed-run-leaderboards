@@ -4,7 +4,7 @@
   "names": [
     "omn9310"
   ],
-  "runs": 52,
+  "runs": 53,
   "bestRank": 2,
   "worstRank": 193,
   "firstPlaces": 0,
@@ -63,7 +63,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -429,6 +430,13 @@
       "rank": 28,
       "ms": 2122326,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 36,
+      "ms": 2824584,
+      "dish": "Burgers"
     }
   ]
 }

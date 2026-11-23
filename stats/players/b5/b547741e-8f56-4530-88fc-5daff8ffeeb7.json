@@ -4,8 +4,8 @@
   "names": [
     "Auyri"
   ],
-  "runs": 16,
-  "bestRank": 30,
+  "runs": 17,
+  "bestRank": 21,
   "worstRank": 617,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 71,
       "ms": 2959248,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 21,
+      "ms": 2515727,
+      "dish": "Burgers"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "7ac7233a-a74a-4311-a0a5-846ff68b52e5",
+  "persona": "Vento",
+  "names": [
+    "Vento"
+  ],
+  "runs": 2,
+  "bestRank": 60,
+  "worstRank": 177,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 4159571,
+  "weeksActive": [
+    97,
+    98
+  ],
+  "history": [
+    {
+      "week": 97,
+      "start": "2026-11-16",
+      "rank": 177,
+      "ms": 4159571,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 60,
+      "ms": 4208506,
+      "dish": "Burgers"
+    }
+  ]
+}

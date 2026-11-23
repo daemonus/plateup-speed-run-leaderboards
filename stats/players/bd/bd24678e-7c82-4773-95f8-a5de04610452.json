@@ -4,8 +4,8 @@
   "names": [
     "TheAngryDuck"
   ],
-  "runs": 4,
-  "bestRank": 175,
+  "runs": 5,
+  "bestRank": 56,
   "worstRank": 261,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     92,
     93,
     94,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 175,
       "ms": 3471650,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 56,
+      "ms": 3748844,
+      "dish": "Burgers"
     }
   ]
 }

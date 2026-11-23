@@ -4,8 +4,8 @@
   "names": [
     "Nightwalker"
   ],
-  "runs": 2,
-  "bestRank": 61,
+  "runs": 3,
+  "bestRank": 32,
   "worstRank": 176,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2308352,
   "weeksActive": [
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 61,
       "ms": 2308352,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 32,
+      "ms": 2754038,
+      "dish": "Burgers"
     }
   ]
 }

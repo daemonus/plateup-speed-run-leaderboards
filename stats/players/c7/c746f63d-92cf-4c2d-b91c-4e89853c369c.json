@@ -4,8 +4,8 @@
   "names": [
     "ernestkwyip"
   ],
-  "runs": 16,
-  "bestRank": 36,
+  "runs": 17,
+  "bestRank": 31,
   "worstRank": 163,
   "firstPlaces": 0,
   "top3": 0,
@@ -27,7 +27,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 73,
       "ms": 2978359,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 31,
+      "ms": 2727436,
+      "dish": "Burgers"
     }
   ]
 }

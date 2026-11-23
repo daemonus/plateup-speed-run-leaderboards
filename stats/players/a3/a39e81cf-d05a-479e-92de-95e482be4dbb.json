@@ -4,8 +4,8 @@
   "names": [
     "tanaka23145"
   ],
-  "runs": 33,
-  "bestRank": 84,
+  "runs": 34,
+  "bestRank": 44,
   "worstRank": 621,
   "firstPlaces": 0,
   "top3": 0,
@@ -44,7 +44,8 @@
     80,
     81,
     82,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -277,6 +278,13 @@
       "rank": 158,
       "ms": 3918315,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 44,
+      "ms": 3047827,
+      "dish": "Burgers"
     }
   ]
 }

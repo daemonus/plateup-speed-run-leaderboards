@@ -1690,6 +1690,32 @@
     ]
   },
   {
+    "id": "ba6d8e8c-78d9-43bd-a95d-9e77355cbf8c",
+    "persona": "\u015Airiu\u015F",
+    "names": [
+      "\u015Airiu\u015F"
+    ],
+    "runs": 1,
+    "bestRank": 48,
+    "worstRank": 48,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3243460,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 48,
+        "ms": 3243460,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "ba6e9c55-2d93-41f8-a67c-1304e5a1414a",
     "persona": "Sigma\u2122",
     "names": [
@@ -2476,8 +2502,8 @@
       "hachi"
     ],
     "runs": 1,
-    "bestRank": 25,
-    "worstRank": 25,
+    "bestRank": 51,
+    "worstRank": 51,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2489,7 +2515,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 25,
+        "rank": 51,
         "ms": 3417549,
         "dish": "Burgers"
       }

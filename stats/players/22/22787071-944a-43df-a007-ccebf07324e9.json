@@ -4,8 +4,8 @@
   "names": [
     "Beddy_Addict"
   ],
-  "runs": 11,
-  "bestRank": 80,
+  "runs": 12,
+  "bestRank": 35,
   "worstRank": 816,
   "firstPlaces": 0,
   "top3": 0,
@@ -22,7 +22,8 @@
     -34,
     -32,
     20,
-    22
+    22,
+    98
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 86,
       "ms": 2698587,
       "dish": "Breakfast"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 35,
+      "ms": 2814231,
+      "dish": "Burgers"
     }
   ]
 }

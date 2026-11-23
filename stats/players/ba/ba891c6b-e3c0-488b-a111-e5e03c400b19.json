@@ -4,7 +4,7 @@
   "names": [
     "Audy_157"
   ],
-  "runs": 18,
+  "runs": 19,
   "bestRank": 9,
   "worstRank": 87,
   "firstPlaces": 0,
@@ -29,7 +29,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -157,6 +158,13 @@
       "rank": 26,
       "ms": 2114355,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 19,
+      "ms": 2468990,
+      "dish": "Burgers"
     }
   ]
 }

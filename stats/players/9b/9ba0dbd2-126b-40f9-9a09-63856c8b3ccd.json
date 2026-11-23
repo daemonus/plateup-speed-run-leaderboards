@@ -4,8 +4,8 @@
   "names": [
     "bennet.stormfire"
   ],
-  "runs": 10,
-  "bestRank": 166,
+  "runs": 11,
+  "bestRank": 52,
   "worstRank": 705,
   "firstPlaces": 0,
   "top3": 0,
@@ -21,7 +21,8 @@
     93,
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 353,
       "ms": 3885580,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 52,
+      "ms": 3533886,
+      "dish": "Burgers"
     }
   ]
 }
