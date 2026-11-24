@@ -4,12 +4,12 @@
   "names": [
     "suzuka"
   ],
-  "runs": 11,
-  "bestRank": 7,
+  "runs": 12,
+  "bestRank": 4,
   "worstRank": 276,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 2,
+  "top10": 3,
   "bestMs": 1296597,
   "weeksActive": [
     19,
@@ -22,7 +22,8 @@
     39,
     93,
     94,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 12,
       "ms": 1672277,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 4,
+      "ms": 1592002,
+      "dish": "Burgers"
     }
   ]
 }

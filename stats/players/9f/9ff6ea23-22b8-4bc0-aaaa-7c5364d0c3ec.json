@@ -4,7 +4,7 @@
   "names": [
     "\u3070\u305F\u30FC"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 7,
   "worstRank": 21,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     79,
     82,
-    88
+    88,
+    98
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 7,
       "ms": 1369364,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 14,
+      "ms": 2068596,
+      "dish": "Burgers"
     }
   ]
 }

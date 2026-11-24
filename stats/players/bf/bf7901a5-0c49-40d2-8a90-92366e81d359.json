@@ -4,8 +4,8 @@
   "names": [
     "Arctic"
   ],
-  "runs": 2,
-  "bestRank": 43,
+  "runs": 3,
+  "bestRank": 27,
   "worstRank": 48,
   "firstPlaces": 0,
   "top3": 0,
@@ -13,7 +13,8 @@
   "bestMs": 2113406,
   "weeksActive": [
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 48,
       "ms": 2558515,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 27,
+      "ms": 2409888,
+      "dish": "Burgers"
     }
   ]
 }

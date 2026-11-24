@@ -5,12 +5,12 @@
     "Nepovezlo",
     "Stefan"
   ],
-  "runs": 84,
+  "runs": 85,
   "bestRank": 1,
   "worstRank": 170,
   "firstPlaces": 5,
   "top3": 20,
-  "top10": 62,
+  "top10": 63,
   "bestMs": 794980,
   "weeksActive": [
     -94,
@@ -96,7 +96,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -686,6 +687,13 @@
       "rank": 16,
       "ms": 1875225,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 5,
+      "ms": 1645258,
+      "dish": "Burgers"
     }
   ]
 }
