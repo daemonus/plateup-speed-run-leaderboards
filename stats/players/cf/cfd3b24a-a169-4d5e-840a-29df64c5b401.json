@@ -4,8 +4,8 @@
   "names": [
     "Killer_Squirrel"
   ],
-  "runs": 22,
-  "bestRank": 124,
+  "runs": 23,
+  "bestRank": 56,
   "worstRank": 432,
   "firstPlaces": 0,
   "top3": 0,
@@ -33,7 +33,8 @@
     92,
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -189,6 +190,13 @@
       "rank": 189,
       "ms": 3070413,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 56,
+      "ms": 3030757,
+      "dish": "Burgers"
     }
   ]
 }

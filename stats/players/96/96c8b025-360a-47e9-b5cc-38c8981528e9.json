@@ -4,7 +4,7 @@
   "names": [
     "frizzkitty"
   ],
-  "runs": 166,
+  "runs": 167,
   "bestRank": 10,
   "worstRank": 933,
   "firstPlaces": 0,
@@ -177,7 +177,8 @@
     91,
     92,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -1341,6 +1342,13 @@
       "rank": 34,
       "ms": 1970049,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 16,
+      "ms": 2310762,
+      "dish": "Burgers"
     }
   ]
 }

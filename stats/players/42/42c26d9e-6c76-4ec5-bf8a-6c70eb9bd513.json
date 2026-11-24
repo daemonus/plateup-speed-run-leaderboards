@@ -4,8 +4,8 @@
   "names": [
     "photonem"
   ],
-  "runs": 4,
-  "bestRank": 77,
+  "runs": 5,
+  "bestRank": 58,
   "worstRank": 593,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     92,
     93,
     94,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 79,
       "ms": 2411002,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 58,
+      "ms": 3052618,
+      "dish": "Burgers"
     }
   ]
 }

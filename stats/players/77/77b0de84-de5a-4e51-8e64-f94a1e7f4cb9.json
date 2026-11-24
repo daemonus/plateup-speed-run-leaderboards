@@ -4,8 +4,8 @@
   "names": [
     "Unknown"
   ],
-  "runs": 39,
-  "bestRank": 26,
+  "runs": 40,
+  "bestRank": 12,
   "worstRank": 492,
   "firstPlaces": 0,
   "top3": 0,
@@ -50,7 +50,8 @@
     79,
     80,
     85,
-    92
+    92,
+    98
   ],
   "history": [
     {
@@ -325,6 +326,13 @@
       "rank": 43,
       "ms": 2053324,
       "dish": "Fish"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 12,
+      "ms": 2183637,
+      "dish": "Burgers"
     }
   ]
 }

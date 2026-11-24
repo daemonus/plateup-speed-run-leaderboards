@@ -4,8 +4,8 @@
   "names": [
     "A"
   ],
-  "runs": 14,
-  "bestRank": 168,
+  "runs": 15,
+  "bestRank": 89,
   "worstRank": 642,
   "firstPlaces": 0,
   "top3": 0,
@@ -25,7 +25,8 @@
     35,
     38,
     92,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 168,
       "ms": 2987062,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 89,
+      "ms": 7085974,
+      "dish": "Burgers"
     }
   ]
 }

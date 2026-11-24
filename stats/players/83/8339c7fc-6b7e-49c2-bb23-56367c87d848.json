@@ -4,8 +4,8 @@
   "names": [
     "NITSIRKoy"
   ],
-  "runs": 24,
-  "bestRank": 36,
+  "runs": 25,
+  "bestRank": 31,
   "worstRank": 360,
   "firstPlaces": 0,
   "top3": 0,
@@ -35,7 +35,8 @@
     37,
     43,
     48,
-    89
+    89,
+    98
   ],
   "history": [
     {
@@ -205,6 +206,13 @@
       "rank": 94,
       "ms": 2684340,
       "dish": "Pizza"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 31,
+      "ms": 2548612,
+      "dish": "Burgers"
     }
   ]
 }

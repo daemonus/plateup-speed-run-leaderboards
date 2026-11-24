@@ -4,7 +4,7 @@
   "names": [
     "koumori144"
   ],
-  "runs": 34,
+  "runs": 35,
   "bestRank": 59,
   "worstRank": 339,
   "firstPlaces": 0,
@@ -45,7 +45,8 @@
     85,
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -285,6 +286,13 @@
       "rank": 63,
       "ms": 2314294,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 61,
+      "ms": 3194086,
+      "dish": "Burgers"
     }
   ]
 }

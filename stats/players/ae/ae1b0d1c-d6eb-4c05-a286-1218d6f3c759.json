@@ -4,8 +4,8 @@
   "names": [
     "\u7B39\u9326\u89AA\u65B9"
   ],
-  "runs": 100,
-  "bestRank": 46,
+  "runs": 101,
+  "bestRank": 37,
   "worstRank": 416,
   "firstPlaces": 0,
   "top3": 0,
@@ -111,7 +111,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -813,6 +814,13 @@
       "rank": 140,
       "ms": 3686504,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 37,
+      "ms": 2705365,
+      "dish": "Burgers"
     }
   ]
 }
