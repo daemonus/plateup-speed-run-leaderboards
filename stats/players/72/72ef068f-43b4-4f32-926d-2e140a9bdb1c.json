@@ -4,7 +4,7 @@
   "names": [
     "Corbinealious"
   ],
-  "runs": 34,
+  "runs": 35,
   "bestRank": 12,
   "worstRank": 325,
   "firstPlaces": 0,
@@ -45,7 +45,8 @@
     -50,
     -41,
     -34,
-    46
+    46,
+    98
   ],
   "history": [
     {
@@ -285,6 +286,13 @@
       "rank": 108,
       "ms": 2563605,
       "dish": "Pizza"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 36,
+      "ms": 2476418,
+      "dish": "Burgers"
     }
   ]
 }

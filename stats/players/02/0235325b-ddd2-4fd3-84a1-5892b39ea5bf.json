@@ -4,8 +4,8 @@
   "names": [
     "kirito123san"
   ],
-  "runs": 3,
-  "bestRank": 148,
+  "runs": 4,
+  "bestRank": 79,
   "worstRank": 434,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 148,
       "ms": 2874422,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 79,
+      "ms": 3159236,
+      "dish": "Burgers"
     }
   ]
 }

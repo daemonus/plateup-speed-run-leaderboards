@@ -4,20 +4,21 @@
   "names": [
     "ikutu192"
   ],
-  "runs": 6,
-  "bestRank": 14,
+  "runs": 7,
+  "bestRank": 9,
   "worstRank": 181,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 0,
-  "bestMs": 1797402,
+  "top10": 1,
+  "bestMs": 1715681,
   "weeksActive": [
     92,
     93,
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 14,
       "ms": 1797402,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 9,
+      "ms": 1715681,
+      "dish": "Burgers"
     }
   ]
 }

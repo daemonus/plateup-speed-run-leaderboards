@@ -4,13 +4,13 @@
   "names": [
     "a2beans"
   ],
-  "runs": 10,
-  "bestRank": 163,
+  "runs": 11,
+  "bestRank": 63,
   "worstRank": 656,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3022453,
+  "bestMs": 2867514,
   "weeksActive": [
     56,
     58,
@@ -21,7 +21,8 @@
     71,
     92,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -93,6 +94,13 @@
       "rank": 323,
       "ms": 3711740,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 63,
+      "ms": 2867514,
+      "dish": "Burgers"
     }
   ]
 }
