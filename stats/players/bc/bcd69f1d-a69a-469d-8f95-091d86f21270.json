@@ -4,7 +4,7 @@
   "names": [
     "pooks"
   ],
-  "runs": 16,
+  "runs": 17,
   "bestRank": 54,
   "worstRank": 354,
   "firstPlaces": 0,
@@ -27,7 +27,8 @@
     80,
     81,
     85,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -141,6 +142,13 @@
       "rank": 112,
       "ms": 2980209,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 83,
+      "ms": 3076701,
+      "dish": "Burgers"
     }
   ]
 }

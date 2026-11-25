@@ -4,16 +4,17 @@
   "names": [
     "bread03"
   ],
-  "runs": 2,
-  "bestRank": 326,
+  "runs": 3,
+  "bestRank": 115,
   "worstRank": 529,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 4585070,
+  "bestMs": 4065407,
   "weeksActive": [
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 529,
       "ms": 4929678,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 115,
+      "ms": 4065407,
+      "dish": "Burgers"
     }
   ]
 }

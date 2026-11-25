@@ -4,7 +4,7 @@
   "names": [
     "Dominant and Barren"
   ],
-  "runs": 66,
+  "runs": 67,
   "bestRank": 72,
   "worstRank": 1524,
   "firstPlaces": 0,
@@ -77,7 +77,8 @@
     88,
     89,
     90,
-    92
+    92,
+    98
   ],
   "history": [
     {
@@ -541,6 +542,13 @@
       "rank": 318,
       "ms": 3485382,
       "dish": "Fish"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 92,
+      "ms": 3215244,
+      "dish": "Burgers"
     }
   ]
 }

@@ -208,11 +208,19 @@
     "dish": "Burgers",
     "fastest": [
       {
+        "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
+        "persona": "spuff",
+        "ms": 1009103,
+        "week": 98,
+        "rank": 1,
+        "dish": "Burgers"
+      },
+      {
         "id": "05d020fc-b36b-42e9-b0cf-af463cff8c0c",
         "persona": "EvanDude0511",
         "ms": 1107716,
         "week": 98,
-        "rank": 1,
+        "rank": 2,
         "dish": "Burgers"
       },
       {
@@ -221,6 +229,14 @@
         "ms": 1123584,
         "week": -42,
         "rank": 1,
+        "dish": "Burgers"
+      },
+      {
+        "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+        "persona": "Hocktor",
+        "ms": 1229065,
+        "week": 98,
+        "rank": 3,
         "dish": "Burgers"
       },
       {
@@ -248,6 +264,14 @@
         "dish": "Burgers"
       },
       {
+        "id": "89b9b10d-6440-4eec-a285-c3da523767df",
+        "persona": "3mmber",
+        "ms": 1378397,
+        "week": 98,
+        "rank": 4,
+        "dish": "Burgers"
+      },
+      {
         "id": "91491637-102b-43df-ab74-2f5cc7760c71",
         "persona": "Eeeagle",
         "ms": 1401290,
@@ -268,7 +292,7 @@
         "persona": "Selene_Russell",
         "ms": 1431695,
         "week": 98,
-        "rank": 2,
+        "rank": 5,
         "dish": "Burgers"
       },
       {
@@ -332,7 +356,7 @@
         "persona": "sasongko",
         "ms": 1476703,
         "week": 98,
-        "rank": 3,
+        "rank": 6,
         "dish": "Burgers"
       },
       {
@@ -356,7 +380,7 @@
         "persona": "Chezy",
         "ms": 1509196,
         "week": 98,
-        "rank": 4,
+        "rank": 7,
         "dish": "Burgers"
       },
       {
@@ -380,31 +404,7 @@
         "persona": "\u5C11",
         "ms": 1547563,
         "week": 98,
-        "rank": 5,
-        "dish": "Burgers"
-      },
-      {
-        "id": "cabbd285-80e5-4080-9a04-8ce99106df0e",
-        "persona": "JazzBomb",
-        "ms": 1551895,
-        "week": -78,
-        "rank": 2,
-        "dish": "Burgers"
-      },
-      {
-        "id": "6997dd30-4585-41a8-845e-dce4cc534839",
-        "persona": "[Exil]VenousGorgon",
-        "ms": 1552072,
-        "week": -11,
-        "rank": 2,
-        "dish": "Burgers"
-      },
-      {
-        "id": "bd607634-dc45-4149-82ef-992c92a188e3",
-        "persona": "hacksaway",
-        "ms": 1581390,
-        "week": -60,
-        "rank": 2,
+        "rank": 8,
         "dish": "Burgers"
       }
     ]

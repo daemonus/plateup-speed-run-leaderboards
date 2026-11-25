@@ -4,7 +4,7 @@
   "names": [
     "sen"
   ],
-  "runs": 40,
+  "runs": 41,
   "bestRank": 17,
   "worstRank": 814,
   "firstPlaces": 0,
@@ -51,7 +51,8 @@
     78,
     79,
     92,
-    93
+    93,
+    98
   ],
   "history": [
     {
@@ -333,6 +334,13 @@
       "rank": 61,
       "ms": 2699142,
       "dish": "Salad"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 88,
+      "ms": 3178225,
+      "dish": "Burgers"
     }
   ]
 }

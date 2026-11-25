@@ -1,0 +1,34 @@
+{
+  "id": "fc869d2a-b35c-480d-92bb-90dd62ce38d6",
+  "persona": "Adman",
+  "names": [
+    "Adman"
+  ],
+  "runs": 2,
+  "bestRank": 122,
+  "worstRank": 144,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 3068880,
+  "weeksActive": [
+    94,
+    98
+  ],
+  "history": [
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 144,
+      "ms": 3068880,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 122,
+      "ms": 4345312,
+      "dish": "Burgers"
+    }
+  ]
+}

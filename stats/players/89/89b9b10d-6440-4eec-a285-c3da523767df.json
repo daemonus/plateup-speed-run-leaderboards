@@ -4,12 +4,12 @@
   "names": [
     "3mmber"
   ],
-  "runs": 40,
-  "bestRank": 7,
+  "runs": 41,
+  "bestRank": 4,
   "worstRank": 295,
   "firstPlaces": 0,
   "top3": 0,
-  "top10": 5,
+  "top10": 6,
   "bestMs": 892621,
   "weeksActive": [
     -64,
@@ -51,7 +51,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -333,6 +334,13 @@
       "rank": 15,
       "ms": 1809044,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 4,
+      "ms": 1378397,
+      "dish": "Burgers"
     }
   ]
 }
