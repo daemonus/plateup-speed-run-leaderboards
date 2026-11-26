@@ -4,7 +4,7 @@
   "names": [
     "BaddieBulldog"
   ],
-  "runs": 42,
+  "runs": 43,
   "bestRank": 33,
   "worstRank": 1413,
   "firstPlaces": 0,
@@ -53,7 +53,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -349,6 +350,13 @@
       "rank": 33,
       "ms": 2245686,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 58,
+      "ms": 2692971,
+      "dish": "Burgers"
     }
   ]
 }

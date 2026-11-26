@@ -4,7 +4,7 @@
   "names": [
     "y.kawaguchi0902"
   ],
-  "runs": 9,
+  "runs": 10,
   "bestRank": 117,
   "worstRank": 220,
   "firstPlaces": 0,
@@ -20,7 +20,8 @@
     -35,
     -34,
     -33,
-    4
+    4,
+    98
   ],
   "history": [
     {
@@ -85,6 +86,13 @@
       "rank": 117,
       "ms": 2817680,
       "dish": "Breakfast"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 126,
+      "ms": 4175686,
+      "dish": "Burgers"
     }
   ]
 }

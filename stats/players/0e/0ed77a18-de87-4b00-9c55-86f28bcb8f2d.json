@@ -4,8 +4,8 @@
   "names": [
     "Madafaka"
   ],
-  "runs": 13,
-  "bestRank": 241,
+  "runs": 14,
+  "bestRank": 135,
   "worstRank": 1188,
   "firstPlaces": 0,
   "top3": 0,
@@ -24,7 +24,8 @@
     8,
     10,
     21,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 250,
       "ms": 12973365,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 135,
+      "ms": 4613787,
+      "dish": "Burgers"
     }
   ]
 }

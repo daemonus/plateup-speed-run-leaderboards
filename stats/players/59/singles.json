@@ -2814,8 +2814,8 @@
       "segageno"
     ],
     "runs": 1,
-    "bestRank": 126,
-    "worstRank": 126,
+    "bestRank": 136,
+    "worstRank": 136,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2827,7 +2827,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 126,
+        "rank": 136,
         "ms": 4660292,
         "dish": "Burgers"
       }
@@ -2960,6 +2960,32 @@
         "rank": 303,
         "ms": 3992098,
         "dish": "Hot Dogs"
+      }
+    ]
+  },
+  {
+    "id": "59e70148-f56f-49c9-b977-0caae1e391cd",
+    "persona": "singcoi",
+    "names": [
+      "singcoi"
+    ],
+    "runs": 1,
+    "bestRank": 156,
+    "worstRank": 156,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 7761318,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 156,
+        "ms": 7761318,
+        "dish": "Burgers"
       }
     ]
   },
