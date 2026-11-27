@@ -4,8 +4,8 @@
   "names": [
     "Larive"
   ],
-  "runs": 3,
-  "bestRank": 210,
+  "runs": 4,
+  "bestRank": 200,
   "worstRank": 615,
   "firstPlaces": 0,
   "top3": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     92,
     95,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 210,
       "ms": 4887689,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 200,
+      "ms": 5399214,
+      "dish": "Burgers"
     }
   ]
 }

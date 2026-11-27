@@ -1976,6 +1976,32 @@
     ]
   },
   {
+    "id": "bd93727f-0e2c-4003-80dc-081181b4f774",
+    "persona": "\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C",
+    "names": [
+      "\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C\u9C7C"
+    ],
+    "runs": 1,
+    "bestRank": 207,
+    "worstRank": 207,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 6000270,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 207,
+        "ms": 6000270,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "bd9623f6-d24c-480c-bfb0-9acc433de5d8",
     "persona": "SanicTeam",
     "names": [
@@ -3256,8 +3282,8 @@
       "\u5C3C\u53E4\u62C9\u00B7\u53F6\u82E5\u592B"
     ],
     "runs": 1,
-    "bestRank": 179,
-    "worstRank": 179,
+    "bestRank": 194,
+    "worstRank": 194,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3269,7 +3295,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 179,
+        "rank": 194,
         "ms": 5097952,
         "dish": "Burgers"
       }

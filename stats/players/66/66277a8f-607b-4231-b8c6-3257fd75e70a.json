@@ -1,0 +1,34 @@
+{
+  "id": "66277a8f-607b-4231-b8c6-3257fd75e70a",
+  "persona": "cfe36265",
+  "names": [
+    "cfe36265"
+  ],
+  "runs": 2,
+  "bestRank": 201,
+  "worstRank": 1168,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 5500127,
+  "weeksActive": [
+    92,
+    98
+  ],
+  "history": [
+    {
+      "week": 92,
+      "start": "2026-10-12",
+      "rank": 1168,
+      "ms": 6575427,
+      "dish": "Fish"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 201,
+      "ms": 5500127,
+      "dish": "Burgers"
+    }
+  ]
+}

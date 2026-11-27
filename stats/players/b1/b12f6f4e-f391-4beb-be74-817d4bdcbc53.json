@@ -4,7 +4,7 @@
   "names": [
     "Jenny Cross"
   ],
-  "runs": 35,
+  "runs": 36,
   "bestRank": 71,
   "worstRank": 507,
   "firstPlaces": 0,
@@ -46,7 +46,8 @@
     61,
     62,
     89,
-    94
+    94,
+    98
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 220,
       "ms": 3558804,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 102,
+      "ms": 2967564,
+      "dish": "Burgers"
     }
   ]
 }

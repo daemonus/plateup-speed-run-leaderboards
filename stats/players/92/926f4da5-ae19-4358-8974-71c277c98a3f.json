@@ -4,16 +4,17 @@
   "names": [
     "\u6A58\u5EA7"
   ],
-  "runs": 2,
-  "bestRank": 396,
+  "runs": 3,
+  "bestRank": 202,
   "worstRank": 1224,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 6148375,
+  "bestMs": 5551734,
   "weeksActive": [
     88,
-    92
+    92,
+    98
   ],
   "history": [
     {
@@ -29,6 +30,13 @@
       "rank": 1224,
       "ms": 9621680,
       "dish": "Fish"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 202,
+      "ms": 5551734,
+      "dish": "Burgers"
     }
   ]
 }

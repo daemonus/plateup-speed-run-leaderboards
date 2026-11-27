@@ -5,16 +5,17 @@
     "Monchhichi",
     "Miss Wednesday"
   ],
-  "runs": 2,
-  "bestRank": 357,
+  "runs": 3,
+  "bestRank": 143,
   "worstRank": 399,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3733016,
+  "bestMs": 3558450,
   "weeksActive": [
     92,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -30,6 +31,13 @@
       "rank": 357,
       "ms": 3892980,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 143,
+      "ms": 3558450,
+      "dish": "Burgers"
     }
   ]
 }

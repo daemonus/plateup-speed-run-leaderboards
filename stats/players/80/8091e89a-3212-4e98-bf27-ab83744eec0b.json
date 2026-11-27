@@ -4,7 +4,7 @@
   "names": [
     "rocklyngatta"
   ],
-  "runs": 42,
+  "runs": 43,
   "bestRank": 39,
   "worstRank": 1231,
   "firstPlaces": 0,
@@ -53,7 +53,8 @@
     47,
     52,
     53,
-    88
+    88,
+    98
   ],
   "history": [
     {
@@ -349,6 +350,13 @@
       "rank": 74,
       "ms": 2534328,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 144,
+      "ms": 3656473,
+      "dish": "Burgers"
     }
   ]
 }

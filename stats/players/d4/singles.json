@@ -858,6 +858,32 @@
     ]
   },
   {
+    "id": "d449e642-aca3-443b-b20b-bcc55ea73d78",
+    "persona": "X",
+    "names": [
+      "X"
+    ],
+    "runs": 1,
+    "bestRank": 169,
+    "worstRank": 169,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4263984,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 169,
+        "ms": 4263984,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "d44a99eb-6e55-4b0b-9ab4-d5669a2c3f63",
     "persona": "\u6253\u5F97\u83DC\uFF08\u53D8\u6210\u9EC4\u732B\u7248\uFF09",
     "names": [
@@ -2684,8 +2710,8 @@
       "norine01"
     ],
     "runs": 1,
-    "bestRank": 177,
-    "worstRank": 177,
+    "bestRank": 192,
+    "worstRank": 192,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2697,7 +2723,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 177,
+        "rank": 192,
         "ms": 4963124,
         "dish": "Burgers"
       }

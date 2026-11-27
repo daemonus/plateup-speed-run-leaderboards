@@ -4,7 +4,7 @@
   "names": [
     "MyST"
   ],
-  "runs": 12,
+  "runs": 13,
   "bestRank": 55,
   "worstRank": 397,
   "firstPlaces": 0,
@@ -23,7 +23,8 @@
     92,
     93,
     94,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -109,6 +110,13 @@
       "rank": 122,
       "ms": 3075230,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 137,
+      "ms": 3426925,
+      "dish": "Burgers"
     }
   ]
 }

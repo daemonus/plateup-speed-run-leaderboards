@@ -4,7 +4,7 @@
   "names": [
     "Thekatiemc"
   ],
-  "runs": 38,
+  "runs": 39,
   "bestRank": 38,
   "worstRank": 2166,
   "firstPlaces": 0,
@@ -49,7 +49,8 @@
     57,
     58,
     70,
-    80
+    80,
+    98
   ],
   "history": [
     {
@@ -317,6 +318,13 @@
       "rank": 138,
       "ms": 2929515,
       "dish": "Pizza"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 72,
+      "ms": 2650619,
+      "dish": "Burgers"
     }
   ]
 }

@@ -1456,6 +1456,32 @@
     ]
   },
   {
+    "id": "237a8955-5fc9-4bba-9082-7476109f5426",
+    "persona": "astaro3",
+    "names": [
+      "astaro3"
+    ],
+    "runs": 1,
+    "bestRank": 37,
+    "worstRank": 37,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 2241933,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 37,
+        "ms": 2241933,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "237d3e28-0b4a-47e7-a264-903e2023c28f",
     "persona": "xXgamertagXx",
     "names": [
@@ -2268,8 +2294,8 @@
       "kiwi_75"
     ],
     "runs": 1,
-    "bestRank": 188,
-    "worstRank": 188,
+    "bestRank": 211,
+    "worstRank": 211,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -2281,7 +2307,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 188,
+        "rank": 211,
         "ms": 6884701,
         "dish": "Burgers"
       }
