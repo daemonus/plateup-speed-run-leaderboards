@@ -4,7 +4,7 @@
   "names": [
     "leseul69"
   ],
-  "runs": 6,
+  "runs": 7,
   "bestRank": 144,
   "worstRank": 872,
   "firstPlaces": 0,
@@ -17,7 +17,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 144,
       "ms": 3786734,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 145,
+      "ms": 4017860,
+      "dish": "Burgers"
     }
   ]
 }

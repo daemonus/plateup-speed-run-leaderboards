@@ -4,7 +4,7 @@
   "names": [
     "JazzBomb"
   ],
-  "runs": 101,
+  "runs": 102,
   "bestRank": 1,
   "worstRank": 55,
   "firstPlaces": 11,
@@ -112,7 +112,8 @@
     35,
     83,
     85,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -821,6 +822,13 @@
       "rank": 8,
       "ms": 1281565,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 15,
+      "ms": 1678900,
+      "dish": "Burgers"
     }
   ]
 }

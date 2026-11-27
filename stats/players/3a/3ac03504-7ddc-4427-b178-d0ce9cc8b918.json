@@ -1,0 +1,34 @@
+{
+  "id": "3ac03504-7ddc-4427-b178-d0ce9cc8b918",
+  "persona": "Mibs",
+  "names": [
+    "Mibs"
+  ],
+  "runs": 2,
+  "bestRank": 112,
+  "worstRank": 120,
+  "firstPlaces": 0,
+  "top3": 0,
+  "top10": 0,
+  "bestMs": 2904819,
+  "weeksActive": [
+    94,
+    98
+  ],
+  "history": [
+    {
+      "week": 94,
+      "start": "2026-10-26",
+      "rank": 120,
+      "ms": 2904819,
+      "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 112,
+      "ms": 3136905,
+      "dish": "Burgers"
+    }
+  ]
+}

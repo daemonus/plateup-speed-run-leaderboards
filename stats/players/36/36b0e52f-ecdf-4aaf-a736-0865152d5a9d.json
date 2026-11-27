@@ -4,7 +4,7 @@
   "names": [
     "JannelleDoesStuff"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 8,
   "worstRank": 65,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     -56,
     -55,
     -54,
-    -53
+    -53,
+    98
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 25,
       "ms": 2379065,
       "dish": "Breakfast"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 38,
+      "ms": 2316595,
+      "dish": "Burgers"
     }
   ]
 }

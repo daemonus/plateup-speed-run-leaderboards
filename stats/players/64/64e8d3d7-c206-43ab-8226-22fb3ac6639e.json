@@ -4,7 +4,7 @@
   "names": [
     "\u6709\u7EC6\u83CC"
   ],
-  "runs": 4,
+  "runs": 5,
   "bestRank": 134,
   "worstRank": 509,
   "firstPlaces": 0,
@@ -15,7 +15,8 @@
     -69,
     -65,
     83,
-    93
+    93,
+    98
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 267,
       "ms": 4087134,
       "dish": "Salad"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 162,
+      "ms": 4381425,
+      "dish": "Burgers"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "DntSh00tMeThere"
   ],
-  "runs": 102,
+  "runs": 103,
   "bestRank": 33,
   "worstRank": 409,
   "firstPlaces": 0,
@@ -113,7 +113,8 @@
     81,
     82,
     83,
-    84
+    84,
+    98
   ],
   "history": [
     {
@@ -829,6 +830,13 @@
       "rank": 148,
       "ms": 1752267,
       "dish": "Sundaes"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 88,
+      "ms": 2872964,
+      "dish": "Burgers"
     }
   ]
 }

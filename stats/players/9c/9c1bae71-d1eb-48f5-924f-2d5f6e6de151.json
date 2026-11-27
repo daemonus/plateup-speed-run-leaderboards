@@ -4,7 +4,7 @@
   "names": [
     "BlueOrchid"
   ],
-  "runs": 20,
+  "runs": 21,
   "bestRank": 68,
   "worstRank": 1260,
   "firstPlaces": 0,
@@ -31,7 +31,8 @@
     8,
     43,
     53,
-    56
+    56,
+    98
   ],
   "history": [
     {
@@ -173,6 +174,13 @@
       "rank": 201,
       "ms": 1892724,
       "dish": "Sundaes"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 110,
+      "ms": 3112494,
+      "dish": "Burgers"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "That_Knight"
   ],
-  "runs": 8,
+  "runs": 9,
   "bestRank": 122,
   "worstRank": 483,
   "firstPlaces": 0,
@@ -19,7 +19,8 @@
     86,
     89,
     91,
-    93
+    93,
+    98
   ],
   "history": [
     {
@@ -77,6 +78,13 @@
       "rank": 189,
       "ms": 3571557,
       "dish": "Salad"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 124,
+      "ms": 3288448,
+      "dish": "Burgers"
     }
   ]
 }

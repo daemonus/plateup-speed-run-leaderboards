@@ -129,6 +129,14 @@
       "dish": "Sundaes"
     },
     {
+      "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+      "persona": "Hocktor",
+      "ms": 843068,
+      "week": 98,
+      "rank": 1,
+      "dish": "Burgers"
+    },
+    {
       "id": "dab9c81a-5d32-4880-996d-46a9fd7311ef",
       "persona": "flipped bits",
       "ms": 843176,
@@ -167,14 +175,6 @@
       "week": 84,
       "rank": 9,
       "dish": "Sundaes"
-    },
-    {
-      "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
-      "persona": "Hocktor",
-      "ms": 859214,
-      "week": 94,
-      "rank": 3,
-      "dish": "Fajitas"
     },
     {
       "id": "d3cb9d6b-151e-49af-9547-0cc53179ef4b",
@@ -293,11 +293,6 @@
       "count": 4
     },
     {
-      "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
-      "persona": "spuff",
-      "count": 2
-    },
-    {
       "id": "726f087a-88a2-439c-8de2-7934aa186a4f",
       "persona": "HydraBurrito",
       "count": 2
@@ -313,6 +308,11 @@
       "count": 2
     },
     {
+      "id": "ea3bbfa4-c490-4990-b294-4836c5af47e2",
+      "persona": "Hocktor",
+      "count": 2
+    },
+    {
       "id": "10c8ef99-997c-4b5e-9548-867f97217839",
       "persona": "smolminy",
       "count": 1
@@ -323,8 +323,8 @@
       "count": 1
     },
     {
-      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
-      "persona": "ducttapegirl369",
+      "id": "3438b848-d113-4352-8a3b-01bc4ffa76a3",
+      "persona": "spuff",
       "count": 1
     }
   ],
@@ -342,7 +342,7 @@
     {
       "id": "02f3933c-10ef-483d-89f6-ffa625d9423e",
       "persona": "Nepovezlo",
-      "count": 63
+      "count": 62
     },
     {
       "id": "67491073-cb51-4d50-a8ea-67cab90425d9",
@@ -440,18 +440,18 @@
       "count": 23
     },
     {
-      "id": "01311f25-54f7-4bc5-88ba-23d3826f1c3d",
-      "persona": "Robin",
-      "count": 21
-    },
-    {
-      "id": "4a70321e-2716-4a20-8522-419f8e1fc741",
-      "persona": "ducttapegirl369",
-      "count": 21
-    },
-    {
       "id": "69d68c40-d1d6-49b4-9cc5-8025d941ae25",
       "persona": "onom_nom",
+      "count": 22
+    },
+    {
+      "id": "7b119ad6-3737-4b5a-bc29-730fc8c959c8",
+      "persona": "Fangz_88",
+      "count": 22
+    },
+    {
+      "id": "01311f25-54f7-4bc5-88ba-23d3826f1c3d",
+      "persona": "Robin",
       "count": 21
     }
   ],

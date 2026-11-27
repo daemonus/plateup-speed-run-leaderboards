@@ -500,8 +500,8 @@
       "MoLee"
     ],
     "runs": 1,
-    "bestRank": 124,
-    "worstRank": 124,
+    "bestRank": 150,
+    "worstRank": 150,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -513,7 +513,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 124,
+        "rank": 150,
         "ms": 4088055,
         "dish": "Burgers"
       }
@@ -2028,6 +2028,32 @@
     ]
   },
   {
+    "id": "f28e6e7c-af15-4e5e-8e84-6b364541ff37",
+    "persona": "vanillaF*G",
+    "names": [
+      "vanillaF*G"
+    ],
+    "runs": 1,
+    "bestRank": 141,
+    "worstRank": 141,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 3791084,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 141,
+        "ms": 3791084,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "f28ecbd5-6954-4a50-8f59-615dadaaebb6",
     "persona": "Blad",
     "names": [
@@ -3256,8 +3282,8 @@
       "MacxPL"
     ],
     "runs": 1,
-    "bestRank": 141,
-    "worstRank": 141,
+    "bestRank": 172,
+    "worstRank": 172,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -3269,7 +3295,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 141,
+        "rank": 172,
         "ms": 4720165,
         "dish": "Burgers"
       }

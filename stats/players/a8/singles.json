@@ -546,6 +546,32 @@
     ]
   },
   {
+    "id": "a81cf7b0-5ada-462b-8600-22e26e8368cf",
+    "persona": "iiDog",
+    "names": [
+      "iiDog"
+    ],
+    "runs": 1,
+    "bestRank": 159,
+    "worstRank": 159,
+    "firstPlaces": 0,
+    "top3": 0,
+    "top10": 0,
+    "bestMs": 4303180,
+    "weeksActive": [
+      98
+    ],
+    "history": [
+      {
+        "week": 98,
+        "start": "2026-11-23",
+        "rank": 159,
+        "ms": 4303180,
+        "dish": "Burgers"
+      }
+    ]
+  },
+  {
     "id": "a81ec828-04c0-4741-b05a-0f880148ee6e",
     "persona": "andromache",
     "names": [
@@ -682,8 +708,8 @@
       "Alyosha"
     ],
     "runs": 1,
-    "bestRank": 117,
-    "worstRank": 117,
+    "bestRank": 140,
+    "worstRank": 140,
     "firstPlaces": 0,
     "top3": 0,
     "top10": 0,
@@ -695,7 +721,7 @@
       {
         "week": 98,
         "start": "2026-11-23",
-        "rank": 117,
+        "rank": 140,
         "ms": 3764586,
         "dish": "Burgers"
       }

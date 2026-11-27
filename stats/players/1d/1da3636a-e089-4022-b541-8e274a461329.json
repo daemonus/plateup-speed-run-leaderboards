@@ -4,8 +4,8 @@
   "names": [
     "yevfurman"
   ],
-  "runs": 17,
-  "bestRank": 66,
+  "runs": 18,
+  "bestRank": 64,
   "worstRank": 555,
   "firstPlaces": 0,
   "top3": 0,
@@ -28,7 +28,8 @@
     94,
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -149,6 +150,13 @@
       "rank": 88,
       "ms": 3116779,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 64,
+      "ms": 2633562,
+      "dish": "Burgers"
     }
   ]
 }

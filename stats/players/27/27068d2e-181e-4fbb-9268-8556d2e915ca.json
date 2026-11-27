@@ -4,7 +4,7 @@
   "names": [
     "Goblin"
   ],
-  "runs": 5,
+  "runs": 6,
   "bestRank": 71,
   "worstRank": 281,
   "firstPlaces": 0,
@@ -16,7 +16,8 @@
     50,
     53,
     90,
-    95
+    95,
+    98
   ],
   "history": [
     {
@@ -53,6 +54,13 @@
       "rank": 95,
       "ms": 2895756,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 86,
+      "ms": 2860775,
+      "dish": "Burgers"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "names": [
     "Chewbecca"
   ],
-  "runs": 11,
+  "runs": 12,
   "bestRank": 27,
   "worstRank": 237,
   "firstPlaces": 0,
@@ -22,7 +22,8 @@
     84,
     88,
     89,
-    91
+    91,
+    98
   ],
   "history": [
     {
@@ -101,6 +102,13 @@
       "rank": 89,
       "ms": 3070232,
       "dish": "Hot Dogs"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 51,
+      "ms": 2503408,
+      "dish": "Burgers"
     }
   ]
 }

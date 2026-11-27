@@ -4,7 +4,7 @@
   "names": [
     "elleu"
   ],
-  "runs": 13,
+  "runs": 14,
   "bestRank": 56,
   "worstRank": 200,
   "firstPlaces": 0,
@@ -24,7 +24,8 @@
     70,
     75,
     78,
-    86
+    86,
+    98
   ],
   "history": [
     {
@@ -117,6 +118,13 @@
       "rank": 102,
       "ms": 1661040,
       "dish": "Sundaes"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 81,
+      "ms": 2779677,
+      "dish": "Burgers"
     }
   ]
 }

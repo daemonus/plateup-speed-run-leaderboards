@@ -4,12 +4,12 @@
   "names": [
     "Fangz_88"
   ],
-  "runs": 35,
+  "runs": 36,
   "bestRank": 1,
   "worstRank": 42,
   "firstPlaces": 12,
-  "top3": 15,
-  "top10": 21,
+  "top3": 16,
+  "top10": 22,
   "bestMs": 589532,
   "weeksActive": [
     -94,
@@ -46,7 +46,8 @@
     79,
     83,
     85,
-    87
+    87,
+    98
   ],
   "history": [
     {
@@ -293,6 +294,13 @@
       "rank": 2,
       "ms": 1062754,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 2,
+      "ms": 895303,
+      "dish": "Burgers"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "names": [
     "north"
   ],
-  "runs": 4,
-  "bestRank": 224,
+  "runs": 5,
+  "bestRank": 175,
   "worstRank": 482,
   "firstPlaces": 0,
   "top3": 0,
@@ -15,7 +15,8 @@
     19,
     20,
     72,
-    73
+    73,
+    98
   ],
   "history": [
     {
@@ -44,6 +45,13 @@
       "start": "2026-06-01",
       "rank": 224,
       "ms": 3726572,
+      "dish": "Burgers"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 175,
+      "ms": 4801652,
       "dish": "Burgers"
     }
   ]
