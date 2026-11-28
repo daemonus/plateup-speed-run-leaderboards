@@ -4,7 +4,7 @@
   "names": [
     "Rattgirl"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 58,
   "worstRank": 328,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     38,
     40,
-    46
+    46,
+    98
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 110,
       "ms": 2591008,
       "dish": "Pizza"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 115,
+      "ms": 3050076,
+      "dish": "Burgers"
     }
   ]
 }

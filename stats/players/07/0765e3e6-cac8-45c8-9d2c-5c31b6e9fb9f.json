@@ -4,7 +4,7 @@
   "names": [
     "Mstryoda"
   ],
-  "runs": 27,
+  "runs": 28,
   "bestRank": 105,
   "worstRank": 852,
   "firstPlaces": 0,
@@ -38,7 +38,8 @@
     69,
     70,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -229,6 +230,13 @@
       "rank": 105,
       "ms": 3264687,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 149,
+      "ms": 3626279,
+      "dish": "Burgers"
     }
   ]
 }

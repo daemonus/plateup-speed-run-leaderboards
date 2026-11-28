@@ -4,18 +4,19 @@
   "names": [
     "cephalopod36"
   ],
-  "runs": 4,
-  "bestRank": 171,
+  "runs": 5,
+  "bestRank": 122,
   "worstRank": 506,
   "firstPlaces": 0,
   "top3": 0,
   "top10": 0,
-  "bestMs": 3462759,
+  "bestMs": 3144710,
   "weeksActive": [
     -61,
     -23,
     47,
-    75
+    75,
+    98
   ],
   "history": [
     {
@@ -45,6 +46,13 @@
       "rank": 297,
       "ms": 4349104,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 122,
+      "ms": 3144710,
+      "dish": "Burgers"
     }
   ]
 }

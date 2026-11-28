@@ -4,7 +4,7 @@
   "names": [
     "Vestalia"
   ],
-  "runs": 14,
+  "runs": 15,
   "bestRank": 73,
   "worstRank": 225,
   "firstPlaces": 0,
@@ -25,7 +25,8 @@
     63,
     65,
     68,
-    84
+    84,
+    98
   ],
   "history": [
     {
@@ -125,6 +126,13 @@
       "rank": 143,
       "ms": 1738201,
       "dish": "Sundaes"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 90,
+      "ms": 2837248,
+      "dish": "Burgers"
     }
   ]
 }

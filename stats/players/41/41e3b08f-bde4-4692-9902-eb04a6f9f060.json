@@ -4,8 +4,8 @@
   "names": [
     "maxene"
   ],
-  "runs": 6,
-  "bestRank": 103,
+  "runs": 7,
+  "bestRank": 88,
   "worstRank": 175,
   "firstPlaces": 0,
   "top3": 0,
@@ -17,7 +17,8 @@
     93,
     94,
     95,
-    96
+    96,
+    98
   ],
   "history": [
     {
@@ -61,6 +62,13 @@
       "rank": 159,
       "ms": 2931619,
       "dish": "Pies"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 88,
+      "ms": 2820950,
+      "dish": "Burgers"
     }
   ]
 }

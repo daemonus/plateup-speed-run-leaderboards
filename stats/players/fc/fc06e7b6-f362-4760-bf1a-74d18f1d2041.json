@@ -4,7 +4,7 @@
   "names": [
     "Emotionlessgranolabar"
   ],
-  "runs": 3,
+  "runs": 4,
   "bestRank": 141,
   "worstRank": 316,
   "firstPlaces": 0,
@@ -14,7 +14,8 @@
   "weeksActive": [
     95,
     96,
-    97
+    97,
+    98
   ],
   "history": [
     {
@@ -37,6 +38,13 @@
       "rank": 141,
       "ms": 3688044,
       "dish": "Fajitas"
+    },
+    {
+      "week": 98,
+      "start": "2026-11-23",
+      "rank": 160,
+      "ms": 3914712,
+      "dish": "Burgers"
     }
   ]
 }
